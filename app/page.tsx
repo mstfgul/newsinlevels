@@ -1,57 +1,47 @@
 import {
   getArtIndex,
-  getArticle,
+  getFilmIndex,
   getHistoryIndex,
   getIndex,
   getQuoteIndex,
 } from "@/lib/data";
-import { ArtTeaser } from "@/components/ArtTeaser";
-import { HomeView } from "@/components/HomeView";
-import { TodayExtras } from "@/components/TodayExtras";
+import { TodayDesk } from "@/components/TodayDesk";
 
 function formatDateline(date: string): string {
-  return new Date(`${date}T12:00:00Z`)
-    .toLocaleDateString("en-GB", {
-      weekday: "long",
-      day: "numeric",
-      month: "long",
-      year: "numeric",
-    })
-    .toUpperCase();
+  return new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  });
 }
 
 export default function Home() {
-  const entries = getIndex();
-  const artEntries = getArtIndex();
-  const quoteEntries = getQuoteIndex();
-  const historyEntries = getHistoryIndex();
+  const news = getIndex()[0];
+  const art = getArtIndex()[0];
+  const film = getFilmIndex()[0];
+  const quote = getQuoteIndex()[0];
+  const history = getHistoryIndex()[0];
 
-  if (entries.length === 0) {
+  if (!news && !art && !film && !quote && !history) {
     return (
       <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">
-        No articles yet — the daily pipeline will add them soon.
+        Nothing on the desk yet — the daily pipelines will leave the first
+        pages soon.
       </p>
     );
   }
 
-  const [lead] = entries;
-  const leadArticle = getArticle(lead.id);
-
   return (
-    <div>
-      <div className="mb-6 flex items-baseline justify-between gap-4">
-        <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
-          {formatDateline(lead.date)}
-        </p>
-        <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
-          {entries.length} {entries.length === 1 ? "story" : "stories"}
-        </p>
-      </div>
-
-      <HomeView leadArticle={leadArticle} entries={entries} />
-
-      {artEntries.length > 0 && <ArtTeaser entry={artEntries[0]} />}
-      <TodayExtras quote={quoteEntries[0]} history={historyEntries[0]} />
+    <div className="flex min-h-[calc(100dvh-17rem)] flex-col justify-center lg:relative lg:left-1/2 lg:w-[min(calc(100vw-3rem),64rem)] lg:-translate-x-1/2">
+      <TodayDesk
+        news={news}
+        art={art}
+        film={film}
+        quote={quote}
+        history={history}
+        dateline={news ? formatDateline(news.date) : undefined}
+      />
     </div>
   );
 }
