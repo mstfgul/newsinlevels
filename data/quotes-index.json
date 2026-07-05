@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-05-jane-austen-it-will-i-believe-be-everywher",
+    "date": "2026-07-05",
+    "author": "Jane Austen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/330px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
+    "titles": {
+      "en": "it will, I believe, be everywhere found, that as the clergy are, or are not what they ought to be, so are the rest of the nation.",
+      "de": "Es wird, glaube ich, überall gefunden werden, dass, wie die Geistlichkeit ist oder nicht, so auch der Rest der Nation ist.",
+      "fr": "il sera, je crois, trouvé partout, que selon que le clergé est, ou n'est pas ce qu'il devrait être, ainsi sont le reste de la nation.",
+      "tr": "her yerde bulunacak, din adamları nasıl olursa, ulus da öyledir."
+    }
+  },
+  {
     "id": "2026-07-05-leo-tolstoy-it-is-terrible-when-people-do-",
     "date": "2026-07-05",
     "author": "Leo Tolstoy",
