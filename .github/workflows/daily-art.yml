@@ -39,5 +39,7 @@ jobs:
             echo "No new artwork."
           else
             git commit -m "art: daily artwork $(date -u +%F)"
+            # The branch may have moved while we were generating — rebase, then push.
+            git pull --rebase origin main
             git push
           fi

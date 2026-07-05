@@ -44,5 +44,7 @@ jobs:
             echo "No new articles."
           else
             git commit -m "news: daily articles $(date -u +%F)"
+            # The branch may have moved while we were generating — rebase, then push.
+            git pull --rebase origin main
             git push
           fi
