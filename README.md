@@ -29,14 +29,15 @@ sayfasındaki **Compare** düğmesi aynı haberi iki seviyede veya iki dilde yan
 BBC RSS ──► pipeline/fetch-news.mjs ──► OpenAI (dil × seviye) ──► data/*.json
                     ▲                                                │
         GitHub Actions (her gün 05:00 UTC)                           ▼
-                                                    Next.js statik site ──► GitHub Pages
+                                              Next.js (Vercel) ──► push'ta otomatik deploy
 ```
 
 - **`pipeline/fetch-news.mjs`** — RSS'ten haber seçer, tam metni çıkarır, her dil için
   tek OpenAI çağrısıyla 6 seviyeyi ve kelime listelerini üretir (haber başına 3 çağrı).
 - **`data/`** — üretilen makaleler (`articles/*.json`), liste (`index.json`) ve
   işlenmiş URL kaydı (`processed.json`). Actions bunları repoya commit eder.
-- **`app/`** — Next.js (statik export). Dil ve seviye seçimi tarayıcıda anında değişir,
+- **`app/`** — Next.js (Vercel'de sunulur). İçerik veriden SSG ile üretilir; bir bölüm
+  boşken bile site sorunsuz build olur. Dil ve seviye seçimi tarayıcıda anında değişir,
   tercihler localStorage'da saklanır.
 - **`pipeline/fetch-art.mjs`** — The Met Open Access API'sinden rastgele kamu malı bir
   tablo seçer, sanatçının Wikipedia özetiyle zemin hazırlar ve görseli modele gösterip
