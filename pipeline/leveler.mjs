@@ -88,7 +88,9 @@ SOURCE TITLE: ${sourceTitle}
 
 SOURCE ARTICLE:
 ${sourceText}`,
-    art: `Look carefully at the painting in the image and write an analysis of it in ${langName} at each CEFR level. Describe what the viewer actually sees — scene, colors, light, composition, brushwork — and weave in the artist and historical context using ONLY the facts provided below. Do not invent facts, dates or anecdotes. Follow these level constraints strictly:
+    art: `Look carefully at the painting in the image and write an INTERPRETIVE analysis of it in ${langName} at each CEFR level. Do not merely describe what is visible. Use the visual details (scene, colour, light, composition, brushwork) as evidence for a reading of the work: what does it mean, what mood or idea does it convey, what were the artist's choices trying to achieve, and how does it sit within its art-historical moment and style/movement? Interpret its significance and, where relevant, its symbolism.
+
+Ground all biographical and historical claims ONLY in the facts provided below — do not invent dates, events or anecdotes. Art-historical interpretation and reasoned reading of the image are welcome; fabricated facts are not. Even at the simplest levels, go beyond "what we see" to "what it means". Follow these level constraints strictly:
 ${LEVEL_SPECS}
 ${SHARED_INSTRUCTIONS(langName)}
 
