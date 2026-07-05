@@ -43,11 +43,9 @@ export interface Article {
   source: { name: string; url: string };
   originalTitle: string;
   image?: string;
-  category?: Category | "art" | "fiction" | "history";
+  category?: Category | "art" | "history";
   // Present on gallery entries: the artwork behind the analysis.
   art?: { artist: string; title: string; year: string; medium: string };
-  // Present on story chapters: which classic and which part this is.
-  story?: { title: string; author: string; part: number; totalParts: number };
   // Present on on-this-day capsules: the year the event happened.
   history?: { year: number };
   // Older articles may lack recently added languages — resolve with a fallback.
@@ -71,16 +69,6 @@ export interface ArtIndexEntry {
   artist: string;
   image: string;
   // B1 title per language; English is always present.
-  titles: Partial<Record<Language, string>> & Record<"en", string>;
-}
-
-export interface StoryIndexEntry {
-  id: string;
-  date: string;
-  story: string;
-  author: string;
-  part: number;
-  totalParts: number;
   titles: Partial<Record<Language, string>> & Record<"en", string>;
 }
 

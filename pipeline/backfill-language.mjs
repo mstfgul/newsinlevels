@@ -37,10 +37,6 @@ const TARGETS = [
     indexFile: path.join(ROOT, "data", "art-index.json"),
   },
   {
-    dir: path.join(ROOT, "data", "stories"),
-    indexFile: path.join(ROOT, "data", "stories-index.json"),
-  },
-  {
     dir: path.join(ROOT, "data", "history"),
     indexFile: path.join(ROOT, "data", "history-index.json"),
   },
@@ -62,11 +58,9 @@ for (const target of TARGETS) {
       console.log(`Backfilling ${LANGUAGES[lang]} for: ${article.originalTitle}`);
       const options = article.art
         ? { kind: "art", imageUrl: article.image }
-        : article.story
-          ? { kind: "story" }
-          : article.history
-            ? { kind: "history" }
-            : {};
+        : article.history
+          ? { kind: "history" }
+          : {};
       // The English B2 text is the closest thing to the original source we keep.
       article.languages[lang] = await generateLanguageVersions(
         openai,
@@ -93,7 +87,7 @@ for (const target of TARGETS) {
       if (indexEntry) {
         indexEntry.titles[lang] = article.languages[lang].B1.title;
         // Only the news index carries a category column.
-        if (!article.art && !article.story && !article.history) {
+        if (!article.art && !article.history) {
           indexEntry.category = article.category;
         }
       }

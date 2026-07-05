@@ -5,7 +5,6 @@ import type {
   Article,
   HistoryIndexEntry,
   IndexEntry,
-  StoryIndexEntry,
 } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "data");
@@ -31,18 +30,6 @@ export function getArtIndex(): ArtIndexEntry[] {
 
 export function getArtwork(id: string): Article {
   const file = path.join(DATA_DIR, "art", `${id}.json`);
-  return JSON.parse(fs.readFileSync(file, "utf8"));
-}
-
-export function getStoryIndex(): StoryIndexEntry[] {
-  const file = path.join(DATA_DIR, "stories-index.json");
-  if (!fs.existsSync(file)) return [];
-  const entries: StoryIndexEntry[] = JSON.parse(fs.readFileSync(file, "utf8"));
-  return entries.sort((a, b) => b.date.localeCompare(a.date));
-}
-
-export function getStoryPart(id: string): Article {
-  const file = path.join(DATA_DIR, "stories", `${id}.json`);
   return JSON.parse(fs.readFileSync(file, "utf8"));
 }
 

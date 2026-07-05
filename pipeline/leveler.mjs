@@ -56,7 +56,6 @@ Return JSON with exactly this shape:
  * kind "news":    rewrites a news article.
  * kind "art":     writes an analysis of a painting — pass options.imageUrl so
  *                 the model can actually look at it.
- * kind "story":   retells one part of a classic public-domain story.
  * kind "history": writes a capsule about an on-this-day historical event.
  */
 export async function generateLanguageVersions(
@@ -72,7 +71,6 @@ export async function generateLanguageVersions(
   const SYSTEMS = {
     news: `You are an expert ${langName} teacher and news editor. You rewrite real news articles in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
     art: `You are an art historian and expert ${langName} teacher. You write engaging analyses of paintings in ${langName} at all six CEFR levels so learners can enjoy the same artwork at their own level. You always answer with valid JSON only.`,
-    story: `You are a storyteller and expert ${langName} teacher. You retell classic public-domain stories in ${langName} at all six CEFR levels so learners can enjoy the same tale at their own level. You always answer with valid JSON only.`,
     history: `You are a historian and expert ${langName} teacher. You write vivid capsules about historical events in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
   };
 
@@ -94,16 +92,6 @@ ${SHARED_INSTRUCTIONS(langName)}
 ARTWORK: ${sourceTitle}
 
 FACTS:
-${sourceText}`,
-    story: `Retell ONE part of a classic story in ${langName} at each CEFR level, following the brief below. Cover only the events of THIS part; every level tells the same events. If it is not the final part, end on a gentle note of suspense. Use a literary storytelling register (not journalistic) while keeping each level's constraints:
-${LEVEL_SPECS}
-
-Give each level's version its own short, evocative chapter title.
-${SHARED_INSTRUCTIONS(langName)}
-
-STORY: ${sourceTitle}
-
-BRIEF:
 ${sourceText}`,
     history: `Write a vivid capsule in ${langName} about the historical event below — what happened, why it mattered, and what it led to — at each CEFR level. Stick strictly to the facts provided; do not invent details, numbers or quotes. Follow these level constraints:
 ${LEVEL_SPECS}
