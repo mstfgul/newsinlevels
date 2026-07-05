@@ -1,5 +1,5 @@
 /**
- * Weekly film pipeline.
+ * Daily film pipeline.
  *
  * 1. Asks the model to pick an art-house / cult / philosophically rich film
  *    that hasn't been featured before (data/films-processed.json).
@@ -61,7 +61,7 @@ async function pickFilm(openai, exclusions) {
     messages: [
       {
         role: "user",
-        content: `Pick ONE feature film for a weekly art-film club: art-house, cult or philosophically rich cinema — the kind of film cinephiles call essential. Any country, any era; over time the club should wander across decades, languages and directors (Tarkovsky to Varda, Ozu to Lynch), so avoid the obvious pick if a more surprising one is just as strong.
+        content: `Pick ONE feature film for a daily art-film club: art-house, cult or philosophically rich cinema — the kind of film cinephiles call essential. Any country, any era; over time the club should wander across decades, languages and directors (Tarkovsky to Varda, Ozu to Lynch), so avoid the obvious pick if a more surprising one is just as strong.
 
 Do NOT pick any of these (already featured or unavailable):
 ${exclusions.join("\n") || "(none yet)"}

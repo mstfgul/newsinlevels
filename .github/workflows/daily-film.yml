@@ -1,15 +1,15 @@
-name: Weekly film pipeline
+name: Daily film pipeline
 
 on:
   schedule:
-    - cron: "0 6 * * 1" # every Monday at 06:00 UTC
+    - cron: "30 6 * * *" # every day at 06:30 UTC, after the quote run
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: weekly-film
+  group: daily-film
   cancel-in-progress: false
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
           cache: npm
 
       - run: npm ci
@@ -39,7 +39,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No new film."
           else
-            git commit -m "film: weekly film $(date -u +%F)"
+            git commit -m "film: daily film $(date -u +%F)"
             # The branch may have moved while we were generating — rebase, then push.
             git pull --rebase origin main
             git push

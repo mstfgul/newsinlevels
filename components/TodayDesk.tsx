@@ -70,7 +70,7 @@ export function TodayDesk({
         </Link>
       )}
 
-      {/* This week's film poster. */}
+      {/* Today's film poster. */}
       {film && (
         <Link
           href="/films/"

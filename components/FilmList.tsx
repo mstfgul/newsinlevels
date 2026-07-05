@@ -4,7 +4,7 @@ import Link from "next/link";
 import type { FilmIndexEntry } from "@/lib/types";
 import { usePreferences } from "./Preferences";
 
-/** Cinema posters taped into the notebook, one per week. */
+/** Cinema posters taped into the notebook, one per day. */
 export function FilmList({ entries }: { entries: FilmIndexEntry[] }) {
   const { language } = usePreferences();
 
