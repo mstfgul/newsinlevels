@@ -167,6 +167,7 @@ export function ArticleReader({ article }: { article: Article }) {
                 <HighlightedText
                   text={version.text}
                   vocabulary={version.vocabulary}
+                  lang={lang}
                 />
               </div>
             </div>
@@ -187,6 +188,7 @@ export function ArticleReader({ article }: { article: Article }) {
                   <HighlightedText
                     text={version.text}
                     vocabulary={version.vocabulary}
+                    lang={lang}
                   />
                 </div>
               </div>
@@ -217,6 +219,7 @@ export function ArticleReader({ article }: { article: Article }) {
                     <HighlightedText
                       text={compareVersion.text}
                       vocabulary={compareVersion.vocabulary}
+                      lang={compareLang}
                     />
                   </div>
                 </div>

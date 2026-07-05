@@ -1,7 +1,14 @@
 "use client";
 
-import { useEffect, useState, type ReactNode } from "react";
-import type { VocabularyItem } from "@/lib/types";
+import { useEffect, useRef, useState, type ReactNode } from "react";
+import type { Language, VocabularyItem } from "@/lib/types";
+import {
+  cleanWord,
+  lookupWord,
+  LOOKUP_LANGUAGES,
+  type DictResult,
+} from "@/lib/dictionary";
+import { WordDetailSheet, WordPopover, type LookupState } from "./WordLookup";
 
 /** Words like "die Koralle", "le corail" or "to squander" — try the full
  * phrase first, then without the leading article/particle. */
@@ -51,16 +58,101 @@ function segmentParagraph(
   return segments;
 }
 
+/** Alternates plain/word tokens; words (odd indexes) keep apostrophes and hyphens. */
+const WORD_TOKEN = /([\p{L}\p{M}]+(?:['’-][\p{L}\p{M}]+)*)/u;
+
 export function HighlightedText({
   text,
   vocabulary,
+  lang,
 }: {
   text: string;
   vocabulary: VocabularyItem[];
+  lang: Language;
 }) {
   const [active, setActive] = useState<string | null>(null);
+  const [lookup, setLookup] = useState<{ key: string; word: string } | null>(null);
+  const [lookupState, setLookupState] = useState<LookupState>("loading");
+  const [detail, setDetail] = useState<DictResult | null>(null);
+  const lookupKeyRef = useRef<string | null>(null);
 
-  useEffect(() => setActive(null), [text]);
+  const canLookUp = LOOKUP_LANGUAGES.includes(lang);
+
+  useEffect(() => {
+    setActive(null);
+    setLookup(null);
+    setDetail(null);
+    lookupKeyRef.current = null;
+  }, [text]);
+
+  // A tap anywhere outside a word or its post-it dismisses the open one.
+  useEffect(() => {
+    if (!lookup && !active) return;
+    const onClick = (e: MouseEvent) => {
+      if (!(e.target as Element | null)?.closest?.("[data-lookup]")) {
+        setLookup(null);
+        setActive(null);
+        lookupKeyRef.current = null;
+      }
+    };
+    document.addEventListener("click", onClick);
+    return () => document.removeEventListener("click", onClick);
+  }, [lookup, active]);
+
+  const tapWord = (key: string, word: string) => {
+    setActive(null);
+    if (lookupKeyRef.current === key) {
+      setLookup(null);
+      lookupKeyRef.current = null;
+      return;
+    }
+    lookupKeyRef.current = key;
+    setLookup({ key, word });
+    setLookupState("loading");
+    lookupWord(word, lang).then(
+      (result) => {
+        if (lookupKeyRef.current === key) setLookupState(result);
+      },
+      () => {
+        if (lookupKeyRef.current === key) setLookupState("error");
+      },
+    );
+  };
+
+  const renderPlain = (plain: string, keyPrefix: string): ReactNode => {
+    if (!canLookUp) return plain;
+    const tokens = plain.split(WORD_TOKEN);
+    return tokens.map((token, ti) => {
+      if (ti % 2 === 0 || !cleanWord(token)) return token;
+      const key = `${keyPrefix}:${ti}`;
+      const isOpen = lookup?.key === key;
+      return (
+        <span key={key} data-lookup className="relative">
+          <span
+            onClick={() => tapWord(key, token)}
+            className={`cursor-pointer rounded-sm transition-colors ${
+              isOpen ? "bg-foreground/10" : "hover:bg-foreground/5"
+            }`}
+          >
+            {token}
+          </span>
+          {isOpen && (
+            <WordPopover
+              word={cleanWord(token)}
+              state={lookupState}
+              onExpand={() => {
+                if (typeof lookupState === "object" && lookupState !== null) {
+                  setDetail(lookupState);
+                  setLookup(null);
+                  lookupKeyRef.current = null;
+                }
+              }}
+            />
+          )}
+        </span>
+      );
+    });
+  };
 
   const used = new Set<string>();
   const paragraphs = text.split(/\n+/);
@@ -70,14 +162,18 @@ export function HighlightedText({
       {paragraphs.map((paragraph, pi) => (
         <p key={pi}>
           {segmentParagraph(paragraph, vocabulary, used).map((segment, si): ReactNode => {
-            if (!segment.item) return segment.text;
+            if (!segment.item) return renderPlain(segment.text, `${pi}:${si}`);
             const item = segment.item;
             const isOpen = active === item.word;
             return (
-              <span key={si} className="relative">
+              <span key={si} data-lookup className="relative">
                 <mark
                   className="vocab"
-                  onClick={() => setActive(isOpen ? null : item.word)}
+                  onClick={() => {
+                    setLookup(null);
+                    lookupKeyRef.current = null;
+                    setActive(isOpen ? null : item.word);
+                  }}
                 >
                   {segment.text}
                 </mark>
@@ -96,6 +192,13 @@ export function HighlightedText({
           })}
         </p>
       ))}
+      {detail && (
+        <WordDetailSheet
+          result={detail}
+          lang={lang}
+          onClose={() => setDetail(null)}
+        />
+      )}
     </>
   );
 }
