@@ -80,8 +80,29 @@ export default function RootLayout({
           <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-10">
             {children}
           </main>
-          <footer className="border-t border-border py-6 text-center font-mono text-xs uppercase tracking-widest text-muted-foreground">
-            Real content · A1–C2 · EN / DE / FR / TR
+          <footer className="border-t border-border py-6 text-center">
+            <a
+              href="https://www.linkedin.com/in/mustafa-gul00/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hand-note inline-flex items-baseline gap-1.5 rotate-[-1deg] transition-colors hover:text-foreground"
+              style={{ fontSize: "1.35rem" }}
+            >
+              created by Musti
+              {/* A heart doodled in the margin, in the teacher's red pen. */}
+              <svg
+                aria-hidden
+                viewBox="0 0 24 24"
+                className="h-4 w-4 self-center"
+                fill="none"
+                stroke="var(--margin-red)"
+                strokeWidth="2.2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M12,20 C6,15 2.5,10.5 4.5,6.5 C6.5,3 11,4 12,8 C13,4 17.5,3 19.5,6.5 C21.5,10.5 18,15 12.5,19.5" />
+              </svg>
+            </a>
           </footer>
         </PreferencesProvider>
       </body>
