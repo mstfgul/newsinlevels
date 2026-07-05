@@ -15,6 +15,7 @@ import path from "node:path";
 import OpenAI from "openai";
 import {
   LANGUAGES,
+  LEVELS,
   generateLanguageVersions,
   readJson,
   writeJson,
@@ -188,13 +189,18 @@ async function main() {
 
   for (const langCode of Object.keys(LANGUAGES)) {
     console.log(`  generating ${LANGUAGES[langCode]} note...`);
-    entry.languages[langCode] = await generateLanguageVersions(
+    const versions = await generateLanguageVersions(
       openai,
       entry.originalTitle,
       facts,
       langCode,
       { kind: "quote" },
     );
+    // The quote must stay identical across levels — only the note changes.
+    // Pin every level's title to one translation regardless of model drift.
+    const canonical = versions.B2.title;
+    for (const level of LEVELS) versions[level].title = canonical;
+    entry.languages[langCode] = versions;
   }
 
   writeJson(path.join(QUOTES_DIR, `${id}.json`), entry);

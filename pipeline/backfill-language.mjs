@@ -10,6 +10,7 @@ import path from "node:path";
 import OpenAI from "openai";
 import {
   LANGUAGES,
+  LEVELS,
   classifyCategory,
   generateLanguageVersions,
   readJson,
@@ -75,6 +76,13 @@ for (const target of TARGETS) {
         lang,
         options,
       );
+      // For quotes, the quote itself must stay identical across levels.
+      if (article.quote) {
+        const canonical = article.languages[lang].B2.title;
+        for (const level of LEVELS) {
+          article.languages[lang][level].title = canonical;
+        }
+      }
       changed = true;
     }
 

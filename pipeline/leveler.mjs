@@ -104,7 +104,9 @@ EVENT: ${sourceTitle}
 
 FACTS:
 ${sourceText}`,
-    quote: `For each CEFR level, work with the famous quote below. Put a faithful, natural ${langName} translation of the quote in the "title" field (keep it close to the original meaning; at higher levels it may be more literary). In the "text" field, write a short note IN ${langName} — say who the author was in one line, then explain what the quote means and why it resonates. Keep the note within these level limits (they replace the word counts above for this short format):
+    quote: `Work with the famous quote below. First decide on ONE faithful, natural ${langName} translation of the quote. Use that SAME translation, word for word, in the "title" field of EVERY level — the quote itself must never change between levels. Only the explanation changes.
+
+In each level's "text" field, write a short note IN ${langName} — say who the author was in one line, then explain what the quote means and why it resonates. Keep the note within these level limits (they replace the word counts above for this short format):
 A1: 30-50 words, very simple. A2: 45-70 words. B1: 60-90 words. B2: 80-120 words. C1: 110-150 words. C2: 130-180 words. Simpler levels, simpler language.
 
 Do not invent biographical facts beyond those provided.
