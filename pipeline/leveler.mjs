@@ -75,6 +75,7 @@ export async function generateLanguageVersions(
     art: `You are an art historian and expert ${langName} teacher. You write engaging analyses of paintings in ${langName} at all six CEFR levels so learners can enjoy the same artwork at their own level. You always answer with valid JSON only.`,
     history: `You are a historian and expert ${langName} teacher. You write vivid capsules about historical events in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
     quote: `You are a literary translator and expert ${langName} teacher. You translate famous quotes into ${langName} and explain them at all six CEFR levels so learners can appreciate the same words at their own level. You always answer with valid JSON only.`,
+    film: `You are a film critic and expert ${langName} teacher. You write spoiler-free essays about great films in ${langName} at all six CEFR levels so learners can discover the same film at their own level. You always answer with valid JSON only.`,
   };
 
   const TASKS = {
@@ -115,6 +116,18 @@ Do not invent biographical facts beyond those provided.
 ${SHARED_INSTRUCTIONS(langName)}
 
 QUOTE AND AUTHOR: ${sourceTitle}
+
+FACTS:
+${sourceText}`,
+    film: `Write an essay in ${langName} about the film below that makes a curious viewer want to watch it — at each CEFR level.
+
+ABSOLUTE RULE — NO SPOILERS: you may sketch the premise (the situation as the film opens), but never reveal how the story develops or ends, any twist, any character's fate, or any scene from the second half. If in doubt, leave it out.
+
+Go beyond plot entirely: write about what the film is ABOUT in the deeper sense — its themes and philosophical questions, its mood and visual language (camera, light, rhythm, sound), the director's sensibility, and its place in cinema history. Ground all factual claims (names, dates, awards, production details) ONLY in the facts provided; interpretation is welcome, invented facts are not. Follow these level constraints strictly:
+${LEVEL_SPECS}
+${SHARED_INSTRUCTIONS(langName)}
+
+FILM: ${sourceTitle}
 
 FACTS:
 ${sourceText}`,

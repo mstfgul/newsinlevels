@@ -1,0 +1,202 @@
+/**
+ * Weekly film pipeline.
+ *
+ * 1. Asks the model to pick an art-house / cult / philosophically rich film
+ *    that hasn't been featured before (data/films-processed.json).
+ * 2. Verifies the pick on TMDB, pulling the poster, director and metadata.
+ * 3. Generates a spoiler-free leveled essay (A1–C2) in every language.
+ * 4. Writes data/films/<id>.json and updates data/films-index.json.
+ *
+ * Requires OPENAI_API_KEY and TMDB_READ_TOKEN. Run: node pipeline/fetch-film.mjs
+ */
+import path from "node:path";
+import OpenAI from "openai";
+import {
+  LANGUAGES,
+  MODEL,
+  generateLanguageVersions,
+  readJson,
+  writeJson,
+} from "./leveler.mjs";
+
+const TMDB_API = "https://api.themoviedb.org/3";
+const POSTER_BASE = "https://image.tmdb.org/t/p/w780";
+const MAX_ATTEMPTS = 5;
+
+const ROOT = path.join(import.meta.dirname, "..");
+const DATA_DIR = path.join(ROOT, "data");
+const FILMS_DIR = path.join(DATA_DIR, "films");
+const FILMS_INDEX_FILE = path.join(DATA_DIR, "films-index.json");
+const FILMS_PROCESSED_FILE = path.join(DATA_DIR, "films-processed.json");
+
+function slugify(text) {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 60);
+}
+
+async function tmdb(pathname, params = {}) {
+  const url = new URL(`${TMDB_API}${pathname}`);
+  for (const [key, value] of Object.entries(params)) {
+    url.searchParams.set(key, value);
+  }
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${process.env.TMDB_READ_TOKEN}`,
+      Accept: "application/json",
+    },
+  });
+  if (!response.ok) throw new Error(`TMDB ${response.status} for ${pathname}`);
+  return response.json();
+}
+
+async function pickFilm(openai, exclusions) {
+  const response = await openai.chat.completions.create({
+    model: MODEL,
+    response_format: { type: "json_object" },
+    messages: [
+      {
+        role: "user",
+        content: `Pick ONE feature film for a weekly art-film club: art-house, cult or philosophically rich cinema — the kind of film cinephiles call essential. Any country, any era; over time the club should wander across decades, languages and directors (Tarkovsky to Varda, Ozu to Lynch), so avoid the obvious pick if a more surprising one is just as strong.
+
+Do NOT pick any of these (already featured or unavailable):
+${exclusions.join("\n") || "(none yet)"}
+
+Answer with JSON only: {"title": "<original release title in English>", "year": <number>, "director": "..."}`,
+      },
+    ],
+  });
+  return JSON.parse(response.choices[0].message.content);
+}
+
+async function findOnTmdb(pick) {
+  const byYear = await tmdb("/search/movie", {
+    query: pick.title,
+    year: String(pick.year),
+    include_adult: "false",
+  });
+  let results = byYear.results ?? [];
+  if (results.length === 0) {
+    const any = await tmdb("/search/movie", {
+      query: pick.title,
+      include_adult: "false",
+    });
+    results = any.results ?? [];
+  }
+  return results.find((movie) => movie.poster_path) ?? null;
+}
+
+async function main() {
+  for (const name of ["OPENAI_API_KEY", "TMDB_READ_TOKEN"]) {
+    if (!process.env[name]) {
+      console.error(`${name} is not set`);
+      process.exit(1);
+    }
+  }
+  const openai = new OpenAI();
+
+  const processed = readJson(FILMS_PROCESSED_FILE, []);
+  const index = readJson(FILMS_INDEX_FILE, []);
+
+  const rejected = [];
+  let movie = null;
+  let pick;
+  for (let attempt = 0; attempt < MAX_ATTEMPTS && !movie; attempt++) {
+    pick = await pickFilm(openai, [
+      ...processed.map((p) => `${p.title} (${p.year})`),
+      ...rejected,
+    ]);
+    console.log(`Pick: ${pick.title} (${pick.year}) — ${pick.director}`);
+    const found = await findOnTmdb(pick);
+    if (!found) {
+      rejected.push(`${pick.title} (${pick.year}) — not found on TMDB`);
+    } else if (processed.some((p) => p.tmdbId === found.id)) {
+      rejected.push(`${pick.title} (${pick.year}) — already featured`);
+    } else {
+      movie = found;
+    }
+  }
+  if (!movie) throw new Error(`no usable film found in ${MAX_ATTEMPTS} attempts`);
+
+  const details = await tmdb(`/movie/${movie.id}`, {
+    append_to_response: "credits",
+  });
+  const director =
+    details.credits?.crew?.find((c) => c.job === "Director")?.name ??
+    pick.director;
+  const year = (details.release_date || String(pick.year)).slice(0, 4);
+  const genres = details.genres.map((g) => g.name).slice(0, 3).join(", ");
+  const posterUrl = `${POSTER_BASE}${details.poster_path}`;
+  console.log(`Matched TMDB #${details.id}: ${details.title} (${year})`);
+
+  const facts = [
+    `TITLE: ${details.title}`,
+    details.original_title !== details.title &&
+      `ORIGINAL TITLE: ${details.original_title}`,
+    `DIRECTOR: ${director}`,
+    `YEAR: ${year}`,
+    details.production_countries?.length &&
+      `COUNTRY: ${details.production_countries.map((c) => c.name).join(", ")}`,
+    details.original_language && `ORIGINAL LANGUAGE: ${details.original_language}`,
+    `GENRES: ${genres}`,
+    details.runtime && `RUNTIME: ${details.runtime} minutes`,
+    details.tagline && `TAGLINE: ${details.tagline}`,
+    `PREMISE (spoiler-free, from TMDB): ${details.overview}`,
+    `DATA: TMDB`,
+  ]
+    .filter(Boolean)
+    .join("\n");
+
+  const today = new Date().toISOString().slice(0, 10);
+  const id = `${today}-${slugify(`${details.title} ${director}`)}`;
+
+  const film = {
+    id,
+    date: today,
+    source: { name: "TMDB", url: `https://www.themoviedb.org/movie/${details.id}` },
+    originalTitle: `${details.title} (${year}) — ${director}`,
+    image: posterUrl,
+    category: "film",
+    film: { director, title: details.title, year, genres },
+    languages: {},
+  };
+
+  for (const langCode of Object.keys(LANGUAGES)) {
+    console.log(`  generating ${LANGUAGES[langCode]} essay...`);
+    film.languages[langCode] = await generateLanguageVersions(
+      openai,
+      film.originalTitle,
+      facts,
+      langCode,
+      { kind: "film" },
+    );
+  }
+
+  writeJson(path.join(FILMS_DIR, `${id}.json`), film);
+  index.unshift({
+    id,
+    date: today,
+    director,
+    image: posterUrl,
+    titles: Object.fromEntries(
+      Object.keys(LANGUAGES).map((lang) => [
+        lang,
+        film.languages[lang].B1.title,
+      ]),
+    ),
+  });
+  processed.push({ tmdbId: details.id, title: details.title, year, id, date: today });
+
+  writeJson(FILMS_INDEX_FILE, index);
+  writeJson(FILMS_PROCESSED_FILE, processed);
+  console.log(`Done. Saved ${id}`);
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

@@ -117,6 +117,11 @@ export function ArticleReader({ article }: { article: Article }) {
               <>On this day · {article.history.year} · </>
             ) : article.quote ? (
               <>Quote of the day · {article.quote.author} · </>
+            ) : article.film ? (
+              <>
+                {article.film.director} · {article.film.year} ·{" "}
+                {article.film.genres} ·{" "}
+              </>
             ) : (
               <>{article.date} · </>
             )}
@@ -131,11 +136,16 @@ export function ArticleReader({ article }: { article: Article }) {
             {!article.art &&
               !article.history &&
               !article.quote &&
+              !article.film &&
               article.category && <> · {article.category}</>}
           </p>
 
           {article.image && (
-            <figure className="clipping mx-auto mb-8 mt-7 w-full max-w-lg rotate-[-1.1deg]">
+            <figure
+              className={`clipping mx-auto mb-8 mt-7 w-full rotate-[-1.1deg] ${
+                article.film ? "max-w-xs" : "max-w-lg"
+              }`}
+            >
               <img
                 src={article.image}
                 alt={article.originalTitle}
@@ -146,7 +156,9 @@ export function ArticleReader({ article }: { article: Article }) {
                   ? `${article.art.title} — ${article.art.artist}, ${article.art.year}`
                   : article.quote
                     ? article.quote.author
-                    : `${article.source.name} · ${article.date}`}
+                    : article.film
+                      ? `${article.film.title} — ${article.film.director}, ${article.film.year}`
+                      : `${article.source.name} · ${article.date}`}
               </figcaption>
             </figure>
           )}
