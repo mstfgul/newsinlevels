@@ -8,7 +8,29 @@ import {
   LOOKUP_LANGUAGES,
   type DictResult,
 } from "@/lib/dictionary";
-import { WordDetailSheet, WordPopover, type LookupState } from "./WordLookup";
+import {
+  useEdgeShift,
+  WordDetailSheet,
+  WordPopover,
+  type LookupState,
+} from "./WordLookup";
+
+/** The sticky note for a curated vocabulary word, kept inside the screen. */
+function VocabPostit({ item }: { item: VocabularyItem }) {
+  const ref = useRef<HTMLSpanElement>(null);
+  const shift = useEdgeShift(ref, []);
+  return (
+    <span
+      ref={ref}
+      role="tooltip"
+      className="postit absolute left-1/2 top-full z-10 mt-2 w-64 -translate-x-1/2 rotate-[-1.5deg] p-3 pb-4 font-sans text-sm leading-snug"
+      style={{ fontFamily: "var(--font-bricolage)", marginLeft: shift }}
+    >
+      <span className="mb-1 block font-bold">{item.word}</span>
+      <span className="block opacity-80">{item.definition}</span>
+    </span>
+  );
+}
 
 /** Words like "die Koralle", "le corail" or "to squander" — try the full
  * phrase first, then without the leading article/particle. */
@@ -177,16 +199,7 @@ export function HighlightedText({
                 >
                   {segment.text}
                 </mark>
-                {isOpen && (
-                  <span
-                    role="tooltip"
-                    className="postit absolute left-1/2 top-full z-10 mt-2 w-64 -translate-x-1/2 rotate-[-1.5deg] p-3 pb-4 font-sans text-sm leading-snug"
-                    style={{ fontFamily: "var(--font-bricolage)" }}
-                  >
-                    <span className="mb-1 block font-bold">{item.word}</span>
-                    <span className="block opacity-80">{item.definition}</span>
-                  </span>
-                )}
+                {isOpen && <VocabPostit item={item} />}
               </span>
             );
           })}

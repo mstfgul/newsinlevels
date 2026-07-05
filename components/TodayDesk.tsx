@@ -14,8 +14,8 @@ import { usePreferences } from "./Preferences";
 function DeskLabel({ children }: { children: React.ReactNode }) {
   return (
     <span
-      className="absolute -top-2.5 left-4 z-10 inline-block rotate-[-1.5deg] rounded-sm px-2 py-0.5 font-mono text-[11px] uppercase tracking-widest text-foreground shadow-sm"
-      style={{ background: "var(--hl-strong)" }}
+      className="absolute -top-2.5 left-4 z-10 inline-block rotate-[-1.5deg] rounded-sm px-2 py-0.5 font-mono text-[11px] uppercase tracking-widest shadow-sm"
+      style={{ background: "var(--postit)", color: "var(--postit-ink)" }}
     >
       {children}
     </span>
@@ -48,12 +48,12 @@ export function TodayDesk({
   const { language } = usePreferences();
 
   return (
-    <div className="relative mx-auto flex max-w-md flex-col gap-9 lg:block lg:h-[34rem] lg:w-full lg:max-w-none">
+    <div className="relative mx-auto flex max-w-md flex-col gap-9 lg:block lg:h-[34rem] lg:w-full lg:max-w-[56rem]">
       {/* The lead story, torn off the front page. */}
       {news && (
         <Link
           href="/news/"
-          className="group relative block rotate-[-1deg] rounded-lg border border-border bg-card p-5 shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-0 lg:top-0 lg:w-[35%]"
+          className="group relative block rotate-[-1deg] rounded-lg border border-border bg-card p-5 shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-0 lg:top-0 lg:w-[37%]"
         >
           <DeskLabel>news</DeskLabel>
           <h2 className="line-clamp-3 pt-1 text-xl font-bold leading-tight tracking-tight group-hover:underline group-hover:underline-offset-4">
@@ -74,7 +74,7 @@ export function TodayDesk({
       {film && (
         <Link
           href="/films/"
-          className="group relative z-10 block self-center rotate-[1.8deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-[38%] lg:top-0 lg:w-[20%]"
+          className="group relative z-10 block self-center rotate-[1.8deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-[36%] lg:top-0 lg:w-[22%]"
         >
           <DeskLabel>film club</DeskLabel>
           <figure className="clipping">
@@ -97,7 +97,7 @@ export function TodayDesk({
       {art && (
         <Link
           href="/art/"
-          className="group relative block rotate-[1.1deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:right-0 lg:top-[4%] lg:w-[28%]"
+          className="group relative block rotate-[1.1deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:right-0 lg:top-[3%] lg:w-[33%]"
         >
           <DeskLabel>daily art</DeskLabel>
           <figure className="clipping">
@@ -120,7 +120,7 @@ export function TodayDesk({
       {history && (
         <Link
           href="/history/"
-          className="group relative block rotate-[-1.5deg] border border-border shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-0 lg:left-[2%] lg:w-[27%]"
+          className="group relative block rotate-[-1.5deg] border border-border shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-[3%] lg:left-[2%] lg:w-[30%]"
           style={{ background: "var(--print-paper)" }}
         >
           <DeskLabel>on this day</DeskLabel>
@@ -128,13 +128,27 @@ export function TodayDesk({
             <p className="font-mono text-xs uppercase tracking-widest text-margin-red">
               {history.year}
             </p>
-            <div className="mt-1.5 border-t-2 border-margin-red/70 pt-3">
-              <h2 className="line-clamp-2 text-lg font-bold leading-tight tracking-tight text-[#212e3e] group-hover:underline group-hover:underline-offset-4">
-                {history.titles[language] ?? history.titles.en}
-              </h2>
-              <p className="hand-note mt-2" style={{ color: "#5c6b7a" }}>
-                what happened? →
-              </p>
+            <div className="mt-1.5 flex items-start gap-4 border-t-2 border-margin-red/70 pt-3">
+              <div className="min-w-0 flex-1">
+                <h2 className="line-clamp-2 text-lg font-bold leading-tight tracking-tight text-[#212e3e] group-hover:underline group-hover:underline-offset-4">
+                  {history.titles[language] ?? history.titles.en}
+                </h2>
+                <p className="hand-note mt-2" style={{ color: "#5c6b7a" }}>
+                  what happened? →
+                </p>
+              </div>
+              {history.image && (
+                <figure className="clipping-mini w-20 shrink-0 rotate-[2deg]">
+                  <div className="aspect-square overflow-hidden">
+                    <img
+                      src={history.image}
+                      alt=""
+                      loading="eager"
+                      className="h-full w-full object-cover"
+                    />
+                  </div>
+                </figure>
+              )}
             </div>
           </div>
         </Link>
@@ -144,7 +158,7 @@ export function TodayDesk({
       {quote && (
         <Link
           href="/quotes/"
-          className="postit relative z-20 block w-full max-w-xs self-center rotate-[-2.5deg] p-5 pb-6 transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-[2%] lg:left-[33%] lg:w-[25%]"
+          className="postit relative z-20 block w-full max-w-xs self-center rotate-[-2.5deg] p-5 pb-6 transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-0 lg:left-[34%] lg:w-[26%]"
         >
           <span className="font-mono text-[11px] uppercase tracking-widest opacity-60">
             quote of the day

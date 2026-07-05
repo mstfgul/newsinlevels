@@ -1,10 +1,39 @@
 "use client";
 
-import { useEffect } from "react";
+import {
+  useEffect,
+  useLayoutEffect,
+  useRef,
+  useState,
+  type RefObject,
+} from "react";
 import type { Language } from "@/lib/types";
 import type { DictEntry, DictResult } from "@/lib/dictionary";
 
 export type LookupState = "loading" | "error" | DictResult | null;
+
+/** Post-its are centered under their word; near the screen edge that would
+ * push them off-screen, so nudge them back inside the viewport. */
+export function useEdgeShift(
+  ref: RefObject<HTMLElement | null>,
+  deps: unknown[],
+): number {
+  const [shift, setShift] = useState(0);
+  useLayoutEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const rect = el.getBoundingClientRect();
+    const pad = 10;
+    let delta = 0;
+    if (rect.left < pad) delta = pad - rect.left;
+    else if (rect.right > window.innerWidth - pad) {
+      delta = window.innerWidth - pad - rect.right;
+    }
+    if (delta !== 0) setShift((prev) => prev + delta);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, deps);
+  return shift;
+}
 
 /** Post-it under a tapped word: first meaning + a magnifier to expand. */
 export function WordPopover({
@@ -18,12 +47,15 @@ export function WordPopover({
 }) {
   const result = typeof state === "object" && state !== null ? state : null;
   const first = result?.entries[0];
+  const ref = useRef<HTMLSpanElement>(null);
+  const shift = useEdgeShift(ref, [state]);
 
   return (
     <span
+      ref={ref}
       role="tooltip"
       className="postit absolute left-1/2 top-full z-10 mt-2 w-64 -translate-x-1/2 rotate-[-1.5deg] p-3 pb-4 font-sans text-sm leading-snug"
-      style={{ fontFamily: "var(--font-bricolage)" }}
+      style={{ fontFamily: "var(--font-bricolage)", marginLeft: shift }}
     >
       <span className="mb-1 flex items-baseline justify-between gap-2">
         <span className="font-bold">{result?.term ?? word}</span>
