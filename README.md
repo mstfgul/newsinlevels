@@ -6,7 +6,7 @@ tags: []
 
 # Any Text in Levels
 
-**Canlı:** https://newsinlevels.vercel.app
+**Canlı:** https://anytext.art
 
 Gerçek haberlerle dil öğrenme uygulaması. Her gün 3 gerçek haber çekilir ve OpenAI ile
 **İngilizce, Almanca, Fransızca ve Türkçe** dillerinde **A1–C2** CEFR seviyelerine
