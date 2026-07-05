@@ -102,6 +102,22 @@ export default function RootLayout({
               >
                 <path d="M12,20 C6,15 2.5,10.5 4.5,6.5 C6.5,3 11,4 12,8 C13,4 17.5,3 19.5,6.5 C21.5,10.5 18,15 12.5,19.5" />
               </svg>
+              {/* The LinkedIn badge, redrawn with the blue ink pen. */}
+              <svg
+                aria-hidden
+                viewBox="0 0 24 24"
+                className="h-[1.15rem] w-[1.15rem] rotate-[3deg] self-center"
+                fill="none"
+                stroke="var(--primary)"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M7,3.5 C13,3 17,3 20,3.8 C20.8,7 21,13 20.2,20 C14,20.8 9,20.8 4,20.2 C3.2,14 3.2,9 3.8,4.2 C4.8,3.8 5.8,3.6 7,3.5" />
+                <circle cx="8" cy="8.3" r="1.2" fill="var(--primary)" stroke="none" />
+                <path d="M8,11.4 L8,16.6" />
+                <path d="M12,16.6 L12,11.6 M12,13.6 C12.5,11.8 16.2,11 16.2,14 L16.2,16.6" />
+              </svg>
             </a>
           </footer>
         </PreferencesProvider>
