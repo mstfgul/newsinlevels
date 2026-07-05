@@ -1,8 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Bricolage_Grotesque, Literata, IBM_Plex_Mono } from "next/font/google";
+import {
+  Bricolage_Grotesque,
+  Literata,
+  IBM_Plex_Mono,
+  Caveat,
+} from "next/font/google";
 import { PreferencesProvider } from "@/components/Preferences";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
+import { NavTabs } from "@/components/NavTabs";
 import "./globals.css";
 
 const bricolage = Bricolage_Grotesque({
@@ -22,10 +28,16 @@ const plexMono = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
 });
 
+const caveat = Caveat({
+  variable: "--font-caveat",
+  subsets: ["latin"],
+  weight: ["500", "600"],
+});
+
 export const metadata: Metadata = {
   title: "News in Levels — learn languages with real news",
   description:
-    "Real daily news rewritten at CEFR levels A1–C2 in English, German and French.",
+    "Real daily news rewritten at CEFR levels A1–C2 in English, German, French and Turkish.",
 };
 
 export default function RootLayout({
@@ -36,13 +48,17 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${bricolage.variable} ${literata.variable} ${plexMono.variable} h-full antialiased`}
+      className={`${bricolage.variable} ${literata.variable} ${plexMono.variable} ${caveat.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
         <PreferencesProvider>
           <header className="border-b border-border">
             <div className="mx-auto flex max-w-3xl items-center justify-between gap-4 px-4 py-4">
-              <Link href="/" className="text-lg font-bold tracking-tight">
+              <Link
+                href="/"
+                className="flex items-center gap-2 text-lg font-bold tracking-tight"
+              >
+                <img src="/icon.svg" alt="" aria-hidden className="size-6" />
                 News in{" "}
                 <span className="relative inline-block px-1">
                   <span
@@ -53,14 +69,17 @@ export default function RootLayout({
                   <span className="relative">Levels</span>
                 </span>
               </Link>
-              <LanguageSwitch />
+              <div className="flex flex-wrap items-center justify-end gap-x-4 gap-y-2">
+                <NavTabs />
+                <LanguageSwitch />
+              </div>
             </div>
           </header>
           <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-10">
             {children}
           </main>
           <footer className="border-t border-border py-6 text-center font-mono text-xs uppercase tracking-widest text-muted-foreground">
-            Real news · A1–C2 · EN / DE / FR
+            Real news · A1–C2 · EN / DE / FR / TR
           </footer>
         </PreferencesProvider>
       </body>

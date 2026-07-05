@@ -37,7 +37,9 @@
       "en": "Massive Gatherings in Tehran for Khamenei's Funeral",
       "de": "Große Trauerfeierlichkeiten in Teheran",
       "fr": "Des foules se rassemblent à Téhéran pour les funérailles de Khamenei"
-    }
+    },
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c6f/live/071927b0-7789-11f1-a146-99f41269c606.jpg",
+    "category": "politics"
   },
   {
     "id": "2026-07-05-ukraine-hits-major-oil-terminal-in-russia-s-st-petersburg",
@@ -47,7 +49,9 @@
       "en": "Ukraine Strikes Key Oil Terminal in St Petersburg",
       "de": "Ukraine greift Ölinfrastruktur in St. Petersburg an",
       "fr": "L'Ukraine frappe un terminal pétrolier clé à Saint-Pétersbourg"
-    }
+    },
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+    "category": "politics"
   },
   {
     "id": "2026-07-05-brutal-heat-cancels-fourth-of-july-events-from-dc-to-philade",
@@ -57,7 +61,9 @@
       "en": "Heatwave cancels Fourth of July celebrations",
       "de": "Extreme Hitze stoppt Feierlichkeiten zum 4. Juli",
       "fr": "La chaleur extrême annule les célébrations du 4 juillet"
-    }
+    },
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8188/live/f848ea30-7716-11f1-8716-9bf866a7588e.jpg",
+    "category": "climate"
   },
   {
     "id": "2026-07-05-coral-reefs-show-signs-of-recovery",
@@ -67,6 +73,7 @@
       "en": "Pacific coral reefs show signs of recovery",
       "de": "Korallenriffe im Pazifik erholen sich",
       "fr": "Les récifs coralliens du Pacifique montrent des signes de guérison"
-    }
+    },
+    "category": "science"
   }
 ]

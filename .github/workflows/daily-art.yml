@@ -1,0 +1,43 @@
+name: Daily art pipeline
+
+on:
+  schedule:
+    - cron: "30 5 * * *" # every day at 05:30 UTC, after the news run
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-art
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Pick and analyze a painting
+        run: node pipeline/fetch-art.mjs
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit new artwork
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new artwork."
+          else
+            git commit -m "art: daily artwork $(date -u +%F)"
+            git push
+          fi

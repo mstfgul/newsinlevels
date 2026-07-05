@@ -10,20 +10,32 @@ export function StoryList({ entries }: { entries: IndexEntry[] }) {
 
   return (
     <div className="ruled">
-      {entries.map((entry) => (
+      {entries.map((entry, i) => (
         <Link
           key={entry.id}
           href={`/article/${entry.id}/`}
-          className="group flex items-baseline gap-4 py-4"
+          className="group flex items-center gap-4 py-4"
         >
-          <span className="shrink-0 font-mono text-xs text-muted-foreground">
-            {entry.date.slice(5)}
-          </span>
-          <span
-            className="flex-1 text-lg font-medium leading-snug group-hover:underline group-hover:underline-offset-4"
-            style={{ fontFamily: "var(--font-literata)" }}
-          >
-            {entry.titles[language]}
+          {entry.image && (
+            <span
+              className={`clipping-mini block size-14 shrink-0 sm:size-16 ${
+                i % 2 === 0 ? "rotate-[1.6deg]" : "rotate-[-1.6deg]"
+              }`}
+            >
+              <img src={entry.image} alt="" loading="lazy" />
+            </span>
+          )}
+          <span className="flex-1">
+            <span className="block font-mono text-xs text-muted-foreground">
+              {entry.date.slice(5)}
+              {entry.category && <> · {entry.category}</>}
+            </span>
+            <span
+              className="block text-lg font-medium leading-snug group-hover:underline group-hover:underline-offset-4"
+              style={{ fontFamily: "var(--font-literata)" }}
+            >
+              {entry.titles[language] ?? entry.titles.en}
+            </span>
           </span>
           <span aria-hidden className="hidden shrink-0 gap-1 sm:flex">
             {LEVELS.map((level) => (

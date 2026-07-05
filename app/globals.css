@@ -15,6 +15,12 @@
   --rule-blue: #ccdae9;
   --hl: rgba(255, 222, 64, 0.4);
   --hl-strong: rgba(255, 214, 10, 0.65);
+  --tape: rgba(250, 228, 132, 0.55);
+  --grid-line: rgba(36, 86, 166, 0.05);
+  --print-paper: #fffdf8;
+  --postit: #fdeb8d;
+  --postit-fold: #e8d478;
+  --postit-ink: #40391a;
 
   --level-a1: #2f7d4f;
   --level-a2: #1e8a70;
@@ -40,6 +46,12 @@
     --rule-blue: #35463d;
     --hl: rgba(242, 215, 78, 0.22);
     --hl-strong: rgba(242, 215, 78, 0.38);
+    --tape: rgba(233, 220, 185, 0.3);
+    --grid-line: transparent;
+    --print-paper: #f4f1e7;
+    --postit: #ecd977;
+    --postit-fold: #d3bf5e;
+    --postit-ink: #3a3416;
 
     --level-a1: #5cbf8a;
     --level-a2: #4ec2a5;
@@ -65,28 +77,50 @@
   --font-display: var(--font-bricolage);
   --font-serif: var(--font-literata);
   --font-mono: var(--font-plex-mono);
+  --font-hand: var(--font-caveat);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-bricolage), system-ui, sans-serif;
+  /* Faint squared-paper grid, like the graph-ruled notebooks vocab lists live in. */
+  background-image: linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: 26px 26px;
 }
 
-/* Long-form reading text — Literata was drawn for exactly this. */
+/* Long-form reading text — Literata was drawn for exactly this.
+ * The text sits on real exercise-book ruling: line-height is locked to the
+ * ruling unit, and paragraph gaps skip exactly one line. */
 .article-body {
+  --ruling: 2.3rem;
   font-family: var(--font-literata), Georgia, serif;
   font-size: 1.2rem;
-  line-height: 1.85;
+  line-height: var(--ruling);
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent calc(var(--ruling) - 1px),
+    var(--rule-blue) calc(var(--ruling) - 1px),
+    var(--rule-blue) var(--ruling)
+  );
+  background-position: 0 -0.45rem;
 }
 
 .article-body p + p {
-  margin-top: 1.1em;
+  margin-top: var(--ruling);
+}
+
+/* Beginners get a bigger hand: larger type on wider ruling. */
+.article-body--easy {
+  --ruling: 2.7rem;
+  font-size: 1.35rem;
 }
 
 /* Highlighter swipe over vocabulary words. */
 mark.vocab {
-  background: linear-gradient(
+  background-image: linear-gradient(
     100deg,
     transparent 0%,
     var(--hl) 4%,
@@ -94,6 +128,10 @@ mark.vocab {
     var(--hl) 96%,
     transparent 100%
   );
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: 0 0;
+  background-color: transparent;
   color: inherit;
   padding: 0.08em 0.18em;
   margin: -0.08em -0.06em;
@@ -104,7 +142,22 @@ mark.vocab {
 }
 
 mark.vocab:hover {
-  background: var(--hl-strong);
+  background-image: none;
+  background-color: var(--hl-strong);
+}
+
+/* When a level swaps in, the highlighter re-draws each mark left to right. */
+.level-swap mark.vocab {
+  animation: hl-draw 420ms 180ms ease-out backwards;
+}
+
+@keyframes hl-draw {
+  from {
+    background-size: 0% 100%;
+  }
+  to {
+    background-size: 100% 100%;
+  }
 }
 
 /* Exercise-book ruling for the word notebook. */
@@ -128,7 +181,85 @@ mark.vocab:hover {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .level-swap {
+  .level-swap,
+  .level-swap mark.vocab {
     animation: none;
   }
+}
+
+/* Vocabulary definitions on a sticky note. */
+.postit {
+  background: var(--postit);
+  color: var(--postit-ink);
+  box-shadow: 0 10px 22px -8px rgba(45, 40, 15, 0.45);
+}
+
+.postit::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 0.95rem;
+  height: 0.95rem;
+  background: linear-gradient(315deg, var(--postit-fold) 45%, transparent 46%);
+}
+
+/* A news photo pasted into the notebook: white print border, a slight tilt
+ * (set per use), and two strips of tape across the top corners. */
+.clipping {
+  position: relative;
+  background: var(--print-paper);
+  padding: 0.55rem 0.55rem 0.3rem;
+  border: 1px solid var(--border);
+  box-shadow: 0 12px 28px -14px rgba(25, 35, 55, 0.4);
+}
+
+.clipping img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.clipping::before,
+.clipping::after {
+  content: "";
+  position: absolute;
+  top: -0.45rem;
+  width: 2.9rem;
+  height: 1rem;
+  background: var(--tape);
+  box-shadow: 0 1px 2px rgba(20, 30, 45, 0.1);
+}
+
+.clipping::before {
+  left: -0.9rem;
+  transform: rotate(-35deg);
+}
+
+.clipping::after {
+  right: -0.9rem;
+  transform: rotate(35deg);
+}
+
+/* Small clippings in the story list: just the print border, no tape. */
+.clipping-mini {
+  background: var(--print-paper);
+  padding: 0.2rem;
+  border: 1px solid var(--border);
+  box-shadow: 0 5px 12px -6px rgba(25, 35, 55, 0.35);
+}
+
+.clipping-mini img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Handwritten label under a pasted photo. */
+.hand-note {
+  font-family: var(--font-caveat), cursive;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  color: var(--muted-foreground);
 }

@@ -3,7 +3,12 @@
 import { LANGUAGES } from "@/lib/types";
 import { usePreferences } from "./Preferences";
 
-const FLAGS: Record<string, string> = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷" };
+const FLAGS: Record<string, string> = {
+  en: "🇬🇧",
+  de: "🇩🇪",
+  fr: "🇫🇷",
+  tr: "🇹🇷",
+};
 
 export function LanguageSwitch() {
   const { language, setLanguage } = usePreferences();

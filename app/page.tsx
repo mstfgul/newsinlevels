@@ -1,6 +1,6 @@
-import { getArticle, getIndex } from "@/lib/data";
-import { HomeHero } from "@/components/HomeHero";
-import { StoryList } from "@/components/StoryList";
+import { getArtIndex, getArticle, getIndex } from "@/lib/data";
+import { ArtTeaser } from "@/components/ArtTeaser";
+import { HomeView } from "@/components/HomeView";
 
 function formatDateline(date: string): string {
   return new Date(`${date}T12:00:00Z`)
@@ -15,6 +15,7 @@ function formatDateline(date: string): string {
 
 export default function Home() {
   const entries = getIndex();
+  const artEntries = getArtIndex();
 
   if (entries.length === 0) {
     return (
@@ -24,7 +25,7 @@ export default function Home() {
     );
   }
 
-  const [lead, ...rest] = entries;
+  const [lead] = entries;
   const leadArticle = getArticle(lead.id);
 
   return (
@@ -38,16 +39,9 @@ export default function Home() {
         </p>
       </div>
 
-      <HomeHero article={leadArticle} />
+      <HomeView leadArticle={leadArticle} entries={entries} />
 
-      {rest.length > 0 && (
-        <section className="mt-10">
-          <h2 className="mb-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
-            Earlier stories
-          </h2>
-          <StoryList entries={rest} />
-        </section>
-      )}
+      {artEntries.length > 0 && <ArtTeaser entry={artEntries[0]} />}
     </div>
   );
 }

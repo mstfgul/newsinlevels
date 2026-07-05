@@ -84,13 +84,11 @@ export function HighlightedText({
                 {isOpen && (
                   <span
                     role="tooltip"
-                    className="absolute left-1/2 top-full z-10 mt-2 w-64 -translate-x-1/2 rounded-xl border border-border bg-card p-3 font-sans text-sm leading-snug shadow-xl"
+                    className="postit absolute left-1/2 top-full z-10 mt-2 w-64 -translate-x-1/2 rotate-[-1.5deg] p-3 pb-4 font-sans text-sm leading-snug"
                     style={{ fontFamily: "var(--font-bricolage)" }}
                   >
                     <span className="mb-1 block font-bold">{item.word}</span>
-                    <span className="block text-muted-foreground">
-                      {item.definition}
-                    </span>
+                    <span className="block opacity-80">{item.definition}</span>
                   </span>
                 )}
               </span>
