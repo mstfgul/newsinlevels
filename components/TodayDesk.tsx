@@ -48,12 +48,12 @@ export function TodayDesk({
   const { language } = usePreferences();
 
   return (
-    <div className="relative mx-auto flex max-w-md flex-col gap-9 lg:block lg:h-[34rem] lg:w-full lg:max-w-[56rem]">
+    <div className="relative mx-auto flex max-w-md flex-col gap-9 lg:block lg:h-[34rem] lg:w-full lg:max-w-none">
       {/* The lead story, torn off the front page. */}
       {news && (
         <Link
           href="/news/"
-          className="group relative block rotate-[-1deg] rounded-lg border border-border bg-card p-5 shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-0 lg:top-0 lg:w-[37%]"
+          className="group relative block rotate-[-1deg] rounded-lg border border-border bg-card p-5 shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-0 lg:top-0 lg:w-[35%]"
         >
           <DeskLabel>news</DeskLabel>
           <h2 className="line-clamp-3 pt-1 text-xl font-bold leading-tight tracking-tight group-hover:underline group-hover:underline-offset-4">
@@ -74,7 +74,7 @@ export function TodayDesk({
       {film && (
         <Link
           href="/films/"
-          className="group relative z-10 block self-center rotate-[1.8deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-[36%] lg:top-0 lg:w-[22%]"
+          className="group relative z-10 block self-center rotate-[1.8deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:left-[38%] lg:top-0 lg:w-[20%]"
         >
           <DeskLabel>film club</DeskLabel>
           <figure className="clipping">
@@ -97,7 +97,7 @@ export function TodayDesk({
       {art && (
         <Link
           href="/art/"
-          className="group relative block rotate-[1.1deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:right-0 lg:top-[3%] lg:w-[33%]"
+          className="group relative block rotate-[1.1deg] transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:right-0 lg:top-[4%] lg:w-[28%]"
         >
           <DeskLabel>daily art</DeskLabel>
           <figure className="clipping">
@@ -120,7 +120,7 @@ export function TodayDesk({
       {history && (
         <Link
           href="/history/"
-          className="group relative block rotate-[-1.5deg] border border-border shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-[3%] lg:left-[2%] lg:w-[30%]"
+          className="group relative block rotate-[-1.5deg] border border-border shadow-sm transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-0 lg:left-[2%] lg:w-[28%]"
           style={{ background: "var(--print-paper)" }}
         >
           <DeskLabel>on this day</DeskLabel>
@@ -158,7 +158,7 @@ export function TodayDesk({
       {quote && (
         <Link
           href="/quotes/"
-          className="postit relative z-20 block w-full max-w-xs self-center rotate-[-2.5deg] p-5 pb-6 transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-0 lg:left-[34%] lg:w-[26%]"
+          className="postit relative z-20 block w-full max-w-xs self-center rotate-[-2.5deg] p-5 pb-6 transition-transform hover:z-30 hover:rotate-0 lg:absolute lg:bottom-[2%] lg:left-[33%] lg:w-[25%]"
         >
           <span className="font-mono text-[11px] uppercase tracking-widest opacity-60">
             quote of the day
