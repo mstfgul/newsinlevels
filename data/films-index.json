@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-05-a-ghost-story-david-lowery",
+    "date": "2026-07-05",
+    "director": "David Lowery",
+    "image": "https://image.tmdb.org/t/p/w780/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+    "titles": {
+      "en": "A Ghost Story",
+      "de": "A Ghost Story",
+      "fr": "A Ghost Story",
+      "tr": "A Ghost Story"
+    }
+  },
+  {
     "id": "2026-07-05-the-color-of-pomegranates-sergei-parajanov",
     "date": "2026-07-05",
     "director": "Sergei Parajanov",
