@@ -1,0 +1,230 @@
+{
+  "id": "2026-07-05-coral-reefs-show-signs-of-recovery",
+  "date": "2026-07-05",
+  "source": { "name": "Demo article", "url": "https://example.com" },
+  "originalTitle": "Pacific coral reefs show remarkable signs of recovery, scientists say",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Good news about coral",
+        "text": "Coral lives in the sea. Coral is very important. Many fish live near coral. Some coral was sick. The water was too warm. Now scientists have good news. The coral in the Pacific Ocean is better. It is growing again. Scientists are happy. They say: \"We must keep the water clean.\" Then the coral can live long.",
+        "vocabulary": [
+          { "word": "coral", "definition": "a small sea animal; it looks like a colorful stone" },
+          { "word": "sea", "definition": "big water, like the ocean" },
+          { "word": "scientist", "definition": "a person who studies nature" },
+          { "word": "warm", "definition": "a little hot" },
+          { "word": "grow", "definition": "to get bigger" }
+        ]
+      },
+      "A2": {
+        "title": "Coral reefs are getting better",
+        "text": "Scientists have good news from the Pacific Ocean. Many coral reefs were in danger because the water was too warm. Coral is important because thousands of fish and sea animals live there. Last year, scientists visited more than one hundred reefs. They saw that many corals are healthy again and new corals are growing. One scientist said, \"This is a big surprise. Nature can repair itself when we protect it.\" But there is still work to do. We must stop pollution and keep the oceans cool.",
+        "vocabulary": [
+          { "word": "reef", "definition": "a place in the sea where many corals live together" },
+          { "word": "in danger", "definition": "in a bad or unsafe situation" },
+          { "word": "healthy", "definition": "not sick; in good condition" },
+          { "word": "protect", "definition": "to keep something safe" },
+          { "word": "pollution", "definition": "dirty things that hurt nature" }
+        ]
+      },
+      "B1": {
+        "title": "Pacific coral reefs show signs of recovery",
+        "text": "Scientists studying the Pacific Ocean have announced encouraging news: many coral reefs that were badly damaged by warm water are now recovering. Coral reefs are often called the rainforests of the sea because they are home to about a quarter of all ocean species. In recent years, rising sea temperatures caused a process called bleaching, which turns corals white and can kill them. However, a new study of more than one hundred reefs shows that young corals are growing back in many areas. Researchers believe that cooler currents and better protection helped the reefs recover. \"Nature is more resilient than we expected,\" said the lead scientist, \"but this recovery is fragile.\" Experts warn that the progress could be lost if ocean temperatures continue to rise. They are asking governments to reduce pollution and create more protected areas in the ocean.",
+        "vocabulary": [
+          { "word": "recovery", "definition": "the process of becoming healthy or normal again" },
+          { "word": "damaged", "definition": "broken or hurt" },
+          { "word": "bleaching", "definition": "when corals lose their color and become white because the water is too warm" },
+          { "word": "species", "definition": "a type of animal or plant" },
+          { "word": "resilient", "definition": "strong enough to recover after problems" },
+          { "word": "fragile", "definition": "easy to break or destroy" }
+        ]
+      },
+      "B2": {
+        "title": "Remarkable recovery observed across Pacific coral reefs",
+        "text": "Marine scientists have reported an unexpected and remarkable recovery across large sections of the Pacific's coral reefs, only a few years after record-breaking heatwaves left many of them severely bleached. The findings are based on a survey of more than one hundred reefs carried out over eighteen months by an international research team. Coral reefs occupy less than one percent of the ocean floor, yet they support roughly a quarter of all marine species, which makes their decline a serious threat to biodiversity and to the millions of people whose livelihoods depend on fishing and tourism. According to the study, juvenile corals are now settling and growing at rates not seen in over a decade, helped by a period of cooler currents and by stricter fishing regulations introduced in several regions. Nevertheless, the researchers caution against celebrating too soon. The recovery, they stress, remains highly vulnerable: a single severe heatwave could undo years of progress. They urge governments to expand marine protected areas and to cut the emissions that drive ocean warming.",
+        "vocabulary": [
+          { "word": "survey", "definition": "a detailed study or examination of an area" },
+          { "word": "biodiversity", "definition": "the variety of plants and animals in an environment" },
+          { "word": "livelihood", "definition": "the way a person earns money to live" },
+          { "word": "juvenile", "definition": "young; not yet fully grown" },
+          { "word": "regulations", "definition": "official rules" },
+          { "word": "vulnerable", "definition": "easily harmed or damaged" },
+          { "word": "emissions", "definition": "gases released into the air, for example from cars and factories" }
+        ]
+      },
+      "C1": {
+        "title": "Pacific reefs stage a fragile comeback, defying grim forecasts",
+        "text": "In a development that has taken much of the marine science community by surprise, coral reefs across broad stretches of the Pacific are staging a recovery that few models had predicted. An eighteen-month survey spanning more than a hundred reefs — from the Coral Triangle to remote Polynesian atolls — has documented juvenile coral settlement at rates unseen since the early 2010s, a striking reversal for ecosystems that successive marine heatwaves had left ghostly white and, in places, seemingly beyond saving. The researchers attribute the turnaround to a fortunate convergence of factors: a multi-year spell of cooler currents, the expansion of no-take fishing zones, and, intriguingly, evidence that some coral populations are adapting to warmer conditions faster than anticipated. Yet the tone of the report is anything but triumphant. The authors repeatedly emphasise how precarious the gains remain, noting that a single El Niño-driven heatwave could erase a decade's progress within weeks. Their conclusion is pointed: nature has bought humanity time it scarcely deserves, and whether that reprieve is squandered will depend on decisions about emissions and ocean governance taken in this decade.",
+        "vocabulary": [
+          { "word": "to stage a comeback", "definition": "to return to a good condition after a period of decline" },
+          { "word": "atoll", "definition": "a ring-shaped coral island surrounding a lagoon" },
+          { "word": "convergence", "definition": "the coming together of several factors at the same time" },
+          { "word": "precarious", "definition": "dangerously unstable; likely to collapse" },
+          { "word": "reprieve", "definition": "a temporary escape from something bad" },
+          { "word": "to squander", "definition": "to waste an opportunity or resource carelessly" }
+        ]
+      },
+      "C2": {
+        "title": "An undeserved reprieve: the Pacific's corals claw their way back",
+        "text": "Ecological obituaries, it turns out, can be premature. Half a decade after successive marine heatwaves reduced swathes of the Pacific's reefs to bleached, skeletal ruins — and after a chorus of experts had all but consigned them to the past tense — an exhaustive eighteen-month survey finds the corals mounting a comeback of improbable vigour. Juvenile recruitment across the hundred-odd reefs studied has surged to levels unrecorded since the early 2010s; in the most striking cases, reefs written off as functionally dead now shimmer with regrowth. The causes, the authors suggest, amount to a lucky confluence rather than a vindication of policy: an obliging run of cooler currents, belatedly enforced no-take zones, and tantalising hints that certain coral genotypes are proving more thermally plastic than the models allowed. What the report pointedly declines to offer is absolution. Its authors are at pains to stress that these gains hang by a thread — one ferocious El Niño away from annihilation — and their prose occasionally sheds scientific restraint altogether: nature, they write, has extended humanity a reprieve it has done precious little to earn. Whether that clemency is honoured or frittered away in another decade of dithering over emissions is, as ever, our call to make.",
+        "vocabulary": [
+          { "word": "obituary", "definition": "a notice announcing a death; here used figuratively for declaring something finished" },
+          { "word": "to consign to the past tense", "definition": "to treat something as already dead or gone (figurative)" },
+          { "word": "recruitment", "definition": "in ecology, the process by which young organisms join a population" },
+          { "word": "confluence", "definition": "a coming together of events or factors" },
+          { "word": "thermally plastic", "definition": "able to adapt to changes in temperature" },
+          { "word": "clemency", "definition": "mercy; gentleness shown when punishment was expected" },
+          { "word": "to fritter away", "definition": "to waste something gradually on unimportant things" }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Gute Nachrichten über Korallen",
+        "text": "Korallen leben im Meer. Korallen sind sehr wichtig. Viele Fische leben bei den Korallen. Einige Korallen waren krank. Das Wasser war zu warm. Jetzt gibt es gute Nachrichten. Die Korallen im Pazifik sind wieder gesund. Sie wachsen wieder. Die Forscher sind froh. Sie sagen: \"Wir müssen das Wasser sauber halten.\" Dann leben die Korallen lange.",
+        "vocabulary": [
+          { "word": "die Koralle", "definition": "ein kleines Tier im Meer; es sieht aus wie ein bunter Stein" },
+          { "word": "das Meer", "definition": "sehr großes Wasser" },
+          { "word": "der Forscher", "definition": "eine Person, die die Natur studiert" },
+          { "word": "warm", "definition": "ein bisschen heiß" },
+          { "word": "wachsen", "definition": "größer werden" }
+        ]
+      },
+      "A2": {
+        "title": "Den Korallenriffen geht es besser",
+        "text": "Forscher haben gute Nachrichten aus dem Pazifik. Viele Korallenriffe waren in Gefahr, weil das Wasser zu warm war. Korallen sind wichtig, denn tausende Fische und Meerestiere leben dort. Letztes Jahr haben Forscher mehr als hundert Riffe besucht. Sie haben gesehen: Viele Korallen sind wieder gesund und neue Korallen wachsen. Ein Forscher sagte: \"Das ist eine große Überraschung. Die Natur kann sich selbst reparieren, wenn wir sie schützen.\" Aber es gibt noch viel Arbeit. Wir müssen die Verschmutzung stoppen und die Ozeane kühl halten.",
+        "vocabulary": [
+          { "word": "das Riff", "definition": "ein Ort im Meer, wo viele Korallen zusammen leben" },
+          { "word": "in Gefahr", "definition": "in einer schlechten, unsicheren Situation" },
+          { "word": "gesund", "definition": "nicht krank" },
+          { "word": "schützen", "definition": "etwas sicher machen" },
+          { "word": "die Verschmutzung", "definition": "schmutzige Dinge, die der Natur schaden" }
+        ]
+      },
+      "B1": {
+        "title": "Korallenriffe im Pazifik erholen sich",
+        "text": "Forscher, die den Pazifik untersuchen, haben erfreuliche Neuigkeiten verkündet: Viele Korallenriffe, die durch warmes Wasser stark beschädigt wurden, erholen sich jetzt. Korallenriffe nennt man oft die Regenwälder des Meeres, weil dort etwa ein Viertel aller Meeresarten zu Hause ist. In den letzten Jahren führten steigende Wassertemperaturen zur sogenannten Korallenbleiche, die Korallen weiß färbt und töten kann. Eine neue Studie von mehr als hundert Riffen zeigt jedoch, dass in vielen Gebieten junge Korallen nachwachsen. Die Forscher glauben, dass kühlere Strömungen und besserer Schutz den Riffen geholfen haben. \"Die Natur ist widerstandsfähiger, als wir dachten\", sagte der leitende Wissenschaftler, \"aber diese Erholung ist zerbrechlich.\" Experten warnen, dass der Fortschritt verloren gehen könnte, wenn die Meerestemperaturen weiter steigen. Sie fordern die Regierungen auf, die Verschmutzung zu verringern und mehr Schutzgebiete im Meer einzurichten.",
+        "vocabulary": [
+          { "word": "die Erholung", "definition": "der Prozess, wieder gesund oder normal zu werden" },
+          { "word": "beschädigt", "definition": "kaputt oder verletzt" },
+          { "word": "die Korallenbleiche", "definition": "wenn Korallen ihre Farbe verlieren, weil das Wasser zu warm ist" },
+          { "word": "die Art", "definition": "ein Typ von Tier oder Pflanze" },
+          { "word": "widerstandsfähig", "definition": "stark genug, um sich nach Problemen zu erholen" },
+          { "word": "zerbrechlich", "definition": "leicht kaputtzumachen" }
+        ]
+      },
+      "B2": {
+        "title": "Bemerkenswerte Erholung der Korallenriffe im Pazifik beobachtet",
+        "text": "Meeresforscher berichten von einer unerwarteten und bemerkenswerten Erholung großer Teile der pazifischen Korallenriffe – nur wenige Jahre, nachdem rekordverdächtige Hitzewellen viele von ihnen schwer ausgebleicht hatten. Die Ergebnisse beruhen auf einer achtzehnmonatigen Untersuchung von mehr als hundert Riffen durch ein internationales Forschungsteam. Korallenriffe bedecken weniger als ein Prozent des Meeresbodens, beherbergen aber rund ein Viertel aller Meeresarten. Ihr Rückgang bedroht daher die Artenvielfalt und die Existenzgrundlage von Millionen Menschen, die vom Fischfang und vom Tourismus leben. Der Studie zufolge siedeln sich junge Korallen derzeit so schnell an wie seit über einem Jahrzehnt nicht mehr – begünstigt durch eine Phase kühlerer Strömungen und strengere Fischereivorschriften in mehreren Regionen. Dennoch warnen die Forscher davor, zu früh zu feiern. Die Erholung sei äußerst verwundbar: Eine einzige schwere Hitzewelle könnte jahrelange Fortschritte zunichtemachen. Sie fordern die Regierungen auf, Meeresschutzgebiete auszuweiten und die Emissionen zu senken, die die Erwärmung der Ozeane antreiben.",
+        "vocabulary": [
+          { "word": "die Untersuchung", "definition": "eine genaue wissenschaftliche Studie" },
+          { "word": "die Artenvielfalt", "definition": "die Vielfalt der Pflanzen und Tiere in einer Umgebung" },
+          { "word": "die Existenzgrundlage", "definition": "das, womit ein Mensch sein Geld zum Leben verdient" },
+          { "word": "sich ansiedeln", "definition": "an einem Ort zu wachsen oder zu leben beginnen" },
+          { "word": "die Vorschrift", "definition": "eine offizielle Regel" },
+          { "word": "verwundbar", "definition": "leicht zu verletzen oder zu beschädigen" },
+          { "word": "zunichtemachen", "definition": "etwas völlig zerstören" }
+        ]
+      },
+      "C1": {
+        "title": "Pazifische Riffe trotzen düsteren Prognosen – ein zerbrechliches Comeback",
+        "text": "Mit einer Entwicklung, die weite Teile der Meeresforschung überrascht hat, erholen sich Korallenriffe in großen Bereichen des Pazifiks – eine Wende, die kaum ein Modell vorhergesagt hatte. Eine achtzehnmonatige Erhebung an über hundert Riffen, vom Korallendreieck bis zu abgelegenen polynesischen Atollen, dokumentiert eine Ansiedlung junger Korallen in einem Ausmaß, wie es seit den frühen 2010er-Jahren nicht mehr beobachtet wurde – eine verblüffende Kehrtwende für Ökosysteme, die aufeinanderfolgende marine Hitzewellen gespenstisch weiß und mancherorts scheinbar unrettbar zurückgelassen hatten. Die Forscher führen den Umschwung auf ein glückliches Zusammentreffen mehrerer Faktoren zurück: eine mehrjährige Phase kühlerer Strömungen, die Ausweitung von Fangverbotszonen und – besonders bemerkenswert – Hinweise darauf, dass sich manche Korallenpopulationen schneller an wärmere Bedingungen anpassen als erwartet. Der Ton des Berichts ist dennoch alles andere als triumphierend. Die Autoren betonen wiederholt, wie prekär die Fortschritte bleiben: Eine einzige durch El Niño ausgelöste Hitzewelle könnte die Erfolge eines Jahrzehnts binnen Wochen auslöschen. Ihr Fazit ist pointiert: Die Natur hat der Menschheit Zeit verschafft, die sie kaum verdient hat – und ob diese Gnadenfrist vertan wird, entscheidet sich mit der Klima- und Meerespolitik dieses Jahrzehnts.",
+        "vocabulary": [
+          { "word": "die Kehrtwende", "definition": "eine plötzliche, vollständige Richtungsänderung" },
+          { "word": "das Zusammentreffen", "definition": "das gleichzeitige Auftreten mehrerer Faktoren" },
+          { "word": "prekär", "definition": "gefährlich unsicher, instabil" },
+          { "word": "die Gnadenfrist", "definition": "ein zeitlicher Aufschub vor etwas Schlimmem" },
+          { "word": "vertun", "definition": "eine Chance nutzlos verschwenden" },
+          { "word": "gespenstisch", "definition": "unheimlich, wie ein Geist" }
+        ]
+      },
+      "C2": {
+        "title": "Unverdiente Gnadenfrist: Die Korallen des Pazifiks kämpfen sich zurück",
+        "text": "Ökologische Nachrufe, so zeigt sich, können verfrüht sein. Ein halbes Jahrzehnt, nachdem aufeinanderfolgende marine Hitzewellen weite Teile der pazifischen Riffe in gebleichte, skelettartige Ruinen verwandelt hatten – und nachdem ein Chor von Fachleuten sie bereits ins Imperfekt verabschiedet hatte –, attestiert ihnen eine erschöpfende achtzehnmonatige Erhebung ein Comeback von unwahrscheinlicher Vitalität. Die Rekrutierung von Jungkorallen ist an den gut hundert untersuchten Riffen auf Werte geschnellt, wie sie seit den frühen 2010er-Jahren nicht verzeichnet wurden; in den frappierendsten Fällen schimmern Riffe, die man als funktional tot abgeschrieben hatte, wieder vor Neubewuchs. Die Ursachen, so die Autoren, gleichen eher einer glücklichen Fügung als einer Bestätigung der Politik: eine gefällige Abfolge kühlerer Strömungen, endlich durchgesetzte Fangverbotszonen und verlockende Indizien dafür, dass gewisse Korallengenotypen thermisch anpassungsfähiger sind, als die Modelle es zuließen. Was der Bericht wohlweislich verweigert, ist die Absolution. Seine Verfasser lassen keinen Zweifel daran, dass diese Zugewinne am seidenen Faden hängen – einen einzigen wütenden El Niño von der Vernichtung entfernt –, und stellenweise streift ihre Prosa die wissenschaftliche Zurückhaltung gänzlich ab: Die Natur, schreiben sie, habe der Menschheit eine Gnadenfrist gewährt, um die diese sich herzlich wenig verdient gemacht habe. Ob diese Milde honoriert oder in einem weiteren Jahrzehnt emissionspolitischen Zauderns verspielt wird, liegt – wie eh und je – an uns.",
+        "vocabulary": [
+          { "word": "der Nachruf", "definition": "ein Text zum Tod einer Person; hier bildlich für das Für-tot-Erklären" },
+          { "word": "frappierend", "definition": "verblüffend, äußerst überraschend" },
+          { "word": "die Fügung", "definition": "ein glückliches, schicksalhaftes Zusammentreffen" },
+          { "word": "wohlweislich", "definition": "mit gutem Grund, absichtlich" },
+          { "word": "am seidenen Faden hängen", "definition": "in höchst unsicherer Lage sein" },
+          { "word": "das Zaudern", "definition": "zögerliches Nichthandeln" },
+          { "word": "verspielen", "definition": "eine Chance leichtfertig verlieren" }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Une bonne nouvelle sur le corail",
+        "text": "Le corail vit dans la mer. Le corail est très important. Beaucoup de poissons vivent près du corail. Des coraux étaient malades. L'eau était trop chaude. Maintenant, il y a une bonne nouvelle. Le corail du Pacifique va mieux. Il grandit encore. Les scientifiques sont contents. Ils disent : « Il faut garder l'eau propre. » Alors le corail peut vivre longtemps.",
+        "vocabulary": [
+          { "word": "le corail", "definition": "un petit animal de la mer ; il ressemble à une pierre colorée" },
+          { "word": "la mer", "definition": "une très grande eau" },
+          { "word": "le scientifique", "definition": "une personne qui étudie la nature" },
+          { "word": "chaud", "definition": "un peu comme le feu ; pas froid" },
+          { "word": "grandir", "definition": "devenir plus grand" }
+        ]
+      },
+      "A2": {
+        "title": "Les récifs de corail vont mieux",
+        "text": "Les scientifiques ont de bonnes nouvelles du Pacifique. Beaucoup de récifs de corail étaient en danger parce que l'eau était trop chaude. Le corail est important car des milliers de poissons et d'animaux marins y vivent. L'année dernière, des scientifiques ont visité plus de cent récifs. Ils ont vu que beaucoup de coraux sont de nouveau en bonne santé et que de nouveaux coraux grandissent. Un scientifique a dit : « C'est une grande surprise. La nature peut se réparer quand nous la protégeons. » Mais il reste du travail. Nous devons arrêter la pollution et garder les océans frais.",
+        "vocabulary": [
+          { "word": "le récif", "definition": "un endroit dans la mer où beaucoup de coraux vivent ensemble" },
+          { "word": "en danger", "definition": "dans une situation mauvaise ou risquée" },
+          { "word": "en bonne santé", "definition": "pas malade" },
+          { "word": "protéger", "definition": "garder quelque chose en sécurité" },
+          { "word": "la pollution", "definition": "les choses sales qui font mal à la nature" }
+        ]
+      },
+      "B1": {
+        "title": "Les récifs coralliens du Pacifique montrent des signes de guérison",
+        "text": "Les scientifiques qui étudient l'océan Pacifique ont annoncé une nouvelle encourageante : de nombreux récifs coralliens, gravement abîmés par l'eau chaude, sont en train de se rétablir. On appelle souvent les récifs coralliens les forêts tropicales de la mer, car environ un quart de toutes les espèces marines y vivent. Ces dernières années, la hausse des températures de la mer a provoqué un phénomène appelé blanchissement, qui rend les coraux blancs et peut les tuer. Cependant, une nouvelle étude portant sur plus de cent récifs montre que de jeunes coraux repoussent dans de nombreuses zones. Les chercheurs pensent que des courants plus frais et une meilleure protection ont aidé les récifs à se rétablir. « La nature est plus résistante que prévu », a déclaré le scientifique principal, « mais cette guérison est fragile. » Les experts avertissent que les progrès pourraient disparaître si les températures continuent de monter. Ils demandent aux gouvernements de réduire la pollution et de créer plus de zones protégées dans l'océan.",
+        "vocabulary": [
+          { "word": "la guérison", "definition": "le fait de redevenir en bonne santé" },
+          { "word": "abîmé", "definition": "cassé ou endommagé" },
+          { "word": "le blanchissement", "definition": "quand les coraux perdent leur couleur parce que l'eau est trop chaude" },
+          { "word": "l'espèce", "definition": "un type d'animal ou de plante" },
+          { "word": "résistant", "definition": "assez fort pour se remettre après des problèmes" },
+          { "word": "fragile", "definition": "facile à casser ou à détruire" }
+        ]
+      },
+      "B2": {
+        "title": "Une remarquable reprise observée sur les récifs coralliens du Pacifique",
+        "text": "Des scientifiques marins font état d'une reprise inattendue et remarquable sur de vastes portions des récifs coralliens du Pacifique, quelques années seulement après que des canicules record les ont laissés gravement blanchis. Ces conclusions s'appuient sur un relevé de plus de cent récifs, mené pendant dix-huit mois par une équipe internationale. Les récifs coralliens occupent moins d'un pour cent des fonds marins, mais abritent environ un quart de toutes les espèces marines ; leur déclin menace donc la biodiversité ainsi que les moyens de subsistance de millions de personnes vivant de la pêche et du tourisme. Selon l'étude, de jeunes coraux s'installent et croissent aujourd'hui à un rythme inédit depuis plus de dix ans, favorisés par une période de courants plus frais et par des réglementations de pêche plus strictes dans plusieurs régions. Les chercheurs mettent néanmoins en garde contre tout triomphalisme : la reprise demeure très vulnérable, et une seule canicule marine sévère pourrait anéantir des années de progrès. Ils exhortent les gouvernements à étendre les aires marines protégées et à réduire les émissions responsables du réchauffement des océans.",
+        "vocabulary": [
+          { "word": "le relevé", "definition": "une étude détaillée d'une zone" },
+          { "word": "la biodiversité", "definition": "la variété des plantes et des animaux dans un milieu" },
+          { "word": "les moyens de subsistance", "definition": "ce qui permet à une personne de gagner sa vie" },
+          { "word": "croître", "definition": "grandir, se développer" },
+          { "word": "la réglementation", "definition": "l'ensemble des règles officielles" },
+          { "word": "vulnérable", "definition": "facile à blesser ou à endommager" },
+          { "word": "exhorter", "definition": "encourager fortement quelqu'un à faire quelque chose" }
+        ]
+      },
+      "C1": {
+        "title": "Les récifs du Pacifique amorcent un fragile retour, défiant les pronostics",
+        "text": "Dans un revirement qui a pris de court une bonne partie de la communauté scientifique, les récifs coralliens de vastes zones du Pacifique connaissent un rétablissement que presque aucun modèle n'avait prédit. Un relevé de dix-huit mois couvrant plus de cent récifs — du Triangle de corail aux atolls reculés de Polynésie — documente une installation de jeunes coraux à des niveaux inédits depuis le début des années 2010 : un renversement saisissant pour des écosystèmes que des canicules marines successives avaient laissés d'une blancheur spectrale et, par endroits, apparemment condamnés. Les chercheurs attribuent ce redressement à une convergence heureuse de facteurs : plusieurs années de courants plus frais, l'extension des zones de pêche interdite et, de manière intrigante, des indices montrant que certaines populations coralliennes s'adaptent au réchauffement plus vite qu'escompté. Le ton du rapport n'a pourtant rien de triomphal. Ses auteurs soulignent à maintes reprises la précarité de ces acquis : une seule canicule attisée par El Niño pourrait effacer en quelques semaines une décennie de progrès. Leur conclusion est cinglante : la nature a accordé à l'humanité un sursis qu'elle n'a guère mérité, et c'est au cours de cette décennie, par ses choix en matière d'émissions et de gouvernance des océans, qu'elle décidera si ce répit sera gaspillé.",
+        "vocabulary": [
+          { "word": "le revirement", "definition": "un changement complet et soudain de situation" },
+          { "word": "prendre de court", "definition": "surprendre quelqu'un qui ne s'y attendait pas" },
+          { "word": "spectral", "definition": "qui fait penser à un fantôme" },
+          { "word": "la précarité", "definition": "le caractère instable et incertain de quelque chose" },
+          { "word": "le sursis", "definition": "un délai accordé avant un événement grave" },
+          { "word": "cinglant", "definition": "dur et blessant, comme un coup de fouet" }
+        ]
+      },
+      "C2": {
+        "title": "Un sursis immérité : les coraux du Pacifique reprennent pied",
+        "text": "Les nécrologies écologiques, décidément, peuvent être prématurées. Un lustre après que des canicules marines successives eurent réduit des pans entiers des récifs du Pacifique à l'état de ruines blanchies et squelettiques — et après qu'un chœur d'experts les eut quasiment conjugués au passé —, un relevé exhaustif de dix-huit mois leur découvre un regain d'une vigueur improbable. Le recrutement de jeunes coraux, sur la centaine de récifs étudiés, a bondi à des niveaux jamais consignés depuis le début des années 2010 ; dans les cas les plus frappants, des récifs rayés de la carte comme fonctionnellement morts scintillent à nouveau de repousses. Les causes, avancent les auteurs, tiennent davantage d'un concours de circonstances que d'une consécration des politiques menées : une succession complaisante de courants plus frais, des zones de pêche interdite enfin appliquées, et de troublants indices selon lesquels certains génotypes coralliens se révèlent thermiquement plus plastiques que ne l'admettaient les modèles. Ce que le rapport se garde bien d'offrir, c'est l'absolution. Ses auteurs martèlent que ces acquis ne tiennent qu'à un fil — à un seul El Niño déchaîné de l'anéantissement — et leur prose, par endroits, se départit tout à fait de la retenue scientifique : la nature, écrivent-ils, a consenti à l'humanité un sursis qu'elle n'a guère fait l'effort de mériter. Que cette clémence soit honorée ou dilapidée dans une nouvelle décennie de tergiversations climatiques, c'est, comme toujours, à nous d'en décider.",
+        "vocabulary": [
+          { "word": "la nécrologie", "definition": "un texte annonçant une mort ; ici, au sens figuré, déclarer une chose finie" },
+          { "word": "un lustre", "definition": "une période de cinq ans (littéraire)" },
+          { "word": "conjuguer au passé", "definition": "considérer comme déjà disparu (figuré)" },
+          { "word": "le concours de circonstances", "definition": "une rencontre fortuite de plusieurs événements" },
+          { "word": "se départir de", "definition": "abandonner (une attitude, une réserve)" },
+          { "word": "dilapider", "definition": "gaspiller complètement" },
+          { "word": "les tergiversations", "definition": "les hésitations qui retardent une décision" }
+        ]
+      }
+    }
+  }
+}
