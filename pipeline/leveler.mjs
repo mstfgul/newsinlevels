@@ -29,12 +29,14 @@ export const CATEGORIES = [
 export const MODEL = process.env.OPENAI_MODEL ?? "gpt-4o-mini";
 
 const LEVEL_SPECS = `
-A1: 60-90 words. Present tense only. Very short sentences (max 8 words). Only the ~500 most common words of the language. No subordinate clauses.
-A2: 90-130 words. Present and simple past. Short sentences (max 12 words). Common everyday vocabulary. Simple connectors (and, but, because).
-B1: 130-180 words. Most common tenses. Some subordinate clauses. Everyday vocabulary plus common news words. Explain difficult concepts simply.
-B2: 180-240 words. Full range of tenses, passive voice allowed. Complex sentences. Standard news vocabulary, some idioms.
-C1: 220-300 words. Sophisticated structures, nuanced connectors, reported speech. Rich vocabulary, natural journalistic register.
-C2: 250-350 words. Native-level journalistic prose. Idiomatic, precise, stylistically refined. May include irony, nuance, low-frequency vocabulary.`;
+A1: 100-140 words. Present tense only. Very short sentences (max 8 words). Only the ~500 most common words of the language. No subordinate clauses.
+A2: 150-200 words. Present and simple past. Short sentences (max 12 words). Common everyday vocabulary. Simple connectors (and, but, because).
+B1: 220-290 words. Most common tenses. Some subordinate clauses. Everyday vocabulary plus common news words. Explain difficult concepts simply.
+B2: 300-380 words. Full range of tenses, passive voice allowed. Complex sentences. Standard news vocabulary, some idioms.
+C1: 380-470 words. Sophisticated structures, nuanced connectors, reported speech. Rich vocabulary, natural journalistic register.
+C2: 450-560 words. Native-level journalistic prose. Idiomatic, precise, stylistically refined. May include irony, nuance, low-frequency vocabulary.
+
+Word counts are minimums to respect, not targets to stop short of: each level's text MUST reach at least the lower bound of its range. Develop the material fully — add context, background and consequences at higher levels rather than padding with repetition.`;
 
 export function readJson(file, fallback) {
   return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : fallback;
@@ -110,7 +112,7 @@ ${sourceText}`,
     quote: `Work with the famous quote below. First decide on ONE faithful, natural ${langName} translation of the quote. Use that SAME translation, word for word, in the "title" field of EVERY level — the quote itself must never change between levels. Only the explanation changes.
 
 In each level's "text" field, write a short note IN ${langName} — say who the author was in one line, then explain what the quote means and why it resonates. Keep the note within these level limits (they replace the word counts above for this short format):
-A1: 30-50 words, very simple. A2: 45-70 words. B1: 60-90 words. B2: 80-120 words. C1: 110-150 words. C2: 130-180 words. Simpler levels, simpler language.
+A1: 50-80 words, very simple. A2: 75-110 words. B1: 100-150 words. B2: 140-200 words. C1: 180-250 words. C2: 220-300 words. Simpler levels, simpler language. Reach at least the lower bound of each range.
 
 Do not invent biographical facts beyond those provided.
 ${SHARED_INSTRUCTIONS(langName)}
