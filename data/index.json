@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-05-large-crowds-gather-in-tehran-on-first-day-of-ayatollah-kham",
+    "date": "2026-07-05",
+    "source": "BBC News",
+    "titles": {
+      "en": "Massive Gatherings in Tehran for Khamenei's Funeral",
+      "de": "Große Trauerfeierlichkeiten in Teheran",
+      "fr": "Des foules se rassemblent à Téhéran pour les funérailles de Khamenei"
+    }
+  },
+  {
+    "id": "2026-07-05-ukraine-hits-major-oil-terminal-in-russia-s-st-petersburg",
+    "date": "2026-07-05",
+    "source": "BBC News",
+    "titles": {
+      "en": "Ukraine Strikes Key Oil Terminal in St Petersburg",
+      "de": "Ukraine greift Ölinfrastruktur in St. Petersburg an",
+      "fr": "L'Ukraine frappe un terminal pétrolier clé à Saint-Pétersbourg"
+    }
+  },
+  {
+    "id": "2026-07-05-brutal-heat-cancels-fourth-of-july-events-from-dc-to-philade",
+    "date": "2026-07-05",
+    "source": "BBC News",
+    "titles": {
+      "en": "Heatwave cancels Fourth of July celebrations",
+      "de": "Extreme Hitze stoppt Feierlichkeiten zum 4. Juli",
+      "fr": "La chaleur extrême annule les célébrations du 4 juillet"
+    }
+  },
+  {
     "id": "2026-07-05-coral-reefs-show-signs-of-recovery",
     "date": "2026-07-05",
     "source": "Demo article",
