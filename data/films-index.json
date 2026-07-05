@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-05-the-spirit-of-the-beehive-victor-erice",
+    "date": "2026-07-05",
+    "director": "Víctor Erice",
+    "image": "https://image.tmdb.org/t/p/w780/o6pUTkoCh4r6EA2dHNFKA40OmH2.jpg",
+    "titles": {
+      "en": "The Spirit of the Beehive",
+      "de": "Der Geist der Bienenstock",
+      "fr": "L'esprit de la ruche",
+      "tr": "Abezerlerin Ruhu"
+    }
+  },
+  {
     "id": "2026-07-05-a-ghost-story-david-lowery",
     "date": "2026-07-05",
     "director": "David Lowery",
