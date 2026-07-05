@@ -3,7 +3,7 @@ import { getQuoteIndex } from "@/lib/data";
 import { QuotesList } from "@/components/QuotesList";
 
 export const metadata: Metadata = {
-  title: "Quotes — News in Levels",
+  title: "Quotes — Any Text in Levels",
   description:
     "A line from a great author or poet each day, translated and explained at CEFR levels A1–C2 in English, German, French and Turkish.",
 };

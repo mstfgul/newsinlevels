@@ -3,7 +3,7 @@ import { getHistoryIndex } from "@/lib/data";
 import { HistoryList } from "@/components/HistoryList";
 
 export const metadata: Metadata = {
-  title: "On This Day — News in Levels",
+  title: "On This Day — Any Text in Levels",
   description:
     "One historical event a day, told at CEFR levels A1–C2 in English, German, French and Turkish.",
 };

@@ -4,7 +4,7 @@ tags: []
 
 ---
 
-# News in Levels
+# Any Text in Levels
 
 **Canlı:** https://newsinlevels.vercel.app
 

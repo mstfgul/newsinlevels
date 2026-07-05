@@ -3,7 +3,7 @@ import { getArtIndex } from "@/lib/data";
 import { GalleryList } from "@/components/GalleryList";
 
 export const metadata: Metadata = {
-  title: "Daily Art — News in Levels",
+  title: "Daily Art — Any Text in Levels",
   description:
     "One public-domain painting a day, analyzed at CEFR levels A1–C2 in English, German, French and Turkish.",
 };

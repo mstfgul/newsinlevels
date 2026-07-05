@@ -35,9 +35,9 @@ const caveat = Caveat({
 });
 
 export const metadata: Metadata = {
-  title: "News in Levels — learn languages with real news",
+  title: "Any Text in Levels — learn languages with real content",
   description:
-    "Real daily news rewritten at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "Real news, art, quotes and history rewritten at CEFR levels A1–C2 in English, German, French and Turkish.",
 };
 
 export default function RootLayout({
@@ -60,7 +60,7 @@ export default function RootLayout({
                   className="flex shrink-0 items-center gap-2 text-lg font-bold tracking-tight"
                 >
                   <img src="/icon.svg" alt="" aria-hidden className="size-6" />
-                  <span className="hidden sm:inline">News in </span>
+                  <span className="hidden sm:inline">Any Text in </span>
                   <span className="relative inline-block px-1">
                     <span
                       aria-hidden
@@ -81,7 +81,7 @@ export default function RootLayout({
             {children}
           </main>
           <footer className="border-t border-border py-6 text-center font-mono text-xs uppercase tracking-widest text-muted-foreground">
-            Real news · A1–C2 · EN / DE / FR / TR
+            Real content · A1–C2 · EN / DE / FR / TR
           </footer>
         </PreferencesProvider>
       </body>
