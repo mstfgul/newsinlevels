@@ -1,0 +1,93 @@
+{
+  "id": "2026-07-05-the-happy-prince-part-1",
+  "date": "2026-07-05",
+  "source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=The%20Happy%20Prince%20Oscar%20Wilde"
+  },
+  "originalTitle": "The Happy Prince — Part 1 of 5",
+  "category": "fiction",
+  "story": {
+    "title": "The Happy Prince",
+    "author": "Oscar Wilde",
+    "part": 1,
+    "totalParts": 5
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The bird and the statue",
+        "text": "High above a city stands a statue. He is the Happy Prince. His body is gold. His eyes are two blue stones. A red stone shines on his sword. Everyone in the city loves him. One night a little bird comes. He is a swallow. His friends are in Egypt now. It is warm there. But the swallow is here, alone and tired. He sleeps at the statue's feet. Then water falls on him. Drip. Drip. He looks up. The statue is crying. Why is the Happy Prince sad?",
+        "vocabulary": [
+          { "word": "statue", "definition": "a person made of stone or metal, not alive" },
+          { "word": "gold", "definition": "a yellow metal; it costs a lot" },
+          { "word": "swallow", "definition": "a small bird; it flies to warm countries in winter" },
+          { "word": "sword", "definition": "a long knife for fighting" },
+          { "word": "cry", "definition": "when water comes from your eyes because you are sad" },
+          { "word": "feet", "definition": "you stand on them; one foot, two feet" }
+        ]
+      },
+      "A2": {
+        "title": "A cold night in the city",
+        "text": "High above a city, on a tall column, stands the statue of the Happy Prince. His body is covered with gold, his eyes are two bright sapphires, and a red ruby shines on his sword. Everyone in the city admires him. One autumn night, a little swallow flies over the city. His friends flew to warm Egypt six weeks ago, but he stayed behind. Now he is alone, and the night is cold. \"I will sleep between the statue's feet,\" he thinks. \"It is a bedroom of gold!\" But when he puts his head under his wing, a big drop of water falls on him. Then another one. The sky is clear — so where does the water come from? The swallow looks up and sees something strange: the Happy Prince is crying. Why does a prince made of gold cry?",
+        "vocabulary": [
+          { "word": "column", "definition": "a tall, round thing made of stone; it holds something up" },
+          { "word": "sapphire", "definition": "a beautiful blue stone that costs a lot" },
+          { "word": "ruby", "definition": "a beautiful red stone that costs a lot" },
+          { "word": "admire", "definition": "to look at something and think it is wonderful" },
+          { "word": "wing", "definition": "a bird uses two of these to fly" },
+          { "word": "drop", "definition": "a very small ball of water" }
+        ]
+      },
+      "B1": {
+        "title": "The statue that wept",
+        "text": "High above the city, on a tall column, stands the statue of the Happy Prince. He is covered from head to foot with thin leaves of fine gold; his eyes are two bright sapphires, and a large red ruby glows on the handle of his sword. The people of the city are very proud of him and often stop to admire him. One autumn night a little swallow arrives in the city. His friends left for warm Egypt six weeks earlier, but he stayed behind, and now he is flying south alone. Tired after the long journey, he decides to sleep between the feet of the golden statue. \"I have a bedroom of gold,\" he says happily. But just as he tucks his head under his wing, a large drop of water falls on him — although the sky is completely clear and full of stars. A second drop falls, then a third. The swallow looks up, and what he sees astonishes him: the eyes of the Happy Prince are full of tears, and the tears are running down his golden cheeks.",
+        "vocabulary": [
+          { "word": "proud", "definition": "feeling happy about something that belongs to you" },
+          { "word": "glow", "definition": "to shine with a warm light" },
+          { "word": "journey", "definition": "travelling from one place to another" },
+          { "word": "tuck", "definition": "to put something in a small, safe place" },
+          { "word": "astonish", "definition": "to surprise someone very much" },
+          { "word": "tear", "definition": "a drop of water that comes from your eye when you cry" }
+        ]
+      },
+      "B2": {
+        "title": "A bedroom of gold",
+        "text": "High above the city, on a tall column, stood the statue of the Happy Prince, gilded all over with thin leaves of fine gold. For eyes he had two bright sapphires, and a large red ruby glowed on the hilt of his sword. He was admired by the whole town: councillors pointed at him to show off their taste in art, mothers held him up as an example to children who cried for things they could not have, and the charity children, coming out of the cathedral in their scarlet cloaks, whispered that he looked just like an angel. One autumn night there flew over the city a little swallow. His friends had left for Egypt six weeks before, but he had lingered behind — and now, at last, he too was making his way south, alone. Spotting the statue on its column, he decided it was the perfect place to spend the night. \"A bedroom with plenty of fresh air,\" he told himself, and settled down between the feet of the Happy Prince. But just as he was tucking his head under his wing, a large drop of water splashed onto him. Then came a second, and a third — yet the sky above was perfectly clear. Puzzled, the little bird looked up, and what he saw filled him with pity: the eyes of the Happy Prince were brimming with tears, and the tears were running down his golden cheeks.",
+        "vocabulary": [
+          { "word": "gilded", "definition": "covered with a thin layer of gold" },
+          { "word": "hilt", "definition": "the handle of a sword" },
+          { "word": "linger", "definition": "to stay somewhere longer than planned" },
+          { "word": "settle down", "definition": "to make yourself comfortable in a place" },
+          { "word": "puzzled", "definition": "confused because you cannot understand something" },
+          { "word": "brimming", "definition": "so full that it almost overflows" },
+          { "word": "pity", "definition": "sadness you feel for someone else's trouble" }
+        ]
+      },
+      "C1": {
+        "title": "The prince who weeps",
+        "text": "On a tall column high above the city stood the statue of the Happy Prince, and the city never tired of telling itself how splendid he was. He was gilded from head to foot with leaves of fine gold; his eyes were two bright sapphires; a great red ruby burned on the hilt of his sword. Town councillors praised him chiefly to advertise their own taste; sensible mothers pointed him out to children who cried for the moon — \"the Happy Prince never dreams of crying for anything\"; and the charity children, filing out of the cathedral in their scarlet cloaks, whispered that he looked exactly like an angel, though they had never seen one. One autumn night, long after his friends had set off for Egypt, a little swallow came flying over the rooftops. He had stayed behind all summer for the sake of a slender reed he had fallen in love with; but the romance had cooled, and now he was hurrying south alone. Catching sight of the statue, he decided to lodge there for the night — \"a golden bedroom,\" he remarked with satisfaction, tucking himself between the Prince's feet. He was just drawing his head under his wing when a heavy drop of water struck him. Curious, he noted that not a single cloud hung in the star-filled sky. A second drop fell, then a third, and the swallow looked up. The eyes of the Happy Prince were filled with tears, which ran glittering down his golden cheeks. \"Who are you?\" asked the astonished bird. \"I am the Happy Prince.\" \"Then why are you weeping?\"",
+        "vocabulary": [
+          { "word": "splendid", "definition": "magnificent; extremely impressive" },
+          { "word": "to cry for the moon", "definition": "to want something impossible to get" },
+          { "word": "reed", "definition": "a tall grass-like plant that grows near water" },
+          { "word": "lodge", "definition": "to stay somewhere for a short time" },
+          { "word": "glitter", "definition": "to shine with small flashes of light" },
+          { "word": "weep", "definition": "to cry (a literary word)" }
+        ]
+      },
+      "C2": {
+        "title": "The gilded grief",
+        "text": "High above the city, on a slender column, stood the statue of the Happy Prince — and the city, it must be said, took an uncommonly self-satisfied pleasure in him. He was gilded from crown to heel with the thinnest leaves of fine gold; for eyes he had two sapphires of improbable blue; and on the hilt of his sword there smouldered a great red ruby. His admirers, admittedly, praised him each for their own reasons. The councillor who murmured that the Prince was \"as beautiful as a weathercock\" did so chiefly to gain a reputation for artistic taste; prudent mothers deployed him against children who cried for the moon; and the charity children, filing from the cathedral in scarlet cloaks and clean white pinafores, decided he looked exactly like an angel — a claim the mathematical master found objectionable, since they had never seen one. To them all, he was proof that happiness, suitably gilded, could be installed on a column and admired at leisure. One autumn night there arrived over the rooftops a little swallow, weeks behind his friends, who were long since in Egypt. He had dallied all summer over an ill-judged courtship with a slender reed — a flirtation his friends had ridiculed and the reed herself had received with infuriating indifference — and now, at last, he was bound for the south alone. Sighting the statue, he resolved to lodge between its feet. \"A golden bedroom, with plenty of fresh air,\" he observed, with the complacency of a bird who feels the world owes him some comfort. He had scarcely tucked his head beneath his wing when a heavy drop struck him — then a second, then a third — though the sky above was cloudless and brilliant with stars. He looked up, and his small heart contracted with pity. The eyes of the Happy Prince were brimming with tears, and the tears ran glittering down his golden cheeks. \"Who are you?\" he asked. \"I am the Happy Prince.\" \"Then why,\" said the swallow, \"are you weeping? You have quite drenched me.\"",
+        "vocabulary": [
+          { "word": "smoulder", "definition": "to burn slowly with a deep glow; here, to shine darkly" },
+          { "word": "weathercock", "definition": "a rooster-shaped device on a roof that shows the wind's direction" },
+          { "word": "pinafore", "definition": "a sleeveless apron once worn over children's clothes" },
+          { "word": "to dally", "definition": "to waste time, especially over a romance" },
+          { "word": "complacency", "definition": "smug self-satisfaction, blind to any problem" },
+          { "word": "to drench", "definition": "to make completely wet" }
+        ]
+      }
+    }
+  }
+}

@@ -1,6 +1,13 @@
-import { getArtIndex, getArticle, getIndex } from "@/lib/data";
+import {
+  getArtIndex,
+  getArticle,
+  getHistoryIndex,
+  getIndex,
+  getStoryIndex,
+} from "@/lib/data";
 import { ArtTeaser } from "@/components/ArtTeaser";
 import { HomeView } from "@/components/HomeView";
+import { TodayExtras } from "@/components/TodayExtras";
 
 function formatDateline(date: string): string {
   return new Date(`${date}T12:00:00Z`)
@@ -16,6 +23,8 @@ function formatDateline(date: string): string {
 export default function Home() {
   const entries = getIndex();
   const artEntries = getArtIndex();
+  const storyEntries = getStoryIndex();
+  const historyEntries = getHistoryIndex();
 
   if (entries.length === 0) {
     return (
@@ -42,6 +51,7 @@ export default function Home() {
       <HomeView leadArticle={leadArticle} entries={entries} />
 
       {artEntries.length > 0 && <ArtTeaser entry={artEntries[0]} />}
+      <TodayExtras story={storyEntries[0]} history={historyEntries[0]} />
     </div>
   );
 }

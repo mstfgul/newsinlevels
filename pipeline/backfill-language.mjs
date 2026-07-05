@@ -36,6 +36,14 @@ const TARGETS = [
     dir: path.join(ROOT, "data", "art"),
     indexFile: path.join(ROOT, "data", "art-index.json"),
   },
+  {
+    dir: path.join(ROOT, "data", "stories"),
+    indexFile: path.join(ROOT, "data", "stories-index.json"),
+  },
+  {
+    dir: path.join(ROOT, "data", "history"),
+    indexFile: path.join(ROOT, "data", "history-index.json"),
+  },
 ];
 
 const openai = new OpenAI();
@@ -52,13 +60,20 @@ for (const target of TARGETS) {
 
     if (!article.languages[lang]) {
       console.log(`Backfilling ${LANGUAGES[lang]} for: ${article.originalTitle}`);
+      const options = article.art
+        ? { kind: "art", imageUrl: article.image }
+        : article.story
+          ? { kind: "story" }
+          : article.history
+            ? { kind: "history" }
+            : {};
       // The English B2 text is the closest thing to the original source we keep.
       article.languages[lang] = await generateLanguageVersions(
         openai,
         article.originalTitle,
         article.languages.en.B2.text,
         lang,
-        article.art ? { kind: "art", imageUrl: article.image } : {},
+        options,
       );
       changed = true;
     }
@@ -77,7 +92,10 @@ for (const target of TARGETS) {
       writeJson(articleFile, article);
       if (indexEntry) {
         indexEntry.titles[lang] = article.languages[lang].B1.title;
-        if (!article.art) indexEntry.category = article.category;
+        // Only the news index carries a category column.
+        if (!article.art && !article.story && !article.history) {
+          indexEntry.category = article.category;
+        }
       }
     }
   }

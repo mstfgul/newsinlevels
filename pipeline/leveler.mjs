@@ -53,8 +53,11 @@ Return JSON with exactly this shape:
 
 /**
  * Writes six CEFR versions of a text in one language.
- * kind "news": rewrites a news article. kind "art": writes an analysis of a
- * painting — pass options.imageUrl so the model can actually look at it.
+ * kind "news":    rewrites a news article.
+ * kind "art":     writes an analysis of a painting — pass options.imageUrl so
+ *                 the model can actually look at it.
+ * kind "story":   retells one part of a classic public-domain story.
+ * kind "history": writes a capsule about an on-this-day historical event.
  */
 export async function generateLanguageVersions(
   openai,
@@ -66,22 +69,15 @@ export async function generateLanguageVersions(
   const { kind = "news", imageUrl } = options;
   const langName = LANGUAGES[langCode];
 
-  const system =
-    kind === "art"
-      ? `You are an art historian and expert ${langName} teacher. You write engaging analyses of paintings in ${langName} at all six CEFR levels so learners can enjoy the same artwork at their own level. You always answer with valid JSON only.`
-      : `You are an expert ${langName} teacher and news editor. You rewrite real news articles in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`;
+  const SYSTEMS = {
+    news: `You are an expert ${langName} teacher and news editor. You rewrite real news articles in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
+    art: `You are an art historian and expert ${langName} teacher. You write engaging analyses of paintings in ${langName} at all six CEFR levels so learners can enjoy the same artwork at their own level. You always answer with valid JSON only.`,
+    story: `You are a storyteller and expert ${langName} teacher. You retell classic public-domain stories in ${langName} at all six CEFR levels so learners can enjoy the same tale at their own level. You always answer with valid JSON only.`,
+    history: `You are a historian and expert ${langName} teacher. You write vivid capsules about historical events in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
+  };
 
-  const task =
-    kind === "art"
-      ? `Look carefully at the painting in the image and write an analysis of it in ${langName} at each CEFR level. Describe what the viewer actually sees — scene, colors, light, composition, brushwork — and weave in the artist and historical context using ONLY the facts provided below. Do not invent facts, dates or anecdotes. Follow these level constraints strictly:
-${LEVEL_SPECS}
-${SHARED_INSTRUCTIONS(langName)}
-
-ARTWORK: ${sourceTitle}
-
-FACTS:
-${sourceText}`
-      : `Rewrite the news article below in ${langName} at each CEFR level. Follow these level constraints strictly:
+  const TASKS = {
+    news: `Rewrite the news article below in ${langName} at each CEFR level. Follow these level constraints strictly:
 ${LEVEL_SPECS}
 
 The story must stay factually identical to the source at every level — only language complexity changes.
@@ -90,7 +86,37 @@ ${SHARED_INSTRUCTIONS(langName)}
 SOURCE TITLE: ${sourceTitle}
 
 SOURCE ARTICLE:
-${sourceText}`;
+${sourceText}`,
+    art: `Look carefully at the painting in the image and write an analysis of it in ${langName} at each CEFR level. Describe what the viewer actually sees — scene, colors, light, composition, brushwork — and weave in the artist and historical context using ONLY the facts provided below. Do not invent facts, dates or anecdotes. Follow these level constraints strictly:
+${LEVEL_SPECS}
+${SHARED_INSTRUCTIONS(langName)}
+
+ARTWORK: ${sourceTitle}
+
+FACTS:
+${sourceText}`,
+    story: `Retell ONE part of a classic story in ${langName} at each CEFR level, following the brief below. Cover only the events of THIS part; every level tells the same events. If it is not the final part, end on a gentle note of suspense. Use a literary storytelling register (not journalistic) while keeping each level's constraints:
+${LEVEL_SPECS}
+
+Give each level's version its own short, evocative chapter title.
+${SHARED_INSTRUCTIONS(langName)}
+
+STORY: ${sourceTitle}
+
+BRIEF:
+${sourceText}`,
+    history: `Write a vivid capsule in ${langName} about the historical event below — what happened, why it mattered, and what it led to — at each CEFR level. Stick strictly to the facts provided; do not invent details, numbers or quotes. Follow these level constraints:
+${LEVEL_SPECS}
+${SHARED_INSTRUCTIONS(langName)}
+
+EVENT: ${sourceTitle}
+
+FACTS:
+${sourceText}`,
+  };
+
+  const system = SYSTEMS[kind];
+  const task = TASKS[kind];
 
   const response = await openai.chat.completions.create({
     model: MODEL,

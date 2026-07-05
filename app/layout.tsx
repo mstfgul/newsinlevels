@@ -53,25 +53,27 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         <PreferencesProvider>
           <header className="border-b border-border">
-            <div className="mx-auto flex max-w-3xl items-center justify-between gap-4 px-4 py-4">
-              <Link
-                href="/"
-                className="flex items-center gap-2 text-lg font-bold tracking-tight"
-              >
-                <img src="/icon.svg" alt="" aria-hidden className="size-6" />
-                News in{" "}
-                <span className="relative inline-block px-1">
-                  <span
-                    aria-hidden
-                    className="absolute inset-x-0 bottom-0.5 top-1.5 -rotate-1 rounded-sm"
-                    style={{ background: "var(--hl-strong)" }}
-                  />
-                  <span className="relative">Levels</span>
-                </span>
-              </Link>
-              <div className="flex flex-wrap items-center justify-end gap-x-4 gap-y-2">
-                <NavTabs />
+            <div className="mx-auto max-w-3xl px-4 py-4">
+              <div className="flex items-center justify-between gap-4">
+                <Link
+                  href="/"
+                  className="flex shrink-0 items-center gap-2 text-lg font-bold tracking-tight"
+                >
+                  <img src="/icon.svg" alt="" aria-hidden className="size-6" />
+                  <span className="hidden sm:inline">News in </span>
+                  <span className="relative inline-block px-1">
+                    <span
+                      aria-hidden
+                      className="absolute inset-x-0 bottom-0.5 top-1.5 -rotate-1 rounded-sm"
+                      style={{ background: "var(--hl-strong)" }}
+                    />
+                    <span className="relative">Levels</span>
+                  </span>
+                </Link>
                 <LanguageSwitch />
+              </div>
+              <div className="mt-3 border-t border-border pt-3">
+                <NavTabs />
               </div>
             </div>
           </header>

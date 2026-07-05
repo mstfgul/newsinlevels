@@ -113,6 +113,13 @@ export function ArticleReader({ article }: { article: Article }) {
                 {article.art.artist} · {article.art.year} ·{" "}
                 {article.art.medium} ·{" "}
               </>
+            ) : article.story ? (
+              <>
+                {article.story.title} · {article.story.author} · Part{" "}
+                {article.story.part}/{article.story.totalParts} ·{" "}
+              </>
+            ) : article.history ? (
+              <>On this day · {article.history.year} · </>
             ) : (
               <>{article.date} · </>
             )}
@@ -124,7 +131,10 @@ export function ArticleReader({ article }: { article: Article }) {
             >
               {article.source.name}
             </a>
-            {!article.art && article.category && <> · {article.category}</>}
+            {!article.art &&
+              !article.story &&
+              !article.history &&
+              article.category && <> · {article.category}</>}
           </p>
 
           {article.image && (
