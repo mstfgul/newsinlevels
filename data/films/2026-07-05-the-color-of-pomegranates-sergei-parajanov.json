@@ -1,0 +1,651 @@
+{
+  "id": "2026-07-05-the-color-of-pomegranates-sergei-parajanov",
+  "date": "2026-07-05",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/26302"
+  },
+  "originalTitle": "The Color of Pomegranates (1969) — Sergei Parajanov",
+  "image": "https://image.tmdb.org/t/p/w780/rMUbQf7RgsYgQ47AFf1wpoSt4dX.jpg",
+  "category": "film",
+  "film": {
+    "director": "Sergei Parajanov",
+    "title": "The Color of Pomegranates",
+    "year": "1969",
+    "genres": "Drama, History"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Color of Pomegranates",
+        "text": "This film is about a poet. His name is Sayat Nova. He lives in Armenia. He writes poems about love. The film shows his life. It has beautiful pictures. There is music too. The colors are bright. The story is simple. This film is special. It is very artistic.",
+        "vocabulary": [
+          {
+            "word": "poet",
+            "definition": "A person who writes poems."
+          },
+          {
+            "word": "lives",
+            "definition": "To have a home or life."
+          },
+          {
+            "word": "love",
+            "definition": "A strong feeling for someone."
+          },
+          {
+            "word": "beautiful",
+            "definition": "Very nice to look at."
+          },
+          {
+            "word": "special",
+            "definition": "Different and important."
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Color of Pomegranates",
+        "text": "The Color of Pomegranates is a film about an Armenian poet named Sayat Nova. He lives in the 18th century. The film shows his life from childhood to death. It tells his story through his poems and the images on screen. The colors and music create a strong mood. This film is not like other movies because it uses art and beauty. Many people say it is very important because of this style.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "A story shown on a screen."
+          },
+          {
+            "word": "Armenian",
+            "definition": "Related to Armenia, a country."
+          },
+          {
+            "word": "childhood",
+            "definition": "The time when a person is a child."
+          },
+          {
+            "word": "colors",
+            "definition": "Different shades like red or blue."
+          },
+          {
+            "word": "important",
+            "definition": "Very significant or valuable."
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Color of Pomegranates",
+        "text": "The Color of Pomegranates, directed by Sergei Parajanov, presents the life of Sayat Nova, a beloved Armenian poet. This film, released in 1969, uniquely portrays his journey from childhood to adulthood. It explores themes of love, loss, and artistic expression. The film is notable for its stunning visual style, featuring vibrant colors and poetic imagery. Parajanov uses still camerawork to create a dreamlike atmosphere, pushing the boundaries of traditional storytelling. It invites viewers to reflect on the deeper meanings of art and life.",
+        "vocabulary": [
+          {
+            "word": "directed",
+            "definition": "To control or guide a film."
+          },
+          {
+            "word": "beloved",
+            "definition": "Loved very much."
+          },
+          {
+            "word": "journey",
+            "definition": "A trip or experience."
+          },
+          {
+            "word": "themes",
+            "definition": "Main ideas or subjects in art."
+          },
+          {
+            "word": "vibrant",
+            "definition": "Bright and full of life."
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Color of Pomegranates",
+        "text": "The Color of Pomegranates is an iconic film directed by Sergei Parajanov, renowned for its artistic approach to storytelling. Set in the 18th century, it chronicles the life of Sayat Nova, an Armenian poet whose experiences with love, art, and identity are vividly illustrated through a series of striking visual tableaux. The film employs rich, symbolic imagery and minimal dialogue, allowing audiences to engage deeply with its themes. Parajanov's work is often regarded as revolutionary, as he challenges conventional narrative structures and instead creates an immersive experience that transcends time and culture.",
+        "vocabulary": [
+          {
+            "word": "iconic",
+            "definition": "Very famous and important."
+          },
+          {
+            "word": "artistic",
+            "definition": "Related to art and creativity."
+          },
+          {
+            "word": "chronicles",
+            "definition": "Records or tells the story."
+          },
+          {
+            "word": "vividly",
+            "definition": "In a clear and strong way."
+          },
+          {
+            "word": "immersive",
+            "definition": "Completely involving."
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Color of Pomegranates",
+        "text": "Sergei Parajanov's The Color of Pomegranates is a cinematic masterpiece that intricately weaves the life of Sayat Nova, an 18th-century Armenian poet, into an expressionist tableau of profound artistic vision. The film employs striking imagery and meticulously crafted compositions, inviting the viewer to explore the poet's complex relationship with love, identity, and the ephemeral nature of existence. Parajanov's deliberate use of color and sound heightens the emotional resonance of the narrative, while the minimalistic dialogue allows for a more contemplative experience. This film has been immortalized in cinema history, celebrated for its revolutionary approach that transcends conventional storytelling and elicits a deep emotional response.",
+        "vocabulary": [
+          {
+            "word": "masterpiece",
+            "definition": "A great work of art."
+          },
+          {
+            "word": "expressionist",
+            "definition": "Style showing emotions and ideas."
+          },
+          {
+            "word": "intricately",
+            "definition": "In a very detailed and complex way."
+          },
+          {
+            "word": "resonance",
+            "definition": "A strong feeling or effect."
+          },
+          {
+            "word": "immortalized",
+            "definition": "Made famous for a long time."
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Color of Pomegranates",
+        "text": "In The Color of Pomegranates, Sergei Parajanov crafts an extraordinary visual poem, richly layered with cultural resonances and haunting symbolism, reflecting the multifaceted life of Sayat Nova. This 1969 film defies traditional narrative conventions, employing a meditative rhythm and a strikingly beautiful palette that immerses viewers in the emotional and existential depths of the protagonist's journey. Parajanov's pioneering approach to cinematography and sound design not only elevates the visual experience but also stimulates profound philosophical inquiries regarding identity, love, and the impermanence of art. This film stands as a landmark in world cinema, revered not only for its aesthetic brilliance but also for its ability to challenge and redefine the very essence of storytelling within the medium.",
+        "vocabulary": [
+          {
+            "word": "extraordinary",
+            "definition": "Very unusual and remarkable."
+          },
+          {
+            "word": "resonances",
+            "definition": "Echoes or feelings related to something."
+          },
+          {
+            "word": "haunting",
+            "definition": "Strongly attractive and difficult to forget."
+          },
+          {
+            "word": "pioneering",
+            "definition": "Innovative and original."
+          },
+          {
+            "word": "challenging",
+            "definition": "Testing limits or pushing boundaries."
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Die Farbe der Granatäpfel",
+        "text": "Ein Film über einen armenischen Dichter. Der Dichter heißt Sayat Nova. Er lebt im 18. Jahrhundert. Die Bilder sind schön. Die Musik ist wichtig. Der Film hat wenig Worte. Er erzählt von Liebe und Kunst. Die Farben sind hell und stark. Der Film ist bekannt.",
+        "vocabulary": [
+          {
+            "word": "Film",
+            "definition": "Eine Geschichte in Bildern."
+          },
+          {
+            "word": "Dichter",
+            "definition": "Eine Person, die Gedichte schreibt."
+          },
+          {
+            "word": "Liebe",
+            "definition": "Ein tiefes Gefühl für eine Person."
+          },
+          {
+            "word": "Kunst",
+            "definition": "Kreative Arbeiten, wie Malerei oder Musik."
+          },
+          {
+            "word": "Farben",
+            "definition": "Die verschiedenen Töne von Licht."
+          }
+        ]
+      },
+      "A2": {
+        "title": "Die Farbe der Granatäpfel",
+        "text": "Der Film erzählt die Geschichte von Sayat Nova. Er ist ein bedeutender armenischer Dichter. Sayat Nova lebt im 18. Jahrhundert. Der Film zeigt sein Leben und seine Liebe. Die Bilder sind sehr schön und poetisch. Man sieht viele Farben und hört wunderschöne Musik. Der Film hat wenig Dialoge. Die Geschichte ist gefühlvoll und berührend. Diese Art von Film ist besonders und wichtig, weil er die Kunst feiert. Viele Menschen lieben diesen Film.",
+        "vocabulary": [
+          {
+            "word": "Geschichte",
+            "definition": "Erzählung von Ereignissen."
+          },
+          {
+            "word": "Leben",
+            "definition": "Existenz von Menschen oder Tieren."
+          },
+          {
+            "word": "Farben",
+            "definition": "Lichttöne wie rot oder blau."
+          },
+          {
+            "word": "Musik",
+            "definition": "Geräusche, die Rhythmus und Melodie haben."
+          },
+          {
+            "word": "besonders",
+            "definition": "Etwas, das anders oder selten ist."
+          }
+        ]
+      },
+      "B1": {
+        "title": "Die Farbe der Granatäpfel",
+        "text": "Der Film „Die Farbe der Granatäpfel“ zeigt das Leben des armenischen Dichters Sayat Nova. Er lebte im 18. Jahrhundert und war bekannt für seine Poesie. Der Film beginnt mit der Darstellung seiner Kindheit und seiner Beziehungen zu Frauen. Besonders interessant ist die poetische Bildsprache, die den Zuschauer in die Welt von Sayat Nova einführt. Die Kameraarbeit ist still und aufmerksam, was eine besondere Atmosphäre schafft. Der Film verwendet viel Symbolik, um Themen wie Liebe, Verlust und Kunst zu erkunden. Trotz der wenigen Dialoge wird eine starke Emotion vermittelt, was diesen Film zu einem Meisterwerk der armenischen Kultur macht.",
+        "vocabulary": [
+          {
+            "word": "Dichter",
+            "definition": "Jemand, der Gedichte schreibt."
+          },
+          {
+            "word": "Poetisch",
+            "definition": "Etwas mit schönen Worten oder Bildern."
+          },
+          {
+            "word": "Bildsprache",
+            "definition": "Wie Bilder Gefühle ausdrücken."
+          },
+          {
+            "word": "Symbolik",
+            "definition": "Bilder oder Wörter mit tieferer Bedeutung."
+          },
+          {
+            "word": "Emotion",
+            "definition": "Ein starkes Gefühl in einer Person."
+          }
+        ]
+      },
+      "B2": {
+        "title": "Die Farbe der Granatäpfel",
+        "text": "„Die Farbe der Granatäpfel“ ist ein Film von Sergei Parajanov, der das Leben des armenischen Dichters Sayat Nova poetisch interpretiert. Der Film stammt aus dem Jahr 1969 und gilt als bahnbrechend. In einer Zeit, in der politische Restriktionen herrschten, zeigt Parajanov die Schönheit und Komplexität der armenischen Kultur. Durch seine innovative Kameraführung und das Spiel mit Licht und Schatten wird der Zuschauer in eine visuelle Reise entführt. Themen wie Liebe, Verlust und die Rolle der Kunst sind zentral, und die stillen Bilder vermitteln eine tiefe Emotionalität, die selbst ohne viele Worte Wirkung zeigt. Diese künstlerische Herangehensweise macht den Film zu einem zeitlosen Klassiker in der Geschichte des Kinos.",
+        "vocabulary": [
+          {
+            "word": "interpretieren",
+            "definition": "Etwas auf eine eigene Weise erklären."
+          },
+          {
+            "word": "bahnbrechend",
+            "definition": "Neu und sehr wichtig."
+          },
+          {
+            "word": "politisch",
+            "definition": "Etwas, das mit dem Staat oder der Regierung zu tun hat."
+          },
+          {
+            "word": "Kameraführung",
+            "definition": "Wie eine Kamera bewegt wird im Film."
+          },
+          {
+            "word": "Emotionalität",
+            "definition": "Die Fähigkeit, Gefühle auszudrücken."
+          }
+        ]
+      },
+      "C1": {
+        "title": "Die Farbe der Granatäpfel",
+        "text": "Sergei Parajanovs „Die Farbe der Granatäpfel“ ist nicht nur ein visuelles Gedicht, sondern auch eine tiefgründige Untersuchung des künstlerischen Schaffens. Der Film, produziert im Jahr 1969, erhellt die Biografie des armenischen Dichters Sayat Nova durch eindringliche Bilder und eine melancholische Tonsprache. Parajanov nutzt eine Vielzahl filmischer Techniken, um die emotionale Tiefe und die kulturellen Kontexte der Figuren zu erforschen. Er konfrontiert den Zuschauer mit komplexen Themen wie der Suche nach Identität, der Bedeutung von Kunst und der Unausweichlichkeit von Verlust. Der bewusste Verzicht auf traditionelle Erzählstrukturen verstärkt die poetische Wirkung und lässt Raum für eigene Interpretationen. In der Filmgeschichte nimmt dieses Werk eine herausragende Stellung ein, da es eine Brücke zwischen Tradition und Innovation schlägt und die Grenzen des Films als Kunstform neu definiert.",
+        "vocabulary": [
+          {
+            "word": "visuell",
+            "definition": "Etwas, das mit Bildern zu tun hat."
+          },
+          {
+            "word": "tiefgründig",
+            "definition": "Intelligent und mit mehreren Bedeutungen."
+          },
+          {
+            "word": "eindringlich",
+            "definition": "Sehr klar und stark, sodass man es fühlt."
+          },
+          {
+            "word": "konfrontieren",
+            "definition": "Jemandem direkt begegnen."
+          },
+          {
+            "word": "Unausweichlichkeit",
+            "definition": "Etwas, das man nicht vermeiden kann."
+          }
+        ]
+      },
+      "C2": {
+        "title": "Die Farbe der Granatäpfel",
+        "text": "Sergei Parajanovs meisterhaftes Werk „Die Farbe der Granatäpfel“, produziert 1969, ist weit mehr als ein kulturhistorisches Dokument; es ist ein radikaler Ausdruck der künstlerischen Freiheit und der kulturellen Identität Armeniens. Durch die luxuriöse Bildsprache und die betörenden Kompositionen evokiert der Film die Essenz von Sayat Novas Leben und Werk, ganz ohne konventionelle narrative Strukturen. Parajanov wählt ein stilistisches Vokabular, das sowohl Luxus als auch Trauer umfasst, und zieht den Zuschauer in einen Strudel aus Farben und Gefühlen. Die Themen der Selbstentdeckung und der transzendenten Natur der Kunst bestimmen den Verlauf der filmischen Erfahrung und werfen Fragen über die Universaliät künstlerischen Ausdrucks auf. In der Rolle als Innovator innerhalb des Filmschaffens beansprucht Parajanov einen Platz in der Filmgeschichte, der sowohl bewundert als auch kontrovers diskutiert wird, wodurch „Die Farbe der Granatäpfel“ zu einem unverzichtbaren Werk des internationalen Kinos avanciert.",
+        "vocabulary": [
+          {
+            "word": "meisterhaft",
+            "definition": "Sehr gut gemacht, wie ein Meister."
+          },
+          {
+            "word": "radikal",
+            "definition": "Grundlegend, sehr neu oder anders."
+          },
+          {
+            "word": "kulturell",
+            "definition": "Mit der Kultur eines Volkes zu tun."
+          },
+          {
+            "word": "evokieren",
+            "definition": "Eine starke Vorstellung oder Gefühle wecken."
+          },
+          {
+            "word": "Selbstentdeckung",
+            "definition": "Der Prozess, sich selbst zu erkennen."
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "La couleur des grenades",
+        "text": "C'est un film poétique. Il parle d'un poète. Son nom est Sayat Nova. Il vit au XVIIIe siècle. Le film montre sa vie. Il y a beaucoup de musique. Les images sont belles. On voit des femmes et des fleurs. Les couleurs sont vives. C'est un grand film.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "une œuvre à voir"
+          },
+          {
+            "word": "poétique",
+            "definition": "relatif à la poésie"
+          },
+          {
+            "word": "poète",
+            "definition": "une personne qui écrit des poèmes"
+          },
+          {
+            "word": "musique",
+            "definition": "des sons organisés"
+          },
+          {
+            "word": "beau",
+            "definition": "très agréable à voir"
+          }
+        ]
+      },
+      "A2": {
+        "title": "La couleur des grenades",
+        "text": "Ce film est très spécial. Il est de Sergei Parajanov. C'est un film dramatique. Il parle d'un poète arménien, Sayat Nova. La vie de ce poète commence dans son enfance. On voit ses amours et ses muses. Les couleurs et les images sont très belles. Le rythme du film est lent. Parajanov utilise des poèmes pour raconter l'histoire. Ce film est exceptionnel pour son style.",
+        "vocabulary": [
+          {
+            "word": "spécial",
+            "definition": "différent et intéressant"
+          },
+          {
+            "word": "dramatique",
+            "definition": "très émotif ou sérieux"
+          },
+          {
+            "word": "amour",
+            "definition": "un fort sentiment pour quelqu'un"
+          },
+          {
+            "word": "muse",
+            "definition": "une source d'inspiration"
+          },
+          {
+            "word": "exceptionnel",
+            "definition": "très remarquable"
+          }
+        ]
+      },
+      "B1": {
+        "title": "La couleur des grenades",
+        "text": "Dans le film 'La couleur des grenades', Sergei Parajanov explore la vie de Sayat Nova, un poète arménien du XVIIIe siècle. Le film commence avec l'enfance du poète et montre ses relations, surtout avec des femmes. Parajanov, célèbre pour son style visuel unique, utilise des images statiques et des poèmes dans le film. Cette approche narrative donne au spectateur une expérience immersive et émotionnelle. Les thèmes principaux incluent l'amour, la beauté et la douleur. Ces éléments rendent le film très profond et touchant. La critique a reconnu ce film comme révolutionnaire au moment de sa sortie.",
+        "vocabulary": [
+          {
+            "word": "explorer",
+            "definition": "découvrir ou examiner quelque chose"
+          },
+          {
+            "word": "relation",
+            "definition": "un lien ou un rapport entre des personnes"
+          },
+          {
+            "word": "approche",
+            "definition": "une méthode ou un moyen de faire quelque chose"
+          },
+          {
+            "word": "émotionnelle",
+            "definition": "relatif aux émotions"
+          },
+          {
+            "word": "révolutionnaire",
+            "definition": "très nouveau et innovant"
+          }
+        ]
+      },
+      "B2": {
+        "title": "La couleur des grenades",
+        "text": "Le film 'La couleur des grenades', réalisé par Sergei Parajanov en 1969, est un chef-d'œuvre du cinéma soviétique. Ce long-métrage dramatique dépeint la vie de Sayat Nova, un poète et musicien arménien du XVIIIe siècle. À travers une esthétique visuelle riche et originale, Parajanov évoque la poésie de Nova en combinant images statiques et séquences poétiques. Loin des conventions du cinéma traditionnel, ce film invite les spectateurs à contempler l'existence humaine, la quête de l'amour et la beauté éphémère de la vie. Les thèmes abordés, comme la douleur et le désir, résonnent à travers une réalisation visuelle audacieuse et une bande sonore évocatrice. Ce film est souvent considéré comme une œuvre pionnière dans l'histoire du cinéma.",
+        "vocabulary": [
+          {
+            "word": "chef-d'œuvre",
+            "definition": "une œuvre d'art exceptionnelle"
+          },
+          {
+            "word": "dépeindre",
+            "definition": "illustrer ou représenter quelque chose"
+          },
+          {
+            "word": "esthétique",
+            "definition": "relatif à la beauté et aux arts"
+          },
+          {
+            "word": "conventions",
+            "definition": "règles ou normes généralement acceptées"
+          },
+          {
+            "word": "pionnière",
+            "definition": "qui ouvre de nouvelles voies ou idées"
+          }
+        ]
+      },
+      "C1": {
+        "title": "La couleur des grenades",
+        "text": "Dans 'La couleur des grenades', Sergei Parajanov transcende les limites du cinéma traditionnel en proposant une approche visuelle d'une rare intensité. Ce film, sorti en 1969, tente de capturer l'essence de la vie de Sayat Nova, poète arménien du XVIIIe siècle, par le biais de compositions picturales innovantes et d'une narration poétique. Éminemment stylisé, le film juxtapose des éléments autobiographiques et mythologiques, laissant le public réfléchir sur la subjectivité et l'objectivité de l'art. Les thèmes universels, tels que l'amour, la perte et l'identité, sont explorés à travers des séquences visuellement envoûtantes qui célèbrent la beauté et l'éphémère. Parajanov, par son audace artistique, redéfinit le rôle du cinéma en tant que médium d'expression existentialiste et émotionnelle. Ce chef-d'œuvre reste une référence incontournable dans l'histoire du cinéma mondial.",
+        "vocabulary": [
+          {
+            "word": "transcender",
+            "definition": "dépasser des limites ou frontières"
+          },
+          {
+            "word": "intensité",
+            "definition": "force ou puissance de quelque chose"
+          },
+          {
+            "word": "essence",
+            "definition": "nature fondamentale d'une personne ou chose"
+          },
+          {
+            "word": "juxtaposer",
+            "definition": "placer côte à côte pour comparaison"
+          },
+          {
+            "word": "envoûtant",
+            "definition": "captivant et fascinant"
+          }
+        ]
+      },
+      "C2": {
+        "title": "La couleur des grenades",
+        "text": "La réalisation de Sergei Parajanov dans 'La couleur des grenades' constitue un tournant emblématique dans le cinéma soviétique et au-delà. En 1969, ce film révèle une approche audacieuse où la biographie de Sayat Nova, poète arménien du XVIIIe siècle, est rendue à travers un récit visuel d'une profondeur inouïe. Chaque cadre du film s'apparente à une œuvre d'art, tant la composition, la palette de couleurs et les symboles employés sont soigneusement étudiés. Parajanov n'hésite pas à mêler le sacré et le profane, invitant le spectateur à naviguer sur des eaux souvent tumultueuses de l'amour et de la perte. Les thèmes fondamentaux de l'identité et de l'humanité sont traités avec une délicatesse qui transcende le temps, établissant un dialogue entre passé et présent. Évocateur et pluriel, ce chef-d'œuvre cinématographique interroge la place de l'art dans la vie et, par extension, celle de l'homme dans l'univers, solidifiant ainsi son statut d'œuvre pionnière au cinéma.",
+        "vocabulary": [
+          {
+            "word": "tournant",
+            "definition": "un moment clé ou décisif"
+          },
+          {
+            "word": "biographie",
+            "definition": "histoire de la vie d'une personne"
+          },
+          {
+            "word": "profondeur",
+            "definition": "niveau de complexité ou d'importance"
+          },
+          {
+            "word": "sacré",
+            "definition": "qui est sacré ou vénéré"
+          },
+          {
+            "word": "délicatesse",
+            "definition": "sensibilité et soin dans une action"
+          }
+        ]
+      }
+    },
+    "tr": {
+      "A1": {
+        "title": "Narların Rengi",
+        "text": "Bir film var. Adı Narların Rengi. 1969 yılında yapıldı. Yönetmeni Sergei Parajanov. Film, Sayat Nova’yı anlatıyor. Sayat Nova, Ermeni şairdir. Film, onun hayatında kadınlar vardır. Film, güzel görüntüler ile doludur. Kısa bir süre sürer. İnsanları düşünmeye teşvik eder.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "Bir hikaye sunan görsel eser."
+          },
+          {
+            "word": "şair",
+            "definition": "Şiir yazan kişi."
+          },
+          {
+            "word": "hayat",
+            "definition": "Bir kişinin yaşamı."
+          },
+          {
+            "word": "kadın",
+            "definition": "Dişi insan."
+          },
+          {
+            "word": "görüntü",
+            "definition": "Görmek için bir şeyin görünümü."
+          }
+        ]
+      },
+      "A2": {
+        "title": "Narların Rengi",
+        "text": "Narların Rengi, 1969 yılında yapıldı. Yönetmeni Sergei Parajanov’dur. Film, Sayat Nova adında bir şairin hayatını anlatır. Sayat Nova, Ermeni bir şairdir. Film, onun çocukluğundan ölümüne kadar olan hikayesini gösterir. Sayat Nova’nın kadınlarla olan ilişkileri önemlidir. Film, çok güzel görüntüler ile yapıldı. Müzik ve şiir de vardır. Bu film, izleyicileri düşündürür ve duygulandırır.",
+        "vocabulary": [
+          {
+            "word": "yönetmen",
+            "definition": "Filmin başında olan kişi."
+          },
+          {
+            "word": "hikaye",
+            "definition": "Bir olaylar dizisi."
+          },
+          {
+            "word": "müzik",
+            "definition": "Ses sanatıdır."
+          },
+          {
+            "word": "güzel",
+            "definition": "Hoş, etkileyici."
+          },
+          {
+            "word": "izleyici",
+            "definition": "Film veya gösteri izleyen kişi."
+          }
+        ]
+      },
+      "B1": {
+        "title": "Narların Rengi",
+        "text": "Narların Rengi, 1969 yılında, ünlü yönetmen Sergei Parajanov tarafından çekilmiştir. Film, 18. yüzyıl Ermeni şairi Sayat Nova'nın hayatını anlatmaktadır. Sayat Nova, hem bir şair hem de bir müzisyendir. Film, onun çocukluğundan itibaren gelişen yaşamını gözler önüne seriyor. Özellikle kadınlarla olan ilişkileri ilginçtir. Parajanov, filmi sıradışı bir estetikle görselleştiriyor. Güzel görüntüler ve şiirler ile doludur. Film, izleyiciyi hem düşündürüyor hem de derin bir duygusal deneyim sunuyor.",
+        "vocabulary": [
+          {
+            "word": "ünlü",
+            "definition": "Tanınmış, bilinen."
+          },
+          {
+            "word": "çekilmek",
+            "definition": "Film yapmak için görüntü almak."
+          },
+          {
+            "word": "estetik",
+            "definition": "Güzel sanatlarla ilgili."
+          },
+          {
+            "word": "gözler önüne sermek",
+            "definition": "Bir şeyi açıkça göstermek."
+          },
+          {
+            "word": "derin",
+            "definition": "Aşırı, çok yoğun."
+          }
+        ]
+      },
+      "B2": {
+        "title": "Narların Rengi",
+        "text": "Narların Rengi, 1969 yılında yönetmen Sergei Parajanov tarafından yaratılan önemli bir sanatsal eserdir. Film, 18. yüzyıl Ermeni şairi ve müzisyeni Sayat Nova'nın yaşamını anlatırken, onun sanatı ve özellikle kadınlarla olan ilişkileri üzerinden derinlemesine bir keşif sunuyor. Parajanov, geleneksel anlatım biçimlerine meydan okuyarak, filmi stiller ve şiirlerle dolu bir görsel şölene dönüştürüyor. Kullanılan renkler, ışık ve kompozisyon, seyirciyi farklı bir duygusal deneyim yaşamaya davet ediyor. Bu film, sadece bir biyografi değil; aynı zamanda bir estetik deneyimdir ve sinema tarihinde devrim niteliğinde kabul edilmektedir.",
+        "vocabulary": [
+          {
+            "word": "yaratmak",
+            "definition": "Yeni bir şey yapmak."
+          },
+          {
+            "word": "keşif",
+            "definition": "Yeni bir şey bulma."
+          },
+          {
+            "word": "meydan okumak",
+            "definition": "Karşı gelmek, zorluk çıkarmak."
+          },
+          {
+            "word": "şölen",
+            "definition": "Kutlama ya da ziyafet."
+          },
+          {
+            "word": "devrim niteliğinde",
+            "definition": "Önemli bir değişim yaratan."
+          }
+        ]
+      },
+      "C1": {
+        "title": "Narların Rengi",
+        "text": "Sergei Parajanov'un 1969 yapımı Narların Rengi, sinema tarihinin en dikkat çekici ve çığır açıcı eserlerinden biridir. Film, 18. yüzyıl Ermeni şairi Sayat Nova'nın hayatını farklı bir şekilde ele almaktadır. Parajanov, geleneksel öğeleri bir araya getirerek, statik kameralarla şiirsel bir dil yaratmaktadır. Bu filmde estetik, sadece görüntü ile sınırlı kalmaz; müzik kullanımı, renk paleti ve kompozisyon, izleyicinin bilinçaltına yönelik derin mesajlar taşır. Sayat Nova'nın kadınlarla olan ilişkileri, duygusal derinlik ve karmaşıklık sunarken, aynı zamanda insanın içsel dünyasına yöneltilen sorular da ortaya çıkmaktadır. Narların Rengi, sadece bir belgesel olmaktan öte, sinemayı bir sanat formu olarak yeniden tanımlayarak, izleyiciye derin bir düşünme deneyimi sunar.",
+        "vocabulary": [
+          {
+            "word": "dikkat çekici",
+            "definition": "Göz alıcı ve ilginç."
+          },
+          {
+            "word": "çığır açıcı",
+            "definition": "Önemli ve yenilikçi."
+          },
+          {
+            "word": "ele almak",
+            "definition": "Bir konuyu tartışmak ya da incelemek."
+          },
+          {
+            "word": "estetik",
+            "definition": "Güzellik ve sanat ile ilgili."
+          },
+          {
+            "word": "bilinçaltı",
+            "definition": "Farkında olmadan etkileyen düşünceler."
+          }
+        ]
+      },
+      "C2": {
+        "title": "Narların Rengi",
+        "text": "1969 yılında Sergei Parajanov'un yönettiği Narların Rengi, sıradan bir biyografi değil, sinema sanatının sınırlarını zorlayan bir görsel şiirdir. Sayat Nova'nın 18. yüzyıldaki yaşamı boyunca, yaşamın temalarını ve derinliklerini inceleyen film, sadece olayları kronolojik olarak sunmakla kalmaz; aynı zamanda izleyicinin duygusal katmanlarını da keşfeder. Parajanov, geleneklere baş kaldıran sinematografik dil ile izleyiciyi büyüleyen Estetik bir deneyim sunar. Renklerin, ışıkların ve müziğin senkronizasyonu, derin bir melankoli ile iç içe geçmiştir. Bu film, sadece bir sanat yapıtı olmaktan öte, izleyicinin öz benliği üzerine derin düşüncelere dalmasını sağlamaktadır. Sinemanın geleceğine dair cesur bir vizyon ortaya koyarak, Narların Rengi, yine de izlenmesi gereken bir başyapıttır.",
+        "vocabulary": [
+          {
+            "word": "sıradan",
+            "definition": "Alışılmadık, normal olmayan."
+          },
+          {
+            "word": "kronolojik",
+            "definition": "Zaman sırasına göre düzenlenmiş."
+          },
+          {
+            "word": "baş kaldırmak",
+            "definition": "Karşı gelmek, itiraz etmek."
+          },
+          {
+            "word": "senkronizasyon",
+            "definition": "Farklı unsurların uyum içinde çalışması."
+          },
+          {
+            "word": "melankoli",
+            "definition": "Hüzünlü nitelik veya durum."
+          }
+        ]
+      }
+    }
+  }
+}
