@@ -481,6 +481,197 @@
           }
         ]
       }
+    },
+    "tr": {
+      "A1": {
+        "title": "Satranç şampiyonu Kramnik yasaklandı",
+        "text": "Vladimir Kramnik, eski satranç şampiyonu. Kramnik, bir yıl yasak aldı. Bu yasak FIDE'den geldi. Kramnik, diğer oyunculara kötü sözler söyledi. Daniel Naroditsky, 29 yaşında öldü. Naroditsky, hile yapmadığını söyledi. Kramnik, karara itiraz etmek istiyor. Yasak bir yıl sürecek. Üç yıl denetim süresi var.",
+        "vocabulary": [
+          {
+            "word": "yasak",
+            "definition": "bir şeyi yapmamak."
+          },
+          {
+            "word": "şampiyon",
+            "definition": "bir yarışmada en iyi olan kişi."
+          },
+          {
+            "word": "söylemek",
+            "definition": "bir şeyi konuşmak."
+          },
+          {
+            "word": "oyuncu",
+            "definition": "bir oyunda oyun oynayan kişi."
+          },
+          {
+            "word": "karar",
+            "definition": "bir şeyi seçmek."
+          }
+        ]
+      },
+      "A2": {
+        "title": "Eski satranç şampiyonu Kramnik bir yıl yasaklandı",
+        "text": "Vladimir Kramnik, bir zamanlar tanınmış bir satranç şampiyonuydu. Dünya Satranç Federasyonu (FIDE), Kramnik'i bir yıl yasakladı. Kramnik, diğer oyunculara hakaret etti. Bu oyunculardan biri Daniel Naroditsky, geçen yıl 29 yaşında öldü. Naroditsky, hile yapmadığını söyledi. O, bu durumun kendisini çok etkilediğini belirtti. Kramnik, sosyal medyada karara itiraz edeceğini açıkladı. Yasak, bir yıl geçerli olacak. Eğer başka bir ihlal olmazsa, yasak kaldırılabilir.",
+        "vocabulary": [
+          {
+            "word": "şampiyon",
+            "definition": "en iyi olan kişi."
+          },
+          {
+            "word": "Federasyon",
+            "definition": "bir grup organizasyon."
+          },
+          {
+            "word": "yasak",
+            "definition": "bir şeyi yapmamak."
+          },
+          {
+            "word": "hakaret",
+            "definition": "birine kötü söz söylemek."
+          },
+          {
+            "word": "duygu",
+            "definition": "hissetmek."
+          },
+          {
+            "word": "itiraz",
+            "definition": "bir karara karşı çıkmak."
+          }
+        ]
+      },
+      "B1": {
+        "title": "Eski satranç şampiyonu Kramnik, hile iddiaları nedeniyle yasaklandı",
+        "text": "Bir zamanlar ünlü dünya satranç şampiyonu olan Vladimir Kramnik, Dünya Satranç Federasyonu (FIDE) tarafından bir yıl boyunca yasaklandı. Bu yasak, Kramnik'in etik kurallarını ciddi ihlalleri nedeniyle verildi. FIDE, Kramnik'in diğer oyunculara, özellikle 29 yaşında hayatını kaybeden Daniel Naroditsky'ye yönelik kötü sözler söylediğini tespit etti. Naroditsky, hile iddialarını kesin bir şekilde reddetti. O, son çevrimiçi yayınında bu durumun kendisini derinden etkilediğini açıkladı. Kramnik, karara itiraz edeceğini sosyal medyada duyurdu. Yasak ilk olarak bir yıl sürecek ama eğer üç yıl denetim süresi içinde başka ihlal olursa, bu yasak kaldırılabilir. Satranç dünyası Kramnik'in tutumunu kınadı. Ünlü satranç oyuncuları Magnus Carlsen ve Hikaru Nakamura da bu duruma karşı çıktılar.",
+        "vocabulary": [
+          {
+            "word": "şampiyon",
+            "definition": "en iyi satranç oyuncusu."
+          },
+          {
+            "word": "yasak",
+            "definition": "bir şeyin yapılmasına izin verilmemesi."
+          },
+          {
+            "word": "iddia",
+            "definition": "bir şeyin doğru olduğunu söylemek."
+          },
+          {
+            "word": "etki",
+            "definition": "bir şeyin başka bir şey üzerinde değişim yaratması."
+          },
+          {
+            "word": "itiraz",
+            "definition": "bir karara karşı çıkmak."
+          },
+          {
+            "word": "kınamak",
+            "definition": "bir davranışı kötü bulmak."
+          },
+          {
+            "word": "yayın",
+            "definition": "bilgi veya program paylaşımı."
+          }
+        ]
+      },
+      "B2": {
+        "title": "Vladimir Kramnik, Hile İddiaları Nedeniyle Dünya Satranç Federasyonu Tarafından Yasaklandı",
+        "text": "Eski dünya satranç şampiyonu Vladimir Kramnik, Dünya Satranç Federasyonu (FIDE) tarafından etik kurallarını ihlal ettiği gerekçesiyle bir yıl yasak aldı. FIDE, Kramnik'in diğer oyunculara, özellikle yakın zamanda hayatını kaybeden Daniel Naroditsky'ye yönelik sert söylemlerini tespit etti. Naroditsky, birkaç ay önce hile yaptığına dair iddiaları kesin bir dille yalanladı ve bu durumun kendisine derin bir üzüntü verdiğini söyledi. Kramnik, aldığı yasak kararına sosyal medya üzerinden itiraz edeceğini belirtti. Yasak, 12 ay boyunca geçerli olacak, ancak Kramnik'in üç yıl süren denetim döneminde başka herhangi bir ihlali olursa, yasak süresi askıya alınabilir. Kramnik'in bu davranışı, satranç topluluğunda büyük bir tepkiyle karşılandı. Ünlü satranç oyuncuları Magnus Carlsen ve Hikaru Nakamura, Kramnik'in tutumunu açıkça eleştirdi.",
+        "vocabulary": [
+          {
+            "word": "etki",
+            "definition": "bir şeyin başka bir şey üzerinde yaratacağı değişim."
+          },
+          {
+            "word": "yasak",
+            "definition": "bir şeyin yapılmasına izin verilmemesi durumu."
+          },
+          {
+            "word": "iddia",
+            "definition": "bir şeyin doğru olduğunu ifade etmek."
+          },
+          {
+            "word": "eleştirmek",
+            "definition": "birini ya da bir durumu kötü bulup karşı çıkmak."
+          },
+          {
+            "word": "tahkik",
+            "definition": "bir durumu, olayı incelemek."
+          },
+          {
+            "word": "sosyal medya",
+            "definition": "internet üzerinden iletişim ve paylaşım platformları."
+          },
+          {
+            "word": "açıklamak",
+            "definition": "bir şeyi net bir şekilde ifade etmek."
+          }
+        ]
+      },
+      "C1": {
+        "title": "Kramnik, Hile İddialarına İlişkin Ahlaki İhlaller Dolayı FIDE Tarafından Bir Yıl Yasaklandı",
+        "text": "Vladimir Kramnik, bir dönem dünya satranç şampiyonu olarak tanınan bir figür olarak, Dünya Satranç Federasyonu (FIDE) tarafından sahip olduğu etik kurallarını ciddi biçimde ihlal ettiği gerekçesiyle bir yıl boyunca yasaklandı. FIDE, Kramnik'in, özellikle 29 yaşında genç yaşta hayatını kaybeden Daniel Naroditsky'ye yönelik yaptığı ağır sözleri belgelendirdi. Naroditsky, hile yapma suçlamalarını kesin bir dille reddetti ve bu durumun psikolojik olarak kendisini derinden etkilediğini yalnızca son çevrimiçi yayınında anlattı. Kramnik, sosyal medya platformlarında federasyonun kararına itiraz edeceğini belirtti. Bu yasak, başlangıçta bir yıl süreyle uygulanacak, fakat Kramnik'in üç yıllık denetim süresi içerisinde başka bir kural ihlali gerçekleşmezse, yasak süreli olarak kaldırılabilir. Satranç topluluğu, Kramnik'in tutumunu büyük bir hayal kırıklığıyla karşıladı. Tanınmış satranç oyuncuları Magnus Carlsen ve Hikaru Nakamura, bu konudaki değerlendirmelerinde Kramnik'in davranışlarının kabul edilemez olduğunu vurguladılar.",
+        "vocabulary": [
+          {
+            "word": "ahlak",
+            "definition": "doğru ve yanlış olanı bilme durumu."
+          },
+          {
+            "word": "şampiyon",
+            "definition": "bir yarışmada en iyi olan kişi."
+          },
+          {
+            "word": "ihlal",
+            "definition": "kurallara uymamak."
+          },
+          {
+            "word": "belgelendirmek",
+            "definition": "bir şeyin doğru olduğunu kanıtlamak."
+          },
+          {
+            "word": "etkilenmek",
+            "definition": "bir olaydan duygusal bir şekilde etkilenmek."
+          },
+          {
+            "word": "hayal kırıklığı",
+            "definition": "beklentinin düşmesi durumu."
+          }
+        ]
+      },
+      "C2": {
+        "title": "Vladimir Kramnik, Hile İddialarına İlişkin Ahlaki İhlaller Nedeniyle Bir Yıl Süreyle Yasaklandı",
+        "text": "Bir zamanlar dünyanın en öncelikli satranç oyuncuları arasında yer alan Vladimir Kramnik, Dünya Satranç Federasyonu (FIDE) tarafından, etik kurallarını ağır bir şekilde ihlal ettiği için bir yıl boyunca yasaklandı. FIDE, Kramnik'in, özellikle geçtiğimiz yıl henüz 29 yaşında hayata veda eden Daniel Naroditsky'ye karşı geliştirdiği sert ve ağır söylemler nedeniyle bu kararı almak zorunda kaldığını belirtti. Naroditsky, kendisine yöneltilen hile iddialarını şiddetle reddetmiş ve bu durumun ruhsal sağlığını olumlu yönde etkilemediğini kaydetmişti. Kramnik, alınan yasak kararı hakkında sosyal medya üzerinden itiraz edeceğini duyurdu. Başlangıçta bir yıl sürecek olan yasak, Kramnik'in üç yıllık denetim döneminde başka herhangi bir kural ihlali olmaması durumunda askıya alınabilir. Satranç topluluğunda Kramnik'in bu tutumu büyük bir hayal kırıklığına yol açtı. İki kıtanın önde gelen satranç oyuncuları Magnus Carlsen ve Hikaru Nakamura, bu durumu kınayan açıklamalarda bulundular ve Kramnik'in davranışlarının sporun ruhuna terst olduğunu vurguladılar.",
+        "vocabulary": [
+          {
+            "word": "etkili",
+            "definition": "bir şeyin başarılı olması."
+          },
+          {
+            "word": "tepkime",
+            "definition": "bir olay sonrasında yenilik veya yanıt verme durumu."
+          },
+          {
+            "word": "açıkça",
+            "definition": "net bir şekilde, anlaşılır biçimde."
+          },
+          {
+            "word": "kınamak",
+            "definition": "bir durumu kötü bulmak ve eleştirmek."
+          },
+          {
+            "word": "denetim",
+            "definition": "belirli bir olay veya sürecin izlenmesi."
+          },
+          {
+            "word": "idrak",
+            "definition": "bir durumu anlamak veya kavramak."
+          },
+          {
+            "word": "kapsayıcı",
+            "definition": "bir çok şeyi içine alan geniş tanım."
+          }
+        ]
+      }
     }
-  }
+  },
+  "category": "sport"
 }

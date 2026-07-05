@@ -493,6 +493,164 @@
           }
         ]
       }
+    },
+    "tr": {
+      "A1": {
+        "title": "Ukrayna Petrol Terminaline Saldırdı",
+        "text": "Ukrayna, St. Petersburg'da büyük bir petrol terminaline saldırdı. Bu terminal, Rusya için önemlidir. Başkan Zelensky, terminalin Rusya için önemli olduğunu söyledi. Drone ile saldırı oldu. Petrolle ilgili önemli bir yerdir. St. Petersburg Valisi Beglov, saldırıyı bildirdi. Saldırıda ölen olmadı. Ukrayna, uzun menzilli drone saldırıları yaptı. Rusya'da yakıt sıkıntısı var. Yaklaşık %43 petrol işleme kapasitesi zarar gördü.",
+        "vocabulary": [
+          {
+            "word": "saldırdı",
+            "definition": "Bir yere zarar verme."
+          },
+          {
+            "word": "terminal",
+            "definition": "Petrol gibi şeylerin işlendiği yer."
+          },
+          {
+            "word": "önemli",
+            "definition": "Değerli, önemli olan."
+          },
+          {
+            "word": "Başkan",
+            "definition": "Bir ülkenin lideri."
+          },
+          {
+            "word": "sıkıntı",
+            "definition": "Bir şeyi elde etmede zorluk."
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ukrayna'nın Petrol Terminaline Saldırısı",
+        "text": "Ukrayna, St. Petersburg'daki büyük bir petrol terminaline saldırdı. Bu terminal, Rusya'nın savaşında önemli bir yer. Başkan Zelensky, bunun önemli bir altyapı olduğunu söyledi. Ayrıca, yakınlarda bir Rus deniz üssü de hedef alındı. St. Petersburg Valisi Aleksandr Beglov, büyük bir drone saldırısı olduğunu duyurdu. Terminal etkilendi ama ölü yok. Son aylarda, Ukrayna uzun menzilli drone saldırılarını artırdı. Bu, Rusya'da yakıt sıkıntısına yol açtı. Ukrayna, Rusya'nın petrol işleme kapasitesinin yaklaşık %43'ünün zarar gördüğünü söylüyor.",
+        "vocabulary": [
+          {
+            "word": "saldırı",
+            "definition": "Bir yere zarar verme."
+          },
+          {
+            "word": "terminal",
+            "definition": "Petrol gibi şeylerin işlendiği yer."
+          },
+          {
+            "word": "başkan",
+            "definition": "Bir ülkenin lideri."
+          },
+          {
+            "word": "savaş",
+            "definition": "İki taraf arasında kavga."
+          },
+          {
+            "word": "yetersiz",
+            "definition": "Yetersiz olan, az."
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ukrayna, St. Petersburg'daki Petrol Terminalini Vurdu",
+        "text": "Ukrayna, St. Petersburg'daki büyük bir petrol terminaline saldırı gerçekleştirdi. Başkan Volodymyr Zelensky, bu terminalin Rusya'nın askeri operasyonları için önemli bir altyapı olduğunu belirtti. Saldırıda ayrıca çevredeki bir Rus deniz üssü de hedef alındı. St. Petersburg Valisi Aleksandr Beglov, büyük bir drone saldırısının gerçekleştiğini ve terminalin etkilendiğini ancak ölü ya da yaralı olmadığını duyurdu. Son dönemde, Ukrayna uzun menzilli drone saldırılarını artırdı ve bu da Rusya'da ciddi yakıt sıkıntısına yol açtı. Ukrayna'ya göre, Rusya'nın petrol rafine etme kapasitesinin yaklaşık %43'ü bu saldırılar nedeniyle kullanılamaz hale geldi. Rus hükümeti, bu durumu bağımsız olarak doğrulamamıştır.",
+        "vocabulary": [
+          {
+            "word": "saldırı",
+            "definition": "Bir yere zarar verme eylemi."
+          },
+          {
+            "word": "terminal",
+            "definition": "Petrol veya diğer ürünlerin işlendiği alan."
+          },
+          {
+            "word": "askeri",
+            "definition": "Ordu veya savaş ile ilgili."
+          },
+          {
+            "word": "sıkıntı",
+            "definition": "Problemler veya eksiklikler."
+          },
+          {
+            "word": "hükümet",
+            "definition": "Bir ülkeyi yöneten kişiler."
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ukrayna, St. Petersburg'daki Stratejik Petrol Terminaline Saldırdı",
+        "text": "Ukrayna, Rusya'nın St. Petersburg şehrindeki önemli bir petrol terminaline anlamlı bir saldırı gerçekleştirmiştir. Başkan Volodymyr Zelensky, bu tesisin Rus ordusunun ilerlemesi için kritik bir altyapı olduğunu vurgulamaktadır. Saldırılar, bölgedeki bir Rus deniz üssünü de hedef almıştır. St. Petersburg Valisi Aleksandr Beglov, büyük bir drone saldırısının gerçekleştirildiğini ve petrol terminalinin etkilenmesine rağmen olayda can kaybı olmadığını bildirdi. Son aylarda Ukrayna, uzun menzilli drone saldırılarını artırarak Rusya'da ciddi yakıt kıtlığına neden olmuştur. Ukrayna'nın bildirdiğine göre, bu saldırılar sonucunda Rusya'nın petrol rafinasyon kapasitesinin yaklaşık %43'ü kullanılamaz hale gelmiştir. Öte yandan, Rus hükümeti bu bilgiyi bağımsız bir şekilde doğrulamamıştır, bu durum saldırıların etkisinin netliğini sorgulatmaktadır.",
+        "vocabulary": [
+          {
+            "word": "stratejik",
+            "definition": "Planlama ve önem açısından önemli."
+          },
+          {
+            "word": "tesis",
+            "definition": "Bir şeyin yapıldığı yer."
+          },
+          {
+            "word": "vurgulamak",
+            "definition": "Önemini belirtmek, vurgulamak."
+          },
+          {
+            "word": "ciddi",
+            "definition": "Önemli ve ağır olan."
+          },
+          {
+            "word": "ileri",
+            "definition": "Öndeki bölgeler, öncelikli."
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ukrayna, Rusya'nın St. Petersburg Kentindeki Kritik Petrol Terminaline Saldırdı",
+        "text": "Ukrayna, Rusya'nın St. Petersburg şehrinde yer alan kritik bir petrol terminaline önemli bir saldırı düzenlemiştir. Başkan Volodymyr Zelensky, bu tesisin Rusya'nın askeri operasyonları için hayati bir altyapı sağladığını belirtmiştir. Saldırı sırasında, çevrede bulunan bir Rus deniz üssünün de hedef alındığı bildirilmiştir. St. Petersburg Valisi Aleksandr Beglov, yapılan büyük drone saldırısının etkilerini kayıtlara geçirmiş, ancak olayda herhangi bir can kaybı yaşanmadığını vurgulamıştır. Son aylardaki uzun menzilli drone saldırılarının artması, Rusya'da ciddi yakıt sıkıntısına yol açmıştır. Ukrayna'nın iddialarına göre, bu saldırılar sonucunda Rusya'nın petrol rafinasyon kapasitesinin %43'ü felç olmuştur. Ancak Rus hükümeti, bu bilgileri bağımsız olarak doğrulamamış, bu durum da saldırıların net etkisinin belirsizliğini artırmıştır.",
+        "vocabulary": [
+          {
+            "word": "düzenlemek",
+            "definition": "Bir şey yapmak için plan yapmak."
+          },
+          {
+            "word": "hayati",
+            "definition": "çok önemli olan."
+          },
+          {
+            "word": "belirtmek",
+            "definition": "Bir şeyi ifade etmek."
+          },
+          {
+            "word": "kaydetmek",
+            "definition": "Bir olayı veya durumu yazmak."
+          },
+          {
+            "word": "belirsizlik",
+            "definition": "Kesin olmayan durum."
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ukrayna, St. Petersburg'daki Stratejik Petrol Tesisine Cesur Bir Saldırı Gerçekleştirdi",
+        "text": "Ukrayna, Rusya'nın St. Petersburg kentindeki stratejik öneme sahip petrol terminaline cesur bir saldırı gerçekleştirmiştir. Başkan Volodymyr Zelensky, bu terminalin Rus askeri faaliyetleri için hayati bir altyapı sağladığına dikkat çekerek, saldırının önemine vurgu yapmıştır. Olay sırasında, çevredeki bir Rus deniz üssünün de hedef alındığı bildirilmiştir. St. Petersburg Valisi Aleksandr Beglov, büyük bir drone saldırısının gerçekleştirildiğini ve petrol tesisinin hasar gördüğünü fakat can kaybı olmadığını açıklamıştır. Son zamanlarda Ukrayna, uzun menzilli drone saldırılarını artırarak, Rusya'da ciddi bir yakıt krizi yaşanmasına neden olmuştur. Ukrayna'nın resmi açıklamalarına göre, bu saldırılar sonucunda Rusya'nın petrol rafinasyon kapasitesinin yaklaşık %43'ü kullanılamaz hale gelmiştir. Ancak Rus hükümeti bu iddiaları bağımsız olarak kesin bir şekilde doğrulamamış ve gerginlik devam etmektedir. Bu durum, saldırıların etkisinin ve Rusya'nın savaş çabalarındaki olası sonuçların belirsizliğine zemin hazırlamaktadır.",
+        "vocabulary": [
+          {
+            "word": "cesur",
+            "definition": "Korkusuz ve cesaretli olan."
+          },
+          {
+            "word": "vurgulamak",
+            "definition": "Önemini daha fazla belirtmek."
+          },
+          {
+            "word": "açıklamak",
+            "definition": "Bir durumu ifade etmek."
+          },
+          {
+            "word": "kriz",
+            "definition": "Ciddi sorun veya sıkıntı durumu."
+          },
+          {
+            "word": "gerginlik",
+            "definition": "Tansiyonun yüksek olduğu durum."
+          }
+        ]
+      }
     }
   },
   "category": "politics"

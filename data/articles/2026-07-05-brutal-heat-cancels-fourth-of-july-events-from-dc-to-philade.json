@@ -493,6 +493,164 @@
           }
         ]
       }
+    },
+    "tr": {
+      "A1": {
+        "title": "Sıcak hava etkinlikleri iptal etti",
+        "text": "Washington'da, etkinlikler iptal oldu. Sıcak hava tehlikelidir. Bazı insanlar hasta oldu. İtfaiye yardım etti. Bir kadın buzla tedavi edildi. Diğer etkinlikler geç başladı. Trump, konuşma yapacak. New York'ta hava çok sıcak. Belediye başkanı uyardı.",
+        "vocabulary": [
+          {
+            "word": "sıcak",
+            "definition": "ısıtıcı hava"
+          },
+          {
+            "word": "etkinlik",
+            "definition": "şenlik veya organizasyon"
+          },
+          {
+            "word": "iptal",
+            "definition": "yapmamak"
+          },
+          {
+            "word": "insan",
+            "definition": "birey"
+          },
+          {
+            "word": "yardım",
+            "definition": "destek"
+          }
+        ]
+      },
+      "A2": {
+        "title": "Sıcak hava yüzünden etkinlikler iptal oldu",
+        "text": "Washington'da, Bağımsızlık Günü etkinlikleri iptal edildi. Organizatörler güvenlik için düşündü. Sıcak hava, etkinliğin kapanmasına neden oldu. Saat 5'te tekrar açıldı. Bazı insanlar sıcaktan hasta oldu. İtfaiye, onlara yardım etti. Bir kadın buzla tedavi aldı. Diğer etkinliklerde girişte gecikme oldu. Trump, konuşma yapmayı planlıyor. New York'ta sıcaklık 100 dereceye ulaştı. Belediye başkanı, tehlikeli hava koşullarını uyardı.",
+        "vocabulary": [
+          {
+            "word": "güvenlik",
+            "definition": "koruma durumu"
+          },
+          {
+            "word": "etkinlik",
+            "definition": "bir şey yapma"
+          },
+          {
+            "word": "sıcak",
+            "definition": "ısınmış"
+          },
+          {
+            "word": "yardım",
+            "definition": "destek sağlama"
+          },
+          {
+            "word": "konuşma",
+            "definition": "sözlü ifade"
+          }
+        ]
+      },
+      "B1": {
+        "title": "Sıcak hava, Bağımsızlık Günü etkinliklerini iptal etti",
+        "text": "Washington'da, organizatörler Bağımsızlık Günü sabahı etkinliklerini iptal etti. Güvenlik nedeniyle bu karar alındı. Aşırı sıcak, Ulusal Alandaki fuarın saatlerce kapanmasına neden oldu. Fuardan sonra saat 5'te tekrar açıldı. Bu süre içinde, bazı insanlar sıcak havadan hastalandı. DC İtfaiyesi ve Acil Durum Servisi, bu insanlara yardım etti. Bir tanık, ortasında bir kadının, serinlemek için buz tedavisi aldığını bildirdi. Capitol Fourth konserinde ise halk girişi gecikti. Sıcak havaya rağmen, Trump 4 Temmuz'da bir konuşma yapmayı planlıyor. New York'ta ise sıcaklık 100 dereceye yükseldi. Belediye başkanı, sağlığa zarar verebilecek durumda uyarılar yaptı.",
+        "vocabulary": [
+          {
+            "word": "organizasyon",
+            "definition": "bir etkinlik düzenleme"
+          },
+          {
+            "word": "aşırı",
+            "definition": "çok fazla"
+          },
+          {
+            "word": "kapalı",
+            "definition": "açık olmayan"
+          },
+          {
+            "word": "halk",
+            "definition": "toplum"
+          },
+          {
+            "word": "uyarı",
+            "definition": "dikkat etme isteği"
+          }
+        ]
+      },
+      "B2": {
+        "title": "Bağımsızlık Günü etkinlikleri, aşırı sıcaklık nedeniyle iptal edildi",
+        "text": "Washington'da, organizatörler Bağımsızlık Günü sabahı için planlanan etkinlikleri güvenlik endişeleri sebebiyle iptal etti. Aşırı sıcak, Ulusal Alan'daki fuarın saatlerce kapalı kalmasına yol açtı ve etkinlik 5 PM'de tekrar açıldı. Bu süre zarfında, birkaç kişi aşırı sıcak nedeniyle hastalandı ve DC İtfaiyesi ile Acil Durum Servisi onlara yardımcı olmak için olay yerine geldi. Gözlemcilerden biri, bir orta yaşlı kadının serinlemek için buz tedavisi aldığını rapor etti. Başka bir etkinlik olan Capitol Fourth konserinin, halk için girişinde gecikmeler meydana geldi. Sıcak havaya rağmen, Trump 4 Temmuz’da bir konuşma yapacağını açıkladı. Öte yandan, New York'ta sıcaklık 100 derece Fahrenheit seviyesine ulaştı. Bu durum, sağlık riskleri hakkında endişeleri artırdı ve belediye başkanı son derece tehlikeli koşullar hakkında uyarılar yaptı.",
+        "vocabulary": [
+          {
+            "word": "güvenlik",
+            "definition": "koruma durumu"
+          },
+          {
+            "word": "endişe",
+            "definition": "kaygı durumu"
+          },
+          {
+            "word": "hastalık",
+            "definition": "sağlık sorunu"
+          },
+          {
+            "word": "geçikme",
+            "definition": "erken olmama durumu"
+          },
+          {
+            "word": "açıklama",
+            "definition": "bilgi verme"
+          }
+        ]
+      },
+      "C1": {
+        "title": "Aşırı sıcaklar, Bağımsızlık Günü etkinliklerini iptal ettirdi",
+        "text": "Washington'daki organizatörler, güvenlik endişeleri nedeniyle Bu yıl Bağımsızlık Günü sabahı düzenlenecek etkinlikleri iptal etme kararı aldı. Aşırı sıcaklık, Ulusal Alan'daki fuarın kapalı kalmasına sebep oldu ve etkinlik saat 5'te yeniden açıldı. Bu süre zarfında, çok sayıda kişi sıcaktan sağlık sorunları yaşarken, DC İtfaiyesi ve Acil Sağlık Hizmetleri bu bireylere yardımcı olmak için olay yerine intikal etti. Tanıklara göre, ortasında bulunan bir kadın, serinlemek için buz tedavisi aldı. Ayrıca, Capitol Fourth konserinde halk girişlerinin gecikmesi söz konusu oldu. Sıcak havanın hâkimiyetine karşın Trump, 4 Temmuz'da bir konuşma yapmayı planladığını belirtti. Diğer taraftan, New York'ta sıcaklık 100 derece Fahrenheit'e fırladı. Bu durum, sağlık riskleri hususunda ciddi endişeleri artırdı ve belediye başkanı son derece tehlikeli koşullar hakkında vatandaşları uyarma gereği duydu.",
+        "vocabulary": [
+          {
+            "word": "organizatör",
+            "definition": "etkinlik düzenleyen kişi"
+          },
+          {
+            "word": "sıcaklık",
+            "definition": "ısı durumu"
+          },
+          {
+            "word": "intikal",
+            "definition": "ulaşmak"
+          },
+          {
+            "word": "tanık",
+            "definition": "görme durumu"
+          },
+          {
+            "word": "belirtti",
+            "definition": "açıklamak"
+          }
+        ]
+      },
+      "C2": {
+        "title": "Bağımsızlık Günü etkinlikleri, aşırı sıcak nedeniyle iptal edildi",
+        "text": "Washington'da, organizatörler Bağımsızlık Günü sabahı için öngörülen etkinlikleri, halk sağlık güvenliği açısından gerekli gördükleri için iptal etti. Kentteki aşırı sıcak, Ulusal Alan'daki fuarın birçok saat kapalı kalmasına ve sonunda saat 5’te yeniden açılmasına neden oldu. Bu süre içerisinde, sıcak hava dalgası nedeniyle bir dizi kişi sağlık sorunları yaşamış ve DC İtfaiyesi ile Acil Durum Servisi olaylara müdahale ederek bu bireylere yardımda bulunmuştur. Görgü tanıklarının ifadelerine göre,  ortasında bir kadın, aşırı sıcak nedeniyle buz tedavisi almak durumunda kalmış. Özellikle Capitol Fourth konserinde, halk girişiyle ilgili gecikmeler de yaşanmıştır. Trump, aşırı sıcak atmosferine rağmen, 4 Temmuz’da bir konuşma yapmayı sürdüreceğini ifade etti. Diğer yandan, New York’ta sıcaklık, 100 derece Fahrenheit'e ulaşarak sağlık risklerini artırmış ve bu durum, New York Belediye Başkanı'nın son derece tehlikeli iklim koşulları noktasında uyarılar yapmasına yol açmıştır.",
+        "vocabulary": [
+          {
+            "word": "öngörülen",
+            "definition": "tahmin edilen veya planlanan"
+          },
+          {
+            "word": "halk",
+            "definition": "kamu veya toplum"
+          },
+          {
+            "word": "müdahale",
+            "definition": "bir duruma karışma veya etki etme"
+          },
+          {
+            "word": "sağlık",
+            "definition": "beden sağlığı durumu"
+          },
+          {
+            "word": "iklim",
+            "definition": "hava durumu"
+          }
+        ]
+      }
     }
   },
   "category": "climate"

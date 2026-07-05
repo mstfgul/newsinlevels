@@ -481,6 +481,165 @@
           }
         ]
       }
+    },
+    "tr": {
+      "A1": {
+        "title": "ABD'nin 250. Doğum Günü",
+        "text": "ABD, 250. doğum gününü kutladı. Kutlama havai fişekler ve uçak gösterileri ile oldu. Başkan Trump, bir grup insana konuştu. Trump, 'Amerikan rüyası geri geldi!' dedi. Fırtına kutlamaları etkiledi. Bazı yerler boşaltıldı. Fırtına geçince konserler başladı. Havai fişek gösterisi çok güzeldi. İnsanlar mutlu oldu.",
+        "vocabulary": [
+          {
+            "word": "doğum günü",
+            "definition": "Bir kişinin doğduğu gün."
+          },
+          {
+            "word": "kutlama",
+            "definition": "Özel bir günü anma."
+          },
+          {
+            "word": "fırtına",
+            "definition": "Şiddetli rüzgar ve yağmur."
+          },
+          {
+            "word": "mutlu",
+            "definition": "Sevinçli, keyifli."
+          },
+          {
+            "word": "insan",
+            "definition": "Birey, kişi."
+          }
+        ]
+      },
+      "A2": {
+        "title": "ABD'nin 250. Yılı Kutlandı",
+        "text": "Amerika Birleşik Devletleri, 250. yılını kutladı. Kutlamalar havai fişekler ve askeri uçak gösterileri ile yapıldı. Şiddetli bir fırtına yüzünden bir etkinlik ertelendi. Başkan Trump, kalabalığa konuştu. Trump, 'Amerikan rüyası geri geldi!' dedi. Fırtına bazı etkinlikleri etkiledi. İnsanlar yerlerini boşaltmak zorunda kaldı. Fırtına geçti ve konserler tekrar başladı. Havai fişek gösterisi çok güzeldi. İnsanlar çok heyecanlandı.",
+        "vocabulary": [
+          {
+            "word": "etkinlik",
+            "definition": "Özel bir aktivite."
+          },
+          {
+            "word": "konuşmak",
+            "definition": "Söylemek, söz ile iletmek."
+          },
+          {
+            "word": "şiddetli",
+            "definition": "Çok güçlü, sert."
+          },
+          {
+            "word": "yarıda kalmak",
+            "definition": "Devam edememek."
+          },
+          {
+            "word": "heyecan",
+            "definition": "Heyecanlandıran duygu."
+          }
+        ]
+      },
+      "B1": {
+        "title": "ABD 250. Yıl Dönümünü Kutladı",
+        "text": "Amerika Birleşik Devletleri, 250. yıl dönümünü büyük bir etkinlikle kutladı. Kutlamalar sırasında havai fişekler patlatıldı ve askeri uçak gösterileri yapıldı. Ancak, şiddetli bir fırtına nedeniyle bazı olaylar ertelendi. Başkan Trump, kalabalığın önünde heyecanla konuştu. Trump, 'Amerikan rüyası geri geldi!' diyerek insanlara umut verdi. Fırtına nedeniyle bazı insanlar evlerini boşaltmak zorunda kaldı. Fırtına geçtikten sonra etkinlikler tekrar başladı. Konserler yapıldı ve gece havai fişekler kontrolsüz bir şekilde gökyüzünü aydınlattı. İnsanlar bu güzel manzaraya çok sevindi. Fakat, Trump'ın kişisel politikaları bazı eleştirilere neden oldu.",
+        "vocabulary": [
+          {
+            "word": "etkinlik",
+            "definition": "Bir şey yapmak için düzenlenen organizasyon."
+          },
+          {
+            "word": "umut",
+            "definition": "İyi bir şey olacağını düşünmek."
+          },
+          {
+            "word": "aydınlatmak",
+            "definition": "Bir yeri ışıkla doldurmak."
+          },
+          {
+            "word": "eleştiri",
+            "definition": "Bir şeyi kötü bulma."
+          },
+          {
+            "word": "kalabalık",
+            "definition": "Birçok insanın olduğu grup."
+          }
+        ]
+      },
+      "B2": {
+        "title": "ABD, 250. Yılını Kutlayarak Fırtınaya Rağmen Coşkulu Bir Etkinlik Gerçekleştirdi",
+        "text": "Amerika Birleşik Devletleri, 250. yıl dönümünü çeşitli etkinliklerle kutladı. Kutlamalar havai fişek gösterileri ve askeri uçakların gösterileri ile renklendi. Ancak, yoğun bir fırtına nedeniyle bazı olaylar ertelendi. Bu sırada, Başkan Trump topluluğa seslenerek, 'Amerikan rüyası geri geldi!' ifadesini kullandı. Fırtına bazı bölgelerde acil durumlara neden oldu ve insanlar yerlerini boşaltmak zorunda kaldı. Fırtına dindikten sonra kutlamalar yeniden başladı. Konserler verildi ve akşam havai fişek gösterisiyle devam etti. Gökyüzü renk cümbüşüne döndü. Birçok kişi bu anı heyecanla karşıladı. Ancak, Trump'ın kişisel politikaları ve söylemleri günün coşkusunu gölgeledi. Bu durum, bazı kesimler tarafından eleştirildi.",
+        "vocabulary": [
+          {
+            "word": "yoğun",
+            "definition": "Sık, kalabalık."
+          },
+          {
+            "word": "acil",
+            "definition": "Hızla yapılması gereken durum."
+          },
+          {
+            "word": "gösteri",
+            "definition": "Bir şeyin sergilenmesi."
+          },
+          {
+            "word": "cümle",
+            "definition": "Kelime grubu ile fikir bildirmek."
+          },
+          {
+            "word": "eleştiri",
+            "definition": "Bir durumu ya da kişiyi değerlendirme."
+          }
+        ]
+      },
+      "C1": {
+        "title": "ABD, 250. Yıl Dönümünü Tarihi Bir Kutlamayla Geçirdi",
+        "text": "Amerika Birleşik Devletleri, 250. yıl dönümünü büyük bir coşkuyla anmak için çeşitli etkinlikler düzenledi. Kutlamalar, renkli havai fişek gösterileri ve askeri uçakların gösterileriyle taçlandırıldı. Ancak, aniden meydana gelen şiddetli bir fırtına, etkinliklerin akışını aksattı. Başkan Trump, kalabalığın önünde yaptığı konuşmada, 'Amerikan rüyası geri geldi!' diyerek dinleyicilere moral verdi. Fırtına sırasında bazı insanlar güvenli alanlara yönlendirilmek zorunda kaldı. Fırtınanın dinmesiyle birlikte kutlama programı kaldığı yerden devam etti; konserler yapıldı ve akşamın ilerleyen saatlerinde büyük bir havai fişek gösterisi gerçekleştirildi. Gökyüzü renk cümbüşüne dönerken, katılımcılar büyük bir sevinç yaşadı. Ancak, Trump'ın kişisel siyasete dair açıklamaları, kutlamanın genel coşkusunu gölgeleyecek eleştirilere yol açtı.",
+        "vocabulary": [
+          {
+            "word": "coşku",
+            "definition": "Büyük heyecan ve sevinç hali."
+          },
+          {
+            "word": "anı",
+            "definition": "Belirli bir zaman diliminde yaşanan olay."
+          },
+          {
+            "word": "moral",
+            "definition": "İçsel güç ve cesaret."
+          },
+          {
+            "word": "yönlendirmek",
+            "definition": "Bir yere doğru yön vermek."
+          },
+          {
+            "word": "büyük",
+            "definition": "Uzun, geniş veya önemli."
+          }
+        ]
+      },
+      "C2": {
+        "title": "ABD, 250. Yıl Dönümünü Fırtına İçinde Coşkuyla Kutladı",
+        "text": "Amerika Birleşik Devletleri, tarihi 250. yıl dönümünü muazzam bir kutlama ile anma fırsatını yakaladı. Etkinlikler, göz kamaştırıcı havai fişek gösterileri ve askeri uçakların muhteşem gösterileriyle dolup taştı. Ne yazık ki, beklenmedik bir fırtına, birçok etkinliğin düzenlenmesini güçleştirdi. Bu olay esnasında, Başkan Trump, mitinge katılan kalabalığa hitaben yaptığı konuşmada, 'Amerikan rüyası geri geldi!' dedi ve dinleyicilerin umudunu artırdı. Fırtına süresince, katılımcıların güvenliği için bazı alanlar acil durumda boşaltıldı. Fırtına geçtikten sonra etkinlikler tekrar başladı ve akşam saatlerinde düzenlenen gösteriler, izleyicilere unutulmaz anlar yaşattı. Gökyüzü renk patırtısıyla dolarken, katılımcılarda hem heyecan hem de rahatlama duygusu hakimdi. Ancak, Trump’ın kişisel politikaları üzerine yoğunlaşan açıklamaları, bu anlamlı günün coşkusunu gölgeleyen tartışmalara yol açtı.",
+        "vocabulary": [
+          {
+            "word": "muazzam",
+            "definition": "Çok büyük ve etkileyici."
+          },
+          {
+            "word": "göz kamaştırıcı",
+            "definition": "Çok güzel veya parlak."
+          },
+          {
+            "word": "beklenmedik",
+            "definition": "Önceden hesap edilmeyen."
+          },
+          {
+            "word": "anlamlı",
+            "definition": "Önemli bir anlam taşıyan."
+          },
+          {
+            "word": "tartışma",
+            "definition": "Bir konu hakkında farklı görüşler."
+          }
+        ]
+      }
     }
-  }
+  },
+  "category": "politics"
 }

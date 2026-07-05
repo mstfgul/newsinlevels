@@ -481,6 +481,164 @@
           }
         ]
       }
+    },
+    "tr": {
+      "A1": {
+        "title": "Tahran'da Kalabalıklar Toplandı",
+        "text": "Ali Khamenei'nin cenazesi başladı. Kalabalık Tahran'ın cami önünde toplandı. Adamlar siyah giydi. İnsanlar Khamenei'ye saygı gösterdi. Khamenei'nin bedeni Grand Mosalla'da. Cenaze töreni gelecek Perşembe Mashhad'da. İran’da 15-20 milyon kişi bekleniyor. Bazı insanlar Amerika'ya kızdı. Khamenei’nin ölümü için intikam istediler.",
+        "vocabulary": [
+          {
+            "word": "kalabalık",
+            "definition": "çok sayıda insan"
+          },
+          {
+            "word": "cenaze",
+            "definition": "ölü gömme seramonisi"
+          },
+          {
+            "word": "saygı",
+            "definition": "birine değer verme"
+          },
+          {
+            "word": "giydi",
+            "definition": "kıyafet giymek"
+          },
+          {
+            "word": "intikam",
+            "definition": "hınç alma"
+          }
+        ]
+      },
+      "A2": {
+        "title": "Büyük Kalabalık Tahran'da Toplandı",
+        "text": "Ali Khamenei'nin cenazesi ilk günde, büyük kalabalıklar Tahran'daki caminin önünde toplandı. Yas tutan insanlar siyah giyiyor. Khamenei'ye saygı gösteriyorlar. Khamenei'nin bedeni Grand Mosalla'da yatıyor. Gelecek Perşembe Mashhad'da gömülecek. Yetkililer, İran ve Irak'tan 15-20 milyon kişi bekliyor. Destekçiler Amerika'ya kızgın. Khamenei'nin ölümü için intikam istiyorlar. Öğretim görevlileri, Khamenei'ye destek vermeye söz verdiklerini söylediler.",
+        "vocabulary": [
+          {
+            "word": "yas",
+            "definition": "öğleden dolayı üzülmek"
+          },
+          {
+            "word": "saygı",
+            "definition": "birine değer verme"
+          },
+          {
+            "word": "yetkililer",
+            "definition": "görevli insanlar"
+          },
+          {
+            "word": "destekçiler",
+            "definition": "birine yardım edenler"
+          },
+          {
+            "word": "söz",
+            "definition": "verilen vaat"
+          }
+        ]
+      },
+      "B1": {
+        "title": "Tahran’da Khamenei’nin Cenazesine Yoğun Katılım",
+        "text": "Ali Khamenei'nin cenazesinin ilk gününde, Tahran'ın ana camisi önünde kalabalıklar toplandı. Siyah giyinen yas tutanlar, Khamenei’ye saygılarını sundular. Khamenei’nin bedeni şu anda Grand Mosalla'da yatıyor. Gelecek Perşembe onu Mashhad'da gömecekler. Yetkililer, İran ve Irak'tan 15 ila 20 milyon katılımcı bekliyor. Bazı destekçiler, Khamenei'nin öldürülmesi konusunda Amerika’ya öfke duyuyor ve intikam istiyor. Bir profesör, gazetecilere Khamenei'ye sonuna kadar destek verme sözü verdiklerini ifade etti. Yetkililer, cenaze töreni sırasında alanı sıkı bir şekilde kontrol etmeyi planlıyor.",
+        "vocabulary": [
+          {
+            "word": "katılım",
+            "definition": "bir etkinliğe gelme"
+          },
+          {
+            "word": "sundular",
+            "definition": "birine saygı gösterdi"
+          },
+          {
+            "word": "bekliyor",
+            "definition": "bir şeyin olmasını ummak"
+          },
+          {
+            "word": "öfkeli",
+            "definition": "kızgın olmak"
+          },
+          {
+            "word": "kontrol",
+            "definition": "bir şeyi denetlemek"
+          }
+        ]
+      },
+      "B2": {
+        "title": "Cenaze Töreninde Büyük Kalabalık",
+        "text": "Ali Khamenei'nin cenazesinin ilk gününde, Tahran'daki Grand Mosalla'nın önünde büyük kalabalıklar toplandı. Siyah giyinen yas tutanlar, Khamenei’ye saygılarını sunmak için bir araya geldiler. Khamenei’nin bedeni şu anda Grand Mosalla'da bulunuyor. Gelecek Perşembe, geleneklere uygun olarak onu Mashhad’a gömecekler. Yetkililer, İran ve Irak'tan 15 ila 20 milyon katılımcı bekliyorlar. Khamenei'nin öldürülmesi üzerine, birçok destekçi Amerika’ya karşı öfke duyarak intikam talep etti. Bir akademisyen, gazetecilere, Khamenei’ye sürekli destek verme sözü verdiklerini belirtti. Cenaze işlemleri sırasında, yetkililer alanı sıkı bir şekilde kontrol altına almayı planlıyorlar.",
+        "vocabulary": [
+          {
+            "word": "bir araya",
+            "definition": "toplanmak, birlikte olmak"
+          },
+          {
+            "word": "gelenekler",
+            "definition": "alışkanlıklar, görenekler"
+          },
+          {
+            "word": "katılımcı",
+            "definition": "bir etkinliğe katılan kişi"
+          },
+          {
+            "word": "talep",
+            "definition": "istek, arzu"
+          },
+          {
+            "word": "belirtti",
+            "definition": "açıklamak, söylemek"
+          }
+        ]
+      },
+      "C1": {
+        "title": "Tahran'da Khamenei'nin Cenaze Töreninde Yoğun İlgi",
+        "text": "Ali Khamenei'nin cenazesinin ilk günü, Tahran'ın Grand Mosalla'sında baskın bir kalabalık ile karşılandı. Siyah elbiseler giymiş olan yas tutan kalabalık, Khamenei'ye olan derin saygılarını sunmak için toplandı. Şu an Khamenei’nin bedeni Grand Mosalla'da yatıyor ve gelecek Perşembe Mashhad'da gömülmesi planlanıyor. Yetkililer, cenaze törenine İran ve Irak’tan 15 ile 20 milyon kişi katılacağı öngörüyor. Birçok destekçi, Khamenei'nin öldürülmesi ile ilgili Amerika’ya yönelik ağır eleştirilerde bulunarak intikam çağrısında bulundu. Bir akademisyen, Khamenei’ye olan desteklerinin asla sona ermeyeceğini ifade etti. Cenaze işlemleri boyunca, yetkililerin bölgeyi sıkı bir şekilde denetleme amacı taşımaktadır.",
+        "vocabulary": [
+          {
+            "word": "baskın",
+            "definition": "çok sayıda, yoğun"
+          },
+          {
+            "word": "derin",
+            "definition": "çok büyük, yoğun"
+          },
+          {
+            "word": "öngörüyor",
+            "definition": "tahmin etmek, düşünmek"
+          },
+          {
+            "word": "eleştirilerde",
+            "definition": "kötü yorum, eleştirmek"
+          },
+          {
+            "word": "sıkı",
+            "definition": "çok dikkatli ve katı"
+          }
+        ]
+      },
+      "C2": {
+        "title": "Tahran'da Khamenei'nin Cenaze Törenine Yoğun Katılım",
+        "text": "Ali Khamenei'nin cenazesi, İran'ın dini ve siyasi sahnesinde önemli bir dönüm noktası olarak kayıtlara geçiyor. Tahran’daki Grand Mosalla'nın önünde başta siyah giysili yas tutan kalabalıklar olmak üzere, dikkat çekici bir yoğunluk gözlemleniyor. Saygı duruşunda bulunan topluluk, Khamenei’nin yıllar boyunca sürdürdüğü liderlikten dolayı ona duydukları derin saygıyı ifade etmek için bir araya geldi. Şu anda Khamenei’nin bedeni burada yatmakta olup, gelecek Perşembe günü Mashhad’a defnedilmesi planlanıyor. Yetkililer, bu cenaze törenine ülkede ve Irak’ta 15 ila 20 milyon civarında katılımcı geleceğini öngörüyorlar. Birçok destekçisinin, Khamenei’nin Amerikan güçleri tarafından öldürülmesinin ardından Washington’a karşı öfkeyle dolup taştıkları ve bu olaydan intikam almak istediklerini duyurması dikkat çekti. Alanında saygın bir akademisyen, Khamenei’ye olan bağlılıklarının sonuna kadar süreceğini ve bu onurlu liderin hatırasını yaşatacaklarını ifade etti. Yetkililer, resmi bir organizasyon olarak, cenaze işlemleri boyunca bölgedeki güvenliği sıkı bir şekilde sağlayacaklarını belirtiyorlar.",
+        "vocabulary": [
+          {
+            "word": "dönüm noktası",
+            "definition": "önemli bir olay, değişim"
+          },
+          {
+            "word": "ifade etmek",
+            "definition": "bir düşünceyi söylemek"
+          },
+          {
+            "word": "defnedilmek",
+            "definition": "gömülmek, yer altında bırakılmak"
+          },
+          {
+            "word": "katılımcılar",
+            "definition": "etkinliğe gelen insanlar"
+          },
+          {
+            "word": "onurlu",
+            "definition": "şerefli, saygıdeğer"
+          }
+        ]
+      }
     }
   },
   "category": "politics"
