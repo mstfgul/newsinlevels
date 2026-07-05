@@ -5,6 +5,7 @@ import type {
   Article,
   HistoryIndexEntry,
   IndexEntry,
+  QuoteIndexEntry,
 } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "data");
@@ -44,5 +45,17 @@ export function getHistoryIndex(): HistoryIndexEntry[] {
 
 export function getHistoryEvent(id: string): Article {
   const file = path.join(DATA_DIR, "history", `${id}.json`);
+  return JSON.parse(fs.readFileSync(file, "utf8"));
+}
+
+export function getQuoteIndex(): QuoteIndexEntry[] {
+  const file = path.join(DATA_DIR, "quotes-index.json");
+  if (!fs.existsSync(file)) return [];
+  const entries: QuoteIndexEntry[] = JSON.parse(fs.readFileSync(file, "utf8"));
+  return entries.sort((a, b) => b.date.localeCompare(a.date));
+}
+
+export function getQuote(id: string): Article {
+  const file = path.join(DATA_DIR, "quotes", `${id}.json`);
   return JSON.parse(fs.readFileSync(file, "utf8"));
 }

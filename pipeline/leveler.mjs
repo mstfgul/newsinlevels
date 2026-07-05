@@ -57,6 +57,8 @@ Return JSON with exactly this shape:
  * kind "art":     writes an analysis of a painting — pass options.imageUrl so
  *                 the model can actually look at it.
  * kind "history": writes a capsule about an on-this-day historical event.
+ * kind "quote":   translates a quote (as the title) and explains it (as the
+ *                 text) at each level.
  */
 export async function generateLanguageVersions(
   openai,
@@ -72,6 +74,7 @@ export async function generateLanguageVersions(
     news: `You are an expert ${langName} teacher and news editor. You rewrite real news articles in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
     art: `You are an art historian and expert ${langName} teacher. You write engaging analyses of paintings in ${langName} at all six CEFR levels so learners can enjoy the same artwork at their own level. You always answer with valid JSON only.`,
     history: `You are a historian and expert ${langName} teacher. You write vivid capsules about historical events in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
+    quote: `You are a literary translator and expert ${langName} teacher. You translate famous quotes into ${langName} and explain them at all six CEFR levels so learners can appreciate the same words at their own level. You always answer with valid JSON only.`,
   };
 
   const TASKS = {
@@ -98,6 +101,16 @@ ${LEVEL_SPECS}
 ${SHARED_INSTRUCTIONS(langName)}
 
 EVENT: ${sourceTitle}
+
+FACTS:
+${sourceText}`,
+    quote: `For each CEFR level, work with the famous quote below. Put a faithful, natural ${langName} translation of the quote in the "title" field (keep it close to the original meaning; at higher levels it may be more literary). In the "text" field, write a short note IN ${langName} — say who the author was in one line, then explain what the quote means and why it resonates. Keep the note within these level limits (they replace the word counts above for this short format):
+A1: 30-50 words, very simple. A2: 45-70 words. B1: 60-90 words. B2: 80-120 words. C1: 110-150 words. C2: 130-180 words. Simpler levels, simpler language.
+
+Do not invent biographical facts beyond those provided.
+${SHARED_INSTRUCTIONS(langName)}
+
+QUOTE AND AUTHOR: ${sourceTitle}
 
 FACTS:
 ${sourceText}`,

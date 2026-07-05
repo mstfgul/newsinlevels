@@ -115,6 +115,8 @@ export function ArticleReader({ article }: { article: Article }) {
               </>
             ) : article.history ? (
               <>On this day · {article.history.year} · </>
+            ) : article.quote ? (
+              <>Quote of the day · {article.quote.author} · </>
             ) : (
               <>{article.date} · </>
             )}
@@ -126,9 +128,10 @@ export function ArticleReader({ article }: { article: Article }) {
             >
               {article.source.name}
             </a>
-            {!article.art && !article.history && article.category && (
-              <> · {article.category}</>
-            )}
+            {!article.art &&
+              !article.history &&
+              !article.quote &&
+              article.category && <> · {article.category}</>}
           </p>
 
           {article.image && (
@@ -141,16 +144,25 @@ export function ArticleReader({ article }: { article: Article }) {
               <figcaption className="hand-note px-1 pt-1.5 pb-0.5">
                 {article.art
                   ? `${article.art.title} — ${article.art.artist}, ${article.art.year}`
-                  : `${article.source.name} · ${article.date}`}
+                  : article.quote
+                    ? article.quote.author
+                    : `${article.source.name} · ${article.date}`}
               </figcaption>
             </figure>
           )}
 
           {!compare || !compareVersion ? (
             <div key={`${lang}-${level}`} className="level-swap">
-              <h1 className="text-3xl font-bold leading-tight tracking-tight sm:text-4xl">
-                {version.title}
-              </h1>
+              {article.quote ? (
+                <blockquote className="pull-quote">
+                  <p>{version.title}</p>
+                  <cite>— {article.quote.author}</cite>
+                </blockquote>
+              ) : (
+                <h1 className="text-3xl font-bold leading-tight tracking-tight sm:text-4xl">
+                  {version.title}
+                </h1>
+              )}
               <div className={`${bodyClass(level)} mt-6`}>
                 <HighlightedText
                   text={version.text}

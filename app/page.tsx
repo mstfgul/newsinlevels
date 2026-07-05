@@ -3,6 +3,7 @@ import {
   getArticle,
   getHistoryIndex,
   getIndex,
+  getQuoteIndex,
 } from "@/lib/data";
 import { ArtTeaser } from "@/components/ArtTeaser";
 import { HomeView } from "@/components/HomeView";
@@ -22,6 +23,7 @@ function formatDateline(date: string): string {
 export default function Home() {
   const entries = getIndex();
   const artEntries = getArtIndex();
+  const quoteEntries = getQuoteIndex();
   const historyEntries = getHistoryIndex();
 
   if (entries.length === 0) {
@@ -49,7 +51,7 @@ export default function Home() {
       <HomeView leadArticle={leadArticle} entries={entries} />
 
       {artEntries.length > 0 && <ArtTeaser entry={artEntries[0]} />}
-      <TodayExtras history={historyEntries[0]} />
+      <TodayExtras quote={quoteEntries[0]} history={historyEntries[0]} />
     </div>
   );
 }

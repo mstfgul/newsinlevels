@@ -1,38 +1,63 @@
 "use client";
 
 import Link from "next/link";
-import type { HistoryIndexEntry } from "@/lib/types";
+import type { HistoryIndexEntry, QuoteIndexEntry } from "@/lib/types";
 import { usePreferences } from "./Preferences";
 
-/** Homepage card for today's on-this-day capsule. */
-export function TodayExtras({ history }: { history?: HistoryIndexEntry }) {
+/** Homepage cards for today's quote and the on-this-day capsule. */
+export function TodayExtras({
+  quote,
+  history,
+}: {
+  quote?: QuoteIndexEntry;
+  history?: HistoryIndexEntry;
+}) {
   const { language } = usePreferences();
-  if (!history) return null;
+  if (!quote && !history) return null;
 
   return (
-    <Link
-      href={`/history/${history.id}/`}
-      className="group mt-6 flex flex-col gap-6 rounded-lg border border-border bg-card p-6 sm:flex-row sm:items-center sm:p-8"
-    >
-      {history.image && (
-        <span className="clipping-mini block h-28 w-40 shrink-0 rotate-[-1.5deg]">
-          <img src={history.image} alt="" loading="lazy" />
-        </span>
+    <div className="mt-6 grid gap-6 sm:grid-cols-2">
+      {quote && (
+        <Link
+          href={`/quotes/${quote.id}/`}
+          className="group flex flex-col rounded-lg border border-border bg-card p-6"
+        >
+          <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
+            Quote of the day
+          </p>
+          <p
+            className="mt-3 flex-1 text-lg italic leading-snug group-hover:underline group-hover:underline-offset-4"
+            style={{ fontFamily: "var(--font-literata)" }}
+          >
+            &ldquo;{quote.titles[language] ?? quote.titles.en}&rdquo;
+          </p>
+          <p
+            className="mt-3 text-right"
+            style={{
+              fontFamily: "var(--font-caveat)",
+              fontSize: "1.25rem",
+              color: "var(--muted-foreground)",
+            }}
+          >
+            — {quote.author}
+          </p>
+        </Link>
       )}
-      <span>
-        <span className="block font-mono text-xs uppercase tracking-widest text-muted-foreground">
-          On this day · {history.year}
-        </span>
-        <span className="mt-2 block text-lg font-bold leading-tight tracking-tight group-hover:underline group-hover:underline-offset-4">
-          {history.titles[language] ?? history.titles.en}
-        </span>
-        <span className="mt-1 block text-sm text-muted-foreground">
-          One thing that really happened on this date — read at your level.
-        </span>
-        <span className="mt-3 block text-sm font-semibold">
-          Read what happened →
-        </span>
-      </span>
-    </Link>
+
+      {history && (
+        <Link
+          href={`/history/${history.id}/`}
+          className="group flex flex-col rounded-lg border border-border bg-card p-6"
+        >
+          <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
+            On this day · {history.year}
+          </p>
+          <h2 className="mt-3 flex-1 text-lg font-bold leading-tight tracking-tight group-hover:underline group-hover:underline-offset-4">
+            {history.titles[language] ?? history.titles.en}
+          </h2>
+          <p className="mt-3 text-sm font-semibold">Read what happened →</p>
+        </Link>
+      )}
+    </div>
   );
 }

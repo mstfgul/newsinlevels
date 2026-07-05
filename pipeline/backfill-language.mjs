@@ -40,6 +40,10 @@ const TARGETS = [
     dir: path.join(ROOT, "data", "history"),
     indexFile: path.join(ROOT, "data", "history-index.json"),
   },
+  {
+    dir: path.join(ROOT, "data", "quotes"),
+    indexFile: path.join(ROOT, "data", "quotes-index.json"),
+  },
 ];
 
 const openai = new OpenAI();
@@ -60,7 +64,9 @@ for (const target of TARGETS) {
         ? { kind: "art", imageUrl: article.image }
         : article.history
           ? { kind: "history" }
-          : {};
+          : article.quote
+            ? { kind: "quote" }
+            : {};
       // The English B2 text is the closest thing to the original source we keep.
       article.languages[lang] = await generateLanguageVersions(
         openai,
@@ -87,7 +93,7 @@ for (const target of TARGETS) {
       if (indexEntry) {
         indexEntry.titles[lang] = article.languages[lang].B1.title;
         // Only the news index carries a category column.
-        if (!article.art && !article.history) {
+        if (!article.art && !article.history && !article.quote) {
           indexEntry.category = article.category;
         }
       }

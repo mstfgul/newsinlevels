@@ -43,11 +43,13 @@ export interface Article {
   source: { name: string; url: string };
   originalTitle: string;
   image?: string;
-  category?: Category | "art" | "history";
+  category?: Category | "art" | "history" | "quote";
   // Present on gallery entries: the artwork behind the analysis.
   art?: { artist: string; title: string; year: string; medium: string };
   // Present on on-this-day capsules: the year the event happened.
   history?: { year: number };
+  // Present on quote-of-the-day entries: the author and original wording.
+  quote?: { author: string; text: string };
   // Older articles may lack recently added languages — resolve with a fallback.
   languages: Partial<Record<Language, LanguageVersions>> &
     Record<"en", LanguageVersions>;
@@ -76,6 +78,14 @@ export interface HistoryIndexEntry {
   id: string;
   date: string;
   year: number;
+  image?: string;
+  titles: Partial<Record<Language, string>> & Record<"en", string>;
+}
+
+export interface QuoteIndexEntry {
+  id: string;
+  date: string;
+  author: string;
   image?: string;
   titles: Partial<Record<Language, string>> & Record<"en", string>;
 }
