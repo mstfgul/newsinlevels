@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-06-mark-twain-be-respectful-to-your-superior",
+    "date": "2026-07-06",
+    "author": "Mark Twain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg/330px-Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg",
+    "titles": {
+      "en": "Be respectful to your superiors, if you have any.",
+      "de": "Sei respektvoll zu deinen Vorgesetzten, wenn du welche hast.",
+      "fr": "Be respectful to your superiors, if you have any.",
+      "tr": "Üstlerinize saygılı olun, eğer üstleriniz varsa."
+    }
+  },
+  {
     "id": "2026-07-05-jane-austen-it-will-i-believe-be-everywher",
     "date": "2026-07-05",
     "author": "Jane Austen",
