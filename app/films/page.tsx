@@ -17,7 +17,7 @@ export default function FilmsPage() {
         <h1 className="text-2xl font-bold tracking-tight">Film Club</h1>
         <p className="mt-1 text-muted-foreground">
           One great film a day, discussed spoiler-free at your level — themes
-          and craft, never the ending. Posters and film data from TMDB.
+          and craft, never the ending.
         </p>
       </div>
 

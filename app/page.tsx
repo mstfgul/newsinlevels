@@ -34,6 +34,22 @@ export default function Home() {
 
   return (
     <div className="flex min-h-[calc(100dvh-17rem)] flex-col justify-center lg:relative lg:left-1/2 lg:w-[min(calc(100vw-3rem),64rem)] lg:-translate-x-1/2">
+      {/* What this place is, jotted at the top of the page in pencil. */}
+      <p
+        className="hand-note mx-auto mb-9 max-w-md rotate-[-0.6deg] text-center lg:max-w-none"
+        style={{ fontSize: "1.45rem" }}
+      >
+        real news, art, film &amp; history — every day, rewritten{" "}
+        <span className="relative inline-block whitespace-nowrap px-1">
+          <span
+            aria-hidden
+            className="absolute inset-x-0 bottom-0 top-1 -rotate-1 rounded-sm"
+            style={{ background: "var(--hl-strong)" }}
+          />
+          <span className="relative text-foreground">at your level</span>
+        </span>
+        , from A1 to C2
+      </p>
       <TodayDesk
         news={news}
         art={art}
