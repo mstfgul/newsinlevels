@@ -12,10 +12,18 @@ function firstSentences(text: string, count: number): string {
   return sentences.slice(0, count).join(" ");
 }
 
-export function HomeHero({ article }: { article: Article }) {
+export function HomeHero({
+  article,
+  href,
+}: {
+  article: Article;
+  /** Detail page for the lead; defaults to the news article route. */
+  href?: string;
+}) {
   const { language, level, setLevel } = usePreferences();
   const version =
     article.languages[resolveLanguage(article.languages, language)]![level];
+  const target = href ?? `/article/${article.id}/`;
 
   return (
     <section className="rounded-lg border border-border bg-card">
@@ -52,7 +60,7 @@ export function HomeHero({ article }: { article: Article }) {
               {firstSentences(version.text, 2)}
             </p>
             <Link
-              href={`/article/${article.id}/`}
+              href={target}
               className="mt-5 inline-block rounded-md bg-foreground px-4 py-2 text-sm font-semibold text-background transition-opacity hover:opacity-85"
             >
               Read at {level} · {LEVEL_DESCRIPTIONS[level]} →

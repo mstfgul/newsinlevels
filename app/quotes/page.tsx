@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { getQuoteIndex } from "@/lib/data";
+import { getQuote, getQuoteIndex } from "@/lib/data";
 import { QuotesList } from "@/components/QuotesList";
+import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
 
 export const metadata: Metadata = {
@@ -24,7 +25,20 @@ export default function QuotesPage() {
           No quotes yet — the first one arrives with the next daily run.
         </p>
       ) : (
-        <QuotesList entries={entries} />
+        <>
+          <HomeHero
+            article={getQuote(entries[0].id)}
+            href={`/quotes/${entries[0].id}/`}
+          />
+          {entries.length > 1 && (
+            <section className="mt-10">
+              <h2 className="mb-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+                Earlier quotes
+              </h2>
+              <QuotesList entries={entries.slice(1)} />
+            </section>
+          )}
+        </>
       )}
     </div>
   );

@@ -18,13 +18,13 @@ function formatDateline(date: string): string {
 }
 
 export default function Home() {
-  const news = getIndex()[0];
-  const art = getArtIndex()[0];
-  const film = getFilmIndex()[0];
-  const quote = getQuoteIndex()[0];
-  const history = getHistoryIndex()[0];
+  const news = getIndex().slice(0, 2);
+  const art = getArtIndex().slice(0, 2);
+  const film = getFilmIndex().slice(0, 2);
+  const quote = getQuoteIndex().slice(0, 2);
+  const history = getHistoryIndex().slice(0, 2);
 
-  if (!news && !art && !film && !quote && !history) {
+  if (!news.length && !art.length && !film.length && !quote.length && !history.length) {
     return (
       <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">
         Nothing on the desk yet — the daily pipelines will leave the first
@@ -49,7 +49,7 @@ export default function Home() {
         film={film}
         quote={quote}
         history={history}
-        dateline={news ? formatDateline(news.date) : undefined}
+        dateline={news[0] ? formatDateline(news[0].date) : undefined}
       />
     </div>
   );

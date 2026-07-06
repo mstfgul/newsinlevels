@@ -14,29 +14,30 @@ function wedgePath(deg: number): string {
 }
 
 /**
- * A little analog clock floating in the corner of the desk (large screens
- * only, everywhere except the homepage). It keeps real time until "start" —
- * then a red wedge of the dial marks the 25 pomodoro minutes left and drains
- * as you read.
+ * A little analog timer floating at the right edge of the desk (large
+ * screens only, everywhere except the homepage). It rests with both hands
+ * on twelve; "start" winds a red 25-minute wedge onto the dial that drains
+ * as you read, the long hand tracking its edge.
  */
 export function PomodoroClock() {
   const pathname = usePathname();
-  // now stays null until mounted so the server and first client render match.
-  const [now, setNow] = useState<number | null>(null);
   const [endsAt, setEndsAt] = useState<number | null>(null);
+  const [now, setNow] = useState(0);
   const [isDone, setIsDone] = useState(false);
 
+  const running = endsAt !== null;
+
   useEffect(() => {
+    if (!running) return;
     setNow(Date.now());
     const id = setInterval(() => setNow(Date.now()), 1000);
     return () => clearInterval(id);
-  }, []);
+  }, [running]);
 
-  const running = endsAt !== null;
-  const remaining = running && now !== null ? Math.max(0, endsAt - now) : 0;
+  const remaining = running ? Math.max(0, endsAt - now) : 0;
 
   useEffect(() => {
-    if (running && now !== null && now >= (endsAt ?? 0)) {
+    if (running && now >= endsAt) {
       setEndsAt(null);
       setIsDone(true);
     }
@@ -44,13 +45,10 @@ export function PomodoroClock() {
 
   if (pathname === "/") return null;
 
-  const date = now !== null ? new Date(now) : null;
-  const hourDeg = date
-    ? (date.getHours() % 12) * 30 + date.getMinutes() * 0.5
-    : 302;
-  const minDeg = date ? date.getMinutes() * 6 + date.getSeconds() * 0.1 : 60;
-  const secDeg = date ? date.getSeconds() * 6 : 180;
+  // At rest both hands point at twelve; wound up, the long hand walks the
+  // wedge's edge back to twelve while the red one ticks the seconds away.
   const wedgeDeg = (remaining / POMODORO_MS) * 150; // 25 of 60 minutes
+  const secDeg = running ? (60 - Math.ceil(remaining / 1000) % 60) % 60 * 6 : 0;
 
   const mm = String(Math.floor(remaining / 60000)).padStart(2, "0");
   const ss = String(Math.floor((remaining % 60000) / 1000)).padStart(2, "0");
@@ -96,21 +94,11 @@ export function PomodoroClock() {
           x1="50"
           y1="50"
           x2="50"
-          y2="31"
-          stroke="currentColor"
-          strokeWidth="3.2"
-          strokeLinecap="round"
-          transform={`rotate(${hourDeg} 50 50)`}
-        />
-        <line
-          x1="50"
-          y1="50"
-          x2="50"
           y2="21"
           stroke="currentColor"
-          strokeWidth="2.2"
+          strokeWidth="2.6"
           strokeLinecap="round"
-          transform={`rotate(${minDeg} 50 50)`}
+          transform={`rotate(${wedgeDeg} 50 50)`}
         />
         <line
           x1="50"
@@ -143,6 +131,7 @@ export function PomodoroClock() {
           onClick={() => {
             setIsDone(false);
             setEndsAt(Date.now() + POMODORO_MS);
+            setNow(Date.now());
           }}
           className="hand-note cursor-pointer rotate-[-1deg] text-center leading-tight transition-colors hover:text-foreground"
           style={{ fontSize: "1.15rem" }}

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { getHistoryIndex } from "@/lib/data";
+import { getHistoryEvent, getHistoryIndex } from "@/lib/data";
 import { HistoryList } from "@/components/HistoryList";
+import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
 
 export const metadata: Metadata = {
@@ -24,7 +25,20 @@ export default function HistoryPage() {
           No events yet — the first capsule arrives with the next daily run.
         </p>
       ) : (
-        <HistoryList entries={entries} />
+        <>
+          <HomeHero
+            article={getHistoryEvent(entries[0].id)}
+            href={`/history/${entries[0].id}/`}
+          />
+          {entries.length > 1 && (
+            <section className="mt-10">
+              <h2 className="mb-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+                Earlier days
+              </h2>
+              <HistoryList entries={entries.slice(1)} />
+            </section>
+          )}
+        </>
       )}
     </div>
   );

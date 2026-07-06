@@ -220,6 +220,12 @@ mark.vocab:hover {
   height: auto;
 }
 
+/* Inside a fixed-aspect window the photo fills and crops instead. */
+.clipping .clipping-fill img {
+  height: 100%;
+  object-fit: cover;
+}
+
 .clipping::before,
 .clipping::after {
   content: "";
