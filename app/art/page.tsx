@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getArtIndex } from "@/lib/data";
 import { GalleryList } from "@/components/GalleryList";
+import { Highlight, PageIntro } from "@/components/PageIntro";
 
 export const metadata: Metadata = {
   title: "Daily Art — Any Text in Levels",
@@ -13,13 +14,10 @@ export default function GalleryPage() {
 
   return (
     <div>
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold tracking-tight">Daily Art</h1>
-        <p className="mt-1 text-muted-foreground">
-          One painting a day, read at your level — like a museum postcard
-          taped into your notebook.
-        </p>
-      </div>
+      <PageIntro title="Daily Art">
+        one painting a day, read <Highlight>at your level</Highlight> — like a
+        museum postcard taped into your notebook
+      </PageIntro>
 
       {entries.length === 0 ? (
         <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">

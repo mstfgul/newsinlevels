@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getHistoryIndex } from "@/lib/data";
 import { HistoryList } from "@/components/HistoryList";
+import { Highlight, PageIntro } from "@/components/PageIntro";
 
 export const metadata: Metadata = {
   title: "On This Day — Any Text in Levels",
@@ -13,13 +14,10 @@ export default function HistoryPage() {
 
   return (
     <div>
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold tracking-tight">On This Day</h1>
-        <p className="mt-1 text-muted-foreground">
-          Every day, one thing that really happened on this date — told at
-          your level, in your language.
-        </p>
-      </div>
+      <PageIntro title="On This Day">
+        one thing that really happened on this date — told{" "}
+        <Highlight>at your level</Highlight>, in your language
+      </PageIntro>
 
       {entries.length === 0 ? (
         <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">

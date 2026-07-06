@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getFilmIndex } from "@/lib/data";
 import { FilmList } from "@/components/FilmList";
+import { Highlight, PageIntro } from "@/components/PageIntro";
 
 export const metadata: Metadata = {
   title: "Film Club — Any Text in Levels",
@@ -13,13 +14,11 @@ export default function FilmsPage() {
 
   return (
     <div>
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold tracking-tight">Film Club</h1>
-        <p className="mt-1 text-muted-foreground">
-          One great film a day, discussed spoiler-free at your level — themes
-          and craft, never the ending.
-        </p>
-      </div>
+      <PageIntro title="Film Club">
+        one great film a day, discussed spoiler-free{" "}
+        <Highlight>at your level</Highlight> — themes and craft, never the
+        ending
+      </PageIntro>
 
       {entries.length === 0 ? (
         <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">

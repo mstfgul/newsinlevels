@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getQuoteIndex } from "@/lib/data";
 import { QuotesList } from "@/components/QuotesList";
+import { Highlight, PageIntro } from "@/components/PageIntro";
 
 export const metadata: Metadata = {
   title: "Quotes — Any Text in Levels",
@@ -13,13 +14,10 @@ export default function QuotesPage() {
 
   return (
     <div>
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold tracking-tight">Quotes</h1>
-        <p className="mt-1 text-muted-foreground">
-          A line worth keeping, from a great author or poet — translated into
-          your language and explained at your level.
-        </p>
-      </div>
+      <PageIntro title="Quotes">
+        a line worth keeping, from a great author or poet — translated and
+        explained <Highlight>at your level</Highlight>
+      </PageIntro>
 
       {entries.length === 0 ? (
         <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">

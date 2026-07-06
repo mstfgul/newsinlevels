@@ -6,6 +6,7 @@ import {
   getQuoteIndex,
 } from "@/lib/data";
 import { TodayDesk } from "@/components/TodayDesk";
+import { Highlight } from "@/components/PageIntro";
 
 function formatDateline(date: string): string {
   return new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
@@ -40,15 +41,7 @@ export default function Home() {
         style={{ fontSize: "1.45rem" }}
       >
         real news, art, film &amp; history — every day, rewritten{" "}
-        <span className="relative inline-block whitespace-nowrap px-1">
-          <span
-            aria-hidden
-            className="absolute inset-x-0 bottom-0 top-1 -rotate-1 rounded-sm"
-            style={{ background: "var(--hl-strong)" }}
-          />
-          <span className="relative text-foreground">at your level</span>
-        </span>
-        , from A1 to C2
+        <Highlight>at your level</Highlight>, from A1 to C2
       </p>
       <TodayDesk
         news={news}
