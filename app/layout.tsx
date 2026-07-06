@@ -9,6 +9,7 @@ import {
 import { PreferencesProvider } from "@/components/Preferences";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
 import { NavTabs } from "@/components/NavTabs";
+import { PomodoroClock } from "@/components/PomodoroClock";
 import "./globals.css";
 
 const bricolage = Bricolage_Grotesque({
@@ -80,6 +81,7 @@ export default function RootLayout({
           <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-10">
             {children}
           </main>
+          <PomodoroClock />
           <footer className="border-t border-border py-6 text-center">
             <a
               href="https://www.linkedin.com/in/mustafa-gul00/"

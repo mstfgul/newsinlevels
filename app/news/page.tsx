@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getArticle, getIndex } from "@/lib/data";
 import { HomeView } from "@/components/HomeView";
+import { Highlight, PageIntro } from "@/components/PageIntro";
 
 export const metadata: Metadata = {
   title: "News — Any Text in Levels",
@@ -35,6 +36,10 @@ export default function NewsPage() {
 
   return (
     <div>
+      <PageIntro title="News">
+        today&apos;s real stories, rewritten{" "}
+        <Highlight>at your level</Highlight> — pick a headline and read
+      </PageIntro>
       <div className="mb-6 flex items-baseline justify-between gap-4">
         <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
           {formatDateline(lead.date)}
