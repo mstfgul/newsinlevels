@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-06-wildfire-in-southern-france-forces-evacuation-of-10-000-peop",
+    "date": "2026-07-06",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4df/live/4ab81620-7932-11f1-9510-1546718f668b.jpg",
+    "category": "climate",
+    "titles": {
+      "en": "Wildfire in Southern France Leads to Evacuations",
+      "de": "Waldbrand in Südfrankreich führt zur Evakuierung",
+      "fr": "Un incendie ravage le sud de la France",
+      "tr": "Fransa'daki Orman Yangını 10,000 Kişiyi Tahliye Etti"
+    }
+  },
+  {
+    "id": "2026-07-06-huge-crowds-fill-tehran-streets-for-khamenei-s-funeral-proce",
+    "date": "2026-07-06",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ab4/live/9aa22f20-792f-11f1-b976-0b9c15b0ccfc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Tens of thousands attend Khamenei's funeral in Tehran",
+      "de": "Khamenei wird mit großem Trauerzug in Teheran beigesetzt",
+      "fr": "Une grande foule à Téhéran pour les funérailles de Khamenei",
+      "tr": "Teheran'da Khamenei'nin Cenaze Töreni"
+    }
+  },
+  {
+    "id": "2026-07-06-ukraine-warns-of-interceptor-missile-shortage-as-21-killed-i",
+    "date": "2026-07-06",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Ukraine Faces Shortage of Interceptor Missiles as Attacks Continue",
+      "de": "Ukrainische Luftwaffe warnt vor Raketenmangel",
+      "fr": "L'Ukraine fait face à une grave pénurie de missiles.",
+      "tr": "Ukrayna'da Füze Sıkıntısı ve Saldırılar"
+    }
+  },
+  {
     "id": "2026-07-05-evacuations-in-guam-as-super-typhoon-bavi-approaches",
     "date": "2026-07-05",
     "source": "BBC News",
