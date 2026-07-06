@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-06-the-sacrifice-andrei-tarkovsky",
+    "date": "2026-07-06",
+    "director": "Andrei Tarkovsky",
+    "image": "https://image.tmdb.org/t/p/w780/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+    "titles": {
+      "en": "The Sacrifice",
+      "de": "Das Opfer",
+      "fr": "Le Sacrifice",
+      "tr": "Fedakarlık"
+    }
+  },
+  {
     "id": "2026-07-06-the-turin-horse-bela-tarr",
     "date": "2026-07-06",
     "director": "Béla Tarr",
