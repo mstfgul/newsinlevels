@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-06-claude-lorrain-claude-gellee-the-ford",
+    "date": "2026-07-06",
+    "artist": "Claude Lorrain (Claude Gellée)",
+    "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123844.jpg",
+    "titles": {
+      "en": "The Ford",
+      "de": "Der Ford",
+      "fr": "Le gué",
+      "tr": "Ford"
+    }
+  },
+  {
     "id": "2026-07-05-eugene-delacroix-the-abduction-of-rebecca",
     "date": "2026-07-05",
     "artist": "Eugène Delacroix",
