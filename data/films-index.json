@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-06-the-turin-horse-bela-tarr",
+    "date": "2026-07-06",
+    "director": "Béla Tarr",
+    "image": "https://image.tmdb.org/t/p/w780/2kSElneXSKmMsGL55k0CbPGqLbu.jpg",
+    "titles": {
+      "en": "The Turin Horse",
+      "de": "Eine Betrachtung des Lebens im Turin-Pferd",
+      "fr": "Le Cheval de Turin",
+      "tr": "Torino Atı"
+    }
+  },
+  {
     "id": "2026-07-05-the-spirit-of-the-beehive-victor-erice",
     "date": "2026-07-05",
     "director": "Víctor Erice",
