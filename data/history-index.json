@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-06-2013-boeing-777",
+    "date": "2026-07-06",
+    "year": 2013,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cathay_Pacific_Boeing_777-200%3B_B-HNL%40HKG.jpg/330px-Cathay_Pacific_Boeing_777-200%3B_B-HNL%40HKG.jpg",
+    "titles": {
+      "en": "The Asiana Airlines Flight 214 Crash",
+      "de": "Der Absturz von Asiana Airlines Flight 214",
+      "fr": "L'accident du vol 214 d'Asiana Airlines",
+      "tr": "Boeing 777 Uçağının Kazası"
+    }
+  },
+  {
     "id": "2026-07-05-2012-the-shard",
     "date": "2026-07-05",
     "year": 2012,
