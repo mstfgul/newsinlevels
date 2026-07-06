@@ -56,7 +56,7 @@ export function PomodoroClock() {
   const ss = String(Math.floor((remaining % 60000) / 1000)).padStart(2, "0");
 
   return (
-    <div className="fixed bottom-6 right-6 z-40 hidden w-36 flex-col items-center gap-1.5 lg:flex">
+    <div className="fixed right-6 top-1/2 z-40 hidden w-36 -translate-y-1/2 flex-col items-center gap-1.5 lg:flex">
       <svg
         viewBox="0 0 100 100"
         className="h-24 w-24 rotate-[1.5deg] text-foreground/85 drop-shadow-sm"
