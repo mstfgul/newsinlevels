@@ -50,7 +50,7 @@ export function writeJson(file, value) {
 const SHARED_INSTRUCTIONS = (langName) => `
 For every level also select 5-8 important words from YOUR text and define each one in simple ${langName} that a learner AT THAT LEVEL can understand (for A1/A2 keep definitions to a few very simple words).
 
-Return JSON with exactly this shape:
+Return JSON with exactly this shape, and ALL SIX levels (A1, A2, B1, B2, C1, C2) must be present as top-level keys — never omit a level:
 {"A1":{"title":"...","text":"...","vocabulary":[{"word":"...","definition":"..."}]},"A2":{...},"B1":{...},"B2":{...},"C1":{...},"C2":{...}}`;
 
 /**
@@ -138,31 +138,46 @@ ${sourceText}`,
   const system = SYSTEMS[kind];
   const task = TASKS[kind];
 
-  const response = await openai.chat.completions.create({
-    model: MODEL,
-    response_format: { type: "json_object" },
-    messages: [
-      { role: "system", content: system },
-      {
-        role: "user",
-        content: imageUrl
-          ? [
-              { type: "text", text: task },
-              { type: "image_url", image_url: { url: imageUrl } },
-            ]
-          : task,
-      },
-    ],
-  });
+  // Long six-level responses occasionally come back with a level missing or
+  // truncated — retry a few times before giving up on the whole article.
+  const MAX_TRIES = 3;
+  let lastError;
+  for (let attempt = 1; attempt <= MAX_TRIES; attempt++) {
+    const response = await openai.chat.completions.create({
+      model: MODEL,
+      response_format: { type: "json_object" },
+      messages: [
+        { role: "system", content: system },
+        {
+          role: "user",
+          content: imageUrl
+            ? [
+                { type: "text", text: task },
+                { type: "image_url", image_url: { url: imageUrl } },
+              ]
+            : task,
+        },
+      ],
+    });
 
-  const parsed = JSON.parse(response.choices[0].message.content);
-  for (const level of LEVELS) {
-    const entry = parsed[level];
-    if (!entry?.title || !entry?.text || !Array.isArray(entry.vocabulary)) {
-      throw new Error(`model response missing level ${level} for ${langCode}`);
+    const choice = response.choices[0];
+    try {
+      const parsed = JSON.parse(choice.message.content);
+      for (const level of LEVELS) {
+        const entry = parsed[level];
+        if (!entry?.title || !entry?.text || !Array.isArray(entry.vocabulary)) {
+          throw new Error(
+            `model response missing level ${level} for ${langCode} (finish_reason: ${choice.finish_reason})`,
+          );
+        }
+      }
+      return parsed;
+    } catch (error) {
+      lastError = error;
+      console.warn(`  attempt ${attempt}/${MAX_TRIES} failed: ${error.message}`);
     }
   }
-  return parsed;
+  throw lastError;
 }
 
 export async function classifyCategory(openai, title, text) {
