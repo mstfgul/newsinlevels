@@ -3,7 +3,9 @@
  *
  * 1. Asks the model to pick an art-house / cult / philosophically rich film
  *    that hasn't been featured before (data/films-processed.json).
- * 2. Verifies the pick on TMDB, pulling the poster, director and metadata.
+ * 2. Verifies the pick on TMDB, pulling the poster, director and metadata,
+ *    plus the film's Wikipedia lead section for richer grounding when a
+ *    confident match is found (free, no key).
  * 3. Generates a spoiler-free leveled essay (A1–C2) in every language.
  * 4. Writes data/films/<id>.json and updates data/films-index.json.
  *
@@ -18,6 +20,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { fetchJson, wikipediaIntroExtract } from "./wikipedia.mjs";
 
 const TMDB_API = "https://api.themoviedb.org/3";
 const POSTER_BASE = "https://image.tmdb.org/t/p/w780";
@@ -71,6 +74,38 @@ Answer with JSON only: {"title": "<original release title in English>", "year": 
     ],
   });
   return JSON.parse(response.choices[0].message.content);
+}
+
+/**
+ * TMDB's overview is a solid spoiler-free premise but usually just one short
+ * paragraph — too little for a rich C1/C2 essay. The film's Wikipedia lead
+ * section adds real production/reception context (verified live to stay
+ * premise/production/reception-focused, not plot-revealing, for classics
+ * like Persona, Stalker and Seven Samurai). Falls back to nothing if no
+ * confident match is found; the essay still works from TMDB facts alone.
+ */
+async function wikipediaBackground(title, director) {
+  try {
+    const search = await fetchJson(
+      `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(
+        `${title} (film) ${director}`,
+      )}&srlimit=5&format=json`,
+    );
+    const surname = director.split(" ").pop().toLowerCase();
+    const titleKey = title.slice(0, 12).toLowerCase();
+    for (const result of search?.query?.search ?? []) {
+      // Only trust a page that is actually about the FILM (not, say, the
+      // director's own biography page, which trivially mentions their name).
+      if (!result.title.toLowerCase().includes(titleKey)) continue;
+      const extract = await wikipediaIntroExtract(result.title);
+      if (extract && extract.toLowerCase().includes(surname)) {
+        return extract;
+      }
+    }
+  } catch {
+    // No confident match — the caller just skips this fact.
+  }
+  return "";
 }
 
 async function findOnTmdb(pick) {
@@ -133,6 +168,8 @@ async function main() {
   const posterUrl = `${POSTER_BASE}${details.poster_path}`;
   console.log(`Matched TMDB #${details.id}: ${details.title} (${year})`);
 
+  const background = await wikipediaBackground(details.title, director);
+
   const facts = [
     `TITLE: ${details.title}`,
     details.original_title !== details.title &&
@@ -146,7 +183,8 @@ async function main() {
     details.runtime && `RUNTIME: ${details.runtime} minutes`,
     details.tagline && `TAGLINE: ${details.tagline}`,
     `PREMISE (spoiler-free, from TMDB): ${details.overview}`,
-    `DATA: TMDB`,
+    background && `BACKGROUND (Wikipedia — production/reception context, not plot): ${background}`,
+    `DATA: TMDB${background ? " + Wikipedia" : ""}`,
   ]
     .filter(Boolean)
     .join("\n");
