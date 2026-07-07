@@ -3,7 +3,9 @@
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 
-const POMODORO_MS = 25 * 60 * 1000;
+const DURATIONS = [10, 15, 25, 60] as const;
+const DEFAULT_MINUTES = 25;
+const STORAGE_KEY = "nil-pomodoro-minutes";
 
 /** Kitchen-timer wedge: from 12 o'clock, sweeping `deg` degrees clockwise. */
 function wedgePath(deg: number): string {
@@ -16,15 +18,28 @@ function wedgePath(deg: number): string {
 /**
  * A little analog timer floating at the right edge of the desk (large
  * screens only, everywhere except the homepage). It rests with both hands
- * on twelve; "start" winds a red 25-minute wedge onto the dial that drains
- * as you read, the long hand tracking its edge.
+ * on twelve; picking a duration (10/15/25/60 min, remembered across visits)
+ * and pressing start winds a red wedge onto the dial that drains as you
+ * read, the long hand tracking its edge.
  */
 export function PomodoroClock() {
   const pathname = usePathname();
   const [endsAt, setEndsAt] = useState<number | null>(null);
   const [now, setNow] = useState(0);
   const [isDone, setIsDone] = useState(false);
+  const [minutes, setMinutes] = useState<number>(DEFAULT_MINUTES);
 
+  useEffect(() => {
+    const stored = Number(localStorage.getItem(STORAGE_KEY));
+    if (DURATIONS.includes(stored as (typeof DURATIONS)[number])) setMinutes(stored);
+  }, []);
+
+  function selectMinutes(value: number) {
+    setMinutes(value);
+    localStorage.setItem(STORAGE_KEY, String(value));
+  }
+
+  const durationMs = minutes * 60 * 1000;
   const running = endsAt !== null;
 
   useEffect(() => {
@@ -47,14 +62,16 @@ export function PomodoroClock() {
 
   // At rest both hands point at twelve; wound up, the long hand walks the
   // wedge's edge back to twelve while the red one ticks the seconds away.
-  const wedgeDeg = (remaining / POMODORO_MS) * 150; // 25 of 60 minutes
+  // The wedge always sweeps `minutes` of the 60-minute dial (e.g. 25 min = 150°).
+  const fullWedgeDeg = (minutes / 60) * 360;
+  const wedgeDeg = (remaining / durationMs) * fullWedgeDeg;
   const secDeg = running ? (60 - Math.ceil(remaining / 1000) % 60) % 60 * 6 : 0;
 
   const mm = String(Math.floor(remaining / 60000)).padStart(2, "0");
   const ss = String(Math.floor((remaining % 60000) / 1000)).padStart(2, "0");
 
   return (
-    <div className="fixed right-6 top-1/2 z-40 hidden w-36 -translate-y-1/2 flex-col items-center gap-1.5 lg:flex">
+    <div className="fixed right-6 top-1/2 z-40 hidden w-36 -translate-y-1/2 flex-col items-center gap-1.5 lg:flex print:hidden">
       <svg
         viewBox="0 0 100 100"
         className="h-24 w-24 rotate-[1.5deg] text-foreground/85 drop-shadow-sm"
@@ -127,27 +144,44 @@ export function PomodoroClock() {
           </button>
         </div>
       ) : (
-        <button
-          onClick={() => {
-            setIsDone(false);
-            setEndsAt(Date.now() + POMODORO_MS);
-            setNow(Date.now());
-          }}
-          className="hand-note cursor-pointer rotate-[-1deg] text-center leading-tight transition-colors hover:text-foreground"
-          style={{ fontSize: "1.15rem" }}
-        >
-          {isDone ? (
-            <>
-              <span style={{ color: "var(--margin-red)" }}>
-                well done — take a break
-              </span>
-              <br />
-              once more →
-            </>
-          ) : (
-            <>25 min of reading →</>
-          )}
-        </button>
+        <>
+          <div className="flex items-baseline gap-1.5 text-xs text-muted-foreground">
+            {DURATIONS.map((value) => (
+              <button
+                key={value}
+                onClick={() => selectMinutes(value)}
+                className={`cursor-pointer tabular-nums transition-colors hover:text-foreground ${
+                  value === minutes
+                    ? "text-foreground underline decoration-dotted underline-offset-2"
+                    : ""
+                }`}
+              >
+                {value}
+              </button>
+            ))}
+          </div>
+          <button
+            onClick={() => {
+              setIsDone(false);
+              setEndsAt(Date.now() + durationMs);
+              setNow(Date.now());
+            }}
+            className="hand-note cursor-pointer rotate-[-1deg] text-center leading-tight transition-colors hover:text-foreground"
+            style={{ fontSize: "1.15rem" }}
+          >
+            {isDone ? (
+              <>
+                <span style={{ color: "var(--margin-red)" }}>
+                  well done — take a break
+                </span>
+                <br />
+                once more →
+              </>
+            ) : (
+              <>{minutes} min of reading →</>
+            )}
+          </button>
+        </>
       )}
     </div>
   );
