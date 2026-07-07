@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-07-wings-of-desire-wim-wenders",
+    "date": "2026-07-07",
+    "director": "Wim Wenders",
+    "image": "https://image.tmdb.org/t/p/w780/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+    "titles": {
+      "en": "Wings of Desire",
+      "de": "Wings of Desire",
+      "fr": "Les ailes du désir",
+      "tr": "Uçuşun Kanatları"
+    }
+  },
+  {
     "id": "2026-07-06-the-sacrifice-andrei-tarkovsky",
     "date": "2026-07-06",
     "director": "Andrei Tarkovsky",
