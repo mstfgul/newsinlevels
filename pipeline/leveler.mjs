@@ -26,7 +26,7 @@ export const CATEGORIES = [
   "world",
 ];
 
-export const MODEL = process.env.OPENAI_MODEL ?? "gpt-4o-mini";
+export const MODEL = process.env.OPENAI_MODEL ?? "gpt-4o";
 
 const LEVEL_SPECS = `
 A1: 100-140 words. Grammar: present tense only (plus the verb "to be"/"to have" in their most basic forms); no subordinate clauses, no passive voice, no reported speech. Sentences: max 8 words, one idea per sentence, strict subject-verb-object order. Vocabulary: only the ~500 most frequent words of the language; zero idioms, phrasal/compound verbs or abstract nouns — if a source concept has no simple word, replace it with a short concrete description instead of a hard word.
