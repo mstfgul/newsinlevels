@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-07-chungking-express-wong-kar-wai",
+    "date": "2026-07-07",
+    "director": "Wong Kar-Wai",
+    "image": "https://image.tmdb.org/t/p/w780/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+    "titles": {
+      "en": "Chungking Express",
+      "de": "Chungking Express",
+      "fr": "Chungking Express",
+      "es": "Chungking Express"
+    }
+  },
+  {
     "id": "2026-07-07-wings-of-desire-wim-wenders",
     "date": "2026-07-07",
     "director": "Wim Wenders",
