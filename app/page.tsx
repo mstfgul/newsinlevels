@@ -38,7 +38,7 @@ export default function Home() {
       {/* What this place is, jotted at the top of the page in pencil. */}
       <p
         className="hand-note mx-auto mb-9 max-w-md rotate-[-0.6deg] text-center lg:max-w-none"
-        style={{ fontSize: "1.45rem" }}
+        style={{ fontSize: "clamp(1.2rem, 0.5rem + 1.1vw, 1.45rem)" }}
       >
         real news, art, film &amp; history — every day, rewritten{" "}
         <Highlight>at your level</Highlight>, from A1 to C2
