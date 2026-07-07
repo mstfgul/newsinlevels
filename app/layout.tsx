@@ -10,6 +10,7 @@ import { PreferencesProvider } from "@/components/Preferences";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
 import { NavTabs } from "@/components/NavTabs";
 import { PomodoroClock } from "@/components/PomodoroClock";
+import { SITE_URL, SITE_NAME } from "@/lib/seo";
 import "./globals.css";
 
 const bricolage = Bricolage_Grotesque({
@@ -35,10 +36,25 @@ const caveat = Caveat({
   weight: ["500", "600"],
 });
 
+const DESCRIPTION =
+  "Real news, art, quotes and history rewritten at CEFR levels A1–C2 in English, German, French and Spanish.";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: "Any Text in Levels — learn languages with real content",
-  description:
-    "Real news, art, quotes and history rewritten at CEFR levels A1–C2 in English, German, French and Spanish.",
+  description: DESCRIPTION,
+  openGraph: {
+    title: "Any Text in Levels — learn languages with real content",
+    description: DESCRIPTION,
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Any Text in Levels — learn languages with real content",
+    description: DESCRIPTION,
+  },
 };
 
 export default function RootLayout({

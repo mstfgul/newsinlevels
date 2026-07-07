@@ -1,9 +1,20 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getArtIndex, getArtwork, recentWindow } from "@/lib/data";
 import { ArticleReader } from "@/components/ArticleReader";
+import { articleMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
   return recentWindow(getArtIndex()).map((entry) => ({ id: entry.id }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}): Promise<Metadata> {
+  const { id } = await params;
+  return articleMetadata(getArtwork(id), `/art/${id}/`);
 }
 
 export default async function ArtworkPage({
