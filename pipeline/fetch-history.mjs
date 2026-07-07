@@ -17,6 +17,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { wikipediaIntroExtract } from "./wikipedia.mjs";
 
 const ROOT = path.join(import.meta.dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
@@ -81,10 +82,16 @@ async function main() {
   const page = event.pages[0];
   console.log(`Selected: ${event.year} — ${event.text.slice(0, 80)}`);
 
+  // The feed's embedded page.extract is only the first paragraph, truncated
+  // — fetch the full lead section for real grounding material instead.
+  const pageTitle = page.titles?.canonical ?? page.titles?.normalized;
+  const fullExtract = pageTitle ? await wikipediaIntroExtract(pageTitle) : "";
+  const background = fullExtract || page.extract;
+
   const facts = [
     `DATE: ${now.toLocaleString("en-GB", { month: "long", timeZone: "UTC" })} ${now.getUTCDate()}, ${event.year}`,
     `EVENT: ${event.text}`,
-    page.extract && `BACKGROUND (Wikipedia): ${page.extract}`,
+    background && `BACKGROUND (Wikipedia): ${background}`,
   ]
     .filter(Boolean)
     .join("\n");

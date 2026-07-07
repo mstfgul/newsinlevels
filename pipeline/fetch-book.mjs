@@ -20,6 +20,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { fetchJson, wikipediaIntroExtract } from "./wikipedia.mjs";
 
 const MAX_ATTEMPTS = 5;
 
@@ -37,14 +38,6 @@ function slugify(text) {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
     .slice(0, 60);
-}
-
-async function fetchJson(url) {
-  const response = await fetch(url, {
-    headers: { "User-Agent": "news-in-levels (daily learner pipeline)" },
-  });
-  if (!response.ok) throw new Error(`${response.status} for ${url}`);
-  return response.json();
 }
 
 async function pickBook(openai, exclusions) {
@@ -88,7 +81,8 @@ async function wikipediaSummary(pick) {
         text.includes(surname) &&
         summary.title.toLowerCase().includes(pick.title.slice(0, 12).toLowerCase())
       ) {
-        return summary;
+        const fullExtract = await wikipediaIntroExtract(summary.title);
+        return fullExtract ? { ...summary, extract: fullExtract } : summary;
       }
     } catch {
       // try the next search result

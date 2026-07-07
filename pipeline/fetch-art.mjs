@@ -18,6 +18,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { wikipediaIntroExtract } from "./wikipedia.mjs";
 
 const MET_API = "https://collectionapi.metmuseum.org/public/collection/v1";
 const MAX_ATTEMPTS = 25;
@@ -69,17 +70,6 @@ async function pickPainting(usedIds) {
   throw new Error(`no suitable painting found in ${MAX_ATTEMPTS} attempts`);
 }
 
-async function wikipediaSummary(name) {
-  try {
-    const summary = await fetchJson(
-      `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(name)}`,
-    );
-    return summary.extract ?? "";
-  } catch {
-    return "";
-  }
-}
-
 async function main() {
   if (!process.env.OPENAI_API_KEY) {
     console.error("OPENAI_API_KEY is not set");
@@ -93,7 +83,7 @@ async function main() {
   const object = await pickPainting(processed.map((p) => p.objectID));
   console.log(`Selected: ${object.title} — ${object.artistDisplayName}`);
 
-  const artistNote = await wikipediaSummary(object.artistDisplayName);
+  const artistNote = await wikipediaIntroExtract(object.artistDisplayName);
   const facts = [
     `ARTIST: ${object.artistDisplayName} (${object.artistDisplayBio || "dates unknown"})`,
     `TITLE: ${object.title}`,

@@ -20,6 +20,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { wikipediaIntroExtract } from "./wikipedia.mjs";
 
 /** Classic authors and poets with real Wikiquote pages and free portraits. */
 const AUTHORS = [
@@ -106,8 +107,9 @@ async function quotesFor(author) {
 }
 
 async function wikipedia(author) {
+  let summary;
   try {
-    return await fetchJson(
+    summary = await fetchJson(
       `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(
         author.replace(/ /g, "_"),
       )}`,
@@ -115,6 +117,10 @@ async function wikipedia(author) {
   } catch {
     return {};
   }
+  // The REST summary's own extract is just the first paragraph, truncated —
+  // fetch the full lead section separately for real grounding material.
+  const fullExtract = await wikipediaIntroExtract(summary.title ?? author);
+  return fullExtract ? { ...summary, extract: fullExtract } : summary;
 }
 
 function freeImage(summary) {
