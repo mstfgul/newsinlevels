@@ -31,10 +31,12 @@ function DeskLabel({
   );
 }
 
-/** The two resting places of a pile: on top, and peeking out from under. */
+/** The two resting places of a pile: on top, and peeking out from under.
+ * The peeking card is a large-screen flourish only — on phones every pile
+ * shows just the front card, to keep the mobile desk small and uncluttered. */
 const SLOTS = [
   "relative z-[2] rotate-[-1deg]",
-  "absolute left-0 top-0 z-[1] w-full translate-x-3 translate-y-10 rotate-[4deg] lg:translate-x-7",
+  "hidden lg:block lg:absolute lg:left-0 lg:top-0 lg:z-[1] lg:w-full lg:translate-x-7 lg:rotate-[4deg]",
 ];
 
 interface PileItem {
@@ -140,20 +142,20 @@ export function TodayDesk({
         </div>
       )}
 
-      {/* On phones the posters and postcards share one row of the desk,
-          staggered like they were dropped there; on lg the wrapper dissolves
-          (display: contents) and each pile takes its hand-placed spot. */}
-      <div className="flex items-start justify-between gap-4 lg:contents">
+      {/* Film, book and art: three small posters side by side on phones; on
+          lg the wrapper dissolves (display: contents) and each pile takes
+          its hand-placed spot. */}
+      <div className="flex gap-2.5 lg:contents">
         {/* The film posters, one pinned over the other like at the cinema door. */}
         {film.length > 0 && (
-          <div className="relative z-10 mt-6 w-[36%] lg:absolute lg:left-[38%] lg:top-0 lg:mt-0 lg:w-[19%]">
+          <div className="relative min-w-0 flex-1 lg:absolute lg:left-[38%] lg:top-0 lg:w-[19%] lg:flex-none">
             <DeskLabel href="/films/">film club</DeskLabel>
             <Pile
               items={film.map((entry) => ({
                 id: entry.id,
                 href: `/films/${entry.id}/`,
                 content: (
-                  <figure className="clipping">
+                  <figure className="clipping-mini lg:clipping">
                     <div className="clipping-fill aspect-[2/3] overflow-hidden">
                       <img
                         src={entry.image}
@@ -162,7 +164,7 @@ export function TodayDesk({
                         className="h-full w-full object-cover"
                       />
                     </div>
-                    <figcaption className="hand-note truncate px-1 pt-1.5 pb-0.5">
+                    <figcaption className="hand-note hidden truncate px-1 pt-1.5 pb-0.5 lg:block">
                       {entry.titles[language] ?? entry.titles.en} —{" "}
                       {entry.director}
                     </figcaption>
@@ -173,16 +175,45 @@ export function TodayDesk({
           </div>
         )}
 
+        {/* Book covers from the reading pile. */}
+        {book.length > 0 && (
+          <div className="relative min-w-0 flex-1 lg:absolute lg:bottom-0 lg:left-[60%] lg:w-[12%] lg:flex-none">
+            <DeskLabel href="/books/">book club</DeskLabel>
+            <Pile
+              items={book.map((entry) => ({
+                id: entry.id,
+                href: `/books/${entry.id}/`,
+                content: (
+                  <figure className="clipping-mini lg:clipping">
+                    <div className="clipping-fill aspect-[2/3] overflow-hidden">
+                      <img
+                        src={entry.image}
+                        alt={entry.author}
+                        loading="eager"
+                        className="h-full w-full object-cover"
+                      />
+                    </div>
+                    <figcaption className="hand-note hidden truncate px-1 pt-1.5 pb-0.5 lg:block">
+                      {entry.titles[language] ?? entry.titles.en} —{" "}
+                      {entry.author}
+                    </figcaption>
+                  </figure>
+                ),
+              }))}
+            />
+          </div>
+        )}
+
         {/* Museum postcards from the last two days. */}
         {art.length > 0 && (
-          <div className="relative w-[54%] lg:absolute lg:right-0 lg:top-[4%] lg:w-[27%]">
+          <div className="relative min-w-0 flex-1 lg:absolute lg:right-0 lg:top-[4%] lg:w-[27%] lg:flex-none">
             <DeskLabel href="/art/">daily art</DeskLabel>
             <Pile
               items={art.map((entry) => ({
                 id: entry.id,
                 href: `/art/${entry.id}/`,
                 content: (
-                  <figure className="clipping">
+                  <figure className="clipping-mini lg:clipping">
                     <div className="clipping-fill aspect-[4/5] overflow-hidden">
                       <img
                         src={entry.image}
@@ -191,7 +222,7 @@ export function TodayDesk({
                         className="h-full w-full object-cover"
                       />
                     </div>
-                    <figcaption className="hand-note truncate px-1 pt-1.5 pb-0.5">
+                    <figcaption className="hand-note hidden truncate px-1 pt-1.5 pb-0.5 lg:block">
                       {entry.titles[language] ?? entry.titles.en} — {entry.artist}
                     </figcaption>
                   </figure>
@@ -249,87 +280,53 @@ export function TodayDesk({
         </div>
       )}
 
-      {/* On phones the book cover and the quote card share the bottom row of
-          the desk; on lg the wrapper dissolves (display: contents) and each
-          pile takes its hand-placed spot. */}
-      <div className="flex items-start justify-between gap-4 lg:contents">
-        {/* Book covers from the reading pile. */}
-        {book.length > 0 && (
-          <div className="relative z-10 w-[38%] lg:absolute lg:bottom-0 lg:left-[60%] lg:w-[12%]">
-            <DeskLabel href="/books/">book club</DeskLabel>
-            <Pile
-              items={book.map((entry) => ({
-                id: entry.id,
-                href: `/books/${entry.id}/`,
-                content: (
-                  <figure className="clipping">
-                    <div className="clipping-fill aspect-[2/3] overflow-hidden">
-                      <img
-                        src={entry.image}
-                        alt={entry.author}
-                        loading="eager"
-                        className="h-full w-full object-cover"
-                      />
-                    </div>
-                    <figcaption className="hand-note truncate px-1 pt-1.5 pb-0.5">
-                      {entry.titles[language] ?? entry.titles.en} —{" "}
-                      {entry.author}
-                    </figcaption>
-                  </figure>
-                ),
-              }))}
-            />
-          </div>
-        )}
-
-        {/* Quote cards: the author's portrait pasted beside their words. */}
-        {quote.length > 0 && (
-          <div className="relative z-20 ml-auto mt-8 w-[58%] lg:absolute lg:bottom-[3%] lg:left-[33%] lg:ml-0 lg:mt-0 lg:w-[24%]">
-            <DeskLabel href="/quotes/">quote of the day</DeskLabel>
-            <Pile
-              items={quote.map((entry) => ({
-                id: entry.id,
-                href: `/quotes/${entry.id}/`,
-                className:
-                  "rounded-lg border border-border bg-card p-4 shadow-sm lg:p-5",
-                content: (
-                  <div className="flex items-start gap-3 pt-1">
-                    {entry.image && (
-                      <figure className="clipping-mini w-16 shrink-0 rotate-[-2deg] lg:w-14">
-                        <div className="aspect-[3/4] overflow-hidden">
-                          <img
-                            src={entry.image}
-                            alt={entry.author}
-                            loading="eager"
-                            className="h-full w-full object-cover"
-                          />
-                        </div>
-                      </figure>
-                    )}
-                    <div className="min-w-0 flex-1">
-                      <p
-                        className="line-clamp-3 text-base italic leading-snug lg:text-lg"
-                        style={{ fontFamily: "var(--font-literata)" }}
-                      >
-                        &ldquo;{entry.titles[language] ?? entry.titles.en}&rdquo;
-                      </p>
-                      <p
-                        className="mt-1.5 text-right"
-                        style={{
-                          fontFamily: "var(--font-caveat)",
-                          fontSize: "1.2rem",
-                        }}
-                      >
-                        — {entry.author}
-                      </p>
-                    </div>
+      {/* Quote cards: the author's portrait pasted beside their words. */}
+      {quote.length > 0 && (
+        <div className="relative w-[88%] lg:absolute lg:bottom-[3%] lg:left-[33%] lg:w-[24%]">
+          <DeskLabel href="/quotes/">quote of the day</DeskLabel>
+          <Pile
+            items={quote.map((entry) => ({
+              id: entry.id,
+              href: `/quotes/${entry.id}/`,
+              className:
+                "rounded-lg border border-border bg-card p-4 shadow-sm lg:p-5",
+              content: (
+                <div className="flex items-start gap-3 pt-1">
+                  {entry.image && (
+                    <figure className="clipping-mini w-16 shrink-0 rotate-[-2deg] lg:w-14">
+                      <div className="aspect-[3/4] overflow-hidden">
+                        <img
+                          src={entry.image}
+                          alt={entry.author}
+                          loading="eager"
+                          className="h-full w-full object-cover"
+                        />
+                      </div>
+                    </figure>
+                  )}
+                  <div className="min-w-0 flex-1">
+                    <p
+                      className="line-clamp-3 text-base italic leading-snug lg:text-lg"
+                      style={{ fontFamily: "var(--font-literata)" }}
+                    >
+                      &ldquo;{entry.titles[language] ?? entry.titles.en}&rdquo;
+                    </p>
+                    <p
+                      className="mt-1.5 text-right"
+                      style={{
+                        fontFamily: "var(--font-caveat)",
+                        fontSize: "1.2rem",
+                      }}
+                    >
+                      — {entry.author}
+                    </p>
                   </div>
-                ),
+                </div>
+              ),
               }))}
             />
           </div>
         )}
-      </div>
 
       {/* The date, jotted in the corner of the page. */}
       {dateline && (
