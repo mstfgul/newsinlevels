@@ -61,6 +61,8 @@ Return JSON with exactly this shape, and ALL SIX levels (A1, A2, B1, B2, C1, C2)
  * kind "history": writes a capsule about an on-this-day historical event.
  * kind "quote":   translates a quote (as the title) and explains it (as the
  *                 text) at each level.
+ * kind "film":    writes a spoiler-free essay about a film.
+ * kind "book":    writes a spoiler-free introduction to a book.
  */
 export async function generateLanguageVersions(
   openai,
@@ -78,6 +80,7 @@ export async function generateLanguageVersions(
     history: `You are a historian and expert ${langName} teacher. You write vivid capsules about historical events in ${langName} at all six CEFR levels so learners can read the same story at their own level. You always answer with valid JSON only.`,
     quote: `You are a literary translator and expert ${langName} teacher. You translate famous quotes into ${langName} and explain them at all six CEFR levels so learners can appreciate the same words at their own level. You always answer with valid JSON only.`,
     film: `You are a film critic and expert ${langName} teacher. You write spoiler-free essays about great films in ${langName} at all six CEFR levels so learners can discover the same film at their own level. You always answer with valid JSON only.`,
+    book: `You are a literary critic and expert ${langName} teacher. You write spoiler-free introductions to great books in ${langName} at all six CEFR levels so learners can discover the same book at their own level. You always answer with valid JSON only.`,
   };
 
   const TASKS = {
@@ -130,6 +133,18 @@ ${LEVEL_SPECS}
 ${SHARED_INSTRUCTIONS(langName)}
 
 FILM: ${sourceTitle}
+
+FACTS:
+${sourceText}`,
+    book: `Write an introduction in ${langName} to the book below that makes a curious reader want to pick it up — at each CEFR level.
+
+ABSOLUTE RULE — NO SPOILERS for fiction: you may sketch the premise (the situation as the book opens), but never reveal how the story develops or ends, any twist, or any character's fate. For philosophy and non-fiction there is no plot to spoil — instead present the central questions and key ideas invitingly, without turning the text into a dry summary.
+
+Go beyond synopsis: write about what the book is ABOUT in the deeper sense — its themes and questions, the author's voice and style, the world it grew out of, its place in literary or intellectual history, and why it still matters to a reader today. Ground all factual claims (names, dates, events, publication details) ONLY in the facts provided; interpretation is welcome, invented facts are not. Follow these level constraints strictly:
+${LEVEL_SPECS}
+${SHARED_INSTRUCTIONS(langName)}
+
+BOOK: ${sourceTitle}
 
 FACTS:
 ${sourceText}`,

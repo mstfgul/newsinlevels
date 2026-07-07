@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useState } from "react";
 import type {
   ArtIndexEntry,
+  BookIndexEntry,
   FilmIndexEntry,
   HistoryIndexEntry,
   IndexEntry,
@@ -92,6 +93,7 @@ export function TodayDesk({
   news,
   art,
   film,
+  book,
   quote,
   history,
   dateline,
@@ -99,6 +101,7 @@ export function TodayDesk({
   news: IndexEntry[];
   art: ArtIndexEntry[];
   film: FilmIndexEntry[];
+  book: BookIndexEntry[];
   quote: QuoteIndexEntry[];
   history: HistoryIndexEntry[];
   dateline?: string;
@@ -198,6 +201,35 @@ export function TodayDesk({
           </div>
         )}
       </div>
+
+      {/* Book covers from the reading pile, between the posters and postcards. */}
+      {book.length > 0 && (
+        <div className="relative z-10 w-[44%] self-start lg:absolute lg:left-[58%] lg:top-[2%] lg:w-[12%]">
+          <DeskLabel href="/books/">book club</DeskLabel>
+          <Pile
+            items={book.map((entry) => ({
+              id: entry.id,
+              href: `/books/${entry.id}/`,
+              content: (
+                <figure className="clipping">
+                  <div className="clipping-fill aspect-[2/3] overflow-hidden">
+                    <img
+                      src={entry.image}
+                      alt={entry.author}
+                      loading="eager"
+                      className="h-full w-full object-cover"
+                    />
+                  </div>
+                  <figcaption className="hand-note truncate px-1 pt-1.5 pb-0.5">
+                    {entry.titles[language] ?? entry.titles.en} —{" "}
+                    {entry.author}
+                  </figcaption>
+                </figure>
+              ),
+            }))}
+          />
+        </div>
+      )}
 
       {/* On-this-day facts on ruled index cards. */}
       {history.length > 0 && (

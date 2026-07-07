@@ -1,5 +1,6 @@
 import {
   getArtIndex,
+  getBookIndex,
   getFilmIndex,
   getHistoryIndex,
   getIndex,
@@ -21,10 +22,11 @@ export default function Home() {
   const news = getIndex().slice(0, 2);
   const art = getArtIndex().slice(0, 2);
   const film = getFilmIndex().slice(0, 2);
+  const book = getBookIndex().slice(0, 2);
   const quote = getQuoteIndex().slice(0, 2);
   const history = getHistoryIndex().slice(0, 2);
 
-  if (!news.length && !art.length && !film.length && !quote.length && !history.length) {
+  if (!news.length && !art.length && !film.length && !book.length && !quote.length && !history.length) {
     return (
       <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">
         Nothing on the desk yet — the daily pipelines will leave the first
@@ -47,6 +49,7 @@ export default function Home() {
         news={news}
         art={art}
         film={film}
+        book={book}
         quote={quote}
         history={history}
         dateline={news[0] ? formatDateline(news[0].date) : undefined}

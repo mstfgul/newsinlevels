@@ -9,6 +9,7 @@ const TABS = [
   { href: "/news/", label: "News", prefixes: ["/news", "/article"] },
   { href: "/art/", label: "Daily Art", prefixes: ["/art"] },
   { href: "/films/", label: "Film Club", prefixes: ["/films"] },
+  { href: "/books/", label: "Books", prefixes: ["/books"] },
   { href: "/quotes/", label: "Quotes", prefixes: ["/quotes"] },
   { href: "/history/", label: "On This Day", prefixes: ["/history"] },
 ];

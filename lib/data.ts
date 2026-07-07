@@ -3,6 +3,7 @@ import path from "node:path";
 import type {
   ArtIndexEntry,
   Article,
+  BookIndexEntry,
   FilmIndexEntry,
   HistoryIndexEntry,
   IndexEntry,
@@ -70,5 +71,17 @@ export function getFilmIndex(): FilmIndexEntry[] {
 
 export function getFilm(id: string): Article {
   const file = path.join(DATA_DIR, "films", `${id}.json`);
+  return JSON.parse(fs.readFileSync(file, "utf8"));
+}
+
+export function getBookIndex(): BookIndexEntry[] {
+  const file = path.join(DATA_DIR, "books-index.json");
+  if (!fs.existsSync(file)) return [];
+  const entries: BookIndexEntry[] = JSON.parse(fs.readFileSync(file, "utf8"));
+  return entries.sort((a, b) => b.date.localeCompare(a.date));
+}
+
+export function getBook(id: string): Article {
+  const file = path.join(DATA_DIR, "books", `${id}.json`);
   return JSON.parse(fs.readFileSync(file, "utf8"));
 }

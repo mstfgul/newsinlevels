@@ -43,7 +43,7 @@ export interface Article {
   source: { name: string; url: string };
   originalTitle: string;
   image?: string;
-  category?: Category | "art" | "history" | "quote" | "film";
+  category?: Category | "art" | "history" | "quote" | "film" | "book";
   // Present on gallery entries: the artwork behind the analysis.
   art?: { artist: string; title: string; year: string; medium: string };
   // Present on on-this-day capsules: the year the event happened.
@@ -52,6 +52,8 @@ export interface Article {
   quote?: { author: string; text: string };
   // Present on film-club entries: the film behind the essay.
   film?: { director: string; title: string; year: string; genres: string };
+  // Present on book-club entries: the book behind the introduction.
+  book?: { author: string; title: string; year: string };
   // Older articles may lack recently added languages — resolve with a fallback.
   languages: Partial<Record<Language, LanguageVersions>> &
     Record<"en", LanguageVersions>;
@@ -96,6 +98,14 @@ export interface FilmIndexEntry {
   id: string;
   date: string;
   director: string;
+  image: string;
+  titles: Partial<Record<Language, string>> & Record<"en", string>;
+}
+
+export interface BookIndexEntry {
+  id: string;
+  date: string;
+  author: string;
   image: string;
   titles: Partial<Record<Language, string>> & Record<"en", string>;
 }

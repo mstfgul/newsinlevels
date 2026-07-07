@@ -122,6 +122,10 @@ export function ArticleReader({ article }: { article: Article }) {
                 {article.film.director} · {article.film.year} ·{" "}
                 {article.film.genres} ·{" "}
               </>
+            ) : article.book ? (
+              <>
+                {article.book.author} · {article.book.year} ·{" "}
+              </>
             ) : (
               <>{article.date} · </>
             )}
@@ -137,13 +141,14 @@ export function ArticleReader({ article }: { article: Article }) {
               !article.history &&
               !article.quote &&
               !article.film &&
+              !article.book &&
               article.category && <> · {article.category}</>}
           </p>
 
           {article.image && (
             <figure
               className={`clipping mx-auto mb-8 mt-7 w-full rotate-[-1.1deg] ${
-                article.film ? "max-w-xs" : "max-w-lg"
+                article.film || article.book ? "max-w-xs" : "max-w-lg"
               }`}
             >
               <img
@@ -158,7 +163,9 @@ export function ArticleReader({ article }: { article: Article }) {
                     ? article.quote.author
                     : article.film
                       ? `${article.film.title} — ${article.film.director}, ${article.film.year}`
-                      : `${article.source.name} · ${article.date}`}
+                      : article.book
+                        ? `${article.book.title} — ${article.book.author}, ${article.book.year}`
+                        : `${article.source.name} · ${article.date}`}
               </figcaption>
             </figure>
           )}
