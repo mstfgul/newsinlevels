@@ -207,7 +207,9 @@ export function WordDetailSheet({
 
           <p className="mt-6 font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
             <a
-              href={`https://en.wiktionary.org/wiki/${encodeURIComponent(result.term)}#${lang === "en" ? "English" : lang === "de" ? "German" : "French"}`}
+              href={`https://en.wiktionary.org/wiki/${encodeURIComponent(result.term)}#${
+                { en: "English", de: "German", fr: "French", es: "Spanish" }[lang]
+              }`}
               target="_blank"
               rel="noopener noreferrer"
               className="underline-offset-4 hover:text-foreground hover:underline"
