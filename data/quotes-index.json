@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-07-friedrich-nietzsche-the-only-thing-of-interest-in-",
+    "date": "2026-07-07",
+    "author": "Friedrich Nietzsche",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/330px-Nietzsche187a.jpg",
+    "titles": {
+      "en": "The only thing of interest in a refuted system is the personal element. It alone is what is forever irrefutable.",
+      "de": "Das einzige, was in einem widerlegten System interessant ist, ist das persönliche Element. Es allein ist es, was für immer unwiderlegbar ist.",
+      "fr": "The only thing of interest in a refuted system is the personal element. It alone is what is forever irrefutable.",
+      "tr": "Yalanlanmış bir sistemdeki tek ilgi çekici şey kişisel unsurdur. O, sonsuza dek tartışılmaz olan tek şeydir."
+    }
+  },
+  {
     "id": "2026-07-06-mark-twain-be-respectful-to-your-superior",
     "date": "2026-07-06",
     "author": "Mark Twain",
