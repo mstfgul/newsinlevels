@@ -13,7 +13,7 @@ import path from "node:path";
 import OpenAI from "openai";
 import {
   LANGUAGES,
-  MODEL,
+  FAST_MODEL,
   generateLanguageVersions,
   readJson,
   writeJson,
@@ -56,7 +56,7 @@ async function tmdb(pathname, params = {}) {
 
 async function pickFilm(openai, exclusions) {
   const response = await openai.chat.completions.create({
-    model: MODEL,
+    model: FAST_MODEL,
     response_format: { type: "json_object" },
     messages: [
       {

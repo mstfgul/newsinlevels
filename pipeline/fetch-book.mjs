@@ -15,7 +15,7 @@ import path from "node:path";
 import OpenAI from "openai";
 import {
   LANGUAGES,
-  MODEL,
+  FAST_MODEL,
   generateLanguageVersions,
   readJson,
   writeJson,
@@ -49,7 +49,7 @@ async function fetchJson(url) {
 
 async function pickBook(openai, exclusions) {
   const response = await openai.chat.completions.create({
-    model: MODEL,
+    model: FAST_MODEL,
     response_format: { type: "json_object" },
     messages: [
       {
