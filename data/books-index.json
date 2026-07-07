@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-07-the-stranger-albert-camus",
+    "date": "2026-07-07",
+    "author": "Albert Camus",
+    "image": "https://covers.openlibrary.org/b/id/15070895-L.jpg",
+    "titles": {
+      "en": "The Stranger (1942) — Albert Camus",
+      "de": "Der Fremde",
+      "fr": "L'Étranger",
+      "es": "El extranjero"
+    }
+  },
+  {
     "id": "2026-07-07-the-master-and-margarita-mikhail-bulgakov",
     "date": "2026-07-07",
     "author": "Mikhail Bulgakov",
