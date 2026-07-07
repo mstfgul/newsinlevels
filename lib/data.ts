@@ -12,6 +12,21 @@ import type {
 
 const DATA_DIR = path.join(process.cwd(), "data");
 
+// Every deploy pre-renders every path returned by generateStaticParams, so a
+// site with years of daily content would make each build slower forever.
+// Content never changes once published, so only the recent window needs to
+// be built up front — older pages render on-demand on their first visit
+// (Next's default dynamicParams=true) and are then cached just like any
+// other static page.
+const STATIC_WINDOW_DAYS = 30;
+
+export function recentWindow<T extends { date: string }>(entries: T[]): T[] {
+  const cutoff = new Date();
+  cutoff.setUTCDate(cutoff.getUTCDate() - STATIC_WINDOW_DAYS);
+  const cutoffDate = cutoff.toISOString().slice(0, 10);
+  return entries.filter((entry) => entry.date >= cutoffDate);
+}
+
 export function getIndex(): IndexEntry[] {
   const file = path.join(DATA_DIR, "index.json");
   if (!fs.existsSync(file)) return [];

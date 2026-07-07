@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { getQuote, getQuoteIndex } from "@/lib/data";
+import { getQuote, getQuoteIndex, recentWindow } from "@/lib/data";
 import { ArticleReader } from "@/components/ArticleReader";
 
 export function generateStaticParams() {
-  return getQuoteIndex().map((entry) => ({ id: entry.id }));
+  return recentWindow(getQuoteIndex()).map((entry) => ({ id: entry.id }));
 }
 
 export default async function QuotePage({

@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { getHistoryEvent, getHistoryIndex } from "@/lib/data";
+import { getHistoryEvent, getHistoryIndex, recentWindow } from "@/lib/data";
 import { ArticleReader } from "@/components/ArticleReader";
 
 export function generateStaticParams() {
-  return getHistoryIndex().map((entry) => ({ id: entry.id }));
+  return recentWindow(getHistoryIndex()).map((entry) => ({ id: entry.id }));
 }
 
 export default async function HistoryEventPage({

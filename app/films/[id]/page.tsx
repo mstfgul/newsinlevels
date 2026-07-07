@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { getFilm, getFilmIndex } from "@/lib/data";
+import { getFilm, getFilmIndex, recentWindow } from "@/lib/data";
 import { ArticleReader } from "@/components/ArticleReader";
 
 export function generateStaticParams() {
-  return getFilmIndex().map((entry) => ({ id: entry.id }));
+  return recentWindow(getFilmIndex()).map((entry) => ({ id: entry.id }));
 }
 
 export default async function FilmPage({

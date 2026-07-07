@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { getArtIndex, getArtwork } from "@/lib/data";
+import { getArtIndex, getArtwork, recentWindow } from "@/lib/data";
 import { ArticleReader } from "@/components/ArticleReader";
 
 export function generateStaticParams() {
-  return getArtIndex().map((entry) => ({ id: entry.id }));
+  return recentWindow(getArtIndex()).map((entry) => ({ id: entry.id }));
 }
 
 export default async function ArtworkPage({

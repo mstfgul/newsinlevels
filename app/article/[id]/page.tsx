@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { getArticle, getIndex } from "@/lib/data";
+import { getArticle, getIndex, recentWindow } from "@/lib/data";
 import { ArticleReader } from "@/components/ArticleReader";
 
 export function generateStaticParams() {
-  return getIndex().map((entry) => ({ id: entry.id }));
+  return recentWindow(getIndex()).map((entry) => ({ id: entry.id }));
 }
 
 export default async function ArticlePage({
