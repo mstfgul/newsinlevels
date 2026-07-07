@@ -226,12 +226,16 @@ ${sourceText}`,
  */
 async function generateGroup(openai, kind, langCode, langName, levels, sourceTitle, sourceText, imageUrl, forcedQuoteTitle) {
   const system = SYSTEMS(langName)[kind];
-  const task = buildTask(kind, { langName, langCode, levels, sourceTitle, sourceText, forcedQuoteTitle });
+  const baseTask = buildTask(kind, { langName, langCode, levels, sourceTitle, sourceText, forcedQuoteTitle });
   const bounds = kind === "quote" ? QUOTE_WORD_BOUNDS : WORD_BOUNDS;
 
   const MAX_TRIES = 3;
-  let lastError;
+  let lastStructuralError;
+  let bestValidResult; // last structurally-sound parse, even if some levels ran short
+  let feedback = "";
+
   for (let attempt = 1; attempt <= MAX_TRIES; attempt++) {
+    const task = feedback ? `${baseTask}\n\n${feedback}` : baseTask;
     const response = await openai.chat.completions.create({
       model: MODEL,
       response_format: { type: "json_object" },
@@ -250,8 +254,9 @@ async function generateGroup(openai, kind, langCode, langName, levels, sourceTit
     });
 
     const choice = response.choices[0];
+    let parsed;
     try {
-      const parsed = JSON.parse(choice.message.content);
+      parsed = JSON.parse(choice.message.content);
       for (const level of levels) {
         const entry = parsed[level];
         if (!entry?.title || !entry?.text || !Array.isArray(entry.vocabulary)) {
@@ -259,21 +264,40 @@ async function generateGroup(openai, kind, langCode, langName, levels, sourceTit
             `model response missing level ${level} for ${langCode}/${kind} (finish_reason: ${choice.finish_reason})`,
           );
         }
-        const minWords = bounds[level];
-        const wordCount = countWords(entry.text);
-        if (wordCount < minWords * 0.7) {
-          throw new Error(
-            `level ${level} for ${langCode}/${kind} is too short (${wordCount} words, expected at least ~${minWords})`,
-          );
-        }
       }
-      return parsed;
     } catch (error) {
-      lastError = error;
+      lastStructuralError = error;
       console.warn(`  attempt ${attempt}/${MAX_TRIES} failed: ${error.message}`);
+      continue;
     }
+
+    // Structurally sound — keep it as a fallback even if word counts fall
+    // short below, so a length shortfall never crashes the whole run.
+    bestValidResult = parsed;
+
+    const shortfalls = levels
+      .map((level) => ({ level, count: countWords(parsed[level].text), min: bounds[level] }))
+      .filter(({ count, min }) => count < min * 0.7);
+
+    if (shortfalls.length === 0) return parsed;
+
+    console.warn(
+      `  attempt ${attempt}/${MAX_TRIES}: ${shortfalls
+        .map(({ level, count, min }) => `${level} too short (${count}w, needs ~${min}w)`)
+        .join(", ")}`,
+    );
+    feedback = `CORRECTION NEEDED: your previous attempt fell short on length for ${shortfalls
+      .map(({ level, count, min }) => `${level} (wrote only ${count} words, needs at least ${min})`)
+      .join("; ")}. Rewrite all of the requested levels, and substantially expand the ones listed above with genuine additional content — more context, detail or consequences — not padding or repetition.`;
   }
-  throw lastError;
+
+  if (bestValidResult) {
+    console.warn(
+      `  giving up on word-count targets for ${langCode}/${kind} after ${MAX_TRIES} attempts — using the last structurally valid response as-is rather than failing the whole run`,
+    );
+    return bestValidResult;
+  }
+  throw lastStructuralError;
 }
 
 /**
