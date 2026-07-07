@@ -119,6 +119,8 @@ export function writeJson(file, value) {
 }
 
 const SHARED_INSTRUCTIONS = (langName, levels) => `
+Before you finalize your answer, mentally count the words of each level's "text" against its minimum stated above. If any level falls short, keep writing — add more legitimate context, background or consequences — until it reaches at least the lower bound. Never submit a level that undershoots its word count.
+
 Do not reuse the same content word (noun, verb or adjective) more than twice within a single level's text — vary your word choice with level-appropriate synonyms instead of repeating. A text that pads its length by repeating the same few words is not richly educational; genuine lexical range is part of what makes each level worth reading.
 
 For every level also select 5-8 important words from YOUR text and define each one in simple ${langName} that a learner AT THAT LEVEL can understand (for A1/A2 keep definitions to a few very simple words).
@@ -221,21 +223,62 @@ ${sourceText}`,
 }
 
 /**
+ * Asks the model to expand a single level's text in place rather than
+ * regenerating the whole group — cheaper and more reliable, since the model
+ * is editing concrete text instead of writing from scratch under the same
+ * constraints it just under-delivered on. Returns null (caller keeps the
+ * original) if the repair call itself fails or comes back malformed.
+ */
+async function expandLevelText(openai, kind, langCode, langName, level, entry, minWords, sourceTitle, sourceText) {
+  const levelSpec = kind === "quote" ? `Target length: ${QUOTE_WORD_COUNTS[level]}` : LEVEL_DESCRIPTIONS[level];
+  const grammarNotes = grammarNotesBlock(langCode);
+  const currentWords = countWords(entry.text);
+
+  const prompt = `The ${langName} text below was written for CEFR level ${level} but is too short (${currentWords} words; it needs at least ${minWords}). Expand it to reach the target by adding genuine additional content — more context, background, detail or consequences drawn from the facts below — never by repeating sentences or padding with filler. Keep the exact same CEFR level style throughout, do not drift to a simpler or more advanced register: ${levelSpec}
+${grammarNotes}
+Keep the title/translation exactly as given below — do not change it. Update the vocabulary list (5-8 items) to match the expanded text if needed.
+
+ORIGINAL TITLE: ${entry.title}
+
+ORIGINAL TEXT:
+${entry.text}
+
+SOURCE TITLE: ${sourceTitle}
+
+BACKGROUND FACTS (for legitimate additional context — do not invent beyond these, but drawing out well-known general context or implications around them is fine):
+${sourceText}
+
+Return JSON: {"title":"...","text":"...","vocabulary":[{"word":"...","definition":"..."}]}`;
+
+  try {
+    const response = await openai.chat.completions.create({
+      model: MODEL,
+      response_format: { type: "json_object" },
+      messages: [{ role: "user", content: prompt }],
+    });
+    const parsed = JSON.parse(response.choices[0].message.content);
+    if (parsed?.title && parsed?.text && Array.isArray(parsed.vocabulary)) return parsed;
+  } catch (error) {
+    console.warn(`  expansion call failed for ${level}/${langCode}/${kind}: ${error.message}`);
+  }
+  return null;
+}
+
+/**
  * Writes one or more CEFR versions of a text in one language for the given
- * subset of levels. Retries on structural or word-count problems.
+ * subset of levels. Retries on structural problems; tops up any level that
+ * comes back under its word-count target with a targeted expansion instead
+ * of regenerating (and risking) the whole group again.
  */
 async function generateGroup(openai, kind, langCode, langName, levels, sourceTitle, sourceText, imageUrl, forcedQuoteTitle) {
   const system = SYSTEMS(langName)[kind];
-  const baseTask = buildTask(kind, { langName, langCode, levels, sourceTitle, sourceText, forcedQuoteTitle });
+  const task = buildTask(kind, { langName, langCode, levels, sourceTitle, sourceText, forcedQuoteTitle });
   const bounds = kind === "quote" ? QUOTE_WORD_BOUNDS : WORD_BOUNDS;
 
   const MAX_TRIES = 3;
-  let lastStructuralError;
-  let bestValidResult; // last structurally-sound parse, even if some levels ran short
-  let feedback = "";
-
+  let lastError;
+  let parsed;
   for (let attempt = 1; attempt <= MAX_TRIES; attempt++) {
-    const task = feedback ? `${baseTask}\n\n${feedback}` : baseTask;
     const response = await openai.chat.completions.create({
       model: MODEL,
       response_format: { type: "json_object" },
@@ -254,50 +297,43 @@ async function generateGroup(openai, kind, langCode, langName, levels, sourceTit
     });
 
     const choice = response.choices[0];
-    let parsed;
     try {
-      parsed = JSON.parse(choice.message.content);
+      const candidate = JSON.parse(choice.message.content);
       for (const level of levels) {
-        const entry = parsed[level];
+        const entry = candidate[level];
         if (!entry?.title || !entry?.text || !Array.isArray(entry.vocabulary)) {
           throw new Error(
             `model response missing level ${level} for ${langCode}/${kind} (finish_reason: ${choice.finish_reason})`,
           );
         }
       }
+      parsed = candidate;
+      break;
     } catch (error) {
-      lastStructuralError = error;
+      lastError = error;
       console.warn(`  attempt ${attempt}/${MAX_TRIES} failed: ${error.message}`);
+    }
+  }
+  if (!parsed) throw lastError;
+
+  for (const level of levels) {
+    const minWords = bounds[level];
+    const wordCount = countWords(parsed[level].text);
+    if (wordCount >= minWords * 0.9) continue;
+    console.warn(`  ${level} for ${langCode}/${kind} came back short (${wordCount}w, needs ~${minWords}w) — expanding in place`);
+    const expanded = await expandLevelText(openai, kind, langCode, langName, level, parsed[level], minWords, sourceTitle, sourceText);
+    if (!expanded) {
+      console.warn(`  expansion call failed for ${level}/${langCode}/${kind}, keeping the short text rather than failing the run`);
       continue;
     }
-
-    // Structurally sound — keep it as a fallback even if word counts fall
-    // short below, so a length shortfall never crashes the whole run.
-    bestValidResult = parsed;
-
-    const shortfalls = levels
-      .map((level) => ({ level, count: countWords(parsed[level].text), min: bounds[level] }))
-      .filter(({ count, min }) => count < min * 0.7);
-
-    if (shortfalls.length === 0) return parsed;
-
-    console.warn(
-      `  attempt ${attempt}/${MAX_TRIES}: ${shortfalls
-        .map(({ level, count, min }) => `${level} too short (${count}w, needs ~${min}w)`)
-        .join(", ")}`,
-    );
-    feedback = `CORRECTION NEEDED: your previous attempt fell short on length for ${shortfalls
-      .map(({ level, count, min }) => `${level} (wrote only ${count} words, needs at least ${min})`)
-      .join("; ")}. Rewrite all of the requested levels, and substantially expand the ones listed above with genuine additional content — more context, detail or consequences — not padding or repetition.`;
+    parsed[level] = expanded;
+    const newWordCount = countWords(expanded.text);
+    if (newWordCount < minWords * 0.9) {
+      console.warn(`  ${level}/${langCode}/${kind} still short after expansion (${newWordCount}w, needs ~${minWords}w) — keeping it anyway rather than failing the run`);
+    }
   }
 
-  if (bestValidResult) {
-    console.warn(
-      `  giving up on word-count targets for ${langCode}/${kind} after ${MAX_TRIES} attempts — using the last structurally valid response as-is rather than failing the whole run`,
-    );
-    return bestValidResult;
-  }
-  throw lastStructuralError;
+  return parsed;
 }
 
 /**
