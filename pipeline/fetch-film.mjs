@@ -20,7 +20,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
-import { fetchJson, wikipediaIntroExtract } from "./wikipedia.mjs";
+import { fetchJson, wikipediaIntroExtract, wikipediaAnalysisSection } from "./wikipedia.mjs";
 
 const TMDB_API = "https://api.themoviedb.org/3";
 const POSTER_BASE = "https://image.tmdb.org/t/p/w780";
@@ -81,8 +81,12 @@ Answer with JSON only: {"title": "<original release title in English>", "year": 
  * paragraph — too little for a rich C1/C2 essay. The film's Wikipedia lead
  * section adds real production/reception context (verified live to stay
  * premise/production/reception-focused, not plot-revealing, for classics
- * like Persona, Stalker and Seven Samurai). Falls back to nothing if no
- * confident match is found; the essay still works from TMDB facts alone.
+ * like Persona, Stalker and Seven Samurai), and — when the article has one —
+ * its "Themes"/"Analysis"/"Legacy" section adds real critical discussion of
+ * what the film is ABOUT, so the essay's thematic/philosophical reading
+ * comes from actual film criticism instead of only the model's memory of
+ * the work. Falls back to nothing if no confident match is found; the essay
+ * still works from TMDB facts (and the model's own knowledge) alone.
  */
 async function wikipediaBackground(title, director) {
   try {
@@ -98,9 +102,9 @@ async function wikipediaBackground(title, director) {
       // director's own biography page, which trivially mentions their name).
       if (!result.title.toLowerCase().includes(titleKey)) continue;
       const extract = await wikipediaIntroExtract(result.title);
-      if (extract && extract.toLowerCase().includes(surname)) {
-        return extract;
-      }
+      if (!extract || !extract.toLowerCase().includes(surname)) continue;
+      const analysis = await wikipediaAnalysisSection(result.title);
+      return analysis ? `${extract}\n\n${analysis}` : extract;
     }
   } catch {
     // No confident match — the caller just skips this fact.
@@ -183,7 +187,8 @@ async function main() {
     details.runtime && `RUNTIME: ${details.runtime} minutes`,
     details.tagline && `TAGLINE: ${details.tagline}`,
     `PREMISE (spoiler-free, from TMDB): ${details.overview}`,
-    background && `BACKGROUND (Wikipedia — production/reception context, not plot): ${background}`,
+    background &&
+      `BACKGROUND (Wikipedia — production/reception context and, where available, critical/thematic analysis; not plot): ${background}`,
     `DATA: TMDB${background ? " + Wikipedia" : ""}`,
   ]
     .filter(Boolean)
