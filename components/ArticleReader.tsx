@@ -75,7 +75,7 @@ export function ArticleReader({ article }: { article: Article }) {
 
   return (
     <article>
-      <div className="sticky top-0 z-20 -mx-4 bg-background/95 px-4 py-3 backdrop-blur-sm">
+      <div className="sticky top-0 z-20 -mx-4 bg-background/95 px-4 py-3 backdrop-blur-sm print:hidden">
         <LevelLadder level={level} onSelect={setLevel} />
       </div>
 
@@ -84,18 +84,27 @@ export function ArticleReader({ article }: { article: Article }) {
           {level} · {LEVEL_DESCRIPTIONS[level]} · {wordCount} words · ~{minutes}{" "}
           min
         </p>
-        <button
-          type="button"
-          onClick={toggleCompare}
-          aria-pressed={compare}
-          className={`cursor-pointer rounded-md border px-2.5 py-1 font-mono text-xs uppercase tracking-wide transition-colors ${
-            compare
-              ? "border-foreground bg-foreground text-background"
-              : "border-border text-muted-foreground hover:text-foreground"
-          }`}
-        >
-          {compare ? "✕ Close compare" : "⇄ Compare"}
-        </button>
+        <div className="flex gap-2 print:hidden">
+          <button
+            type="button"
+            onClick={() => window.print()}
+            className="cursor-pointer rounded-md border border-border px-2.5 py-1 font-mono text-xs uppercase tracking-wide text-muted-foreground transition-colors hover:text-foreground"
+          >
+            ⎙ Print / Save as PDF
+          </button>
+          <button
+            type="button"
+            onClick={toggleCompare}
+            aria-pressed={compare}
+            className={`cursor-pointer rounded-md border px-2.5 py-1 font-mono text-xs uppercase tracking-wide transition-colors ${
+              compare
+                ? "border-foreground bg-foreground text-background"
+                : "border-border text-muted-foreground hover:text-foreground"
+            }`}
+          >
+            {compare ? "✕ Close compare" : "⇄ Compare"}
+          </button>
+        </div>
       </div>
 
       {lang !== language && (

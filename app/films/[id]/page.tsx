@@ -18,7 +18,7 @@ export default async function FilmPage({
     <div>
       <Link
         href="/films/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary"
+        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
       >
         ← Film Club
       </Link>

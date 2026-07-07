@@ -18,7 +18,7 @@ export default async function QuotePage({
     <div>
       <Link
         href="/quotes/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary"
+        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
       >
         ← Quotes
       </Link>

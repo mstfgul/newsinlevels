@@ -53,7 +53,7 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <PreferencesProvider>
-          <header className="border-b border-border">
+          <header className="border-b border-border print:hidden">
             <div className="mx-auto max-w-3xl px-4 py-4">
               <div className="flex items-center justify-between gap-4">
                 <Link
@@ -82,7 +82,7 @@ export default function RootLayout({
             {children}
           </main>
           <PomodoroClock />
-          <footer className="border-t border-border py-6 text-center">
+          <footer className="border-t border-border py-6 text-center print:hidden">
             <a
               href="https://www.linkedin.com/in/mustafa-gul00/"
               target="_blank"

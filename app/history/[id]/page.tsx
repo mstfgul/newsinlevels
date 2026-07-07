@@ -18,7 +18,7 @@ export default async function HistoryEventPage({
     <div>
       <Link
         href="/history/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary"
+        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
       >
         ← On This Day
       </Link>

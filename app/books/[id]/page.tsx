@@ -18,7 +18,7 @@ export default async function BookPage({
     <div>
       <Link
         href="/books/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary"
+        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
       >
         ← Book Club
       </Link>

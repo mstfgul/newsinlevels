@@ -325,3 +325,50 @@ mark.vocab:hover {
   line-height: 1.3;
   color: var(--muted-foreground);
 }
+
+/* Printing (or "Save as PDF"): site chrome (nav, footer, sticky bar,
+ * compare/print controls, the floating clock) is hidden per-element with
+ * Tailwind's print:hidden instead of listed here. What's left here is
+ * shrinking screen-sized type down to a normal document scale — at the
+ * on-screen font size and notebook-ruling line-height, a short article
+ * could otherwise spill across 3-4 printed pages. The ruled-line background
+ * is tied to that on-screen line-height via --ruling, so it's dropped here
+ * too rather than left desynced from the tighter print line-height. */
+@media print {
+  body {
+    background: white;
+    background-image: none;
+  }
+
+  /* The article body's font size and notebook-ruling line-height are tuned
+   * for comfortable on-screen reading; at the same rem sizes on paper they
+   * roughly double the page count for no benefit. Print at a normal
+   * document scale instead. !important overrides the plain Tailwind
+   * utility classes on the title (text-3xl/sm:text-4xl, pull-quote size)
+   * regardless of stylesheet order. */
+  .article-body {
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+    background-image: none;
+  }
+
+  .article-body--easy {
+    font-size: 12pt !important;
+  }
+
+  .article-body p + p {
+    margin-top: 0.8em !important;
+  }
+
+  article h1 {
+    font-size: 1.5rem !important;
+  }
+
+  .pull-quote p {
+    font-size: 1.2rem !important;
+  }
+
+  .pull-quote::before {
+    font-size: 3rem !important;
+  }
+}
