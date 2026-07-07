@@ -10,7 +10,7 @@ export const LANGUAGES = {
   en: "English",
   de: "German",
   fr: "French",
-  tr: "Turkish",
+  es: "Spanish",
 };
 export const LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"];
 
@@ -29,14 +29,14 @@ export const CATEGORIES = [
 export const MODEL = process.env.OPENAI_MODEL ?? "gpt-4o-mini";
 
 const LEVEL_SPECS = `
-A1: 100-140 words. Present tense only. Very short sentences (max 8 words). Only the ~500 most common words of the language. No subordinate clauses.
-A2: 150-200 words. Present and simple past. Short sentences (max 12 words). Common everyday vocabulary. Simple connectors (and, but, because).
-B1: 220-290 words. Most common tenses. Some subordinate clauses. Everyday vocabulary plus common news words. Explain difficult concepts simply.
-B2: 300-380 words. Full range of tenses, passive voice allowed. Complex sentences. Standard news vocabulary, some idioms.
-C1: 380-470 words. Sophisticated structures, nuanced connectors, reported speech. Rich vocabulary, natural journalistic register.
-C2: 450-560 words. Native-level journalistic prose. Idiomatic, precise, stylistically refined. May include irony, nuance, low-frequency vocabulary.
+A1: 100-140 words. Grammar: present tense only (plus the verb "to be"/"to have" in their most basic forms); no subordinate clauses, no passive voice, no reported speech. Sentences: max 8 words, one idea per sentence, strict subject-verb-object order. Vocabulary: only the ~500 most frequent words of the language; zero idioms, phrasal/compound verbs or abstract nouns — if a source concept has no simple word, replace it with a short concrete description instead of a hard word.
+A2: 150-200 words. Grammar: present and simple past, plus "going to"/simple future for plans; only coordinating connectors (and, but, because, so) — still no relative clauses or passive voice. Sentences: max 12 words, mostly simple with an occasional two-clause sentence joined by "and"/"but". Vocabulary: the ~1000 most frequent words plus a handful of concrete, topic-specific nouns, each made clear from context.
+B1: 220-290 words. Grammar: adds present perfect and basic subordinate clauses (relative clauses with who/which/that, first-conditional "if" sentences); still no passive voice or reported speech. Sentences: 12-18 words on average, a mix of simple and one-clause-subordinate sentences. Vocabulary: everyday words plus common news/topic vocabulary (~2000-word band); any less-common term must be explained in simple words the moment it's introduced.
+B2: 300-380 words. Grammar: full range of tenses, passive voice, reported speech, second/third-conditional sentences. Sentences: up to ~25 words, genuinely complex (multiple clauses, varied connectors like "although", "since", "in order to"). Vocabulary: standard news register, common idioms and phrasal verbs allowed as long as they're widely known.
+C1: 380-470 words. Grammar: sophisticated structures — nominalisation, participle clauses, inversion for emphasis, nuanced connectors (nevertheless, whereas, given that, insofar as), reported speech with modal nuance. Sentences: long and varied in length and rhythm, mixing short punchy sentences with layered ones for effect. Vocabulary: rich and precise, including less-common but still natural words, in a genuine journalistic register.
+C2: 450-560 words. Grammar: no simplification whatsoever — native-level control of every structure, including rhetorical devices (rhetorical questions, ellipsis, deliberate fragments for effect). Sentences: whatever length and shape a skilled native writer would choose. Vocabulary: idiomatic, precise, stylistically refined; low-frequency words, irony, understatement and nuance are all welcome where they fit.
 
-Word counts are minimums to respect, not targets to stop short of: each level's text MUST reach at least the lower bound of its range. Develop the material fully — add context, background and consequences at higher levels rather than padding with repetition.`;
+Across all six levels: sentence length and grammar are the primary signal of difficulty, not just word count — a text that hits its word count but reuses A1-style short flat sentences at C1 is wrong. Vary sentence length naturally within a level's stated range rather than making every sentence the same length. Word counts are minimums to respect, not targets to stop short of: each level's text MUST reach at least the lower bound of its range. Develop the material fully — add context, background and consequences at higher levels rather than padding with repetition.`;
 
 export function readJson(file, fallback) {
   return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : fallback;

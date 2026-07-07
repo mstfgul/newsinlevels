@@ -3,7 +3,7 @@
  * categories along the way. Safe to re-run: articles that already have the
  * language are skipped.
  *
- * Usage: OPENAI_API_KEY=... node pipeline/backfill-language.mjs tr
+ * Usage: OPENAI_API_KEY=... node pipeline/backfill-language.mjs es
  */
 import fs from "node:fs";
 import path from "node:path";

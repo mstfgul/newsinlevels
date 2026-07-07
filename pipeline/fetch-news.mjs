@@ -3,7 +3,7 @@
  *
  * 1. Reads BBC World RSS and picks the newest articles not processed before.
  * 2. Extracts the full article text.
- * 3. For each article and each target language (en/de/fr/tr), asks OpenAI to
+ * 3. For each article and each target language (en/de/fr/es), asks OpenAI to
  *    rewrite it at all six CEFR levels (A1–C2) with a vocabulary list, and
  *    classifies the article into a category.
  * 4. Writes data/articles/<id>.json and updates data/index.json.

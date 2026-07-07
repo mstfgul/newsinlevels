@@ -6,7 +6,7 @@ import { Highlight, PageIntro } from "@/components/PageIntro";
 export const metadata: Metadata = {
   title: "Daily Art — Any Text in Levels",
   description:
-    "One public-domain painting a day, analyzed at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "One public-domain painting a day, analyzed at CEFR levels A1–C2 in English, German, French and Spanish.",
 };
 
 export default function GalleryPage() {

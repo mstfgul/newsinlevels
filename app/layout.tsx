@@ -38,7 +38,7 @@ const caveat = Caveat({
 export const metadata: Metadata = {
   title: "Any Text in Levels — learn languages with real content",
   description:
-    "Real news, art, quotes and history rewritten at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "Real news, art, quotes and history rewritten at CEFR levels A1–C2 in English, German, French and Spanish.",
 };
 
 export default function RootLayout({

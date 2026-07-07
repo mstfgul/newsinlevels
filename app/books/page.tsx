@@ -6,7 +6,7 @@ import { Highlight, PageIntro } from "@/components/PageIntro";
 export const metadata: Metadata = {
   title: "Book Club — Any Text in Levels",
   description:
-    "One great book a day — literature and philosophy introduced spoiler-free at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "One great book a day — literature and philosophy introduced spoiler-free at CEFR levels A1–C2 in English, German, French and Spanish.",
 };
 
 export default function BooksPage() {

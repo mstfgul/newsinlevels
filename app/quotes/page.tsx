@@ -7,7 +7,7 @@ import { Highlight, PageIntro } from "@/components/PageIntro";
 export const metadata: Metadata = {
   title: "Quotes — Any Text in Levels",
   description:
-    "A line from a great author or poet each day, translated and explained at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "A line from a great author or poet each day, translated and explained at CEFR levels A1–C2 in English, German, French and Spanish.",
 };
 
 export default function QuotesPage() {

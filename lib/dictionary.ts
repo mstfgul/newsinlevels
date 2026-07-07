@@ -28,7 +28,7 @@ export interface DictResult {
 }
 
 /** Languages the tap-to-define feature is enabled for. */
-export const LOOKUP_LANGUAGES: readonly Language[] = ["en", "de", "fr"];
+export const LOOKUP_LANGUAGES: readonly Language[] = ["en", "de", "fr", "es"];
 
 interface RawDefinition {
   definition: string;

@@ -6,7 +6,7 @@ import { Highlight, PageIntro } from "@/components/PageIntro";
 export const metadata: Metadata = {
   title: "News — Any Text in Levels",
   description:
-    "Real news rewritten at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "Real news rewritten at CEFR levels A1–C2 in English, German, French and Spanish.",
 };
 
 function formatDateline(date: string): string {

@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       lang:
-        description: "Language code to backfill (en/de/fr/tr)"
-        default: "tr"
+        description: "Language code to backfill (en/de/fr/es)"
+        default: "es"
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ jobs:
       - run: npm ci
 
       - name: Backfill language versions
-        run: node pipeline/backfill-language.mjs ${{ github.event.inputs.lang || 'tr' }}
+        run: node pipeline/backfill-language.mjs ${{ github.event.inputs.lang || 'es' }}
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
@@ -36,7 +36,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to backfill."
           else
-            git commit -m "news: backfill ${{ github.event.inputs.lang || 'tr' }} versions"
+            git commit -m "news: backfill ${{ github.event.inputs.lang || 'es' }} versions"
             # The branch may have moved while we were generating — rebase, then push.
             git pull --rebase origin main
             git push

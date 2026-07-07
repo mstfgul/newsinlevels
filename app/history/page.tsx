@@ -7,7 +7,7 @@ import { Highlight, PageIntro } from "@/components/PageIntro";
 export const metadata: Metadata = {
   title: "On This Day — Any Text in Levels",
   description:
-    "One historical event a day, told at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "One historical event a day, told at CEFR levels A1–C2 in English, German, French and Spanish.",
 };
 
 export default function HistoryPage() {

@@ -6,7 +6,7 @@ import { Highlight, PageIntro } from "@/components/PageIntro";
 export const metadata: Metadata = {
   title: "Film Club — Any Text in Levels",
   description:
-    "One art-house film a day, discussed spoiler-free at CEFR levels A1–C2 in English, German, French and Turkish.",
+    "One art-house film a day, discussed spoiler-free at CEFR levels A1–C2 in English, German, French and Spanish.",
 };
 
 export default function FilmsPage() {

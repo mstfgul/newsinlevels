@@ -1,4 +1,4 @@
-export const LANGUAGES = ["en", "de", "fr", "tr"] as const;
+export const LANGUAGES = ["en", "de", "fr", "es"] as const;
 export type Language = (typeof LANGUAGES)[number];
 
 export const LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"] as const;
@@ -8,7 +8,7 @@ export const LANGUAGE_LABELS: Record<Language, string> = {
   en: "English",
   de: "Deutsch",
   fr: "Français",
-  tr: "Türkçe",
+  es: "Español",
 };
 
 export const CATEGORIES = [
