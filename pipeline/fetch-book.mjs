@@ -136,36 +136,70 @@ async function main() {
 
   const rejected = [];
   let pick, summary, cover;
-  for (let attempt = 0; attempt < MAX_ATTEMPTS && !cover; attempt++) {
-    pick = await pickBook(openai, [
-      ...processed.map((p) => `${p.title} — ${p.author}`),
-      ...rejected,
-    ]);
-    console.log(`Pick: ${pick.title} (${pick.year}) — ${pick.author}`);
-    if (
-      processed.some(
-        (p) => slugify(`${p.title} ${p.author}`) === slugify(`${pick.title} ${pick.author}`),
-      )
-    ) {
-      rejected.push(`${pick.title} — ${pick.author} (already featured)`);
-      continue;
-    }
-    summary = await wikipediaSummary(pick);
-    if (!summary) {
-      rejected.push(`${pick.title} — ${pick.author} (no Wikipedia page found)`);
-      continue;
-    }
-    cover = await findCover(pick);
-    if (!cover) {
-      rejected.push(`${pick.title} — ${pick.author} (no cover found)`);
+
+  // Manual override (set via the workflow_dispatch "title"/"author" inputs):
+  // try to feature exactly this book first. If it can't be confidently
+  // verified (typo, not on Wikipedia, no cover available), fall back to the
+  // normal AI auto-pick below rather than failing the whole run — a manual
+  // request that doesn't pan out shouldn't mean no book gets published today.
+  const manualTitle = process.env.MANUAL_TITLE?.trim();
+  if (manualTitle) {
+    const manualPick = { title: manualTitle, author: process.env.MANUAL_AUTHOR?.trim() ?? "" };
+    console.log(`Manual pick: ${manualPick.title}${manualPick.author ? ` — ${manualPick.author}` : ""}`);
+    const alreadyFeatured = processed.some(
+      (p) => slugify(`${p.title} ${p.author}`) === slugify(`${manualPick.title} ${manualPick.author}`),
+    );
+    if (alreadyFeatured) {
+      console.warn(`  "${manualPick.title}" was already featured — falling back to AI pick`);
+    } else {
+      const manualSummary = await wikipediaSummary(manualPick);
+      if (!manualSummary) {
+        console.warn(`  no confident Wikipedia match for "${manualPick.title}" — falling back to AI pick`);
+      } else {
+        const manualCover = await findCover(manualPick);
+        if (!manualCover) {
+          console.warn(`  no cover found for "${manualPick.title}" — falling back to AI pick`);
+        } else {
+          pick = manualPick;
+          summary = manualSummary;
+          cover = manualCover;
+        }
+      }
     }
   }
-  if (!cover) throw new Error(`no usable book found in ${MAX_ATTEMPTS} attempts`);
+
+  if (!cover) {
+    for (let attempt = 0; attempt < MAX_ATTEMPTS && !cover; attempt++) {
+      pick = await pickBook(openai, [
+        ...processed.map((p) => `${p.title} — ${p.author}`),
+        ...rejected,
+      ]);
+      console.log(`Pick: ${pick.title} (${pick.year}) — ${pick.author}`);
+      if (
+        processed.some(
+          (p) => slugify(`${p.title} ${p.author}`) === slugify(`${pick.title} ${pick.author}`),
+        )
+      ) {
+        rejected.push(`${pick.title} — ${pick.author} (already featured)`);
+        continue;
+      }
+      summary = await wikipediaSummary(pick);
+      if (!summary) {
+        rejected.push(`${pick.title} — ${pick.author} (no Wikipedia page found)`);
+        continue;
+      }
+      cover = await findCover(pick);
+      if (!cover) {
+        rejected.push(`${pick.title} — ${pick.author} (no cover found)`);
+      }
+    }
+    if (!cover) throw new Error(`no usable book found in ${MAX_ATTEMPTS} attempts`);
+  }
 
   const facts = [
     `TITLE: ${pick.title}`,
-    `AUTHOR: ${pick.author}`,
-    `FIRST PUBLISHED: ${pick.year}`,
+    pick.author && `AUTHOR: ${pick.author}`,
+    pick.year && `FIRST PUBLISHED: ${pick.year}`,
     summary.description && `WHAT IT IS: ${summary.description}`,
     `ABOUT THE BOOK (Wikipedia): ${summary.extract}`,
   ]
@@ -174,6 +208,10 @@ async function main() {
 
   const today = new Date().toISOString().slice(0, 10);
   const id = `${today}-${slugify(`${pick.title} ${pick.author}`)}`;
+
+  // A manual pick has no year from the AI — pull the first plausible
+  // publication year mentioned in the Wikipedia extract instead.
+  const year = pick.year ?? summary.extract.match(/\b(1[0-9]{3}|20[0-2][0-9])\b/)?.[1] ?? "";
 
   const book = {
     id,
@@ -184,10 +222,10 @@ async function main() {
         summary.title.replace(/ /g, "_"),
       )}`,
     },
-    originalTitle: `${pick.title} (${pick.year}) — ${pick.author}`,
+    originalTitle: `${pick.title}${year ? ` (${year})` : ""}${pick.author ? ` — ${pick.author}` : ""}`,
     image: cover,
     category: "book",
-    book: { author: pick.author, title: pick.title, year: String(pick.year) },
+    book: { author: pick.author, title: pick.title, year: String(year) },
     languages: {},
   };
 

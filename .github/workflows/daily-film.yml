@@ -4,6 +4,16 @@ on:
   schedule:
     - cron: "30 6 * * *" # every day at 06:30 UTC, after the quote run
   workflow_dispatch:
+    inputs:
+      title:
+        description: "Film title to feature (leave empty to let AI pick automatically)"
+        required: false
+      year:
+        description: "Release year (optional, helps confirm the right film)"
+        required: false
+      director:
+        description: "Director (optional, only used if TMDB itself lacks credits)"
+        required: false
 
 permissions:
   contents: write
@@ -30,6 +40,9 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
+          MANUAL_TITLE: ${{ github.event.inputs.title }}
+          MANUAL_YEAR: ${{ github.event.inputs.year }}
+          MANUAL_DIRECTOR: ${{ github.event.inputs.director }}
 
       - name: Commit new film
         run: |

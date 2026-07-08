@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: "45 6 * * *" # every day at 06:45 UTC, after the film run
   workflow_dispatch:
+    inputs:
+      title:
+        description: "Book title to feature (leave empty to let AI pick automatically)"
+        required: false
+      author:
+        description: "Author (optional, helps confirm the right book)"
+        required: false
 
 permissions:
   contents: write
@@ -29,6 +36,8 @@ jobs:
         run: node pipeline/fetch-book.mjs
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MANUAL_TITLE: ${{ github.event.inputs.title }}
+          MANUAL_AUTHOR: ${{ github.event.inputs.author }}
 
       - name: Commit new book
         run: |

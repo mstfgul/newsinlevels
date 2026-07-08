@@ -113,12 +113,15 @@ async function wikipediaBackground(title, director) {
 }
 
 async function findOnTmdb(pick) {
-  const byYear = await tmdb("/search/movie", {
-    query: pick.title,
-    year: String(pick.year),
-    include_adult: "false",
-  });
-  let results = byYear.results ?? [];
+  let results = [];
+  if (pick.year) {
+    const byYear = await tmdb("/search/movie", {
+      query: pick.title,
+      year: String(pick.year),
+      include_adult: "false",
+    });
+    results = byYear.results ?? [];
+  }
   if (results.length === 0) {
     const any = await tmdb("/search/movie", {
       query: pick.title,
@@ -144,22 +147,50 @@ async function main() {
   const rejected = [];
   let movie = null;
   let pick;
-  for (let attempt = 0; attempt < MAX_ATTEMPTS && !movie; attempt++) {
-    pick = await pickFilm(openai, [
-      ...processed.map((p) => `${p.title} (${p.year})`),
-      ...rejected,
-    ]);
-    console.log(`Pick: ${pick.title} (${pick.year}) — ${pick.director}`);
-    const found = await findOnTmdb(pick);
+
+  // Manual override (set via the workflow_dispatch "title"/"year"/"director"
+  // inputs): try to feature exactly this film first. If it can't be found
+  // on TMDB or was already featured, fall back to the normal AI auto-pick
+  // below rather than failing the whole run.
+  const manualTitle = process.env.MANUAL_TITLE?.trim();
+  if (manualTitle) {
+    const manualPick = {
+      title: manualTitle,
+      year: process.env.MANUAL_YEAR?.trim() || undefined,
+      director: process.env.MANUAL_DIRECTOR?.trim() ?? "",
+    };
+    console.log(
+      `Manual pick: ${manualPick.title}${manualPick.year ? ` (${manualPick.year})` : ""}${manualPick.director ? ` — ${manualPick.director}` : ""}`,
+    );
+    const found = await findOnTmdb(manualPick);
     if (!found) {
-      rejected.push(`${pick.title} (${pick.year}) — not found on TMDB`);
+      console.warn(`  "${manualPick.title}" not found on TMDB — falling back to AI pick`);
     } else if (processed.some((p) => p.tmdbId === found.id)) {
-      rejected.push(`${pick.title} (${pick.year}) — already featured`);
+      console.warn(`  "${manualPick.title}" was already featured — falling back to AI pick`);
     } else {
+      pick = manualPick;
       movie = found;
     }
   }
-  if (!movie) throw new Error(`no usable film found in ${MAX_ATTEMPTS} attempts`);
+
+  if (!movie) {
+    for (let attempt = 0; attempt < MAX_ATTEMPTS && !movie; attempt++) {
+      pick = await pickFilm(openai, [
+        ...processed.map((p) => `${p.title} (${p.year})`),
+        ...rejected,
+      ]);
+      console.log(`Pick: ${pick.title} (${pick.year}) — ${pick.director}`);
+      const found = await findOnTmdb(pick);
+      if (!found) {
+        rejected.push(`${pick.title} (${pick.year}) — not found on TMDB`);
+      } else if (processed.some((p) => p.tmdbId === found.id)) {
+        rejected.push(`${pick.title} (${pick.year}) — already featured`);
+      } else {
+        movie = found;
+      }
+    }
+    if (!movie) throw new Error(`no usable film found in ${MAX_ATTEMPTS} attempts`);
+  }
 
   const details = await tmdb(`/movie/${movie.id}`, {
     append_to_response: "credits",
