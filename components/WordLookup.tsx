@@ -74,9 +74,15 @@ export function WordPopover({
       {state === null && <span className="block opacity-60">no entry found</span>}
       {first && (
         <>
-          <span className="block opacity-80">
-            {first.senses[0].definition}
-          </span>
+          {/* Two senses, not just the first — without knowing the sentence's
+              context we can't pick the right one, so give the reader a
+              second candidate before they need to tap through to expand. */}
+          {first.senses.slice(0, 2).map((sense, i) => (
+            <span key={i} className={i === 0 ? "block opacity-80" : "mt-1 block opacity-80"}>
+              {first.senses.length > 1 && <span className="opacity-60">{i + 1}. </span>}
+              {sense.definition}
+            </span>
+          ))}
           {result?.lemma && (
             <span className="mt-1 block opacity-80">
               <span className="font-bold">{result.lemma.term}</span>{" "}
