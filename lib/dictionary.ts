@@ -45,6 +45,11 @@ const memory = new Map<string, DictResult | null>();
 
 function stripHtml(html: string): string {
   const doc = new DOMParser().parseFromString(html, "text/html");
+  // .textContent walks every text node regardless of tag, including the
+  // ones inside <style>/<script> — Wiktionary embeds TemplateStyles CSS
+  // this way, which leaked raw ".mw-parser-output {...}" rules into shown
+  // definitions until these were stripped out first.
+  doc.querySelectorAll("style, script").forEach((el) => el.remove());
   return (doc.body.textContent ?? "").replace(/\s+/g, " ").trim();
 }
 
@@ -130,11 +135,21 @@ function guessInflectionVariants(word: string, lang: Language): string[] {
 /** `plural of wave` → `wave`; `third-person singular present of laufen 'to
  * run'` → `laufen`. Null when the definition is not a form-of note. */
 function formOfTarget(definition: string): string | null {
-  if (definition.length > 90) return null;
   const match = definition.match(
     /\b(?:plural|singular|participle|preterite|past|present|infinitive|imperative|subjunctive|indicative|gerund|comparative|superlative|diminutive|inflection|feminine|masculine|neuter|nominative|genitive|dative|accusative|alternative (?:form|spelling)) of ([\p{L}\p{M}'’-]+)/iu,
   );
-  return match ? match[1] : null;
+  // Trust the match only if it starts at (or very near) the beginning of
+  // the definition — a coincidental "... of X" deep inside a longer,
+  // unrelated definition shouldn't be treated as a genuine form-of note.
+  // Stacked qualifiers ("third-person singular present of spielen") push
+  // the match well past the first few characters, so the threshold has to
+  // be generous — 45 comfortably covers that while still excluding matches
+  // buried in a real, unrelated sentence. (Replaces a flat length cap on
+  // the whole definition, which broke on legitimately long combined-role
+  // notes like French "inflection of découvrir: first/third-person
+  // singular present indicative/subjunctive...".)
+  if (!match || (match.index ?? 999) > 45) return null;
+  return match[1];
 }
 
 /**
@@ -153,7 +168,7 @@ export async function lookupWord(
   const key = `${lang}:${word}`;
   if (memory.has(key)) return memory.get(key)!;
 
-  const storageKey = `dict:v3:${key}`;
+  const storageKey = `dict:v4:${key}`;
   try {
     const cached = localStorage.getItem(storageKey);
     if (cached !== null) {
@@ -184,18 +199,32 @@ export async function lookupWord(
   }
 
   // "waves → plural of wave" alone doesn't teach the meaning; follow the
-  // pointer once and carry the base form's entry along.
+  // pointer to the base form. Sometimes that base form is ITSELF a form-of
+  // note ("publicada → feminine singular of publicado" → "publicado → past
+  // participle of publicar") — keep following until a real definition
+  // turns up, up to a few hops so a chain can't loop forever.
   if (result) {
-    const target = formOfTarget(result.entries[0].senses[0].definition);
-    if (target && target.toLocaleLowerCase() !== result.term.toLocaleLowerCase()) {
+    let term = result.term;
+    let definition = result.entries[0].senses[0].definition;
+    let lemma: { term: string; entries: DictEntry[] } | undefined;
+
+    for (let hop = 0; hop < 3; hop++) {
+      const target = formOfTarget(definition);
+      if (!target || target.toLocaleLowerCase() === term.toLocaleLowerCase()) break;
+      let nextEntries: DictEntry[] | null;
       try {
-        const lemmaEntries = await fetchEntries(target, lang);
-        if (lemmaEntries) {
-          result = { ...result, lemma: { term: target, entries: lemmaEntries } };
-        }
+        nextEntries = await fetchEntries(target, lang);
       } catch {
-        // The inflection note is still worth showing on its own.
+        break; // the inflection note (or the last lemma found) is still worth showing
       }
+      if (!nextEntries) break;
+      lemma = { term: target, entries: nextEntries };
+      term = target;
+      definition = nextEntries[0].senses[0].definition;
+    }
+
+    if (lemma) {
+      result = { ...result, lemma };
     }
   }
 
