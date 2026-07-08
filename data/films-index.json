@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-08-the-holy-mountain-alejandro-jodorowsky",
+    "date": "2026-07-08",
+    "director": "Alejandro Jodorowsky",
+    "image": "https://image.tmdb.org/t/p/w780/mP5FGQbNjFkrjcZ6AVHrvokPRe5.jpg",
+    "titles": {
+      "en": "The Holy Mountain",
+      "de": "La montaña sagrada - Ein außergewöhnliches Filmerlebnis",
+      "fr": "La montagne sacrée",
+      "es": "La montaña sagrada"
+    }
+  },
+  {
     "id": "2026-07-08-night-on-earth-jim-jarmusch",
     "date": "2026-07-08",
     "director": "Jim Jarmusch",
