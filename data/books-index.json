@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-08-la-bete-humaine-emile-zola",
+    "date": "2026-07-08",
+    "author": "Émile Zola",
+    "image": "https://covers.openlibrary.org/b/id/968837-L.jpg",
+    "titles": {
+      "en": "La Bête humaine",
+      "de": "La Bête humaine",
+      "fr": "La Bête humaine",
+      "es": "La Bête humaine"
+    }
+  },
+  {
     "id": "2026-07-07-the-stranger-albert-camus",
     "date": "2026-07-07",
     "author": "Albert Camus",
