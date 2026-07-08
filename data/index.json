@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-08-nato-allies-announce-37bn-for-new-missile-project",
+    "date": "2026-07-08",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b9c/live/d6af33b0-7a73-11f1-b49c-fd67f645cd09.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Nato Members Commit £37bn to Missile Project",
+      "de": "Nato vergrößert Raketen-Projekt zum Schutz Europas",
+      "fr": "L'Otan présente son projet de missile à long terme",
+      "es": "Proyecto de misiles busca fortalecer defensa europea"
+    }
+  },
+  {
+    "id": "2026-07-08-will-le-pen-rise-again-french-nationalist-leader-defiant-aft",
+    "date": "2026-07-08",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1d7/live/39e985c0-7a6f-11f1-bee8-53ce494e1abc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Le Pen's Resurgence Amid Legal Controversy",
+      "de": "Marine Le Pen plant erneuten Anlauf zur Präsidentschaft",
+      "fr": "Marine Le Pen et ses ambitions présidentielles après un jugement",
+      "es": "El reto de Marine Le Pen en las elecciones francesas"
+    }
+  },
+  {
+    "id": "2026-07-08-us-and-iran-trade-strikes-after-tankers-hit-in-strait-of-hor",
+    "date": "2026-07-08",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74d0/live/60cd7970-7a7f-11f1-b976-0b9c15b0ccfc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US-Iran Tensions Rise After Attacks",
+      "de": "Auseinandersetzungen zwischen USA und Iran im Golf eskalieren",
+      "fr": "Tensions accrues entre les États-Unis et l'Iran",
+      "es": "Tensión entre Estados Unidos e Irán por ataques en el Golfo"
+    }
+  },
+  {
     "id": "2026-07-07-marine-le-pen-s-moment-of-truth-why-tuesday-court-verdict-ma",
     "date": "2026-07-07",
     "source": "BBC News",
