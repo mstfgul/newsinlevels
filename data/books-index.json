@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-08-the-glass-bead-game-hermann-hesse",
+    "date": "2026-07-08",
+    "author": "Hermann Hesse",
+    "image": "https://covers.openlibrary.org/b/id/15010279-L.jpg",
+    "titles": {
+      "en": "The Glass Bead Game",
+      "de": "Das Glasperlenspiel",
+      "fr": "Le Jeu des perles de verre",
+      "es": "El juego de abalorios"
+    }
+  },
+  {
     "id": "2026-07-08-la-bete-humaine-emile-zola",
     "date": "2026-07-08",
     "author": "Émile Zola",
