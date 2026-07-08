@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-08-night-on-earth-jim-jarmusch",
+    "date": "2026-07-08",
+    "director": "Jim Jarmusch",
+    "image": "https://image.tmdb.org/t/p/w780/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
+    "titles": {
+      "en": "Night on Earth",
+      "de": "Night on Earth",
+      "fr": "Une Nuit dans le Monde",
+      "es": "Night on Earth"
+    }
+  },
+  {
     "id": "2026-07-07-chungking-express-wong-kar-wai",
     "date": "2026-07-07",
     "director": "Wong Kar-Wai",
