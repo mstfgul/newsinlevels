@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-09-platner-s-disastrous-candidacy-exposes-rifts-that-could-damp",
+    "date": "2026-07-09",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Platner Ends Senate Run Amid Controversy",
+      "de": "Rückzug Platners: Herausforderungen für die Demokraten",
+      "fr": "Graham Platner suspend sa campagne au Sénat américain",
+      "es": "La complicada campaña de Graham Platner en Maine"
+    }
+  },
+  {
+    "id": "2026-07-09-democrat-graham-platner-suspends-campaign-for-key-us-senate-",
+    "date": "2026-07-09",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e675/live/2d7ced30-7b2e-11f1-8a1e-d1fe57c2b5bf.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Graham Platner halts Senate bid amid allegations",
+      "de": "Graham Platner beendet Senatskampagne nach Vorwürfen",
+      "fr": "Suspension de la campagne de Graham Platner suite à une accusation",
+      "es": "Graham Platner detiene campaña tras escándalo de agresión"
+    }
+  },
+  {
+    "id": "2026-07-09-us-launches-more-strikes-on-iran-with-blasts-reported-in-sou",
+    "date": "2026-07-09",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Conducts New Military Strikes on Iran",
+      "de": "Spannungen zwischen USA und Iran eskalieren",
+      "fr": "Nouvelle escalade des tensions entre les États-Unis et l'Iran",
+      "es": "EE. UU. y Irán intercambian ataques nuevamente"
+    }
+  },
+  {
     "id": "2026-07-08-nato-allies-announce-37bn-for-new-missile-project",
     "date": "2026-07-08",
     "source": "BBC News",
