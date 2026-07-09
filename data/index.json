@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-09-international-court-tells-bbc-of-breakthrough-in-sudan-war-c",
+    "date": "2026-07-09",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6422/live/570d66a0-7b67-11f1-bee8-53ce494e1abc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "ICC Discovers Evidence of War Crimes in Sudan",
+      "de": "Fortschritte im Mordfall und Kriegsverbrechen in Sudan",
+      "fr": "La CPI enquête sur les crimes au Soudan",
+      "es": "Crímenes de guerra en Sudán: Avances en la investigación"
+    }
+  },
+  {
+    "id": "2026-07-09-it-was-love-at-first-sight-with-their-adopted-baby-then-they",
+    "date": "2026-07-09",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/763d/live/10c3a8c0-7b59-11f1-9510-1546718f668b.jpg",
+    "category": "world",
+    "titles": {
+      "en": "The Troubling Adoption of Marcus",
+      "de": "Das Schicksal von Marcus",
+      "fr": "Marcus confronté à un problème d'adoption",
+      "es": "La historia de la adopción de Marcus"
+    }
+  },
+  {
+    "id": "2026-07-09-at-least-28-killed-in-china-shoe-factory-fire-state-media-re",
+    "date": "2026-07-09",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c7f/live/fe69ecc0-7b9e-11f1-b976-0b9c15b0ccfc.png",
+    "category": "world",
+    "titles": {
+      "en": "Fatal Fire in a Jinjiang Shoe Factory",
+      "de": "Schwere Brand in Schuhfabrik in Chinastadt Jinjiang",
+      "fr": "Un tragique incendie dans une usine de chaussures à Jinjiang, en Chine",
+      "es": "Tragedia en una fábrica de zapatos en Jinjiang, China"
+    }
+  },
+  {
     "id": "2026-07-09-platner-s-disastrous-candidacy-exposes-rifts-that-could-damp",
     "date": "2026-07-09",
     "source": "BBC News",
