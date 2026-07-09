@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-09-the-magic-mountain-thomas-mann",
+    "date": "2026-07-09",
+    "author": "Thomas Mann",
+    "image": "https://covers.openlibrary.org/b/id/15010225-L.jpg",
+    "titles": {
+      "en": "The Magic Mountain",
+      "de": "Der Zauberberg",
+      "fr": "La Montagne magique",
+      "es": "La montaña mágica"
+    }
+  },
+  {
     "id": "2026-07-08-the-glass-bead-game-hermann-hesse",
     "date": "2026-07-08",
     "author": "Hermann Hesse",
