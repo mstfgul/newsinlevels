@@ -26,12 +26,11 @@ export const CATEGORIES = [
   "world",
 ];
 
-// The learner-facing text itself is where quality matters most, so it gets
-// the stronger model. Selection/classification tasks (picking a film, sorting
-// a category, judging level-fit) use the cheap model — they don't need
-// frontier-level nuance and running them on MODEL would multiply cost for no
-// real benefit.
-export const MODEL = process.env.OPENAI_MODEL ?? "gpt-4o";
+// Both default to the mini tier to keep daily pipeline cost down. Override
+// OPENAI_MODEL to a stronger model if the learner-facing text needs a
+// quality bump; FAST_MODEL backs cheap selection/classification tasks
+// (picking a film, sorting a category) that don't need frontier nuance.
+export const MODEL = process.env.OPENAI_MODEL ?? "gpt-4o-mini";
 export const FAST_MODEL = process.env.OPENAI_FAST_MODEL ?? "gpt-4o-mini";
 
 // Two calls instead of one: asking a single completion to write both A1 and
@@ -46,9 +45,9 @@ const LEVEL_DESCRIPTIONS = {
   A1: `100-140 words. Grammar: present tense only (plus the verb "to be"/"to have" in their most basic forms); no subordinate clauses, no passive voice, no reported speech. Sentences: max 8 words, one idea per sentence, strict subject-verb-object order. Vocabulary: only the ~500 most frequent words of the language; zero idioms, phrasal/compound verbs or abstract nouns — if a source concept has no simple word, replace it with a short concrete description instead of a hard word.`,
   A2: `150-200 words. Grammar: present and simple past, plus "going to"/simple future for plans; only coordinating connectors (and, but, because, so) — still no relative clauses or passive voice. Sentences: max 12 words, mostly simple with an occasional two-clause sentence joined by "and"/"but". Vocabulary: the ~1000 most frequent words plus a handful of concrete, topic-specific nouns, each made clear from context.`,
   B1: `220-290 words. Grammar: adds present perfect and basic subordinate clauses (relative clauses with who/which/that, first-conditional "if" sentences); still no passive voice or reported speech. Sentences: 12-18 words on average, a mix of simple and one-clause-subordinate sentences. Vocabulary: everyday words plus common news/topic vocabulary (~2000-word band); any less-common term must be explained in simple words the moment it's introduced.`,
-  B2: `300-380 words. Grammar: full range of tenses, passive voice, reported speech, second/third-conditional sentences. Sentences: up to ~25 words, genuinely complex (multiple clauses, varied connectors like "although", "since", "in order to"). Vocabulary: standard news register, common idioms and phrasal verbs allowed as long as they're widely known.`,
-  C1: `380-470 words. Grammar: sophisticated structures — nominalisation, participle clauses, inversion for emphasis, nuanced connectors (nevertheless, whereas, given that, insofar as), reported speech with modal nuance. Sentences: long and varied in length and rhythm, mixing short punchy sentences with layered ones for effect. Vocabulary: rich and precise, including less-common but still natural words, in a genuine journalistic register.`,
-  C2: `450-560 words. Grammar: no simplification whatsoever — native-level control of every structure, including rhetorical devices (rhetorical questions, ellipsis, deliberate fragments for effect). Sentences: whatever length and shape a skilled native writer would choose. Vocabulary: idiomatic, precise, stylistically refined; low-frequency words, irony, understatement and nuance are all welcome where they fit.`,
+  B2: `220-290 words. Grammar: full range of tenses, passive voice, reported speech, second/third-conditional sentences. Sentences: up to ~25 words, genuinely complex (multiple clauses, varied connectors like "although", "since", "in order to"). Vocabulary: standard news register, common idioms and phrasal verbs allowed as long as they're widely known.`,
+  C1: `220-290 words. Grammar: sophisticated structures — nominalisation, participle clauses, inversion for emphasis, nuanced connectors (nevertheless, whereas, given that, insofar as), reported speech with modal nuance. Sentences: long and varied in length and rhythm, mixing short punchy sentences with layered ones for effect. Vocabulary: rich and precise, including less-common but still natural words, in a genuine journalistic register.`,
+  C2: `220-290 words. Grammar: no simplification whatsoever — native-level control of every structure, including rhetorical devices (rhetorical questions, ellipsis, deliberate fragments for effect). Sentences: whatever length and shape a skilled native writer would choose. Vocabulary: idiomatic, precise, stylistically refined; low-frequency words, irony, understatement and nuance are all welcome where they fit.`,
 };
 
 const LEVEL_SPECS_FOOTER = `Across these levels: sentence length and grammar are the primary signal of difficulty, not just word count — a text that hits its word count but reuses flatter, simpler sentence patterns from a lower level is wrong for its label. Vary sentence length naturally within a level's stated range rather than making every sentence the same length. Word counts are minimums to respect, not targets to stop short of: each level's text MUST reach at least the lower bound of its range. Develop the material fully — add context, background and consequences at higher levels rather than padding with repetition.`;
@@ -102,7 +101,7 @@ const QUOTE_WORD_COUNTS = {
   C2: "220-300 words.",
 };
 
-const WORD_BOUNDS = { A1: 100, A2: 150, B1: 220, B2: 300, C1: 380, C2: 450 };
+const WORD_BOUNDS = { A1: 100, A2: 150, B1: 220, B2: 220, C1: 220, C2: 220 };
 const QUOTE_WORD_BOUNDS = { A1: 50, A2: 75, B1: 100, B2: 140, C1: 180, C2: 220 };
 
 function countWords(text) {
@@ -337,32 +336,6 @@ async function generateGroup(openai, kind, langCode, langName, levels, sourceTit
 }
 
 /**
- * Cheap-model second opinion: does each level's text actually read like its
- * labeled CEFR grade, not just hit the word count? Failures trigger one
- * regeneration of the affected group; if that regeneration also fails, the
- * original text is kept rather than blocking the whole pipeline run.
- */
-async function judgeLevelFit(openai, langName, textsByLevel) {
-  const entries = Object.entries(textsByLevel);
-  const prompt = `You are a strict CEFR assessor for ${langName}. For each labeled text below, judge whether its grammar and vocabulary genuinely match its labeled CEFR level — not just its length. Flag a level as "fail" if it clearly reads as a different level (too simple or too advanced for its label, wrong tenses/structures for that grade). Reply with JSON mapping each label to exactly "pass" or "fail", nothing else.
-
-${entries.map(([level, text]) => `${level}:\n${text}`).join("\n\n")}`;
-
-  try {
-    const response = await openai.chat.completions.create({
-      model: FAST_MODEL,
-      response_format: { type: "json_object" },
-      messages: [{ role: "user", content: prompt }],
-    });
-    const parsed = JSON.parse(response.choices[0].message.content);
-    return entries.map(([level]) => level).filter((level) => String(parsed[level]).toLowerCase() !== "pass");
-  } catch (error) {
-    console.warn(`  level-fit judge skipped: ${error.message}`);
-    return [];
-  }
-}
-
-/**
  * Writes six CEFR versions of a text in one language.
  * kind "news":    rewrites a news article.
  * kind "art":     writes an analysis of a painting — pass options.imageUrl so
@@ -389,35 +362,6 @@ export async function generateLanguageVersions(
     const result = await generateGroup(openai, kind, langCode, langName, group, sourceTitle, sourceText, imageUrl, quoteTitle);
     Object.assign(merged, result);
     if (kind === "quote" && !quoteTitle) quoteTitle = result[group[0]].title;
-  }
-
-  const failing = await judgeLevelFit(
-    openai,
-    langName,
-    Object.fromEntries(LEVELS.map((level) => [level, merged[level].text])),
-  );
-  if (failing.length) {
-    console.warn(`  level-fit judge flagged ${langCode}/${kind}: ${failing.join(", ")} — regenerating`);
-    for (const group of LEVEL_GROUPS) {
-      const overlap = group.filter((level) => failing.includes(level));
-      if (!overlap.length) continue;
-      try {
-        const regenerated = await generateGroup(
-          openai,
-          kind,
-          langCode,
-          langName,
-          group,
-          sourceTitle,
-          sourceText,
-          imageUrl,
-          kind === "quote" ? merged[LEVELS[0]].title : undefined,
-        );
-        Object.assign(merged, regenerated);
-      } catch (error) {
-        console.warn(`  regeneration after judge failure gave up, keeping original: ${error.message}`);
-      }
-    }
   }
 
   return merged;
