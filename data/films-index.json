@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-09-the-last-picture-show-peter-bogdanovich",
+    "date": "2026-07-09",
+    "director": "Peter Bogdanovich",
+    "image": "https://image.tmdb.org/t/p/w780/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+    "titles": {
+      "en": "The Last Picture Show (1971) — Peter Bogdanovich",
+      "de": "The Last Picture Show (1971) — Peter Bogdanovich",
+      "fr": "The Last Picture Show (1971) — Peter Bogdanovich",
+      "es": "La profundidad emocional de la adolescencia"
+    }
+  },
+  {
     "id": "2026-07-08-the-holy-mountain-alejandro-jodorowsky",
     "date": "2026-07-08",
     "director": "Alejandro Jodorowsky",
