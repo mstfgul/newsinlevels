@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-09-stalker-andrei-tarkovsky",
+    "date": "2026-07-09",
+    "director": "Andrei Tarkovsky",
+    "image": "https://image.tmdb.org/t/p/w780/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+    "titles": {
+      "en": "Stalker",
+      "de": "Stalker - Ein Meisterwerk von Tarkovsky",
+      "fr": "Stalker",
+      "es": "Stalker"
+    }
+  },
+  {
     "id": "2026-07-09-the-last-picture-show-peter-bogdanovich",
     "date": "2026-07-09",
     "director": "Peter Bogdanovich",
