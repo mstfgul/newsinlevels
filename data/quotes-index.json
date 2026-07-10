@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-10-anton-chekhov-an-expansive-life-one-not-cons",
+    "date": "2026-07-10",
+    "author": "Anton Chekhov",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anton_Chekhov_1889.jpg/330px-Anton_Chekhov_1889.jpg",
+    "titles": {
+      "en": "An expansive life, one not constrained by four walls, requires as well an expansive pocket.",
+      "de": "An expansive life, one not constrained by four walls, requires as well an expansive pocket.",
+      "fr": "Une vie vaste, pas limitée par quatre murs, nécessite aussi une poche vaste.",
+      "es": "Una vida expansiva, no restringida por cuatro paredes, requiere también un bolsillo expansivo."
+    }
+  },
+  {
     "id": "2026-07-09-virginia-woolf-for-our-penitence-deserves-a-g",
     "date": "2026-07-09",
     "author": "Virginia Woolf",
