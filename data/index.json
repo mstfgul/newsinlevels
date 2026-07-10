@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-10-ukrainian-agent-accused-of-murdering-monaco-bomb-suspect-cha",
+    "date": "2026-07-10",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Ukrainian Agent's Confession Changes in Court Hearing",
+      "de": "Ukrainischer Geheimdienstagent ändert seine Aussage über Mordfall",
+      "fr": "Un agent secret ukrainien modifie son témoignage dans une affaire de meurtre",
+      "es": "Agente ucraniano acusado de cambiar su relato sobre asesinato"
+    }
+  },
+  {
+    "id": "2026-07-10-huge-crowds-in-mashhad-as-iran-s-late-supreme-leader-is-buri",
+    "date": "2026-07-10",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5576/live/e2af5470-7b99-11f1-bc57-4fb8ebc9579b.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Mourners Gather for Khamenei's Burial in Mashhad",
+      "de": "Massive Trauerfeier für Ali Khamenei in Mashhad",
+      "fr": "Des milliers de personnes à l'enterrement d'Ali Khamenei",
+      "es": "Multitudes en Mashhad para el funeral de Ali Khamenei"
+    }
+  },
+  {
+    "id": "2026-07-10-at-least-11-dead-and-19-missing-in-wildfire-in-southern-spai",
+    "date": "2026-07-10",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4e0/live/9586cd30-7c30-11f1-bee8-53ce494e1abc.jpg",
+    "category": "climate",
+    "titles": {
+      "en": "Wildfire in Southern Spain",
+      "de": "Vereinigte Tragödie durch Waldbrände in Spanien",
+      "fr": "Incendie en Andalousie : un drame",
+      "es": "Grave incendio en Andalucía, España"
+    }
+  },
+  {
     "id": "2026-07-09-international-court-tells-bbc-of-breakthrough-in-sudan-war-c",
     "date": "2026-07-09",
     "source": "BBC News",
