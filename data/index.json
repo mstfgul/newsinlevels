@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-11-meet-the-crypto-billionaires-building-a-world-where-money-bu",
+    "date": "2026-07-11",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Exploring the Controversial Liberland",
+      "de": "Liberland: Die umstrittene micronation für Reiche",
+      "fr": "Liberland : le pays numérique des milliardaires crypto",
+      "es": "Los billonarios y la República de Liberland"
+    }
+  },
+  {
+    "id": "2026-07-11-spain-battles-to-contain-one-of-its-deadliest-wildfires-as-a",
+    "date": "2026-07-11",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb59/live/c4e20b70-7cd6-11f1-bee8-53ce494e1abc.jpg",
+    "category": "climate",
+    "titles": {
+      "en": "Spain Struggles with Deadly Wildfire: At Least 12 Confirmed Dead",
+      "de": "Schwerer Waldbrand in Spanien verursacht zahlreiche Todesfälle",
+      "fr": "Un incendie dévastateur en Espagne",
+      "es": "Incendio mortal en Los Gallardos, España"
+    }
+  },
+  {
+    "id": "2026-07-11-us-wants-iran-to-pledge-to-stop-shooting-at-ships-in-strait-",
+    "date": "2026-07-11",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Requests Iran to Stop Attacking Ships in Hormuz Strait",
+      "de": "USA fordern Iran zu Aussagen über die Straße von Hormuz auf",
+      "fr": "Negociations entre les États-Unis et l'Iran sur le détroit d'Ormuz",
+      "es": "Estados Unidos y Irán están en negociaciones"
+    }
+  },
+  {
     "id": "2026-07-10-ukrainian-agent-accused-of-murdering-monaco-bomb-suspect-cha",
     "date": "2026-07-10",
     "source": "BBC News",
