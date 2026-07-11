@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-11-the-double-life-of-veronique-krzysztof-kieslowski",
+    "date": "2026-07-11",
+    "director": "Krzysztof Kieślowski",
+    "image": "https://image.tmdb.org/t/p/w780/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+    "titles": {
+      "en": "Exploring Identity and Connection in The Double Life of Véronique",
+      "de": "Das doppelte Leben der Véronique",
+      "fr": "La Double Vie de Véronique",
+      "es": "La doble vida de Véronique"
+    }
+  },
+  {
     "id": "2026-07-10-the-broken-mirror-claude-d-anna",
     "date": "2026-07-10",
     "director": "Claude d'Anna",
