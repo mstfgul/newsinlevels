@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-11-the-waves-virginia-woolf",
+    "date": "2026-07-11",
+    "author": "Virginia Woolf",
+    "image": "https://covers.openlibrary.org/b/id/119517-L.jpg",
+    "titles": {
+      "en": "The Waves",
+      "de": "Die Wellen – Ein tiefgründiger Roman von Virginia Woolf",
+      "fr": "The Waves : Un Chef-d'Œuvre de Virginia Woolf",
+      "es": "Las Olas"
+    }
+  },
+  {
     "id": "2026-07-10-the-brothers-karamazov-fyodor-dostoevsky",
     "date": "2026-07-10",
     "author": "Fyodor Dostoevsky",
