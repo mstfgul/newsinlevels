@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-13-pather-panchali-satyajit-ray",
+    "date": "2026-07-13",
+    "director": "Satyajit Ray",
+    "image": "https://image.tmdb.org/t/p/w780/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+    "titles": {
+      "en": "Pather Panchali",
+      "de": "Pather Panchali und seine Bedeutung",
+      "fr": "Pather Panchali",
+      "es": "Pather Panchali"
+    }
+  },
+  {
     "id": "2026-07-11-the-double-life-of-veronique-krzysztof-kieslowski",
     "date": "2026-07-11",
     "director": "Krzysztof Kieślowski",
