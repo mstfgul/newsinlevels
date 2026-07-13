@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-13-confucius-the-man-of-virtue-makes-the-di",
+    "date": "2026-07-13",
+    "author": "Confucius",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/330px-Confucius_Tang_Dynasty.jpg",
+    "titles": {
+      "en": "The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration.",
+      "de": "Der tugendhafte Mensch macht die Schwierigkeit, die zu überwinden ist, zu seiner ersten Aufgabe, und der Erfolg ist nur eine nachfolgende Überlegung.",
+      "fr": "L'homme de vertu fait de la difficulté à surmonter son premier souci, et le succès seulement une considération subséquente.",
+      "es": "El hombre de virtud hace de la dificultad a superar su primer negocio, y el éxito solo una consideración posterior."
+    }
+  },
+  {
     "id": "2026-07-11-albert-camus-like-great-works-deep-feelings",
     "date": "2026-07-11",
     "author": "Albert Camus",
