@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-13-british-couple-return-to-village-at-heart-of-deadly-spanish-",
+    "date": "2026-07-13",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3502/live/a47f3390-7e4c-11f1-bee8-53ce494e1abc.png",
+    "category": "climate",
+    "titles": {
+      "en": "British Couple Returns to Their Village After a Devastating Wildfire",
+      "de": "Britisches Paar kehrt nach verheerendem Feuer zurück",
+      "fr": "Un couple britannique revient à Bédar après un incendie dévastateur.",
+      "es": "Emma y Simon regresan a su hogar tras el devastador incendio en Almería"
+    }
+  },
+  {
+    "id": "2026-07-13-us-senator-and-close-trump-ally-lindsey-graham-dies-after-br",
+    "date": "2026-07-13",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Lindsey Graham, US Senator, Dies After Sudden Illness",
+      "de": "Lindsey Graham verstorben: Erinnerungen und Reaktionen",
+      "fr": "Lindsey Graham, sénateur et allié de Trump, est mort",
+      "es": "Lindsey Graham fallece tras enfermedad súbita"
+    }
+  },
+  {
+    "id": "2026-07-13-at-least-27-killed-22-critically-injured-after-fire-engulfs-",
+    "date": "2026-07-13",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1848/live/dc8219e0-7e85-11f1-926f-c90d1bcfbc84.jpg",
+    "category": "world",
+    "titles": {
+      "en": "Deadly Fire in Bangkok Bar Claims Many Lives",
+      "de": "Schreckliches Feuer in einer Bar in Bangkok: 27 Tote und viele Verletzte",
+      "fr": "Un incendie tragique dans un bar à Bangkok",
+      "es": "Trágico incendio en un bar de Bangkok"
+    }
+  },
+  {
     "id": "2026-07-11-meet-the-crypto-billionaires-building-a-world-where-money-bu",
     "date": "2026-07-11",
     "source": "BBC News",
