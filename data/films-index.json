@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-14-the-earrings-of-madame-de-max-ophuls",
+    "date": "2026-07-14",
+    "director": "Max Ophüls",
+    "image": "https://image.tmdb.org/t/p/w780/3eJIw86taD84NkpuZaORf5k2DsH.jpg",
+    "titles": {
+      "en": "The Earrings of Madame de...",
+      "de": "Die Ohrringe von Madame de...",
+      "fr": "Les Boucles d'oreilles de Madame de...",
+      "es": "Los aretes de Madame de..."
+    }
+  },
+  {
     "id": "2026-07-13-pather-panchali-satyajit-ray",
     "date": "2026-07-13",
     "director": "Satyajit Ray",
