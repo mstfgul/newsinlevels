@@ -29,10 +29,19 @@ export interface VocabularyItem {
   definition: string;
 }
 
+export interface QuizQuestion {
+  question: string;
+  options: string[];
+  answer: number; // index into options
+}
+
 export interface LeveledText {
   title: string;
   text: string;
   vocabulary: VocabularyItem[];
+  // Comprehension questions — only present on content generated after the
+  // quiz step was added to the pipeline.
+  questions?: QuizQuestion[];
 }
 
 export type LanguageVersions = Record<Level, LeveledText>;

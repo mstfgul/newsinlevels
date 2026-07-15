@@ -1,12 +1,14 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import type { Article, Language, Level } from "@/lib/types";
 import { LANGUAGE_LABELS, LEVELS, resolveLanguage } from "@/lib/types";
 import { LEVEL_DESCRIPTIONS } from "@/lib/levels";
 import { usePreferences } from "./Preferences";
 import { LevelLadder } from "./LevelLadder";
 import { HighlightedText } from "./HighlightedText";
+import { MiniQuiz } from "./MiniQuiz";
 
 function bodyClass(level: Level): string {
   return level === "A1" || level === "A2"
@@ -46,9 +48,20 @@ function ComparePicker<T extends string>({
   );
 }
 
-export function ArticleReader({ article }: { article: Article }) {
+export function ArticleReader({
+  article,
+  fixedLanguage,
+  basePath,
+}: {
+  article: Article;
+  // Pins the reader to one language edition (the /…/de/ pages); without it
+  // the reader follows the visitor's language preference.
+  fixedLanguage?: Language;
+  // The article's canonical path, used to link the language editions.
+  basePath?: string;
+}) {
   const { language, level, setLevel } = usePreferences();
-  const lang = resolveLanguage(article.languages, language);
+  const lang = fixedLanguage ?? resolveLanguage(article.languages, language);
   const version = article.languages[lang]![level];
   const wordCount = version.text.split(/\s+/).length;
   const minutes = Math.max(1, Math.round(wordCount / 160));
@@ -84,7 +97,7 @@ export function ArticleReader({ article }: { article: Article }) {
           {level} · {LEVEL_DESCRIPTIONS[level]} · {wordCount} words · ~{minutes}{" "}
           min
         </p>
-        <div className="flex gap-2 print:hidden">
+        <div className="flex flex-wrap gap-2 print:hidden">
           <button
             type="button"
             onClick={() => window.print()}
@@ -107,9 +120,33 @@ export function ArticleReader({ article }: { article: Article }) {
         </div>
       </div>
 
-      {lang !== language && (
+      {!fixedLanguage && lang !== language && (
         <p className="mt-2 font-mono text-xs uppercase tracking-widest text-margin-red">
           {LANGUAGE_LABELS[language]} version coming soon — showing English
+        </p>
+      )}
+
+      {/* Crawlable links between the language editions of this story. */}
+      {basePath && availableLanguages.length > 1 && (
+        <p className="mt-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+          Read in:{" "}
+          {availableLanguages.map((l, i) => (
+            <span key={l}>
+              {i > 0 && " · "}
+              {l === lang ? (
+                <span className="text-foreground underline underline-offset-4">
+                  {LANGUAGE_LABELS[l]}
+                </span>
+              ) : (
+                <Link
+                  href={l === "en" ? basePath : `${basePath}${l}/`}
+                  className="transition-colors hover:text-foreground"
+                >
+                  {LANGUAGE_LABELS[l]}
+                </Link>
+              )}
+            </span>
+          ))}
         </p>
       )}
 
@@ -180,7 +217,7 @@ export function ArticleReader({ article }: { article: Article }) {
           )}
 
           {!compare || !compareVersion ? (
-            <div key={`${lang}-${level}`} className="level-swap">
+            <div key={`${lang}-${level}`} lang={lang} className="level-swap">
               {article.quote ? (
                 <blockquote className="pull-quote">
                   <p>{version.title}</p>
@@ -204,6 +241,7 @@ export function ArticleReader({ article }: { article: Article }) {
             <div className="grid gap-10 md:grid-cols-2 md:gap-0">
               <div
                 key={`${lang}-${level}`}
+                lang={lang}
                 className="level-swap md:pr-7"
               >
                 <p className="mb-3 font-mono text-xs uppercase tracking-widest text-muted-foreground">
@@ -238,6 +276,7 @@ export function ArticleReader({ article }: { article: Article }) {
                 </div>
                 <div
                   key={`${compareLang}-${compareLevel}`}
+                  lang={compareLang}
                   className="level-swap"
                 >
                   <h2 className="text-xl font-bold leading-tight tracking-tight">
@@ -286,6 +325,20 @@ export function ArticleReader({ article }: { article: Article }) {
               </div>
             ))}
           </dl>
+        </section>
+      )}
+
+      {!compare && version.questions && version.questions.length > 0 && (
+        <section className="mt-10 print:hidden">
+          <h2 className="mb-1 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+            Comprehension check · {level}
+          </h2>
+          <p className="mb-4 text-sm text-muted-foreground">
+            Finished reading? See how much stuck.
+          </p>
+          <div className="rounded-lg border border-border bg-card p-5 sm:p-6" lang={lang}>
+            <MiniQuiz key={`${lang}-${level}`} questions={version.questions} />
+          </div>
         </section>
       )}
     </article>

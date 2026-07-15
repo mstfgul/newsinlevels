@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { getFilm, getFilmIndex, recentWindow } from "@/lib/data";
-import { ArticleReader } from "@/components/ArticleReader";
+import { ArticlePageBody } from "@/components/ArticlePage";
 import { articleMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -14,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const { id } = await params;
-  return articleMetadata(getFilm(id), `/films/${id}/`);
+  return articleMetadata(getFilm(id), "films");
 }
 
 export default async function FilmPage({
@@ -23,17 +22,5 @@ export default async function FilmPage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const film = getFilm(id);
-
-  return (
-    <div>
-      <Link
-        href="/films/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
-      >
-        ← Film Club
-      </Link>
-      <ArticleReader article={film} />
-    </div>
-  );
+  return <ArticlePageBody article={getFilm(id)} section="films" />;
 }

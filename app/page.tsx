@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import {
   getArtIndex,
   getBookIndex,
@@ -8,6 +9,12 @@ import {
 } from "@/lib/data";
 import { TodayDesk } from "@/components/TodayDesk";
 import { Highlight } from "@/components/PageIntro";
+import { JsonLd } from "@/components/JsonLd";
+import { SITE_URL, webSiteJsonLd } from "@/lib/seo";
+
+export const metadata: Metadata = {
+  alternates: { canonical: `${SITE_URL}/` },
+};
 
 function formatDateline(date: string): string {
   return new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
@@ -37,6 +44,7 @@ export default function Home() {
 
   return (
     <div className="flex min-h-[calc(100dvh-17rem)] flex-col justify-center lg:relative lg:left-1/2 lg:w-[min(calc(100vw-3rem),64rem)] lg:-translate-x-1/2">
+      <JsonLd data={webSiteJsonLd()} />
       {/* What this place is, jotted at the top of the page in pencil. */}
       <p
         className="hand-note mx-auto mb-9 max-w-md rotate-[-0.6deg] text-center lg:max-w-none"

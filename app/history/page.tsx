@@ -3,12 +3,14 @@ import { getHistoryEvent, getHistoryIndex } from "@/lib/data";
 import { HistoryList } from "@/components/HistoryList";
 import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "On This Day — Any Text in Levels",
+export const metadata: Metadata = pageMetadata({
+  title: "On This Day — history told at your level (A1–C2)",
   description:
-    "One historical event a day, told at CEFR levels A1–C2 in English, German, French and Spanish.",
-};
+    "What happened on this day in history, told in simple English, German, French and Spanish at CEFR levels A1–C2. Learn a language through history, with vocabulary and exercises.",
+  path: "/history/",
+});
 
 export default function HistoryPage() {
   const entries = getHistoryIndex();

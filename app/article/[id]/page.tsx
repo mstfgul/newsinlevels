@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { getArticle, getIndex, recentWindow } from "@/lib/data";
-import { ArticleReader } from "@/components/ArticleReader";
+import { ArticlePageBody } from "@/components/ArticlePage";
 import { articleMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -14,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const { id } = await params;
-  return articleMetadata(getArticle(id), `/article/${id}/`);
+  return articleMetadata(getArticle(id), "article");
 }
 
 export default async function ArticlePage({
@@ -23,17 +22,5 @@ export default async function ArticlePage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const article = getArticle(id);
-
-  return (
-    <div>
-      <Link
-        href="/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
-      >
-        ← All articles
-      </Link>
-      <ArticleReader article={article} />
-    </div>
-  );
+  return <ArticlePageBody article={getArticle(id)} section="article" />;
 }

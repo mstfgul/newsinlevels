@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { getArtIndex, getArtwork, recentWindow } from "@/lib/data";
-import { ArticleReader } from "@/components/ArticleReader";
+import { ArticlePageBody } from "@/components/ArticlePage";
 import { articleMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -14,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const { id } = await params;
-  return articleMetadata(getArtwork(id), `/art/${id}/`);
+  return articleMetadata(getArtwork(id), "art");
 }
 
 export default async function ArtworkPage({
@@ -23,17 +22,5 @@ export default async function ArtworkPage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const artwork = getArtwork(id);
-
-  return (
-    <div>
-      <Link
-        href="/art/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
-      >
-        ← Daily Art
-      </Link>
-      <ArticleReader article={artwork} />
-    </div>
-  );
+  return <ArticlePageBody article={getArtwork(id)} section="art" />;
 }

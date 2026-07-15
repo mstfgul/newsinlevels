@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { getQuote, getQuoteIndex, recentWindow } from "@/lib/data";
-import { ArticleReader } from "@/components/ArticleReader";
+import { ArticlePageBody } from "@/components/ArticlePage";
 import { articleMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -14,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const { id } = await params;
-  return articleMetadata(getQuote(id), `/quotes/${id}/`);
+  return articleMetadata(getQuote(id), "quotes");
 }
 
 export default async function QuotePage({
@@ -23,17 +22,5 @@ export default async function QuotePage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const entry = getQuote(id);
-
-  return (
-    <div>
-      <Link
-        href="/quotes/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
-      >
-        ← Quotes
-      </Link>
-      <ArticleReader article={entry} />
-    </div>
-  );
+  return <ArticlePageBody article={getQuote(id)} section="quotes" />;
 }

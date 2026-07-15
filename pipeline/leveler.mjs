@@ -42,12 +42,12 @@ const LEVEL_GROUPS = [
 ];
 
 const LEVEL_DESCRIPTIONS = {
-  A1: `100-140 words. Grammar: present tense only (plus the verb "to be"/"to have" in their most basic forms); no subordinate clauses, no passive voice, no reported speech. Sentences: max 8 words, one idea per sentence, strict subject-verb-object order. Vocabulary: only the ~500 most frequent words of the language; zero idioms, phrasal/compound verbs or abstract nouns — if a source concept has no simple word, replace it with a short concrete description instead of a hard word.`,
-  A2: `150-200 words. Grammar: present and simple past, plus "going to"/simple future for plans; only coordinating connectors (and, but, because, so) — still no relative clauses or passive voice. Sentences: max 12 words, mostly simple with an occasional two-clause sentence joined by "and"/"but". Vocabulary: the ~1000 most frequent words plus a handful of concrete, topic-specific nouns, each made clear from context.`,
-  B1: `220-290 words. Grammar: adds present perfect and basic subordinate clauses (relative clauses with who/which/that, first-conditional "if" sentences); still no passive voice or reported speech. Sentences: 12-18 words on average, a mix of simple and one-clause-subordinate sentences. Vocabulary: everyday words plus common news/topic vocabulary (~2000-word band); any less-common term must be explained in simple words the moment it's introduced.`,
-  B2: `220-290 words. Grammar: full range of tenses, passive voice, reported speech, second/third-conditional sentences. Sentences: up to ~25 words, genuinely complex (multiple clauses, varied connectors like "although", "since", "in order to"). Vocabulary: standard news register, common idioms and phrasal verbs allowed as long as they're widely known.`,
-  C1: `220-290 words. Grammar: sophisticated structures — nominalisation, participle clauses, inversion for emphasis, nuanced connectors (nevertheless, whereas, given that, insofar as), reported speech with modal nuance. Sentences: long and varied in length and rhythm, mixing short punchy sentences with layered ones for effect. Vocabulary: rich and precise, including less-common but still natural words, in a genuine journalistic register.`,
-  C2: `220-290 words. Grammar: no simplification whatsoever — native-level control of every structure, including rhetorical devices (rhetorical questions, ellipsis, deliberate fragments for effect). Sentences: whatever length and shape a skilled native writer would choose. Vocabulary: idiomatic, precise, stylistically refined; low-frequency words, irony, understatement and nuance are all welcome where they fit.`,
+  A1: `80-110 words. Grammar: present tense only (plus the verb "to be"/"to have" in their most basic forms); no subordinate clauses, no passive voice, no reported speech. Sentences: max 8 words, one idea per sentence, strict subject-verb-object order. Vocabulary: only the ~500 most frequent words of the language; zero idioms, phrasal/compound verbs or abstract nouns — if a source concept has no simple word, replace it with a short concrete description instead of a hard word.`,
+  A2: `120-160 words. Grammar: present and simple past, plus "going to"/simple future for plans; only coordinating connectors (and, but, because, so) — still no relative clauses or passive voice. Sentences: max 12 words, mostly simple with an occasional two-clause sentence joined by "and"/"but". Vocabulary: the ~1000 most frequent words plus a handful of concrete, topic-specific nouns, each made clear from context.`,
+  B1: `175-230 words. Grammar: adds present perfect and basic subordinate clauses (relative clauses with who/which/that, first-conditional "if" sentences); still no passive voice or reported speech. Sentences: 12-18 words on average, a mix of simple and one-clause-subordinate sentences. Vocabulary: everyday words plus common news/topic vocabulary (~2000-word band); any less-common term must be explained in simple words the moment it's introduced.`,
+  B2: `175-230 words. Grammar: full range of tenses, passive voice, reported speech, second/third-conditional sentences. Sentences: up to ~25 words, genuinely complex (multiple clauses, varied connectors like "although", "since", "in order to"). Vocabulary: standard news register, common idioms and phrasal verbs allowed as long as they're widely known.`,
+  C1: `175-230 words. Grammar: sophisticated structures — nominalisation, participle clauses, inversion for emphasis, nuanced connectors (nevertheless, whereas, given that, insofar as), reported speech with modal nuance. Sentences: long and varied in length and rhythm, mixing short punchy sentences with layered ones for effect. Vocabulary: rich and precise, including less-common but still natural words, in a genuine journalistic register.`,
+  C2: `175-230 words. Grammar: no simplification whatsoever — native-level control of every structure, including rhetorical devices (rhetorical questions, ellipsis, deliberate fragments for effect). Sentences: whatever length and shape a skilled native writer would choose. Vocabulary: idiomatic, precise, stylistically refined; low-frequency words, irony, understatement and nuance are all welcome where they fit.`,
 };
 
 const LEVEL_SPECS_FOOTER = `Across these levels: sentence length and grammar are the primary signal of difficulty, not just word count — a text that hits its word count but reuses flatter, simpler sentence patterns from a lower level is wrong for its label. Vary sentence length naturally within a level's stated range rather than making every sentence the same length. Word counts are minimums to respect, not targets to stop short of: each level's text MUST reach at least the lower bound of its range. Develop the material fully — add context, background and consequences at higher levels rather than padding with repetition.`;
@@ -101,11 +101,37 @@ const QUOTE_WORD_COUNTS = {
   C2: "220-300 words.",
 };
 
-const WORD_BOUNDS = { A1: 100, A2: 150, B1: 220, B2: 220, C1: 220, C2: 220 };
+const WORD_BOUNDS = { A1: 80, A2: 120, B1: 175, B2: 175, C1: 175, C2: 175 };
 const QUOTE_WORD_BOUNDS = { A1: 50, A2: 75, B1: 100, B2: 140, C1: 180, C2: 220 };
 
 function countWords(text) {
   return text.trim().split(/\s+/).filter(Boolean).length;
+}
+
+/**
+ * Comprehension questions are a nice-to-have on top of the text itself, so a
+ * malformed batch is dropped (with a warning) rather than failing the run.
+ */
+function sanitizeQuestions(entry, label) {
+  const valid = Array.isArray(entry.questions)
+    ? entry.questions.filter(
+        (q) =>
+          q &&
+          typeof q.question === "string" &&
+          Array.isArray(q.options) &&
+          q.options.length >= 2 &&
+          q.options.every((option) => typeof option === "string") &&
+          Number.isInteger(q.answer) &&
+          q.answer >= 0 &&
+          q.answer < q.options.length,
+      )
+    : [];
+  if (valid.length === 0) {
+    console.warn(`  no usable comprehension questions for ${label} — keeping the text anyway`);
+    delete entry.questions;
+    return;
+  }
+  entry.questions = valid;
 }
 
 export function readJson(file, fallback) {
@@ -124,8 +150,10 @@ Do not reuse the same content word (noun, verb or adjective) more than twice wit
 
 For every level also select 5-8 important words from YOUR text and define each one in simple ${langName} that a learner AT THAT LEVEL can understand (for A1/A2 keep definitions to a few very simple words).
 
+For every level also write 3 multiple-choice comprehension questions IN ${langName} about YOUR text at that level, phrased simply enough for a learner AT THAT LEVEL to read. Each question has exactly 3 options with exactly one correct answer; "answer" is the 0-based index of the correct option. Every question must be answerable from that level's text alone — no outside knowledge — and the wrong options must be plausible but clearly contradicted by the text. Do not copy a sentence verbatim as a question; ask about what happened, who, why or what it means.
+
 Return JSON with exactly this shape, and ALL of these levels (${levels.join(", ")}) must be present as top-level keys — never omit one:
-{${levels.map((level) => `"${level}":{"title":"...","text":"...","vocabulary":[{"word":"...","definition":"..."}]}`).join(",")}}`;
+{${levels.map((level) => `"${level}":{"title":"...","text":"...","vocabulary":[{"word":"...","definition":"..."}],"questions":[{"question":"...","options":["...","...","..."],"answer":0}]}`).join(",")}}`;
 
 const SYSTEMS = (langName) => ({
   news: `You are an expert ${langName} teacher and news editor. You rewrite real news articles in ${langName} across CEFR levels A1 to C2 so learners can read the same story at their own level. You always answer with valid JSON only.`,
@@ -235,7 +263,7 @@ async function expandLevelText(openai, kind, langCode, langName, level, entry, m
 
   const prompt = `The ${langName} text below was written for CEFR level ${level} but is too short (${currentWords} words; it needs at least ${minWords}). Expand it to reach the target by adding genuine additional content — more context, background, detail or consequences drawn from the facts below — never by repeating sentences or padding with filler. Keep the exact same CEFR level style throughout, do not drift to a simpler or more advanced register: ${levelSpec}
 ${grammarNotes}
-Keep the title/translation exactly as given below — do not change it. Update the vocabulary list (5-8 items) to match the expanded text if needed.
+Keep the title/translation exactly as given below — do not change it. Update the vocabulary list (5-8 items) to match the expanded text if needed, and return 3 multiple-choice comprehension questions in ${langName} about the expanded text (3 options each, "answer" = 0-based index of the correct one, answerable from the text alone).
 
 ORIGINAL TITLE: ${entry.title}
 
@@ -247,7 +275,7 @@ SOURCE TITLE: ${sourceTitle}
 BACKGROUND FACTS (for legitimate additional context — do not invent beyond these, but drawing out well-known general context or implications around them is fine):
 ${sourceText}
 
-Return JSON: {"title":"...","text":"...","vocabulary":[{"word":"...","definition":"..."}]}`;
+Return JSON: {"title":"...","text":"...","vocabulary":[{"word":"...","definition":"..."}],"questions":[{"question":"...","options":["...","...","..."],"answer":0}]}`;
 
   try {
     const response = await openai.chat.completions.create({
@@ -256,7 +284,12 @@ Return JSON: {"title":"...","text":"...","vocabulary":[{"word":"...","definition
       messages: [{ role: "user", content: prompt }],
     });
     const parsed = JSON.parse(response.choices[0].message.content);
-    if (parsed?.title && parsed?.text && Array.isArray(parsed.vocabulary)) return parsed;
+    if (parsed?.title && parsed?.text && Array.isArray(parsed.vocabulary)) {
+      sanitizeQuestions(parsed, `${level}/${langCode}/${kind} (expansion)`);
+      // An expansion that loses the questions shouldn't lose them for the level.
+      if (!parsed.questions && entry.questions) parsed.questions = entry.questions;
+      return parsed;
+    }
   } catch (error) {
     console.warn(`  expansion call failed for ${level}/${langCode}/${kind}: ${error.message}`);
   }
@@ -305,6 +338,7 @@ async function generateGroup(openai, kind, langCode, langName, levels, sourceTit
             `model response missing level ${level} for ${langCode}/${kind} (finish_reason: ${choice.finish_reason})`,
           );
         }
+        sanitizeQuestions(entry, `${level}/${langCode}/${kind}`);
       }
       parsed = candidate;
       break;

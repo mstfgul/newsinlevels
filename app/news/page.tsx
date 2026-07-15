@@ -2,12 +2,14 @@ import type { Metadata } from "next";
 import { getArticle, getIndex } from "@/lib/data";
 import { HomeView } from "@/components/HomeView";
 import { Highlight, PageIntro } from "@/components/PageIntro";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "News — Any Text in Levels",
+export const metadata: Metadata = pageMetadata({
+  title: "News in easy language — daily stories at your level (A1–C2)",
   description:
-    "Real news rewritten at CEFR levels A1–C2 in English, German, French and Spanish.",
-};
+    "Today's real news rewritten at six CEFR levels, A1 to C2, in English, German, French and Spanish. Easy news for language learners with vocabulary and comprehension questions — new stories every day, free.",
+  path: "/news/",
+});
 
 function formatDateline(date: string): string {
   return new Date(`${date}T12:00:00Z`)

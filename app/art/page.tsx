@@ -2,12 +2,14 @@ import type { Metadata } from "next";
 import { getArtIndex } from "@/lib/data";
 import { GalleryList } from "@/components/GalleryList";
 import { Highlight, PageIntro } from "@/components/PageIntro";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Daily Art — Any Text in Levels",
+export const metadata: Metadata = pageMetadata({
+  title: "Daily Art — famous paintings explained at your level (A1–C2)",
   description:
-    "One public-domain painting a day, analyzed at CEFR levels A1–C2 in English, German, French and Spanish.",
-};
+    "One famous public-domain painting a day, analysed in simple English, German, French and Spanish at CEFR levels A1–C2. Learn a language through art history, with vocabulary and exercises.",
+  path: "/art/",
+});
 
 export default function GalleryPage() {
   const entries = getArtIndex();

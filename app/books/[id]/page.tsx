@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { getBook, getBookIndex, recentWindow } from "@/lib/data";
-import { ArticleReader } from "@/components/ArticleReader";
+import { ArticlePageBody } from "@/components/ArticlePage";
 import { articleMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -14,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const { id } = await params;
-  return articleMetadata(getBook(id), `/books/${id}/`);
+  return articleMetadata(getBook(id), "books");
 }
 
 export default async function BookPage({
@@ -23,17 +22,5 @@ export default async function BookPage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const book = getBook(id);
-
-  return (
-    <div>
-      <Link
-        href="/books/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
-      >
-        ← Book Club
-      </Link>
-      <ArticleReader article={book} />
-    </div>
-  );
+  return <ArticlePageBody article={getBook(id)} section="books" />;
 }

@@ -2,12 +2,14 @@ import type { Metadata } from "next";
 import { getBookIndex } from "@/lib/data";
 import { BookList } from "@/components/BookList";
 import { Highlight, PageIntro } from "@/components/PageIntro";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Book Club — Any Text in Levels",
+export const metadata: Metadata = pageMetadata({
+  title: "Book Club — great books introduced at your level (A1–C2)",
   description:
-    "One great book a day — literature and philosophy introduced spoiler-free at CEFR levels A1–C2 in English, German, French and Spanish.",
-};
+    "One great book a day — literature and philosophy introduced spoiler-free in simple English, German, French and Spanish at CEFR levels A1–C2, with vocabulary and exercises.",
+  path: "/books/",
+});
 
 export default function BooksPage() {
   const entries = getBookIndex();

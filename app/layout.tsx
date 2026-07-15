@@ -10,7 +10,7 @@ import { PreferencesProvider } from "@/components/Preferences";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
 import { NavTabs } from "@/components/NavTabs";
 import { PomodoroClock } from "@/components/PomodoroClock";
-import { SITE_URL, SITE_NAME } from "@/lib/seo";
+import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from "@/lib/seo";
 import "./globals.css";
 
 const bricolage = Bricolage_Grotesque({
@@ -36,24 +36,35 @@ const caveat = Caveat({
   weight: ["500", "600"],
 });
 
-const DESCRIPTION =
-  "Real news, art, quotes and history rewritten at CEFR levels A1–C2 in English, German, French and Spanish.";
+const DEFAULT_TITLE =
+  "Any Text in Levels — daily news, art & stories at your level (CEFR A1–C2)";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "Any Text in Levels — learn languages with real content",
-  description: DESCRIPTION,
+  title: {
+    default: DEFAULT_TITLE,
+    template: `%s — ${SITE_NAME}`,
+  },
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
+  alternates: {
+    types: {
+      "application/rss+xml": [
+        { url: "/feed.xml", title: `${SITE_NAME} — daily feed` },
+      ],
+    },
+  },
   openGraph: {
-    title: "Any Text in Levels — learn languages with real content",
-    description: DESCRIPTION,
+    title: DEFAULT_TITLE,
+    description: SITE_DESCRIPTION,
     url: SITE_URL,
     siteName: SITE_NAME,
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: "Any Text in Levels — learn languages with real content",
-    description: DESCRIPTION,
+    title: DEFAULT_TITLE,
+    description: SITE_DESCRIPTION,
   },
 };
 
@@ -99,7 +110,40 @@ export default function RootLayout({
           </main>
           <PomodoroClock />
           <footer className="border-t border-border py-6 text-center print:hidden">
+            {/* Crawlable entry points into the reading-practice landing pages. */}
+            <p className="mb-4 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+              reading practice ·{" "}
+              <Link href="/read/english/b1/" className="underline underline-offset-4 hover:text-foreground">
+                English
+              </Link>{" "}
+              ·{" "}
+              <Link href="/read/german/b1/" className="underline underline-offset-4 hover:text-foreground">
+                Deutsch
+              </Link>{" "}
+              ·{" "}
+              <Link href="/read/french/b1/" className="underline underline-offset-4 hover:text-foreground">
+                Français
+              </Link>{" "}
+              ·{" "}
+              <Link href="/read/spanish/b1/" className="underline underline-offset-4 hover:text-foreground">
+                Español
+              </Link>
+            </p>
             <div className="flex flex-wrap items-baseline justify-center gap-x-6 gap-y-3">
+              <Link
+                href="/about/"
+                className="hand-note inline-flex items-baseline gap-1.5 rotate-[-0.5deg] transition-colors hover:text-foreground"
+                style={{ fontSize: "1.35rem" }}
+              >
+                about this notebook
+              </Link>
+              <a
+                href="/feed.xml"
+                className="hand-note inline-flex items-baseline gap-1.5 rotate-[1.2deg] transition-colors hover:text-foreground"
+                style={{ fontSize: "1.35rem" }}
+              >
+                rss
+              </a>
               <a
                 href="https://www.linkedin.com/in/mustafa-gul00/"
                 target="_blank"

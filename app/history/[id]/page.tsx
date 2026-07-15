@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { getHistoryEvent, getHistoryIndex, recentWindow } from "@/lib/data";
-import { ArticleReader } from "@/components/ArticleReader";
+import { ArticlePageBody } from "@/components/ArticlePage";
 import { articleMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -14,7 +13,7 @@ export async function generateMetadata({
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const { id } = await params;
-  return articleMetadata(getHistoryEvent(id), `/history/${id}/`);
+  return articleMetadata(getHistoryEvent(id), "history");
 }
 
 export default async function HistoryEventPage({
@@ -23,17 +22,5 @@ export default async function HistoryEventPage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const capsule = getHistoryEvent(id);
-
-  return (
-    <div>
-      <Link
-        href="/history/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
-      >
-        ← On This Day
-      </Link>
-      <ArticleReader article={capsule} />
-    </div>
-  );
+  return <ArticlePageBody article={getHistoryEvent(id)} section="history" />;
 }

@@ -3,12 +3,14 @@ import { getQuote, getQuoteIndex } from "@/lib/data";
 import { QuotesList } from "@/components/QuotesList";
 import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Quotes — Any Text in Levels",
+export const metadata: Metadata = pageMetadata({
+  title: "Quotes — famous lines translated & explained at your level (A1–C2)",
   description:
-    "A line from a great author or poet each day, translated and explained at CEFR levels A1–C2 in English, German, French and Spanish.",
-};
+    "A line from a great author or poet each day, translated and explained in simple English, German, French and Spanish at CEFR levels A1–C2, with vocabulary and exercises.",
+  path: "/quotes/",
+});
 
 export default function QuotesPage() {
   const entries = getQuoteIndex();

@@ -2,12 +2,14 @@ import type { Metadata } from "next";
 import { getFilmIndex } from "@/lib/data";
 import { FilmList } from "@/components/FilmList";
 import { Highlight, PageIntro } from "@/components/PageIntro";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Film Club — Any Text in Levels",
+export const metadata: Metadata = pageMetadata({
+  title: "Film Club — great cinema explained at your level (A1–C2)",
   description:
-    "One art-house film a day, discussed spoiler-free at CEFR levels A1–C2 in English, German, French and Spanish.",
-};
+    "One great film a day, discussed spoiler-free in simple English, German, French and Spanish at CEFR levels A1–C2. Learn a language through cinema, with vocabulary and exercises.",
+  path: "/films/",
+});
 
 export default function FilmsPage() {
   const entries = getFilmIndex();
