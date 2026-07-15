@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
 import type { Article, Language, Level } from "@/lib/types";
 import { LANGUAGE_LABELS, LEVELS, resolveLanguage } from "@/lib/types";
 import { LEVEL_DESCRIPTIONS } from "@/lib/levels";
@@ -51,14 +50,11 @@ function ComparePicker<T extends string>({
 export function ArticleReader({
   article,
   fixedLanguage,
-  basePath,
 }: {
   article: Article;
   // Pins the reader to one language edition (the /…/de/ pages); without it
   // the reader follows the visitor's language preference.
   fixedLanguage?: Language;
-  // The article's canonical path, used to link the language editions.
-  basePath?: string;
 }) {
   const { language, level, setLevel } = usePreferences();
   const lang = fixedLanguage ?? resolveLanguage(article.languages, language);
@@ -123,30 +119,6 @@ export function ArticleReader({
       {!fixedLanguage && lang !== language && (
         <p className="mt-2 font-mono text-xs uppercase tracking-widest text-margin-red">
           {LANGUAGE_LABELS[language]} version coming soon — showing English
-        </p>
-      )}
-
-      {/* Crawlable links between the language editions of this story. */}
-      {basePath && availableLanguages.length > 1 && (
-        <p className="mt-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
-          Read in:{" "}
-          {availableLanguages.map((l, i) => (
-            <span key={l}>
-              {i > 0 && " · "}
-              {l === lang ? (
-                <span className="text-foreground underline underline-offset-4">
-                  {LANGUAGE_LABELS[l]}
-                </span>
-              ) : (
-                <Link
-                  href={l === "en" ? basePath : `${basePath}${l}/`}
-                  className="transition-colors hover:text-foreground"
-                >
-                  {LANGUAGE_LABELS[l]}
-                </Link>
-              )}
-            </span>
-          ))}
         </p>
       )}
 

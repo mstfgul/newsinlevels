@@ -43,11 +43,7 @@ export function ArticlePageBody({
       >
         ← {section === "article" ? "All articles" : label}
       </Link>
-      <ArticleReader
-        article={article}
-        fixedLanguage={fixedLanguage}
-        basePath={`/${section}/${article.id}/`}
-      />
+      <ArticleReader article={article} fixedLanguage={fixedLanguage} />
     </div>
   );
 }
