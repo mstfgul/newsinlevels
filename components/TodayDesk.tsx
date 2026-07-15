@@ -112,9 +112,12 @@ export function TodayDesk({
 
   return (
     <div className="relative mx-auto flex max-w-md flex-col gap-14 lg:block lg:h-[37rem] lg:w-full lg:max-w-none">
-      {/* Lead stories, torn off the last two front pages. */}
+      {/* Lead stories, torn off the last two front pages. On phones the
+          quote card leads the desk instead, so the news pile moves down and
+          shrinks to the quote's old slot (order-*); lg keeps its hand-placed
+          board where order doesn't apply. */}
       {news.length > 0 && (
-        <div className="relative lg:absolute lg:left-0 lg:top-0 lg:w-[34%]">
+        <div className="relative order-4 w-[88%] lg:absolute lg:left-0 lg:top-0 lg:w-[34%]">
           <DeskLabel href="/news/">news</DeskLabel>
           <Pile
             items={news.map((entry) => ({
@@ -124,7 +127,7 @@ export function TodayDesk({
                 "rounded-lg border border-border bg-card p-4 shadow-sm lg:p-5",
               content: (
                 <>
-                  <h2 className="line-clamp-2 pt-1 text-lg font-bold leading-tight tracking-tight group-hover:underline group-hover:underline-offset-4 lg:line-clamp-3 lg:text-xl">
+                  <h2 className="line-clamp-2 pt-1 text-base font-bold leading-tight tracking-tight group-hover:underline group-hover:underline-offset-4 lg:line-clamp-3 lg:text-xl">
                     {entry.titles[language] ?? entry.titles.en}
                   </h2>
                   {entry.image && (
@@ -145,7 +148,7 @@ export function TodayDesk({
       {/* Film, book and art: three small posters side by side on phones; on
           lg the wrapper dissolves (display: contents) and each pile takes
           its hand-placed spot. */}
-      <div className="flex gap-2.5 lg:contents">
+      <div className="order-2 flex gap-2.5 lg:contents">
         {/* The film posters, one pinned over the other like at the cinema door. */}
         {film.length > 0 && (
           <div className="relative min-w-0 flex-1 lg:absolute lg:left-[38%] lg:top-0 lg:w-[19%] lg:flex-none">
@@ -235,7 +238,7 @@ export function TodayDesk({
 
       {/* On-this-day facts on ruled index cards. */}
       {history.length > 0 && (
-        <div className="relative w-[88%] lg:absolute lg:bottom-0 lg:left-[2%] lg:w-[28%]">
+        <div className="relative order-3 w-[88%] lg:absolute lg:bottom-0 lg:left-[2%] lg:w-[28%]">
           <DeskLabel href="/history/">on this day</DeskLabel>
           <Pile
             items={history.map((entry) => ({
@@ -282,7 +285,7 @@ export function TodayDesk({
 
       {/* Quote cards: the author's portrait pasted beside their words. */}
       {quote.length > 0 && (
-        <div className="relative w-[88%] lg:absolute lg:bottom-[3%] lg:left-[33%] lg:w-[24%]">
+        <div className="relative order-1 lg:absolute lg:bottom-[3%] lg:left-[33%] lg:w-[24%]">
           <DeskLabel href="/quotes/">quote of the day</DeskLabel>
           <Pile
             items={quote.map((entry) => ({
@@ -293,7 +296,7 @@ export function TodayDesk({
               content: (
                 <div className="flex items-start gap-3 pt-1">
                   {entry.image && (
-                    <figure className="clipping-mini w-16 shrink-0 rotate-[-2deg] lg:w-14">
+                    <figure className="clipping-mini w-20 shrink-0 rotate-[-2deg] lg:w-14">
                       <div className="aspect-[3/4] overflow-hidden">
                         <img
                           src={entry.image}
@@ -306,7 +309,7 @@ export function TodayDesk({
                   )}
                   <div className="min-w-0 flex-1">
                     <p
-                      className="line-clamp-3 text-base italic leading-snug lg:text-lg"
+                      className="line-clamp-4 text-lg italic leading-snug lg:line-clamp-3"
                       style={{ fontFamily: "var(--font-literata)" }}
                     >
                       &ldquo;{entry.titles[language] ?? entry.titles.en}&rdquo;
@@ -331,7 +334,7 @@ export function TodayDesk({
       {/* The date, jotted in the corner of the page. */}
       {dateline && (
         <p
-          className="hand-note pr-1 text-right lg:absolute lg:bottom-0 lg:right-[1%] lg:pr-0"
+          className="hand-note order-5 pr-1 text-right lg:absolute lg:bottom-0 lg:right-[1%] lg:pr-0"
           style={{ fontSize: "1.3rem" }}
         >
           {dateline}
