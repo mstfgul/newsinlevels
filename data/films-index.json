@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-15-the-bitter-tears-of-petra-von-kant-rainer-werner-fassbinder",
+    "date": "2026-07-15",
+    "director": "Rainer Werner Fassbinder",
+    "image": "https://image.tmdb.org/t/p/w780/bkxrRfXaoTvZObG1Gd91x2mnmFX.jpg",
+    "titles": {
+      "en": "The Bitter Tears of Petra von Kant",
+      "de": "Die bitteren Tränen der Petra von Kant",
+      "fr": "Les Larmes Amères de Petra von Kant",
+      "es": "Las lágrimas amargas de Petra von Kant"
+    }
+  },
+  {
     "id": "2026-07-14-the-earrings-of-madame-de-max-ophuls",
     "date": "2026-07-14",
     "director": "Max Ophüls",
