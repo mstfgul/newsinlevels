@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import {
   Bricolage_Grotesque,
@@ -7,6 +7,7 @@ import {
   Caveat,
 } from "next/font/google";
 import { PreferencesProvider } from "@/components/Preferences";
+import { RegisterSW } from "@/components/RegisterSW";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
 import { NavTabs } from "@/components/NavTabs";
 import { PomodoroClock } from "@/components/PomodoroClock";
@@ -66,6 +67,19 @@ export const metadata: Metadata = {
     title: DEFAULT_TITLE,
     description: SITE_DESCRIPTION,
   },
+  appleWebApp: {
+    capable: true,
+    title: SITE_NAME,
+    statusBarStyle: "default",
+  },
+};
+
+export const viewport: Viewport = {
+  // The paper colour of the notebook, so the browser chrome blends in.
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#fcfbf7" },
+    { media: "(prefers-color-scheme: dark)", color: "#161f1b" },
+  ],
 };
 
 export default function RootLayout({
@@ -79,6 +93,7 @@ export default function RootLayout({
       className={`${bricolage.variable} ${literata.variable} ${plexMono.variable} ${caveat.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <RegisterSW />
         <PreferencesProvider>
           <header className="border-b border-border print:hidden">
             <div className="mx-auto max-w-3xl px-4 py-4">

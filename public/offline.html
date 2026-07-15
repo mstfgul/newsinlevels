@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Offline — Any Text in Levels</title>
+    <style>
+      :root {
+        --background: #fcfbf7;
+        --foreground: #26221a;
+        --muted: #7a7466;
+        --margin-red: #e0503a;
+        --grid: rgba(120, 110, 90, 0.1);
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background: #161f1b;
+          --foreground: #e8e4d8;
+          --muted: #9a948a;
+          --margin-red: #d9705f;
+          --grid: rgba(200, 200, 180, 0.07);
+        }
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: var(--background);
+        background-image: linear-gradient(var(--grid) 1px, transparent 1px),
+          linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+        background-size: 26px 26px;
+        color: var(--foreground);
+        font-family: Georgia, "Times New Roman", serif;
+        text-align: center;
+        padding: 2rem;
+        box-sizing: border-box;
+      }
+      .page {
+        max-width: 26rem;
+        border-left: 2px solid var(--margin-red);
+        padding-left: 1.5rem;
+        text-align: left;
+      }
+      h1 {
+        font-size: 1.6rem;
+        margin: 0 0 0.75rem;
+      }
+      p {
+        color: var(--muted);
+        line-height: 1.6;
+        margin: 0 0 1.25rem;
+      }
+      a {
+        color: var(--foreground);
+        text-underline-offset: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <h1>You&rsquo;re offline</h1>
+      <p>
+        This page isn&rsquo;t in your notebook yet. Stories you&rsquo;ve read
+        before are saved and still open without a connection &mdash; or try
+        again once you&rsquo;re back online.
+      </p>
+      <p><a href="/">&larr; Back to the desk</a></p>
+    </div>
+  </body>
+</html>
