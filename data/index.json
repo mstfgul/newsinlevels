@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-15-strait-of-hormuz-faultline-exposes-weakness-of-the-us-iran-d",
+    "date": "2026-07-15",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Conflict Over Control of the Strait of Hormuz",
+      "de": "Die Probleme im Hormus",
+      "fr": "Les Complexités de l'accord entre l'Iran et les États-Unis",
+      "es": "El conflicto en el estrecho de Ormuz"
+    }
+  },
+  {
+    "id": "2026-07-15-trump-retreat-over-hormuz-tolls-suggests-he-is-struggling-to",
+    "date": "2026-07-15",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump's Recent Proposal Regarding Fees in the Strait of Hormuz",
+      "de": "Die neusten Entwicklungen im Iran-Konflikt",
+      "fr": "L'impact du changement d'avis de Trump sur l'Iran",
+      "es": "Trump y los peajes en Hormuz: una situación complicada"
+    }
+  },
+  {
+    "id": "2026-07-15-trump-threatens-to-bomb-bridges-and-power-plants-unless-iran",
+    "date": "2026-07-15",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump Makes Threats Against Iran",
+      "de": "Trump warnt Iran vor militärischen Angriffen",
+      "fr": "Les menaces de Trump contre l'Iran : une escalade inquiétante",
+      "es": "Trump aumenta la tensión con nuevas amenazas a Irán"
+    }
+  },
+  {
     "id": "2026-07-14-how-us-commerce-secretary-s-epstein-links-were-uncovered-by-",
     "date": "2026-07-14",
     "source": "BBC News",

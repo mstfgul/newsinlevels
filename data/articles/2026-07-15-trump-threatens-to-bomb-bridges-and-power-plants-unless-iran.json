@@ -1,0 +1,1361 @@
+{
+  "id": "2026-07-15-trump-threatens-to-bomb-bridges-and-power-plants-unless-iran",
+  "date": "2026-07-15",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c0/live/e8f90230-7fb4-11f1-926f-c90d1bcfbc84.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Trump and Iran Talks",
+        "text": "President Trump talks about Iran. He says he will bomb bridges and power plants. This will happen if Iran does not talk. Trump wants Iran to negotiate. Recently, the two countries shoot at each other for four days. Trump changes his mind about a money fee. He wants to block Iranian ports. Trump says it will be bad for Iran next week. Many people are worried about this. The United Nations says hurting civilians is wrong. The US military attacks Iranian targets. Some people in Iraq and Kuwait feel scared.",
+        "vocabulary": [
+          {
+            "word": "bomb",
+            "definition": "to attack with explosives"
+          },
+          {
+            "word": "power plants",
+            "definition": "places that make electricity"
+          },
+          {
+            "word": "negotiate",
+            "definition": "to discuss and make an agreement"
+          },
+          {
+            "word": "shoot",
+            "definition": "to fire a weapon"
+          },
+          {
+            "word": "ports",
+            "definition": "places where ships come and go"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Trump say he will bomb?",
+            "options": [
+              "Bridges and power plants",
+              "Schools and parks",
+              "Cars and trains"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How long do the two countries shoot at each other?",
+            "options": [
+              "Two days",
+              "Three days",
+              "Four days"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What does the United Nations say about hurting civilians?",
+            "options": [
+              "It is good",
+              "It is wrong",
+              "It is normal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump's Threat to Iran",
+        "text": "President Donald Trump makes a big threat to Iran. He says he will bomb their bridges and power plants if they do not come back to talks. This threat is serious. It comes after days of conflict between the US and Iran. They have exchanged fire for four days. Trump also changes his mind about a 20% fee on ships in the Strait of Hormuz. Now, he blockades Iranian ports again. Trump warns that it will be bad for Iran next week. The UN says that attacking civilians is a war crime. Many people worry about the situation. The US military has attacked many Iranian targets. Meanwhile, Iran attacks ships in the region. This makes many people very afraid.",
+        "vocabulary": [
+          {
+            "word": "threat",
+            "definition": "a warning to harm someone"
+          },
+          {
+            "word": "conflict",
+            "definition": "a fight or struggle"
+          },
+          {
+            "word": "worry",
+            "definition": "to feel anxious about something"
+          },
+          {
+            "word": "blockade",
+            "definition": "to stop goods from entering or leaving"
+          },
+          {
+            "word": "targets",
+            "definition": "things or places aimed at during an attack"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Trump threaten to bomb?",
+            "options": [
+              "Bridges and power plants",
+              "Schools and hospitals",
+              "Trains and roads"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many days does the conflict last?",
+            "options": [
+              "One day",
+              "Four days",
+              "Seven days"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the UN say attacking civilians is?",
+            "options": [
+              "A good action",
+              "A war crime",
+              "A normal act"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump Makes Threats Against Iran",
+        "text": "US President Donald Trump has made serious threats against Iran, declaring that he will bomb their bridges and power plants if the country does not return to talks next week. These comments have been made during a tense time, as the United States and Iran have exchanged gunfire for four consecutive days. This escalation follows an earlier decision by Trump to reverse a threat of a 20% fee on cargo shipping in the strategic Strait of Hormuz. Instead, he has resumed a blockade on Iranian ports, saying, \"Next week, it gets really bad for them.\" \n\nTrump's comments have raised significant alarm, especially since he previously threatened to bomb civilian infrastructure in Iran just a few months ago. The United Nations has stated that attacking civilians is a war crime, raising serious ethical concerns regarding these threats. Currently, the US military has targeted various Iranian military positions, and Iran has retaliated by firing missiles at US targets in the region, including locations in Jordan and Kuwait.\n\nThis ongoing conflict is not only creating fear among civilians but also affecting global markets, particularly oil prices. If the situation continues to escalate, it might disrupt shipping routes, impacting economies around the world. The situation highlights the delicate balance of power in the region and raises questions about future negotiations. The consequences of these actions could lead to increased tensions, making it even more challenging for both nations to find a peaceful resolution.",
+        "vocabulary": [
+          {
+            "word": "blockade",
+            "definition": "the act of stopping goods or people from entering or leaving an area, often in a war context."
+          },
+          {
+            "word": "escalation",
+            "definition": "an increase in intensity or seriousness, often referring to conflicts or tensions."
+          },
+          {
+            "word": "infrastructure",
+            "definition": "the basic physical systems and structures needed for the operation of a society, such as roads and power plants."
+          },
+          {
+            "word": "retaliate",
+            "definition": "to respond to an attack by doing something harmful in return."
+          },
+          {
+            "word": "consequences",
+            "definition": "the results or effects of an action or situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump threaten to bomb if Iran does not return to talks?",
+            "options": [
+              "Military bases",
+              "Bridges and power plants",
+              "Airports"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What has raised concerns about Trump's comments on attacking Iran?",
+            "options": [
+              "The economic implications",
+              "The United Nations' stance",
+              "The distance between the countries"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which waterway is mentioned as strategically important for shipping?",
+            "options": [
+              "Suez Canal",
+              "Strait of Hormuz",
+              "Panama Canal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump Threatens to Strike Iran Unless Talks Resume",
+        "text": "US President Donald Trump has issued a severe warning to Iran, claiming that if the country fails to re-engage in negotiations, he will target its bridges and power plants next week. These alarming remarks were made during a Fox News interview, coinciding with a fourth consecutive day of hostilities between the two nations. Previously, Trump had backed down from a proposal to charge a 20% fee on cargo shipping in the Strait of Hormuz but recently resumed the blockade of Iranian ports. He stated, \"Next week it gets really bad for them,\" and that the US would destroy all Iranian power infrastructures unless negotiations take place. Back in April, he had also threatened to bomb civilian facilities in Iran. In response, UN human rights chief Volker Türk emphasized that attacking civilians is considered a war crime under international law. The Geneva Conventions strictly prohibit assaults on essential civilian sites. Following a recent military action involving US strikes on Iranian targets, tensions heightened as Iran launched missiles at US interests in Jordan and Bahrain. This escalating situation has raised concerns regarding the safety of trade routes and overall stability in the Gulf region.",
+        "vocabulary": [
+          {
+            "word": "issued",
+            "definition": "gave out or announced"
+          },
+          {
+            "word": "hostilities",
+            "definition": "conflicts or fights"
+          },
+          {
+            "word": "infrastructures",
+            "definition": "basic facilities like bridges and power plants"
+          },
+          {
+            "word": "emphasized",
+            "definition": "stressed or highlighted"
+          },
+          {
+            "word": "prohibit",
+            "definition": "forbid or stop something from happening"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What will Trump target if Iran does not resume talks?",
+            "options": [
+              "Power plants and bridges",
+              "Schools and hospitals",
+              "Military bases"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Trump's previous threat involve?",
+            "options": [
+              "Charging a fee on shipping",
+              "Banning all trade",
+              "Destroying military bases"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who mentioned that attacking civilians is a war crime?",
+            "options": [
+              "Volker Türk",
+              "Donald Trump",
+              "Kazem Gharibabadi"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump’s Stark Warning to Iran on Infrastructure Attacks",
+        "text": "In a pointed interview with Fox News, US President Donald Trump announced that he would order strikes on Iran’s bridges and power plants if the nation does not return to the negotiating table promptly. This assertion was made against a backdrop of escalating conflict, as hostilities have continued unabated for four consecutive days. Previously, Trump had retreated from a proposition to charge a 20% fee on cargo shipments traversing the vital Strait of Hormuz yet has reinstated restrictions on Iranian ports. He declared ominously, \"Next week it gets really bad for them,\" expressing intent to dismantle key infrastructures vital to the Iranian economy unless their leadership engages in dialogue. The UN human rights chief, Volker Türk, had previously underscored that such attacks on civilian infrastructure are viewed as war crimes under international law, especially according to the provisions of the Geneva Conventions. Following renewed military actions by the US, including targeted strikes on Iranian assets, tensions have further escalated as Iran retaliated by launching missiles at US facilities in Jordan and Bahrain. This precarious situation has intensified fears regarding the security of vital trade routes, thereby underscoring the fragile stability of the Gulf region.",
+        "vocabulary": [
+          {
+            "word": "assertion",
+            "definition": "a confident statement or claim"
+          },
+          {
+            "word": "unabated",
+            "definition": "continuing without any reduction in intensity"
+          },
+          {
+            "word": "reinstated",
+            "definition": "returned to a previous state or position"
+          },
+          {
+            "word": "ominously",
+            "definition": "in a way that suggests something bad will happen"
+          },
+          {
+            "word": "prec precarious",
+            "definition": "not securely held; risky or unstable"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump say he would attack if Iran does not negotiate?",
+            "options": [
+              "Bridges and power plants",
+              "Schools and hospitals",
+              "Military bases"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Volker Türk emphasize regarding attacks on civilian infrastructure?",
+            "options": [
+              "They are allowed",
+              "They are considered war crimes",
+              "They are beneficial"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where did Iran launch retaliatory missiles?",
+            "options": [
+              "To the US",
+              "At US facilities in Jordan and Bahrain",
+              "Into the ocean"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump's Provocative Threats Against Iranian Infrastructure Amid Rising Tensions",
+        "text": "In a strikingly belligerent tone during a Fox News interview, President Donald Trump articulated that he would unleash strikes upon Iran's critical infrastructure—specifically its bridges and power plants—should the nation fail to recommence negotiations with the United States. This incendiary remark follows an ongoing spiral of hostilities—a backdrop defined by four consecutive days of military tensions escalating dangerously. While Trump had initially contemplated imposing a 20% fee on all cargo traversing the strategically significant Strait of Hormuz, he subsequently relinquished this notion, only to reinstate port blockades against Iran. His assertion, \"Next week it gets really bad for them,\" encapsulates a resolve that echoes threats he previously issued regarding civilian infrastructures back in April. The UN human rights chief, Volker Türk, reiterated that any deliberate targeting of civilian entities falls squarely within the definition of a war crime under international conventions, fundamentally undermining the legitimacy of such actions. As the United States initiated renewed military operations against Iranian interests—with targeted strikes aimed at diminishing Iran’s capabilities—Tehran's response was equally aggressive, launching missiles against American targets in Jordan and Bahrain. The precarious equilibrium in the Gulf region has now been further destabilized, heightening concerns over the security of crucial trade routes, thereby illustrating the complex interplay of geopolitical power and economic ramifications at stake.",
+        "vocabulary": [
+          {
+            "word": "belligerent",
+            "definition": "hostile and aggressive"
+          },
+          {
+            "word": "incendiary",
+            "definition": "likely to provoke conflict or anger"
+          },
+          {
+            "word": "spiral",
+            "definition": "a series of events that continually worsen"
+          },
+          {
+            "word": "legitimacy",
+            "definition": "the quality of being valid or acceptable"
+          },
+          {
+            "word": "interplay",
+            "definition": "the way in which two or more things affect each other"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump threaten to attack if Iran does not negotiate?",
+            "options": [
+              "Civilian homes",
+              "Bridges and power plants",
+              "Schools and parks"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Volker Türk declare about targeting civilians?",
+            "options": [
+              "It is morally acceptable.",
+              "It constitutes a war crime.",
+              "It is encouraged."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What heightened worries about Gulf trade routes?",
+            "options": [
+              "The economy improved.",
+              "Military operations and Iranian responses increased.",
+              "Iran agreed to talk."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Trump und Iran",
+        "text": "Donald Trump ist der Präsident von den USA. Er sagt, dass er Brücken und Kraftwerke in Iran angreifen will. Das ist nächste Woche. Iran muss mit den USA sprechen. Trump redet im Fernsehen. Iran schießt auf US-Ziele. Kuwait hat Drohnen. Die USA haben auch Angriffe. Menschen in Kuwait sollen sich in Sicherheit bringen. Iran greift Schiffe an. Das ist schlecht für die Menschen. Trump sagt, dass es Probleme gibt. Ölpreise steigen. Der Weg durch die Straße von Hormuz ist wichtig.",
+        "vocabulary": [
+          {
+            "word": "Präsident",
+            "definition": "Chefin oder Chef eines Landes."
+          },
+          {
+            "word": "angreifen",
+            "definition": "mit Gewalt etwas zerstören."
+          },
+          {
+            "word": "Brücke",
+            "definition": "Bauwerk über ein Wasser oder Tal."
+          },
+          {
+            "word": "Kraftwerk",
+            "definition": "Ort, wo Strom gemacht wird."
+          },
+          {
+            "word": "Gespräch",
+            "definition": "Reden mit jemandem."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was sagt Trump, wenn Iran nicht spricht?",
+            "options": [
+              "Er will Seetage buchen.",
+              "Er will Brücken angreifen.",
+              "Er will ein neues Auto kaufen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo schießt Iran?",
+            "options": [
+              "Auf Brücken.",
+              "Auf US-Ziele.",
+              "Auf Flugzeuge."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was steigt aufgrund der Angriffe?",
+            "options": [
+              "Wasserpreise.",
+              "Ölpreise.",
+              "Hauspreise."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump droht Iran mit Angriffen",
+        "text": "US-Präsident Donald Trump droht, Iran nächste Woche anzugreifen. Er sagt, Iran muss wieder mit den USA sprechen, weil die Aggression zwischen den Ländern weitergeht. In den letzten Tagen gab es wieder Schüsse. Trump hat auch einen Plan für eine Gebühr geändert. Vorher wollte er eine 20% Gebühr auf Frachtschiffe im Persischen Golf. Jetzt plant er massive Handelsabkommen mit den Golfstaaten. Er sagt, es wird jetzt sehr schlecht für Iran, weil die USA die Militärpräsenz erhöhen. Kuwait und Bahrain sind nervös, denn Kuwait hat Drohnen gefunden, die aus Iran kamen. Die USA haben einige iranische Militärziele angegriffen, um den Druck auf Iran zu erhöhen. Die Ölpreise steigen wegen der Probleme im Persischen Golf. Der Wasserweg ist sehr wichtig für den Handel, weil viele Schiffe dort fahren. Mitarbeiter von Donald Trump sagen, dass die USA die Kontrolle über die Straße von Hormuz behalten wollen, um die Sicherheit zu garantieren.",
+        "vocabulary": [
+          {
+            "word": "Aggression",
+            "definition": "Feindliche Handlungen zwischen Ländern"
+          },
+          {
+            "word": "Gebühr",
+            "definition": "Ein Preis, der für einen Dienst oder eine Nutzung gezahlt wird"
+          },
+          {
+            "word": "Militärpräsenz",
+            "definition": "Die Anwesenheit von Soldaten und Militär in einem Gebiet"
+          },
+          {
+            "word": "Drohne",
+            "definition": "Ein unbemanntes Flugzeug, das kontrolliert werden kann"
+          },
+          {
+            "word": "Ölpreise",
+            "definition": "Die Preise, die für Öl gezahlt werden müssen"
+          },
+          {
+            "word": "Handelsabkommen",
+            "definition": "Ein Vertrag zwischen Ländern zur Regelung des Handels"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Worum droht Trump Iran zu attackieren?",
+            "options": [
+              "Weil sie mit den USA sprechen sollen",
+              "Weil sie mehr Öl brauchen",
+              "Weil Kuwait nervös ist"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat Kuwait gefunden?",
+            "options": [
+              "Militärbasen",
+              "Drohnen",
+              "Schiffe"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum steigen die Ölpreise?",
+            "options": [
+              "Wegen mehr Handel",
+              "Wegen der Probleme im Persischen Golf",
+              "Wegen der Gespräche mit Iran"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump warnt Iran vor militärischen Angriffen",
+        "text": "US-Präsident Donald Trump hat letzte Woche eine ernsthafte Warnung an Iran ausgesprochen. Er drohte, dass er Brücken und Kraftwerke angreifen würde, wenn das Land nicht bald wieder Gespräche aufnimmt. Der Konflikt zwischen den USA und Iran verschärft sich, da es seit vier Tagen zu Auseinandersetzungen kommt. In diesen Tagen hat Iran amerikanische Schiffe angegriffen, was zu einem Anstieg der Ölpreise geführt hat. Dies ist besonders besorgniserregend für Kuwait und Bahrain, die ebenfalls militärisch aktiv sind. Kuwait hat angreifen drohende Drohnen abgefangen, während Bahrain Bürger auffordert, sich in Sicherheit zu bringen. In der letzten Zeit wurde auch berichtet, dass Trump ursprünglich einen Plan für eine Gebühr in der Straße von Hormuz zurückgenommen hat, jedoch wurde diese Entscheidung jetzt geändert. Trump sagte, dass Iran sehr schwere Zeiten bevorstehen, besonders wenn die Verhandlungen nicht wieder aufgenommen werden. Er plant, sein Militär in der Region zu stärken, um die Sicherheit der Straße von Hormuz zu gewährleisten, die für den globalen Handel von entscheidender Bedeutung ist. Diese Wasserstraße verbindet das Rote Meer mit dem Persischen Golf und viele Länder sind von den dort transportierten Rohstoffen abhängig. Wenn der Konflikt weiter eskaliert, könnte das zu massiven wirtschaftlichen Folgen führen, die weit über die Region hinauswirken. Trump sagte, 'Wir werden diese Situation weiter beobachten.'",
+        "vocabulary": [
+          {
+            "word": "ansteigen",
+            "definition": "sich erhöhen; mehr werden."
+          },
+          {
+            "word": "dröhnen",
+            "definition": "ein lautes, tiefes Geräusch erzeugen."
+          },
+          {
+            "word": "eskalieren",
+            "definition": "sich zunehmend verschärfen oder ausweiten."
+          },
+          {
+            "word": "militärisch",
+            "definition": "die Armee oder das Militär betreffend."
+          },
+          {
+            "word": "Rohstoffe",
+            "definition": "natürliche Materialien, die nicht bearbeitet sind."
+          },
+          {
+            "word": "Auseinandersetzung",
+            "definition": "ein Konflikt oder Streit."
+          },
+          {
+            "word": "Verhandlungen",
+            "definition": "Gespräche, um eine Einigung zu erreichen."
+          },
+          {
+            "word": "Wasserstraße",
+            "definition": "ein Gewässer, das für Schifffahrt benutzt wird."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was drohte Trump, wenn Iran nicht wieder Gespräche aufnimmt?",
+            "options": [
+              "Er will die Wirtschaft unterstützen.",
+              "Er will Brücken und Kraftwerke angreifen.",
+              "Er will ein neues Handelsabkommen schließen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Länder sind besonders besorgt über den Konflikt?",
+            "options": [
+              "Kuwait und Ägypten.",
+              "Kuwait und Pakistan.",
+              "Kuwait und Bahrain."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was hat Kuwait in den letzten Tagen getan?",
+            "options": [
+              "Es hat den Iran um Hilfe gebeten.",
+              "Es hat angreifen drohende Drohnen abgefangen.",
+              "Es hat sich aus dem Konflikt zurückgezogen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump droht mit Angriffen auf Brücken und Kraftwerke im Iran",
+        "text": "US-Präsident Donald Trump hat angekündigt, Iran nächste Woche anzugreifen, insbesondere dessen Brücken und Kraftwerke, wenn das Land nicht zur Verhandlung zurückkehrt. Diese Äußerungen, die während eines Interviews bei Fox News gemacht wurden, fielen in die Zeit, als beide Länder bereits seit vier Tagen in Konflikt stehen. Trump hatte zuvor eine Drohung zurückgenommen, eine 20%ige Gebühr für den Schiffsverkehr durch die Straße von Hormuz einzuführen, blockierte jedoch weiterhin iranische Häfen. \"Nächste Woche wird es für sie richtig schlimm\", sagte Trump. \"Wir werden all ihre Kraftwerke und Brücken zerstören, wenn sie nicht an den Verhandlungstisch kommen.\" Bereits im April hatte Trump mit Bombenangriffen auf die zivile Infrastruktur im Iran gedroht, einschließlich Brücken und Kraftwerke. Der UN-Menschenrechtschef Volker Türk erklärte daraufhin, dass Angriffe auf Zivilisten und zivilen Einrichtungen nach internationalem Recht ein Kriegsverbrechen darstellen. Diese Aussagen werfen Fragen über die Einhaltung humanitärer Standards in Kriegszeiten auf. Trump betonte, dass die US-Verhandler ihren iranischen Gesprächspartnern am Dienstagabend mitgeteilt hatten, dass sie \"besser einen Deal machen sollen, sonst bleibt euch nichts mehr\". Die Eskalation der Rhetorik folgte, nachdem Trump ankündigte, die drohende Gebühr würde durch massive Handels- und Investitionsabkommen ersetzt, die mit den Golfstaaten abgeschlossen werden sollen.",
+        "vocabulary": [
+          {
+            "word": "ankündigen",
+            "definition": "sagen, was man machen möchte"
+          },
+          {
+            "word": "drohen",
+            "definition": "sagen, dass man etwas Schlechtes tun wird"
+          },
+          {
+            "word": "verhandeln",
+            "definition": "über etwas sprechen, um eine Einigung zu finden"
+          },
+          {
+            "word": "Blockade",
+            "definition": "wenn man etwas absperrt, sodass nichts durchkommt"
+          },
+          {
+            "word": "Zivilisten",
+            "definition": "Menschen, die nicht im Militär sind"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat Trump über den Iran gesagt?",
+            "options": [
+              "Er wird mit dem Iran verhandeln.",
+              "Er wird Angriffe auf Brücken und Kraftwerke ankündigen.",
+              "Er will Frieden schließen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer hat auf Trumps Drohung reagiert?",
+            "options": [
+              "Der UN-Menschenrechtschef.",
+              "Der iranische Präsident.",
+              "Ein amerikanischer Senator."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was plant Trump, wenn Iran nicht verhandelt?",
+            "options": [
+              "Er wird Hilfe anbieten.",
+              "Er wird militärisch angreifen.",
+              "Er wird den Krieg beenden."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump setzt Iran mit Militärschlägen unter Druck",
+        "text": "In einer aktuellen Wendung der Ereignisse hat US-Präsident Donald Trump damit gedroht, im Falle einer Fortsetzung der Verhandlungen des Irans, dessen Brücken und Kraftwerke anzugreifen. Diese Äußerungen, die in einem Interview mit Fox News gefallen sind, fielen mit einer Phase ein, in der die Spannungen zwischen beiden Nationen seit vier Tagen eskalieren. Zuvor hatte Trump bereits eine Drohung zurückgenommen, eine 20%ige Gebühr auf den Schiffsverkehr durch die strategisch bedeutende Straße von Hormuz zu erheben, und stattdessen die Blockade iranischer Häfen erneut verhängt. \"Nächste Woche wird es für sie katastrophal\", äußerte Trump und fügte hinzu, dass alle Energieinfrastrukturen zerstört würden, sofern der Iran nicht unverzüglich an den Verhandlungstisch zurückkehre. Im April hatte Trump ähnlich drastische Maßnahmen angedroht, was von UN-Menschenrechtschef Volker Türk als vermeidbares Kriegsverbrechen klassifiziert wurde. Dies wirft einige grundlegende Fragen zur humanitären Gesetzgebung und etwaigen Kriegsverbrechen auf. In der Zwischenzeit wurde durch das US Central Command erklärt, dass man zahlreiche militärische Ziele im Iran ins Visier genommen habe, um die Fähigkeit Teherans, kommerzielle Schifffahrt zu bedrohen, weiterhin zu reduzieren. Trumps Rhetorik scheint deutlich zu machen, dass er bereit ist, die wirtschaftlichen und politischen Strategien der Region drastisch zu beeinflussen.",
+        "vocabulary": [
+          {
+            "word": "eskalieren",
+            "definition": "sich verschärfen oder schlimmer werden"
+          },
+          {
+            "word": "strategisch",
+            "definition": "wichtig für den Plan oder die Taktik"
+          },
+          {
+            "word": "Blockade",
+            "definition": "Absperrung, die den Zugang verhindert"
+          },
+          {
+            "word": "drastisch",
+            "definition": "sehr stark, heftig oder extrem"
+          },
+          {
+            "word": "humanitäre",
+            "definition": "menschliche Bedürfnisse betreffend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was droht Trump dem Iran?",
+            "options": [
+              "Er will verhandeln.",
+              "Er will Brücken und Kraftwerke angreifen.",
+              "Er will Frieden schließen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie lange dauern die Spannungen schon?",
+            "options": [
+              "Zwei Tage.",
+              "Drei Tage.",
+              "Vier Tage."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wer hat Trumps Drohung als Kriegsverbrechen bezeichnet?",
+            "options": [
+              "Der US-Verteidigungsminister.",
+              "Volker Türk.",
+              "Ein iranischer Minister."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump verfolgt aggressive Militärstrategie gegen den Iran",
+        "text": "In einer bemerkenswerten Eskalation der geopolitischen Spannungen hat US-Präsident Donald Trump mit Angriffen auf irakische Brücken und Kraftwerke gedroht, falls das Iranische Regime es versäumt, sich umgehend an den Verhandlungstisch zu begeben. Diese Warnung, die während eines Interviews mit Fox News geäußert wurde und zeitlich mit militärischen Auseinandersetzungen zwischen beiden Nationen zusammentrifft, verdeutlicht Trumps unmissverständliche Strategie, die müsste die geopolitische Landschaft nachhaltig verändern. Er hatte zuvor eine ordnungsgemäß planmäßige Erhebung einer 20%igen Gebühr auf den Schiffsverkehr durch die Straße von Hormuz zurückgezogen, sich jedoch zugleich für die erneute Blockade iranischer Häfen entschieden, was das Bild eines US-Präsidenten verstärkt, der bereit ist, aggressive Maßnahmen zu ergreifen. \"Nächste Woche wird es für sie katastrophal\", erklärte Trump und fügte hinzu, sämtliche Energieinfrastrukturen würden vernichtet, sollte der Iran seine Verhandlungsbereitschaft nicht unter Beweis stellen. Im Verlauf der letzten Monate war Trump nicht nur für seine militärische Rhetorik kritisiert worden, sondern auch für seine Bereitschaft, die humanitären Standards zu untergraben, wenn es um die Art und Weise geht, wie der Iran als Gegner behandelt wird. Der UN-Menschenrechtschef Volker Türk, der Trumps frühe Drohung als potenzielles Kriegsverbrechen einstufte, unterstreicht die fragwürdige Einhaltung internationaler Normen in dieser vor dem Hintergrund eines anhaltenden Konflikts. Die drohende Zerschlagung der iranischen Energieinfrastruktur ist nicht nur eine vermeintliche Warnung, sondern könnte wie eine Delikatesse betrachtet werden, die den Schattendriften zwischen dem militärischen und dem diplomatischen Bereich bei einem latenten Konflikt zwischen den beiden Nationen verdeutlicht.",
+        "vocabulary": [
+          {
+            "word": "geopolitisch",
+            "definition": "die politischen und geografischen Beziehungen zwischen Ländern"
+          },
+          {
+            "word": "unmissverständlich",
+            "definition": "klar und deutlich, ohne Zweifel"
+          },
+          {
+            "word": "eskalation",
+            "definition": "steigende Intensität oder Anspannung"
+          },
+          {
+            "word": "relevante",
+            "definition": "von Bedeutung oder Wichtigkeit"
+          },
+          {
+            "word": "potenziell",
+            "definition": "möglich, aber nicht sicher"
+          },
+          {
+            "word": "fragwürdig",
+            "definition": "nicht vertrauenswürdig oder bedenklich"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was beabsichtigt Trump mit seinen Drohungen?",
+            "options": [
+              "Er möchte den Iran zur Verhandlung bewegen.",
+              "Er will militärische Unterstützung liefern.",
+              "Er plant eine Vereinbarung."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie reagierte die internationale Gemeinschaft auf Trumps Drohung?",
+            "options": [
+              "Es gab keine Reaktion.",
+              "Es wurden Fragen zur Einhaltung internationaler Gesetze aufgeworfen.",
+              "Die Staaten unterstützen Trump."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was könnte Trumps Strategie langfristig beeinflussen?",
+            "options": [
+              "Der Einfluss auf den Atomvertrag.",
+              "Die geopolitischen Spannungen in der Region.",
+              "Die Beziehungen zu Europa."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Trump menace l'Iran",
+        "text": "Le président américain Donald Trump est en colère. Il menace l'Iran. Il dit que les ponts et les centrales électriques sont en danger. S'ils ne parlent pas, il va attaquer. L'Iran doit revenir aux discussions. Les deux pays sont en conflit. Trump a dit cela dans une interview. Les tensions augmentent depuis plusieurs jours. Trump a aussi arrêté d'imposer un tarif de 20%. Maintenant, il bloque les ports iranien. Cela peut causer des problèmes pour de nombreuses personnes.",
+        "vocabulary": [
+          {
+            "word": "président",
+            "definition": "le chef d'un pays"
+          },
+          {
+            "word": "menace",
+            "definition": "quand quelqu'un dit qu'il va faire du mal"
+          },
+          {
+            "word": "pont",
+            "definition": "une construction pour traverser l'eau"
+          },
+          {
+            "word": "attendre",
+            "definition": "rester jusqu'à quelque chose"
+          },
+          {
+            "word": "problèmes",
+            "definition": "les choses difficiles"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le président des États-Unis ?",
+            "options": [
+              "Donald Trump",
+              "Joe Biden",
+              "Barack Obama"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "L'Iran doit faire quoi selon Trump ?",
+            "options": [
+              "Attaquer les États-Unis",
+              "Parler avec Trump",
+              "Défendre ses ponts"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que menace de détruire Trump ?",
+            "options": [
+              "Les hôpitaux",
+              "Les ponts et centrales",
+              "Les écoles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Menaces de Trump contre l'Iran",
+        "text": "Le président américain Donald Trump menace l'Iran de frapper ses ponts et centrales électriques. Il dit que cela peut arriver la semaine prochaine si l'Iran ne revient pas aux négociations. Trump veut que l'Iran reprenne les discussions pour éviter plus de conflits. Cette menace vient après plusieurs jours de tensions militaires entre les deux pays. Les tensions augmentent beaucoup et il y a eu des échanges de feu. Trump a aussi annulé une taxe de 20% sur le transport maritime, mais il bloque encore les ports iraniens. Cela a un impact sérieux sur l'économie de l'Iran. Les Etats-Unis disent au peuple iranien qu'ils doivent faire un accord. Sinon, ils auront de graves problèmes. Dans une interview, Trump rappelle que des attaques sur des infrastructures civiles sont illégales. Le ministre iranien des affaires étrangères a dit que l'Iran va défendre ses intérêts et ne va pas reculer. Les deux pays doivent continuer à dialoguer pour la paix.",
+        "vocabulary": [
+          {
+            "word": "infrastructure",
+            "definition": "Les structures nécessaires pour le fonctionnement d’un pays, comme les routes, les ponts, ou les centrales."
+          },
+          {
+            "word": "négociations",
+            "definition": "Des discussions entre deux parties pour essayer de trouver un accord."
+          },
+          {
+            "word": "conflit",
+            "definition": "Une situation où deux ou plusieurs parties sont en désaccord ou en guerre."
+          },
+          {
+            "word": "sanctions",
+            "definition": "Des mesures restrictives pour punir un pays ou une organisation, souvent économiques."
+          },
+          {
+            "word": "économie",
+            "definition": "L'ensemble des activités de production et de consommation dans un pays."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Que menace Trump de frapper ?",
+            "options": [
+              "Les écoles",
+              "Les ponts et centrales électriques",
+              "Les hôpitaux"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle taxe Trump a-t-il annulée ?",
+            "options": [
+              "Une taxe de 10%",
+              "Une taxe de 20%",
+              "Une taxe de 30%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est l'impact des menaces sur l'Iran ?",
+            "options": [
+              "Cela améliore l'économie",
+              "Cela crée des problèmes économiques",
+              "Il n'y a pas d'impact"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les menaces de Trump contre l'Iran : une escalade inquiétante",
+        "text": "Le président américain Donald Trump a récemment menacé l'Iran d'attaquer ses ponts et ses centrales électriques si le pays ne revient pas à la table des négociations. Ces commentaires ont été faits lors d'une interview à la télévision et surviennent alors que les tensions entre les deux pays augmentent depuis plusieurs jours. Trump a annulé une taxe de 20% prévue sur le transport maritime dans le détroit d'Hormuz, tout en maintenant le blocus des ports iraniens. Les négociateurs américains ont averti leurs homologues iraniens qu'ils devaient conclure un accord, sinon ils auraient de sérieux problèmes. Cette escalade des tensions soulève des inquiétudes, car cibler des infrastructures civiles est illégal selon le droit international. Les autorités américaines et iraniennes échangent des frappes de missiles et des drones, ce qui complique encore la situation. \n\nRécemment, Trump a déclaré que si l'Iran ne faisait pas preuve de bonne volonté, des attaques massives sur des infrastructures civiles seraient inévitables. En avril, les commentaires de Trump avaient déjà suscité des réactions internationales, notamment de la part du Haut-Commissaire aux droits de l'homme de l'ONU, qui a souligné que de telles attaques violent le droit humanitaire. Il est important de noter que le détroit d'Hormuz est crucial pour le commerce pétrolier mondial, et toute interruption dans cette région pourrait affecter l'approvisionnement énergétique des pays. \n\nSi les attaques se poursuivent, cela pourrait déclencher une réponse militaire de l'Iran, aggravant les tensions dans la région. De plus, ces actions pourraient également provoquer une réaction des nations alliées de l'Iran, comme la Russie ou la Chine. Il est donc essentiel que les deux pays trouvent une solution pacifique pour éviter une escalade du conflit.",
+        "vocabulary": [
+          {
+            "word": "escalade",
+            "definition": "augmentation des tensions ou des conflits."
+          },
+          {
+            "word": "infrastructure",
+            "definition": "installations ou systèmes essentiels pour le fonctionnement d'une société."
+          },
+          {
+            "word": "négociations",
+            "definition": "discussions pour parvenir à un accord."
+          },
+          {
+            "word": "blocus",
+            "definition": "interdiction d'entrer ou de sortir d'un lieu."
+          },
+          {
+            "word": "humanitaire",
+            "definition": "relatif à l'aide aux personnes en difficulté."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle a été la réaction de Trump concernant la taxe de 20% sur le transport maritime ?",
+            "options": [
+              "Il a décidé de l'annuler.",
+              "Il a proposé d'augmenter la taxe.",
+              "Il a suggéré de la maintenir."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelles actions ont été échangées entre les États-Unis et l'Iran ?",
+            "options": [
+              "Des déclarations publiques.",
+              "Des frappes de missiles et des drones.",
+              "Des accords commerciaux."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel risque est mentionné si les tensions continuent d'augmenter ?",
+            "options": [
+              "Le commerce pétrolier mondial pourrait être affecté.",
+              "Les États-Unis pourraient se retirer des négociations.",
+              "Les relations avec l'Europe pourraient s'améliorer."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump menace de frapper des infrastructures iraniennes",
+        "text": "Le président américain Donald Trump a menacé de bombarder les ponts et les centrales électriques en Iran la semaine prochaine, à moins que le pays ne reprenne des négociations. Ces propos, tenus lors d'une interview sur Fox News, interviennent alors que les deux nations échangent des tirs pour la quatrième journée consécutive. Trump a récemment annulé une menace d'imposer une redevance de 20 % sur le transport maritime dans le détroit d'Hormuz, mais a décidé de reprendre le blocus des ports iraniens.\n\nDans cette interview, il a déclaré : « La semaine prochaine, ça va vraiment mal se passer pour eux. Nous allons détruire toutes leurs centrales électriques et tous leurs ponts, sauf s’ils se réunissent pour négocier. » Lors d'une précédente déclaration en avril, Trump avait déjà menacé de frapper des infrastructures civiles en Iran. Volker Türk, le responsable des droits de l'homme de l'ONU, avait réagi en disant que « selon le droit international, attaquer délibérément des civils est un crime de guerre ». Les Conventions de Genève protègent ces sites essentiels. Trump a affirmé que les cibles énergétiques seraient les dernières, mais qu'elles seraient finalement atteintes. Cette intensification des tensions survient après que Trump a annoncé que la redevance de 20 % serait remplacée par des accords commerciaux massifs avec les États du Golfe.",
+        "vocabulary": [
+          {
+            "word": "menacer",
+            "definition": "faire peur à quelqu'un"
+          },
+          {
+            "word": "bombarder",
+            "definition": "frapper avec des bombes"
+          },
+          {
+            "word": "infrastructures",
+            "definition": "systèmes et constructions importants"
+          },
+          {
+            "word": "négociations",
+            "definition": "discussions pour trouver un accord"
+          },
+          {
+            "word": "redevance",
+            "definition": "paiement pour un service"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qu'est-ce que Trump menace de frapper en Iran?",
+            "options": [
+              "les écoles",
+              "les ponts et centrales électriques",
+              "les routes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi Trump a-t-il annulé la menace de redevance?",
+            "options": [
+              "Pour négocier",
+              "Pour frapper",
+              "Il ne l'a pas annulée"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a réagi aux propos de Trump sur les attaques civiles?",
+            "options": [
+              "le président iranien",
+              "Volker Türk",
+              "le ministre de la défense"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Les menaces de Trump à l'encontre de l'Iran : escalade des tensions internationales",
+        "text": "Le président des États-Unis, Donald Trump, a récemment exprimé des menaces explicites visant à bombarder des infrastructures cruciales en Iran, notamment des ponts et des centrales électriques, si ce pays ne consent pas à reprendre des négociations. Ces déclarations, faites lors d'une interview sur Fox News, surviennent dans un contexte de tensions croissantes entre les deux nations, marquées par des échanges de feu durant plusieurs jours consécutifs. Bien qu'il ait d'abord renoncé à l'idée d'imposer une redevance de 20 % sur les cargos traversant le détroit d'Hormuz, Trump a décidé de renouveler le blocus des ports iraniens.\n\n« La situation s'aggrave pour eux », a affirmé Trump. Il a précisé que les États-Unis cibleraient bientôt des infrastructures énergétiques de l'Iran, afin de forcer la nation à s'asseoir à la table des négociations. En réaction, Volker Türk, le responsable des droits humains de l'ONU, a qualifié ces menaces de crime de guerre. Les conventions de Genève interdisent de telles attaques, affirmant que la protection des civils est primordiale. Alors que la rhétorique devient de plus en plus agressive, Trump a également mentionné que des accords commerciaux avantageux remplaceront à terme la redevance précédemment suggérée.",
+        "vocabulary": [
+          {
+            "word": "escalade",
+            "definition": "augmentation de la tension"
+          },
+          {
+            "word": "consentir",
+            "definition": "accepter ou avoir l'accord"
+          },
+          {
+            "word": "renouveler",
+            "definition": "recommencer quelque chose"
+          },
+          {
+            "word": "cibler",
+            "definition": "viser un objectif particulier"
+          },
+          {
+            "word": "qualifier",
+            "definition": "décrire ou classer quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles infrastructures Trump menace-t-il de bombarder?",
+            "options": [
+              "les écoles",
+              "les ponts et centrales électriques",
+              "les routes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle organisation a réagi aux menaces de Trump?",
+            "options": [
+              "l'ONU",
+              "l'OTAN",
+              "l'UE"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qu'est-ce qui remplacera la redevance selon Trump?",
+            "options": [
+              "des deals commerciaux",
+              "des sanctions",
+              "des discussions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump met en garde l'Iran : une menace pour l'avenir des relations internationales",
+        "text": "Dans un climat géopolitique tendu, le président américain, Donald Trump, a récemment brandi la menace de frappes militaires ciblant les infrastructures essentielles de l'Iran, notamment ses ponts et centrales électriques, dans l'éventualité où Téhéran ne reprendrait pas rapidement les pourparlers. Cette déclaration, émise lors d'une interview diffusée par Fox News, intervient alors que les deux nations s'affrontent déjà depuis plusieurs jours, intensifiant une situation déjà volatile. Non seulement Trump a décidé de renoncer à imposer une redevance de 20 % sur les transports maritimes dans le détroit d'Hormuz, mais il a également annoncé un renouvellement du blocus sur les ports iraniens.\n\n« Si l'Iran ne se met pas à table, les conséquences seront désastreuses », a-t-il précisé, évoquant une campagne de frappes visant à déstabiliser les infrastructures énergétiques du pays tout en justifiant ses actions par la nécessité de protéger les intérêts américains. Volker Türk, Haut-Commissaire des droits de l'homme à l'ONU, a immédiatement condamné ces menaces, les qualifiant de possibles crimes de guerre, rappelant que les Conventions de Genève imposent des règles strictes en matière de protection civile en temps de conflit. Par ailleurs, la tension monte alors que Trump a promis de remplacer la redevance par de juteux accords commerciaux avec les pays du Golfe, illustrant ainsi sa stratégie économique tout en exacerbant les risques de confrontation avec Téhéran.",
+        "vocabulary": [
+          {
+            "word": "brandir",
+            "definition": "élever un objet pour faire une menace"
+          },
+          {
+            "word": "pourparlers",
+            "definition": "discussions formelles pour un accord"
+          },
+          {
+            "word": "volatile",
+            "definition": "instable et pouvant changer rapidement"
+          },
+          {
+            "word": "déstabiliser",
+            "definition": "perturber l'équilibre ou la stabilité"
+          },
+          {
+            "word": "exacerber",
+            "definition": "aggraver une situation déjà problématique"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles conséquences Trump évoque-t-il si l'Iran ne négocie pas?",
+            "options": [
+              "des conséquences désastreuses",
+              "des conséquences favorables",
+              "aucune conséquence"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a condamné les menaces de Trump?",
+            "options": [
+              "un ministre américain",
+              "Volker Türk",
+              "un général iranien"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que propose Trump en remplacement de la redevance?",
+            "options": [
+              "des accords commerciaux",
+              "une nouvelle guerre",
+              "une réduction d'impôts"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Trump amenaza a Irán",
+        "text": "El presidente de Estados Unidos, Donald Trump, es fuerte. Trump dice que atacará Irán. Él quiere bombear puentes y plantas eléctricas. Esta afirmación aparece en una entrevista. La entrevista es con Fox News. Trump quiere que Irán hable con él. Si no hablan, habrá ataques. Trump dice que los ataques son la próxima semana. Irán tiene problemas con Estados Unidos. Ambas partes se disparan. Hay un conflicto en la región. La situación es peligrosa. Muchos temen una guerra. Los ciudadanos están preocupados.",
+        "vocabulary": [
+          {
+            "word": "presidente",
+            "definition": "la persona que lidera un país"
+          },
+          {
+            "word": "planta eléctrica",
+            "definition": "lugar que produce electricidad"
+          },
+          {
+            "word": "atacar",
+            "definition": "hacer daño a alguien"
+          },
+          {
+            "word": "situación",
+            "definition": "el estado de algo"
+          },
+          {
+            "word": "conflicto",
+            "definition": "una pelea entre grupos"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el presidente de Estados Unidos?",
+            "options": [
+              "Joe Biden",
+              "Donald Trump",
+              "Barack Obama"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué quiere atacar Trump?",
+            "options": [
+              "puentes y plantas eléctricas",
+              "escuelas y casas",
+              "carreteras y coches"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Con quién habla Trump?",
+            "options": [
+              "Irán",
+              "Rusia",
+              "China"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump amenaza con ataques a Irán",
+        "text": "El presidente Donald Trump ha amenazado a Irán. Él dice que va a atacar puentes y plantas eléctricas. Estas declaraciones son de una entrevista en Fox News. La entrevista ocurrió cuando tuvo lugar un conflicto entre Estados Unidos e Irán. Durante cuatro días, los dos países se dispararon. Trump dice que la semana próxima será muy mala para Irán. Si Irán no habla, habrá ataques. Trump quiere que Irán regrese a las negociaciones porque dijo que la violencia es mala para todos. Además, el presidente también mencionó que antes hubo una amenaza sobre un costo de 20% en el comercio. Ayer, hubo ataques a objetivos militares. La situación es tensa y peligrosa ahora. La comunidad internacional está preocupada, y muchos países piden paz. Si los ataques continúan, puede haber un conflicto mayor. Los ciudadanos de Irán están asustados y esperan que todo se resuelva pronto.",
+        "vocabulary": [
+          {
+            "word": "estrategia",
+            "definition": "una forma de planear acciones para alcanzar un objetivo."
+          },
+          {
+            "word": "conflicto",
+            "definition": "una situación con desacuerdo o lucha entre dos o más partes."
+          },
+          {
+            "word": "poder",
+            "definition": "capacidad de hacer algo o influir en situaciones."
+          },
+          {
+            "word": "violencia",
+            "definition": "uso de fuerza para lastimar o controlar a otros."
+          },
+          {
+            "word": "negociaciones",
+            "definition": "diálogo entre partes para llegar a un acuerdo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué amenaza hizo Trump a Irán?",
+            "options": [
+              "Que atacará sus puentes y plantas eléctricas",
+              "Que negociará con Irán",
+              "Que aumentará los precios del petróleo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué está la comunidad internacional preocupada?",
+            "options": [
+              "Porque hay violencia en la región",
+              "Porque Trump quiere negociar",
+              "Porque Irán quiere paz"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué esperan los ciudadanos de Irán?",
+            "options": [
+              "Que todo se resuelva pronto",
+              "Que Estados Unidos ataque más",
+              "Que haya más conversaciones"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump aumenta la tensión con nuevas amenazas a Irán",
+        "text": "El presidente de Estados Unidos, Donald Trump, ha aumentado la tensión con Irán en las últimas semanas. En declaraciones recientes, amenazó con atacar puentes y plantas eléctricas si Irán no regresa a la mesa de negociaciones. Esta afirmación fue realizada durante una entrevista en Fox News, donde Trump comentó sobre la situación delicada que enfrenta la región. Durante cuatro días, ambos países se han disparado en un conflicto creciente, y esta escalada ha generado temores de un conflicto mayor. Trump ha afirmado que, si no hay conversaciones en el corto plazo, la próxima semana será muy mala para Irán. Además, el presidente ha revocado una amenaza anterior sobre un cargo del 20% en el comercio en el estrecho de Ormuz. A pesar de esto, los ataques a objetivos iraníes siguen ocurriendo. Los ataques recientes han aumentado las tensiones, haciendo que muchos países temen por un posible conflicto armado. Irán, por su parte, responde a estas amenazas diciendo que controla el estrecho de Ormuz, una vía crucial para el comercio mundial. Este enfrentamiento no solo afecta a los países involucrados, sino también a la economía global.",
+        "vocabulary": [
+          {
+            "word": "escalada",
+            "definition": "aumento o intensificación de un conflicto."
+          },
+          {
+            "word": "negociaciones",
+            "definition": "discusión entre dos o más partes para llegar a un acuerdo."
+          },
+          {
+            "word": "tensiones",
+            "definition": "situaciones de estrés o conflicto entre dos o más partes."
+          },
+          {
+            "word": "comercio",
+            "definition": "intercambio de bienes y servicios entre países o personas."
+          },
+          {
+            "word": "conflicto",
+            "definition": "una lucha o disputa entre dos o más partes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué ha amenazado hacer Trump a Irán si no hay negociaciones?",
+            "options": [
+              "Atacar puentes y represas",
+              "Reforzar los acuerdos",
+              "Negociar con otros países"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué afirmó Irán sobre su control en la región?",
+            "options": [
+              "Que ellos no controlan el estrecho",
+              "Que controlan el estrecho de Ormuz",
+              "Que necesitan ayuda de Estados Unidos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es una de las consecuencias de la situación actual en la región?",
+            "options": [
+              "Aumento de las tensiones globales",
+              "Reducción del comercio",
+              "Mejora de las relaciones internacionales"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump amenaza con bombear puentes y plantas de energía en Irán",
+        "text": "El presidente de Estados Unidos, Donald Trump, ha amenazado con atacar los puentes y plantas de energía de Irán la próxima semana si el país no regresa a las negociaciones. Este comentario fue hecho durante una entrevista con Fox News, mientras ambos países intercambiaban disparos por cuarto día consecutivo. Trump había dado marcha atrás en una amenaza de imponer un cargo del 20% a todo el tráfico comercial en el estrecho de Ormuz, pero reanudó el bloqueo de los puertos iraníes. 'La próxima semana será muy malo para ellos', dijo Trump. 'Vamos a destruir todas sus plantas de energía y puentes a menos que se sienten a negociar'. En abril, Trump ya había amenazado con atacar la infraestructura civil de Irán, lo que llevó al jefe de derechos humanos de la ONU, Volker Türk, a advertir que atacar deliberadamente a civiles es un crimen de guerra. Las Convenciones de Ginebra prohíben ataques a sitios esenciales para los civiles. Trump también comentó que 'almacenaremos los objetivos energéticos para el final, pero en última instancia los atacaremos'. La escalada de retórica se produce tras nuevas amenazas de cargo y negociaciones.",
+        "vocabulary": [
+          {
+            "word": "amenaza",
+            "definition": "Un anuncio de que alguien va a causar daño."
+          },
+          {
+            "word": "bloqueo",
+            "definition": "Cerrar o parar el acceso a un lugar."
+          },
+          {
+            "word": "infraestructura",
+            "definition": "Las estructuras básicas para el funcionamiento de un país."
+          },
+          {
+            "word": "negociaciones",
+            "definition": "Conversaciones para llegar a un acuerdo."
+          },
+          {
+            "word": "retórica",
+            "definition": "La forma de hablar o escribir para persuadir."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué va a atacar Trump si Irán no negocia?",
+            "options": [
+              "Las escuelas de Irán",
+              "Los puentes y plantas de energía de Irán",
+              "Las ciudades de Irán"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué advertencia hizo Volker Türk?",
+            "options": [
+              "Que atacar a civiles es un crimen de guerra",
+              "Que Irán ganará la guerra",
+              "Que Trump cambiará de opinión"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué decidió Trump sobre el cargo del 20%?",
+            "options": [
+              "Imponerlo de inmediato",
+              "Anularlo",
+              "Aumentarlo"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Las Amenazas de Trump a Irán: Un Escenario Escalofriante",
+        "text": "En un contexto de creciente tensión, el presidente estadounidense Donald Trump ha realizado una serie de amenazas dirigidas a la infraestructura crítica de Irán, comunicando que, de no reanudar la comunicación en las mesas de negociación, se verán afectadas tanto las plantas eléctricas como los puentes del país. Durante una entrevista emitida por Fox News, estos comentarios se realizaron en un momento en que ambas naciones se encontraban intercambiando ataques armados durante varios días consecutivos. Aunque Trump había reconsiderado una carga del 20% destinada a los envíos por el estrecho de Ormuz, decidió reformar su enfoque y establecer un bloqueo renovado a los puertos iraníes. Lo que resulta inquietante es que reafirmó su disposición a 'destruir' la infraestructura civil, ante lo cual Volker Türk, el alto comisionado de derechos humanos de la ONU, se pronunció, recordándole que las leyes internacionales condenan este tipo de agresiones. A medida que la tensión se intensifica, Trump invoca un futuro lleno de amenazas, buscando, según él, negociar desde una posición de fortaleza, al mismo tiempo que ofrece una promesa de contratos comerciales masivos para el Golfo.",
+        "vocabulary": [
+          {
+            "word": "inquietante",
+            "definition": "Que causa preocupación o angustia."
+          },
+          {
+            "word": "agresiones",
+            "definition": "Ataques o actos hostiles."
+          },
+          {
+            "word": "renovar",
+            "definition": "Rehacer algo que se había detenido o paralizado."
+          },
+          {
+            "word": "fortaleza",
+            "definition": "Fuerza o poder en una situación."
+          },
+          {
+            "word": "comunicación",
+            "definition": "El acto de hablar o intercambiar información."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué amenaza hizo Trump sobre la infraestructura de Irán?",
+            "options": [
+              "Que atacará puentes y plantas eléctricas",
+              "Que enviará ayuda humanitaria",
+              "Que firmará un acuerdo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién condenó las amenazas de Trump?",
+            "options": [
+              "Volker Türk",
+              "Un general estadounidense",
+              "El presidente de Irán"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de acuerdos mencionó Trump para el Golfo?",
+            "options": [
+              "Contratos comerciales masivos",
+              "Acuerdos educativos",
+              "Alianzas militares"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "La Ultimativa Advertencia de Trump: Un Juego Peligroso con Irán",
+        "text": "El presidente de Estados Unidos, Donald Trump, ha lanzado una advertencia inclemente: si Irán no reanuda las conversaciones diplomáticas, se enfrentará a ataques devastadores contra su infraestructura vital, incluyendo puentes y plantas eléctricas. En una reciente entrevista con Fox News, mientras ambos países se sumergían en una escalada militar sin precedentes, Trump retractó una amenaza previa de implementar un recargo del 20% sobre el tráfico comercial del estrecho de Ormuz y optó, en cambio, por reimponer un bloqueo estricto a los puertos iraníes. 'La próxima semana se tornará muy adversa para ellos', sentenció, indicando que las consecuencias de su negativa serán severas. Anteriormente, Volker Türk, el alto comisionado de derechos humanos de la ONU, había calificado tales acciones como crímenes de guerra. La comunidad internacional observa con aprensión, dados los principios de las Convenciones de Ginebra, que prohíben atacar infraestructuras esenciales. Añadió que 'reservaremos los objetivos energéticos para el último momento', revelando así su estrategia potencialmente destructiva. Mientras tanto, se intensifican sus amenazas en un contexto geopolítico turbulento, poniendo en jaque no solo el futuro de Irán, sino también la estabilidad global.",
+        "vocabulary": [
+          {
+            "word": "inclemente",
+            "definition": "Severo; duro, especialmente en condiciones climáticas."
+          },
+          {
+            "word": "devastadores",
+            "definition": "Que causa gran destrucción o devastación."
+          },
+          {
+            "word": "esencial",
+            "definition": "Fundamental; imprescindible."
+          },
+          {
+            "word": "represalias",
+            "definition": "Acciones en respuesta a un ataque; venganzas."
+          },
+          {
+            "word": "geopolítico",
+            "definition": "Relativo a la política internacional y su influencia espacial."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de infraestructura se menciona que Trump puede atacar?",
+            "options": [
+              "Hospitals y escuelas",
+              "Puentes y plantas eléctricas",
+              "Aeropuertos y estaciones de tren"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué calificó Volker Türk sobre las amenazas de Trump?",
+            "options": [
+              "Un avance diplomático",
+              "Crímenes de guerra",
+              "Una estrategia efectiva"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el efecto potencial de las amenazas sobre la estabilidad global?",
+            "options": [
+              "Podría mejorar las relaciones internacionales",
+              "Podría poner en jaque la estabilidad global",
+              "No tendrá ningún efecto"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}
