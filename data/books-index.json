@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-15-the-elegance-of-the-hedgehog-muriel-barbery",
+    "date": "2026-07-15",
+    "author": "Muriel Barbery",
+    "image": "https://covers.openlibrary.org/b/id/5698313-L.jpg",
+    "titles": {
+      "en": "The Elegance of the Hedgehog",
+      "de": "Die Eleganz des Igels",
+      "fr": "L'Élégance du hérisson",
+      "es": "La elegancia del erizo"
+    }
+  },
+  {
     "id": "2026-07-14-the-death-of-ivan-ilyich-leo-tolstoy",
     "date": "2026-07-14",
     "author": "Leo Tolstoy",
