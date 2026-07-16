@@ -1,0 +1,1357 @@
+{
+  "id": "2026-07-16-iran-targets-military-bases-as-us-launches-wave-of-strikes",
+  "date": "2026-07-16",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Iran targets military bases as US launches wave of strikes",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "US Attacks Iran",
+        "text": "On Tuesday, Trump says he will target Iran. He wants Iran to talk. Iran's leader says they will not follow bad deals. Iran needs safety in the Strait of Hormuz. The US attacks bases in Iran. They hit command centres and air sites. Explosions happen in Iran. People hear loud noises. Some drones attack Kuwait. Bahrain tells people to stay calm. The Iranian military strikes US systems in Jordan. The US also fires on a ship. The ship tries to go to Iran.",
+        "vocabulary": [
+          {
+            "word": "target",
+            "definition": "to aim at something"
+          },
+          {
+            "word": "attack",
+            "definition": "to hit or hurt someone"
+          },
+          {
+            "word": "safety",
+            "definition": "the state of being safe"
+          },
+          {
+            "word": "explosion",
+            "definition": "a loud burst or blast"
+          },
+          {
+            "word": "calm",
+            "definition": "not excited or upset"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who does Trump want to target?",
+            "options": [
+              "Iran",
+              "Iraq",
+              "Kuwait"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Iran's leader say about deals?",
+            "options": [
+              "They are good.",
+              "They are bad.",
+              "They are free."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Bahrain tell people to do?",
+            "options": [
+              "Stay calm.",
+              "Run away.",
+              "Call friends."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "US Attacks Iran's Military Bases",
+        "text": "On Tuesday, President Trump says he will target Iran’s energy if they do not talk. Iran's main negotiator, Mohammad Bagher Ghalibaf, says Iran will not follow any bad deals. He says Iran's safety is important in the Strait of Hormuz. The US strikes many bases in Iran. They hit command centres and air defence areas. People hear loud explosions in Iran. The US also attacks cities like Bandar Abbas. In the Gulf, some countries report drone attacks. Kuwait stops drones in the sky. Bahrain tells people to stay calm and find safe places. Iran also attacks US systems and fuel in Jordan. The US fires on a ship too. The ship is from Curacao and goes to a blocked port in Iran.",
+        "vocabulary": [
+          {
+            "word": "negotiator",
+            "definition": "a person who talks deals"
+          },
+          {
+            "word": "explosion",
+            "definition": "a loud burst or blast"
+          },
+          {
+            "word": "report",
+            "definition": "to tell about something"
+          },
+          {
+            "word": "drone",
+            "definition": "a flying robot"
+          },
+          {
+            "word": "blocked",
+            "definition": "not able to go through"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Trump threaten to target?",
+            "options": [
+              "Iran's energy.",
+              "Iran's people.",
+              "Iran's money."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Kuwait do in the Gulf?",
+            "options": [
+              "Stops drones.",
+              "Sends ships.",
+              "Calls US."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Bahrain ask people to do?",
+            "options": [
+              "Stay calm.",
+              "Run away.",
+              "Call friends."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The US Launches Strikes Against Iran's Military Bases",
+        "text": "On Tuesday, President Trump made a serious threat against Iran. He said that if Iran did not return to talks, the US would target its energy infrastructure. Iran's top negotiator, Mohammad Bagher Ghalibaf, responded by saying that Iran will not follow any agreements that do not help the country. He emphasized that Iran's national security depends on important arrangements in the Strait of Hormuz. The US military, known as Centcom, carried out attacks on several bases in Iran. They targeted command centres, air defence sites, and coastal surveillance facilities. People in Iran heard loud explosions throughout the day. After the strikes on Iran, US allies in the Gulf reported incidents. Kuwait's military stated it intercepted drone attacks, while Bahrain's interior ministry told citizens to stay calm and find safe places. The Iranian military also said it attacked US communication systems and fuel storage in Jordan during their latest strikes. Additionally, the US fired on a cargo ship, which was sailing toward a blocked Iranian port.",
+        "vocabulary": [
+          {
+            "word": "serious",
+            "definition": "not light or funny; important"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "the basic systems of a city or organization"
+          },
+          {
+            "word": "emphasize",
+            "definition": "to stress or highlight something"
+          },
+          {
+            "word": "intercepted",
+            "definition": "stopped something before it reached the goal"
+          },
+          {
+            "word": "cargo",
+            "definition": "goods carried on a ship or vehicle"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump threaten to target?",
+            "options": [
+              "Iran's energy infrastructure.",
+              "Iran's military leadership.",
+              "Iran's cities."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Iran's negotiator say?",
+            "options": [
+              "They will follow all deals.",
+              "They will not follow bad deals.",
+              "They are happy with the US."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Kuwait's military say it did?",
+            "options": [
+              "Intercepted drone attacks.",
+              "Launched attacks on the US.",
+              "Supported Iran."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Iran and US Engage in Military Strikes",
+        "text": "On Tuesday, President Trump issued threats to target Iran's energy infrastructure if Tehran did not return to negotiation talks. Iran's chief negotiator, Mohammad Bagher Ghalibaf, responded through state media, stating that Tehran had \"no reason\" to follow any agreement that did not serve its interests. He further emphasized that Iran's national security relied on maintaining what he termed \"Iranian arrangements\" in the crucial Strait of Hormuz. In a series of recent attacks, the United States aimed at command centers, air defense sites, and coastal surveillance locations across Iran, which included targets in the port city of Bandar Abbas and on Greater Tunb Island, as confirmed by US Central Command (Centcom). Explosions were reported throughout Iran, prompting the activation of air defenses in Tehran, according to Iranian state media. Almost immediately afterward, US allies in the Gulf region reported attacks; Kuwait's military claimed to have intercepted drone attacks, while Bahrain's interior ministry advised citizens to remain calm and seek safe locations. Additionally, the Iranian military announced that it had targeted US communication systems and fuel storage sites in Jordan during this latest offensive. In a separate incident, on Wednesday, the US disabled an unladen oil tanker registered under the Curacao flag, which Centcom stated was attempting to reach a blockaded Iranian port.",
+        "vocabulary": [
+          {
+            "word": "infrastructure",
+            "definition": "The basic systems and structures that support a country."
+          },
+          {
+            "word": "negotiation",
+            "definition": "A discussion aimed at reaching an agreement."
+          },
+          {
+            "word": "emphasize",
+            "definition": "To give special importance to something."
+          },
+          {
+            "word": "air defenses",
+            "definition": "Systems to protect against attacks from the air."
+          },
+          {
+            "word": "intercepted",
+            "definition": "To stop something before it reaches its destination."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump threaten to target?",
+            "options": [
+              "Iran's military bases",
+              "Iran's energy infrastructure",
+              "Iran's communication systems"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who is Iran's chief negotiator?",
+            "options": [
+              "Mohammad Bagher Ghalibaf",
+              "Donald Trump",
+              "Kuwait's military"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did the Iranian military target in Jordan?",
+            "options": [
+              "US oil tankers",
+              "US communication systems",
+              "US drone sites"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Escalating Hostilities Between Iran and the US",
+        "text": "On Tuesday, President Trump escalated tensions by threatening that the United States would target Iran's energy infrastructure if Tehran failed to re-engage in negotiations. In response, Iran's chief negotiator, Mohammad Bagher Ghalibaf, was reported by state media to assert that Tehran had \"no reason\" to accept any agreement that did not cater to its national interests. He underscored, furthermore, that Iran's security fundamentally relied upon preserving what he labeled as \"Iranian arrangements\" within the vital Strait of Hormuz. During the most recent military exchanges, the US struck numerous command centers, air defense installations, and coastal surveillance facilities across Iran, with notable operations reported in the port city of Bandar Abbas and on Greater Tunb Island, as affirmed by US Central Command (Centcom). Witnesses reported multiple explosions throughout Iran, resulting in the activation of air defense measures in Tehran. Almost immediately afterward, US allies in the Gulf region confirmed assaults; Kuwait's military stated that it had intercepted incoming drone attacks, while Bahrain's interior ministry advised citizens to remain calm and seek refuge in safe havens. The Iranian military subsequently claimed responsibility for striking US communication systems and fuel storage sites located in Jordan. In a related event, the US disabled an oil tanker registered in Curacao on Wednesday, which Centcom indicated was attempting to navigate toward a blockaded port in Iran.",
+        "vocabulary": [
+          {
+            "word": "escalated",
+            "definition": "Intensified or increased in severity."
+          },
+          {
+            "word": "assert",
+            "definition": "To state a fact or belief confidently."
+          },
+          {
+            "word": "fundamentally",
+            "definition": "In a basic and important way."
+          },
+          {
+            "word": "affirmed",
+            "definition": "Confirmed or validated."
+          },
+          {
+            "word": "refuge",
+            "definition": "A safe place."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump threaten to do if Iran did not negotiate?",
+            "options": [
+              "Target Iran's energy infrastructure",
+              "Bomb Iranian cities",
+              "Ignore Iran completely"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What was Ghalibaf's position on any agreement?",
+            "options": [
+              "It must be beneficial to Iran",
+              "It is not required",
+              "It must be signed quickly"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did the Iranian military claim to strike?",
+            "options": [
+              "US oil reserves",
+              "US communication systems",
+              "US troops in Iraq"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Confrontation Between Iran and the United States Intensifies",
+        "text": "In a marked escalation of geopolitical tensions, President Trump, on Tuesday, issued a stark warning that the United States would target Iran's energy infrastructure should Tehran fail to re-enter negotiations. Iran's chief negotiator, Mohammad Bagher Ghalibaf, countered this threat, asserting through state media that Tehran bore \"no obligation\" to adhere to any accord that did not serve the nation's interests. He emphasized that Iran's security hinged upon safeguarding what he referred to as \"Iranian arrangements\" within the strategically significant Strait of Hormuz. In a swift cascade of hostilities, the US conducted precision strikes against a range of military installations in Iran, comprising command centers, air defense systems, and coastal surveillance assets, with specific operations reported in the port city of Bandar Abbas and on Greater Tunb Island, as detailed by US Central Command (Centcom). Eyewitness accounts noted a series of explosive detonations resonating throughout Iran, triggering the deployment of air defense protocols in Tehran. Meanwhile, US allies in the Gulf promptly reported retaliatory actions; Kuwait's military disclosed that it had successfully intercepted multiple drone attacks, while Bahrain's interior ministry urged its citizens to remain composed and relocate to designated safe zones. In a compelling response, the Iranian military claimed it had tactically targeted US communication facilities and fuel depots located in Jordan amidst this critical exchange. Separately, the US executed maneuvers that disabled a Curacao-flagged oil tanker on Wednesday, an act Centcom asserted was conducted as the vessel endeavored to approach a blockaded Iranian port.",
+        "vocabulary": [
+          {
+            "word": "geopolitical",
+            "definition": "Related to politics and geography."
+          },
+          {
+            "word": "ascertained",
+            "definition": "Learned or discovered something."
+          },
+          {
+            "word": "safeguarding",
+            "definition": "Protecting from harm."
+          },
+          {
+            "word": "precision",
+            "definition": "Exactness; accuracy."
+          },
+          {
+            "word": "maneuvers",
+            "definition": "Planned movements; strategies."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump threaten to target if negotiations failed?",
+            "options": [
+              "Iran's military",
+              "Iran's energy infrastructure",
+              "Iran's diplomatic relations"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did Ghalibaf respond to Trump's threat?",
+            "options": [
+              "He agreed to negotiate",
+              "He stated Iran had no obligations",
+              "He threatened back"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What happened to the Curacao-flagged oil tanker?",
+            "options": [
+              "It was disabled by the US",
+              "It docked in Iran",
+              "It escaped to Kuwait"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Iran und die USA",
+        "text": "Trump sagt, Iran muss reden. Er spricht über Energie. Iran hat keinen Grund zu sprechen. Der Verhandler heißt Mohammad Bagher Ghalibaf. Er sagt, Iran hat Sicherheitsinteressen. Der Iran hat auch seine Pläne im Hormus-Gebiet. Die USA attackieren Militärstellen in Iran. Die Angriffe sind in Bandar Abbas und auf Tunb. Viele Explosionen sind überall. Iran hat Luftabwehr. Ein militärisches Flugzeug hat ein Schiff getroffen. Das Schiff hat eine andere Flagge. Der Iran will seine Systeme helfen. Amerikanische Verbündete schützen sich in der Region. Kuwait sagt, es gibt Drohnenangriffe. Bahrain bittet die Bürger um Ruhe. Der Iran greift auch US-Kommunikation an.",
+        "vocabulary": [
+          {
+            "word": "Energie",
+            "definition": "etwas, das man braucht, um zu arbeiten oder zu leben"
+          },
+          {
+            "word": "Pläne",
+            "definition": "Ideen, die man in der Zukunft machen will"
+          },
+          {
+            "word": "Hilfe",
+            "definition": "wenn man Unterstützung braucht"
+          },
+          {
+            "word": "Drohnenangriffe",
+            "definition": "Angriffe, die mit fliegenden Maschinen gemacht werden"
+          },
+          {
+            "word": "Sicherheit",
+            "definition": "Schutz vor Gefahren"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer sagt, dass Iran reden muss?",
+            "options": [
+              "Die USA",
+              "Trump",
+              "Kuwait"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo hat Iran Luftabwehr?",
+            "options": [
+              "In Kuwait",
+              "In Bandar Abbas",
+              "In Washington"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was gibt es in Bahrain?",
+            "options": [
+              "Drohnenangriffe",
+              "Bildung",
+              "Stadtleben"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Iran greift an und die USA reagieren",
+        "text": "Am Dienstag hat Trump gesagt, dass der Iran reden muss. Wenn der Iran nicht spricht, dann attackiert die USA die Energie-Infrastruktur des Landes. Iran hat einen Hauptverhandler. Er heißt Mohammad Bagher Ghalibaf. Er sagt, dass Iran keinen Grund hat, einem Abkommen zu folgen. Der Iran hat Sicherheitsinteressen im Persischen Golf und möchte seine Macht schützen. In den letzten Tagen haben die USA Militärbasen angegriffen. Diese Angriffe sind in Bandar Abbas und auf der Insel Tunb passiert. Man hat viele Explosionen gehört. Die Iraner haben ihre Luftabwehr aktiviert. Kuwait hat gesagt, dass sie Drohnen abgefangen haben, die die USA geschickt haben. Bahrain sagt, die Menschen sollen ruhig bleiben und in Sicherheit gehen. Die Spannungen zwischen Iran und den USA erhöhen sich. Beide Länder wollen ihre Ziele erreichen, aber der Konflikt könnte auch zu einer größeren Krise führen. Es bleibt abzuwarten, wie sich die Situation entwickeln wird.",
+        "vocabulary": [
+          {
+            "word": "Anerkennung",
+            "definition": "eine Bestätigung oder Akzeptierung"
+          },
+          {
+            "word": "Krise",
+            "definition": "eine ernste Situation oder einen Notfall"
+          },
+          {
+            "word": "Abkommen",
+            "definition": "eine Vereinbarung zwischen zwei oder mehreren Parteien"
+          },
+          {
+            "word": "Interessen",
+            "definition": "Wünsche oder Ziele, die jemand verfolgt"
+          },
+          {
+            "word": "Sicherheit",
+            "definition": "der Zustand, dass man niemandem gefährlich ist"
+          },
+          {
+            "word": "Angriffe",
+            "definition": "militärische Attacken auf Ziele"
+          },
+          {
+            "word": "Luftabwehr",
+            "definition": "Systeme zum Schutz gegen Luftangriffe"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Hauptverhandler für Iran?",
+            "options": [
+              "Ali Khamenei",
+              "Mohammad Bagher Ghalibaf",
+              "Hassan Rouhani"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat Kuwait gemacht?",
+            "options": [
+              "Drohnen gesendet",
+              "Drohnen abgefangen",
+              "Raketensysteme aktiviert"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat Trump über den Iran gesagt?",
+            "options": [
+              "Der Iran muss reden",
+              "Der Iran attackiert USA",
+              "USA verteidigen Kuwait"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Iran und die militärischen Spannungen mit den USA",
+        "text": "Am Dienstag, dem 3. Oktober, hat Donald Trump den Iran gewarnt, dass die USA die Energie-Infrastruktur des Landes angreifen werden, wenn Teheran nicht zu Gesprächen zurückkehrt. Der wichtigste Verhandler Irans, Mohammad Bagher Ghalibaf, hat den staatlichen Medien gesagt, dass Iran keinen Grund hat, einem Abkommen zu folgen, das dem Land nicht nützt. Der Konflikt zwischen den USA und Iran hat in den letzten Jahren zugenommen und betrifft nicht nur die beiden Länder, sondern auch die gesamte Region. Ghalibaf fügte hinzu, dass die nationale Sicherheit des Irans von den sogenannten 'iranischen Vereinbarungen' im Persischen Golf abhängt, weil dort viele wichtige Schifffahrtswege sind. Bei den neuesten Angriffen haben die USA Militärzentren und Luftabwehr in Iran angegriffen, auch in Bandar Abbas und auf der Insel Tunb. Viele Menschen in Iran haben Explosionen gehört, und die Luftabwehr hat schnell reagiert. In Kuwait hat das Militär gesagt, dass sie Drohnen abfangen konnten, die als Bedrohung gelten. In Bahrain wurde den Menschen geraten, ruhig zu bleiben und sich in Sicherheit zu bringen, weil weitere Angriffe möglich sind. Außerdem gab es einen Angriff, bei dem die USA ein unbeladenes Schiff angegriffen haben, das den Verdacht erregte, dass es zu einem blockierten iranischen Hafen fahren wollte. Diese Angriffe zeigen, wie angespannt die Situation ist und welche Risiken für die Stabilität der Region bestehen.",
+        "vocabulary": [
+          {
+            "word": "regen",
+            "definition": "etwas, das große Aufmerksamkeit auf sich zieht"
+          },
+          {
+            "word": "Schifffahrtswege",
+            "definition": "Routen, die Schiffe benutzen, um von einem Ort zum anderen zu fahren"
+          },
+          {
+            "word": "Bedrohung",
+            "definition": "eine Gefahr, die jemanden oder etwas schadet"
+          },
+          {
+            "word": "Luftabwehr",
+            "definition": "Systeme, die den Luftraum schützen und Angriffe aus der Luft verhindern"
+          },
+          {
+            "word": "regionale Stabilität",
+            "definition": "Zusammenhalt und Frieden in einer bestimmten geografischen Gegend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat den Iran gewarnt, dass die USA Angriffe planen?",
+            "options": [
+              "Wladimir Putin",
+              "Donald Trump",
+              "Mohammad Bagher Ghalibaf"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat Ghalibaf über das Abkommen gesagt?",
+            "options": [
+              "Iran hat keinen Grund, ihm zu folgen.",
+              "Iran wird dem Abkommen unbedingt folgen.",
+              "Das Abkommen ist für die USA wichtig."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was haben die Kuwaitaner gegen die Drohnen getan?",
+            "options": [
+              "Sie haben sie ignoriert.",
+              "Sie haben sie abgefangen.",
+              "Sie haben sie selbst gesteuert."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "US-Angriffe auf Iran: Spannungen im Nahen Osten",
+        "text": "Am Dienstag hat Trump gedroht, die Energieinfrastruktur Irans anzugreifen, falls Teheran nicht zu den Gesprächen zurückkehrt. Der führende Verhandlungsführer Irans, Mohammad Bagher Ghalibaf, äußerte in den staatlichen Medien, dass Teheran \"keinen Grund\" habe, einem Abkommen nachzukommen, das dem Land nicht nützt. Er betonte, dass die nationale Sicherheit Irans davon abhängt, die so genannten \"iranischen Arrangements\" im Hormus-Golf aufrechtzuerhalten. Laut Berichten des US-Zentralkommandos, hat die US-Armee Kommandostellen, Luftverteidigungsanlagen und Küstenüberwachungsstationen in ganz Iran angegriffen, unter anderem in der Hafenstadt Bandar Abbas und auf der Insel Greater Tunb. Explosionen wurden im gesamten Iran gehört und in Teheran wurden die Luftabwehrsysteme aktiviert. Kurz darauf berichteten US-Partner im Golf von weiteren Angriffen – das Militär Kuwait meldete, dass es Drohnenangriffe abgefangen habe, während das Innenministerium von Bahrain die Bürger aufforderte, ruhig zu bleiben und den nächstgelegenen sicheren Ort aufzusuchen. Die iranischen Streitkräfte erklärten zudem, dass sie US-Kommunikationssysteme und Treibstofflager in Jordanien in einem weiteren Runden von Angriffen ins Visier genommen hätten. Unabhängig davon feuerte die US-Armee am Mittwoch auf einen unbewaffneten Öltanker unter der Flagge von Curacao, der versuchte, in einen blockierten iranischen Hafen zu segeln.",
+        "vocabulary": [
+          {
+            "word": "drohen",
+            "definition": "jemandem Angst machen"
+          },
+          {
+            "word": "abkommen",
+            "definition": "eine Vereinbarung treffen"
+          },
+          {
+            "word": "angreifen",
+            "definition": "jemanden verletzen oder schädigen"
+          },
+          {
+            "word": "aufrechterhalten",
+            "definition": "etwas weiterhin bestehen lassen"
+          },
+          {
+            "word": "priorität",
+            "definition": "wichtigstes Anliegen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat Trump am Dienstag gedroht?",
+            "options": [
+              "Die Energieinfrastruktur Irans anzugreifen",
+              "Ein neues Abkommen zu schließen",
+              "Hilfe an Iran zu senden"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat der iranische Verhandlungsführer gesagt?",
+            "options": [
+              "Iran wird einem nicht vorteilhaften Abkommen folgen",
+              "Iran hat keinen Grund, einem nicht vorteilhaften Abkommen zu folgen",
+              "Iran hat Angst vor den USA"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo gab es Angriffe der US-Armee?",
+            "options": [
+              "Nur in Teheran",
+              "Vor allem in der Hafenstadt Bandar Abbas",
+              "In keiner Stadt"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Steigende Spannungen im Nahen Osten: US-Greiftruppen im Fokus",
+        "text": "Am Dienstag stellte Donald Trump deutliche Ultimaten in Aussicht, indem er die Zerstörung von Irans Energieinfrastruktur androhte, sollte Teheran keine Bereitschaft zeigen, an den Verhandlungstisch zurückzukehren. In einer Stellungnahme gegenüber iranischen Staatsmedien äußerte der führende Verhandlungsführer Mohammad Bagher Ghalibaf, dass sein Land \"keinen Grund\" sehe, einem Abkommen zuzustimmen, welches nicht dem Wohle Irans diene. Er hob zudem hervor, dass die Sicherheit des iranischen Staates unmittelbar an die Aufrechterhaltung seiner Interessen im strategisch bedeutsamen Hormus-Golf gebunden sei. In einer Reihe koordinierter Angriffe zielten die US-Streitkräfte auf Kommandozentralen, Luftabwehrsysteme und Überwachungsanlagen entlang der iranischen Küste, darunter auch bedeutende Standorte in Bandar Abbas sowie in der Nähe der Insel Greater Tunb, so das US-Zentralkommando. Explosionen wurden landesweit vernommen, und die Aktivierung der Luftverteidigungssysteme in Teheran wurde bestätigt. In der Folge berichteten US-Verbündete im Golf über Abfangoperationen; so teilte das Militär Kuwaits mit, dass es Drohnenangriffe neutralisieren konnte, während Bahrain die Bevölkerung dazu aufforderte, Ruhe zu bewahren und sich in Sicherheit zu bringen. Darüber hinaus informierten iranische Militärs, sie hätten US-Kommunikationssysteme sowie Treibstofflager in Jordanien angegriffen. In einem separaten Vorfall wurde ein unbewaffneter Öltanker, der unter der Flagge Curacaos segelte und sich in Richtung eines blockierten iranischen Hafens bewegte, von US-Truppen angegriffen und außer Gefecht gesetzt.",
+        "vocabulary": [
+          {
+            "word": "Ultimatum",
+            "definition": "eine letzte, entscheidende Bedingung"
+          },
+          {
+            "word": "Stellungnahme",
+            "definition": "eine offizielle Erklärung"
+          },
+          {
+            "word": "neutralisieren",
+            "definition": "unwirksam machen"
+          },
+          {
+            "word": "strategisch",
+            "definition": "wichtig für einen Plan oder Vorteil"
+          },
+          {
+            "word": "zielen",
+            "definition": "etwas im Visier haben"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was kündigte Trump an, wenn Iran nicht verhandelt?",
+            "options": [
+              "Angriffe auf die US-Truppen",
+              "Zerstörung der Energieinfrastruktur",
+              "Unterstützung für Iran"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagte Ghalibaf zu einem nicht vorteilhaften Abkommen?",
+            "options": [
+              "Iran wird es akzeptieren",
+              "Iran sieht keinen Grund, es zu akzeptieren",
+              "Iran plant, ein neues Abkommen zu schließen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "An welchen Orten fanden die US-Angriffe statt?",
+            "options": [
+              "Nur in Bandar Abbas",
+              "In ganz Iran, einschließlich Bandar Abbas",
+              "Nur in Teheran"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Geopolitische Spannungen eskalieren: US-Angriffe auf Iran als Reaktion auf diplomatische Blockade",
+        "text": "In einer überraschenden Wendung nahmen die geopolitischen Konflikte im Nahen Osten am Dienstag eine kritische Eskalation, als Präsident Donald Trump mit einer bedrohlichen Drohung aufwartete: Sollte der Iran nicht unverzüglich zu Verhandlungen zurückkehren, werde die Vereinigten Staaten nicht zögern, die Energieinfrastruktur Irans zu attackieren. Mohammad Bagher Ghalibaf, Irans Hauptverhandlungsführer, entgegnete in einer Stellungnahme an die staatlichen Medien, dass sein Land „keinen Grund“ habe, einem Abkommen zuzustimmen, das den nationalen Interessen nicht dienlich sei. Dies öffnete die Tür zu weiterer Unsicherheit, zumal er explizit auf die Notwendigkeit hinwies, die „iranischen Arrangements“ im strategisch unverzichtbaren Hormus-Golf zu bewahren. Laut Angaben des US-Zentralkommandos richteten sich die Angriffe auf eine Vielzahl von militärischen Zielen: Kommandozentralen, Luftabwehrstationen und Überwachungseinrichtungen entlang der irakischen Küste, insbesondere in Bandar Abbas und der Insel Greater Tunb. Explosionen durchdrangen das gesamte Land, während die Luftverteidigungssysteme in der Hauptstadt aktiviert wurden. Zeitgleich berichteten US-Alliierten im Golf über massive Angriffe, wobei Kuwait meldete, mehrere Drohnenangriffe abgefangen zu haben. Das Innenministerium Bahrains forderte die Bürger auf, Ruhe zu bewahren und sichere Orte aufzusuchen. Des Weiteren wurden Berichte veröffentlicht, dass die iranischen Militärs sich auf die Attackierung von US-Kommunikationseinrichtungen sowie Treibstoffdepots in Jordanien konzentrierten. In einer separaten militärischen Aktion eröffneten die US-Streitkräfte das Feuer auf einen unbesetzten Öltanker, der unter der Flagge Curacaos segelte und sich in Richtung eines blockierten iranischen Hafens bewegte. Diese Entwicklungen unterstreichen die zunehmende Komplexität der regionalen Machtverhältnisse und lassen Fragen über eine künftige diplomatische Lösungsfindung aufkommen.",
+        "vocabulary": [
+          {
+            "word": "eskalieren",
+            "definition": "sich dramatisch zuspitzen"
+          },
+          {
+            "word": "drohen",
+            "definition": "eine Gefahr ankündigen"
+          },
+          {
+            "word": "strategisch",
+            "definition": "für Pläne und Taktiken wesentlich"
+          },
+          {
+            "word": "Ziel",
+            "definition": "was man erreichen möchte"
+          },
+          {
+            "word": "verhandeln",
+            "definition": "Gespräche führen, um eine Einigung zu finden"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was drohte Trump dem Iran an?",
+            "options": [
+              "Angriffe auf die Regierung",
+              "Zerstörung der Energieinfrastruktur",
+              "Unterstützung für geopolitische Gegner"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was machte Ghalibaf bezüglich eines Abkommens deutlich?",
+            "options": [
+              "Es wäre für Iran vorteilhaft",
+              "Kein Grund, nicht zuzustimmen",
+              "Das Abkommen muss nationalen Interessen dienen"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Welche militärischen Ziele wurden angegriffen?",
+            "options": [
+              "Luftverteidigungsanlagen und Kommandozentralen",
+              "Schulen und öffentliche Einrichtungen",
+              "Wohngebiete und Bauten"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les attaques en Iran",
+        "text": "Mardi, Trump dit qu'il cible l'Iran. Si l'Iran ne parle pas, il attaque. Le négociateur de l'Iran est Mohammad Ghalibaf. Il dit que l'Iran ne suit pas des accords. L'Iran veut des arrangements en mer. Les États-Unis attaquent des bases militaires en Iran. Ils attaquent à Bandar Abbas et à Tunb. On entend des explosions. Les systèmes de défense de l'air démarrent à Téhéran. Les alliés des États-Unis entendent aussi des attaques. Le Koweït dit qu'il intercepte des drones. Le ministère de Bahreïn dit de rester calme. L'Iran attaque des systèmes de communication américains. Mercredi, les États-Unis blessent un tanker en mer.",
+        "vocabulary": [
+          {
+            "word": "attaques",
+            "definition": "actions violentes contre quelque chose"
+          },
+          {
+            "word": "explosions",
+            "definition": "bruits forts qui viennent d'une explosion"
+          },
+          {
+            "word": "militaires",
+            "definition": "relatif à l'armée"
+          },
+          {
+            "word": "alliés",
+            "definition": "pays qui travaillent ensemble"
+          },
+          {
+            "word": "drones",
+            "definition": "avions sans pilote"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui cible l'Iran ?",
+            "options": [
+              "L'Iran",
+              "Trump",
+              "Le Koweït"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel pays attaque des bases militaires en Iran ?",
+            "options": [
+              "L'Iran",
+              "Les États-Unis",
+              "Bahreïn"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Où sont les explosions ?",
+            "options": [
+              "À Téhéran",
+              "À Washington",
+              "À Paris"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les tensions entre les États-Unis et l'Iran",
+        "text": "Mardi, Trump a menacé de cibler l'Iran. Il disait que si l'Iran ne revenait pas aux discussions, il allait attaquer. Le négociateur en chef de l'Iran, Mohammad Bagher Ghalibaf, a dit que l'Iran n'a pas de raison de suivre des accords. Pour lui, la sécurité de l'Iran dépend de la mer d'Hormuz. Les États-Unis ont récemment attaqué des sites militaires en Iran, y compris à Bandar Abbas et sur l'île Tunb. Les explosions sont entendues dans tout le pays. Les systèmes de défense en l'air se déclenchent à Téhéran. Les alliés des États-Unis dans le Golfe, comme le Koweït, disent qu'ils interceptent des attaques de drones. Pendant ce temps, l'Iran attaque aussi des systèmes de communication des États-Unis en Jordanie. Mercredi, les États-Unis touchent un tanker de pétrole sans charge.",
+        "vocabulary": [
+          {
+            "word": "menacé",
+            "definition": "dit que quelque chose va se passer"
+          },
+          {
+            "word": "discussions",
+            "definition": "conversations pour parler d'un sujet"
+          },
+          {
+            "word": "sécurité",
+            "definition": "protection contre le danger"
+          },
+          {
+            "word": "interceptent",
+            "definition": "attrapent avant que ça arrive"
+          },
+          {
+            "word": "tanker",
+            "definition": "bateau pour transporter du pétrole"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Que va cibler Trump ?",
+            "options": [
+              "L'énergie",
+              "Les drones",
+              "La mer"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui dit que l'Iran n'a pas de raison ?",
+            "options": [
+              "Mohammad Ghalibaf",
+              "Trump",
+              "Le Koweït"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels sites les États-Unis attaquent-ils ?",
+            "options": [
+              "Des écoles",
+              "Des sites militaires",
+              "Des hôpitaux"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les récentes attaques entre les États-Unis et l'Iran",
+        "text": "Mardi, Donald Trump a menacé de cibler l'infrastructure énergétique de l'Iran. Il a dit que si Téhéran ne revenait pas aux négociations, les États-Unis allaient attaquer. Mohammad Bagher Ghalibaf, le négociateur principal de l'Iran, a expliqué que son pays n'avait aucune raison de suivre des accords qui ne sont pas bénéfiques. Pour lui, la sécurité nationale de l'Iran dépend de ce qu'il appelle des 'arrangements iraniens' dans le détroit d'Hormuz. Dans la dernière vague d'attaques, les États-Unis ont ciblé des centres de commandement et des sites de défense aérienne à travers l'Iran. Les explosions ont été entendues dans plusieurs villes, y compris Téhéran. Les alliés américains dans le Golfe, comme le Koweït et Bahreïn, ont également réagi. Le Koweït a intercepté des drones et Bahreïn a conseillé à ses citoyens de rester calmes. En réponse, l'Iran a déclaré qu'il attaquait des systèmes de communication américains en Jordanie. De plus, mercredi, les États-Unis ont tiré sur un tanker de pétrole sans charge qui tentait de se diriger vers un port bloqué en Iran.",
+        "vocabulary": [
+          {
+            "word": "infrastructure",
+            "definition": "les structures de base d'un pays"
+          },
+          {
+            "word": "négociations",
+            "definition": "parler pour trouver un accord"
+          },
+          {
+            "word": "bénéfiques",
+            "definition": "favorables ou avantageux"
+          },
+          {
+            "word": "défense aérienne",
+            "definition": "protection contre les attaques par avion"
+          },
+          {
+            "word": "port",
+            "definition": "endroit où les bateaux s'arrêtent pour charger"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi Trump menace-t-il l'Iran ?",
+            "options": [
+              "À cause d'accords non bénéfiques",
+              "À cause de l'eau",
+              "À cause de l'économie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel pays a intercepté des drones ?",
+            "options": [
+              "Bahreïn",
+              "Le Koweït",
+              "L'Iran"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que les États-Unis ont ciblé en Iran ?",
+            "options": [
+              "Des écoles",
+              "Des sites de défense aérienne",
+              "Des hôpitaux"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "L'Iran cible les bases militaires alors que les États-Unis lancent une vague de frappes",
+        "text": "Mardi, Trump a menacé de frapper les infrastructures énergétiques de l'Iran si Téhéran ne reprenait pas les pourparlers. Le principal négociateur iranien, Mohammad Bagher Ghalibaf, a déclaré aux médias d'État que Téhéran n'avait \"aucune raison\" de respecter un accord qui ne profitait pas au pays. Il a ajouté que la sécurité nationale de l'Iran dépendait de la préservation de ce qu'il a décrit comme des \"arrangements iraniens\" dans le détroit d'Hormuz. Dans la dernière série d'attaques, les États-Unis ont ciblé des centres de commandement, des sites de défense aérienne et des installations de surveillance côtière à travers l'Iran, y compris dans la ville portuaire de Bandar Abbas et sur l'île de Tunb. Le Commandement central des États-Unis (Centcom) a rapporté que des explosions avaient été entendues à travers le pays et que les défenses aériennes avaient été activées à Téhéran. Peu après, des alliés américains dans le Golfe ont rapporté des attaques ; l'armée du Koweït a indiqué avoir intercepté des drones, tandis que le ministère de l'Intérieur de Bahreïn a conseillé à la population de rester calme et de se rendre dans un endroit sûr. L'armée iranienne a également déclaré avoir ciblé des systèmes de communication américains et des installations de stockage de carburant en Jordanie. De plus, les États-Unis ont ouvert le feu et disabled un pétrolier immatriculé à Curaçao qui tentait de se diriger vers un port iranien bloqué.",
+        "vocabulary": [
+          {
+            "word": "menacé",
+            "definition": "a fait peur, a dit qu'il allait faire quelque chose de mal"
+          },
+          {
+            "word": "négociateur",
+            "definition": "personne qui discute pour trouver un accord"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "les structures de base, comme les routes et les bâtiments"
+          },
+          {
+            "word": "sécurité",
+            "definition": "protection contre le danger"
+          },
+          {
+            "word": "intercepté",
+            "definition": "capturé, arrêté avant d'arriver à destination"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a menacé de frapper les infrastructures énergétiques de l'Iran ?",
+            "options": [
+              "L'Iran",
+              "Trump",
+              "Mohammad Bagher Ghalibaf"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels sites ont été ciblés par les États-Unis en Iran ?",
+            "options": [
+              "Des écoles",
+              "Des hôpitaux",
+              "Des centres de commandement"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Que devait faire la population de Bahreïn selon le ministère de l'Intérieur ?",
+            "options": [
+              "S'énerver",
+              "Rester calme",
+              "Attaquer les États-Unis"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "L'Iran riposte aux frappes américaines, alors que Trump menace de cibler son infrastructure énergétique",
+        "text": "À l'occasion des récentes escalades militaires, Donald Trump a exprimé sa volonté de cibler les infrastructures énergétiques iraniennes si Téhéran ne reprenait pas les négociations. Dans un entretien accordé aux médias d'État, le négociateur en chef iranien, Mohammad Bagher Ghalibaf, a déclaré que l'Iran ne trouvait \"aucune raison\" de se conformer à un accord qui ne serait pas avantageux pour le pays. Il a aussi soutenu que la sécurité nationale d'Iran dépendait de ce qu'il a qualifié d'\"arrangements iraniens\" dans le détroit d'Hormuz. Dans ce contexte, les États-Unis ont mené des frappes ciblant divers sites en Iran, notamment des centres de commandement et des installations de défense aérienne à Bandar Abbas et sur l'île de Tunb. Les explosions entendues à travers le pays ont entraîné une activation des systèmes de défense à Téhéran, selon les médias d'État iraniens. Simultanément, les alliés des États-Unis dans le Golfe, tels que le Koweït et Bahreïn, ont rapporté des incidents similaires, le Koweït affirmant avoir intercepté des drones. En réponse, l'armée iranienne a prétendu avoir ciblé des systèmes de communication et des dépôts de carburant américains en Jordanie. Par ailleurs, les États-Unis ont également ouvert le feu sur un pétrolier sans charge, battant pavillon de Curaçao, qui tentait de se diriger vers un port iranien bloqué.",
+        "vocabulary": [
+          {
+            "word": "escalades",
+            "definition": "augmentations de tensions, conflits plus graves"
+          },
+          {
+            "word": "négociations",
+            "definition": "discussions pour arriver à un accord"
+          },
+          {
+            "word": "conformemement",
+            "definition": "selon ce qui a été demandé ou attendu"
+          },
+          {
+            "word": "activation",
+            "definition": "mise en marche, commencement de quelque chose"
+          },
+          {
+            "word": "interceptera",
+            "definition": "arrêter quelque chose avant qu'il n'arrive à son but"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Que Trump a-t-il menacé de frapper ?",
+            "options": [
+              "Les écoles",
+              "L'infrastructure énergétique de l'Iran",
+              "Les hôpitaux"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels types de sites ont été frappés par les États-Unis ?",
+            "options": [
+              "Des bibliothèques",
+              "Des sites de défense",
+              "Des parcs"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que disait le ministère de l'Intérieur de Bahreïn ?",
+            "options": [
+              "D'aller à l'hôpital",
+              "De rester calme",
+              "De déménager"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Tensions croissantes : L'Iran entre milieux d'échanges et interventions des États-Unis",
+        "text": "Dans un contexte de tension exacerbée, le président Donald Trump a récemment menacé de diriger ses frappes vers les infrastructures énergétiques iraniennes si les discussions diplomatiques ne reprenaient pas. En réponse, le haut négociateur iranien, Mohammad Bagher Ghalibaf, a vigoureusement soutenu devant les médias d'État que Téhéran ne trouvait \"aucune justification\" à se conformer à un accord susceptible de n'apporter aucun bénéfice à la nation. D'après Ghalibaf, la sécurité de l'Iran repose fondamentalement sur ce qu'il désigne comme les \"arrangements iraniens\" au sein du détroit d'Hormuz, une zone stratégique pour le transit maritime. En dépit de ce climat de crise, les États-Unis ont intensifié leurs opérations en ciblant avec précision divers objectifs, y compris des centres de commandement militaires et des installations de défense aérienne localisées à Bandar Abbas et sur l'île de Tunb. Des explosions retentissantes ont été rapportées dans plusieurs régions de l'Iran, entraînant l'activation des systèmes de défense aérienne à Téhéran. En parallèle, des alliés américains tel que le Koweït ont signalé des interceptions de drones, et le ministère de l'Intérieur de Bahreïn a exhorté la population à faire preuve de calme. L'armée iranienne, de son côté, a affirmé avoir riposté en ciblant des infrastructures de communication et des dépôts de carburant américains en Jordanie. Pour aggraver la situation, les États-Unis ont également ouvert le feu sur un pétrolier battant pavillon de Curaçao, qui aurait tenté de forcer le blocus d'un port iranien.",
+        "vocabulary": [
+          {
+            "word": "exacerbée",
+            "definition": "rendre plus intense, plus fort (en bien ou en mal)"
+          },
+          {
+            "word": "justification",
+            "definition": "raison ou explication pour faire quelque chose"
+          },
+          {
+            "word": "stratégique",
+            "definition": "très important pour atteindre un but"
+          },
+          {
+            "word": "riposte",
+            "definition": "réaction à une attaque, contre-attaque"
+          },
+          {
+            "word": "bloque",
+            "definition": "empêche quelque chose de passer ou d'entrer"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel a été le sujet de la menace de Trump ?",
+            "options": [
+              "Les infrastructures médicales",
+              "Les infrastructures énergétiques iraniennes",
+              "Les écoles iraniennes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment a réagi l'armée iranienne ?",
+            "options": [
+              "En offrant des négociations",
+              "En ciblant des sites américains",
+              "En se retirant"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que cherchaient les alliés américains dans le Golfe ?",
+            "options": [
+              "Des drones",
+              "Des pétroliers iranien",
+              "Des négociations"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Irán y Estados Unidos",
+        "text": "Hoy hay problemas entre Irán y Estados Unidos. Trump dice que él puede atacar a Irán. Irán no quiere hablar. Un hombre importante en Irán dice que Irán no va a seguir un acuerdo malo. Irán cuida su seguridad en el mar. Estados Unidos ataca varios lugares en Irán. Ellos atacan centros de mando y lugares de defensa. Se escuchan explosiones en Irán. Los países amigos de Estados Unidos ayudan. Kuwait dice que hay ataques con drones. Bahréin pide calma a la gente. Irán también ataca sistemas de comunicación en Jordania. La situación es peligrosa.",
+        "vocabulary": [
+          {
+            "word": "problemas",
+            "definition": "cosas malas que pasan"
+          },
+          {
+            "word": "atacar",
+            "definition": "hacer daño a alguien"
+          },
+          {
+            "word": "acuerdo",
+            "definition": "promesa entre personas"
+          },
+          {
+            "word": "explosiones",
+            "definition": "ruidos muy fuertes"
+          },
+          {
+            "word": "defensa",
+            "definition": "proteger algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién amenaza a Irán?",
+            "options": [
+              "Trump",
+              "Kuwait",
+              "Irán"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dice Irán sobre un acuerdo?",
+            "options": [
+              "Es bueno",
+              "Es malo",
+              "No existe"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde hay explosiones?",
+            "options": [
+              "En Irán",
+              "En Estados Unidos",
+              "En Jordania"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Conflicto entre Irán y Estados Unidos",
+        "text": "El martes, Trump amenazó con atacar la infraestructura energética de Irán. Él quiere que Irán hable sobre un acuerdo. El negociador de Irán, Mohammad Bagher Ghalibaf, dijo que Irán no sigue acuerdos que son malos. El grupo de Ghalibaf dice que la seguridad nacional de Irán depende de mantener ciertos arreglos en el mar. Estados Unidos realiza ataques y golpea varios lugares en Irán. Estos incluyen centros de mando y sitios de defensa. Se oyen explosiones en diferentes ciudades. Kuwait dice que interceptó ataques con drones. En Bahréin, el gobierno pide calma a sus ciudadanos. Irán también ataca los sistemas de comunicación en Jordania. La situación es tensa.",
+        "vocabulary": [
+          {
+            "word": "infraestructura",
+            "definition": "estructuras importantes de un país"
+          },
+          {
+            "word": "negociador",
+            "definition": "persona que habla por un grupo"
+          },
+          {
+            "word": "seguridad",
+            "definition": "estar protegido"
+          },
+          {
+            "word": "atacar",
+            "definition": "hacer daño intencionadamente"
+          },
+          {
+            "word": "ciudadanos",
+            "definition": "personas que viven en un país"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué amenaza Trump a Irán?",
+            "options": [
+              "Atacar energía",
+              "Hacer un acuerdo",
+              "Hablar con ellos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dice el negociador de Irán?",
+            "options": [
+              "Sigue un acuerdo",
+              "No sigue un acuerdo",
+              "Cambia de idea"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué hace Kuwait?",
+            "options": [
+              "Ayuda a Irán",
+              "Intercepta drones",
+              "Pide ayuda"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Tensiones entre Irán y Estados Unidos",
+        "text": "El pasado martes, el presidente Trump amenazó a Irán con atacar su infraestructura energética si no regresaba a las conversaciones. Mohammad Bagher Ghalibaf, el negociador principal de Irán, declaró a los medios que su país no tenía motivos para respetar acuerdos que no fueran beneficiosos. Ghalibaf añadió que la seguridad nacional de Irán depende de lo que él llamó 'arreglos iraníes' en el estrecho de Ormuz. En los últimos ataques, Estados Unidos ha golpeado centros de mando y sitios de defensa en Irán, incluyendo la ciudad portuaria de Bandar Abbas y la isla de Tunb Grande. Según el Comando Central de EE.UU., se escucharon explosiones por todo Irán y se activaron las defensas aéreas en Teherán. Después de esto, aliados de EE.UU. en el Golfo informaron sobre ataques, como Kuwait, que interceptó ataques con drones. Bahréin pidió a los ciudadanos que se mantuvieran tranquilos y se dirigieran a lugares seguros. A su vez, el ejército iraní afirmó que atacó sistemas de comunicación de EE.UU. en Jordania. En un incidente separado, EE.UU. disparó a un petrolero con bandera de Curazao que intentaba llegar a un puerto bloqueado de Irán.",
+        "vocabulary": [
+          {
+            "word": "infraestructura",
+            "definition": "las estructuras y servicios básicos de un país"
+          },
+          {
+            "word": "negociador",
+            "definition": "persona que discute un acuerdo"
+          },
+          {
+            "word": "acuerdo",
+            "definition": "un pacto entre dos partes"
+          },
+          {
+            "word": "estrecho",
+            "definition": "una vía de agua estrecha"
+          },
+          {
+            "word": "defensas",
+            "definition": "medidas para protegerse"
+          },
+          {
+            "word": "interceptó",
+            "definition": "parar algo antes de que llegue a su destino"
+          },
+          {
+            "word": "ciudad portuaria",
+            "definition": "una ciudad cerca del mar que tiene un puerto"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué amenaza hace Trump a Irán?",
+            "options": [
+              "Atacar la infraestructura",
+              "Hacer un acuerdo",
+              "Ir a la guerra"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dice Ghalibaf sobre los acuerdos?",
+            "options": [
+              "Son buenos",
+              "No son beneficiosos",
+              "No existen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué interceptó Kuwait?",
+            "options": [
+              "Ataques con aviones",
+              "Ataques con drones",
+              "Ataques terrestres"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Irán ataca bases militares mientras EE. UU. lanza una oleada de bombardeos",
+        "text": "El martes, Trump amenazó con atacar la infraestructura energética de Irán si Teherán no regresaba a las negociaciones. El principal negociador de Irán, Mohammad Bagher Ghalibaf, declaró a los medios estatales que Teherán \"no tenía razón\" para cumplir con ningún acuerdo que no beneficiara al país. Además, añadió que la seguridad nacional de Irán dependía de mantener lo que describió como \"acuerdos iraníes\" en el Estrecho de Ormuz. En los últimos ataques, EE. UU. dirigió sus acciones contra centros de mando, sitios de defensa aérea y instalaciones de vigilancia costera en Irán, incluyendo la ciudad portuaria de Bandar Abbas y la isla Gran Tunb, según informó el Comando Central de EE. UU. (Centcom). Se escucharon explosiones en diversas partes de Irán y se activaron las defensas aéreas en Teherán, reportaron medios estatales iraníes. Poco después, los aliados estadounidenses en el Golfo informaron de ataques; el ejército de Kuwait indicó que interceptó ataques con drones, mientras que el ministerio del Interior de Bahrein pidió a los ciudadanos que permanecieran calmados y se dirigieran al lugar seguro más cercano. La militar iraní también afirmó que atacó sistemas de comunicación y instalaciones de almacenamiento de combustible estadounidenses en Jordania en la última serie de bombardeos. Por separado, EE. UU. disparó y deshabilitó un buque petrolero de bandera de Curazao el miércoles, que Centcom confirmó estaba intentando navegar hacia un puerto iraní bloqueado.",
+        "vocabulary": [
+          {
+            "word": "infraestructura",
+            "definition": "Conjunto de elementos necesarios para el funcionamiento de un servicio."
+          },
+          {
+            "word": "negociaciones",
+            "definition": "Conversaciones entre personas para llegar a un acuerdo."
+          },
+          {
+            "word": "acuerdo",
+            "definition": "Decisión que toman dos o más partes sobre un asunto."
+          },
+          {
+            "word": "seguridad",
+            "definition": "Condición de estar libre de peligro."
+          },
+          {
+            "word": "interceptar",
+            "definition": "Detener algo en su camino."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué amenazó hacer Trump si Irán no regresaba a las negociaciones?",
+            "options": [
+              "Atacar la infraestructura energética",
+              "Interrumpir el suministro de agua",
+              "Cerrar la frontera con Irán"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué informó el ejército de Kuwait durante los ataques?",
+            "options": [
+              "Intercambió mensajes con Irán",
+              "Interceptó ataques con drones",
+              "Los drones llegaron a su territorio"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde fueron dirigidos los ataques de EE. UU.?",
+            "options": [
+              "A Irán y su infraestructura",
+              "A lugares seguros en Bahrein",
+              "A Kuwait y sus bases militares"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Tensiones entre EE. UU. e Irán aumentan tras nuevos ataques militares",
+        "text": "El martes, el presidente Trump lanzó una penetrante advertencia a Irán, afirmando que podría atacar la infraestructura energética del país si no regresaba a la mesa de negociaciones. En respuesta, el negociador principal iraní, Mohammad Bagher Ghalibaf, manifestó a los medios de comunicación estatal que Teherán \"no tenía razón\" para aceptar un acuerdo que no fuera beneficioso para la nación. Además, enfatizó que la seguridad nacional iraní se fundamentaba en el mantenimiento de lo que él describía como \"arreglos iraníes\" en el estratégico Estrecho de Ormuz. En el contexto de estas tensiones, EE. UU. realizó ataques enfocados en centros de mando, instalaciones de defensa aérea y sistemas de vigilancia costeros en diversas localizaciones dentro de Irán, incluida la ciudad portuaria de Bandar Abbas y la porción insular de Gran Tunb, según reportó el Comando Central de EE. UU. (Centcom). Los medios estatales iraníes informaron sobre explosiones escuchadas y la activación de las defensas aéreas en la capital. Mientras tanto, aliados de EE. UU. en la región del Golfo reportaron varios ataques; el ejército de Kuwait indicó que había interceptado múltiples ataques con drones, y el ministerio del Interior de Bahréin instó a los ciudadanos a mantener la calma y buscar refugio en lugares seguros. Por su parte, la fuerza militar iraní declaró que había atacado sistemas de comunicación y depósitos de combustible estadounidenses en Jordania, en una serie reciente de represalias. Además, el miércoles, EE. UU. disparo sobre un buque petrolero de bandera de Curazao que intentaba cruzar rumbo a un puerto iraní bajo bloqueo.",
+        "vocabulary": [
+          {
+            "word": "advertencia",
+            "definition": "Notificación previa sobre un peligro o riesgo."
+          },
+          {
+            "word": "representar",
+            "definition": "Actuar en nombre de algo o alguien."
+          },
+          {
+            "word": "represalias",
+            "definition": "Acciones tomadas en respuesta a un ataque."
+          },
+          {
+            "word": "fundamentarse",
+            "definition": "Estar basado en algo."
+          },
+          {
+            "word": "instruir",
+            "definition": "Dar una orden o consejo sobre qué hacer."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué dijo Ghalibaf sobre los acuerdos?",
+            "options": [
+              "No eran beneficiosos",
+              "Eran obligatorios",
+              "Eran temporales"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde reportaron ataques los aliados de EE. UU.?",
+            "options": [
+              "En la región del Mediterráneo",
+              "En el Golfo",
+              "En el Océano Atlántico"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué acción realizó EE. UU. el miércoles?",
+            "options": [
+              "Atacó un buque petrolero",
+              "Negoció con Irán",
+              "Desplazó sus tropas"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Las repercusiones de la nueva escalada entre EE. UU. e Irán",
+        "text": "El reciente ascenso de la tensión entre Estados Unidos e Irán ha dejado reacciones resonantes en el panorama político internacional. Este martes, el presidente Trump emitió una severa advertencia: si Irán no opta por regresar al diálogo, su infraestructura energética podría convertirse en objetivo de sus ataques. En un giro notable, el principal negociador iraní, Mohammad Bagher Ghalibaf, respondió categóricamente a estas amenazas, declarando en medios estatales que no existen razones válidas para que Teherán adopte compromisos que no traigan beneficios sustanciales para el país. A su juicio, la seguridad nacional de Irán se interrelaciona directamente con la preservación de sus “arreglos” en el crucial Estrecho de Ormuz. Por su parte, Centcom, el Comando Central de EE. UU., informó sobre un ataque dirigido a diversas instalaciones, incluyendo centros de mando y defensas costeras en puntos estratégicos como Bandar Abbas y Gran Tunb, generando violentas explosiones que resonaron en toda Irán y llevaron a que sus defensas aéreas fueran activadas en Teherán. Asimismo, reportes provenientes de aliados estadounidenses en el Golfo confirman la interceptación de ataques con drones en territorio kuwaití, mientras que en Bahréin, el ministerio del Interior instó a la ciudadanía a buscar refugio. En respuesta, la militar iraní no dudó en reivindicar ataques a sistemas de comunicación y almacenamiento de combustible estadounidenses en Jordania. No obstante, el miércoles se registró un incidente adicional, cuando EE. UU. desactivó un buque petrolero de Curazao que trataba de navegar hacia un puerto iraní, ya bloqueado por las autoridades.",
+        "vocabulary": [
+          {
+            "word": "repercusiones",
+            "definition": "Efectos o consecuencias de un acontecimiento."
+          },
+          {
+            "word": "diálogo",
+            "definition": "Conversación entre partes para resolver un problema."
+          },
+          {
+            "word": "categóricamente",
+            "definition": "De manera clara y sin posibilidad de duda."
+          },
+          {
+            "word": "interrelacionar",
+            "definition": "Establecer conexiones entre diferentes elementos."
+          },
+          {
+            "word": "representar",
+            "definition": "Hablar o actuar en nombre de algo o alguien."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál fue la advertencia emitida por Trump?",
+            "options": [
+              "Atacar a Irán si no regresan al diálogo",
+              "Retirarse de la región",
+              "Romper relaciones diplomáticas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué aseguró Ghalibaf sobre los compromisos de Teherán?",
+            "options": [
+              "Son beneficiosos",
+              "No son válidos",
+              "Son obligatorios"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué hizo EE. UU. con el buque petrolero de Curazao?",
+            "options": [
+              "Desactivó el buque",
+              "Lo permitió pasar",
+              "Lo entregó a Irán"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  }
+}

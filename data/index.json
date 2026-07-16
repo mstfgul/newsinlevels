@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-16-families-of-43-victims-await-verdict-in-genoa-bridge-disaste",
+    "date": "2026-07-16",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/86c0/live/1516edc0-8071-11f1-b976-0b9c15b0ccfc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Families Await Verdict in Genoa Bridge Disaster Case",
+      "de": "Verfahren zum Brückenunfall in Genua",
+      "fr": "Le désastre du pont de Gênes et ses conséquences",
+      "es": "Las familias de 43 víctimas esperan un veredicto en el juicio del desastre del puente de Génova"
+    }
+  },
+  {
+    "id": "2026-07-16-argentina-face-action-after-waving-falklands-banner",
+    "date": "2026-07-16",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Argentina's Disciplinary Action After World Cup Match",
+      "de": "Argentinien und das Banner der Falklandinseln",
+      "fr": "L'Argentine et la polémique de la bannière",
+      "es": "Argentina enfrenta problemas por un cartel sobre las Malvinas"
+    }
+  },
+  {
+    "id": "2026-07-16-iran-targets-military-bases-as-us-launches-wave-of-strikes",
+    "date": "2026-07-16",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b67e/live/039382d0-80de-11f1-a5c2-db1656c1a0a8.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "The US Launches Strikes Against Iran's Military Bases",
+      "de": "Iran und die militärischen Spannungen mit den USA",
+      "fr": "Les récentes attaques entre les États-Unis et l'Iran",
+      "es": "Tensiones entre Irán y Estados Unidos"
+    }
+  },
+  {
     "id": "2026-07-15-strait-of-hormuz-faultline-exposes-weakness-of-the-us-iran-d",
     "date": "2026-07-15",
     "source": "BBC News",
