@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-16-nausea-jean-paul-sartre",
+    "date": "2026-07-16",
+    "author": "Jean-Paul Sartre",
+    "image": "https://covers.openlibrary.org/b/id/13222534-L.jpg",
+    "titles": {
+      "en": "Nausea",
+      "de": "Nausea: Ein philosophischer Roman",
+      "fr": "La Nausée",
+      "es": "Náusea"
+    }
+  },
+  {
     "id": "2026-07-15-the-elegance-of-the-hedgehog-muriel-barbery",
     "date": "2026-07-15",
     "author": "Muriel Barbery",
