@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-16-the-leopard-luchino-visconti",
+    "date": "2026-07-16",
+    "director": "Luchino Visconti",
+    "image": "https://image.tmdb.org/t/p/w780/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+    "titles": {
+      "en": "The Leopard: A Reflection on Change",
+      "de": "Der Leopard",
+      "fr": "Le Léopard",
+      "es": "El Gatopardo: Un Clásico del Cine"
+    }
+  },
+  {
     "id": "2026-07-15-the-bitter-tears-of-petra-von-kant-rainer-werner-fassbinder",
     "date": "2026-07-15",
     "director": "Rainer Werner Fassbinder",
