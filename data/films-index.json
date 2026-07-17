@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-17-the-long-day-closes-terence-davies",
+    "date": "2026-07-17",
+    "director": "Terence Davies",
+    "image": "https://image.tmdb.org/t/p/w780/4cbgr67H4qV2RHqeFqlf4hMIl1Y.jpg",
+    "titles": {
+      "en": "The Long Day Closes",
+      "de": "The Long Day Closes",
+      "fr": "La solitude et l'art",
+      "es": "Un día largo cierra"
+    }
+  },
+  {
     "id": "2026-07-16-the-leopard-luchino-visconti",
     "date": "2026-07-16",
     "director": "Luchino Visconti",
