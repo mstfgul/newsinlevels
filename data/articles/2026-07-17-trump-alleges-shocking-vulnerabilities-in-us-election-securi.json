@@ -1,0 +1,1389 @@
+{
+  "id": "2026-07-17-trump-alleges-shocking-vulnerabilities-in-us-election-securi",
+  "date": "2026-07-17",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d581/live/e4364610-818d-11f1-bee8-53ce494e1abc.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Trump talks about US elections and China",
+        "text": "Donald Trump is the US President. He makes a speech at the White House. In the speech, he says China interferes in the 2020 election. He talks about problems in voting systems. Trump says China takes 220 million voter files. He claims they steal important information. Trump does not show proof of this. He says voting machines are not safe. He wants to change voting laws. Many people listen to Trump. Some leaders do not agree with him. They say voters choose leaders, not China. Democrats say he causes fear about the voting.",
+        "vocabulary": [
+          {
+            "word": "interfere",
+            "definition": "to get involved and make a change"
+          },
+          {
+            "word": "steal",
+            "definition": "to take something without permission"
+          },
+          {
+            "word": "information",
+            "definition": "facts or details about something"
+          },
+          {
+            "word": "safeguard",
+            "definition": "to protect something"
+          },
+          {
+            "word": "voter",
+            "definition": "a person who can vote"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where does Trump make his speech?",
+            "options": [
+              "In the White House",
+              "In a school",
+              "In an airport"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Trump say China takes?",
+            "options": [
+              "Voter files",
+              "Food",
+              "Money"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who does Trump say causes fear?",
+            "options": [
+              "China",
+              "Democrats",
+              "Russia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump's speech on election security and China",
+        "text": "US President Donald Trump gives a speech at the White House. He talks about the 2020 election. Trump claims that China interferes in this election. He says China took 220 million voter files with private information. He believes that this is a big problem for US voting systems. Trump does not show proof that China changed votes. He suggests that voting machines are not safe. Many leaders, especially Democrats, do not agree with his claims. They think voters should feel safe when voting. Democrats say voters choose leaders in America, not other countries. They promise to protect the voting process. The speech raises worries about the upcoming midterm elections.",
+        "vocabulary": [
+          {
+            "word": "security",
+            "definition": "the state of being safe or protected"
+          },
+          {
+            "word": "election",
+            "definition": "an event where people vote for leaders"
+          },
+          {
+            "word": "interfere",
+            "definition": "to get involved in something"
+          },
+          {
+            "word": "private",
+            "definition": "for one person's use only"
+          },
+          {
+            "word": "claims",
+            "definition": "statements that someone says are true"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Trump say China interferes with?",
+            "options": [
+              "The economy",
+              "The election",
+              "The health system"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What do Democrats promise to protect?",
+            "options": [
+              "Voting rights",
+              "Cities",
+              "International trade"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Did Trump provide evidence of his claims?",
+            "options": [
+              "Yes, a lot",
+              "No, he did not",
+              "Yes, some"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump warns about election security and claims Chinese interference",
+        "text": "US President Donald Trump recently delivered a speech from the White House in which he raised significant concerns about the security of the upcoming 2020 election. He accused China of interfering by acquiring over 220 million voter files, which reportedly contain private information about American citizens. This accusation has made waves in political circles, as Trump claimed to have declassified intelligence that supports his statements. However, he did not provide any direct proof showing how China might have affected the election results. Critics, especially from the Democratic Party, have expressed strong disagreement with Trump’s claims. They believe it is essential to remember that it is the voters in America who choose their leaders, not any foreign country. As the midterm elections approach, this situation is particularly concerning, as leaders have expressed their commitment to ensuring that every American can vote safely and freely. There is a real fear that Trump's comments could spark confusion and anxiety among voters, potentially discouraging their participation. This sparked an intense debate about the integrity of the electoral system and has drawn attention to vulnerabilities in voting infrastructure that have been present since previous elections. Experts warn that rumors and misinformation can severely affect public trust in the process, which is vital in any democracy.",
+        "vocabulary": [
+          {
+            "word": "vulnerability",
+            "definition": "A weakness or flaw that might allow harm or disadvantage."
+          },
+          {
+            "word": "acquisition",
+            "definition": "The act of obtaining or getting something."
+          },
+          {
+            "word": "interference",
+            "definition": "An act of intruding or getting involved in someone else's affairs."
+          },
+          {
+            "word": "commitment",
+            "definition": "A promise or a dedication to a cause or task."
+          },
+          {
+            "word": "confusion",
+            "definition": "A state of being unclear or mixed up in understanding."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump accuse China of doing regarding the election?",
+            "options": [
+              "Acquiring voter files",
+              "Stopping the election",
+              "Changing votes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many voter files did Trump claim China had accessed?",
+            "options": [
+              "Over 100 million",
+              "22 million",
+              "Over 220 million"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What is a major concern regarding Trump's statements?",
+            "options": [
+              "They create confusion among voters",
+              "They prevent voting",
+              "They support foreign countries"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump Highlights Election Security Issues Before Midterms",
+        "text": "US President Donald Trump delivered a primetime speech in which he accused China of meddling in the 2020 election and noted \"shocking vulnerabilities\" in American voting systems. Speaking from the White House, Trump has consistently claimed, though without strong evidence, that there was voter fraud and foreign interference in the election he lost to Joe Biden. This half-hour address occurred just three months prior to the midterm elections. Trump asserted that he had declassified hundreds of intelligence files substantiating his accusations against Beijing for attempting to affect the election outcome in Biden's favor. However, the US intelligence community had previously asserted that China did not interfere. In his speech, Trump claimed that China \"illicitly acquired\" 220 million voter files, suggesting that voter information in 18 states was either bought, stolen, or hacked by China. Although he accused others of failing to alert government authorities, he did not provide proof of any significant alteration of voting systems. The Chinese Embassy in Washington responded to Trump's allegations, firmly denying interference. In response, Democrats criticized Trump, stressing that voters, not external forces, select their leaders, and expressed determination to protect voting rights. As the midterms approach, concerns rise regarding the integrity of the election process, further fueled by Trump's claims that put election security into question.",
+        "vocabulary": [
+          {
+            "word": "alleged",
+            "definition": "said to be true but not proven"
+          },
+          {
+            "word": "interfere",
+            "definition": "to get involved in a situation in a way that changes things"
+          },
+          {
+            "word": "accused",
+            "definition": "said that someone did something wrong"
+          },
+          {
+            "word": "secure",
+            "definition": "safe from harm or threats"
+          },
+          {
+            "word": "intelligence",
+            "definition": "information about dangers or criminals"
+          },
+          {
+            "word": "assertion",
+            "definition": "a confident statement of belief or fact"
+          },
+          {
+            "word": "extensive",
+            "definition": "very large in amount or degree"
+          },
+          {
+            "word": "congress",
+            "definition": "the national legislative body of a country"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump accuse China of during his speech?",
+            "options": [
+              "Meddling in the 2020 election",
+              "Helping Biden to win",
+              "Providing US election security"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How did the Chinese Embassy respond to Trump's claims?",
+            "options": [
+              "They agreed with him",
+              "They denied interference",
+              "They stayed silent"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Trump say about the security of voting machines?",
+            "options": [
+              "They are very secure",
+              "They are easy to change",
+              "They are exposed to interference"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump Addresses Election Security Concerns Ahead of Midterms",
+        "text": "In a recent primetime address from the White House, US President Donald Trump alleged that China had interfered in the 2020 election, claiming there are \"shocking vulnerabilities\" within American voting systems. Despite the assertion made by Trump, the US intelligence community has consistently maintained that there was no Chinese interference in the electoral process. In the half-hour speech, Trump declared that he had declassified various intelligence documents, purportedly supporting his claims that Beijing attempted to manipulate the election outcome in favor of Joe Biden. He went on to assert that China had \"illicitly acquired\" over 220 million voter records, alleging that sensitive voter data from 18 states was either purchased, stolen, or compromised. Importantly, Trump did not provide substantial evidence to demonstrate any alteration of voting outcomes stemming from the alleged cyber activities. In response to these accusations, the Chinese Embassy in Washington firmly rejected any claims of interference. Meanwhile, Democrats reacted strongly, arguing that Trump's comments sow doubt about election security as midterms approach, emphasizing that in America, voters are responsible for selecting their leaders. Consequently, this sequence of events raises significant concerns about the integrity of future electoral processes, particularly as the nation prepares for the highly consequential November elections.",
+        "vocabulary": [
+          {
+            "word": "maintained",
+            "definition": "to state something firmly or confidently"
+          },
+          {
+            "word": "purportedly",
+            "definition": "as claimed or believed, but perhaps not true"
+          },
+          {
+            "word": "manipulate",
+            "definition": "to change something in a clever way to influence or control it"
+          },
+          {
+            "word": "compromised",
+            "definition": "made vulnerable to danger or attack"
+          },
+          {
+            "word": "assertion",
+            "definition": "a confident and forceful statement or declaration"
+          },
+          {
+            "word": "embassy",
+            "definition": "the official residence or offices of an ambassador in a foreign country"
+          },
+          {
+            "word": "rejected",
+            "definition": "dismissed as unacceptable or untrue"
+          },
+          {
+            "word": "sequence",
+            "definition": "a series of events or actions occurring one after another"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump claim about the U.S. voting systems?",
+            "options": [
+              "They are completely secure",
+              "They have serious vulnerabilities",
+              "They are being improved"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did the Chinese Embassy respond to Trump's speech?",
+            "options": [
+              "They agreed with him",
+              "They firmly denied any claims",
+              "They provided evidence"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Democrats argue regarding Trump's comments?",
+            "options": [
+              "They support them",
+              "They sow doubt about election security",
+              "They believe in his evidence"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump's Disturbing Claims About Election Integrity Precede Midterms",
+        "text": "In a controversial primetime speech delivered from the White House, President Donald Trump presented a series of alarming allegations, including accusations against China for supposed interference in the 2020 election, which he characterized as riddled with \"shocking vulnerabilities.\" Despite the lack of robust evidence and consistent assertions from the US intelligence community affirming that China refrained from meddling, Trump claimed he declassified a plethora of intelligence files purportedly demonstrating Beijing's attempts to sway the election in favor of his opponent, Joe Biden. Trump controversially asserted that an estimated 220 million voter files had been \"illicitly acquired,\" positing that voter data from 18 states had been either purchased, hacked, or stolen, although he offered no concrete evidence for his grave assertions. In outright refutation of Trump's claims, the Chinese Embassy in Washington issued a statement categorically denying any involvement in US electoral processes. As reactions from both sides unfolded, Democrats accused Trump of fabricating doubts about the integrity of the upcoming midterm elections, stressing that in a healthy democracy, voters should govern their leaders, not be governed by external anxieties. This situation underscores profound implications for electoral integrity, particularly as American citizens approach the consequential November elections, a crucial juncture that could potentially redefine political power in Congress and beyond. As former Vice-President Kamala Harris articulated, the president's tactics appear aimed at undermining public confidence in the electoral process, urging citizens to remain vigilant and engaged rather than succumb to unfounded fears.",
+        "vocabulary": [
+          {
+            "word": "controversial",
+            "definition": "likely to cause disagreement or dispute"
+          },
+          {
+            "word": "alarming",
+            "definition": "causing worry or fear"
+          },
+          {
+            "word": "plethora",
+            "definition": "an excess or abundance of something"
+          },
+          {
+            "word": "posited",
+            "definition": "put forward as a basis of argument"
+          },
+          {
+            "word": "categorically",
+            "definition": "in a way that is unambiguously explicit and direct"
+          },
+          {
+            "word": "fabricating",
+            "definition": "making something up that is not true or real"
+          },
+          {
+            "word": "implications",
+            "definition": "possible effects or results of an action or a decision"
+          },
+          {
+            "word": "undermining",
+            "definition": "weaken someone or something, often in a sneaky way"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump claim about China's involvement in the election?",
+            "options": [
+              "China interfered in the election",
+              "China supported Biden",
+              "China worked with Congress"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How did Democrats react to Trump's speech?",
+            "options": [
+              "They praised his leadership",
+              "They accused him of sowing doubt",
+              "They ignored his claims"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the situation suggest about the upcoming elections?",
+            "options": [
+              "They are likely to be very secure",
+              "They could redefine political power",
+              "They will see no changes"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Trump über Wahlen in den USA",
+        "text": "Der Präsident der USA ist Donald Trump. Er spricht aus dem Weißen Haus. Er sagt, dass China die Wahlen beeinflusst. Trump sagt auch, dass die Wahlen schwach sind. Viele Fakten sind nicht klar und nicht sicher. China kauft viele Daten über Wähler. Diese Daten sind von 18 Bundesstaaten. Trump sagt, dass es früher Betrug gab. Der Präsident nennt keine Beweise. Die Botschaft von China sagt, dass das nicht stimmt. Auch die Menschen in den USA sind unsicher. Die nächste Wahl ist bald. Viele Menschen haben Angst und sind unzufrieden.",
+        "vocabulary": [
+          {
+            "word": "Wahlen",
+            "definition": "Wahlen sind, wenn Menschen wählen."
+          },
+          {
+            "word": "Daten",
+            "definition": "Daten sind Informationen oder Fakten."
+          },
+          {
+            "word": "Betrug",
+            "definition": "Betrug ist, wenn jemand lügt."
+          },
+          {
+            "word": "Präsident",
+            "definition": "Der Präsident ist der Chef von einem Land."
+          },
+          {
+            "word": "unsicher",
+            "definition": "Unsicher ist, wenn man etwas nicht weiß."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Präsident der USA?",
+            "options": [
+              "Joe Biden",
+              "Donald Trump",
+              "Barack Obama"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo spricht Trump?",
+            "options": [
+              "In einem Hotel",
+              "Im Weißen Haus",
+              "In einem Park"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Hat Trump Beweise für Betrug?",
+            "options": [
+              "Ja, er hat viele Beweise",
+              "Nein, er hat keine Beweise",
+              "Vielleicht, das weiß ich nicht"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump über Wahlsicherheit in den USA",
+        "text": "Donald Trump, der Präsident der USA, hat aus dem Weißen Haus gesprochen. Er sagt, dass China die Wahlen in 2020 beeinflusst hat. Trump hat auch schwache Punkte bei den Wahlen genannt. Er hat aber keine guten Beweise gezeigt. Trump sagt, dass China 220 Millionen Wählerdaten gekauft hat. Das ist ein großes Problem für die Wahlen. Viele Menschen haben Angst vor Betrug. Die nächste Wahl ist in drei Monaten. Trump will ein neues Gesetz, das viele Dinge über die Wahlen ändert. Die Menschen aus China sagen, dass sie nicht die Wahlen beeinflusst haben. Auch die Demokraten sagen, dass Trump die Menschen verunsichert. Sie wollen, dass jede Stimme zählt und die Wahlen sicher sind.",
+        "vocabulary": [
+          {
+            "word": "einfach",
+            "definition": "Einfach bedeutet leicht oder klar."
+          },
+          {
+            "word": "Problem",
+            "definition": "Ein Problem ist etwas Schwieriges."
+          },
+          {
+            "word": "Gesetz",
+            "definition": "Ein Gesetz ist eine Regel, die alle befolgen müssen."
+          },
+          {
+            "word": "Einfluss",
+            "definition": "Ein Einfluss ist, wenn man etwas verändern kann."
+          },
+          {
+            "word": "verunsichern",
+            "definition": "Verunsichern bedeutet, jemand hat Angst oder ist nicht sicher."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was sagt Trump über China?",
+            "options": [
+              "China hilft bei den Wahlen",
+              "China beeinflusst die Wahlen",
+              "China ist nicht wichtig"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was will Trump ändern?",
+            "options": [
+              "Die Wahlen und das Gesetz",
+              "Die Schule",
+              "Die Reise"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie lange ist es bis zur nächsten Wahl?",
+            "options": [
+              "In drei Monaten",
+              "In einem Jahr",
+              "In einer Woche"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump erhebt Vorwürfe zur Wahlsicherheit in den USA",
+        "text": "US-Präsident Donald Trump hat aus dem Weißen Haus gesprochen und China beschuldigt, die Wahlen von 2020 beeinflusst zu haben. In seiner Rede sagte er, dass es \"schockierende Schwächen\" bei den amerikanischen Wahlsystemen gibt. Trump erklärte, dass er viele Geheimdienstdokumente freigegeben hat, die seine Aussagen unterstützen sollen. Er sagt, dass China 220 Millionen Wählerdaten erworben hat, und viele dieser Daten stammen aus 18 verschiedenen Staaten. Diese Behauptungen wecken viele Fragen, vor allem, weil Trump keine Beweise dazu präsentiert hat, dass diese Daten genutzt wurden, um die Wahlen zu beeinflussen. Die chinesische Botschaft in Washington wies die Vorwürfe zurück und erklärte, dass China nie unfair in die Wahlen eingegriffen hat. Demokraten kritisieren Trump dafür, dass er Zweifel an der Sicherheit der kommenden Wahlen weckt. Sie befürchten, dass solche Äußerungen den Glauben der Menschen an die Wahlen beeinträchtigen können. Trotz Trumps Erklärungen hat der US-Geheimdienst bisher keine Beweise für chinesische Einmischung gefunden. Dies ist besorgniserregend, denn eine stabile Demokratie benötigt das Vertrauen ihrer Bürger, damit alle Wähler an zukünftigen Wahlen teilnehmen. Wenn die Amerikaner nicht an die Integrität ihrer Wahl glauben, könnte dies langfristige Folgen für das politische System der USA haben. Besonders vor den bevorstehenden Midterm-Wahlen, die im November stattfinden, ist die Wahrnehmung der Wahlsicherheit entscheidend für den Ausgang der Wahlen.",
+        "vocabulary": [
+          {
+            "word": "Wahlsystem",
+            "definition": "Das System oder die Methoden, die bei Wahlen verwendet werden."
+          },
+          {
+            "word": "Behauptungen",
+            "definition": "Aussagen, die jemand macht, oft ohne beweisbare Fakten."
+          },
+          {
+            "word": "Integrität",
+            "definition": "Die Qualität, ehrlich und freundlich zu sein, besonders in Bezug auf Werte und Prinzipien."
+          },
+          {
+            "word": "Eingreifen",
+            "definition": "Etwas Unrechtmäßiges, das in einem Prozess oder eine Situation geschieht."
+          },
+          {
+            "word": "Demokratie",
+            "definition": "Ein politisches System, in dem die Bürger das Recht haben, an Wahlen teilzunehmen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Wählerdaten hat Trump China vorgeworfen, erworben zu haben?",
+            "options": [
+              "220 Millionen",
+              "300 Millionen",
+              "150 Millionen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was wies die chinesische Botschaft in Washington zurück?",
+            "options": [
+              "Die Vorwürfe von Trump",
+              "Die Wahlergebnisse",
+              "Die Geheimdienstdokumente"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was befürchten die Demokraten in Bezug auf Trumps Aussagen?",
+            "options": [
+              "Das Vertrauen in die Wahlen könnte sinken",
+              "Die Unterstützung aus China könnte wachsen",
+              "Die Zustimmung von Trump könnte steigen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump äußert 'schockierende Verwundbarkeiten' in der US-Wahl-Sicherheit vor den Zwischenwahlen",
+        "text": "US-Präsident Donald Trump hat in einer Primetime-Ansprache China beschuldigt, sich in die Wahlen von 2020 einzumischen, und behauptete, dass es 'schockierende Verwundbarkeiten' in den amerikanischen Wahlsystemen gebe. Bei seiner Rede am Donnerstag, die er aus dem Weißen Haus hielt, äußerte Trump, dass er Hunderte von Geheimdienstdokumenten entklassifiziert habe, die seine Behauptungen unterstützen würden, dass Peking versucht habe, die Wahl zu seinen Gunsten zu beeinflussen. Obwohl die US-Geheimdienste zuvor zu dem Schluss gekommen waren, dass China nicht in die Wahl eingegriffen habe, wiederholte Trump seine unbegründeten Vorwürfe über Wahlbetrug. Vor mehreren Mitgliedern seines Teams sprach er über die 'illegale Aneignung' von 220 Millionen Wählerdaten, darunter persönliche Informationen. Außerdem beschuldigte er, dass Daten in 18 Bundesstaaten 'von China gekauft, gestohlen oder gehackt' worden seien und warf den Verantwortlichen vor, wichtige Entdeckungen nicht rechtzeitig veröffentlicht zu haben. Obwohl Trump keine Beweise präsentierte, die seine Behauptungen stützten, verstärkten seine Kommentare bereits bestehende Sorgen um die Sicherheit der bevorstehenden Wahl im November. Demokratische Führer wiesen darauf hin, dass Wähler in den USA ihre Anführer wählen und nicht umgekehrt. Diese Äußerungen könnten das Vertrauen der Bürger in das Wahlsystem beeinträchtigen.",
+        "vocabulary": [
+          {
+            "word": "Ansprache",
+            "definition": "Eine kurze Rede oder Erklärung."
+          },
+          {
+            "word": "beschuldigen",
+            "definition": "Jemandem Vorwürfe machen."
+          },
+          {
+            "word": "Beweise",
+            "definition": "Fakten oder Informationen, die etwas zeigen."
+          },
+          {
+            "word": "Wahlsystem",
+            "definition": "Das Verfahren, durch das Wahlen organisiert werden."
+          },
+          {
+            "word": "einmischen",
+            "definition": "Sich in etwas einfügen, ohne dazu eingeladen zu sein."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat von den schockierenden Verwundbarkeiten gesprochen?",
+            "options": [
+              "Joe Biden",
+              "Donald Trump",
+              "Chuck Schumer"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was wurde in den Wählerdaten gefunden?",
+            "options": [
+              "Wahlbetrug",
+              "Persönliche Informationen",
+              "Beweise für Betrug"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie reagieren die Demokraten auf Trumps Ansprache?",
+            "options": [
+              "Sie unterstützen ihn",
+              "Sie machen ihm Vorwürfe",
+              "Sie ignorieren ihn"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trumps Vorwürfe über Wahlmanipulation: Eine gefährliche Rhetorik",
+        "text": "In einer aufsehenerregenden Rede aus dem Weißen Haus warf US-Präsident Donald Trump China vor, sich in die Präsidentschaftswahl von 2020 eingemischt zu haben, und erklärte, es gäbe 'schockierende Verwundbarkeiten' in Amerika's Wahlsystemen. Trotz wiederholter, unbelegter Behauptungen über Wahlbetrug behauptete er, Geheimdienstunterlagen entklassifiziert zu haben, die seine Thesen stützen würden. Während die amerikanischen Geheimdienste festgestellt hatten, dass China nicht in die Wahl eingegriffen hatte, sprach Trump in Anwesenheit seiner engen Berater und erlaubte den Journalisten nicht, Fragen zu stellen. In seiner Ansprache wies er darauf hin, dass über 220 Millionen Wählerdaten 'illegal' von China erworben worden seien. Beunruhigend bleibt, dass die Vorwürfe insbesondere in der Zeit vor den anstehenden Zwischenwahlen die öffentliche Wahrnehmung der Sicherheit des Wahlprozesses untergraben könnten. Führende Demokraten wie Chuck Schumer reagierten prompt und betonten, dass in den USA die Wähler das Sagen hätten, nicht die Politiker. Die gefährlichen Rhetoriken Trumps stehen im Widerspruch zu den jüngsten, klaren Einschätzungen der US-Geheimdienste, die berichteten, dass China keine Interferenzen während der Wahl 2020 unternahm. Angesichts der Tatsache, dass Trumps Kommentare potenziell das Vertrauen der Wähler in den demokratischen Prozess beeinträchtigen, bleibt abzuwarten, wie dieser Streit die politische Landschaft weiterhin beeinflussen wird.",
+        "vocabulary": [
+          {
+            "word": "aufsehenerregend",
+            "definition": "Etwas, das viel Aufmerksamkeit oder Interesse weckt."
+          },
+          {
+            "word": "Wahrnehmung",
+            "definition": "Die Art und Weise, wie wir etwas sehen oder verstehen."
+          },
+          {
+            "word": "untergraben",
+            "definition": "Etwas schwächen oder ruinieren."
+          },
+          {
+            "word": "Rhetorik",
+            "definition": "Die Kunst der Redekunst, wie man die Worte spricht."
+          },
+          {
+            "word": "Widerspruch",
+            "definition": "Eine Aussage, die gegen eine andere Aussage spricht."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was behauptet Trump über China?",
+            "options": [
+              "China hat die Wahl unterstützt",
+              "China hat sich in die Wahl eingemischt",
+              "China hat keine Wählerdaten"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie reagieren die Demokraten auf die Vorwürfe?",
+            "options": [
+              "Sie ignorieren ihn",
+              "Sie bestreiten die Vorwürfe",
+              "Sie unterstützen Trump"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagte die US-Geheimdienste über Chinas Verhalten?",
+            "options": [
+              "China hat sich eingemischt",
+              "China hielt sich zurück",
+              "China hat die Wahl verloren"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Die Gefahren der Falschinformation: Trumps Rhetorik zur Wahl 2020 und ihre Folgen",
+        "text": "In einer bemerkenswerten Fernsehdrama offenbarte US-Präsident Donald Trump, in gewohnter Manier, seine unhaltbaren Thesen über angebliche Wahlmanipulationen durch China während der Präsidentschaftswahlen 2020. Während seiner Rede, die aus dem Weißen Haus übertragen wurde, proklamierte er 'schockierende Verwundbarkeiten' im amerikanischen Wahlsystem und erklärte, er habe Hunderte von Geheimdokumenten entklassifiziert. Trotz der Tatsache, dass die US-Geheimdienste einhellig zu dem Schluss gekommen waren, dass China nicht in den Wahlprozess eingegriffen hat, bekräftigte Trump seine unbegründeten Behauptungen vor versammeltem Publikum und ohne jegliche Möglichkeit für die Journalisten, kritische Rückfragen zu stellen. Seine Äußerungen, welche die Integrität des Wahlprozesses in Frage stellen, rufen besorgte Reaktionen besonders bei führenden Demokraten hervor, die darauf hinweisen, dass das Wählen ein Grundrecht der Bürger sei und nicht ein Spiel, das nach den Launen eines Präsidenten manipuliert werden darf. Besonders alarmierend ist die Behauptung, über 220 Millionen Wählerdaten seien 'illegal' erworben worden. Da Trumps Äußerungen im Widerspruch zu klaren Vorhersagen der Geheimdienste stehen, ist es kritisch zu beobachten, wie sie sich auf die bevorstehenden Midterms auswirken könnten. In Anbetracht der gegenwärtigen politischen Landschaft und der bevorstehenden Wahlen könnte die aktuelle Situation der amerikanischen Demokratie erheblichen Schaden zufügen, da sie das Vertrauen der Öffentlichkeit in die Wahlsysteme gefährdet.",
+        "vocabulary": [
+          {
+            "word": "unhaltbar",
+            "definition": "Nicht akzeptabel oder nicht begründbar."
+          },
+          {
+            "word": "integrierte",
+            "definition": "In der ursprünglichen Form gestärkt."
+          },
+          {
+            "word": "besorgt",
+            "definition": "Sich um etwas sorgen; Angst haben."
+          },
+          {
+            "word": "proklamieren",
+            "definition": "Öffentlich erklären oder verkünden."
+          },
+          {
+            "word": "Wahlprozess",
+            "definition": "Der gesamte Ablauf, wie eine Wahl durchgeführt wird."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was kritisieren führende Demokraten an Trumps Aussagen?",
+            "options": [
+              "Sie finden sie richtig",
+              "Sie sehen sie als gefährlich",
+              "Sie ignorieren sie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie bewertet Trump die Sicherheit des Wahlsystems?",
+            "options": [
+              "Er hält sie für sicher",
+              "Er spricht von 'schockierenden Verwundbarkeiten'",
+              "Er sagt, es gibt keine Probleme"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was behauptet Trump über die Wählerdaten?",
+            "options": [
+              "Sie sind sicher",
+              "Sie wurden illegal erworben",
+              "Sie sind nicht existent"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Trump parle des élections américaines",
+        "text": "Le président américain Trump donne un discours. Il parle des élections de 2020. Trump dit que la Chine a triché. Il dit que le vote en Amérique est dangereux. Il pense que la Chine a des informations secrètes. Ces informations sont sur 220 millions de votes. Selon Trump, la Chine a volé ces informations. Les démocrates ne sont pas d'accord avec Trump. Ils pensent qu'il ment. Ils veulent protéger les élections de novembre. Trump suggère une nouvelle loi pour voter. Cette loi est difficile à accepter. Les élections sont très importantes pour la démocratie.",
+        "vocabulary": [
+          {
+            "word": "président",
+            "definition": "la personne qui dirige un pays"
+          },
+          {
+            "word": "discours",
+            "definition": "un texte que l'on dit en parlant"
+          },
+          {
+            "word": "élections",
+            "definition": "un vote pour choisir des dirigeants"
+          },
+          {
+            "word": "danger",
+            "definition": "une situation où il y a un risque"
+          },
+          {
+            "word": "information",
+            "definition": "des faits ou des détails sur quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui donne un discours?",
+            "options": [
+              "Trump",
+              "Joe Biden",
+              "Kamala Harris"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "De quel pays parle Trump?",
+            "options": [
+              "France",
+              "Chine",
+              "Amérique"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel type de vote est mentionné?",
+            "options": [
+              "Les élections",
+              "Les jeux",
+              "Les rendez-vous"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump et la sécurité des élections américaines",
+        "text": "Le président Donald Trump a donné un discours important à la Maison Blanche. Il parle de la sécurité des élections de 2020. Trump accuse la Chine d'avoir interferé dans le scrutin. Il dit que des informations sur 220 millions de votes ont été volées par la Chine. Cette information concerne le vote des citoyens américains. Trump affirme que les machines de vote sont nombreuses et exposées à des risques. Il veut une nouvelle loi qui change la façon de voter. Les démocrates ne sont pas d'accord avec lui parce qu'ils pensent que Trump essaie d’inquiéter les électeurs. Ils parlent de l'importance de voter correctement en novembre. Les élections sont un moment clé pour le pays et elles peuvent changer l'avenir. Les démocrates veulent que chaque électeur ait une chance de voter librement, sans obstacles ni pressions. Les déclarations de Trump inquiètent beaucoup de gens et provoquent des débats sur la sécurité des élections. Les prochaines élections sont très importantes.",
+        "vocabulary": [
+          {
+            "word": "discours",
+            "definition": "un message public prononcé devant un groupe de personnes."
+          },
+          {
+            "word": "sécurité",
+            "definition": "la protection contre le danger ou la fraude."
+          },
+          {
+            "word": "interférer",
+            "definition": "intervenir de manière à causer des problèmes ou des changements."
+          },
+          {
+            "word": "élections",
+            "definition": "un événement ou les citoyens choisissent leurs représentants."
+          },
+          {
+            "word": "électeurs",
+            "definition": "les personnes qui votent dans une élection."
+          },
+          {
+            "word": "démocrates",
+            "definition": "membres d'un parti politique en opposition aux républicains."
+          },
+          {
+            "word": "obstacles",
+            "definition": "des choses qui empêchent ou rendent difficile quelque chose."
+          },
+          {
+            "word": "avenir",
+            "definition": "le temps qui va venir, ce qui est à venir."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le sujet principal du discours de Trump ?",
+            "options": [
+              "La sécurité des élections",
+              "Les vacances d'été",
+              "Les relations internationales"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi les démocrates ne sont-ils pas d'accord avec Trump ?",
+            "options": [
+              "Parce qu'ils aiment Trump",
+              "Parce qu'ils pensent que Trump inquiète les électeurs",
+              "Parce qu'ils veulent changer la loi"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de votes Trump dit-il qui ont été volés ?",
+            "options": [
+              "220 millions",
+              "50 millions",
+              "100 millions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump évoque des problèmes de sécurité électorale",
+        "text": "Le président américain, Donald Trump, a récemment fait un discours à la télévision. Dans cette allocution, il a accusé la Chine d'avoir interféré dans les élections de 2020. Trump a affirmé qu'il existe des vulnérabilités dans le système de vote américain. Selon lui, la Chine aurait acquis des données sur 220 millions d'électeurs, ce qui est très préoccupant. Il a aussi dit que les machines de vote étaient vulnérables aux attaques étrangères comme celles de la Russie et de l'Iran. Les démocrates ont réagi en l'accusant de mentir sur la sécurité électorale. Ils veulent que chaque électeur puisse voter librement sans ingérence, ce qui est essentiel pour une démocratie saine. Cet événement se produit avant les élections de mi-mandat en novembre. Si Trump continue à faire ces allégations, cela pourrait nuire à la confiance des électeurs. La sécurité des élections est donc très importante pour le bon fonctionnement de la démocratie. Pour remédier à cela, Trump veut proposer une nouvelle loi, qui pourrait obliger les électeurs à prouver leur identité pour voter. Cela pourrait changer la manière dont les Américains votent à l'avenir. Ses propositions pourraient également diviser encore plus le pays en deux camps opposés, ce qui complique les débats pour le gouvernement. En attendant, des experts signalent que les systèmes électoraux doivent être protégés contre toute forme d'interférence étrangère afin de garantir l'intégrité des élections.",
+        "vocabulary": [
+          {
+            "word": "ingérence",
+            "definition": "Interférence ou intrusion dans une chose qui ne nous concerne pas."
+          },
+          {
+            "word": "vulnérabilités",
+            "definition": "Faiblesses ou points sensibles qui peuvent être attaqués."
+          },
+          {
+            "word": "démocratie",
+            "definition": "Système de gouvernement où le pouvoir appartient au peuple."
+          },
+          {
+            "word": "identité",
+            "definition": "Les éléments qui définissent une personne, comme son nom ou ses caractéristiques."
+          },
+          {
+            "word": "confiance",
+            "definition": "Sentiment de sécurité fondé sur la certitude que quelque chose est vrai."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles machines Trump a-t-il mentionnées comme vulnérables ?",
+            "options": [
+              "Machines de vote",
+              "Ordinateurs personnels",
+              "Téléphones intelligents"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel objectif les démocrates souhaitent-ils garantir pour les électeurs ?",
+            "options": [
+              "Voter sans ingérence",
+              "Voter avec des preuves",
+              "Voter en dehors du pays"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi Trump désire-t-il changer la loi sur les élections ?",
+            "options": [
+              "Pour rendre le vote plus difficile",
+              "Pour améliorer la sécurité électorale",
+              "Pour augmenter le nombre d'électeurs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump affirme des 'vulnérabilités choquantes' dans la sécurité des élections américaines avant les élections de mi-mandat",
+        "text": "Le président américain Donald Trump a prononcé un discours en prime time, au cours duquel il a accusé la Chine de s'immiscer dans les élections de 2020 et a déclaré qu'il existait des 'vulnérabilités choquantes' dans les systèmes de vote américain. Trump, qui s'est exprimé depuis la Maison-Blanche jeudi, a réitéré ses allégations non fondées concernant la fraude électorale et l'ingérence étrangère durant ces élections qu'il a perdues face à Joe Biden. Lors de son discours d'une demi-heure, donné trois mois avant les élections de mi-mandat, il a affirmé avoir déclassifié des centaines de fichiers de renseignement soutenant ses accusations selon lesquelles Pékin aurait tenté de fausser l'élection en faveur de Biden. Toutefois, la communauté du renseignement américain a conclu que la Chine n'avait pas tiré avantage de cette élection. Devant de nombreux membres de son équipe dirigeante, Trump a déclaré que la Chine avait acquis illégalement 220 millions de fichiers de votants, contenant des informations personnelles. Il a également alléguait que des données sur les électeurs dans 18 états avaient été 'achetées, volées ou piratées par la Chine'. Pour finir, Trump a exhorté à la nécessité d'un changement législatif pour renforcer la sécurité des élections, bien qu'il n'ait présenté aucune preuve réelle de l'ingérence de la Chine.",
+        "vocabulary": [
+          {
+            "word": "accusé",
+            "definition": "dire que quelqu'un a fait quelque chose de mal."
+          },
+          {
+            "word": "élections",
+            "definition": "votations pour choisir des dirigeants."
+          },
+          {
+            "word": "vulnérabilités",
+            "definition": "faiblesses ou points sensibles."
+          },
+          {
+            "word": "ingérence",
+            "definition": "intervention dans les affaires d'autrui."
+          },
+          {
+            "word": "déclarations",
+            "definition": "affirmations faites publiquement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a accusé la Chine d'interférer dans l'élection de 2020?",
+            "options": [
+              "Joe Biden",
+              "Donald Trump",
+              "Barack Obama"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de fichiers de votants la Chine aurait-elle acquis selon Trump?",
+            "options": [
+              "220 millions",
+              "120 millions",
+              "320 millions"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelles élections approchent après le discours de Trump?",
+            "options": [
+              "Les élections présidentielles",
+              "Les élections de mi-mandat",
+              "Les élections locales"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump soulève des 'vulnérabilités choquantes' du système électoral américain en vue des élections de mi-mandat",
+        "text": "Dans une allocution diffusée en prime time, le président américain Donald Trump a exprimé des préoccupations quant à d'éventuelles interférences chinoises lors des élections de 2020, tout en dénonçant ce qu'il qualifie de 'vulnérabilités choquantes' dans les systèmes de vote des États-Unis. S'exprimant depuis la Maison-Blanche, il a une fois de plus évoqué des allégations de fraude électorale, faisant valoir qu'il avait déclassifié un nombre considérable de documents d'intelligence qui soutiendraient ses déclarations concernant l'implication de Pékin dans ces scrutins, en dépit des conclusions contemporaines des agences de renseignement précisant que la Chine n'a pas influencé ces élections. Dans son discours, qui a eu lieu trois mois avant le scrutin de mi-mandat, il a insisté sur le fait que des données sur les électeurs dans plusieurs États avaient été 'achetées ou piratées par la Chine'. Toutefois, aucune preuve tangible n'a été fournie pour démontrer que ces actes avaient eu des répercussions sur les résultats des élections. En réponse, l'ambassade chinoise a catégoriquement nié toute ingérence, soulignant que le respect du processus démocratique américain est primordial. Ce discours a immédiatement suscité des réactions critiques, avec des démocrates qui ont exprimé leur indignation face à la rhétorique de Trump, insistant sur le fait que l'intégrité des élections américaines doit être préservée.",
+        "vocabulary": [
+          {
+            "word": "allocution",
+            "definition": "discours formel devant un public."
+          },
+          {
+            "word": "éventuelles",
+            "definition": "possibles mais pas certaines."
+          },
+          {
+            "word": "déclassifié",
+            "definition": "rendre des informations accessibles au public."
+          },
+          {
+            "word": "répercussions",
+            "definition": "conséquences d'un acte."
+          },
+          {
+            "word": "insister",
+            "definition": "souligner l'importance de quelque chose."
+          }
+        ],
+        "questions": [
+          {
+            "question": "De quel pays Trump a-t-il accusé une ingérence dans les élections?",
+            "options": [
+              "La Russie",
+              "La Chine",
+              "L'Iran"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle a été la réponse de l'ambassade chinoise?",
+            "options": [
+              "Ils ont admis l’ingérence",
+              "Ils ont nié toute ingérence",
+              "Ils ont soutenu Trump"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel type de documents Trump a-t-il mentionné avoir déclassifié?",
+            "options": [
+              "Des fichiers de vote",
+              "Des fichiers d'intelligence",
+              "Des fichiers diplomatiques"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump dénonce des 'vulnérabilités choquantes' et évoque l'ingérence chinoise en prévision des élections",
+        "text": "Lors d'une allocution retransmise en prime time, le président des États-Unis, Donald Trump, a livré une charge accusatoire envers la Chine, l'impliquant dans une supposée ingérence lors des élections de 2020, tout en présentant des 'vulnérabilités choquantes' au sein des systèmes électoraux américains. Malgré l'absence de preuves tangibles, Trump a affirmé avoir déclassifié de nombreux documents de renseignement corroborant ses allégations, pourtant largement réfutées par la communauté du renseignement qui a déjà souligné que Pékin n’avait pas interféré.Avant les élections de mi-mandat, qui se profilent à l'horizon, son discours, marqué par des accusations de piratage et d'achats illicites de données électorales, a révélé une préoccupation croissante quant à la sécurité des processus démocratiques tout en suscitant une vive controverse au sein du paysage politique américain. Des membres du Congrès démocrate ont réagi promptement, dénonçant ce qui semblait être une tentative de Trump d'éroder la confiance du public envers l'intégrité électorale, une atteinte potentiellement dévastatrice aux fondements mêmes de la démocratie. Alors qu'il prône le passage de la loi SAVE America, qui viserait à restreindre le vote par correspondance et imposer des mesures strictes sur l'inscription électorale, il est manifeste que ses propos visent à galvaniser une base électorale en proie au scepticisme. L’efficacité de cette stratégie, néanmoins, demeure sujette à caution, alors que le climat de méfiance persiste à se développer à travers le pays.",
+        "vocabulary": [
+          {
+            "word": "réfutée",
+            "definition": "démontée par des preuves."
+          },
+          {
+            "word": "galvaniser",
+            "definition": "stimuler ou motiver fortement."
+          },
+          {
+            "word": "érodent",
+            "definition": "diminuent ou dégradent progressivement."
+          },
+          {
+            "word": "contemporaine",
+            "definition": "qui fait partie de notre temps."
+          },
+          {
+            "word": "atteinte",
+            "definition": "dommage causé à quelque chose."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel pays Trump a-t-il accusé d'ingérence dans les élections de 2020?",
+            "options": [
+              "La Chine",
+              "La Russie",
+              "L'Iran"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment les démocrates ont-ils réagi au discours de Trump?",
+            "options": [
+              "Ils ont soutenu Trump",
+              "Ils ont dénoncé ses propos",
+              "Ils se sont tus"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle loi Trump veut-il faire passer?",
+            "options": [
+              "La loi SAVE America",
+              "La loi sur la santé",
+              "La loi sur l'environnement"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Trump dice que hay problemas en las elecciones",
+        "text": "Donald Trump es el presidente de Estados Unidos. Él habla sobre las elecciones. Trump dice que China tiene problemas con las elecciones. Él dice que hay datos de votantes robados. Trump dice que los datos son de 220 millones de personas. También dice que hay máquinas de votar inseguras. Muchas personas creen que los datos son falsos. China dice que no es verdad. Democrats están preocupados por esto. Ellos quieren elecciones seguras. Trump quiere cambiar la ley de votación. Muchas personas no están contentas con esto. Las elecciones son en noviembre.",
+        "vocabulary": [
+          {
+            "word": "presidente",
+            "definition": "persona que lidera un país"
+          },
+          {
+            "word": "elecciones",
+            "definition": "evento para elegir líderes"
+          },
+          {
+            "word": "China",
+            "definition": "un país en Asia"
+          },
+          {
+            "word": "datos",
+            "definition": "información"
+          },
+          {
+            "word": "máquinas",
+            "definition": "objetos que ayudan a trabajar"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el presidente de Estados Unidos?",
+            "options": [
+              "Donald Trump",
+              "Joe Biden",
+              "Barack Obama"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dice Trump sobre China?",
+            "options": [
+              "No hay problemas",
+              "Hay problemas",
+              "Es un buen país"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos datos de votantes dice Trump que son robados?",
+            "options": [
+              "200 millones",
+              "220 millones",
+              "300 millones"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump habla sobre problemas en las elecciones",
+        "text": "El presidente de Estados Unidos, Donald Trump, dio un discurso importante ayer. En este discurso, él dice que China está interfiriendo en las elecciones. Trump también habla de problemas en los sistemas de votación y critica a las máquinas que no son seguras. Él afirma que hay 220 millones de datos de votantes robados, lo cual es un número muy alto. Trump asegura que algunos datos son comprados o robados. La embajada de China dice que esto no es cierto y que nunca han interferido en las elecciones de Estados Unidos. Muchos demócratas están preocupados por las palabras de Trump porque ellos piensan que él quiere crear dudas sobre la seguridad de las elecciones en noviembre. Esto sucede tres meses antes de las elecciones. La situación es muy tensa. Es importante que todos los votantes se sientan seguros al votar. Muchos ciudadanos quieren acceso libre y seguro para expresar su opinión en las urnas. Este discurso podría influir en la confianza de los votantes y en el resultado de las elecciones.",
+        "vocabulary": [
+          {
+            "word": "interferir",
+            "definition": "intentar influir en algo de manera negativa"
+          },
+          {
+            "word": "seguridad",
+            "definition": "la condición de estar seguro y protegido"
+          },
+          {
+            "word": "elecciones",
+            "definition": "el proceso de elegir a los representantes mediante el voto"
+          },
+          {
+            "word": "discurso",
+            "definition": "una exposición oral sobre un tema"
+          },
+          {
+            "word": "votantes",
+            "definition": "personas que participan en una elección para elegir a sus representantes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué dice Trump sobre China en su discurso?",
+            "options": [
+              "Que está ayudando a las elecciones",
+              "Que está interferiendo en las elecciones",
+              "Que no tiene nada que ver con las elecciones"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos datos de votantes dice Trump que han sido robados?",
+            "options": [
+              "220 millones",
+              "200 millones",
+              "150 millones"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué están preocupados los demócratas?",
+            "options": [
+              "Porque Trump quiere crear dudas sobre la seguridad",
+              "Porque Trump va a renunciar",
+              "Porque Trump quiere cambiar la fecha de las elecciones"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump denuncia vulnerabilidades en la seguridad electoral estadounidense",
+        "text": "El presidente de Estados Unidos, Donald Trump, realizó un discurso importante sobre las elecciones en el que acusó a China de interferir en el proceso electoral de 2020. En este discurso, Trump afirmó que había vulnerabilidades impactantes en los sistemas de votación de su país. Según él, se habían robado datos de 220 millones de votantes, lo que pone en riesgo la integridad del sistema democrático. Trump dijo que esta información había sido comprada o hackeada por China. Sin embargo, la comunidad de inteligencia de Estados Unidos ha concluido que no hubo interferencia por parte de China. Después del discurso, los demócratas expresaron su preocupación y denunciaron que Trump quiere sembrar dudas sobre la seguridad electoral. Si Trump continúa haciendo estas afirmaciones sin evidencia clara, podría afectar la confianza del público en el sistema electoral. Además, Trump mencionó que las máquinas de votación son inseguras y que podrían ser vulnerables a ataques extranjeros. Este discurso fue especialmente significativo, ya que ocurrió a solo tres meses de las elecciones de noviembre, que pueden definir el control del Congreso. La situación ha generado un debate nacional sobre las medidas de seguridad que deben implementarse para proteger las elecciones. Es importante que si los sistemas de votación tienen problemas, se aborden rápidamente para mantener la confianza de los votantes en el proceso electoral.",
+        "vocabulary": [
+          {
+            "word": "interferencia",
+            "definition": "la acción de intervenir o meterse en algo que no te concierne."
+          },
+          {
+            "word": "vulnerabilidades",
+            "definition": "debilidades o puntos débiles que pueden ser explotados."
+          },
+          {
+            "word": "democrático",
+            "definition": "relacionado con la democracia, que es un sistema de gobierno en el que el pueblo elige a sus representantes."
+          },
+          {
+            "word": "suspicacia",
+            "definition": "desconfianza o desconfianza hacia algo o alguien."
+          },
+          {
+            "word": "integridad",
+            "definition": "la calidad de ser completo o entero, en este caso, se refiere a la honestidad del proceso electoral."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué acusó Trump en su discurso sobre las elecciones?",
+            "options": [
+              "Que hubo un fraude electoral en 2020.",
+              "Que China hackeó los datos de 220 millones de votantes.",
+              "Que los ciudadanos no confían en el sistema electoral."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál fue la reacción de los demócratas después del discurso?",
+            "options": [
+              "Celebraron las afirmaciones de Trump.",
+              "Expresaron preocupación sobre la seguridad electoral.",
+              "Apoyaron las sugerencias de Trump."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ocurrió a tres meses de las elecciones de noviembre?",
+            "options": [
+              "Trump minimizó la importancia de las elecciones.",
+              "Se discutieron medidas de seguridad electoral.",
+              "Trump realizó un discurso sobre las vulnerabilidades."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump denuncia 'vulnerabilidades alarmantes' en la seguridad electoral de EE. UU. antes de las elecciones de medio término",
+        "text": "El presidente de EE. UU., Donald Trump, pronunció un discurso en horario estelar donde acusó a China de interferir en las elecciones de 2020 y alegó que existen \"vulnerabilidades alarmantes\" en los sistemas de votación estadounidenses. Trump, que habló desde la Casa Blanca el jueves, ha repetido afirmaciones infundadas sobre el fraude electoral y la intrusión extranjera en las elecciones de 2020, las cuales perdió ante Joe Biden. En su discurso de media hora, dado tres meses antes de las elecciones de medio término, aseguró haber desclasificado cientos de archivos de inteligencia que respaldan su afirmación de que Pekín intentó influir en los resultados a favor de Biden. No obstante, la comunidad de inteligencia de EE. UU. había concluido previamente que China no había interferido en dichos comicios. Trump se dirigió a varios miembros de su equipo mientras realizaba su presentación, pero los periodistas no pudieron hacer preguntas al presidente. En sus comentarios, acusó a China de la \"adquisición ilícita\" de 220 millones de registros de votantes que incluían información personal. Afirmó que los datos de votantes en 18 estados fueron \"comprados, robados o hackeados por China\" y criticó a \"aquellos responsables de alertar\" por no informar a los funcionarios del gobierno o al Congreso. Sin embargo, no presentó pruebas de que China hubiera utilizado la información recopilada para modificar sistemas de votación o para influir en los resultados electorales.",
+        "vocabulary": [
+          {
+            "word": "denunciar",
+            "definition": "decir que algo es malo o incorrecto"
+          },
+          {
+            "word": "vulnerabilidades",
+            "definition": "puntos débiles o riesgos"
+          },
+          {
+            "word": "interferir",
+            "definition": "meterse en algo sin permiso"
+          },
+          {
+            "word": "asegurar",
+            "definition": "decir algo con confianza"
+          },
+          {
+            "word": "adquisición",
+            "definition": "cuando se obtiene algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué país acusó Trump de interferir en las elecciones?",
+            "options": [
+              "Estados Unidos",
+              "China",
+              "Rusia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde habló Trump en su discurso?",
+            "options": [
+              "Desde su oficina",
+              "Desde la Casa Blanca",
+              "Desde un hotel"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos registros de votantes dijo Trump que China adquirió?",
+            "options": [
+              "100 millones",
+              "220 millones",
+              "50 millones"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Discurso de Trump resalta 'vulnerabilidades alarmantes' en la seguridad electoral estadounidense previo a las elecciones de medio término",
+        "text": "El presidente Donald Trump ha llevado a cabo este jueves un discurso en horario estelar en el que ha acusado a China de interferir en las elecciones del 2020, y en el cual ha expuesto lo que él describe como \"vulnerabilidades alarmantes\" dentro de los sistemas de voto norteamericanos. A pesar de que ha repetido en diversas ocasiones alegaciones sobre fraude electoral y entrometimiento extranjero tras perder contra Joe Biden, el mandatario aseguró que había desclasificado múltiples documentos de inteligencia que corroboran su afirmación de que Beijing intentó influenciar el resultado electoral en favor del demócrata. Sin embargo, la comunidad de inteligencia estadounidense había llegado anteriormente a la conclusión de que no hubo interferencia por parte de China en las elecciones. Ante un grupo selecto de allegados, Trump formuló estas acusaciones, pero no se permitió que los periodistas hicieran preguntas, lo que suscita críticas sobre la transparencia del evento. En su alocución, Trump denunció la \"adquisición ilícita\" de registros de votantes —220 millones según sus palabras— y aseguró que la información personal de votantes en 18 estados fue \"robada, comprada o hackeada\" por el país asiático. No obstante, la falta de evidencia sólida para respaldar sus afirmaciones ha levantado suspicacias sobre su intención de generar desconfianza hacia el sistema electoral.",
+        "vocabulary": [
+          {
+            "word": "resaltar",
+            "definition": "hacer más evidente o notable algo"
+          },
+          {
+            "word": "alocución",
+            "definition": "discurso o intervención oral"
+          },
+          {
+            "word": "corroborar",
+            "definition": "confirmar la veracidad de algo"
+          },
+          {
+            "word": "suspicacias",
+            "definition": "desconfianza o dudas sobre algo"
+          },
+          {
+            "word": "ilícita",
+            "definition": "que es ilegal o prohibido"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué documentos dijo Trump haber desclasificado?",
+            "options": [
+              "Documentos sobre economía",
+              "Documentos de inteligencia",
+              "Documentos de salud"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos registros de votantes afirma Trump que fueron robados?",
+            "options": [
+              "220 millones",
+              "150 millones",
+              "180 millones"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál fue la conclusión de la comunidad de inteligencia sobre la interferencia de China?",
+            "options": [
+              "Que China sí interferió",
+              "Que no hubo interferencia",
+              "Que investigarán sobre esto"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump lanza acusaciones sobre la seguridad electoral de EE. UU. señalando 'vulnerabilidades alarmantes' antes de las elecciones de medio término",
+        "text": "Durante un discurso cargado de acusaciones y rodeado de un selecto grupo de asesores, el presidente Donald Trump azuzó suspicacias afirando que China había infiltrado el proceso electoral estadounidense y exhibió lo que bajo su criterio constituyen 'vulnerabilidades alarmantes' en los sistemas de votación del país. En este monólogo, que tuvo lugar desde la Casa Blanca, Trump alegó que había desclasificado un arsenal de documentos de inteligencia que supuestamente sustentarían sus afirmaciones de que Pekín intentó manipular el desenlace de los comicios en favor de Joe Biden. Contrario a sus declaraciones, informes previos de la comunidad de inteligencia estadounidense descartaron cualquier intervención por parte de China en las elecciones de 2020. No obstante, el presidente procedió a denunciar la supuesta 'adquisición ilícita' de 220 millones de archivos de votantes, enfatizando que estos datos, pertenecientes a 18 estados, fueron 'comprados, robados o hackeados' por la potencia asiática. Sin embargo, su falta de evidencias y la ausencia de un cuestionario a los medios de comunicación durante el discurso no lograron convencer a sus detractores, quienes lo acusan de propagar desinformación. Este discurso se produce en un contexto donde las tensiones con los votantes acerca de la integridad electoral han alcanzado un nuevo pico, lo que llevó a críticos a cuestionar si la intención real de Trump es sembrar la incertidumbre en el inminente proceso electoral.",
+        "vocabulary": [
+          {
+            "word": "azuzar",
+            "definition": "incitar o estimular algo, generalmente de manera negativa"
+          },
+          {
+            "word": "infiltrar",
+            "definition": "introducirse en un lugar o sistema en secreto, para un fin específico"
+          },
+          {
+            "word": "sustentar",
+            "definition": "proveer soporte o base a una idea o afirmación"
+          },
+          {
+            "word": "detractores",
+            "definition": "personas que critican o desmerecen a alguien o algo"
+          },
+          {
+            "word": "manipular",
+            "definition": "controlar algo de manera astuta o deshonesta"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué acusó Trump sobre China respecto a las elecciones?",
+            "options": [
+              "Que ayudó a Joe Biden",
+              "Que había interferido",
+              "Que no había participado"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál fue la reacción de la comunidad de inteligencia a las afirmaciones de Trump?",
+            "options": [
+              "Confirmaron sus afirmaciones",
+              "Desmintieron su intervención",
+              "Solicitaron más pruebas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de archivos dijo Trump que había sido adquiridos ilícitamente?",
+            "options": [
+              "Archivos de documentación científica",
+              "Archivos de votantes",
+              "Archivos de salud pública"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

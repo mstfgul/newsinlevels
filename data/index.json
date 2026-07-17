@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-17-more-than-500-rohingya-vanished-at-sea-what-happened",
+    "date": "2026-07-17",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a36/live/05b688a0-8188-11f1-beba-0f13070b307b.jpg",
+    "category": "world",
+    "titles": {
+      "en": "The Disappearance of Rohingya Boats",
+      "de": "Die Verschwindenden der Rohingya-Boote",
+      "fr": "Disparition de Rohingyas en mer",
+      "es": "Tragedia de los Rohingyas en el mar"
+    }
+  },
+  {
+    "id": "2026-07-17-trump-alleges-shocking-vulnerabilities-in-us-election-securi",
+    "date": "2026-07-17",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d581/live/e4364610-818d-11f1-bee8-53ce494e1abc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump warns about election security and claims Chinese interference",
+      "de": "Trump erhebt Vorwürfe zur Wahlsicherheit in den USA",
+      "fr": "Trump évoque des problèmes de sécurité électorale",
+      "es": "Trump denuncia vulnerabilidades en la seguridad electoral estadounidense"
+    }
+  },
+  {
+    "id": "2026-07-17-us-launches-new-strikes-as-iran-says-civilian-infrastructure",
+    "date": "2026-07-17",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8760/live/117c8740-8195-11f1-b976-0b9c15b0ccfc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Military Action Against Iran Escalates",
+      "de": "USA führen neue Angriffe auf Iran durch",
+      "fr": "L'escalade des tensions entre les États-Unis et l'Iran",
+      "es": "Escalada de tensiones entre Estados Unidos e Irán"
+    }
+  },
+  {
     "id": "2026-07-16-families-of-43-victims-await-verdict-in-genoa-bridge-disaste",
     "date": "2026-07-16",
     "source": "BBC News",

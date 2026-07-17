@@ -1,0 +1,1393 @@
+{
+  "id": "2026-07-17-more-than-500-rohingya-vanished-at-sea-what-happened",
+  "date": "2026-07-17",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "More than 500 Rohingya vanished at sea - what happened?",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a36/live/05b688a0-8188-11f1-beba-0f13070b307b.jpg",
+  "category": "world",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Rohingya People Are Missing at Sea",
+        "text": "Two boats have people. The boats leave Myanmar on June 29. There are 530 Rohingya people on the boats. The sea is rough now. The boats are old fishing boats. The boats can sink. Many people on the boats are women and children. We do not know if they are alive or dead. The Rakhine state is not safe. There is a war there. Rohingyas try to leave by boat. They want to go to Malaysia. The families hope to hear from them. But they hear nothing. This is sad. The Rohingya people need help.",
+        "vocabulary": [
+          {
+            "word": "boats",
+            "definition": "Things that float on water and carry people."
+          },
+          {
+            "word": "people",
+            "definition": "Humans or persons."
+          },
+          {
+            "word": "leave",
+            "definition": "To go away from a place."
+          },
+          {
+            "word": "war",
+            "definition": "A fight between groups."
+          },
+          {
+            "word": "hope",
+            "definition": "To want something to happen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many people are on the boats?",
+            "options": [
+              "300",
+              "530",
+              "100"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What kind of boats are they?",
+            "options": [
+              "New boats",
+              "Fishing boats",
+              "Fast boats"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Do the families hear from the boats?",
+            "options": [
+              "Yes",
+              "No",
+              "Sometimes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "More Than 500 Rohingya Are Missing at Sea",
+        "text": "On June 29, two boats left Myanmar with about 530 Rohingya asylum seekers. These boats have not been seen since. The sea is very rough now because of the monsoon. These boats are old fishing boats. They are not safe for many people. It is likely that the boats capsized in the waves. Many of the missing people may be women and children. Rakhine state has been in a war. The military fights with the Arakan Army there. The Rohingya are escaping to Malaysia. Their families usually hear from them within a week, but now they hear nothing. This situation is very sad because the Rohingya need help. Many families hope their loved ones are safe.",
+        "vocabulary": [
+          {
+            "word": "asylum",
+            "definition": "Protection given to people escaping a country."
+          },
+          {
+            "word": "missing",
+            "definition": "Not available or not found."
+          },
+          {
+            "word": "rough",
+            "definition": "Very strong and big waves."
+          },
+          {
+            "word": "likely",
+            "definition": "Probably going to happen."
+          },
+          {
+            "word": "situation",
+            "definition": "A set of conditions or events."
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many Rohingya left Myanmar on the boats?",
+            "options": [
+              "500",
+              "600",
+              "530"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What type of boats are they?",
+            "options": [
+              "Fishing boats",
+              "Sailing boats",
+              "Luxury boats"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Where do the Rohingyas want to go?",
+            "options": [
+              "To Thailand",
+              "To Malaysia",
+              "To China"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Disappearance of Rohingya Boats",
+        "text": "On June 29, two boats carrying around 530 Rohingya asylum seekers left Rakhine state in Myanmar. Since their departure, nobody has heard from them. The dangerous monsoon season has started, and the sea conditions are rough. These boats, which are old fishing trawlers, likely capsized in the water. Many of the people on board may have been women and children. The war in Rakhine state has made life very difficult for the Rohingya community, who face violence and discrimination. Over the years, the military junta has subjected them to forced conscription, and the Arakan Army, opposing the military, does not trust Rohingyas. Many Rohingya are trying to escape to Malaysia for safety. Normally, families expect to hear from their loved ones within a week, but nearly three weeks have passed without news. This raises concern about their safety, especially with reports of bodies found in the sea. This suggests that the boats may have sunk, and sadly, there might be few survivors. With around a million Rohingyas living in overcrowded Bangladesh camps, where aid is running out, they feel they have no choice but to risk everything to find a better life. The situation for the Rohingyas is very serious. If international authorities do not intervene soon, many more lives may be lost in this dangerous struggle for survival.",
+        "vocabulary": [
+          {
+            "word": "asylum seekers",
+            "definition": "people who seek protection in another country due to fear of persecution in their home country."
+          },
+          {
+            "word": "monsoon",
+            "definition": "a seasonal wind that brings heavy rain, especially in South Asia."
+          },
+          {
+            "word": "discrimination",
+            "definition": "the unfair treatment of a person or group based on characteristics like ethnicity or religion."
+          },
+          {
+            "word": "conscription",
+            "definition": "the compulsory enlistment of people for military service."
+          },
+          {
+            "word": "survivors",
+            "definition": "people who remain alive after an event, especially a disaster or accident."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the main reason Rohingya asylum seekers leave Myanmar?",
+            "options": [
+              "To find better jobs",
+              "To escape violence and discrimination",
+              "To seek adventure"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How long has it been since the boats left, without news?",
+            "options": [
+              "One week",
+              "Two weeks",
+              "Nearly three weeks"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What do reports suggest about the condition of the boats?",
+            "options": [
+              "They may have successfully arrived in Malaysia",
+              "They likely capsized in the rough sea",
+              "They ran out of fuel"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Rohingya Boats Disappear at Sea: Ongoing Crisis",
+        "text": "On June 29, a tragic event unfolded as two boats carrying approximately 530 Rohingya asylum seekers departed from Myanmar's Rakhine state. Since that day, these vessels have not been heard from, leading to fears that they capsized in treacherous waters. The onset of the monsoon season has resulted in stormy seas, making the already inadequate fishing trawlers, which were not designed for such journeys, even more vulnerable. Reports indicate that many of the passengers were women and children, and there may be few, if any, survivors. Chris Lewa, the director of the Arakan Project, has been attempting to uncover the fate of these boats, but her efforts have been hindered by the ongoing conflict in Rakhine. The Arakan Army has been engaged in combat with the Myanmar military, complicating communication efforts. Despite the challenges, Lewa believes that both vessels successfully departed on June 29. Typically, families of those aboard expect to receive updates within a week. However, nearly three weeks later, no messages have been received, and only a few bodies have washed ashore. With the plight of the Rohingya worsening, many see escape from Myanmar as their only hope for survival.",
+        "vocabulary": [
+          {
+            "word": "asylum",
+            "definition": "protection given to people escaping danger in their home country"
+          },
+          {
+            "word": "capsized",
+            "definition": "turned over in water"
+          },
+          {
+            "word": "monsoon",
+            "definition": "a season with heavy rain"
+          },
+          {
+            "word": "treacherous",
+            "definition": "dangerous or risky"
+          },
+          {
+            "word": "plight",
+            "definition": "a difficult or unfortunate situation"
+          },
+          {
+            "word": "vessels",
+            "definition": "large boats or ships"
+          },
+          {
+            "word": "survivors",
+            "definition": "people who remain alive after an event"
+          },
+          {
+            "word": "communicate",
+            "definition": "to share information with others"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many Rohingya were on the boats?",
+            "options": [
+              "530",
+              "1000",
+              "250"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Chris Lewa do?",
+            "options": [
+              "She is a fisherman.",
+              "She runs the Arakan Project.",
+              "She is a Rohingya asylum seeker."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is likely to have happened to the boats?",
+            "options": [
+              "They arrived safely.",
+              "They capsized.",
+              "They returned to port."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Disappearance of Rohingya Asylum Seekers at Sea",
+        "text": "On June 29, a heartbreaking incident occurred when two boats, carrying an estimated 530 Rohingya asylum seekers, departed from Rakhine State, Myanmar. Since that date, there has been no contact, raising significant concerns about their safety. Given the onset of the monsoon season, the likelihood of the vessels capsizing is high; they were essentially old fishing trawlers, repurposed for transporting vulnerable individuals. Chris Lewa, who leads the Arakan Project and advocates for the rights of Rohingyas, is investigating the situation, yet her research is hampered by violence and communication breakdowns in the region due to the ongoing conflict between the Arakan Army and the Myanmar military. Lewa has confirmed that both boats set sail on the morning of June 29, aiming for the southern coast of Myanmar, where the asylum seekers would transfer to overland routes toward Malaysia. Typically, families would expect news within a week, but nearly three weeks later, they remain without any information. This unsettling silence, compounded by a few recovered bodies, points to a grim outcome for those aboard. With organized crime and dire living conditions in Rakhine, many Rohingyas view escape as their only hope for a better future.",
+        "vocabulary": [
+          {
+            "word": "estimated",
+            "definition": "an approximate calculation or judgment"
+          },
+          {
+            "word": "transporting",
+            "definition": "moving from one place to another"
+          },
+          {
+            "word": "advocates",
+            "definition": "people who support or argue for a cause"
+          },
+          {
+            "word": "compounded",
+            "definition": "made worse by an additional element"
+          },
+          {
+            "word": "grim",
+            "definition": "serious and depressing"
+          },
+          {
+            "word": "repurposed",
+            "definition": "changed for a different use or function"
+          },
+          {
+            "word": "violence",
+            "definition": "behavior involving physical force intending to harm"
+          },
+          {
+            "word": "surveillance",
+            "definition": "careful watching or monitoring of people."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is Chris Lewa known for?",
+            "options": [
+              "Running the Arakan Project.",
+              "Being a ship captain.",
+              "Working in a medical field."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is likely about the boats?",
+            "options": [
+              "They arrived safely in Malaysia.",
+              "They have not been heard from.",
+              "They went back to Myanmar."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why is communication difficult for Chris Lewa?",
+            "options": [
+              "Because she lost her phone.",
+              "Due to ongoing conflict in Rakhine.",
+              "Because she is in another country."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Rohingya Asylum Seekers' Fate Remains Unknown Amidst Sea Tragedy",
+        "text": "On June 29, the departure of two boats, carrying an estimated 530 Rohingya asylum seekers from Myanmar's Rakhine state, marked another tragic chapter in their desperate search for safety. In the weeks that have followed, communication has ceased entirely, suggesting that the vessels might have capsized in the tumultuous seas, now characterized by unpredictable storms brought on by the monsoon season. Chris Lewa, the director of the Arakan Project, has been striving to unravel the mystery behind the fate of these boats, yet her pursuit is severely hindered by the ongoing strife between the Arakan Army and Myanmar’s military, which has rendered the region replete with violence and misinformation. Although she has gathered reports confirming that both boats departed as originally planned, their intended route toward the southern coast of Myanmar to facilitate a transfer to land passage for Malaysia has not yielded any conclusive evidence of survival. The prolonged silence from families, once hopeful of hearing from their loved ones, now weighs heavily, and the recovery of a few bodies only deepens the sense of loss. The grim reality faced by many Rohingyas, exacerbated by overcrowding in temporary camps in Bangladesh, drives individuals towards perilous travel across dangerous waters — this relentless quest for refuge starkly illuminates the extensive human trafficking network that exploits their vulnerability. Ultimately, the ongoing crises faced by the Rohingya community highlight not only the dire need for humanitarian intervention but also the harrowing consequences of systemic neglect and violence in Rakhine State.",
+        "vocabulary": [
+          {
+            "word": "departure",
+            "definition": "the act of leaving"
+          },
+          {
+            "word": "tumultuous",
+            "definition": "characterized by disturbance or disorder"
+          },
+          {
+            "word": "unravel",
+            "definition": "to solve or explain something that is difficult to understand"
+          },
+          {
+            "word": "strife",
+            "definition": "bitter conflict or struggle"
+          },
+          {
+            "word": "replete",
+            "definition": "fully or abundantly supplied"
+          },
+          {
+            "word": "yielded",
+            "definition": "produced or provided a result"
+          },
+          {
+            "word": "perilous",
+            "definition": "full of danger or risk"
+          },
+          {
+            "word": "humanitarian",
+            "definition": "concerned with or seeking to promote human welfare"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What was the estimated number of asylum seekers on the boats?",
+            "options": [
+              "530",
+              "1000",
+              "250"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is Chris Lewa?",
+            "options": [
+              "A director of the Arakan Project.",
+              "A local fisherman.",
+              "A government official."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the situation highlight for the Rohingya community?",
+            "options": [
+              "The need for better communication.",
+              "The need for humanitarian intervention.",
+              "The need for more jobs."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Rohingya auf dem Meer verschwunden",
+        "text": "Ein Boot hat 530 Menschen. Diese Menschen kommen aus Myanmar. Sie sind Rohingya und suchen Hilfe. Das Boot fährt am 29. Juni. Es gibt Nachrichten über das Boot nicht. Es kappt und sinkt im Wasser. Es gibt Sturm und hohe Wellen. Viele Menschen sind Frauen und Kinder. Die Menschen müssen schnell reisen. Man weiß nicht viel über die Menschen. Die Welt macht sich Sorgen um die Rohingya. Viele Menschen sind in Gefahr. Sie haben kein Zuhause. Sie leben in anderen Ländern. Die Situation ist schlimm.",
+        "vocabulary": [
+          {
+            "word": "Boot",
+            "definition": "Ein kleines Schiff"
+          },
+          {
+            "word": "Menschen",
+            "definition": "Die Leute, die leben"
+          },
+          {
+            "word": "Wasser",
+            "definition": "Das Element, in dem man schwimmen kann"
+          },
+          {
+            "word": "Hilfe",
+            "definition": "Unterstützung für jemand"
+          },
+          {
+            "word": "leben",
+            "definition": "Existieren oder wohnen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen sind im Boot?",
+            "options": [
+              "500",
+              "530",
+              "600"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Kommt das Boot aus Deutschland?",
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Wetter gibt es?",
+            "options": [
+              "Schönes Wetter",
+              "Sturm",
+              "Sonnenschein"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Rohingya-Boote sind verschwunden",
+        "text": "Am 29. Juni hat ein Boot mit 530 Rohingya aus Myanmar verlassen. Diese Menschen sind auf der Flucht, weil sie in ihrer Heimat stark verfolgt werden. Die Reise ist sehr gefährlich und riskant. Viele Boote sind alt und haben große Probleme. Die Rohingya versuchen, nach Malaysia zu kommen. Das Wetter ist schlecht. Es gibt einen starken Sturm und hohe Wellen. Vielleicht ist das Boot umgekippt. Es gibt noch keine Nachrichten von den Menschen. Normalerweise hören die Familien von ihren Angehörigen nach einer Woche. Der Zustand der Rohingya in Myanmar ist schlimm. Viele leben in Gefahr und müssen aus ihrer Heimat fliehen. In Bangladesch und Malaysia gibt es viele Rohingya. Sie sind in überfüllten Lagern und die Hilfe wird immer weniger. Chris Lewa, die das Arakan Project leitet, hat versucht, Informationen über die Boote zu bekommen. Sie glaubt, dass die Boote am 29. Juni gestartet sind. Eine Frau wurde tot gefunden und das spricht für eine Tragödie. Es gibt große Verzweiflung und viele Menschen brauchen Unterstützung.",
+        "vocabulary": [
+          {
+            "word": "Flucht",
+            "definition": "das Verlassen eines gefährlichen oder unerwünschten Ortes"
+          },
+          {
+            "word": "Verfolgung",
+            "definition": "das Bedrohen oder Fangen von Menschen wegen ihres Glaubens oder ihrer Herkunft"
+          },
+          {
+            "word": "Lagern",
+            "definition": "vorübergehende Wohnorte, oft überfüllt und ohne ausreichende Hilfe"
+          },
+          {
+            "word": "Unterstützung",
+            "definition": "Hilfe oder Beistand, besonders in schwierigen Situationen"
+          },
+          {
+            "word": "Tragödie",
+            "definition": "ein sehr schlimmes oder trauriges Ereignis, das viele Menschen betrifft"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann haben die Rohingya das Boot verlassen?",
+            "options": [
+              "Am 29. Juni",
+              "Am 30. Juni",
+              "Am 28. Juni"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum fliehen die Rohingya?",
+            "options": [
+              "Wegen besserer Lebensbedingungen",
+              "Wegen Verfolgung",
+              "Wegen Arbeit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer versucht, Informationen über die Rohingya zu bekommen?",
+            "options": [
+              "Die Familien",
+              "Chris Lewa",
+              "Die Fischer"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Die Verschwindenden der Rohingya-Boote",
+        "text": "Am 29. Juni verließen zwei Boote mit insgesamt 530 Rohingya aus dem Rakhine-Staat in Myanmar das Land. Diese Menschen suchen nach einem besseren Leben und fliehen vor schwierigen Bedingungen, die seit vielen Jahren in ihrer Region herrschen. Die Lage in Rakhine ist durch anhaltende Konflikte geprägt. Es ist sehr wahrscheinlich, dass die Boote umgekippt sind, da das Wetter schlecht war. Hohe Wellen und ein Sturm machen die Reise sehr gefährlich. Die Boote sind oft alte Fischerboote, die kaum seetauglich sind. Normalerweise hören die Familien nach einer Woche von ihren Angehörigen, aber fast drei Wochen sind vergangen, ohne Nachrichten. Für viele Angehörige ist das eine große Sorge. Es gibt auch Berichte, dass ein Körper im Wasser gefunden wurde. In Bangladesch haben mehr als eine Million Rohingya kein sicheres Zuhause. Sie leben oft in überfüllten Lagern, wo es kaum Unterstützung gibt. Es ist beängstigend, dass die meisten Rohingya nach Malaysia wollen, wo bereits viele von ihnen leben. Diese gefährliche Flucht führt oft zu Gewalt durch Menschenhändler, die die verzweifelten Menschen ausbeuten. Viele Frauen und Kinder sind betroffen und ihre Sicherheit ist in der Hochsee nicht gewährleistet. Die internationale Gemeinschaft steht vor einem Dilemma, weil es an Lösungen für diese humanitäre Krise fehlt. Wenn sich die Situation nicht verbessert, werden mehr Menschen versuchen, ihr Heimatland zu verlassen, was zu weiteren Tragödien führen könnte. Die schrecklichen Umstände zwingen die Rohingya, alles zu riskieren, um Hoffnung auf ein besseres Leben zu finden.",
+        "vocabulary": [
+          {
+            "word": "seetauglich",
+            "definition": "fähig, sicher auf dem Wasser zu fahren"
+          },
+          {
+            "word": "Lagern",
+            "definition": "Bereiche, in denen viele Menschen zusammen leben, oft unter schlechten Bedingungen"
+          },
+          {
+            "word": "Hochsee",
+            "definition": "der offene Ozean, weit weg von Land"
+          },
+          {
+            "word": "Krise",
+            "definition": "eine schwierige oder gefährliche Situation"
+          },
+          {
+            "word": "Menschenhändler",
+            "definition": "Personen, die illegal Menschen transportieren und ausbeuten"
+          },
+          {
+            "word": "ausbeuten",
+            "definition": "jemanden ausnutzen und unfair behandeln"
+          },
+          {
+            "word": "Verzweiflung",
+            "definition": "ein Gefühl der Hoffnungslosigkeit und Traurigkeit"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Rohingya haben die Boote verlassen?",
+            "options": [
+              "530",
+              "1000",
+              "250"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum versuchen die Rohingya nach Malaysia zu gelangen?",
+            "options": [
+              "Weil sie dort ein besseres Leben hoffen",
+              "Weil es zu gefährlich ist, in Rakhine zu leben",
+              "Weil sie dort Freunde haben"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist eine der Hauptgefahren auf der Flucht?",
+            "options": [
+              "Das Wetter",
+              "Hunde",
+              "Die Entfernung"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Über 500 Rohingya verschwunden - Was geschah?",
+        "text": "Am 29. Juni sind zwei Boote mit schätzungsweise 530 Rohingya-Asylsuchenden aus dem Bundesstaat Rakhine in Myanmar abgefahren. Seither hört man nichts mehr von ihnen, was einem Verschwinden eines Flugzeugs mit voller Besatzung gleichkommt. Man geht davon aus, dass beide Boote gekentert sind, da die Monsunzeit begonnen hat und die See sehr rau ist. Diese alten Fischerboote sind umgerüstet, um möglichst viele Menschen zu transportieren, sind aber kaum seetauglich und die Motoren sind unzuverlässig. Es wird vermutet, dass nur wenige oder gar keine Überlebende existieren könnten; möglicherweise waren die Hälfte der Passagiere Frauen und Kinder. Aber das bleibt ungewiss. Der Bundesstaat Rakhine befindet sich seit vielen Jahren im Krieg. Die Arakan-Armee hat die myanmarische Armee aus den meisten Gebieten vertrieben und belagert die letzte Festung in der Hauptstadt Sittwe, die mittlerweile nur noch per Luft- und Seeweg erreichbar ist. Chris Lewa, die das Arakan-Projekt leitet, versucht herauszufinden, was mit den Booten geschehen sein könnte. Der Mangel an Kontakten in Sittwe erschwert ihre Nachforschungen. Dennoch ist sie überzeugt, dass beide Boote am selben Tag in See stachen, eines am Morgen und das andere später. Ihr Ziel war die Südküste Myanmars, wo die Passagiere abgeladen werden sollten. Bis heute haben die Familien der Rohingya nichts von ihren Angehörigen gehört, obwohl sie normalerweise innerhalb einer Woche Nachricht bekommen würden. Der Leichnam einer Frau wurde aus dem Wasser geborgen. Fischer fanden noch einige weitere Leichen neun Tage später. Diese Umstände lassen auf einen Kentern der Boote schließen, wobei eines bereits nach wenigen Stunden versank.",
+        "vocabulary": [
+          {
+            "word": "verschwunden",
+            "definition": "nicht mehr da sein"
+          },
+          {
+            "word": "Vermutung",
+            "definition": "eine Annahme"
+          },
+          {
+            "word": "schätzungsweise",
+            "definition": "ungefähr, mehr oder weniger"
+          },
+          {
+            "word": "Glaubwürdigkeit",
+            "definition": "die Eigenschaft, glaubhaft zu sein"
+          },
+          {
+            "word": "Nachforschungen",
+            "definition": "Untersuchungen zu einem Thema"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Rohingya waren auf den Booten?",
+            "options": [
+              "520",
+              "530",
+              "540"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was vermutet man über den Zustand der Boote?",
+            "options": [
+              "Sie sind neu und sicher.",
+              "Sie sind alt und kaum seetauglich.",
+              "Sie sind schnell und groß."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer versucht herauszufinden, was mit den Booten geschehen ist?",
+            "options": [
+              "Die Armee von Myanmar.",
+              "Chris Lewa.",
+              "Die Rohingya selbst."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Die Verschwundenen: Rohingya auf der Flucht",
+        "text": "Am 29. Juni stachen zwei Boote mit etwa 530 Rohingya-Asylsuchenden von Myanmars Rakhine-Staat in See, doch seitdem gibt es keinerlei Nachrichten über ihr Schicksal. Experten vermuten, dass die Boote bereits gekentert sind; die raue See und das Einsetzen der Monsunzeit haben ihre Überfahrt gefährlich gemacht. Diese Boote, oft umgebaute alte Fischertrawler, sind in der Regel nicht seetauglich, und ihre Motoren arbeiten nicht zuverlässig. Es ist auch zu befürchten, dass nur wenige oder gar keine Passagiere überlebt haben könnten, wobei viele von ihnen Frauen und Kinder waren. Die Lage in Rakhine ist angespannt, da dort seit Jahren ein Konflikt zwischen der Arakan-Armee und der myanmarischen Armee herrscht. Chris Lewa, die Leiterin des Arakan-Projekts, das sich für die Rechte der Rohingya einsetzt, hat Schwierigkeiten, herauszufinden, was mit den beiden Booten geschah, da sie keine Kontakte mehr in Sittwe oder Sin Tet Maw, dem von der Arakan-Armee kontrollierten Hafen, hat. Dennoch ist sie zuversichtlich, dass die Boote am 29. Juni in See stachen; eines am Morgen und das andere später, um zur Südküste Myanmars zu gelangen. Dort sollten die Menschen abgeladen und durch Thailand zur malaysischen Grenze transportiert werden. Bisher haben die Familien der Rohingya nichts von ihren Angehörigen gehört, obwohl sie in der Regel nach einer Woche mit einer Nachricht rechnen. In der Zwischenzeit hat die bangladeschische Küstenwache eine Leiche geborgen, während Fischer neun Tage nach dem Verschwinden noch mehrere weitere Leichname fanden. Diese Fakten legen nahe, dass die Boote sicherlich gekentert sind.",
+        "vocabulary": [
+          {
+            "word": "vermutlich",
+            "definition": "wahrscheinlich, wahrscheinlich vielleicht"
+          },
+          {
+            "word": "beträchtlich",
+            "definition": "deutlich, ein großes Ausmaß"
+          },
+          {
+            "word": "konfliktbeladen",
+            "definition": "mit vielen Streitigkeiten verbunden"
+          },
+          {
+            "word": "zuversichtlich",
+            "definition": "optimistisch, glaubend, dass etwas gut ausgeht"
+          },
+          {
+            "word": "schwierig",
+            "definition": "nicht einfach, herausfordernd"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was vermutet man über den Zustand der Boote?",
+            "options": [
+              "Sie sind stabil und schnell.",
+              "Sie sind oft nicht seetauglich.",
+              "Sie sind neu und sicher."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer ist Chris Lewa?",
+            "options": [
+              "Ein Fischer aus Sittwe.",
+              "Eine Vorsitzende des Arakan-Projekts.",
+              "Eine Regierungsbeamtin."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie lange haben die Familien bereits von ihren Angehörigen nichts gehört?",
+            "options": [
+              "Eine Woche",
+              "Drei Wochen",
+              "Zwei Monate"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Schicksalsuntersuchungen: Das Verschwinden von Rohingya auf See",
+        "text": "Am 29. Juni, einem Tag, der für mehr als 500 Rohingya-Asylsuchende zum Schicksalstag wurde, verließen zwei Boote den von der Arakan-Armee umkämpften Hafen von Sin Tet Maw, und seitdem sind jegliche Nachrichten über ihr Schicksal unterblieben. Die dortige Situation ist sowohl durch kriegerische Auseinandersetzungen als auch durch die drückende Monsoonzeit geprägt, die die Überfahrt über das offene Meer zu einem gefährlichen Unterfangen macht. Da es sich bei den Booten, die überwiegend alte Fischergefährte sind, um unzureichend seetaugliche Flotte handelt, kann man die Wahrscheinlichkeit eines Kenterns als äußerst hoch einstufen. In dieser verzweifelten Lage trägt der Umstand, dass eine nicht unerhebliche Anzahl der Passagiere Frauen und Kinder gewesen sein soll, zur Bekräftigung der Beunruhigung bei. Chris Lewa, die das Arakan-Projekt leitet und sich unermüdlich für die Rechte der Rohingya einsetzt, hat versucht, durch fragmentarische Kontakte und bruchstückhafte Informationen herauszufinden, ob beide Boote tatsächlich wie vermutet am 29. Juni in See stachen und sich auf dem angestrebten Weg zur Südküste Myanmars befanden, wo die Überlebenden abgeladen und über Thailand zur malaysischen Grenze transportiert werden sollten. Bis heute haben die Angehörigen der Rohingya keinerlei Nachrichten erhalten, was das vertiefte Gefühl der Ohnmacht und der Verzweiflung nur verstärkt. Während die bangladeschische Marine einen Leichnam geborgen hat, entdeckten Fischer neun Tage später weitere Tote. Diese Informationen verdichten die Annahme, dass das Verschwinden der Boote unweigerlich an ein Unglück geknüpft ist, welches jene Menschen auf der Flucht betraf.",
+        "vocabulary": [
+          {
+            "word": "drückend",
+            "definition": "sehr stark oder belastend"
+          },
+          {
+            "word": "ambivalent",
+            "definition": "gegensätzliche Gefühle oder Meinungen gleichzeitig haben"
+          },
+          {
+            "word": "fragmentarisch",
+            "definition": "nur in Teilen vorhanden, unvollständig"
+          },
+          {
+            "word": "verstärken",
+            "definition": "intensivieren, kräftiger machen"
+          },
+          {
+            "word": "unweigerlich",
+            "definition": "unvermeidlich, nicht zu verhindern"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was geschah am 29. Juni mit den Rohingya?",
+            "options": [
+              "Sie erhielten Hilfe.",
+              "Sie stachen in See und verschwanden.",
+              "Sie wurden gerettet."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was bestätigt sich über die Rohingya-Boote?",
+            "options": [
+              "Sie sind seetauglich.",
+              "Sie sind zusammengebrochen.",
+              "Sie waren oft nicht seetauglich."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie reagiert Chris Lewa auf die Entwicklungen?",
+            "options": [
+              "Sie ist gleichgültig.",
+              "Sie setzt sich weiter für die Rechte der Rohingya ein.",
+              "Sie gibt die Suche auf."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Des Rohingya disparus en mer",
+        "text": "Deux bateaux partent de Myanmar. Ils transportent 530 Rohingyas. Ils quittent l'État de Rakhine le 29 juin. Les bateaux ne sont pas à la mer. Ils sombrent sûrement à cause des vagues. Il y a beaucoup de pluie. Les Rohingyas veulent aller en Malaisie. Ils cherchent une vie meilleure. Les familles ils attendent des nouvelles. Mais elles n'ont rien depuis presque trois semaines. Une femme est retrouvée morte. Les pêcheurs voient d'autres corps dans la mer. Les Rohingyas souffrent beaucoup en ce moment. Ils espèrent quitter leur pays.",
+        "vocabulary": [
+          {
+            "word": "bateau",
+            "definition": "Un moyen de transport sur l'eau."
+          },
+          {
+            "word": "mer",
+            "definition": "L'eau salée, grande comme un océan."
+          },
+          {
+            "word": "mieux",
+            "definition": "De manière plus bonne ou agréable."
+          },
+          {
+            "word": "nouvelle",
+            "definition": "Une information récente."
+          },
+          {
+            "word": "femme",
+            "definition": "Une personne adulte de sexe féminin."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de Rohingyas sont dans les bateaux?",
+            "options": [
+              "530",
+              "300",
+              "400"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand les bateaux quittent-ils Rakhine?",
+            "options": [
+              "29 juin",
+              "30 juin",
+              "28 juin"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Où veulent aller les Rohingyas?",
+            "options": [
+              "En Malaisie",
+              "En Chine",
+              "En Inde"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Rohingya disparus en mer",
+        "text": "Deux bateaux partent de l'État de Rakhine le 29 juin. Les bateaux transportent environ 530 demandeurs d'asile Rohingyas. Ils veulent fuir leur pays pour aller en Malaisie, car la situation est très difficile. De nombreuses familles vivent dans la peur et l'angoisse. Malheureusement, ces bateaux sont vieux et dangereux. Ils sombrent sûrement à cause des vagues pendant la mousson, qui rend la mer très agitée. Les familles attendent des nouvelles après plusieurs semaines. Une femme est retrouvée morte par des pêcheurs, et ces pêcheurs voient aussi d'autres corps sur la plage. Il est très probable que beaucoup de Rohingyas sont morts, particulièrement des femmes et des enfants. Les camps au Bangladesh sont très difficiles, avec peu de nourriture et de soins. Les Rohingyas espèrent trouver une vie meilleure ailleurs, loin de la violence et de la misère. Pour beaucoup, prendre le risque de partir est leur seul espoir.",
+        "vocabulary": [
+          {
+            "word": "demandeurs d'asile",
+            "definition": "Personnes qui demandent protection dans un autre pays."
+          },
+          {
+            "word": "mousson",
+            "definition": "Période de fortes pluies dans certaines régions."
+          },
+          {
+            "word": "pêcheurs",
+            "definition": "Personnes qui capturent des poissons."
+          },
+          {
+            "word": "camps",
+            "definition": "Lieux où des groupes de personnes vivent temporairement."
+          },
+          {
+            "word": "violence",
+            "definition": "Comportement brut qui cause du mal."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de Rohingyas sont à bord des deux bateaux?",
+            "options": [
+              "530",
+              "400",
+              "600"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi les Rohingyas veulent-ils fuir?",
+            "options": [
+              "Pour trouver un travail",
+              "Pour aller en Malaisie",
+              "Pour voir la mer"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que les pêcheurs trouvent sur la plage?",
+            "options": [
+              "Des bateaux",
+              "Des corps",
+              "Des poissons"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Disparition de Rohingyas en mer",
+        "text": "Le 29 juin, deux bateaux transportant environ 530 Rohingyas quittent l'État de Rakhine. Ils cherchent à fuir leur pays pour échapper aux violences croissantes dans la région. Les conditions maritimes sont mauvaises, car la mousson a commencé et les vagues sont hautes. Les bateaux, généralement de vieux chalutiers, sont en très mauvais état et peu adaptés pour ce long voyage. Il est fort probable que les bateaux ont sombré en mer agitée. Plusieurs jours après leur départ, les familles n'ont reçu aucune nouvelle de leurs proches. Des pêcheurs découvrent le corps d'une femme sur la plage et ils trouvent d'autres corps plus tard sur différentes plages. Les informations sont difficiles à obtenir parce que la région est en conflit, et il y a peu de communication. En effet, Chris Lewa, une activiste qui surveille la situation des Rohingyas, veut savoir ce qui s'est passé, mais elle n'a pas de contacts fiables. Les Rohingyas vivent déjà dans des conditions très dures au Bangladesh, où la pauvreté et le manque d'aide humanitaire sont extrêmes. Ils espèrent arriver en Malaisie, un pays où il y a déjà une communauté Rohingya, mais leur voyage est très dangereux. S'ils réussissent à atteindre la Malaisie, ils peuvent avoir une chance de mieux vivre, bien que le chemin soit risqué et que les opérations de contrebandiers soient fréquentes. Si leurs familles ne reçoivent pas de nouvelles, elles s'inquiètent de leur sort, surtout avec tant d'incertitude. Ces événements montrent la crise humanitaire profonde qui touche les Rohingyas, une population persécutée qui cherche désespérément un avenir meilleur.",
+        "vocabulary": [
+          {
+            "word": "chalutier",
+            "definition": "Un bateau de pêche utilisé pour attraper des poissons."
+          },
+          {
+            "word": "mousson",
+            "definition": "Une saison des pluies dans certaines régions du monde, souvent accompagnée de tempêtes."
+          },
+          {
+            "word": "persécutés",
+            "definition": "Des personnes qui souffrent de mauvais traitements à cause de leur race, religion ou origine."
+          },
+          {
+            "word": "humanitaire",
+            "definition": "Qui concerne l'aide aux personnes dans le besoin, souvent en cas de crise."
+          },
+          {
+            "word": "contrebande",
+            "definition": "Acte de faire passer des personnes ou des biens illégalement d'un pays à un autre."
+          },
+          {
+            "word": "communauté",
+            "definition": "Un groupe de personnes vivant ensemble ou partageant des intérêts communs."
+          },
+          {
+            "word": "incertitude",
+            "definition": "Un état de ne pas savoir ce qui va se passer."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de Rohingyas ont quitté l'État de Rakhine ?",
+            "options": [
+              "530",
+              "600",
+              "450"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi les conditions maritimes étaient-elles difficiles ?",
+            "options": [
+              "À cause de la tempête",
+              "À cause de la mousson",
+              "À cause des pirates"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que recherche Chris Lewa dans cette situation ?",
+            "options": [
+              "Des contacts pour aider les Rohingyas",
+              "Des nouvelles sur les bateaux disparus",
+              "Du soutien financier"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Disparition de plus de 500 Rohingyas en mer",
+        "text": "Le 29 juin, deux bateaux, transportant environ 530 demandeurs d'asile Rohingyas, ont quitté l'État de Rakhine, au Myanmar, et n'ont depuis pas donné de nouvelles. Il est très probable que ces embarcations aient chaviré, surtout avec le début de la saison des pluies et les tempêtes qui rendent la mer dangereuse. Ces vieux chalutiers, transformés pour transporter le maximum de personnes, étaient à peine adaptés à la navigation. Les autorités estiment qu'il pourrait n'y avoir eu que peu, voire aucun survivant, parmi lesquels une moitié étaient des femmes et des enfants. Rakhine est en proie à la guerre depuis des années, avec l'Armée Arakan qui chasse l'armée birmane de nombreuses régions. Chris Lewa, fondatrice du projet Arakan, a tenté de comprendre ce qui était arrivé aux deux bateaux. Les informations étant rares, elle est convaincue qu'ils ont bien quitté le port le 29 juin, l'un le matin et l'autre plus tard dans la journée. La destination probable était la côte sud du Myanmar, d'où les passagers auraient été transportés par la route, jusqu'à la Malaisie, en passant par des camps de transit. Normalement, les familles s'attendent à entendre des nouvelles dans les dix jours qui suivent, mais cela fait presque trois semaines qu'elles n'ont eu aucune nouvelle. Le corps d'une femme a été retrouvé par des pêcheurs, suggérant un tragique naufrage. Les conditions de vie des Rohingyas, qui fuient la persécution, restent désespérées et incertaines.",
+        "vocabulary": [
+          {
+            "word": "demandeurs",
+            "definition": "Personnes qui demandent quelque chose, ici l'asile."
+          },
+          {
+            "word": "nouvelles",
+            "definition": "Informations sur un événement."
+          },
+          {
+            "word": "chaviré",
+            "definition": "Lorsque quelque chose tombe à l'envers, ici les bateaux."
+          },
+          {
+            "word": "ouest",
+            "definition": "Direction opposée à l'est."
+          },
+          {
+            "word": "persécution",
+            "definition": "Traitement cruel d'un groupe ou d'une personne."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand les bateaux ont-ils quitté Rakhine?",
+            "options": [
+              "Le 29 juin",
+              "Le 29 juillet",
+              "Le 29 mai"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le rôle de Chris Lewa?",
+            "options": [
+              "Pêcheuse",
+              "Activiste pour les Rohingyas",
+              "Rédactrice de nouvelles"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que pensent les autorités des survivants?",
+            "options": [
+              "Il y en a beaucoup",
+              "Il n'y en a aucun",
+              "Il y en a quelques-uns"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Une tragédie maritime pour les Rohingyas",
+        "text": "Le 29 juin, deux embarcations transportant environ 530 Rohingyas demandeurs d'asile ont quitté l'État de Rakhine, au Myanmar, et demeurent introuvables depuis. Il est hautement probable que les bateaux ont chaviré, dévastés par la tempête que la saison des pluies a apportée. Ces vieux chalutiers, entassant autant de passagers que possible, n'étaient pas équipés pour affronter des mers aussi tumultueuses. Bien que l'on suppose qu'ils comportaient de nombreuses femmes et enfants, l'absence de nouvelles depuis leur départ soulève des inquiétudes sur la probabilité de survivants. Le pays est plongé dans un conflit armé durable, avec l'Armée Arakan chargeant de chasser les militaires birmans des zones rurales. Chris Lewa, responsable du projet Arakan, travaille à reconstituer les événements, mais les informations sont souvent inaccessibles en raison des restrictions militaires en vigueur. D’après elle, les deux bateaux seraient partis simultanément, l’un le matin et l’autre l’après-midi, et s’orientaient vers la côte sud du Myanmar, en vue d’un transfert vers la Malaisie. Dans un contexte où les familles ne reçoivent aucune nouvelle après trois semaines, la détresse et l’incertitude grandissent, tandis que la réalité des camps de réfugiés reste précaire, exacerbée par l’absence d’une aide suffisante.",
+        "vocabulary": [
+          {
+            "word": "embarcations",
+            "definition": "Bateaux pour transporter des personnes."
+          },
+          {
+            "word": "introuvables",
+            "definition": "Que l'on ne peut pas trouver."
+          },
+          {
+            "word": "tumultueuses",
+            "definition": "Violentes et agitées, surtout pour la mer."
+          },
+          {
+            "word": "restrictions",
+            "definition": "Limitations imposées."
+          },
+          {
+            "word": "précaires",
+            "definition": "Instables, dans une situation difficile."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le lien entre Chris Lewa et les Rohingyas?",
+            "options": [
+              "Elle leur fournit des ressources",
+              "Elle essaye de comprendre leur sort",
+              "Elle est une Rohingya elle-même"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle information est inconnue depuis le départ des bateaux?",
+            "options": [
+              "Le temps qu'il fait",
+              "Si des personnes ont survécu",
+              "Le nombre total de passagers"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Où les bateaux sont-ils supposés se diriger?",
+            "options": [
+              "Vers le nord du Myanmar",
+              "Vers la côte sud du Myanmar",
+              "Vers l'Ouest"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Les périls mortels d'une traversée Rohingya",
+        "text": "Le 29 juin, deux bateaux, intégrant environ 530 Rohingyas en quête d'asile, ont quitté l'État de Rakhine pour disparaître dans les profondeurs tumultueuses de la mer. Les incertitudes sur leur sort s’accumulent, avec une forte probabilité de chavirement due à l'arrivée de la saison des pluies, et des conditions météorologiques de plus en plus hostiles. Ces vieilles barques, devenues de véritables cercueils flottants, étaient conçues pour entasser un maximum de personnes, mais leur navigabilité était notoirement précaire, ce qui n'a pas pu empêcher le scénario tragique qui s'est probablement joué. En parallèle, la région est assaillie par un conflit armé dévastateur, l'Armée Arakan exerçant une pression militaire sur les forces birmanes. Chris Lewa, figure emblématique du projet Arakan, s'attèle jour et nuit à reconstituer les événements, mais sans accès aux informations directes, son entreprise demeure périlleuse. D'après les rares bribes d’informations cumulées, les embarcations auraient pris la direction de la côte sud du Myanmar dans l'espoir d'une émigration vers la Malaisie, une nation prisée par les Rohingyas pour échapper à la grimpe difficile des menaces quotidiennes qui pèsent sur eux. Quoique les familles attendent désespérément des nouvelles, trois semaines se sont écoulées sans un signe de vie, amplifiant la tragédie humaine en cours. La fatalité de cette traversée sublime et préoccupante invite à des réflexions profondes sur les droits humains et la nécessité d'une réponse internationale.",
+        "vocabulary": [
+          {
+            "word": "périls",
+            "definition": "Risques mortels ou dangers importants."
+          },
+          {
+            "word": "navigabilité",
+            "definition": "Capacité à naviguer en toute sécurité."
+          },
+          {
+            "word": "emportée",
+            "definition": "Action d'emmener dans un mouvement."
+          },
+          {
+            "word": "pression militaire",
+            "definition": "Conflit intensifiant des forces armées."
+          },
+          {
+            "word": "fatalité",
+            "definition": "Destin tragique inévitable."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel danger est évoqué concernant les bateaux des Rohingyas?",
+            "options": [
+              "Ils sont en sécurité en mer",
+              "Ils pourraient chavirer",
+              "Ils vont vers une aide"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Chris Lewa est connue pour son engagement envers quoi?",
+            "options": [
+              "L'humanitaire",
+              "L'environnement",
+              "Les Rohingyas"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel pays est mentionné comme un espoir pour les Rohingyas?",
+            "options": [
+              "Les États-Unis",
+              "La Malaisie",
+              "Le Myanmar"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Los Rohingyas desaparecen en el mar",
+        "text": "Dos barcos tienen 530 Rohingyas. Ellos salen de Myanmar el 29 de junio. Estos barcos no regresan. El mar es peligroso ahora. Ellos son como barcos viejos. Hay muchas olas grandes. Es probable que los barcos se hunden. Puede que no hay sobrevivientes. La mayoría eran mujeres y niños. Rakhine tiene problemas. La guerra está en Rakhine. La gente no puede salir. Ellos tienen miedo. Casi tres semanas pasan. Las familias esperan noticias. Una mujer está muerta en la playa. Hay otros cuerpos en el mar.",
+        "vocabulary": [
+          {
+            "word": "barco",
+            "definition": "Una cosa grande que flota en el mar."
+          },
+          {
+            "word": "mar",
+            "definition": "El agua grande y salada."
+          },
+          {
+            "word": "gente",
+            "definition": "Personas o grupos de personas."
+          },
+          {
+            "word": "mujer",
+            "definition": "Una persona adulta femenina."
+          },
+          {
+            "word": "niño",
+            "definition": "Una persona joven o pequeña."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos Rohingyas hay?",
+            "options": [
+              "500",
+              "530",
+              "450"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿De dónde salen los barcos?",
+            "options": [
+              "Bangladesh",
+              "Myanmar",
+              "Tailandia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el problema en el mar?",
+            "options": [
+              "Es seguro",
+              "Es peligroso",
+              "Es tranquilo"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Desaparición de Rohingyas en el mar",
+        "text": "Dos barcos llevan 530 Rohingyas. Ellos salen de Rakhine en Myanmar el 29 de junio. Después de eso, no hay noticias. El mar tiene muchas olas grandes este tiempo. Los barcos son viejos y pueden hundirse. Es muy probable que no hay sobrevivientes. La mitad del grupo son mujeres y niños. Rakhine está en guerra hace muchos años. Las familias de los Rohingyas esperan sus noticias. Casi tres semanas han pasado. Un cuerpo de una mujer negra aparece en la playa. Otros pescadores encuentran más cuerpos en el agua. La situación es muy dura para los Rohingyas. Ellos esperan llegar a Malaysia, donde hay más personas de su comunidad. Sin embargo, el camino es peligroso.",
+        "vocabulary": [
+          {
+            "word": "desaparecer",
+            "definition": "No estar en un lugar más."
+          },
+          {
+            "word": "sorpresa",
+            "definition": "Algo inesperado."
+          },
+          {
+            "word": "pescador",
+            "definition": "Persona que pesca en el mar."
+          },
+          {
+            "word": "bloquear",
+            "definition": "Impedir el paso."
+          },
+          {
+            "word": "comunidad",
+            "definition": "Grupo de personas que viven cerca."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas semanas han pasado sin noticias?",
+            "options": [
+              "Una",
+              "Dos",
+              "Tres"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Quiénes están en los barcos?",
+            "options": [
+              "Rohingyas",
+              "Myanmar",
+              "Pescadores"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿De dónde vienen los Rohingyas?",
+            "options": [
+              "Myanmar",
+              "Tailandia",
+              "Malasia"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Tragedia de los Rohingyas en el mar",
+        "text": "El 29 de junio, dos barcos que llevan a más de 530 Rohingyas salen de Rakhine, Myanmar. Hasta ahora, no hay noticias de ellos. Se piensa que los barcos pueden haber hundido en el mar, que actualmente es muy peligroso. Hay muchas olas grandes y los barcos son viejos, normalmente usados para pescar. Es posible que no haya sobrevivientes, y muchos de los Rohingyas en los barcos eran mujeres y niños. Rakhine ha estado en guerra durante años, lo que hace la vida difícil para los Rohingyas. Sus familias esperan noticias en un tiempo de una semana. Sin embargo, ya pasaron casi tres semanas. Recientes informes indican que se han encontrado varios cuerpos en el agua y en la playa. Chris Lewa, que trabaja para el Arakan Project, trata de entender lo que sucede con los barcos. Ella cree que los barcos no llegaron a su destino, que era Malasia, donde hay mucha población Rohingya. Pero viajar es complicado y peligroso. Hay traficantes que se benefician de esta situación.",
+        "vocabulary": [
+          {
+            "word": "tragedia",
+            "definition": "Un evento muy triste y grave."
+          },
+          {
+            "word": "hundir",
+            "definition": "Cuando algo cae al fondo del agua."
+          },
+          {
+            "word": "inspeccionar",
+            "definition": "Mirar cuidadosamente algo."
+          },
+          {
+            "word": "esperanza",
+            "definition": "Sentir que algo bueno puede pasar."
+          },
+          {
+            "word": "traficante",
+            "definition": "Persona que lleva cosas o personas ilegalmente."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué piensan que pasó con los barcos?",
+            "options": [
+              "Llegaron a Malasia",
+              "Se hundieron",
+              "Volvieron a Rakhine"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Por qué hay problemas en Rakhine?",
+            "options": [
+              "Hay paz",
+              "Hay guerra",
+              "Es una ciudad tranquila"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién intenta entender lo que pasó?",
+            "options": [
+              "Una pescadora",
+              "Chris Lewa",
+              "Un militar"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Más de 500 rohingyas desaparecen en el mar: ¿qué pasó?",
+        "text": "El 29 de junio, dos barcos con aproximadamente 530 solicitantes de asilo rohingyas partieron del estado de Rakhine, en Myanmar, y desde entonces no se ha tenido noticia de ellos. Es muy probable que ambos barcos se volcaran debido a las tempestades de monzón recién comenzadas y a las condiciones adversas del mar. Estas embarcaciones, que suelen ser viejos pesqueros adaptados a transportar el mayor número posible de personas, no son seguras, y sus motores son poco fiables. Asimismo, se estima que hubo pocos o ningún superviviente, y casi la mitad de los pasajeros eran mujeres y niños. Rakhine ha estado en un estado de conflicto durante muchos años, ya que el Ejército Arakan, insurgente, ha desplazado a las fuerzas militares de Myanmar, quienes han cortado casi todas las telecomunicaciones. Chris Lewa, directora del Arakan Project que defiende la situación de los rohingyas, ha intentado reconstruir lo que pudo haber ocurrido con los barcos, pero la falta de contactos en Sittwe y en Sin Tet Maw, de donde zarpó el barco, hace que sea un tarea difícil e incierta. En sus investigaciones, ha guardado la esperanza de que ambas embarcaciones efectivamente zarparan el 29 de junio, con la intención de llegar a la costa sur de Myanmar, donde planeaban desembarcar a los pasajeros. Hasta casi tres semanas después, las familias todavía no han recibido noticias.",
+        "vocabulary": [
+          {
+            "word": "asilo",
+            "definition": "Refugio o protección que se da a una persona en otro país."
+          },
+          {
+            "word": "tempestad",
+            "definition": "Un tiempo muy malo, con lluvia y viento fuertes."
+          },
+          {
+            "word": "zarpó",
+            "definition": "Salió al mar un barco."
+          },
+          {
+            "word": "desplazado",
+            "definition": "Que ha sido movido de su lugar o situación habitual."
+          },
+          {
+            "word": "investigaciones",
+            "definition": "Estudio o análisis que se hace para encontrar información."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos rohingyas estaban en los barcos?",
+            "options": [
+              "530",
+              "250",
+              "600"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué empezó el 29 de junio?",
+            "options": [
+              "Los barcos se hundieron",
+              "Los barcos zarparon",
+              "Los barcos llegaron a Malaysia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el nombre del proyecto que dirige Chris Lewa?",
+            "options": [
+              "Rohingya Project",
+              "Arakan Project",
+              "Myanmar Project"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Desaparición trágica de más de 500 rohingyas en el mar: un enigma sin respuestas",
+        "text": "El 29 de junio, dos embarcaciones con aproximadamente 530 rohingyas que buscaban asilo zarpaban del estado de Rakhine en Myanmar, y desde entonces se ha perdido toda señal de ellos. Es probable que ambos barcos se volcaran, especialmente dado el inicio de la temporada de monzones y la inclemencia del mar, ya que tales embarcaciones, muchas veces viejos pesqueros reconvertidos, no se consideran aptas para navegar. La mayoría de los pasajeros, que incluían un número significativo de mujeres y niños, tal vez no hayan sobrevivido a este fatídico viaje. Hasta ahora, las comunicaciones en Rakhine han sido inexistentes, ya que las autoridades militares han restringido severamente el acceso a la información. Chris Lewa, encargada del Arakan Project, ha tratado de desentrañar la posible suerte de estos barcos y sus ocupantes, enfrentándose al desafío de la falta de fuentes confiables en las zonas afectadas. Sin embargo, ha logrado confirmar que las embarcaciones partieron en la fecha indicada, con destino probablemente hacia la costa sur de Myanmar, donde planeaban desembarcar a sus pasajeros. La desesperación de los rohingyas por huir de un conflicto que ha durado años sigue alimentando sus intentos de alcanzar otros países, siendo Malasia uno de los destinos más buscados, lo que ha propiciado el crecimiento de una red de contrabandistas en la región.",
+        "vocabulary": [
+          {
+            "word": "zarpaban",
+            "definition": "Partían al mar un barco."
+          },
+          {
+            "word": "inclemencia",
+            "definition": "Condiciones del tiempo difíciles, muy malas."
+          },
+          {
+            "word": "desentrañar",
+            "definition": "Descubrir o aclarar algo que es difícil de comprender."
+          },
+          {
+            "word": "desesperación",
+            "definition": "Sensación de no tener esperanza."
+          },
+          {
+            "word": "propiciado",
+            "definition": "Facilitado o hecho posible algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es Chris Lewa?",
+            "options": [
+              "Una rohingya",
+              "La directora del Arakan Project",
+              "Una periodista"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál era el destino probable de los barcos?",
+            "options": [
+              "La costa norte de Myanmar",
+              "La costa sur de Myanmar",
+              "El océano Pacífico"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha sido restringido por las autoridades en Rakhine?",
+            "options": [
+              "Las comunicaciones",
+              "El comercio",
+              "Los viajes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "La desaparición de más de 500 rohingyas en el mar: un misterio inquietante en medio del silencio",
+        "text": "El 29 de junio, un par de embarcaciones que transportaban a cerca de 530 solicitantes de asilo rohingyas partieron del estado de Rakhine, en Myanmar, y desde ese momento, no se ha tenido información alguna sobre su paradero. La probabilidad de que ambos barcos se volcaran es alta, especialmente considerando la reciente llegada de la temporada de monzones y la dureza del mar en esta época del año. A menudo, estas embarcaciones son viejos pesqueros transformados para maximizar su capacidad, lo que las convierte en navíos apenas aptos para la navegación. Trágicamente, se estima que la mayoría de los ocupantes, muchos de ellos mujeres y niños, no alcanzaron a sobrevivir. La situación en Rakhine es tensa, ya que el conflicto armado ha llevado a un estrangulamiento de las comunicaciones, dificultando la labor de quienes procuran información sobre la suerte de los desaparecidos. Chris Lewa, quien dirige el Arakan Project, ha intentado juntar las piezas de este rompecabezas sobre lo que podría haber sucedido, pero la falta de contacto humano en Sittwe y Sin Tet Maw, el pueblo de donde zarparon las embarcaciones, ha complica enormemente su tarea. A pesar de esto, ha logrado corroborar que las dos naves efectivamente partieron en la fecha mencionada, probablemente en dirección a la costa sur de Myanmar, con el fin de desembarcar a sus pasajeros. Este suceso resalta la realidad desesperada a la que se enfrentan los rohingyas, quienes buscan escapar de un conflicto prolongado y catastrófico, avivando así las redes de contrabando que operan entre Myanmar y Malasia, donde se anhelan mejores condiciones de vida.",
+        "vocabulary": [
+          {
+            "word": "paradero",
+            "definition": "El lugar donde se encuentra alguien o algo."
+          },
+          {
+            "word": "estrangulamiento",
+            "definition": "El acto de restringir o limitar algo, aquí, la información."
+          },
+          {
+            "word": "rompecabezas",
+            "definition": "Un problema que es complicado o difícil de resolver."
+          },
+          {
+            "word": "corroborar",
+            "definition": "Confirmar o validar una información o hecho."
+          },
+          {
+            "word": "avivar",
+            "definition": "Hacer que algo aumente o se intensifique."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué hizo Chris Lewa en relación con los desaparecidos?",
+            "options": [
+              "Intentó ocultar información.",
+              "Trató de encontrar respuestas sobre lo que sucedió.",
+              "Formó un nuevo grupo de contrabando."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se considera la seguridad de las embarcaciones utilizadas por los rohingyas?",
+            "options": [
+              "Son muy seguras y modernas.",
+              "Son viejas y apenas aptas para navegar.",
+              "Están en perfectas condiciones."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué destaca el suceso sobre la situación de los rohingyas?",
+            "options": [
+              "La prosperidad de los rohingyas en Rakhine.",
+              "La desesperación de los rohingyas por escapar.",
+              "La seguridad que encuentran en Malasia."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}
