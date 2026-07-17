@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-17-2014-malaysia-airlines-flight-17",
+    "date": "2026-07-17",
+    "year": 2014,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Boeing_777-2H6ER_9M-MRD_Malaysian_%286658105143%29.jpg/330px-Boeing_777-2H6ER_9M-MRD_Malaysian_%286658105143%29.jpg",
+    "titles": {
+      "en": "The Tragic Incident of Malaysia Airlines Flight 17",
+      "de": "Der Abschuss von Flug MH17",
+      "fr": "L'accident de l'avion MH17",
+      "es": "El accidente del vuelo MH17"
+    }
+  },
+  {
     "id": "2026-07-16-2013-bihar",
     "date": "2026-07-16",
     "year": 2013,
