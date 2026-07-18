@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-18-many-ukrainian-soldiers-outraged-over-removal-of-defence-min",
+    "date": "2026-07-18",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Ukrainian Soldiers Express Outrage Over Defence Minister's Ouster",
+      "de": "Wütende Soldaten in der Ukraine",
+      "fr": "Les soldats ukrainiens expriment leur colère",
+      "es": "El descontento de los soldados ucranianos"
+    }
+  },
+  {
+    "id": "2026-07-18-us-strikes-hit-iran-for-seventh-consecutive-night",
+    "date": "2026-07-18",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Military Strikes Iran for Seventh Consecutive Night",
+      "de": "US-Angriffe auf Iran: Die siebte Nacht",
+      "fr": "Les États-Unis lancent des frappes sur l'Iran pour la septième nuit consécutive",
+      "es": "Séptima Noche de Ataques de EE.UU. a Irán"
+    }
+  },
+  {
+    "id": "2026-07-18-trump-threatens-new-canada-tariffs-over-fires-sending-filthy",
+    "date": "2026-07-18",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump's Threat Over Canada Wildfires",
+      "de": "Trump droht Kanada mit neuen Zöllen wegen Wildfeuern",
+      "fr": "Trump menace de nouvelles taxes sur le Canada à cause des feux de forêt",
+      "es": "Trump amenaza a Canadá por los incendios"
+    }
+  },
+  {
     "id": "2026-07-17-more-than-500-rohingya-vanished-at-sea-what-happened",
     "date": "2026-07-17",
     "source": "BBC News",

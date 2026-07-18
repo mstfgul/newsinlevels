@@ -1,0 +1,1365 @@
+{
+  "id": "2026-07-18-trump-threatens-new-canada-tariffs-over-fires-sending-filthy",
+  "date": "2026-07-18",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Trump Talks About Canada Fires",
+        "text": "Donald Trump is the president of the USA. Many fires are happening in Canada. These fires make smoke. The smoke goes into the USA. People in many US cities see bad air. Trump is not happy about this. He wants to add new taxes on Canada. He says Canada is not taking care of its forests. Some US leaders also want to help. They ask for quick action. They want Canada to work more on fires. Many people in both countries worry. They know that smoke can be bad for health. Both countries can work together to help.",
+        "vocabulary": [
+          {
+            "word": "president",
+            "definition": "the leader of a country"
+          },
+          {
+            "word": "fires",
+            "definition": "strong flames that burn things"
+          },
+          {
+            "word": "smoke",
+            "definition": "dark air from fire"
+          },
+          {
+            "word": "bad",
+            "definition": "not good"
+          },
+          {
+            "word": "health",
+            "definition": "the state of being well"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the president of the USA?",
+            "options": [
+              "Joe Biden",
+              "Donald Trump",
+              "Mark Carney"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is happening in Canada?",
+            "options": [
+              "There are fires",
+              "It is snowing",
+              "People are happy"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Trump want to do?",
+            "options": [
+              "Help Canada",
+              "Add new taxes",
+              "Stop all fires"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump Complains About Canada Fires",
+        "text": "US President Donald Trump says he is very worried. Many wildfires are burning in Canada now. This situation makes a lot of smoke. The smoke goes down into many US cities. Some people in these cities have bad air quality. They cannot breathe well. Trump wants to add new tariffs on Canada. He believes Canada is not taking care of its forests. Ontario's premier Doug Ford asks for help from the USA. He wants to fight the fires together. Many US lawmakers do not agree. They want Canada to act faster. Canada has many fires. About 888 fires are active now, with many burning in Ontario. People want better actions to prevent these issues.",
+        "vocabulary": [
+          {
+            "word": "worried",
+            "definition": "feeling anxious or troubled"
+          },
+          {
+            "word": "wildfires",
+            "definition": "large fires in forests"
+          },
+          {
+            "word": "breathe",
+            "definition": "to take in air"
+          },
+          {
+            "word": "action",
+            "definition": "doing something to change a situation"
+          },
+          {
+            "word": "prevent",
+            "definition": "to stop something from happening"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does President Trump want to do?",
+            "options": [
+              "Add new tariffs",
+              "Give money to Canada",
+              "Stop traveling"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many wildfires are active in Canada?",
+            "options": [
+              "100",
+              "300",
+              "888"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Who asked for help from the USA?",
+            "options": [
+              "Doug Ford",
+              "Donald Trump",
+              "Eleanor Olszewski"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump's Threat Over Canada Wildfires",
+        "text": "US President Donald Trump has expressed serious concerns about the wildfires in Canada. He says these fires create a lot of smoke that moves into the United States. Many cities in the US have reported poor air quality, which can be harmful to health. This poor air quality has severe consequences, especially for children and the elderly, who are more vulnerable. Trump has suggested that he will impose new tariffs on Canada, believing the country is not managing its forests properly. Ontario's premier Doug Ford has asked the US for help in fighting these fires, indicating that collaboration is crucial to tackle the problem effectively. Currently, there are about 888 active wildfires in Canada, with more than 190 of these fires burning out of control in Ontario. US lawmakers have also expressed their dissatisfaction and want Canada to take quicker action against the wildfires. They argue that smoke from Canada affects many Americans directly, particularly those living in states like Minnesota and Pennsylvania. If improvements do not occur soon, lawmakers may consider taking drastic actions. These actions could include pushing for direct US involvement in fighting the wildfires. Experts have pointed out that climate change has worsened wildfire seasons, making this issue increasingly urgent for both countries. Proper management of forests is crucial to prevent future incidents and protect the environment, which knows no borders.",
+        "vocabulary": [
+          {
+            "word": "vulnerable",
+            "definition": "easily harmed or affected by something."
+          },
+          {
+            "word": "collaboration",
+            "definition": "working together with others on a task."
+          },
+          {
+            "word": "consequences",
+            "definition": "the results or effects of an action."
+          },
+          {
+            "word": "direct involvement",
+            "definition": "taking active part in a situation."
+          },
+          {
+            "word": "urgent",
+            "definition": "requiring quick action or attention."
+          },
+          {
+            "word": "indicate",
+            "definition": "to show or point out."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Trump think about Canada's management of forests?",
+            "options": [
+              "He believes it is excellent.",
+              "He believes it is poor.",
+              "He has no opinion."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which state is mentioned as being affected by the smoke?",
+            "options": [
+              "California",
+              "Texas",
+              "Minnesota"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Why do US lawmakers want Canada to act quickly?",
+            "options": [
+              "To improve relations between countries.",
+              "To reduce harmful smoke affecting Americans.",
+              "To celebrate the wildfires."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump Considers New Tariffs on Canada Amid Wildfire Crisis",
+        "text": "US President Donald Trump has recently threatened to introduce new tariffs on Canada due to numerous wildfires causing significant smoke pollution across northern US cities. This warning came after US lawmakers expressed their concerns about the fires, while Ontario's Premier Doug Ford requested assistance from the US to combat the situation rather than simply complaining. \"The United States is being unnecessarily invaded by filthy, polluted, and unhealthy air,\" Trump remarked, asserting that Canada is exhibiting \"willful negligence\" regarding forest maintenance. As per the Canadian Wildland Fire Information System, approximately 888 wildfires are currently active in Canada, with a considerable number burning uncontrollably in Ontario. Trump indicated via his Truth Social account that he would reach out to Canadian Prime Minister Mark Carney to demand an explanation for the situation, underpinning his view that Canada has not been managing its forests effectively. In response, Carney's emergency management cabinet minister emphasized the ongoing collaboration between the two nations to address climate challenges. Moreover, Canadian officials have underscored that combating wildfires is a shared responsibility, enhancing the discourse surrounding cross-border cooperation in environmental issues. The rising issues could impact US-Canada relations significantly as they navigate trade complexities.",
+        "vocabulary": [
+          {
+            "word": "tariffs",
+            "definition": "Taxes put on goods coming from other countries."
+          },
+          {
+            "word": "pollution",
+            "definition": "Harmful substances in the air, water, or soil."
+          },
+          {
+            "word": "negligence",
+            "definition": "Failing to take proper care."
+          },
+          {
+            "word": "uncontrollably",
+            "definition": "In a way that cannot be managed or stopped."
+          },
+          {
+            "word": "collaboration",
+            "definition": "Working together with others."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why did Trump threaten to impose new tariffs?",
+            "options": [
+              "Due to complaints about pollution.",
+              "Because of a deal with Canada.",
+              "To support the Canadian government."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Doug Ford ask the US for?",
+            "options": [
+              "More money.",
+              "Help with fires.",
+              "A new trade deal."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many wildfires are active in Canada?",
+            "options": [
+              "Approximately 888.",
+              "About 1000.",
+              "Around 750."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump's Tariff Threats Loom Over Canada Amid Wildfire Smoke Crisis",
+        "text": "In a recent development, US President Donald Trump has unequivocally threatened to levy new tariffs on Canada, as hundreds of wildfires have generated a dense blanket of smoke now engulfing vast areas of the northern United States. This pronouncement follows growing concerns from US lawmakers and a plea from Ontario’s Premier Doug Ford, who emphasized the need for collaborative support rather than complaints regarding the wildfires. Trump articulated his frustrations, claiming that the United States is experiencing an invasion of \"filthy, polluted, and unhealthy air,\" attributing the situation to what he termed Canada’s \"willful negligence\" in forest management. According to the Canadian Wildland Fire Information System, approximately 888 wildfires are currently active, with over 190 wreaking havoc across Ontario, many of which are out of control. In a post on Truth Social, Trump announced plans to contact Canadian Prime Minister Mark Carney to request an explanation, insinuating a lack of due diligence on Canada’s part. In turn, Carney's cabinet ministers highlighted the historical cooperation between the two nations on environmental issues, reinforcing that tackling climate change is a shared obligation. This ongoing discourse over wildfires and pollution could drastically redefine US-Canada relations, particularly within the context of trade negotiations which have remained tenuous over the past year.",
+        "vocabulary": [
+          {
+            "word": "unequivocally",
+            "definition": "Clear and without doubt."
+          },
+          {
+            "word": "levy",
+            "definition": "To impose a tax or charge."
+          },
+          {
+            "word": "reeking havoc",
+            "definition": "Causing great damage or destruction."
+          },
+          {
+            "word": "insinuating",
+            "definition": "Suggesting something bad in an indirect way."
+          },
+          {
+            "word": "tenuous",
+            "definition": "Very weak or uncertain."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What reason did Trump give for threatening tariffs?",
+            "options": [
+              "Concerns about wildfires.",
+              "Canadian trade issues.",
+              "A previous agreement."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is Doug Ford?",
+            "options": [
+              "A US senator.",
+              "Ontario's Premier.",
+              "A Canadian citizen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What has increased tensions between the US and Canada?",
+            "options": [
+              "Environmental issues.",
+              "Cultural exchanges.",
+              "Tourism growth."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Escalating Tensions: Trump's Tariff Threats Against Canada Amid Wildfire Crisis",
+        "text": "US President Donald Trump has recently escalated tensions with Canada by threatening to impose new tariffs in response to a devastating series of wildfires that have blanketed northern US cities in hazardous smoke. This impassioned threat follows complaints from US lawmakers regarding the air quality crisis, along with an appeal from Ontario’s Premier Doug Ford, who requested that the US assist in combating the fires instead of merely voicing grievances. Trump compellingly stated, \"The United States is being unnecessarily invaded by filthy, polluted, and unhealthy air,\" attributing the crisis to what he characterized as Canada’s \"willful negligence\" in managing its forests and preventing wildfires. Reports indicate that nearly 888 active wildfires are currently ravaging Canada, with over 190 of these blazes wreaking havoc across Ontario, many of which are spiraling out of control. In a public statement via Truth Social, Trump proclaimed his intention to reach out to Canadian Prime Minister Mark Carney, demanding accountability for these circumstances and raising questions about Canada’s forest management practices. Meanwhile, Carney emphasized that the responsibility for environmental stewardship lies with both nations, urging collaboration on climate challenges. With relations already strained due to longstanding trade issues, this latest development could further complicate negotiations and provoke reactions from the Canadian public, leading to broader implications for bilateral cooperation on environmental matters.",
+        "vocabulary": [
+          {
+            "word": "impassioned",
+            "definition": "Showing strong feelings."
+          },
+          {
+            "word": "grievances",
+            "definition": "Complaints about unfair treatment."
+          },
+          {
+            "word": "compellingly",
+            "definition": "In a manner that draws attention or is convincing."
+          },
+          {
+            "word": "spiraling out of control",
+            "definition": "Becoming very bad or dangerous quickly."
+          },
+          {
+            "word": "stewardship",
+            "definition": "Taking care of something, like the environment."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump threaten regarding Canada and wildfires?",
+            "options": [
+              "New tariffs.",
+              "Economic penalties.",
+              "Bilateral talks."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How did Doug Ford approach the issue of wildfires?",
+            "options": [
+              "He requested US help.",
+              "He ignored the problem.",
+              "He proposed a new trade agreement."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What could the latest developments affect in US-Canada relations?",
+            "options": [
+              "Future collaborations.",
+              "Cultural exchanges.",
+              "Environmental policies."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Trump spricht über neue Zölle gegen Kanada",
+        "text": "Der Präsident von den USA, Donald Trump, spricht über neue Zölle gegen Kanada. Viele Feuer sind in Kanada. Das Feuer macht viel Rauch. Der Rauch geht in die USA. Die Luft ist ungesund. Viele Politiker in den USA sind unzufrieden. Ontario hat Hilfe gefragt. Trump sieht Kanada als schuld. Es gibt 888 Feuer in Kanada. Mehr als 190 Feuer sind in Ontario. Menschen haben Probleme mit der Luft. Menschen können nicht gut atmen. Trump will mit dem Premierminister von Kanada sprechen. Er will Antworten.",
+        "vocabulary": [
+          {
+            "word": "Zölle",
+            "definition": "Gebühren für Waren an der Grenze."
+          },
+          {
+            "word": "Feuer",
+            "definition": "Ein großes brennendes Element."
+          },
+          {
+            "word": "Rauch",
+            "definition": "Dampf von Feuer."
+          },
+          {
+            "word": "Luft",
+            "definition": "Die Gase um uns herum."
+          },
+          {
+            "word": "Politiker",
+            "definition": "Menschen, die die Regierung machen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Präsident von den USA?",
+            "options": [
+              "Donald Trump",
+              "Mark Carney",
+              "Doug Ford"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo sind die Feuer?",
+            "options": [
+              "In Kanada",
+              "In den USA",
+              "In Europa"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was macht der Rauch?",
+            "options": [
+              "Er geht in die USA",
+              "Er ist gesund",
+              "Er ist rot"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump diskutiert Zölle wegen Feuer in Kanada",
+        "text": "Donald Trump, der Präsident der USA, sagt, er will neue Zölle auf Kanada machen. Viele Wildfeuer sind in Kanada. Der Rauch von den Feuern ist in den USA. Die Luft ist sehr dreckig und ungesund. Politiker in den USA beschweren sich über den Rauch. Der Premierminister von Ontario, Doug Ford, fragt die USA um Hilfe. Trump denkt, Kanada macht nicht genug gegen die Feuer. Es gibt etwa 888 Feuerschäden in Kanada. Mehr als 190 sind in Ontario und viele brennen uncontrolled. Trump will mit dem kanadischen Premierminister Mark Carney sprechen. Er will von Carney hören, warum Kanada nicht genug tut. Die Situation ist nicht gut für die Luftqualität in den USA.",
+        "vocabulary": [
+          {
+            "word": "diskutiert",
+            "definition": "über etwas sprechen."
+          },
+          {
+            "word": "nicht genug",
+            "definition": "wenig, zu wenig."
+          },
+          {
+            "word": "Feuerschäden",
+            "definition": "Schaden durch Feuer."
+          },
+          {
+            "word": "uncontrolled",
+            "definition": "nicht unter Kontrolle."
+          },
+          {
+            "word": "Luftqualität",
+            "definition": "Wie gut oder schlecht die Luft ist."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was sind die Feuerschäden?",
+            "options": [
+              "In Kanada",
+              "In Europa",
+              "In Asien"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum beschweren sich die Politiker?",
+            "options": [
+              "Wegen der Luft",
+              "Wegen der Feuern",
+              "Wegen Wasser"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Feuer gibt es in Kanada?",
+            "options": [
+              "888",
+              "1000",
+              "200"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump droht Kanada mit neuen Zöllen wegen Wildfeuern",
+        "text": "US-Präsident Donald Trump hat angekündigt, neue Zölle auf Kanada zu verhängen, nachdem viele Wildfeuer im Land große Mengen Rauch in die USA bringen. Der Rauch hat die Luftqualität in vielen US-Städten stark beeinträchtigt. Politiker in den USA äußern ihre Unzufriedenheit, während Doug Ford, der Premierminister von Ontario, um Unterstützung für die Bekämpfung dieser Feuervorfälle bittet. Trump kritisiert Kanada wegen dessen 'willentlicher Nachlässigkeit'. Er sagt, dass die USA an 'dreckiger, verschmutzter Luft' leiden. Der Agrarpionier Mark Carney, der kanadische Premierminister, möchte mit Trump sprechen. Es gibt etwa 888 Feuerschäden, viele davon in Ontario, und viele sind außer Kontrolle. Trump fordert eine Erklärung und kritisiert Kanada, dass es seine Wälder und das Unterholz nicht gut genug pflegt. Wenn Kanada seine Sache nicht schnell erledigt, denken viele US-Politiker darüber nach, Gegenmaßnahmen zu ergreifen. Einige haben sogar gefordert, Kanada zum 51. Bundesstaat der USA zu machen, was viele Kanadier empört hat. Zudem könnte dies die Beziehungen zwischen den beiden Ländern weiter belasten. In der Vergangenheit gab es bereits Spannungen über den Handel. Wenn die Luftqualität weiterhin so schlecht bleibt, könnte die Situation noch komplizierter werden. Schon jetzt haben viele Städte Luftqualitätswarnungen herausgegeben, und die Bevölkerung wird über Schutzmaßnahmen informiert. Experten haben darauf hingewiesen, dass sich das Problem über die Grenzen hinweg ausbreitet und eine gemeinsame Lösung notwendig ist.",
+        "vocabulary": [
+          {
+            "word": "Agrarpionier",
+            "definition": "Ein Agrarpionier ist jemand, der in der Landwirtschaft eine wichtige Rolle spielt, insbesondere bei der Entwicklung neuer Methoden oder Techniken."
+          },
+          {
+            "word": "Unterholz",
+            "definition": "Das Unterholz sind die Pflanzen und Sträucher, die in einem Wald zwischen den Bäumen wachsen."
+          },
+          {
+            "word": "Luftqualitätswarnung",
+            "definition": "Eine Luftqualitätswarnung ist eine Mitteilung, dass die Luftverschmutzung ein gesundheitsgefährdendes Niveau erreicht hat."
+          },
+          {
+            "word": "dreckig",
+            "definition": "Dreckig bedeutet nicht sauber und kann auch im übertragenen Sinne für schlechte conditions stehen."
+          },
+          {
+            "word": "nachlässig",
+            "definition": "Nachlässig bedeutet, dass man etwas nicht sorgfältig oder aufmerksam macht."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum hat Trump angekündigt, neue Zölle auf Kanada zu verhängen?",
+            "options": [
+              "Wegen der Handelsbeziehungen",
+              "Wegen der Wildfeuer und des Rauch",
+              "Wegen der Wirtschaftskrise"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sind einige der Folgen, wenn Kanada nicht schnell handelt?",
+            "options": [
+              "Trump wird Kanada ignorieren",
+              "Politiker können Gegenmaßnahmen ergreifen",
+              "Die Luftqualität wird sich verbessern"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Stadt hatte die schlechteste Luftqualität laut IQAir?",
+            "options": [
+              "Chicago",
+              "New York",
+              "Detroit"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump droht Kanada mit neuen Zöllen wegen Schadstoffbelastung",
+        "text": "US-Präsident Donald Trump hat angedeutet, dass er neue Zölle auf Kanada verhängen könnte, nachdem Hunderte von Waldbränden große Teile des nordlichen US-Gebiets in dichten Rauch gehüllt haben. Diese Drohung folgt auf Beschwerden von US-Abgeordneten über die Brände sowie eine Bitte des Premierministers von Ontario, Doug Ford, an die USA, Unterstützung im Kampf gegen die Brände zu senden, anstatt nur zu klagen. 'Die Vereinigten Staaten werden unnötig von schmutziger, verschmutzter und ungesunder Luft überflutet', erklärte Trump und beschuldigte Kanada der 'vorsätzlichen Nachlässigkeit'. Laut dem Canadian Wildland Fire Information System brannten bis Freitag etwa 888 Feuer aktiv in Kanada, wobei viele außer Kontrolle waren. Über 190 dieser Brände sind in Ontario, einige davon außer Kontrolle. Trump erklärte in einem Beitrag auf Truth Social, er würde den kanadischen Ministerpräsidenten Mark Carney anrufen, um eine Erklärung für die 'vorsätzliche Nachlässigkeit' seines Landes zu verlangen und ihnen vorzuwerfen, ihre Wälder und Sträucher 'nicht richtig zu pflegen'. Republikanische Kollegen haben das Thema genutzt, um Trumps Vorschlag zu erneuern, Kanada zum 51. Bundesstaat der USA zu machen, was viele Kanadier empörte und dazu führte, dass einige von ihnen ihre Reisen in die USA aus Protest eingestellt haben. Andere, die online kommentierten, schlugen vor, die Eröffnung der Gordie Howe International Bridge, eines kanadisch finanzierten Projekts zur Verbindung Ontarios mit Michigan, zu verschieben. Carney betonte zuvor, dass es die Verantwortung beider Länder sei, den Klimawandel zu bekämpfen. Nach Trumps Äußerungen erklärte Carneys Minister für Notfallmanagement, dass beide Länder in ständigem Kontakt stehen und eine lange Geschichte der Zusammenarbeit bei solchen Katastrophen haben.",
+        "vocabulary": [
+          {
+            "word": "Schadstoffbelastung",
+            "definition": "schmutzige Luft mit vielen schädlichen Stoffen"
+          },
+          {
+            "word": "Nachlässigkeit",
+            "definition": "nicht sorgfältig sein; etwas nicht gut machen"
+          },
+          {
+            "word": "überflutet",
+            "definition": "von etwas bedeckt oder eingehüllt werden"
+          },
+          {
+            "word": "unterstützen",
+            "definition": "helfen oder assistieren"
+          },
+          {
+            "word": "Klima",
+            "definition": "das Wetter über lange Zeit in einem bestimmten Gebiet"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was drohte Trump Kanada an?",
+            "options": [
+              "neue Zölle",
+              "Mittel zur Bekämpfung von Bränden",
+              "eine Entschuldigung"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Brände brannten laut dem Canadian Wildland Fire Information System?",
+            "options": [
+              "888 Brände",
+              "190 Brände",
+              "50 Brände"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist der Premierminister von Ontario?",
+            "options": [
+              "Mark Carney",
+              "Doug Ford",
+              "Donald Trump"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump erwägt Zollerhebung auf Kanada aufgrund von Rauchbelastung",
+        "text": "US-Präsident Donald Trump hat angedeutet, dass er die Erhebung neuer Zölle auf Kanada in Erwägung zieht, nachdem Hunderte von Waldbränden eine erhebliche Fläche im nördlichen Teil der Vereinigten Staaten in eine dichte Rauchdecke gehüllt haben. Die Drohung erfolgt inmitten von Beschwerden seitens US-Abgeordneter über die Waldbrände und einer Aufforderung des Premierministers von Ontario, Doug Ford, an die USA, ihren Fokus auf die Unterstützung bei der Bekämpfung der Feuer zu legen, anstatt über die Situation zu klagen. Trump äußerte sich dazu, dass die Vereinigten Staaten von 'schmutziger, verschmutzter und ungesunder Luft' besetzt seien und beschuldigte Kanada der 'vorsätzlichen Nachlässigkeit', während er auf die Tatsache hinwies, dass sich gegenwärtig etwa 888 Brände in Kanada entwickeln, wovon über 190 in Ontario liegen und nicht unter Kontrolle sind. In einem Beitrag auf Truth Social kündigte Trump an, den kanadischen Premierminister Mark Carney zu kontaktieren, um eine Erklärung im Hinblick auf die 'vorsätzliche Nachlässigkeit' Kanadas zu verlangen, und erhob Vorwürfe, dass Kanada es verabsäumt habe, ihre Wälder und deren Pflege effizient zu managen. Der entstandene Konflikt hat ebenso zur Erneuerung der Forderung unter seinen republikanischen Kollegen geführt, Kanada zum 51. Bundesstaat zu erklären, was bei vielen Kanadiern Empörung ausgelöst hat und das Reisen in die USA aus Protest verringert hat. In der Diskussion über die rechtzeitige Bekämpfung des Klimawandels, betonte Carney, dass beide Länder eine lange Tradition der Kooperation im Bereich von Katastrophenhilfe pflegen, untermauert durch gegenseitige Abkommen zur Bekämpfung von Waldbränden.",
+        "vocabulary": [
+          {
+            "word": "Rauchbelastung",
+            "definition": "Luftverschmutzung durch Rauch von Bränden"
+          },
+          {
+            "word": "Entwicklung",
+            "definition": "das Wachsen oder Fortschreiten von etwas"
+          },
+          {
+            "word": "vorsätzlich",
+            "definition": "absichtlich oder absichtlich gemacht"
+          },
+          {
+            "word": "Forderung",
+            "definition": "eine Bitte oder Anforderung mit Nachdruck"
+          },
+          {
+            "word": "Kooperation",
+            "definition": "gemeinsames Arbeiten oder Handeln"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum denkt Trump über neue Zölle nach?",
+            "options": [
+              "wegen der Waldbrände",
+              "wegen der guten Beziehungen",
+              "um das Wetter zu verbessern"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer hat Trump gebeten, gegen die Brände zu helfen?",
+            "options": [
+              "Doug Ford",
+              "Mark Carney",
+              "John Moolenaar"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat Carney zu den US-Kanada-Beziehungen betont?",
+            "options": [
+              "beide Länder arbeiten zusammen",
+              "Trump liebt Kanada",
+              "Kanada sollte unabhängig sein"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trumps drohende Zollmaßnahmen gegen Kanada im Kontext der Waldbrandkrise",
+        "text": "In einer aktuellen Wendung der Ereignisse hat US-Präsident Donald Trump die Möglichkeit angedeutet, neue Zölle auf Kanada zu erheben, eine Reaktion auf die katastrophalen Waldbrände, die weite Teile des nördlichen US-Territoriums in einen dichten, gesundheitsschädlichen Rauchhorizont hüllen. Diese Drohung fiel nicht zufällig in einem politischen Klima, in dem US-Abgeordnete zunehmend die Verantwortung Kanadas für die Brände infrage stellen, während Ontarios Premierminister Doug Ford die USA vielmehr dazu auffordert, Hilfe zur Bekämpfung dieser Naturkatastrophe anzubieten, anstelle vergeblich zu klagen. Trump beschreibt die Luftqualität in den Vereinigten Staaten als 'unnotwendig schmutzig', wobei er Kanada der 'vorsätzlichen Nachlässigkeit' bezichtigt. Aktuelle Berichte des Canadian Wildland Fire Information System dokumentieren bis zu 888 aktive Brände, von denen mehr als 190 in Ontario wüten, viele davon außer Kontrolle. Der Präsident twitterte zudem, dass er den kanadischen Premierminister Mark Carney kontaktieren werde, um eine Erklärung zur Inaktivität seines Landes zu fordern, und erhob den Vorwurf, dass man die Wälder und deren Pflege nicht gebührend überwacht habe. Diese Situation hat nicht nur wiederholte Forderungen von Trump und seinen republikanischen Anhängern zur Diskussion über eine mögliche Annexion Kanadas zum 51. Bundesstaat der USA entfacht, sondern auch Proteste seitens kanadischer Bürger, die ihre Reisen in die Vereinigten Staaten eingestellt haben. In einer einflussreichen Stellungnahme betonte Carney, dass die Bekämpfung des Klimawandels eine gemeinsame Verantwortung der beiden Länder sei und wies auf eine lange Geschichte der Bilateralkooperation hin, die durch Gegenseitigkeitsvereinbarungen zur Bekämpfung von Waldbränden unterstützt wird. So berichtete der Minister für Notfallmanagement, dass beide Nationen in ständigem Austausch stehen. Die wechselseitige Kritik könnte möglicherweise jedoch, im Lichte der aktuellen Brände, den Fokus auf notwendig gewordene methodische Reformen zur effektiveren Waldbrandbekämpfung lenken, während der Klimawandel weiterhin die Komplexität dieser Naturphänomene verstärkt.",
+        "vocabulary": [
+          {
+            "word": "Naturkatastrophe",
+            "definition": "ein großes schlimmes Ereignis in der Natur"
+          },
+          {
+            "word": "vorsätzlich",
+            "definition": "mit Absicht; absichtlich"
+          },
+          {
+            "word": "Dokumentieren",
+            "definition": "etwas aufzeichnen oder festhalten"
+          },
+          {
+            "word": "Gegenseitigkeit",
+            "definition": "gegenseitige Vorteile oder Unterstützung"
+          },
+          {
+            "word": "Komplexität",
+            "definition": "die Schwierigkeit oder Vielschichtigkeit einer Sache"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was befürchtet Trump von Kanada?",
+            "options": [
+              "schmutzige Luft",
+              "freundliche Beziehungen",
+              "Unterstützung gegen Brände"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Brände sind aktiv in Kanada?",
+            "options": [
+              "888 Brände",
+              "5000 Brände",
+              "300 Brände"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was betonte Carney zur Klimawandelbekämpfung?",
+            "options": [
+              "es ist die Verantwortung beider Länder",
+              "es ist ausschließlich Trumps Verantwortung",
+              "Kanada kann alleine handeln"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Trump menace de nouvelles taxes sur le Canada",
+        "text": "Le président américain Donald Trump est fâché. Il parle des feux de forêt au Canada. Ces feux causent beaucoup de fumée. La fumée arrive aux États-Unis. Trump dit que l'air est mauvais. Il veut des taxes sur le Canada. Il pense que le Canada est négligent. En ce moment, il y a 888 feux au Canada. Beaucoup de ces feux sont en Ontario. Trump a aussi dit qu'il parle au Premier ministre canadien. Ils veulent aider les personnes touchées. Les Canadiens sont en colère contre Trump. Ils n'aiment pas ses menaces. Les feux affectent les deux pays.",
+        "vocabulary": [
+          {
+            "word": "président",
+            "definition": "chef d'un pays"
+          },
+          {
+            "word": "Canada",
+            "definition": "un pays au nord des États-Unis"
+          },
+          {
+            "word": "taxes",
+            "definition": "argent que l'on doit payer"
+          },
+          {
+            "word": "fumée",
+            "definition": "gaz qui vient des feux"
+          },
+          {
+            "word": "foyers",
+            "definition": "où il y a le feu"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui menace le Canada?",
+            "options": [
+              "Un sénateur",
+              "Donald Trump",
+              "Un ministre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels pays sont affectés?",
+            "options": [
+              "France et Canada",
+              "Canada et États-Unis",
+              "Italie et Espagne"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi Trump est-il fâché?",
+            "options": [
+              "Pour la neige",
+              "Pour les feux de forêt",
+              "Pour le vent"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump menace de nouvelles taxes sur le Canada",
+        "text": "Le président des États-Unis, Donald Trump, parle des feux de forêt au Canada. Il dit que les feux créent beaucoup de fumée. Cette fumée arrive aux États-Unis et cause des problèmes. Trump menace d'imposer de nouvelles taxes sur le Canada. Il pense que le Canada ne fait pas assez pour stopper les feux. Le premier ministre d'Ontario, Doug Ford, demande de l'aide aux États-Unis. À ce jour, il y a 888 feux de forêt au Canada. Plus de 190 sont en Ontario. Trump veut parler au premier ministre canadien, Mark Carney. Les Canadiens sont fâchés par cette situation. Ils veulent que leurs feux soient mieux gérés. Ils pensent que la négligence du Canada est un problème.",
+        "vocabulary": [
+          {
+            "word": "problèmes",
+            "definition": "choses qui causent des soucis"
+          },
+          {
+            "word": "gérer",
+            "definition": "contrôler ou organiser quelque chose"
+          },
+          {
+            "word": "Ontario",
+            "definition": "une province au Canada"
+          },
+          {
+            "word": "aide",
+            "definition": "soutien ou assistance"
+          },
+          {
+            "word": "situation",
+            "definition": "le contexte ou les circonstances"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quels feux Trump mentionne-t-il?",
+            "options": [
+              "Des feux au Canada",
+              "Des feux en France",
+              "Des feux au Mexique"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de feux brûlent au Canada?",
+            "options": [
+              "888 feux",
+              "100 feux",
+              "500 feux"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le premier ministre d'Ontario?",
+            "options": [
+              "Mark Carney",
+              "Doug Ford",
+              "Donald Trump"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump menace de nouvelles taxes sur le Canada à cause des feux de forêt",
+        "text": "Le président des États-Unis, Donald Trump, a récemment menacé d'imposer de nouvelles taxes sur le Canada. Cette menace vient d'une série de feux de forêt qui créent beaucoup de fumée et affectent l'air dans des villes américaines. Selon Trump, l'air est maintenant sale et pollué, et cela vient de la négligence du Canada. Actuellement, il y a environ 888 feux de forêt actifs au Canada, et plus de 190 se trouvent en Ontario. Doug Ford, le premier ministre d'Ontario, a demandé de l'aide aux États-Unis pour lutter contre les feux. Trump a déclaré vouloir parler au premier ministre canadien, Mark Carney. Si cette situation continue, les tensions entre les deux pays pourraient augmenter.  Les Canadiens se sentent très irrités par ces déclarations et pensent que le Canada fait des efforts pour prévenir les feux. En effet, le pays a investi environ 12 milliards de dollars canadiens dans la gestion de ses forêts depuis quelques années. De plus, les deux pays ont une longue histoire de coopération concernant les catastrophes naturelles. Il est important de noter que la situation des feux de forêt est également liée au changement climatique. Les experts affirment que les saisons de feux de forêt deviennent plus sévères à cause des températures élevées et du manque de pluie. Cela pourrait encore compliquer les relations entre les États-Unis et le Canada dans un avenir proche.",
+        "vocabulary": [
+          {
+            "word": "négligence",
+            "definition": "le fait de ne pas faire attention à quelque chose de dangereux."
+          },
+          {
+            "word": "coopération",
+            "definition": "l'action de travailler ensemble pour atteindre un but commun."
+          },
+          {
+            "word": "investir",
+            "definition": "mettre de l'argent dans un projet pour le développer."
+          },
+          {
+            "word": "changement climatique",
+            "definition": "les modifications significatives et durables des conditions climatiques de la Terre."
+          },
+          {
+            "word": "efforts",
+            "definition": "les efforts sont des actions pour atteindre un but."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qu'est-ce que Trump menace d'imposer sur le Canada ?",
+            "options": [
+              "De nouvelles taxes",
+              "Des subventions",
+              "Des aides humanitaires"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de feux de forêt sont actuellement actifs au Canada ?",
+            "options": [
+              "Environ 500",
+              "Environ 888",
+              "Environ 1000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel montant le Canada a-t-il investi pour prévenir les feux de forêt ?",
+            "options": [
+              "6 milliards de dollars canadiens",
+              "8 milliards de dollars canadiens",
+              "12 milliards de dollars canadiens"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump menace de nouveaux tarifs sur le Canada à cause des incendies",
+        "text": "Le président américain Donald Trump a récemment menacé d'imposer de nouveaux tarifs sur le Canada suite à des centaines d'incendies de forêt qui ont provoqué un nuage de fumée couvrant une grande partie du nord des États-Unis. Cette menace fait suite aux plaintes de certains législateurs américains à propos des incendies et à la demande du premier ministre de l'Ontario, Doug Ford, qui a sollicité de l'aide des États-Unis pour lutter contre ces feux au lieu de se plaindre. Trump a déclaré : « Les États-Unis subissent une invasion inutile d'air pollué et malsain », insinuant que le Canada fait preuve de « négligence délibérée ». En date de vendredi, environ 888 incendies étaient actifs au Canada, dont plus de 190 en Ontario, certains étant incontrôlables. Trump a aussi indiqué sur Truth Social qu'il allait appeler le Premier ministre canadien Mark Carney pour demander des explications concernant cette « négligence ». Les républicains ont utilisé cette situation pour relancer l'idée que le Canada devrait devenir le 51e État des États-Unis, une proposition qui a offensé de nombreux Canadiens. De plus, certains internautes ont suggéré de retarder l'ouverture du pont international Gordie Howe, un projet financé par le Canada qui reliera l'Ontario au Michigan. Carney a signalé que la lutte contre le changement climatique est une responsabilité partagée. Après les remarques de Trump, le ministre canadien de la gestion des urgences a souligné les contacts constants entre les deux pays.",
+        "vocabulary": [
+          {
+            "word": "menacer",
+            "definition": "Dire qu'on va faire du mal."
+          },
+          {
+            "word": "tarifs",
+            "definition": "Taxes sur les produits importés."
+          },
+          {
+            "word": "négligence",
+            "definition": "Manque d'attention ou d'effort."
+          },
+          {
+            "word": "écologique",
+            "definition": "Concernant l'environnement."
+          },
+          {
+            "word": "expliquer",
+            "definition": "Rendre quelque chose clair."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi Trump menace-t-il le Canada ?",
+            "options": [
+              "À cause de la pollution",
+              "À cause des incendies",
+              "À cause des impôts"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le nom du premier ministre de l'Ontario ?",
+            "options": [
+              "Mark Carney",
+              "Doug Ford",
+              "Donald Trump"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que réclame Trump dans son message ?",
+            "options": [
+              "De l'aide",
+              "Des explications",
+              "Un traité"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La menace de Trump : De nouveaux tarifs canadiens face aux incendies de forêt",
+        "text": "Face à la crise des incendies de forêt, Donald Trump a émis des menaces de nouveaux tarifs à l'encontre du Canada, un pays déjà affecté par des flammes ravageant une large portion de ses forêts. Ses accusations croisent celles de certains législateurs américains qui se plaignent de la qualité de l'air, décrite comme « polluée et malsaine », insinuant une forme de négligence de la part du Canada. En réaction à cette situation alarmante, le premier ministre de l'Ontario, Doug Ford, a demandé une coopération plutôt que de se focaliser sur les plaintes. Concernant les incendies, le système canadien d'information sur les feux de forêt a rapporté près de 888 incendies en cours, dont plus de 190 en Ontario, certains échappant à tout contrôle. Dans son message sur Truth Social, Trump a insinué qu'il pourrait contacter Mark Carney, le Premier ministre canadien, pour demander des explications. Par ailleurs, il est intéressant de noter que certains républicains relancent l'idée de faire du Canada le 51e État des États-Unis, une proposition qui a suscité des tensions. Pour sa part, Carney a souligné la nécessité d'un travail commun pour lutter contre le changement climatique. En réponse, un ministre canadien a affirmé que les deux pays étaient en contact permanent, renforçant l'idée que la défense de l'environnement était une responsabilité partagée, au-delà des frontières.",
+        "vocabulary": [
+          {
+            "word": "crise",
+            "definition": "Situation difficile et urgente."
+          },
+          {
+            "word": "coopération",
+            "definition": "Travail ensemble pour un but commun."
+          },
+          {
+            "word": "accusations",
+            "definition": "Dire que quelqu'un a fait quelque chose de mal."
+          },
+          {
+            "word": "expliquer",
+            "definition": "Rendre quelque chose compréhensible."
+          },
+          {
+            "word": "tensions",
+            "definition": "Conflits ou désaccords."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quels sont les incendies que Trump évoque ?",
+            "options": [
+              "Ceux en Californie",
+              "Ceux au Canada",
+              "Ceux en Alaska"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'a demandé Doug Ford face à la crise ?",
+            "options": [
+              "D'envoyer de l'aide",
+              "De ne pas se plaindre",
+              "De taxer les États-Unis"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que souligne Carney concernant l'environnement ?",
+            "options": [
+              "C'est une affaire seule",
+              "C'est un travail commun",
+              "C'est un problème secondaire"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Les répercussions écologiques : Trump menace le Canada en raison des incendies dévastateurs",
+        "text": "Dans un contexte où les incendies de forêt font rage, Donald Trump a émis la menace d'imposer de nouveaux tarifs à l'égard du Canada, insinuant une négligence volontaire face à une situation écologique alarmante. Cette déclaration est survenue après que des législateurs américains, désabusés, ont fait part de leur mécontentement quant à la qualité de l'air affectée par une fumée dense provenant de centaines de feux ravageurs au Canada. En date de vendredi, les données indiquent qu'environ 888 incendies sont actifs, dont plus de 190 en Ontario, un fait préoccupant qui a suscité des appels à la coopération. Doug Ford, le premier ministre de l'Ontario, a exhorté ses homologues américains à agir plutôt qu'à s'engager dans une rhétorique stérile. Trump, sur sa plateforme Truth Social, a insinué l'intention de contacter Mark Carney pour revendiquer une clarification sur ce qu'il considère comme une inaction injustifiable. En parallèle, la suggestion des républicains de faire du Canada le 51e État a indigné de nombreux Canadiens. Carney, de son côté, a rappelé que la lutte contre le changement climatique doit transcender les frontières, un point de vue partagé par son ministre de la gestion des urgences, qui a évoqué des accords bilatéraux pour la gestion des incendies. Les impacts des incendies sont d'une ampleur considérable, touchant non seulement le Canada, mais également des États américains comme le Michigan et New York. Les scientifiques disent que la coopération est essentielle, car la complexité des incendies ne respecte aucune frontière. Ainsi, les discussions autour de la protection des forêts et de la gestion des ressources doivent rester une priorité.",
+        "vocabulary": [
+          {
+            "word": "répercussions",
+            "definition": "Conséquences de quelque chose."
+          },
+          {
+            "word": "négligence",
+            "definition": "Manque d'attention sérieuse."
+          },
+          {
+            "word": "rhetorique",
+            "definition": "Discours persuasif ou argumentatif."
+          },
+          {
+            "word": "préoccupant",
+            "definition": "Qui cause de l'inquiétude."
+          },
+          {
+            "word": "transcender",
+            "definition": "Dépasser les limites."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi Trump a-t-il évoqué la menace de tarifs ?",
+            "options": [
+              "À cause des incendies",
+              "À cause des échanges commerciaux",
+              "À cause de la pollution"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qu'est-ce que Doug Ford a demandé aux États-Unis ?",
+            "options": [
+              "Une coopération",
+              "Un remboursement",
+              "Une intervention militaire"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel message est véhiculé par Carney et son ministre ?",
+            "options": [
+              "Les incendies sont un problème local",
+              "La coopération est cruciale",
+              "Il faut ignorer les frontières"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Trump y Canadá",
+        "text": "El presidente de Estados Unidos es Donald Trump. Él tiene problemas con Canadá. Hay muchos incendios en Canadá. Muchos árboles están en llamas. Esto afecta el aire en Estados Unidos. El aire es sucio y malo. Trump habla de nuevos impuestos para Canadá. Él quiere ayuda para los incendios. Ontario tiene muchos incendios. Hay más de ochocientos incendios activos. Algunos son difíciles de apagar. Los árboles y los animales sufren mucho. La gente no puede salir a la calle. Canadá tiene que cuidar sus bosques. También es importante tener un buen aire. Los dos países trabajan juntos en otros problemas. Es necesario que protejan el medio ambiente juntos.",
+        "vocabulary": [
+          {
+            "word": "sufrir",
+            "definition": "sentir dolor o malestar"
+          },
+          {
+            "word": "contaminado",
+            "definition": "no limpio, sucio por algo malo"
+          },
+          {
+            "word": "bosque",
+            "definition": "lugar con muchos árboles"
+          },
+          {
+            "word": "necesario",
+            "definition": "que se debe hacer o tener"
+          },
+          {
+            "word": "juntos",
+            "definition": "en compañía de otra persona"
+          },
+          {
+            "word": "salir",
+            "definition": "ir fuera de un lugar"
+          },
+          {
+            "word": "problemas",
+            "definition": "situaciones difíciles o malas"
+          },
+          {
+            "word": "fuego",
+            "definition": "llama que arde y quema"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el presidente de Estados Unidos?",
+            "options": [
+              "Donald Trump",
+              "Mark Carney",
+              "Doug Ford"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántos incendios activos hay en Canadá?",
+            "options": [
+              "Más de doscientos",
+              "Más de ochocientos",
+              "Menos de quinientos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué necesita Canadá cuidar bien?",
+            "options": [
+              "Sus bosques",
+              "Sus animales",
+              "Sus ríos"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump y los incendios de Canadá",
+        "text": "El presidente de Estados Unidos, Donald Trump, tiene problemas con Canadá. Muchos incendios ocurren allí. Estos incendios envían humo a las ciudades de Estados Unidos. Trump dice que el aire es sucio y malo. Por eso, él quiere nuevos impuestos para Canadá. El primer ministro de Ontario, Doug Ford, pide ayuda a Estados Unidos. Hay más de 888 incendios en Canadá, y muchos no están controlados. Trump asegura que Canadá no cuida bien sus bosques. La situación se vuelve difícil porque el aire es peligroso en muchas ciudades. Trump habla de hacer algo pronto porque la gente se queja. Los días pasan y no hay respuesta clara de Canadá.",
+        "vocabulary": [
+          {
+            "word": "humo",
+            "definition": "aire que sale del fuego"
+          },
+          {
+            "word": "pide",
+            "definition": "pregunta por ayuda o algo"
+          },
+          {
+            "word": "controlados",
+            "definition": "cuando algo está bajo control"
+          },
+          {
+            "word": "peligroso",
+            "definition": "que puede hacer daño"
+          },
+          {
+            "word": "situación",
+            "definition": "el estado de un asunto"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué quiere Trump de Canadá?",
+            "options": [
+              "Ayuda",
+              "Nuevos impuestos",
+              "Más incendios"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos incendios hay en Canadá?",
+            "options": [
+              "Más de 888",
+              "Menos de 100",
+              "Unos 500"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es el primer ministro de Ontario?",
+            "options": [
+              "Doug Ford",
+              "Joe Biden",
+              "Mark Carney"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump amenaza a Canadá por los incendios",
+        "text": "El presidente de Estados Unidos, Donald Trump, ha amenazado a Canadá con nuevos impuestos debido a cientos de incendios que han cubierto el norte del país con humo. Esta amenaza llegó después de que legisladores estadounidenses se quejaron por los incendios en Ontario. Doug Ford, el premier de Ontario, ha pedido apoyo de Estados Unidos para controlar los fuegos en lugar de quejarse. Trump ha afirmado que el aire en Estados Unidos es sucio y dañino por el humo canadiense. Según el sistema de información de incendios, hay aproximadamente 888 incendios activos en Canadá, principalmente en Ontario, y la mayoría está fuera de control. Los políticos de Estados Unidos advierten que su paciencia se ha agotado. Estos incendios han afectado el aire en diversas ciudades, provocando alertas de calidad del aire. Si no se toman medidas, podría haber consecuencias graves para la salud pública. La situación es crítica y los expertos dicen que cambiar el clima y el manejo inadecuado de los bosques también son factores importantes. Las condiciones climáticas, que han incluido olas de calor y falta de lluvia, han empeorado la situación. Si no se manejan los bosques correctamente, las llamas pueden crecer y expandirse rápidamente, causando aún más problemas. Además, los incendios forestales son un fenómeno común, pero la cantidad de brotes ha aumentado rápidamente en las últimas semanas. Esto provoca preocupación entre los ciudadanos, quienes piden una respuesta más rápida y efectiva de sus gobiernos.",
+        "vocabulary": [
+          {
+            "word": "sostenido",
+            "definition": "que se ha mantenido en el tiempo, no ha cambiado"
+          },
+          {
+            "word": "alerta",
+            "definition": "advertencia sobre un peligro o problema"
+          },
+          {
+            "word": "calidad",
+            "definition": "condición de algo que lo hace bueno o malo"
+          },
+          {
+            "word": "manejo",
+            "definition": "acción de administrar o controlar algo"
+          },
+          {
+            "word": "temporalidad",
+            "definition": "duración o periodo de tiempo"
+          },
+          {
+            "word": "síntoma",
+            "definition": "señal que indica que algo está mal"
+          },
+          {
+            "word": "cosechas",
+            "definition": "cultivos que se recogen de la tierra"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es la principal razón de la amenaza de Trump a Canadá?",
+            "options": [
+              "Por el deshielo de los glaciares",
+              "Por los incendios que afectan el aire",
+              "Por la calidad del agua en Estados Unidos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha solicitado Doug Ford al presidente de Estados Unidos?",
+            "options": [
+              "Apoyo para viajar",
+              "Ayuda para controlar los incendios",
+              "Una reunión anual"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo ha afectado la situación de los incendios a la calidad del aire en EE. UU.?",
+            "options": [
+              "Ha mejorado significativamente",
+              "No ha tenido efecto",
+              "Ha provocado alertas de calidad del aire"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump amenaza con nuevas tarifas a Canadá debido a incendios forestales",
+        "text": "El presidente de Estados Unidos, Donald Trump, ha amenazado con imponer nuevas tarifas a Canadá tras la devastación provocada por cientos de incendios forestales, que han cubierto gran parte del norte de EE.UU. con una densa capa de humo. Esta amenaza surge después de que legisladores estadounidenses expresaran su preocupación sobre los incendios y el premier de Ontario, Doug Ford, pidiera apoyo a EE.UU. para combatir las llamas en lugar de quejarse. Trump afirmó: \"Estados Unidos está siendo invadido de manera innecesaria por aire sucio, contaminado y poco saludable\". El presidente argumentó que Canadá está mostrando \"negligencia deliberada\" al no manejar adecuadamente sus bosques. Hasta el viernes, se reportaban alrededor de 888 incendios activos en Canadá, con la mayoría fuera de control, y más de 190 en Ontario. Los republicanos han utilizado esta situación para reforzar la idea de que Canadá debería convertirse en el estado 51 de EE.UU., un comentario que ha ofendido a muchos canadienses. Por otro lado, el primer ministro canadiense, Mark Carney, afirmó que ambos países deben colaborar en la lucha contra el cambio climático. A pesar de la tensión existente, también existe un acuerdo de reciprocidad en la lucha contra incendios desde 1982.",
+        "vocabulary": [
+          {
+            "word": "incendios",
+            "definition": "fuego grande que quema el bosque o terreno."
+          },
+          {
+            "word": "negligencia",
+            "definition": "no cuidar algo que debería ser cuidado."
+          },
+          {
+            "word": "contaminado",
+            "definition": "sucio, polucionado."
+          },
+          {
+            "word": "apoyar",
+            "definition": "dar ayuda o asistencia."
+          },
+          {
+            "word": "colaborar",
+            "definition": "trabajar juntos para lograr algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién está amenazando con nuevas tarifas?",
+            "options": [
+              "Doug Ford",
+              "Donald Trump",
+              "Mark Carney"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos incendios activos hay en Canadá según el artículo?",
+            "options": [
+              "888",
+              "190",
+              "500"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué propone el premier de Ontario?",
+            "options": [
+              "Quejarse",
+              "Enviar ayuda",
+              "Cerrar fronteras"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Tensiones entre EE.UU. y Canadá por incendios forestales y posibles tarifas",
+        "text": "El presidente de Estados Unidos, Donald Trump, ha expresado su intención de imponer nuevas tarifas a Canadá debido a la crisis de los incendios forestales, que ha dejado a gran parte del norte de EE.UU. completamente sumido en una densa cortina de humo. Esta posición se produce tras las quejas formuladas por legisladores estadounidenses, junto con un llamado del premier de Ontario, Doug Ford, quien instó a EE.UU. a ofrecer apoyo en lugar de limitarse a criticar. Trump, en un mensaje al público, aseguró que \"el aire en Estados Unidos es contaminado y poco saludable\" y atribuyó esta situación a lo que calificó como \"negligencia deliberada\" por parte de Canadá. Hasta el presente, se han contabilizado cerca de 888 incendios ardiendo activamente, la mayoría de los cuales se encuentran descontrolados en Ontario. Es importante rememorar que las tensiones comerciales no son nuevas; el año anterior, Trump ya había impuesto tarifas a este país, añadiendo más fricción a las relaciones bilaterales. Mientras tanto, el primer ministro canadiense, Mark Carney, enfatizó que ambos países tienen la responsabilidad de afrontar conjuntamente la crisis climática. La situación es compleja: los incendios son un fenómeno habitual en Canadá, que ha aumentado notablemente en las últimas semanas debido a condiciones climáticas adversas.",
+        "vocabulary": [
+          {
+            "word": "crisis",
+            "definition": "situación de dificultad o peligro."
+          },
+          {
+            "word": "cuestionar",
+            "definition": "dudar o dudar de algo."
+          },
+          {
+            "word": "sumido",
+            "definition": "estar totalmente en una situación."
+          },
+          {
+            "word": "enfatizar",
+            "definition": "dar importancia a algo."
+          },
+          {
+            "word": "frenar",
+            "definition": "detener el avance de algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién llamó a la cooperación en la lucha contra el cambio climático?",
+            "options": [
+              "Trump",
+              "Carney",
+              "Ford"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de condiciones clima han contribuido a los incendios?",
+            "options": [
+              "Lluvias abundantes",
+              "Altas temperaturas",
+              "Frío extremo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo describe Trump el aire en EE.UU.?",
+            "options": [
+              "Limpio",
+              "Contaminado",
+              "Agradable"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Desafíos diplomáticos entre EE.UU. y Canadá provocados por incendios forestales",
+        "text": "A medida que los devastadores incendios forestales asolan el norte de Estados Unidos, el presidente Donald Trump ha lanzado una controversia al anunciar su intención de considerar la imposición de nuevas tarifas a su vecino del norte, Canadá, a quien ha acusado de negligencia en la gestión de sus bosques. Con esta declaración, Trump no solo busca presionar al gobierno canadiense, sino que también intensifica las ya tensas relaciones comerciales entre ambos países. El premier de Ontario, Doug Ford, ha implorado a Estados Unidos que ofrezca asistencia en lugar de limitarse a criticar. En un entorno en el que se están reportando alrededor de 888 incendios, de los cuales más de 190 se encuentran en Ontario, la preocupación por la calidad del aire ha llevado a la emisión de alertas de salud en múltiples estados, destacando la fragilidad del ecosistema y la falta de coordinación bilateral. Mientras que legisladores estadounidenses han expresado su frustración y la posibilidad de intervenir directamente, el primer ministro canadiense, Mark Carney, respondió que tanto Canadá como Estados Unidos comparten responsabilidades comunes ante el cambio climático. La comunidad científica ha subrayado que estos incendios no son solo un fenómeno local; más bien, son el resultado de la dinámica climática global, que trasciende fronteras y que demanda soluciones cooperativas y urgentes. En este contexto, es crucial entender que la prevención de incendios en Canadá también beneficia a su vecino del sur, resaltando la interdependencia de ambas naciones en un mundo cada vez más afectado por el cambio climático.",
+        "vocabulary": [
+          {
+            "word": "asolar",
+            "definition": "destruir o arrasar algo completamente."
+          },
+          {
+            "word": "implorar",
+            "definition": "pedir con mucha intensidad."
+          },
+          {
+            "word": "fragilidad",
+            "definition": "estado de debilidad o inestabilidad."
+          },
+          {
+            "word": "trascender",
+            "definition": "ir más allá de los límites."
+          },
+          {
+            "word": "interdependencia",
+            "definition": "dependencia mutua entre dos o más partes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué busca Trump con la imposición de tarifas?",
+            "options": [
+              "Mejorar las relaciones",
+              "Presionar a Canadá",
+              "Ignorar la crisis"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué han expresado los legisladores estadounidenses?",
+            "options": [
+              "Frustración sobre la situación",
+              "Satisfacción con el apoyo",
+              "Indiferencia total"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo responden los científicos al fenómeno de los incendios?",
+            "options": [
+              "Es un asunto local",
+              "Es un problema que va más allá de fronteras",
+              "No es importante"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

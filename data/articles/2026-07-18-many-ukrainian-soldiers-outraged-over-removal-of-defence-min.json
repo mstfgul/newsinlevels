@@ -1,0 +1,1365 @@
+{
+  "id": "2026-07-18-many-ukrainian-soldiers-outraged-over-removal-of-defence-min",
+  "date": "2026-07-18",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Soldiers Upset by Defence Minister's Removal",
+        "text": "Many soldiers in Ukraine are upset. They feel angry about the removal of their defence minister, Mykhailo Fedorov. Fedorov is a young man. He helps Ukraine with the war. Many people protest in the streets. They want Fedorov back. A soldier says this is hard for everyone. They want better leaders. Soldiers believe Fedorov helps them fight better. Some soldiers think they cannot say how they feel. They worry the leaders do not care. They want change. The future is not clear for them. They hope for better days ahead.",
+        "vocabulary": [
+          {
+            "word": "soldiers",
+            "definition": "people who fight in an army"
+          },
+          {
+            "word": "removal",
+            "definition": "taking someone away from a job"
+          },
+          {
+            "word": "protest",
+            "definition": "a public display to show disagreement"
+          },
+          {
+            "word": "leaders",
+            "definition": "people who guide or control others"
+          },
+          {
+            "word": "future",
+            "definition": "time that comes after now"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is upset in Ukraine?",
+            "options": [
+              "The soldiers",
+              "The teachers",
+              "The children"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who was the defence minister?",
+            "options": [
+              "Mykhailo Fedorov",
+              "President Zelensky",
+              "Natasha"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do the soldiers want?",
+            "options": [
+              "A new job",
+              "Fedorov back",
+              "More food"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ukrainian Soldiers Angry About Their Defence Minister",
+        "text": "Many soldiers in Ukraine are angry about the removal of Defence Minister Mykhailo Fedorov. Fedorov is young, and he helps Ukraine in the war. After his removal, many people go to the streets to protest. They want Fedorov to return to his job. A soldier says this situation is hard for them. They feel that their leaders are not good enough. Some soldiers think it is not safe to speak openly. They worry that the leaders do not care about their voices. The future is uncertain for these soldiers. They hope for changes that can help them fight better. They want to see better leaders who listen to their needs.",
+        "vocabulary": [
+          {
+            "word": "angry",
+            "definition": "having strong feelings of disagreement"
+          },
+          {
+            "word": "removal",
+            "definition": "taking someone away from their job"
+          },
+          {
+            "word": "protest",
+            "definition": "a public show of disagreement"
+          },
+          {
+            "word": "leaders",
+            "definition": "people in charge who guide others"
+          },
+          {
+            "word": "uncertain",
+            "definition": "not sure about what will happen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the Defence Minister?",
+            "options": [
+              "Mykhailo Fedorov",
+              "President Zelensky",
+              "Gen Oleksandr Syrskyi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do the soldiers want to happen?",
+            "options": [
+              "To stay quiet",
+              "For Fedorov to return",
+              "To leave the army"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why do soldiers feel difficult?",
+            "options": [
+              "They think leaders do not care",
+              "They want new weapons",
+              "They are tired of fighting"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ukrainian Soldiers Express Outrage Over Defence Minister's Ouster",
+        "text": "Ukrainian soldiers are expressing strong outrage after Defence Minister Mykhailo Fedorov was removed from his position. This decision has led to many protests in the streets of Kyiv, as both soldiers and civilians hope for Fedorov’s return. A soldier shared that it felt hard to accept this situation because Fedorov had played a crucial role in their battle efforts. Many veterans believe Fedorov's modern methods improved Ukraine's military and helped them resist their much larger enemy effectively. There is a growing sense of frustration among the soldiers as they worry that their voices are not being heard. They fear that military leaders will ignore their concerns about the war. While emotions run high, soldiers appear cautious to express their thoughts openly. If they do so, they worry about potential consequences. Many see this political change as a significant issue that could directly affect their future on the front lines. The soldiers demonstrate a strong desire for leadership that understands the urgent challenges they face in this ongoing conflict. They believe that effective leadership can create a more united and motivated military force to continue fighting for their country.",
+        "vocabulary": [
+          {
+            "word": "outrage",
+            "definition": "strong anger or shock about something unfair or wrong."
+          },
+          {
+            "word": "protests",
+            "definition": "public demonstrations where people gather to express their opinions."
+          },
+          {
+            "word": "modernize",
+            "definition": "to make something more current or up to date."
+          },
+          {
+            "word": "veterans",
+            "definition": "people who have served in the military."
+          },
+          {
+            "word": "concerns",
+            "definition": "worries or problems that are important to someone."
+          },
+          {
+            "word": "leaders",
+            "definition": "people who guide or direct others."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has caused protests among soldiers and civilians in Ukraine?",
+            "options": [
+              "The removal of Defence Minister Fedorov",
+              "The increase in military funding",
+              "The introduction of new technology"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why do soldiers feel frustrated about their voices not being heard?",
+            "options": [
+              "They believe their fears are ignored",
+              "They have lost all hope",
+              "They are not allowed to speak"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do soldiers desire in their leadership during the conflict?",
+            "options": [
+              "An understanding of their challenges",
+              "More modern equipment",
+              "A return to past practices"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ukrainian Soldiers Outraged Over Defence Minister's Removal",
+        "text": "Many Ukrainian soldiers are expressing their outrage following the recent removal of Defence Minister Mykhailo Fedorov. This decision by President Zelensky has sparked confusion and anger among the military ranks. An unidentified soldier, still recovering from severe injuries, shared his hope via Telegram that Fedorov would return to his position. He stated, \"Otherwise, everything I was fighting for will have been in vain.\" The discontent among soldiers has been widespread, as described by Maryna, a soldier who remarked, \"It is a blatant slap in the face to all service members.\" Despite protests erupting across various parts of Ukraine, she is skeptical about the potential for real change. \"A dictatorship is unfolding here,\" she noted. The dismay is not limited to the streets; recent reports indicate that military leaders have cautioned troops against engaging in politics. This has led to a reluctance among soldiers to express their true feelings. Natasha, another soldier, commented on the protests, stating that while demonstrators were creating cardboard signs, the frontline realities were much harsher, highlighting a disconnect between the two experiences. Nevertheless, admiration for Fedorov's innovations in military technology is evident among many troops. His work had notably transformed Ukraine's approach to modern warfare, placing greater emphasis on drones and technology to counteract its larger adversary.",
+        "vocabulary": [
+          {
+            "word": "outrage",
+            "definition": "a strong feeling of anger or shock"
+          },
+          {
+            "word": "removal",
+            "definition": "the act of taking someone from a position or place"
+          },
+          {
+            "word": "protest",
+            "definition": "a statement or action expressing disagreement with something"
+          },
+          {
+            "word": "disconnect",
+            "definition": "a lack of connection or understanding between people or situations"
+          },
+          {
+            "word": "innovations",
+            "definition": "new ideas or methods"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why are soldiers unhappy about the removal of Fedorov?",
+            "options": [
+              "They feel it will affect their fight.",
+              "They want to leave the army.",
+              "They liked his style of dressing."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Maryna think about the protests?",
+            "options": [
+              "They will change everything.",
+              "They are not likely to lead to change.",
+              "They are only for fun."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did soldiers express admiration for?",
+            "options": [
+              "Fedorov's hair.",
+              "Fedorov's work in military technology.",
+              "The cardboard signs."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Discontent Among Ukrainian Troops Following Minister's Dismissal",
+        "text": "In the wake of his dismissal, a significant number of Ukrainian soldiers have aired their grievances regarding Defence Minister Mykhailo Fedorov's removal, a decision that has ignited considerable turmoil within the military community. President Zelensky's surprising decision not to reappoint Fedorov has left many baffled and enraged. An anonymous soldier, reflecting on his own battle wounds, conveyed hope via Telegram, expressing, \"When I wake up after the anaesthetic, I hope Fedorov will be back at the Ministry of Defence; otherwise, everything I fought for will have been in vain.\" The palpable sense of discontent is further echoed by Maryna, who elaborated, \"This is a blatant slap in the face to all service members,\" articulating her frustration at the political landscape. Despite the protests resonating throughout Ukraine, Maryna remains doubtful about the efficacy of such actions in instigating real change, asserting, \"A dictatorship is already unfolding here.\" Moreover, it appears that military leadership disallows open political discourse among soldiers, leading to a culture of silence. Natasha, another voice among many, critiqued the protesters' naive separation from battlefield realities, emphasizing the ongoing challenges faced by front-line troops. Nevertheless, admiration for Fedorov’s innovations—particularly his initiatives concerning modern warfare technologies—underscores the gap between those in decision-making positions and the armed forces on the ground, suggesting that while political landscapes shift, the core of military effectiveness rests on empathy and understanding.",
+        "vocabulary": [
+          {
+            "word": "grievances",
+            "definition": "complaints or feelings of injustice"
+          },
+          {
+            "word": "turmoil",
+            "definition": "a state of confusion or uncertainty"
+          },
+          {
+            "word": "palpable",
+            "definition": "able to be felt or easily perceived"
+          },
+          {
+            "word": "inefficacy",
+            "definition": "lack of power or effectiveness"
+          },
+          {
+            "word": "initiatives",
+            "definition": "new plans or strategies to achieve something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the anonymous soldier hope for after his operation?",
+            "options": [
+              "To see a new minister.",
+              "For Fedorov to return.",
+              "To leave the hospital."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How does Maryna feel about the protests?",
+            "options": [
+              "She believes they will help.",
+              "She doubts they will bring real change.",
+              "She enjoys participating in them."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What aspect of Fedorov's work did many soldiers admire?",
+            "options": [
+              "His leadership style.",
+              "His innovations in military tech.",
+              "His speeches."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ukrainian Soldiers' Reactions to Defence Minister's Ouster: Resentment and Uncertainty",
+        "text": "In an atmosphere dense with resentment, the recent ouster of Defence Minister Mykhailo Fedorov has incited a maelstrom of criticism among both active soldiers and veterans alike. President Zelensky's controversial decision to remove the dynamic minister, who had played an instrumental role in the modernization of Ukraine's military strategy, has left many within the armed forces grappling with a profound sense of injustice. One disfigured soldier poignantly articulated his sentiments in a Telegram video, stating, \"Upon waking from my operation tomorrow, I hope to find Fedorov reinstated; otherwise, my sacrifices will have been rendered futile.\" Such statements resonate deeply, especially in light of Maryna's expression of frustration, remarking, \"It is a blatant slap in the face to all service members,\" encapsulating the prevailing mood of indignation permeating the ranks. Despite the visible protests erupting across Ukraine, Maryna remains pragmatic, asserting, \"A dictatorship is already unfolding here,\" suggesting a disconcerting shift towards authoritarianism. Moreover, a culture of self-censorship exists among soldiers, as military leadership appears increasingly intent on suppressing political dissent. Natasha poignantly noted the disconnect between demonstrating civilians and front-line soldiers, who are simultaneously fighting a relentless war. Yet, amidst this turmoil, admiration for Fedorov's innovative approaches to military engagement—particularly his embrace of advanced technologies and data-driven strategies—reflects an awareness that effective command must be coupled with a deep understanding of the battlefield's grim realities. The rift between Fedorov and General Oleksandr Syrskyi, who embodies a more traditional and, controversially, a Soviet-era mindset, further complicates the military's cohesion during this tumultuous period. Intriguingly, as factions emerge within the armed forces, questions arise regarding unity and the future direction of Ukraine's military leadership.",
+        "vocabulary": [
+          {
+            "word": "ouster",
+            "definition": "the act of removing someone from a position of power"
+          },
+          {
+            "word": "maelstrom",
+            "definition": "a situation of confused movement or violent turmoil"
+          },
+          {
+            "word": "poignantly",
+            "definition": "in a way that provokes a strong emotional response"
+          },
+          {
+            "word": "indignation",
+            "definition": "anger aroused by something perceived as unjust or wrong"
+          },
+          {
+            "word": "dissent",
+            "definition": "the expression of holding different opinions"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How did the soldier express his feelings about Fedorov's removal?",
+            "options": [
+              "He asked for more time.",
+              "He made a video message.",
+              "He wrote a letter."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Maryna think is happening in Ukraine?",
+            "options": [
+              "Democracy is strengthening.",
+              "A dictatorship is forming.",
+              "Peace is on the horizon."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What quality of Fedorov do many soldiers admire?",
+            "options": [
+              "His leadership style.",
+              "His innovative military strategies.",
+              "His speeches."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Soldaten sind wütend",
+        "text": "In der Ukraine sind viele Soldaten wütend. Der Verteidigungsminister Mykhailo Fedorov ist nicht mehr im Amt. Die Soldaten sagen, das ist schlecht. Sie wollen Fedorov zurück. Ein Soldat spricht in einem Video. Er hofft, dass Fedorov zurückkommt. Viele Menschen in der Ukraine fühlen sich betroffen. Präsident Zelensky hat Fedorov nicht wieder eingestellt. Viele Soldaten sind verärgert. Sie protestieren auf der Straße. Ein Soldat nennt die Situation unfair. Er sagt, sie kämpfen für die Ukraine. Die Soldaten wollen mehr Unterstützung. Sie wollen Sicherheit. Wie wird die Situation weitergehen?",
+        "vocabulary": [
+          {
+            "word": "wegen",
+            "definition": "darum, aus dem Grund"
+          },
+          {
+            "word": "wütend",
+            "definition": "sehr unzufrieden"
+          },
+          {
+            "word": "Soldat",
+            "definition": "Menschen in der Armee"
+          },
+          {
+            "word": "Minister",
+            "definition": "jemand, der ein wichtiges Amt hat"
+          },
+          {
+            "word": "protestieren",
+            "definition": "demonstrieren, zeigen, dass man nicht einverstanden ist"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum sind die Soldaten wütend?",
+            "options": [
+              "Der Präsident hat einen Fehler gemacht.",
+              "Der Verteidigungsminister ist nicht mehr da.",
+              "Die Soldaten haben keine Waffen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer ist Mykhailo Fedorov?",
+            "options": [
+              "Ein Soldat.",
+              "Ein Minister.",
+              "Ein Präsident."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was wollen die Soldaten?",
+            "options": [
+              "Sie wollen mehr Geld.",
+              "Sie wollen Fedorov zurück.",
+              "Sie wollen nach Hause."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Soldaten in der Ukraine sind wütend",
+        "text": "Viele Soldaten in der Ukraine sind wütend. Der Verteidigungsminister Mykhailo Fedorov ist nicht mehr in seinem Amt. Viele Menschen protestieren darum in den Straßen von Kiew. Ein Soldat sagt, dass die Situation schlecht ist und viele Soldaten unzufrieden sind. Er hofft, dass Fedorov zurückkommt, denn die Soldaten kämpfen für ihr Land und wollen, dass ihre Stimmen gehört werden. Präsident Zelensky hat entschieden, Fedorov nicht wieder zu ernennen. Das macht die Soldaten sehr enttäuscht und wütend. Viele Soldaten glauben, dass das unfair ist, weil sie Fedorov für wichtig halten. Er hat viele positive Änderungen für die Armee gemacht. Die Proteste gehen weiter, weil die Soldaten mehr Unterstützung und Sicherheit verlangen. Einige Soldaten haben Angst zu sprechen, weil sie nicht sicher sind, was passieren wird. Trotzdem glauben viele an Fedorov, weil sie seine Ideen mögen. Was wird jetzt passieren? Es gibt viele Fragen und viele Soldaten sind besorgt. Es ist unklar, wie die Zukunft der Ukraine aussieht und was das für die Soldaten bedeutet.",
+        "vocabulary": [
+          {
+            "word": "wütend",
+            "definition": "sehr unzufrieden oder verärgert"
+          },
+          {
+            "word": "Unterstützung",
+            "definition": "Hilfe oder Beistand"
+          },
+          {
+            "word": "Proteste",
+            "definition": "öffentliche Demonstrationen gegen etwas"
+          },
+          {
+            "word": "Zukunft",
+            "definition": "die Zeit, die noch kommt"
+          },
+          {
+            "word": "Enttäuschung",
+            "definition": "das Gefühl, wenn Erwartungen nicht erfüllt werden"
+          },
+          {
+            "word": "Verteidigungsminister",
+            "definition": "jemand, der für die Landesverteidigung zuständig ist"
+          },
+          {
+            "word": "Armee",
+            "definition": "militärische Streitkräfte eines Landes"
+          },
+          {
+            "word": "Ideen",
+            "definition": "Gedanken oder Vorschläge, die jemand hat"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum sind die Soldaten in der Ukraine wütend?",
+            "options": [
+              "Weil sie mehr Freizeit wollen.",
+              "Weil Fedorov nicht mehr Verteidigungsminister ist.",
+              "Weil sie nicht genug Geld bekommen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hoffen die Soldaten?",
+            "options": [
+              "Dass es bald Frieden gibt.",
+              "Dass Fedorov zurückkommt.",
+              "Dass Zelensky zurücktritt."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Unterstützung verlangen die Soldaten?",
+            "options": [
+              "Mehr Gehalt und Urlaub.",
+              "Mehr Unterstützung und Sicherheit.",
+              "Weniger Regeln und Vorschriften."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Wütende Soldaten in der Ukraine",
+        "text": "Viele Soldaten in der Ukraine sind sehr wütend, weil Präsident Zelensky seinen Verteidigungsminister Mykhailo Fedorov nicht wieder ernannt hat. Fedorov war beliebt, weil er viele wichtige Reformen gemacht hat. Diese Reformen haben der Armee in der Vergangenheit geholfen. Ein Soldat erklärt in einem Video, dass das sehr unfair ist. Er hofft, Fedorov wird zurückkommen, weil die Soldaten ihn als eine starke Führungspersönlichkeit sehen. Die Soldaten gehen auf die Straßen, um zu protestieren. Sie fühlen sich von der Regierung ignoriert und kämpfen für ihre Rechte. Viele sind der Meinung, dass die Politik in der Armee bewirken wird, dass die Situation schlimmer wird. Es gibt viele Fragen über die Zukunft der Armee. Einige Soldaten haben über die Entscheidung gesagt, dass sie nicht im selben Raum sein konnten, weil sie an den unterschiedlichen Meinungen über die Militärstrategie leidet. Ein anderer Soldat, Natasha, meint, dass Fedorov viel für die Ukraine getan hat. Sie erklärt, dass die Soldaten sich mehr Unterstützung von der Regierung wünschen. Es gibt Diskussionen über die Politik in der Armee. Soldaten sind vorsichtig, weil sie nicht zu viel sagen wollen, um keine Probleme mit ihren Vorgesetzten zu bekommen. Die Situation bleibt angespannt. Die Soldaten möchten, dass ihre Stimmen gehört werden. Wenn die Regierung nicht zuhört, werden die Proteste wahrscheinlich weitergehen und die Spannung könnte noch zunehmen.",
+        "vocabulary": [
+          {
+            "word": "Führungspersönlichkeit",
+            "definition": "Eine Person, die andere führt oder anleitet."
+          },
+          {
+            "word": "Reformen",
+            "definition": "Änderungen, die helfen, Dinge besser oder effizienter zu machen."
+          },
+          {
+            "word": "unterstützen",
+            "definition": "Helfen oder fördern, damit etwas erfolgreich ist."
+          },
+          {
+            "word": "Meinung",
+            "definition": "Die persönliche Sichtweise oder Gedanken über etwas."
+          },
+          {
+            "word": "Politik",
+            "definition": "Die Art und Weise, wie Macht und Entscheidungen in einer Gesellschaft getroffen werden."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum sind die Soldaten wütend?",
+            "options": [
+              "Weil sie Fedorov mögen.",
+              "Weil die Proteste erfolgreich waren.",
+              "Weil Zelensky versprochen hat, zu resignieren."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hoffen die Soldaten?",
+            "options": [
+              "Dass Fedorov zurückkommt.",
+              "Dass der Krieg endet.",
+              "Dass sie mehr Waffen bekommen."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie fühlt sich Natasha über die Situation?",
+            "options": [
+              "Sie denkt, alles wird besser.",
+              "Sie möchte mehr Unterstützung.",
+              "Sie ist glücklich mit den Reformen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ukrainische Soldaten empört über die Entlassung des Verteidigungsministers",
+        "text": "In der Ukraine sind viele Soldaten über die Entscheidung von Präsident Selenskyj, den Verteidigungsminister Mykhailo Fedorov nicht erneut zu ernennen, wütend. Diese politische Entwicklung hat ein Gefühl der Verwirrung und des Zorns ausgelöst. Ein verwundeter Soldat äußerte sich in einem Video auf Telegram und sagte: \"Ich hoffe, wenn ich nach der Narkose aufwache, ist Fedorov wieder im Ministerium.\" Für viele Soldaten, die unter den harten Bedingungen des Krieges leiden, ist diese Entscheidung ein Schlag ins Gesicht.  Eine Soldatin namens Maryna erklärte, dass dieser Schritt für alle Militärangehörigen schwer zu verarbeiten sei und die Situation im Land schwerwiegende Probleme widerspiegle. Einige Soldaten berichteten von den Verzweiflungen an der Front, während andere die Innovationsanstrengungen von Fedorov hochschätzten. Er hatte als Minister für digitale Transformation viel bewirkt, insbesondere mit dem Programm \"Armee der Drohnen: Bonus\", das den Einsatz moderner Technologien vorantrieb. Die Kluft zwischen innovativen Ansätzen und den alten, veralteten Denkmustern im Militär wurde deutlich. Eine Soldatin stellte fest, dass bestimmte hochrangige Offiziere, wie General Syrskyi, nicht die notwendige Autorität und den Respekt genießen, den die Truppe braucht, um im Kampf zu bestehen. Der Streit zwischen Fedorov und Syrskyi wird in den kommenden Wochen weitere Konsequenzen für die Strategie der Ukraine haben.",
+        "vocabulary": [
+          {
+            "word": "empört",
+            "definition": "sehr wütend"
+          },
+          {
+            "word": "Verteidigungsminister",
+            "definition": "Leiter des Verteidigungsministeriums"
+          },
+          {
+            "word": "Narkose",
+            "definition": "medizinischer Zustand, in dem man schläft"
+          },
+          {
+            "word": "Schlag ins Gesicht",
+            "definition": "eine schwerwiegende Beleidigung"
+          },
+          {
+            "word": "Innovationen",
+            "definition": "neue Ideen oder Technologien"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum sind viele Soldaten empört?",
+            "options": [
+              "Wegen der Entlassung von Fedorov",
+              "Wegen eines Sieges",
+              "Wegen einer Feier"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer war der Verteidigungsminister?",
+            "options": [
+              "Wladimir Selenskyj",
+              "Mykhailo Fedorov",
+              "Oleksandr Syrskyi"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist das Programm \"Armee der Drohnen: Bonus\"?",
+            "options": [
+              "Ein neuer Plan für die Frontsoldaten",
+              "Ein Program zur Modernisierung der Armee",
+              "Ein Spiel für Soldaten"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Empörung unter ukrainischen Soldaten nach der Abberufung des Verteidigungsministers",
+        "text": "Die Entscheidung von Präsident Wolodymyr Selenskyj, Mykhailo Fedorov, den Verteidigungsminister, nicht erneut zu ernennen, hat in den Reihen der ukrainischen Soldaten Empörung und Verwirrung ausgelöst. In einem emotionalen Video äußerte ein verletzter Soldat auf Telegram seine Hoffnung, Fedorov vor der nächsten Operation wieder im Ministerium zu sehen. Für die Soldaten, die in den erbitterten Kämpfen des Krieges stehen, ist diese Veränderung ein klarer Schlag ins Gesicht. Maryna, eine Soldatin, stellte fest, dass dieser Schritt nicht nur frustrierend sei, sondern auch die tief verwurzelten Probleme innerhalb des Verteidigungsministeriums verdeutliche. Fedorovs Erfolge, insbesondere im Bereich digitaler Transformation und technologische Innovationen, wie das Programm \"Armee der Drohnen: Bonus\", wurden von vielen hoch geschätzt. Dennoch existieren Elemente des alten sowjetischen Denkens innerhalb der Militärstruktur, die die Fortschritte behindern. General Syrskyi, oft als Vertreter dieser veralteten Denkweise gesehen, genießt unter den Soldaten wenig Autorität. Ein Soldat erklärte, dass der Konflikt zwischen Fedorov und Syrskyi längst offenkundig war und Selenskyj folglich gezwungen war, zu handeln, um die politische Stabilität in der Ukraine sicherzustellen. Dies könnte die zukünftige Strategie der Ukraine im Konflikt entscheidend beeinflussen.",
+        "vocabulary": [
+          {
+            "word": "Empörung",
+            "definition": "starke Wut oder Zorn"
+          },
+          {
+            "word": "erbittern",
+            "definition": "einen intensiven Kampf führen"
+          },
+          {
+            "word": "frustrierend",
+            "definition": "nervig oder enttäuschend"
+          },
+          {
+            "word": "Verteidigungsministerium",
+            "definition": "Behörde für die Verteidigung des Landes"
+          },
+          {
+            "word": "veraltete Denkweise",
+            "definition": "alte, nicht mehr aktuelle Denkweise"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat die Entscheidung von Selenskyj ausgelöst?",
+            "options": [
+              "Empörung und Verwirrung",
+              "Einen großen Sieg",
+              "Eine Rückkehr Fedorovs"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist das Programm \"Armee der Drohnen: Bonus\"?",
+            "options": [
+              "Ein Plan zur Kriegsführung",
+              "Ein Innovationsprogramm",
+              "Ein Trainingslager"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer wird als Vertreter der alten Denkweise angesehen?",
+            "options": [
+              "Mykhailo Fedorov",
+              "Oleksandr Syrskyi",
+              "Wolodymyr Selenskyj"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Diskrepanz in der ukrainischen Militärführung nach der Absetzung des Verteidigungsministers Fedorov",
+        "text": "Die Abberufung Mykhailo Fedorovs als Verteidigungsminister hat nicht nur einen Sturm der Entrüstung unter den ukrainischen Soldaten entfacht, sondern auch tiefere Risse innerhalb des militärischen Oberkommandos offenbart. Während einige Soldaten, wie Maryna, die Entscheidung Selenskyjs als eine krass beleidigende Handlung bezeichnen, deutet die Kluft zwischen den progressiven Technologien, die Fedorov eingeführt hat — insbesondere im Rahmen des Programms \"Armee der Drohnen: Bonus\" — und den veralteten Strategien, die von Generälen wie Oleksandr Syrskyi vertreten werden, auf strukturelle Herausforderungen im Kampf gegen die russische Aggression hin. Der verletzte Soldat, der anonym bleibt, äußerte in einem eindringlichen Telegramm, dass der Wegfall Fedorovs die Hoffnungen auf einen effektiveren Kriegseinsatz zunichte machen würde. Diese interne Spannung, die seit geraumer Zeit brodelt, kulminierte in einem Konflikt, dessen Wurzeln in den klassischen Konflikten zwischen alter und neuer Militärkultur liegen. Selenskyj selbst merkte an, dass die beiden Männer nicht einmal in einem Raum sein konnten, was die Unvereinbarkeit ihrer Visionen verdeutlicht. Das Fehlen eines konsistenten Führungsstils in dieser entscheidenden Phase könnte sich fatal auf die militärische Strategie der Ukraine auswirken, während der Krieg weiter tobt und die Existenz des Landes auf dem Spiel steht. Es bleibt abzuwarten, wie dieser Umbruch die strategischen Überlegungen der ukrainischen Streitkräfte beeinflussen wird.",
+        "vocabulary": [
+          {
+            "word": "Entrüstung",
+            "definition": "starke Empörung"
+          },
+          {
+            "word": "Risse",
+            "definition": "Spalten oder Brüche in einer Struktur"
+          },
+          {
+            "word": "Aggression",
+            "definition": "angreifende Handlung"
+          },
+          {
+            "word": "kulminieren",
+            "definition": "einen Höhepunkt erreichen"
+          },
+          {
+            "word": "fatal",
+            "definition": "tödlich oder sehr schwerwiegend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was wird durch die Absetzung Fedorovs offenbart?",
+            "options": [
+              "Die Entfaltung von alten und neuen Denkweisen",
+              "Eine neue Strategie",
+              "Vollständige Einigkeit"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was charakterisiert die Spannungen innerhalb des Militärs?",
+            "options": [
+              "Ein Fehlen von Fortschritt",
+              "Vereinigung der Streitkräfte",
+              "Keine Konflikte mehr"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was sagte Selenskyj über Fedorov und Syrskyi?",
+            "options": [
+              "Sie konnten nicht in einem Raum sein",
+              "Sie mochten sich sehr",
+              "Sie haben zusammengearbeitet"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les soldats ukrainiens en colère",
+        "text": "Beaucoup de soldats ukrainiens sont en colère. Le ministre de la Défense, Mykhailo Fedorov, n'est plus ministre. Les soldats protestent dans les rues. Ils veulent que Fedorov retourne au gouvernement. Un soldat dit : \"Fedorov doit revenir.\" Les soldats se battent pour leur pays. Ils veulent un bon responsable. Ils ne sont pas contents de la décision du président Zelensky. Les soldats veulent des changements. Ils espèrent un avenir meilleur. Beaucoup de gens soutiennent Fedorov et ses idées.",
+        "vocabulary": [
+          {
+            "word": "soldats",
+            "definition": "Personnes qui se battent dans une armée."
+          },
+          {
+            "word": "ministre",
+            "definition": "Personne qui dirige un service du gouvernement."
+          },
+          {
+            "word": "gouvernement",
+            "definition": "Groupe qui gouverne un pays."
+          },
+          {
+            "word": "protestent",
+            "definition": "Disent qu'ils ne sont pas contents."
+          },
+          {
+            "word": "changement",
+            "definition": "Nouvelle situation ou amélioration."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est en colère ?",
+            "options": [
+              "Les soldats ukrainiens",
+              "Les ministres",
+              "Les professeurs"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui n'est plus ministre ?",
+            "options": [
+              "Mykhailo Fedorov",
+              "Vladimir Zelensky",
+              "Andriy Syrskyi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Les soldats veulent un bon... ?",
+            "options": [
+              "responsable",
+              "capitaine",
+              "écrivain"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "La colère des soldats ukrainiens",
+        "text": "Beaucoup de soldats ukrainiens sont en colère à cause du ministre de la Défense. Mykhailo Fedorov n'est plus ministre. Le président Zelensky a décidé de ne pas le garder. Les soldats protestent dans les rues de Kyiv. Ils espèrent que Fedorov va revenir. Un soldat blessé se demande pourquoi cette décision. Il dit que tout peut être vain sans Fedorov. Les soldats croient en lui et ses idées. Ils ne veulent pas des anciennes méthodes de combat. Ils veulent un avenir prometteur pour l'Ukraine. Les jeunes soldats ont des attentes différentes de leurs anciens commandants. Il y a une tension dans l'armée, mais les soldats montrent leur soutien pour Fedorov.",
+        "vocabulary": [
+          {
+            "word": "blessé",
+            "definition": "Une personne qui a une blessure."
+          },
+          {
+            "word": "protestent",
+            "definition": "Ils montrent leur mécontentement."
+          },
+          {
+            "word": "méthodes",
+            "definition": "Façons de faire quelque chose."
+          },
+          {
+            "word": "tension",
+            "definition": "Stress ou conflit entre des personnes."
+          },
+          {
+            "word": "soutien",
+            "definition": "Aide ou appui à quelqu'un."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le ministre de la Défense ?",
+            "options": [
+              "Mykhailo Fedorov",
+              "Vladimir Poutine",
+              "Boris Johnson"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi les soldats sont-ils en colère ?",
+            "options": [
+              "Le ministre n'est plus là",
+              "Les soldats sont fatigués",
+              "Il pleut beaucoup"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qu'est-ce que les soldats espèrent ?",
+            "options": [
+              "Le retour de Fedorov",
+              "Un nouveau président",
+              "Une meilleure nourriture"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les soldats ukrainiens expriment leur colère",
+        "text": "De nombreux soldats ukrainiens expriment leur frustration après le retrait de Mykhailo Fedorov comme ministre de la Défense. Le président Zelensky a choisi de ne pas le réinstaurer, ce qui provoque de vives réactions parmi les troupes. Des soldats se rassemblent dans les rues de Kyiv pour protester. Un soldat blessé a déclaré qu'il espère que Fedorov reviendra bientôt. Beaucoup de soldats, qui considèrent Fedorov comme un homme de progrès, estiment que la décision est injuste et peut avoir des conséquences graves pour l'Ukraine. Fedorov a aidé à introduire des nouvelles technologies dans l'armée lui permettant de moderniser les forces ukrainiennes. Si les soldats pensent que les anciens officiers, issus du système soviétique, n'encouragent pas le changement, certains craignent également le manque de soutien sur le terrain. Nombreux sont ceux qui croient que le changement est nécessaire pour l'avenir du pays et que cette lutte doit continuer. Plusieurs soldats ont exprimé leur désir d'une nouvelle direction et d'un soutien accru pour leurs efforts en première ligne. Ils se battent non seulement pour leur pays, mais aussi pour un avenir qui valorise l'innovation et la modernité. Cependant, la tension entre les anciens généraux et les jeunes officiers comme Fedorov reste palpable, et cela pourrait compliquer l'unité nécessaire dans cette période de conflit. Les soldats, confrontés à des décisions politiques difficiles, souhaitent que leurs voix soient entendues et que leurs efforts quotidiens soient reconnus et soutenus. Une véritable réforme pourrait améliorer leur moral et leur efficacité sur le terrain. Dans ce contexte, ils espèrent que des changements arriveront rapidement, sinon leur combat mettra leur avenir en péril.",
+        "vocabulary": [
+          {
+            "word": "réinstaurer",
+            "definition": "ramener à une position antérieure, restaurer."
+          },
+          {
+            "word": "consequences",
+            "definition": "effets qui résultent d'une action ou d'une décision."
+          },
+          {
+            "word": "moderniser",
+            "definition": "rendre quelque chose plus moderne ou à jour."
+          },
+          {
+            "word": "soutien",
+            "definition": "aide ou assistance."
+          },
+          {
+            "word": "traditionnel",
+            "definition": "qui respecte ou suit les coutumes et habitudes d'un groupe."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est Mykhailo Fedorov ?",
+            "options": [
+              "Le président de l'Ukraine",
+              "Le ministre de la Défense récemment retiré",
+              "Un général soviétique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les soldats protestent-ils ?",
+            "options": [
+              "Pour demander un nouveau ministre défensif",
+              "Pour exprimer leur colère après la décision de Zelensky",
+              "Pour soutenir l'ancienne direction"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce qui empêche les soldats de s'exprimer librement ?",
+            "options": [
+              "La peur des représailles",
+              "Le soutien de la population",
+              "L'absence de communication"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Des soldats ukrainiens outrés par le renvoi du ministre de la Défense",
+        "text": "De nombreux soldats ukrainiens ont exprimé leur colère suite au renvoi de Mykhailo Fedorov, ministre de la Défense, par le président Zelensky. Ce bouleversement à Kyiv a provoqué un sentiment de confusion et d'indignation parmi les troupes confrontées à l'acharnement des combats. En effet, de nombreux soldats, y compris ceux blessés, craignent que ce changement n'affecte leur moral. \"Je pense que tout ce pour quoi je me bats pourrait être vain,\" a déclaré un soldat anonyme dans une vidéo. Les manifestations se sont intensifiées, tandis que certains soldats, comme Maryna, décrivent la situation comme une gifle pour tous les membres des forces armées. D'après des sources, des chefs militaires ont conseillé aux soldats d'éviter les débats politiques. Pourtant, les soldats expriment leur admiration pour les innovations que Fedorov a introduites, notamment l'utilisation efficace des drones. Bien que certains estiment que le général Syrskyi, commandant des forces armées, ait réussi des opérations, d'autres lui reprochent son approche dépassée de la guerre. La tension entre Fedorov et Syrskyi aurait été palpable, posant des questions sur l'avenir du commandement militaire en Ukraine. Finalement, la décision de Zelensky, dictée par des divergences irréconciliables entre les deux hommes, témoigne des défis politiques auxquels fait face le pays en guerre.",
+        "vocabulary": [
+          {
+            "word": "indignation",
+            "definition": "sentiment de colère envers une injustice"
+          },
+          {
+            "word": "moral",
+            "definition": "état d'esprit d'une personne, surtout en période de conflit"
+          },
+          {
+            "word": "gifle",
+            "definition": "coup donné avec la main, ici un acte humiliant"
+          },
+          {
+            "word": "confrontation",
+            "definition": "affrontement entre deux parties"
+          },
+          {
+            "word": "innover",
+            "definition": "introduire quelque chose de nouveau"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi les soldats sont-ils en colère?",
+            "options": [
+              "À cause de la guerre",
+              "À cause du renvoi de Fedorov",
+              "À cause des sanctions"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel ministre a été renvoyé?",
+            "options": [
+              "Zelensky",
+              "Fedorov",
+              "Syrskyi"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que Maryna a dit sur l'impact du renvoi?",
+            "options": [
+              "C'est positif",
+              "C'est une gifle",
+              "C'est sans importance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Le mécontentement des soldats ukrainiens face à la révocation du ministre de la Défense",
+        "text": "Suite au renvoi inattendu de Mykhailo Fedorov, ministre de la Défense, par le président Zelensky, une vague de mécontentement s'est propagée parmi les soldats ukrainiens. Nombre d'entre eux, que ce soit ceux qui sont au front ou des vétérans blessés, ont fait état d'une indignation croissante sur les réseaux sociaux, en déclarant que cette décision ne fera qu'ajouter à leurs défis déjà colossaux sur le champ de bataille. Un soldat, tout en évoquant ses blessures récentes, a expliqué dans une vidéo que le retour de Fedorov était crucial pour préserver tout espoir. En dépit des manifestations dans le pays, des soldats, comme Maryna, ont exprimé leur scepticisme quant à l’efficacité de ces mouvements populaires. Les recommandations des chefs militaires d'éviter tout débat politique montrent l'atmosphère tendue au sein de l'armée. Fedorov, reconnu pour ses innovations technologiques, a contribué à moderniser l'effort de guerre ukrainien. Cependant, la coalition au sein du ministère de la Défense était compromise par des tensions croissantes entre lui et le général Syrskyi, qui a vu son autorité contestée. Le président Zelensky a lâché que leur incapacité à coexister était à l'origine de sa décision. Cela illustre les luttes de pouvoir qui existent dans un contexte de guerre.",
+        "vocabulary": [
+          {
+            "word": "révocation",
+            "definition": "action d'être démis d'une fonction"
+          },
+          {
+            "word": "colossal",
+            "definition": "énorme, immense, très grand"
+          },
+          {
+            "word": "scepticisme",
+            "definition": "doute concernant quelque chose"
+          },
+          {
+            "word": "contester",
+            "definition": "mettre en doute ou remettre en question"
+          },
+          {
+            "word": "moderniser",
+            "definition": "rendre quelque chose plus moderne par des innovations"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a été renvoyé par le président Zelensky?",
+            "options": [
+              "Maryna",
+              "Fedorov",
+              "Syrskyi"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'a dit un soldat sur le retour de Fedorov?",
+            "options": [
+              "C'est inutile",
+              "C'est crucial",
+              "C'est dangereux"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les soldats sont-ils sceptiques quant aux manifestations?",
+            "options": [
+              "Ils pensent que ça n'aura pas d'effet",
+              "Ils aiment la décision",
+              "Ils ne savent pas ce qu'ils veulent"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "L'indignation persistante des soldats ukrainiens face au renvoi du ministre de la Défense",
+        "text": "La révocation soudaine de Mykhailo Fedorov, ministre de la Défense, par le président ukrainien Volodymyr Zelensky, a engendré une onde de choc parmi les militaires, déjà assommés par les rigueurs de la guerre. De nombreux soldats, pris par des émotions contradictoires, se sont exprimés anonymement sur les réseaux sociaux, dénonçant un acte perçu comme une trahison manifeste. Un soldat, au milieu de sa convalescence, a partagé une vidéo où il se questionne sur l'avenir, espérant que le ministre revienne pour redynamiser une armée démoralisée par des pertes continuelles. La généralisation de l'indignation est symbolisée par des manifestations qui, bien que bruyantes, semblent inefficaces face à une hiérarchie militaire souvent réfractaire au changement, illustrée par l'intransigeance du général depuis longtemps établi, Oleksandr Syrskyi. Fedorov, tout en jouissant d'une certaine admiration pour son approche novatrice, a eu la malchance de se heurter à des traditions institutionnelles profondément ancrées, lesquelles génèrent un décalage entre la stratégie actuelle et les attentes des soldats en première ligne. Comme l'a exprimé un ancien combattant, le fossé entre les aspirations nouvelles et les méthodes d'un autre temps est source de frustration, suscitant ainsi une crise de confiance palpable. Finalement, cette affaire ne fait qu'exacerber la lutte de pouvoir au sein d'une Ukraine déjà fragilisée par les tumultes de la guerre.",
+        "vocabulary": [
+          {
+            "word": "révocation",
+            "definition": "action de renvoyer quelqu'un de son poste"
+          },
+          {
+            "word": "onde de choc",
+            "definition": "réaction massive causée par un événement"
+          },
+          {
+            "word": "trahison",
+            "definition": "action de tromper ou d'abandonner quelqu'un"
+          },
+          {
+            "word": "démoraliser",
+            "definition": "perdre confiance et courage"
+          },
+          {
+            "word": "intransigeance",
+            "definition": "absence de compromis, rigidité face aux changements"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Comment les soldats perçoivent-ils la révocation de Fedorov?",
+            "options": [
+              "Comme une trahison",
+              "Comme une victoire",
+              "Comme une bénédiction"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelles émotions ressentent les soldats face à la guerre?",
+            "options": [
+              "Frustration et colère",
+              "Joie et paix",
+              "Indifférence et apathie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le point de vue sur le général Syrskyi?",
+            "options": [
+              "Il est très admiré",
+              "Il est critiqué pour son approche",
+              "Il a démissionné récemment"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Soldados enojados en Ucrania",
+        "text": "Muchos soldados ucranianos están enojados. El ministro de Defensa se va. Su nombre es Mykhailo Fedorov. Los soldados no entienden por qué. Un soldado dice que es difícil. Otros soldados protestan en las calles. Ellos quieren que Fedorov vuelva. Los soldados luchan todos los días. La situación es muy dura. La guerra contra Rusia sigue. Los soldados quieren más apoyo. Fedorov ayuda a los soldados con tecnología. Ellos usan drones. Los soldados dicen que Fedorov es bueno. Ellos quieren que él regrese al ministerio.",
+        "vocabulary": [
+          {
+            "word": "soldados",
+            "definition": "Personas que luchan en una guerra."
+          },
+          {
+            "word": "enojados",
+            "definition": "Estar muy molesto."
+          },
+          {
+            "word": "ministro",
+            "definition": "Persona que trabaja en el gobierno."
+          },
+          {
+            "word": "defensa",
+            "definition": "Protección de un país."
+          },
+          {
+            "word": "tecnología",
+            "definition": "Uso de herramientas y máquinas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién se va del ministerio?",
+            "options": [
+              "Mykhailo Fedorov",
+              "Zelensky",
+              "Natasha"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Los soldados están contentos?",
+            "options": [
+              "Sí",
+              "No",
+              "No lo sé"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué usan los soldados en la guerra?",
+            "options": [
+              "Perros",
+              "Drones",
+              "Coches"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Protestas en Ucrania por el ministro de Defensa",
+        "text": "En Ucrania, muchos soldados están muy enojados. El presidente Zelensky quita a Mykhailo Fedorov como ministro de Defensa. Esta decisión no agrada a los soldados. Ellos dicen que Fedorov ayuda a ganar la guerra con nuevas ideas. Un soldado dice que es muy importante volver a tenerlo. Los soldados protestan en las calles de Kyiv porque quieren ser escuchados. Ellos creen que la situación es injusta y muy difícil. En el frente de guerra, los soldados luchan cada día. Ayer, hubo ataques con misiles y bombas. Fedorov ayudó a usar tecnología moderna, como drones. Esto hizo que el ejército fuera más fuerte. Los soldados quieren que el presidente escuche su opinión. Ellos sienten que Fedorov es un buen líder. La protesta con pancartas muestra su deseo de cambio. Ellos no pueden dejar de pensar en el futuro y cómo las decisiones pueden afectar la guerra. Muchos están preocupados por la valentía y el sacrificio que hacen cada día.",
+        "vocabulary": [
+          {
+            "word": "protestas",
+            "definition": "manifestaciones o acciones de personas que expresan su desacuerdo con una situación."
+          },
+          {
+            "word": "pancartas",
+            "definition": "carteles que se usan en protestas para expresar un mensaje."
+          },
+          {
+            "word": "tecnología",
+            "definition": "conjunto de conocimientos y técnicas para crear productos o servicios."
+          },
+          {
+            "word": "drones",
+            "definition": "aparatos voladores no tripulados utilizados, en este caso, para la guerra."
+          },
+          {
+            "word": "sacrificio",
+            "definition": "acto de renunciar a algo importante, a menudo por una causa mayor."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Por qué están enojados los soldados?",
+            "options": [
+              "Porque Fedorov fue despedido",
+              "Porque les gusta el presidente",
+              "Porque no tienen comida"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué reclamaban los soldados en las calles?",
+            "options": [
+              "Cambio de ministro",
+              "Más armas",
+              "Menos ataques"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué pensaban del trabajo de Fedorov?",
+            "options": [
+              "Era malo",
+              "Era bueno",
+              "No importaba"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "El descontento de los soldados ucranianos",
+        "text": "Recientemente, muchos soldados ucranianos se han expresado en contra de la decisión del presidente Zelensky, quien ha destituido a Mykhailo Fedorov como ministro de Defensa. Esta medida ha provocado mucha ira entre los soldados, quienes consideraban a Fedorov un líder efectivo. Durante su gestión, Fedorov ha implementado tecnologías modernas como drones que han sido cruciales en la guerra contra Rusia. Los soldados están preocupados y sienten que su sacrificio es en vano si Fedorov no vuelve al ministerio. Un soldado anónimo, que todavía se recupera de heridas graves, ha compartido su deseo de que Fedorov sea restituido. La situación en el frente es complicada y peligrosa. Ayer, algunas posiciones fueron atacadas, lo que aumentó la frustración. Aunque los soldados han salido a las calles de Kyiv para protestar, algunos consideran que esto no cambiará nada. Maryna, una soldado, expresa que la falta de respeto hacia los militares es evidente. Ella señala que este incidente se siente como una traición. La moraleja es clara: si la estrategia militar no mejora, el futuro de Ucrania será incierto, y la valentía de los soldados podría verse comprometida.",
+        "vocabulary": [
+          {
+            "word": "descontento",
+            "definition": "situación en la que alguien no está satisfecho o feliz con algo."
+          },
+          {
+            "word": "destituir",
+            "definition": "remover a alguien de su puesto o cargo."
+          },
+          {
+            "word": "manifestantes",
+            "definition": "personas que participan en una manifestación o protesta."
+          },
+          {
+            "word": "estrategia",
+            "definition": "plan o enfoque para lograr un objetivo."
+          },
+          {
+            "word": "frustración",
+            "definition": "sentimiento de decepción por no haber logrado lo que deseaba."
+          },
+          {
+            "word": "sacrificio",
+            "definition": "acción de dar algo de gran valor para lograr un bien mayor."
+          },
+          {
+            "word": "moraleja",
+            "definition": "lección o enseñanza que se puede aprender de una situación."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién fue destituido como ministro de Defensa?",
+            "options": [
+              "Mykhailo Fedorov",
+              "Volodymyr Zelensky",
+              "Oleksandr Syrskyi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tecnología moderna ha implementado Fedorov en el ejército?",
+            "options": [
+              "Aviones de combate",
+              "Drones",
+              "Tanques"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se siente la mayoría de los soldados tras la decisión de Zelensky?",
+            "options": [
+              "Optimistas",
+              "Descontentos",
+              "Indiferentes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Soldados ucranianos se indignan por la destitución del ministro de Defensa",
+        "text": "La reciente destitución de Mykhailo Fedorov, ministro de Defensa de Ucrania, ha suscitado una gran indignación entre los soldados del país, quienes consideran que esta decisión del presidente Zelensky ha sido injusta y desconcertante. En un video compartido en Telegram, un soldado, cuyo rostro está desfigurado debido a heridas de combate, expresó su deseo de que Fedorov sea reinstalado en su cargo, ya que consideraba que su lucha podría haber sido en vano. La frustración entre los efectivos es palpable, con un soldado, conocida como Maryna, describiendo la situación como un duro golpe para todos los militares. Aunque se han llevado a cabo protestas en varias ciudades de Ucrania, ella teme que la ira popular no logre efectivamente cambiar la situación actual, que ella percibe como una creciente dictadura, con líderes que no toleran la discrepancia. Otro soldado, Natasha, mostró una perspectiva igualmente crítica, señalando que los manifestantes no están en contacto directo con la brutalidad del frente. No obstante, muchos soldados admiran los logros de Fedorov en su papel anterior de Ministro de Transformación Digital. El presidente Zelensky justificó su decisión, alegando que Fedorov y el comandante en jefe, Gen. Oleksandr Syrskyi, tenían una relación deteriorada.",
+        "vocabulary": [
+          {
+            "word": "destitución",
+            "definition": "cuando alguien pierde su puesto o cargo"
+          },
+          {
+            "word": "indignación",
+            "definition": "sentimiento de enfado o desagrado"
+          },
+          {
+            "word": "desconcertante",
+            "definition": "que causa confusión o desconcierto"
+          },
+          {
+            "word": "protestas",
+            "definition": "actos para expresar descontento"
+          },
+          {
+            "word": "frustración",
+            "definition": "sentimiento de decepción"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién fue destituido como ministro de Defensa?",
+            "options": [
+              "Oleksandr Syrskyi",
+              "Mykhailo Fedorov",
+              "Maryna"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué piensa Maryna sobre la situación política actual?",
+            "options": [
+              "Es positiva.",
+              "Es crítica.",
+              "Es indiferente."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde se expresaron las protestas?",
+            "options": [
+              "En varios países.",
+              "En varias ciudades de Ucrania.",
+              "En ninguna parte."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La controversia en torno a la destitución del ministro de Defensa ucraniano",
+        "text": "La reciente destitución de Mykhailo Fedorov como ministro de Defensa ha suscitado una oleada de indignación entre los soldados ucranianos, quienes consideran que esta decisión del presidente Zelensky no solo es desconcertante, sino que también representa un cambio alarmante en la política militar del país. Un soldado desenmascarado en un video publicado en Telegram expresó su deseo de que, al despertarse tras su operación, Fedorov esté de vuelta en su puesto, insistiendo en que cada sacrificio hecho podría haber sido en vano sin la adecuada dirección. Maryna, una soldada que desea proteger su identidad, comentó que la decisión es un golpe directo a la moral de todas las fuerzas. Aunque han emergido protestas en varias ciudades, la perspectiva de Maryna es sombría, pues considera que la creciente dictadura en el país infringe los derechos de los militares y que la falta de un diálogo abierto limita cualquier cambio significativo. A su vez, Natasha observó que las experiencias del frente contrastan con las vivencias de los manifestantes, quienes, desde la seguridad de la distancia, no comprenden la realidad desgarradora del conflicto. Sin embargo, muchos soldados sienten admiración por Fedorov, dado su papel en la transformación tecnológica del ejército ucraniano, que ha facilitado el uso innovador de drones en combate. Zelensky justificó su decisión, alegando la incapacidad de ambos hombres de coexistir en la misma habitación, lo que exacerba las tensiones existentes en el ámbito militar.",
+        "vocabulary": [
+          {
+            "word": "oleada",
+            "definition": "una gran cantidad que llega de repente"
+          },
+          {
+            "word": "desenmascarado",
+            "definition": "revelar la verdadera identidad"
+          },
+          {
+            "word": "moral",
+            "definition": "sentido del deber o la confianza"
+          },
+          {
+            "word": "sacrificio",
+            "definition": "dar algo valioso por una causa"
+          },
+          {
+            "word": "tensión",
+            "definition": "estrés o conflicto"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué esperaba el soldado que compartió un video?",
+            "options": [
+              "Que Fedorov regrese.",
+              "Que la guerra termine.",
+              "Que no hubieran protestas."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo ve Maryna la situación política actual?",
+            "options": [
+              "Optimista.",
+              "Sombría.",
+              "Neutral."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de tecnología se incrementó bajo Fedorov?",
+            "options": [
+              "Las armas de fuego.",
+              "Los drones.",
+              "Los vehículos terrestres."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La destitución del ministro de Defensa: un cambio de paradigma en la política militar ucraniana",
+        "text": "La remoción del ministro de Defensa, Mykhailo Fedorov, por parte del presidente Zelensky ha desencadenado una profunda ola de indignación en las filas del ejército ucraniano. En un contexto marcado por la guerra, un soldado desfigurado, cuyo rostro lleva las cicatrices del sacrificio, declaró en un video que su esperanza, al despertar de la anestesia, es ver a Fedorov de vuelta en su ministerio, pues considera que su entrega y lucha se han visto amenazadas por una decisión que, a simple vista, parece arbitraria. Maryna, otra voz anónima en este mar de frustración, describió la situación como un agravio abierto a los valores de los soldados, añadiendo que el clima de censura político-militar que se cierne sobre Ucrania es síntoma de una dictadura en ascenso, con líderes que se comportan como pequeños tiranos. La indiferencia de los líderes ante las protestas, lejos de ser un mero acto de desdén, revela una severa falta de comunicación y comprensión entre el frente de batalla y los mandos superiores. Natasha, quien también compartió sus inquietudes, enfatizó que quienes se manifiestan no comprenden la brutalidad cotidiana que viven los soldados en el terreno. No obstante, la admiración por Fedorov persiste, especialmente dada su capacidad para inyectar innovación a la política militar, como refleja su iniciativa en el uso de drones. Zelensky, justificando su decisión, subrayó la incapacidad de los dos hombres para coexistir, transformando así no solo las dinámicas ministeriales, sino el mismo tejido de su visión de una Ucrania unida en la confrontación del adversario.",
+        "vocabulary": [
+          {
+            "word": "remoción",
+            "definition": "el acto de quitar a alguien de su puesto"
+          },
+          {
+            "word": "censura",
+            "definition": "control sobre lo que se puede decir o mostrar"
+          },
+          {
+            "word": "indolente",
+            "definition": "que no muestra interés o esfuerzo"
+          },
+          {
+            "word": "tiranos",
+            "definition": "líderes que ejercen el poder de manera cruel"
+          },
+          {
+            "word": "inquietudes",
+            "definition": "preocupaciones o temas de preocupación"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es el sentimiento predominante entre los soldados tras la destitución de Fedorov?",
+            "options": [
+              "Indiferencia.",
+              "Indignación.",
+              "Alegría."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué revela la actitud de los líderes hacia las protestas, según el texto?",
+            "options": [
+              "Desdén y desconexión.",
+              "Apoyo absoluto.",
+              "Interés en las demandas."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál fue una de las contribuciones innovación de Fedorov?",
+            "options": [
+              "Uso de la caballería.",
+              "Empleo de drones.",
+              "Fortalecimiento de la infantería."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}
