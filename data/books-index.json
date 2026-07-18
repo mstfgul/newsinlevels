@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-18-invisible-man-ralph-ellison",
+    "date": "2026-07-18",
+    "author": "Ralph Ellison",
+    "image": "https://covers.openlibrary.org/b/id/998256-L.jpg",
+    "titles": {
+      "en": "Invisible Man",
+      "de": "Unsichtbarer Mann",
+      "fr": "Invisible Man",
+      "es": "Hombre Invisible"
+    }
+  },
+  {
     "id": "2026-07-17-the-invention-of-morel-adolfo-bioy-casares",
     "date": "2026-07-17",
     "author": "Adolfo Bioy Casares",
