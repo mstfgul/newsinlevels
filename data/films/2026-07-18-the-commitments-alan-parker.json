@@ -1,0 +1,1387 @@
+{
+  "id": "2026-07-18-the-commitments-alan-parker",
+  "date": "2026-07-18",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/11663"
+  },
+  "originalTitle": "The Commitments (1991) — Alan Parker",
+  "image": "https://image.tmdb.org/t/p/w780/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg",
+  "category": "film",
+  "film": {
+    "director": "Alan Parker",
+    "title": "The Commitments",
+    "year": "1991",
+    "genres": "Comedy, Drama, Music"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Commitments",
+        "text": "The Commitments is a film. It is about music and friendship. Jimmy Rabbitte has a great idea. He wants to create a soul band. This band will play in Dublin. Jimmy looks for young singers and musicians. They all want to play music and perform together. The band is fun and exciting. They practice hard and enjoy learning. The film has many good songs. It shows friendship, dreams, and love for music. The story is happy and funny. People laugh and smile. The film is famous and loved by many. It is a classic story about chasing dreams.",
+        "vocabulary": [
+          {
+            "word": "soul",
+            "definition": "a type of music"
+          },
+          {
+            "word": "practice",
+            "definition": "to work on skills"
+          },
+          {
+            "word": "perform",
+            "definition": "to play music in front of people"
+          },
+          {
+            "word": "laugh",
+            "definition": "to make sounds of joy"
+          },
+          {
+            "word": "dreams",
+            "definition": "goals or wishes"
+          },
+          {
+            "word": "famous",
+            "definition": "known by many people"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Jimmy want to create?",
+            "options": [
+              "A rock band",
+              "A soul band",
+              "A jazz band"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where does the band play?",
+            "options": [
+              "In London",
+              "In Dublin",
+              "In Barrytown"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What type of story is The Commitments?",
+            "options": [
+              "A sad story",
+              "A funny story",
+              "A scary story"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Commitments",
+        "text": "The Commitments is a musical film from 1991. It is about a young man named Jimmy Rabbitte. He loves music and wants to start a soul band. He lives in Dublin, a city in Ireland. Jimmy finds good singers and talented musicians to join him. They want to make people happy with their music. The film has many funny moments, and it shows the lives of working-class people. The characters have dreams and hope for a better future. The band faces many challenges as they try to succeed, such as money problems and personal conflicts. The music in the film is very popular, featuring many famous soul songs. Many people enjoy the songs and scenes. The film explores friendship and passion for music. It also highlights the power of dreams. This film is special and was made with a lot of passion. It became a classic and inspired many musicians.",
+        "vocabulary": [
+          {
+            "word": "soul",
+            "definition": "A type of music that is emotional and rhythmic."
+          },
+          {
+            "word": "band",
+            "definition": "A group of musicians who play together."
+          },
+          {
+            "word": "challenges",
+            "definition": "Difficult tasks or problems that need solutions."
+          },
+          {
+            "word": "conflicts",
+            "definition": "Disagreements between people that create tension."
+          },
+          {
+            "word": "classic",
+            "definition": "Something that is famous and respected for a long time."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Jimmy Rabbitte want to start?",
+            "options": [
+              "A film festival",
+              "A soul band",
+              "A sports team"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What type of problems does the band face?",
+            "options": [
+              "Money problems and personal conflicts",
+              "Clothing issues and weather",
+              "Transportation problems"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the film explore besides music?",
+            "options": [
+              "Cooking and gardening",
+              "Friendship and passion",
+              "Travel and adventure"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Commitments",
+        "text": "The Commitments is a 1991 film directed by Alan Parker, known for its blend of comedy, drama, and music. It tells the story of Jimmy Rabbitte, a young man who dreams of starting a soul band in his working-class neighborhood of Barrytown, Dublin. The film explores important themes such as friendship and the role of music in people's lives. Jimmy, who has always been passionate about music, finds talented singers and musicians among his friends. They all share a common love for the rhythm and soul of the music, which brings them together. As they form this band, they hope to find success and create something meaningful.\n\nThe film is rich with humor and touching moments that highlight not only the characters’ dreams but also their struggles. For example, as they practice and perform, they face various obstacles. However, the commitment of each band member keeps them motivated. Viewers appreciate The Commitments for its energetic rhythm and lively soundtrack, which captivates audiences across different generations. Notably, the film shines a light on working-class life and the sense of community that music can bring. Since its release, it has gained cult status and remains a memorable piece of cinema, reflecting the passion and dreams of youth in a small community.",
+        "vocabulary": [
+          {
+            "word": "soul",
+            "definition": "A genre of music that combines elements of rhythm and blues, gospel, and jazz."
+          },
+          {
+            "word": "obstacles",
+            "definition": "Challenges or difficulties that prevent someone from achieving something."
+          },
+          {
+            "word": "community",
+            "definition": "A group of people living in the same area or sharing similar interests."
+          },
+          {
+            "word": "cult status",
+            "definition": "A film or work that has a dedicated and passionate fan following."
+          },
+          {
+            "word": "humor",
+            "definition": "The quality of being amusing or entertaining."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who directed The Commitments?",
+            "options": [
+              "Alan Parker",
+              "Roddy Doyle",
+              "Robert Arkins"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What are some themes explored in the film?",
+            "options": [
+              "Technology and science",
+              "Friendship and music",
+              "Politics and history"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where is the film set?",
+            "options": [
+              "Barrytown, Dublin",
+              "London",
+              "New York"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Commitments: A Soulful Journey",
+        "text": "The Commitments, directed by Alan Parker in 1991, is a vibrant musical comedy-drama that explores the power of music to unite a diverse group of individuals. Set in North Dublin, the film follows Jimmy Rabbitte, a young music enthusiast, who has a dream to form a soul band. The story begins with Jimmy looking for musicians to create something special. The film dives into themes of ambition, identity, and the struggles of working-class life, reflecting the socio-economic realities of its setting. Through its energetic performances, the film showcases the style and spirit of soul music. Although it faced challenges at the North American box office, it received acclaim for its authentic characters and humorous moments. The music acts as a character in its own right, linking the various narratives and providing emotional depth. Notably, The Commitments has achieved a cult following, highlighting its enduring impact. The uplifting soundtracks and dynamic visuals make this film a must-watch for anyone who loves music and stories of dreams come alive.",
+        "vocabulary": [
+          {
+            "word": "vibrant",
+            "definition": "full of energy and life"
+          },
+          {
+            "word": "enthusiast",
+            "definition": "someone who is very interested in something"
+          },
+          {
+            "word": "socio-economic",
+            "definition": "related to both social and economic factors"
+          },
+          {
+            "word": "authentic",
+            "definition": "real and true, not false"
+          },
+          {
+            "word": "cult following",
+            "definition": "a group of fans that support something strongly"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What type of band does Jimmy want to form?",
+            "options": [
+              "A rock band",
+              "A soul band",
+              "A jazz band"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where is the story set?",
+            "options": [
+              "North Dublin",
+              "South Dublin",
+              "West Dublin"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did The Commitments achieve despite challenges at the box office?",
+            "options": [
+              "Gained a cult following",
+              "Won no awards",
+              "Lost its popularity"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Commitments: A Musical Tapestry of Dreams",
+        "text": "Alan Parker's 1991 film, The Commitments, encapsulates the essence of youthful ambition through the lens of a vibrant soul band in North Dublin. At its core, the narrative revolves around Jimmy Rabbitte, an ardent music enthusiast who embarks on a quest to assemble a diverse group of aspiring musicians. Although the road to success is fraught with challenges, the film deftly examines themes of identity, community, and artistic expression against a backdrop of socio-economic struggle. The cinematography cleverly captures the pulsating energy of Dublin's streets, while the soundtrack serves not only as a character but as a catalyst for emotional connection among the characters. Critics have praised the film for its engaging performances, sharp humor, and the authenticity it brings to the struggles of working-class life. Despite a lukewarm reception in North America, The Commitments has ascended to cult status, resonating with audiences worldwide. Its exploration of dreams realized through music remains both poignant and exhilarating, offering a timeless reminder of the power of collective creativity.",
+        "vocabulary": [
+          {
+            "word": "encapsulates",
+            "definition": "captures or expresses something in a short form"
+          },
+          {
+            "word": "ardent",
+            "definition": "very passionate or enthusiastic"
+          },
+          {
+            "word": "fraught",
+            "definition": "filled with problems or difficulties"
+          },
+          {
+            "word": "catalyst",
+            "definition": "something that causes a change or event"
+          },
+          {
+            "word": "poignant",
+            "definition": "deeply affecting one's emotions"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Jimmy Rabbitte want to form?",
+            "options": [
+              "A jazz band",
+              "A rock band",
+              "A soul band"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What setting is the film primarily based in?",
+            "options": [
+              "North Dublin",
+              "West Dublin",
+              "South Dublin"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How has the film been received in later years?",
+            "options": [
+              "Forgotten by audiences",
+              "Gained cult status",
+              "Ignored by critics"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Commitments: A Rich Exploration of Identity and Ambition",
+        "text": "In The Commitments, Alan Parker crafts an intricate tapestry of aspiration and community, set against the gritty backdrop of North Dublin's socio-economic landscape. Released in 1991, the film chronicles the journey of Jimmy Rabbitte, a vibrant music aficionado whose vision is to assemble a soul band from the marginalized voices of his neighborhood. From the outset, Parker's direction immerses the viewer in the pulsating rhythm of a city yearning for self-expression. The narrative artfully juxtaposes humor with the raw realities of working-class life, posing profound questions about ambition, identity, and the societal constructs that shape our dreams. As the band forms and grows, the music becomes a conduit for emotional revelation, illustrating the transformative power of art. Despite initial struggles at the box office, The Commitments ascended to cult status, its legacy cemented by a powerful soundtrack that resonates as a cultural touchstone. It is not only a film about music; it is a poignant exploration of the human spirit's resilience and the unbreakable bonds forged through shared aspirations. In this light, The Commitments stands as a testament to the enduring quest for belonging and self-actualization.",
+        "vocabulary": [
+          {
+            "word": "tapestry",
+            "definition": "a rich depiction of varied elements woven together"
+          },
+          {
+            "word": "aficionado",
+            "definition": "a person who is very knowledgeable and enthusiastic about something"
+          },
+          {
+            "word": "juxtaposes",
+            "definition": "places different things side by side for comparison"
+          },
+          {
+            "word": "conduit",
+            "definition": "a means of transmitting something"
+          },
+          {
+            "word": "testament",
+            "definition": "something that serves as a sign of proof"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the main character in The Commitments?",
+            "options": [
+              "Deco",
+              "Jimmy Rabbitte",
+              "Joey 'The Lips' Fagan"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the band represent for the community?",
+            "options": [
+              "A sign of failure",
+              "A means of self-expression",
+              "A cause of division"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What kind of status did the film achieve later?",
+            "options": [
+              "Cult status",
+              "Complete failure",
+              "Instant success"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Die Commitments",
+        "text": "Jimmy Rabbitte hat eine Idee. Er möchte eine Band gründen. Die Band heißt \"The Commitments\". Sie spielen Soulmusik. Jimmy lebt in Dublin. Er findet Musiker und Sänger. Die Band macht viel Spaß. Die Musik ist wichtig. Freunde und Familie helfen. Die Geschichte ist lustig und traurig. Der Film ist 118 Minuten lang. Er kommt aus Amerika und England. Die Bilder sind schön. Musik macht den Film lebendig. Viele Leute mögen diesen Film.",
+        "vocabulary": [
+          {
+            "word": "Band",
+            "definition": "eine Gruppe von Musikern"
+          },
+          {
+            "word": "Idee",
+            "definition": "ein Gedanke oder Plan"
+          },
+          {
+            "word": "Spaß",
+            "definition": "Freude oder Vergnügen"
+          },
+          {
+            "word": "Musik",
+            "definition": "Töne und Klänge, die man hört"
+          },
+          {
+            "word": "Film",
+            "definition": "eine bewegte Geschichte, die man sieht"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie heißt die Band?",
+            "options": [
+              "Die Sounds",
+              "Die Commitments",
+              "Die Musiker"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo lebt Jimmy?",
+            "options": [
+              "In Dublin",
+              "In Berlin",
+              "In London"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was spielt die Band?",
+            "options": [
+              "Rockmusik",
+              "Klassische Musik",
+              "Soulmusik"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Die Commitments – Eine lustige Geschichte",
+        "text": "Der Film \"The Commitments\" ist von Alan Parker. Er kam 1991 heraus. Die Geschichte spielt in Dublin. Jimmy Rabbitte hat eine geniale Idee. Er möchte eine Soulband gründen. Diese Band heißt ebenfalls \"The Commitments\". Jimmy sucht Musiker und Sänger. Er trifft viele interessante Menschen. Die Musik ist das Herzstück des Films. Sie bringt Freude und Energie. Die Hauptdarsteller sind jung und voller Enthusiasmus. Einige von ihnen haben vorher noch nie in einem Film gespielt, aber sie haben viel Talent. Der Film hat eine besondere Atmosphäre. Die Bilder sind lebendig und die Musik begeistert. Viele Zuschauer finden den Film lustig und emotional. Er spricht von Träumen und dem Wunsch, erfolgreich zu sein. Der Film hat auch Preise gewonnen, zum Beispiel bei den BAFTA Awards.",
+        "vocabulary": [
+          {
+            "word": "Einzelne",
+            "definition": "zwei oder mehr Menschen oder Dinge als Gruppe"
+          },
+          {
+            "word": "Idee",
+            "definition": "Ein Gedanke oder Plan"
+          },
+          {
+            "word": "Musik",
+            "definition": "Töne und Klänge, die man hört"
+          },
+          {
+            "word": "Erfolg",
+            "definition": "wenn etwas gut gelingt"
+          },
+          {
+            "word": "Preise",
+            "definition": "Belohnungen für gute Leistungen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat den Film gemacht?",
+            "options": [
+              "Roddy Doyle",
+              "Alan Parker",
+              "Jimmy Rabbitte"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was für eine Band möchte Jimmy gründen?",
+            "options": [
+              "Eine Rockband",
+              "Eine Soulband",
+              "Eine Popband"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo spielt die Geschichte?",
+            "options": [
+              "In London",
+              "In Dublin",
+              "In New York"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Commitments – Ein Blick auf den Film",
+        "text": "Der Film \"The Commitments\" von Alan Parker kam 1991 in die Kinos und ist eine musikalische Komödie, die viele Zuschauer begeistert hat. Es erzählt die Geschichte von Jimmy Rabbitte, einem jungen Mann aus Dublin, der eine Soulband gründen möchte. Diese Band nennt sich ebenfalls \"The Commitments\". Die Mitglieder der Band sind einfache Arbeiter, die aus dem Arbeitermilieu stammen und zeigen, dass Musik verbinden kann, unabhängig von sozialen Unterschieden. Wenn man die verschiedenen Charaktere betrachtet, erkennt man, dass jeder von ihnen seine eigenen Träume und Herausforderungen hat. Die Bandmitglieder, die alle sehr unterschiedlich sind, haben zusammen gearbeitet, um ihre Leidenschaft zur Musik auszuleben. Trotz ihrer persönlichen Probleme entsteht eine starke Gemeinschaft. Der Film stellt interessante Fragen über Träume, Identität und die Kraft der Musik, die das Leben der Menschen verändern kann. Viele der Schauspieler waren unbekannt und wurden wegen ihrer musikalischen Talente ausgewählt. Die Musik und die lebendigen Szenen machen den Film zu einem besonderen Erlebnis. Alan Parker nutzt nicht nur eine dynamische Kameraarbeit, sondern auch die Klänge der Instrumente, um eine authentische Atmosphäre zu schaffen. Trotz anfänglicher Schwierigkeiten an der Kinokasse erhielt der Film viel Lob und wurde mit mehreren Preisen ausgezeichnet, darunter vier BAFTA Awards. Die Geschichte ist sowohl lustig als auch berührend und zieht das Publikum in das Leben der Charaktere. Es ist interessant zu sehen, wie ein solcher Film auch einen Eindruck auf die britische und irische Kultur hinterlässt. Diese Kultur hat sich im Laufe der Jahre durch verschiedene Musikrichtungen weiterentwickelt, und die Soulmusik, die in dem Film dargestellt wird, ist ein Beispiel dafür.",
+        "vocabulary": [
+          {
+            "word": "Milieu",
+            "definition": "Die soziale oder kulturelle Umgebung eines Menschen."
+          },
+          {
+            "word": "Herausforderungen",
+            "definition": "Schwierige Aufgaben oder Probleme, die gelöst werden müssen."
+          },
+          {
+            "word": "Leidenschaft",
+            "definition": "Ein starkes Gefühl der Begeisterung oder des Interesses für etwas."
+          },
+          {
+            "word": "authentisch",
+            "definition": "Echt oder unverfälscht; so, wie es wirklich ist."
+          },
+          {
+            "word": "Kultur",
+            "definition": "Die Gesamtheit der sozialen Gepflogenheiten, Kunst und Lebensweisen einer Gemeinschaft."
+          },
+          {
+            "word": "Soulmusik",
+            "definition": "Eine Musikrichtung, die Emotionen und die Stimme stark betont."
+          },
+          {
+            "word": "Gemeinschaft",
+            "definition": "Eine Gruppe von Menschen, die miteinander verbunden sind, oft durch ein gemeinsames Interesse."
+          },
+          {
+            "word": "verändern",
+            "definition": "Etwas anders machen oder einen Unterschied bewirken."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films?",
+            "options": [
+              "Die Gründung einer Soulband",
+              "Eine Liebesgeschichte",
+              "Der Alltag in Dublin"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele BAFTA Awards hat der Film gewonnen?",
+            "options": [
+              "Sechs",
+              "Zwei",
+              "Vier"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was zeichnet die Schauspieler in \"The Commitments\" aus?",
+            "options": [
+              "Ihr Bekanntheitsgrad",
+              "Ihre musikalischen Talente",
+              "Ihre schauspielerischen Fähigkeiten"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Die Commitments – Ein musikalisches Abenteuer",
+        "text": "Die Commitments ist ein musikalisches Comedy-Drama von Alan Parker aus dem Jahr 1991. Die Handlung beginnt in Barrytown, einem Stadtteil von Dublin, wo der junge Jimmy Rabbitte beschließt, eine Soulband zu gründen. Er ist von der Musik begeistert und sucht talentierte Musiker und Sänger, um seine Vision zu verwirklichen. Das Hauptthema des Films ist der Aufstieg und die Herausforderungen der Bandmitglieder, die aus der Arbeiterklasse stammen. Der Film zeigt, wie Musik eine Gemeinschaft verbinden kann, obwohl die Charaktere mit persönlichen und sozialen Problemen kämpfen. Parker nutzt eine dynamische Inszenierung, die durch rhythmische Schnitte, lebendige Farben und den Einsatz von Musik untermalt wird. Die Dialoge sind witzig und häufig von Ironie geprägt, was der Geschichte eine tiefere Dimension verleiht. Die Commitments stellt auch die Frage nach Identität und Zugehörigkeit, da die Charaktere ihren Platz in der Welt finden müssen. Der Film war zwar kein großer Erfolg in Nordamerika, erhielt jedoch in Europa große Anerkennung und gewann mehrere BAFTA Awards. Dies macht ihn zu einem wichtigen Teil der irischen Filmgeschichte.",
+        "vocabulary": [
+          {
+            "word": "Soulband",
+            "definition": "Eine Musikgruppe, die Soulmusik spielt."
+          },
+          {
+            "word": "Herausforderung",
+            "definition": "Eine schwierige Aufgabe oder Situation."
+          },
+          {
+            "word": "Gemeinschaft",
+            "definition": "Eine Gruppe von Menschen, die zusammenleben oder etwas gemeinsam haben."
+          },
+          {
+            "word": "Dynamik",
+            "definition": "Die Energie oder Bewegung in einer Situation oder Bewegung."
+          },
+          {
+            "word": "Identität",
+            "definition": "Wer oder was man ist."
+          }
+        ],
+        "questions": [
+          {
+            "question": "In welchem Jahr wurde Die Commitments veröffentlicht?",
+            "options": [
+              "1990",
+              "1991",
+              "1992"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Art von Musik spielt die Band in dem Film?",
+            "options": [
+              "Rockmusik",
+              "Soulmusik",
+              "Popmusik"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer ist der Regisseur von Die Commitments?",
+            "options": [
+              "Roddy Doyle",
+              "Alan Parker",
+              "Ian La Frenais"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Die Commitments – Eine musikalische Reise durch Dublin",
+        "text": "Die Commitments, ein Film von Alan Parker aus dem Jahr 1991, ist nicht nur eine Hommage an die Soulmusik, sondern auch eine tiefgreifende Auseinandersetzung mit der irischen Identität und dem Leben der Arbeiterklasse in Dublin. Die Erzählung folgt Jimmy Rabbitte, einem energiegeladenen Musikfan, der mutig eine Soulband gründet. In seiner Suche nach Talenten stößt er auf die Herausforderungen des Lebens in Barrytown, einem Viertel, das von sozialen Problemen geprägt ist. Es wird deutlich, dass die Gründung der Band nicht nur ein musikalisches Unterfangen, sondern auch ein Versuch darstellt, einen Ausweg aus der tristen Realität zu finden. Durch eine gekonnte Bildsprache, die das ruppige Leben in den Straßen Dublins einfängt, wird der Zuschauer in die komplexe Welt dieser Charaktere hineingezogen. Die Musik ist omnipräsent, sie spielt eine zentrale Rolle und verbindet die Akteure, während sie gleichzeitig Spannungen innerhalb der Gruppe aufzeigt. Der Humor im Film ist oft ironisch; er trägt dazu bei, die ernsten Themen wie Armut und unerfüllte Träume auszuleuchten und die Perspektiven der Protagonisten zu dekonstruieren. Die Commitments wurde mit mehreren BAFTA Awards ausgezeichnet und hat sich, trotz anfänglicher kommerzieller Mängel in Nordamerika, als bedeutendes Werk innerhalb der irischen Filmgeschichte etabliert, da es kulturelle und soziale Facetten Dublins anspricht. Die komplexe Darstellung der Charaktere und die authentische Lenkung der Handlung verleihen diesem Film Unvergänglichkeit.",
+        "vocabulary": [
+          {
+            "word": "Auseinandersetzung",
+            "definition": "eine tiefgehende Diskussion oder Betrachtung eines Themas"
+          },
+          {
+            "word": "Alltag",
+            "definition": "der tägliche, gewöhnliche Ablauf einer Person oder Gemeinschaft"
+          },
+          {
+            "word": "fokussieren",
+            "definition": "etwas in den Mittelpunkt rücken oder intensiver betrachten"
+          },
+          {
+            "word": "einprägsam",
+            "definition": "so, dass es sich gut im Gedächtnis festsetzen lässt"
+          },
+          {
+            "word": "dekonstruieren",
+            "definition": "einen Text oder eine Idee analysieren und ihre Annahmen hinterfragen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films Die Commitments?",
+            "options": [
+              "Die Herausforderungen des Lebens in Dublin.",
+              "Die Geschichte einer Bandgründung.",
+              "Die Probleme der irischen Politik."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie wurde der Humor im Film beschrieben?",
+            "options": [
+              "Als humorlos und ernst.",
+              "Als ironisch und auflockernd.",
+              "Als slapstickhaft und übertrieben."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Auszeichnung erhielt der Film?",
+            "options": [
+              "Ein Oscar für den besten Film.",
+              "Mehrere BAFTA Awards.",
+              "Ein Golden Globe für die beste Komödie."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Die Commitments – Eine musikalische Collage der Klasse und Identität",
+        "text": "Alan Parkers Die Commitments, veröffentlicht im Jahr 1991, stellt weit mehr als ein einfaches Musical dar; es ist ein vielschichtiges Porträt der irischen Arbeiterklasse und der Sehnsüchte junger Menschen in den Straßen Dublins. Im Mittelpunkt steht Jimmy Rabbitte, dessen Traum, eine Soulband zu gründen, gleichzeitig die Herausforderungen und Hoffnungen seiner Mitstreiter reflektiert. Die filmische Ästhetik ist durchdrungen von einer dynamischen Bildsprache, die konfrontativ und emotional ist, während sie die Komplexität des urbanen Lebens einfängt. Der üppige Einsatz von Musik steht in starkem Kontrast zu den drückenden sozialen Verhältnissen, zeigt jedoch auf ironische Weise, wie aus Unruhe und Notwendigkeit Kreativität und Gemeinschaft entstehen können. Parker thematisiert damit existentielle Fragen zu Identität und Zugehörigkeit, immer begleitet von einer scharfen, oft beißenden Ironie. Trotz unterdurchschnittlicher Verkaufszahlen in Nordamerika erlangte der Film Kultstatus und wurde nicht nur preisgekrönt, sondern erweiterte auch den Horizont des Musikfilms. Die Commitments bleibt ein unverzichtbares Werk, das sowohl als Gesellschaftskritik als auch als Liebeserklärung an die Musik verstanden werden kann.",
+        "vocabulary": [
+          {
+            "word": "vielschichtig",
+            "definition": "Komplex; hat viele Facetten oder Ebenen."
+          },
+          {
+            "word": "Porträt",
+            "definition": "Eine Darstellung oder Beschreibung einer Person oder Gruppe."
+          },
+          {
+            "word": "Reflexion",
+            "definition": "Ein Nachdenken über etwas oder dessen Bedeutung."
+          },
+          {
+            "word": "ästhestisch",
+            "definition": "Die Kunst und das Design betreffend; visuell schön."
+          },
+          {
+            "word": "existentiell",
+            "definition": "Die grundlegenden Fragen des Lebens betreffend."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was widerspiegelt Jimmy Rabbitte in seinen Träumen?",
+            "options": [
+              "Die Probleme der Politik",
+              "Die Hoffnungen seiner Freunde",
+              "Die Geschichte Dublins"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie beschreibt der Film das Leben in Dublin?",
+            "options": [
+              "Einfältig und langweilig",
+              "Dynamisch und herausfordernd",
+              "Ideal und friedlich"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Element ist laut dem Text zentral im Film?",
+            "options": [
+              "Die Musik",
+              "Das Wetter",
+              "Die Natur"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "The Commitments",
+        "text": "The Commitments est un film. Il est amusant et touchant. L'histoire commence à Dublin. Jimmy a une idée. Il veut faire un groupe de musique. La musique est soul. Jimmy cherche des musiciens. Il trouve des chanteuses et des musiciens. Le film parle de la musique et de l'amitié. Il montre aussi la vie des jeunes. Les personnages sont drôles et intéressants. Ce film est célèbre. Il a gagné des prix. Les chansons sont belles. Regardez The Commitments !",
+        "vocabulary": [
+          {
+            "word": "musique",
+            "definition": "sons organisés"
+          },
+          {
+            "word": "film",
+            "definition": "une histoire avec des images"
+          },
+          {
+            "word": "groupe",
+            "definition": "un ensemble de personnes"
+          },
+          {
+            "word": "amis",
+            "definition": "personnes proches"
+          },
+          {
+            "word": "drôle",
+            "definition": "qui fait rire"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Où se passe l'histoire ?",
+            "options": [
+              "À Dublin",
+              "À Paris",
+              "À Londres"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de musique est dans le film ?",
+            "options": [
+              "Rock",
+              "Soul",
+              "Pop"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a une idée ?",
+            "options": [
+              "Jimmy",
+              "Le réalisateur",
+              "Une chanteuse"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Commitments",
+        "text": "The Commitments est un film de 1991. Alan Parker est le réalisateur. Le film parle de la musique soul. Jimmy Rabbitte est un jeune homme. Il vit à Dublin. Il a une idée pour un groupe de musique. Jimmy veut réunir des musiciens et des chanteurs. Il trouve une chanteuse et un trompettiste. Le film montre la vie des jeunes dans un quartier pauvre. Il parle d'amitié et de passion pour la musique. Le film a eu du succès pour ses chansons. Les acteurs sont jeunes et talentueux. The Commitments a reçu des prix importants. La musique fait partie de l'histoire des personnages. C'est un film drôle et touchant.",
+        "vocabulary": [
+          {
+            "word": "passion",
+            "definition": "très fort intérêt"
+          },
+          {
+            "word": "réunir",
+            "definition": "rassembler des personnes"
+          },
+          {
+            "word": "quartier",
+            "definition": "zone d'une ville"
+          },
+          {
+            "word": "succès",
+            "definition": "bon résultat"
+          },
+          {
+            "word": "talentueux",
+            "definition": "qui a beaucoup de talent"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur du film ?",
+            "options": [
+              "Roddy Doyle",
+              "Alan Parker",
+              "Joey Fagan"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel style de musique présente le film ?",
+            "options": [
+              "Jazz",
+              "Soul",
+              "Classique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "D'où vient Jimmy Rabbitte ?",
+            "options": [
+              "De Londres",
+              "De Dublin",
+              "De Paris"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Commitments",
+        "text": "The Commitments est un film musical qui est sorti en 1991, réalisé par Alan Parker. Ce film explore la passion de jeunes musiciens de Dublin, qui veulent créer un groupe de musique soul. Au début, Jimmy Rabbitte, un jeune homme ambitieux, a un rêve : fonder une formation musicale. Il découvre des talents autour de lui, comme des chanteuses et un trompettiste âgé, Joey \"The Lips\" Fagan, qui a beaucoup d'expérience. En cherchant des musiciens, Jimmy fait face à des défis, mais il reste déterminé. Le film met en lumière la réalité de la vie dans un quartier populaire, où les jeunes ont souvent du mal à trouver du succès. Les thèmes principaux incluent la lutte pour réussir, l'amitié et l'importance de la musique dans la vie des jeunes. De plus, si ces jeunes réussissent à créer leur groupe, cela pourrait changer leur vie. La bande sonore est pleine d'énergie, et les performances sont vibrantes. Les acteurs, principalement novices, apportent une authenticité à leurs rôles, ce qui rend le film encore plus captivant. The Commitments a reçu plusieurs récompenses, notamment pour la meilleure direction et le meilleur scénario adaptatif. Ce film est un classique du cinéma, connu pour son humour et sa musique entraînante, et continue d'inspirer de nombreux artistes aujourd'hui.",
+        "vocabulary": [
+          {
+            "word": "passion",
+            "definition": "un fort intérêt ou un amour pour quelque chose."
+          },
+          {
+            "word": "ambitieux",
+            "definition": "qui veut réussir et atteindre de grands objectifs."
+          },
+          {
+            "word": "défis",
+            "definition": "des obstacles ou des difficiles problèmes à surmonter."
+          },
+          {
+            "word": "authenticité",
+            "definition": "la qualité d'être vrai ou réel."
+          },
+          {
+            "word": "captivant",
+            "definition": "qui attire l'attention ou l'intérêt."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le rêve de Jimmy Rabbitte ?",
+            "options": [
+              "Former une bande musicale",
+              "Devenir riche",
+              "Voyager à l'étranger"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui est Joey \"The Lips\" Fagan ?",
+            "options": [
+              "Un chanteur",
+              "Un animateur",
+              "Un trompettiste âgé"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quels thèmes sont présents dans le film ?",
+            "options": [
+              "La compétition et la guerre",
+              "L'amitié et la musique",
+              "La science et la technologie"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Commitments : Une comédie musicale puissamment captivante",
+        "text": "The Commitments est un film qui plonge les spectateurs dans l'ambiance colorée de Dublin dans les années 1990. Par le biais de l'histoire de Jimmy Rabbitte, un jeune passionné de musique, ce film explore des thèmes profonds tels que la lutte sociale, l'identité et la quête de soi. Jimmy désire créer un groupe de soul, une musique source de joie et d'émotion, pour rassembler sa communauté. Bien que les personnages proviennent de milieux modestes, ils partagent un rêve audacieux: se faire connaître à travers la musique. Le film présente des performances musicales marquantes, des dialogues percutants, et un humour irrésistible qui rythment le récit. Alan Parker, le réalisateur, utilise la lumière éclatante et des choix musicaux judicieux pour accentuer la vivacité de cette ville vibrante. En outre, la façon dont le film aborde les relations humaines et les défis auxquels les jeunes font face rend ce récit accessible et universel. La réalisation est agile, mêlant comédie et drame avec brio, ce qui en fait un classique dans l'histoire du cinéma. En voyant The Commitments, les spectateurs découvrent la beauté du rêve collectif contre les obstacles de la réalité, tout en s'amusant.",
+        "vocabulary": [
+          {
+            "word": "passionné",
+            "definition": "qui aime beaucoup quelque chose"
+          },
+          {
+            "word": "communauté",
+            "definition": "un groupe de personnes qui vivent ensemble"
+          },
+          {
+            "word": "performances",
+            "definition": "des spectacles ou des exécutions artistiques"
+          },
+          {
+            "word": "humour",
+            "definition": "la capacité de faire rire"
+          },
+          {
+            "word": "classique",
+            "definition": "un film ou une œuvre connue et appréciée"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le personnage principal du film ?",
+            "options": [
+              "Deco",
+              "Jimmy Rabbitte",
+              "Joey Fagan"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel type de musique le groupe joue-t-il ?",
+            "options": [
+              "Rock",
+              "Soul",
+              "Pop"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Dans quelle ville se déroule l'histoire ?",
+            "options": [
+              "Dublin",
+              "Belfast",
+              "Londres"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Commitments : Une exploration de la musique et de la société",
+        "text": "The Commitments, réalisé par Alan Parker en 1991, n'est pas simplement une comédie musicale; il s'agit d'une œuvre qui souligne les tensions sociales et l'importance de l'expression artistique. En suivant Jimmy Rabbitte, un jeune rêveur de Dublin, le film expose les défis auxquels font face les jeunes dans un contexte ouvrier. Le choix de la soul music comme vecteur de rassemblement révèle une richesse émotionnelle et une capacité à transcender les différences. Les personnages, bien que souvent en lutte, trouvent dans la musique une échappatoire et une source d'unité. La direction dynamique de Parker, associée à un montage ingénieux, permet de ressentir le pouls de Dublin, où chaque note résonne comme un appel à l'espoir. La bande sonore a également marqué les esprits, contribuant à l'essor d'un nouveau phénomène musical. Bien que le film ait connu un succès mitigé au box-office, ses répercussions culturelles sont indéniables; il a remporté plusieurs prix, y compris quatre BAFTA Awards. Ainsi, The Commitments se distingue par son habileté à mélanger humour, drame et musique, tout en portant un regard critique sur la réalité sociale.",
+        "vocabulary": [
+          {
+            "word": "tensions",
+            "definition": "des conflits ou des tensions entre des personnes ou des groupes"
+          },
+          {
+            "word": "vecteur",
+            "definition": "un moyen ou un outil qui transporte une idée"
+          },
+          {
+            "word": "échappatoire",
+            "definition": "une fuite ou une solution à un problème"
+          },
+          {
+            "word": "dynamique",
+            "definition": "qui est plein d'énergie et de mouvement"
+          },
+          {
+            "word": "répercussions",
+            "definition": "les effets ou conséquences d'un événement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé le film The Commitments ?",
+            "options": [
+              "Roddy Doyle",
+              "Alan Parker",
+              "Ian La Frenais"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le thème principal du film ?",
+            "options": [
+              "L'argent",
+              "La musique",
+              "La politique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "The Commitments a remporté combien de BAFTA Awards ?",
+            "options": [
+              "Deux",
+              "Quatre",
+              "Cinq"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Commitments : Une synthèse audacieuse des luttes sociales et de la musique",
+        "text": "Au cœur de The Commitments, sous l’habile direction d’Alan Parker, s’érige une réflexion poignante sur l’identité, l’aspiration et la vitalité communautaire. Ancré dans le Dublin populaire des années 1990, le film nous présente Jimmy Rabbitte, dont le rêve de former un groupe de soul transcende les vicissitudes de sa réalité. La bande originale, véritable personnage du récit, illustre un kaléidoscope sonore où chaque morceau devient un écho des luttes et des triomphes des jeunes issus des classes ouvrières. Par ailleurs, la maîtrise de Parker dans le jeu de lumière et le montage rythmique artifice participe à créer une atmosphère immersive où l'on ressent l'énergie brute de la musique. Néanmoins, au-delà du divertissement, se profile une critique virulente des stéréotypes liés à la pauvreté et à l’ambition, nous interrogeant ainsi sur la légitimité de nos rêves face à un environnement hostile. Grâce à son humour incisif et à son authenticité, The Commitments a non seulement gagné des distinctions — comme plusieurs BAFTA Awards — mais a également su s’inscrire comme un chef-d'œuvre de la culture cinématographique, stimulant une revalorisation du genre musical au cinéma. Le film, fort de ses résonances sociales, ne demande qu’à être redécouvert, offrant à chaque visionnage une richesse de sens inédite.",
+        "vocabulary": [
+          {
+            "word": "réflexion",
+            "definition": "une pensée approfondie sur un sujet"
+          },
+          {
+            "word": "vicissitudes",
+            "definition": "les changements ou les difficultés dans la vie"
+          },
+          {
+            "word": "kaléidoscope",
+            "definition": "une variété colorée et changeante de formes ou d’idées"
+          },
+          {
+            "word": "stéréotypes",
+            "definition": "des idées préconçues sur un groupe de personnes"
+          },
+          {
+            "word": "résonances",
+            "definition": "les échos ou les effets résultant d’un événement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le rêve de Jimmy Rabbitte dans le film ?",
+            "options": [
+              "De devenir riche",
+              "De former un groupe de soul",
+              "De quitter Dublin"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle technique Parker utilise-t-il pour créer l'atmosphère du film ?",
+            "options": [
+              "Un jeu de lumière",
+              "Un long discours",
+              "Un effet spécial"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "The Commitments critique quels aspects de la société ?",
+            "options": [
+              "L’amour",
+              "La pauvreté et l’ambition",
+              "La politique"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "The Commitments",
+        "text": "The Commitments es una película. Es una comedia musical. La historia es en Dublín, Irlanda. Un joven se llama Jimmy Rabbitte. Jimmy quiere formar una banda. La banda toca música soul. Él busca músicos y cantantes. Encuentra tres mujeres con buena voz. Jimmy tiene una idea brillante. La música es muy importante en la película. La banda empieza a tocar en bares. Los amigos de Jimmy lo ayudan. Hay muchos momentos divertidos y emocionantes. La película es de 1991 y está dirigida por Alan Parker. La historia es popular en muchas partes del mundo. La gente ama la música y la diversión de la película.",
+        "vocabulary": [
+          {
+            "word": "banda",
+            "definition": "grupo de músicos"
+          },
+          {
+            "word": "amigos",
+            "definition": "personas con quienes tienes una buena relación"
+          },
+          {
+            "word": "música",
+            "definition": "arte que usamos con sonidos"
+          },
+          {
+            "word": "divertido",
+            "definition": "que causa alegría o risa"
+          },
+          {
+            "word": "importante",
+            "definition": "que tiene gran valor"
+          },
+          {
+            "word": "cantar",
+            "definition": "hacer sonidos musicales con la voz"
+          },
+          {
+            "word": "bailar",
+            "definition": "mover el cuerpo al ritmo de la música"
+          },
+          {
+            "word": "ver",
+            "definition": "usar los ojos para apreciar algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde se desarrolla la historia?",
+            "options": [
+              "En Dublín, Irlanda",
+              "En Londres, Inglaterra",
+              "En Nueva York, Estados Unidos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de música toca la banda?",
+            "options": [
+              "Música pop",
+              "Música soul",
+              "Música clásica"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ayuda a Jimmy en su idea?",
+            "options": [
+              "Sus amigos",
+              "Su familia",
+              "Sus vecinos"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Commitments",
+        "text": "The Commitments es una película de 1991. Es una comedia musical y dramática. La historia empieza en Dublín, Irlanda. Un joven llamado Jimmy Rabbitte tiene una gran idea. Él quiere formar una banda de música soul. Jimmy es un gran fanático de la música. Busca músicos y cantantes en su barrio. Encuentra a tres mujeres con voces excelentes que lo ayudan. También encuentra a un trompetista mayor, Joey, que tiene mucha experiencia. La película muestra la vida de los jóvenes trabajadores en un barrio muy triste. Habla sobre sueños, amistad y la lucha por el éxito. Tiene una buena mezcla de comedia y música, lo que la hace especial. Las actuaciones y las canciones son geniales, y la banda pronto se vuelve famosa. Los personajes enfrentan muchos desafíos, pero no se rinden. Esta película es popular y ha ganado premios. Los espectadores aprenderán sobre la pasión y el trabajo duro. Es una historia inspiradora para todos.",
+        "vocabulary": [
+          {
+            "word": "banda",
+            "definition": "Grupo de músicos que tocan música juntos."
+          },
+          {
+            "word": "música",
+            "definition": "Arte de organizar sonidos en el tiempo."
+          },
+          {
+            "word": "trabajadores",
+            "definition": "Personas que realizan un trabajo."
+          },
+          {
+            "word": "famosa",
+            "definition": "Conocida por muchas personas."
+          },
+          {
+            "word": "desafíos",
+            "definition": "Situaciones difíciles que se deben enfrentar."
+          },
+          {
+            "word": "experiencia",
+            "definition": "Conocimiento o habilidad en un área."
+          },
+          {
+            "word": "éxito",
+            "definition": "Logro de un objetivo deseado."
+          },
+          {
+            "word": "inspiradora",
+            "definition": "Que motiva o anima a alguien."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué trata la película The Commitments?",
+            "options": [
+              "Sobre un joven que forma una banda de música soul.",
+              "Sobre una familia en Dublín.",
+              "Sobre una competencia de baile."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de música toca la banda en la película?",
+            "options": [
+              "Música pop.",
+              "Música clásica.",
+              "Música soul."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Quién es el director de The Commitments?",
+            "options": [
+              "Roddy Doyle.",
+              "Alan Parker.",
+              "Joey Fagan."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Commitments",
+        "text": "The Commitments es una película musical y cómica dirigida por Alan Parker en 1991. La historia tiene lugar en Dublín, un barrio popular lleno de vida y cultura. Jimmy Rabbitte, un joven apasionado por la música, ha soñado con formar una banda de soul desde que era niño. Decide reunir músicos y cantantes en su vecindario y, después de buscar, encuentra a tres talentosas mujeres que tienen voces excepcionales, además de un trompetista mayor llamado Joey \"The Lips\" Fagan, que se ha dedicado a la música durante muchos años. La película explora temas profundos como la amistad, los sueños y la lucha de la clase trabajadora. Los personajes, aunque enfrentan muchos desafíos, siguen luchando por alcanzar su sueño. A través de momentos divertidos y emotivos, se muestra el amor por la música y el deseo de éxito en un entorno difícil. Si los personajes no hubieran trabajado en equipo, tal vez no habrían logrado formar la banda que cambió sus vidas. La cinematografía es vibrante y la música es emocionante, lo que hace que el espectador se sienta inspirado y conectado con los personajes. The Commitments fue bien recibida y recibió varios premios, incluyendo BAFTA, y ha sido aclamada por la crítica, convirtiéndose en un clásico del cine musical y en una representación del espíritu de Dublín en los años 90.",
+        "vocabulary": [
+          {
+            "word": "banda",
+            "definition": "un grupo de músicos que toca música juntos."
+          },
+          {
+            "word": "soñar",
+            "definition": "tener deseos o aspiraciones sobre el futuro."
+          },
+          {
+            "word": "desafíos",
+            "definition": "dificultades o problemas que deben enfrentarse."
+          },
+          {
+            "word": "vibrante",
+            "definition": "algo lleno de energía o emoción."
+          },
+          {
+            "word": "conectado",
+            "definition": "cuando se siente relacionado o en sintonía con algo o alguien."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién dirige la película The Commitments?",
+            "options": [
+              "Alan Parker",
+              "Roddy Doyle",
+              "Deco"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de música quiere formar la banda de Jimmy?",
+            "options": [
+              "Rock",
+              "Soul",
+              "Pop"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde se desarrolla la historia?",
+            "options": [
+              "En Dublín",
+              "En Londres",
+              "En Nueva York"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "El poder de la música en \"The Commitments\"",
+        "text": "La película \"The Commitments\", dirigida por Alan Parker en 1991, presenta la historia de un joven llamado Jimmy Rabbitte, quien tiene la idea brillante de formar una banda de soul en un barrio popular de Dublín. A lo largo del filme, se exploran temas como la lucha social, la identidad cultural y el poder transformador de la música. Aunque al principio parece un simple relato de aspiraciones musicales, en realidad refleja las dinámicas complejas de una comunidad que intenta superarse. Las actuaciones vibrantes de los actores, junto a una banda sonora revitalizadora, hacen que la música sea un personaje central en la historia. Además, el uso creativo de la cámara, la luz y el ritmo, genera una atmósfera que envuelve al espectador en la experiencia musical. Es importante notar que, aunque la película no tuvo un gran éxito en las taquillas de América del Norte, ha ganado un estatus de culto, lo que demuestra su impacto duradero. Por tanto, \"The Commitments\" no solo es una celebración de la música, sino también un retrato honesto de la búsqueda de los jóvenes por encontrar su voz en el mundo.",
+        "vocabulary": [
+          {
+            "word": "comunidad",
+            "definition": "grupo de personas que viven juntas."
+          },
+          {
+            "word": "identidad",
+            "definition": "lo que define a una persona o grupo."
+          },
+          {
+            "word": "vibrante",
+            "definition": "lleno de energía o colores."
+          },
+          {
+            "word": "atmosfera",
+            "definition": "sentido o ambiente de un lugar."
+          },
+          {
+            "word": "celebración",
+            "definition": "acto de festejar algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién tiene la idea de formar una banda de soul?",
+            "options": [
+              "Un anciano",
+              "Jimmy Rabbitte",
+              "Una mujer"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ciudad es el escenario principal de la película?",
+            "options": [
+              "Dublín",
+              "Londres",
+              "Dublín"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué papel juega la música en la película?",
+            "options": [
+              "Es un fondo",
+              "Es un personaje central",
+              "No juega ningún papel"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Más allá de la música: 'The Commitments' como reflexión social",
+        "text": "En \"The Commitments\", Alan Parker ofrece más que una simple comedia musical; se sumerge en las entrañas de la sociedad dublinesa de los años 90. A través del protagonista, Jimmy Rabbitte, quien orquesta la formación de una banda de soul, la película explora temas esenciales como la lucha por la identidad, las desigualdades socioeconómicas y la cohesión social. Al dar voz a personajes diversos, la obra plantea preguntas sobre la autenticidad y la pertenencia, mientras que la música, permeando cada escena, actúa como un catalizador de cambio y esperanza. Técnicamente, el filme destaca por una dirección ingeniosa que utiliza eficientemente la luz y la cámara para intensificar la emoción. El ritmo, cuidadosamente estructurado, va in crescendo, llevando al espectador en un viaje desde la adversidad hacia momentos de triunfo colectivo. Este análisis de la dinámica juvenil en un entorno degradado no solo busca entretener, sino también invitar a la reflexión sobre la condición humana. De este modo, \"The Commitments\" se convierte en una pieza cinematográfica fundamental, que, a pesar de su modesto estreno en América del Norte, ha logrado resonar en la cultura popular a lo largo de las décadas.",
+        "vocabulary": [
+          {
+            "word": "entrar en las entrañas",
+            "definition": "explorar lo profundo o fundamental de algo."
+          },
+          {
+            "word": "cohesión",
+            "definition": "unidad o unión entre partes."
+          },
+          {
+            "word": "catalizador",
+            "definition": "algo que provoca o acelera un cambio."
+          },
+          {
+            "word": "ingenioso",
+            "definition": "inteligente y creativo."
+          },
+          {
+            "word": "resonar",
+            "definition": "tener un efecto duradero o significativo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué busca reflejar la película según el texto?",
+            "options": [
+              "La música de Dublín",
+              "La sociedad dublinesa",
+              "Las tradiciones irlandesas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué papel tiene el ritmo en la película?",
+            "options": [
+              "Es monótono",
+              "Es cuidadosamente estructurado",
+              "No es importante"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo ve la película la lucha de juventud?",
+            "options": [
+              "Como un desafío plano",
+              "Como una oportunidad de reflexión",
+              "Como una historia aburrida"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "El impacto cultural y social de 'The Commitments'",
+        "text": "\"The Commitments\", dirigido por Alan Parker, emerge en un contexto donde la música no solo entretiene, sino también cataliza una crítica a la realidad social. Situada en el norte de Dublín, la película narra la travesía de Jimmy Rabbitte en busca de crear una banda de soul que represente las aspiraciones de una generación marcada por la marginalidad. A través de sus personajes, Parker construye un microcosmos que refleja las tensiones sociales y la lucha por la identidad cultural en un entorno empobrecido. La narrativa, salpicada de humor e ironía, no disimula las dificultades, sino que las convierte en una forma legítima de expresión. Visualmente, el uso de una iluminación dramática y de planos dinámicos capta la esencia del momento, mientras que la banda sonora, una amalgama de clásicos del soul, acompaña cada cambio de tono en la historia. Este entrelazado entre música y mensaje social permite que la obra no solo se valore en su momento de estreno, sino que, receptora de una aclamación póstuma, perpetúe su relevancia en la cultura contemporánea. Así, \"The Commitments\" trasciende su forma inicial para convertirse en un emblemático estudio de la condición humana y su deseo innato de conexión y pertenencia.",
+        "vocabulary": [
+          {
+            "word": "cataliza",
+            "definition": "provoca o acelera un cambio significativo."
+          },
+          {
+            "word": "microcosmos",
+            "definition": "reflejo o representación en pequeño de una realidad mayor."
+          },
+          {
+            "word": "salpicada",
+            "definition": "mezclada con algo diferente o irregular."
+          },
+          {
+            "word": "amalgama",
+            "definition": "mezcla de elementos diferentes."
+          },
+          {
+            "word": "trasciende",
+            "definition": "va más allá de los límites establecidos."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué representa la banda de soul en la película?",
+            "options": [
+              "La diversión",
+              "Las aspiraciones de una generación",
+              "La historia de Dublín"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es la importancia de la música en el filme?",
+            "options": [
+              "Es solo un fondo",
+              "Es un medio de crítica social",
+              "No tiene relevancia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se describe el tono de la narrativa?",
+            "options": [
+              "Serio y aburrido",
+              "Humorístico e irónico",
+              "Rápido y sin sentido"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

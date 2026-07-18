@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-18-the-commitments-alan-parker",
+    "date": "2026-07-18",
+    "director": "Alan Parker",
+    "image": "https://image.tmdb.org/t/p/w780/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg",
+    "titles": {
+      "en": "The Commitments",
+      "de": "The Commitments – Ein Blick auf den Film",
+      "fr": "The Commitments",
+      "es": "The Commitments"
+    }
+  },
+  {
     "id": "2026-07-17-the-long-day-closes-terence-davies",
     "date": "2026-07-17",
     "director": "Terence Davies",
