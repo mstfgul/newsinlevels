@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-19-russians-turn-to-cash-putting-more-strain-on-slowing-wartime",
+    "date": "2026-07-19",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
+    "category": "business",
+    "titles": {
+      "en": "Russians Increase Cash Withdrawals Amid Economic Strain",
+      "de": "Russland: Bargeldumstellung verschärft Wirtschaftskrise",
+      "fr": "Les Russes préfèrent l'argent liquide dans une économie difficile",
+      "es": "Rusia enfrenta problemas económicos"
+    }
+  },
+  {
+    "id": "2026-07-19-andrew-tate-and-brother-arrested-in-us-after-more-charges-la",
+    "date": "2026-07-19",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Andrew and Tristan Tate Arrested After New Charges in the UK",
+      "de": "Andrew und Tristan Tate nach neuen Anklagen verhaftet",
+      "fr": "Andrew Tate et son frère arrêtés après de nouvelles accusations",
+      "es": "Detención de Andrew y Tristan Tate en Estados Unidos"
+    }
+  },
+  {
+    "id": "2026-07-19-us-and-iran-exchange-strikes-after-two-us-soldiers-killed-in",
+    "date": "2026-07-19",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e354/live/adca3400-8323-11f1-926f-c90d1bcfbc84.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Increased Military Actions Between the US and Iran",
+      "de": "US-Angriffe auf Iran und militärische Reaktionen",
+      "fr": "Conflit croissant entre les États-Unis et l'Iran",
+      "es": "Aumento de la violencia entre EE. UU. e Irán"
+    }
+  },
+  {
     "id": "2026-07-18-many-ukrainian-soldiers-outraged-over-removal-of-defence-min",
     "date": "2026-07-18",
     "source": "BBC News",

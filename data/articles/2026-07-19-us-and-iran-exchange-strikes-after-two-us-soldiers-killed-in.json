@@ -1,0 +1,1385 @@
+{
+  "id": "2026-07-19-us-and-iran-exchange-strikes-after-two-us-soldiers-killed-in",
+  "date": "2026-07-19",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e354/live/adca3400-8323-11f1-926f-c90d1bcfbc84.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "US and Iran Fight",
+        "text": "The US bombed Iran on Saturday night. They hit Iran's military sites. The US says it struck Iranian air bases. They want to stop Iran from attacking ships. Two US soldiers died in Jordan. Another soldier is missing now. Iran's army used drones against US bases in Kuwait. They attacked two bases. The US and Iran fight each other more. Many people die. The US says it hits military only. Iran says the US hits civilians too. Many people are hurt and many buildings are damaged. Both sides want to stop the fighting.",
+        "vocabulary": [
+          {
+            "word": "bombed",
+            "definition": "attacked with bombs"
+          },
+          {
+            "word": "military",
+            "definition": "related to armed forces"
+          },
+          {
+            "word": "sites",
+            "definition": "places or locations"
+          },
+          {
+            "word": "drones",
+            "definition": "flying machines with no people"
+          },
+          {
+            "word": "bases",
+            "definition": "places where soldiers stay"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who bombed Iran?",
+            "options": [
+              "Iran",
+              "The US",
+              "Kuwait"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many US soldiers died?",
+            "options": [
+              "One",
+              "Two",
+              "Three"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Iran use to attack US bases?",
+            "options": [
+              "Drones",
+              "Planes",
+              "Cars"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "US Hits Iran After Attack on Soldiers",
+        "text": "On Saturday night, the US launched air strikes against Iran. They targeted military sites and air defence systems. The US says they caused damage to Iran's military abilities. This follows the killing of two US soldiers in Jordan. One soldier is still missing. Iran responded by carrying out drone attacks on two US bases in Kuwait. They claim they hit important military locations. The US and Iran have increased attacks lately. The US says its strikes hit only military targets, not civilians. Reports from Iran say many civilians are hurt. At least fifty people were killed in the US strikes. The fighting has raised concerns about civilian safety. Tensions have grown between the two nations, as a ceasefire fell apart.",
+        "vocabulary": [
+          {
+            "word": "launched",
+            "definition": "started or began"
+          },
+          {
+            "word": "targeted",
+            "definition": "aimed at something specific"
+          },
+          {
+            "word": "damage",
+            "definition": "hurt or break"
+          },
+          {
+            "word": "responded",
+            "definition": "answered back or reacted"
+          },
+          {
+            "word": "tensions",
+            "definition": "stressful situations between groups"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the US target in their strikes?",
+            "options": [
+              "Civilian homes",
+              "Military sites",
+              "Banks"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where were the US soldiers killed?",
+            "options": [
+              "In Iran",
+              "In Iraq",
+              "In Jordan"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "How many people have died from US strikes?",
+            "options": [
+              "At least 20",
+              "At least 50",
+              "At least 100"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Increased Military Actions Between the US and Iran",
+        "text": "The United States has launched another round of air strikes on Iran late on Saturday night. These strikes specifically targeted military sites and air defence facilities, showing a significant escalation in the ongoing conflict. According to US Central Command, they have successfully hit Iranian military capabilities, which further complicates the situation in the region. This escalation came after two US soldiers were killed in Jordan on Friday, and another service member has gone missing. In retaliation, Iran's army has conducted drone attacks on two US military bases located in Kuwait. The US and Iran have intensified their attacks in recent days, and both sides accuse each other of damaging important civilian infrastructure. The US states that they have only targeted military installations, while Iran claims otherwise, reporting a high number of casualties among civilians. Over the past weeks, tensions have risen sharply as the preliminary agreement between the two nations has deteriorated quickly. If these military actions continue, they could lead to more significant conflict and instability in the region. Many analysts believe that this increasing hostility may result in further losses for both countries, raising concerns about civilian safety and the potential for wider regional conflict. Several nations are now watching to see how this situation develops and what effects it might have on global oil supplies, especially given that the Strait of Hormuz is a critical maritime route for oil exports. The ongoing conflict emphasizes the fragile nature of international agreements and the consequences of military escalation.",
+        "vocabulary": [
+          {
+            "word": "escalation",
+            "definition": "an increase or intensification of a conflict or situation"
+          },
+          {
+            "word": "retaliation",
+            "definition": "action taken to return an injury or wrongdoing, often as revenge"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "the basic physical systems of a country or region, such as transportation and communication lines"
+          },
+          {
+            "word": "capabilities",
+            "definition": "the abilities or capacities to achieve something."
+          },
+          {
+            "word": "hostility",
+            "definition": "unfriendly or aggressive behavior"
+          },
+          {
+            "word": "analysts",
+            "definition": "people who examine information in detail to understand it better"
+          },
+          {
+            "word": "fragile",
+            "definition": "easily broken or damaged; not strong or stable"
+          },
+          {
+            "word": "maritime",
+            "definition": "related to the sea and navigation on it."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the US Central Command claim to have successfully hit during the air strikes?",
+            "options": [
+              "Civilian targets",
+              "Iranian military capabilities",
+              "Iranian infrastructure"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Iran claim about the casualties of its citizens?",
+            "options": [
+              "There have been zero civilian casualties",
+              "There is a high number of civilian casualties",
+              "All attacks have only targeted military bases"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What potential consequences might arise if military actions between the US and Iran continue?",
+            "options": [
+              "More significant conflict and instability",
+              "Peaceful negotiations between the two nations",
+              "A decrease in global oil prices"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "US and Iran Exchange Strikes Following Deaths of US Soldiers",
+        "text": "On Saturday night, the United States launched air strikes against Iranian military sites along the coast, targeting surveillance and air defense facilities, according to US military officials. Central Command, or Centcom, reported that these strikes efficiently hit Iranian military resources; however, Iranian state media noted that Qeshm Island in the Strait of Hormuz had also been affected. Additionally, Centcom announced that their strikes specifically aimed at Iran's Revolutionary Guards (IRGC), which were linked to the deaths of two US troops in Jordan the previous day, while another service member remains unaccounted for. In retaliation, Iran's military claimed they executed drone attacks on two US military bases in Kuwait. This escalation marks a significant increase in hostilities between the two nations, both accusing each other of targeting vital infrastructure in the region. Over the past week, tensions rose as Iran conducted multiple assaults using kamikaze drones against US military sites. As the US continues its campaign on Iranian capabilities, Washington's blockade on Iranian ports intensified, while Tehran declared the Strait of Hormuz off-limits. Meanwhile, US Defence Secretary Pete Hegseth honored the fallen soldiers by reaffirming the nation’s determination in the conflict.",
+        "vocabulary": [
+          {
+            "word": "escalation",
+            "definition": "an increase in conflict or intensity"
+          },
+          {
+            "word": "retaliation",
+            "definition": "the act of responding to an attack or injury"
+          },
+          {
+            "word": "unaccounted",
+            "definition": "missing or not found"
+          },
+          {
+            "word": "surveillance",
+            "definition": "watching or monitoring for security purposes"
+          },
+          {
+            "word": "hostilities",
+            "definition": "acts of fighting or conflict"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who did the US strike on Saturday night?",
+            "options": [
+              "Iranian military sites",
+              "Kuwaiti forces",
+              "Civilian areas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Iran's military claim to have done in response?",
+            "options": [
+              "Launched drone attacks",
+              "Said nothing",
+              "Sent a peace message"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What region did Iran reportedly attack with drone strikes?",
+            "options": [
+              "Strait of Hormuz",
+              "Kuwait City",
+              "Amman"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Escalating Tensions: US and Iran Exchange Strikes After Soldier Fatalities",
+        "text": "The United States executed a series of targeted air strikes against Iranian military installations on Saturday night, focusing on coastal surveillance and air defense capabilities, as outlined by military officials from US Central Command (Centcom). While Centcom confirmed the successful targeting of these military assets, Iranian media reported that the strategic Qeshm Island in the Strait of Hormuz was also affected during the strikes. Notably, these actions were in direct response to an incident on Friday, when two US service members were killed in Jordan due to attacks linked to Iran's Revolutionary Guards (IRGC), with one additional soldier still unaccounted for. In a swift counteraction, the Iranian military launched drone attacks on US bases located in Kuwait, signaling a rapid escalation in a conflict where both parties have exchanged accusations regarding the targeting of critical infrastructure. On multiple occasions, Iran asserted its commitment to conducting extensive drone operations against American military facilities, while the US, attempting to diminish Iranian threats to shipping in the region, reiterated its focus on military targets. This exchange of strikes follows a renewed cycle of hostilities and reimposed blockades, leading to growing casualties on both sides, raising urgent questions about the viability of diplomatic resolutions.",
+        "vocabulary": [
+          {
+            "word": "executed",
+            "definition": "carried out or performed"
+          },
+          {
+            "word": "strategic",
+            "definition": "planned or important for achieving a goal"
+          },
+          {
+            "word": "swift",
+            "definition": "quick and immediate"
+          },
+          {
+            "word": "signaling",
+            "definition": "indicating or suggesting something"
+          },
+          {
+            "word": "escalation",
+            "definition": "an increase in tense or hostile activity"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the US focus on during the air strikes?",
+            "options": [
+              "Civilian targets",
+              "Military installations",
+              "Schools"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What was Iran's military response to the US strikes?",
+            "options": [
+              "Drone attacks",
+              "Peace negotiations",
+              "Withdrawal of forces"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many US service members were killed in Jordan according to the article?",
+            "options": [
+              "Two",
+              "Three",
+              "One"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "A Dangerous Exchange: The US-Iran Strikes Following the Tragic Loss of Service Members",
+        "text": "In a marked escalation of hostilities, the United States unleashed a barrage of air strikes targeting Iranian military assets on Saturday night, aimed primarily at surveillance and air defense facilities along the Iranian coast. US Central Command (Centcom) indicated that these military operations effectively struck key defenses; however, reports from Iranian state media revealed that Qeshm Island in the strategic Strait of Hormuz also suffered collateral damage. This military action was undeniably a response to the lethal attack on two American troops in Jordan the previous day, for which the Iranian Revolutionary Guards Corps (IRGC) claimed responsibility, leaving one additional service member unaccounted for in this mounting conflict, which shows no signs of waning. Following this, Iran retaliated forcefully, conducting drone strikes on two US bases in Kuwait, which has now exacerbated the already volatile situation. The duality of accusations regarding assaults on civilian infrastructure has been amplified in recent days, with both nations engaging in an increasingly perilous tit for tat. In an official statement, US Defence Secretary Pete Hegseth emphasized that the strikes served to protect American lives while simultaneously diminishing Iran's capacity to pose a threat to shipping interests in the strategically vital Strait of Hormuz. Moreover, in a broader context, tensions have oscillated markedly over the past weeks, particularly with the re-imposition of US sanctions on Iranian ports and Tehran's controversial closure of the Strait. As these two adversaries engage in a dangerous game of retaliation, the prospects of diplomatic resolution appear increasingly bleak.",
+        "vocabulary": [
+          {
+            "word": "unleashed",
+            "definition": "set free or released, often used in a forceful context"
+          },
+          {
+            "word": "collateral",
+            "definition": "resulting damage that is not intended but occurs as an indirect consequence"
+          },
+          {
+            "word": "exacerbated",
+            "definition": "made a problem worse or more severe"
+          },
+          {
+            "word": "perilous",
+            "definition": "dangerous, involving risk or harm"
+          },
+          {
+            "word": "oscillated",
+            "definition": "moved back and forth, fluctuated"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Centcom say the US air strikes targeted?",
+            "options": [
+              "Civilian areas",
+              "American bases in Kuwait",
+              "Iranian military assets"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "How did Iran respond to the US air strikes?",
+            "options": [
+              "By negotiating peace",
+              "By launching drone strikes",
+              "By withdrawing troops"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is the status of the Strait of Hormuz mentioned in the article?",
+            "options": [
+              "Open and safe",
+              "Closed and contested",
+              "Under UN protection"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "US-Angriffe auf Iran",
+        "text": "Die USA haben am Samstag angegriffen. Sie haben Luftangriffe auf Iran gemacht. Die Angriffe sind gegen Militärbasen. Iran hat auch geantwortet. Sie haben mit Drohnen angegriffen. Iran greift zwei US-Basen in Kuwait an. Viele Menschen in Iran sind betroffen. Die USA haben zwei Soldaten verloren. Ein Soldat ist vermisst. Es gibt viele Angriffe in den letzten Tagen. Die Lage ist sehr ernst und angespannt. Beide Länder beschuldigen sich gegenseitig. Viele Menschen hoffen auf Frieden und eine Lösung. Die Situation kann sich schnell verändern.",
+        "vocabulary": [
+          {
+            "word": "Militärbasis",
+            "definition": "ein Ort, wo Soldaten arbeiten"
+          },
+          {
+            "word": "Drohne",
+            "definition": "ein unbemanntes Fluggerät"
+          },
+          {
+            "word": "angreifen",
+            "definition": "jemanden oder etwas verletzen oder beschädigen"
+          },
+          {
+            "word": "Betroffener",
+            "definition": "eine Person, die betroffen ist"
+          },
+          {
+            "word": "Hoffnung",
+            "definition": "der Wunsch nach etwas Gutem"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die USA gemacht?",
+            "options": [
+              "Sie haben Luftangriffe gemacht.",
+              "Sie haben Frieden gebracht.",
+              "Sie haben Soldaten geschickt."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist die Lage in Iran?",
+            "options": [
+              "Die Lage ist ruhig.",
+              "Die Lage ist sehr ernst.",
+              "Die Lage ist fröhlich."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Soldaten der USA sind verloren?",
+            "options": [
+              "Einer ist verloren.",
+              "Zwei Soldaten sind verloren.",
+              "Drei Soldaten sind verloren."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "US-Angriffe auf Iran und Irans Antwort",
+        "text": "Am Samstag haben die USA Luftangriffe auf Iran gemacht. Diese Angriffe sind auf Militärbasen gerichtet. Die US-Truppen sagen, dass die Angriffe notwendig sind, weil sie die militärischen Fähigkeiten Irans schwächen wollen. Es gab vorher einen Angriff in Jordanien, bei dem zwei US-Soldaten starben und ein anderer Soldat vermisst wird. Iran hat als Antwort auf die Angriffe US-Stützpunkte in Kuwait mit Drohnen angegriffen. Ein Sprecher des iranischen Militärs berichtete von großen Angriffen mit Kamikaze-Drohnen. Die USA sagen, dass sie militärische Ziele treffen, aber Iran sagt, dass auch viele Zivilpersonen betroffen sind. In Iran sind viele Menschen verletzt worden oder sogar gestorben. Der Konflikt ist sehr ernst und die Situation wird immer gefährlicher. Beide Seiten machen mehr und mehr Angriffe. Die USA und Iran haben in der letzten Woche sehr viel gesagt und sind sich nicht einig. Der Konflikt könnte die ganze Region destabilisieren, weil die Spannungen steigen und Diplomatie schwierig ist.",
+        "vocabulary": [
+          {
+            "word": "Militärbasen",
+            "definition": "Stellen, wo das Militär stationiert ist."
+          },
+          {
+            "word": "Drohnen",
+            "definition": "Unbemannte Flugzeuge, die oft für Angriffe verwendet werden."
+          },
+          {
+            "word": "Spannungen",
+            "definition": "Konflikte oder Stress zwischen zwei Gruppen."
+          },
+          {
+            "word": "Stützpunkte",
+            "definition": "Orte, die militärisch genutzt werden."
+          },
+          {
+            "word": "Kamikaze",
+            "definition": "Eine Strategie, bei der der Pilot sein Leben opfert."
+          },
+          {
+            "word": "Diplomatie",
+            "definition": "Verhandlungen zwischen Staaten, um Konflikte zu lösen."
+          },
+          {
+            "word": "destabilisieren",
+            "definition": "Eine Situation unsicher oder gefährlich machen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die USA in Iran angegriffen?",
+            "options": [
+              "Zivilgebäude",
+              "Militärbasen",
+              "Krankenhäuser"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele US-Soldaten sind in Jordanien gestorben?",
+            "options": [
+              "Einer",
+              "Zwei",
+              "Drei"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagt Iran über die Angriffe auf Zivilpersonen?",
+            "options": [
+              "Es sind keine Zivilpersonen betroffen.",
+              "Es sind auch Zivilpersonen betroffen.",
+              "Nur Militärpersonal ist betroffen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "US-Angriffe auf Iran und militärische Reaktionen",
+        "text": "Am Samstag Nacht haben die USA erneut Luftangriffe auf Iran durchgeführt, die einen neuen Höhepunkt im anhaltenden Konflikt darstellen. Die US-Militärs zielen auf militärische Einrichtungen an der Küste, weil sie Irans militärische Kapazitäten verringern möchten. Iranische Medien berichten, dass die Insel Qeshm im Persischen Golf getroffen wurde. Dies geschah, nachdem zwei US-Soldaten in Jordanien bei einem vorherigen Angriff getötet wurden, und ein weiterer Soldat wird noch vermisst. Als Reaktion auf die Angriffe hat die iranische Armee zwei US-Basen in Kuwait mit Drohnen angegriffen. Diese Drohnen, die spezielle Attacken durchführen können, haben viele Schäden angerichtet. In den letzten Tagen haben beide Seiten ihre Angriffe erhöht, wobei sie oft kritische Infrastruktur treffen. Centcom erklärte, dass die Angriffe darauf abzielten, Irans Fähigkeit zu verringern, den Schiffsverkehr zu bedrohen. Wenn der Konflikt so weitergeht, könnte es zu einer weiteren Eskalation kommen. Der Konflikt hat sich verschärft, und es gab viele Verluste auf beiden Seiten, sowohl auf der amerikanischen als auch auf der iranischen Seite. In der letzten Woche hat Iran erklärt, dass der strategisch wichtige Hormuz-Straße für immer geschlossen bleibt, was internationale Spannungen weiter erhöht. Experten befürchten, dass solche Entscheidungen den globalen Ölmarkt stark beeinflussen könnten und Lieferungen behindern werden.",
+        "vocabulary": [
+          {
+            "word": "Kapazitäten",
+            "definition": "Fähigkeiten oder Ressourcen, die eine Person oder eine Organisation hat."
+          },
+          {
+            "word": "Eskalation",
+            "definition": "Eine Situation, die sich verschärft oder gefährlicher wird."
+          },
+          {
+            "word": "strategisch",
+            "definition": "Wichtig für einen Plan oder eine Strategie."
+          },
+          {
+            "word": "Drohen",
+            "definition": "Hier: unbemanntes Flugzeug, das militärische Einsätze durchführen kann."
+          },
+          {
+            "word": "Kritische Infrastruktur",
+            "definition": "Wichtige Einrichtungen, die für das Funktionieren einer Gesellschaft notwendig sind, wie Strom- oder Wasserversorgung."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die USA in der Nacht von Samstag auf Sonntag gemacht?",
+            "options": [
+              "Sie haben Luftangriffe auf militärische Einrichtungen durchgeführt.",
+              "Sie haben einen Frieden verhandelt.",
+              "Sie haben US-Soldaten zurückgerufen."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat die iranische Armee als Reaktion auf die Angriffe gemacht?",
+            "options": [
+              "Sie hat eine diplomatische Beschwerde eingereicht.",
+              "Sie hat US-Basen in Kuwait mit Drohnen angegriffen.",
+              "Sie hat die Hormuz-Straße für immer geschlossen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was befürchten Experten hinsichtlich des Konflikts?",
+            "options": [
+              "Dass der Konflikt bald enden wird.",
+              "Dass die globale Wirtschaft stark betroffen werden könnte.",
+              "Dass mehr Länder sich dem Konflikt anschließen werden."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "US und Iran tauschen Angriffe aus nach dem Tod von zwei US-Soldaten in Jordanien",
+        "text": "In der Nacht zum Samstag führten die USA erneut Luftangriffe auf Iran durch, die sich auf dessen Küstenüberwachungs- und Luftverteidigungsanlagen konzentrierten, berichteten US-Militärs. Das US Central Command (Centcom) stellte fest, dass die Streitkräfte iranische militärische Fähigkeiten erfolgreich getroffen hatten, während iranische Staatsmedien von einem Angriff auf die Insel Qeshm im Hormus-Golf berichteten. Centcom gab bekannt, dass auch die Revolutionsgarden Irans (IRGC), die für den tödlichen Angriff auf zwei US-Truppen in Jordanien am Freitag verantwortlich sind, ins Visier genommen wurden. Ein weiterer Soldat wird noch vermisst. In Reaktion auf die neuesten Angriffe erklärte die iranische Armee, dass sie Drohnenangriffe auf zwei US-Stützpunkte in Kuwait durchgeführt habe, wie in den Staatsmedien berichtet wurde. In den letzten Tagen haben sowohl die USA als auch Iran ihre Angriffe erhöht, wobei beide Seiten beschuldigt werden, kritische Infrastruktur anzugreifen. Am Samstag teilte Iran mit, dass es \"landesweite Angriffe mit Kamikaze-Drohnen\" auf ein amerikanisches Militärdepot in Camp Udairi und eine andere Basis am Ali-Al-Salem-Luftstützpunkt in Kuwait durchgeführt habe, so die mit den IRGC verbundene Nachrichtenagentur Tasnim. Centcom erklärte, die US-Angriffe, die nun schon die achte Nacht in Folge durchgeführt wurden, seien \"darauf ausgelegt, die Fähigkeit Irans weiter zu schwächen, kommerzielle Schifffahrt im Hormus-Golf zu bedrohen\". Diese Angriffe sollten die Kräfte der IRGC, die am Vorabend Angriffe auf amerikanische Soldaten in Jordanien durchgeführt hatten, \"rasch bestrafen\".",
+        "vocabulary": [
+          {
+            "word": "Luftangriffe",
+            "definition": "Angriffe, bei denen Flugzeuge Bomben abwerfen."
+          },
+          {
+            "word": "Militär",
+            "definition": "Die Streitkräfte eines Landes, die für den Schutz zuständig sind."
+          },
+          {
+            "word": "Angriffe",
+            "definition": "Attacken oder Überfälle auf einen Gegner."
+          },
+          {
+            "word": "Reaktionen",
+            "definition": "Antworten auf ein Ereignis oder eine Situation."
+          },
+          {
+            "word": "Drohnen",
+            "definition": "Unbemannte Flugzeuge, die oft für Überwachungs- oder Angriffszwecke verwendet werden."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was wurde von den USA in der Nacht zum Samstag angegriffen?",
+            "options": [
+              "Die Zivilbevölkerung",
+              "Iranische militärische Anlagen",
+              "Flughäfen in Kuwait"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer wird nach den Angriffen aus Jordanien vermisst?",
+            "options": [
+              "Ein US-Soldat",
+              "Ein iranischer Soldat",
+              "Ein Zivilist"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele US-Soldaten wurden in Jordanien getötet?",
+            "options": [
+              "Einer",
+              "Zwei",
+              "Drei"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "US und Iran intensivieren militärische Auseinandersetzung nach Tod von zwei Soldaten",
+        "text": "Am Samstagabend unternahmen die Vereinigten Staaten eine neue Welle von Luftangriffen gegen iranische Ziele, die vor allem Küstenüberwachungs- und Luftverteidigungssysteme im Visier hatten, so Informationen des US Central Command (Centcom). Laut Militärbehörden gelang es, militärische Kapazitäten des Iran zu beschädigen, während iranische Medien berichteten, dass die Insel Qeshm im Golf von Hormus getroffen worden sei. Centcom erklärte zudem, dass die Revolutionsgarden (IRGC) ausgespäht wurden, da diese für den tödlichen Übergriff auf zwei amerikanische Soldaten in Jordanien am Freitag verantwortlich waren; ein weiterer Soldat bleibt derzeit vermisst. Iran entgegnete daraufhin mit Drohnenangriffen auf zwei US-Basen in Kuwait, so Berichte staatlicher Medien. In den letzten Tagen hatten sowohl Washington als auch Teheran ihre militärischen Aktivitäten gegen das jeweils andere Land erhöht, wobei beide Seiten beschuldigt wurden, gezielt kritische Infrastruktur anzugreifen. Am Samstag meldete Iran, dass es \"umfassende Angriffe mit Kamikaze-Drohnen\" auf eine militärische Einrichtung in Camp Udairi sowie einen weiteren Stützpunkt in der Ali-Al-Salem-Luftwaffenbasis in Kuwait durchgeführt habe. Centcom betonte, dass die US-Angriffe darauf abzielten, die Bedrohung für die kommerzielle Schifffahrt im strategisch wichtigen Hormus-Golf erheblich zu vermindern. Das vollständige Ziel dieser Aktionen bestand auch darin, die Kräfte der IRGC, die die Angriffe auf US-Truppen initiiert hatten, schnell zu bestrafen. Diese Angriffe markierten das Ende einer Woche gesteigerter Feindseligkeiten, in der Washington die Blockade iranischer Häfen erneuerte und Teheran erklärte, die Straße von Hormus sei geschlossen, was zur Auflösung eines vorläufigen Waffenstillstands führte, der erst vor weniger als einem Monat seine erste Anwendung fand.",
+        "vocabulary": [
+          {
+            "word": "intensivieren",
+            "definition": "Stärken oder verschärfen von Aktivitäten."
+          },
+          {
+            "word": "Kapazitäten",
+            "definition": "Die vorhandenen Möglichkeiten oder Fähigkeiten einer Einheit."
+          },
+          {
+            "word": "strategisch",
+            "definition": "Etwas, das mit Planung oder Strategie zu tun hat."
+          },
+          {
+            "word": "Feindseligkeiten",
+            "definition": "Aggressive Handlungen oder Auseinandersetzungen zwischen Ländern."
+          },
+          {
+            "word": "Blockade",
+            "definition": "Das Abblocken von Zugangsmöglichkeiten zu einem Ort."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was war das Hauptziel der US-Luftangriffe?",
+            "options": [
+              "Militärische Kapazitäten des Iran",
+              "Zivile Infrastruktur",
+              "Die iranische Regierung"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie reagierte Iran auf die US-Angriffe?",
+            "options": [
+              "Mit Drohnenangriffen",
+              "Mit diplomatischen Gesprächen",
+              "Mit einer Erklärung"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was wurde von Centcom über die Angriffe gesagt?",
+            "options": [
+              "Sie sollten die Zivilbevölkerung verletzen.",
+              "Sie sollten die Schifffahrt bedrohen.",
+              "Sie sollten militärische Bedrohungen vermindern."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Steigende Spannungen: US-iranische militärische Aktionen nach Tod zweier Soldaten",
+        "text": "Mit einer alarmierenden Intensität setzen die Vereinigten Staaten ihre Luftangriffe auf Iran fort, was als direkte Reaktion auf den tragischen Tod zweier amerikanischer Soldaten in Jordanien gilt. Diese Angriffe, die in der Nacht zu Samstag stattfanden, zielten auf strategisch bedeutende Einrichtungen zur Küstenüberwachung sowie zur Luftverteidigung, was sowohl von der US Central Command (Centcom) als auch von iranischen Medienberichte als schwerwiegende Eskalation interpretiert wird. Während Centcom die erfolgreiche Zerschlagung iranischer Militärkapazitäten bestätigte, postulierte das iranische Staatsfernsehen Angriffe auf die Insel Qeshm im Hormus-Golf. Die militärischen Bewegungen des Iran, inklusive der Drohnenangriffe auf US-Stützpunkte in Kuwait, wurden als klare Demonstration ihrer Entschlossenheit angesehen, ihre Souveränität zu verteidigen. Am Samstag meldete die IRGC, dass sie \"umfassende Angriffe mit Kamikaze-Drohnen\" sowohl gegen ein Orior-System in Camp Udairi als auch gegen die Ali Al Salem-Airbase durchgeführt habe, was die Zweifel an der strategischen Überlegenheit der USA weiter schüren könnte. Angesichts der jüngsten Entwicklungen, die den Weg für eine Rückkehr zu massiven militärischen Feindseligkeiten ebnen könnten, stellte Centcom klar, dass diese Offensive keine unmilitärischen Ziele injiziert, sondern ausschließlich militärische Einrichtungen angreift. Weniger als einen Monat nach dem brüchigen Waffenstillstand steht der Konflikt vor einem point of no return; das Versagen einer dauerhaften Lösung wird durch die verhärten Rhetorik beider Staaten unterstrichen. Der iranische Staatsführer Khamenei kritisierte dabei die USA und erklärte, dass deren \"wiederholte Verstöße\" gegen Abkommen eine schonungslos offensichtliche Wahrheit aufdecken: dass die Unterschrift eines US-Präsidenten keinerlei Glaubwürdigkeit besitze.",
+        "vocabulary": [
+          {
+            "word": "dramatisieren",
+            "definition": "Ein Ereignis übertreiben, um es bedeutender erscheinen zu lassen."
+          },
+          {
+            "word": "Souveränität",
+            "definition": "Die volle politische Unabhängigkeit eines Staates."
+          },
+          {
+            "word": "Ultimatum",
+            "definition": "Eine letzte Aufforderung, bevor Maßnahmen ergriffen werden."
+          },
+          {
+            "word": "Rhetorik",
+            "definition": "Die Verwendung einer Sprache, um Überzeugungen zu beeinflussen."
+          },
+          {
+            "word": "zerschlagen",
+            "definition": "Vernichten oder zerstören, um Macht zu brechen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was äußerte Khamenei über die US-Verträge?",
+            "options": [
+              "Sie sind von hoher Glaubwürdigkeit.",
+              "Sie haben keine Glaubwürdigkeit.",
+              "Sie sind Teil eines Friedensplans."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie wird der aktuelle Konflikt zwischen den USA und Iran beschrieben?",
+            "options": [
+              "Als stagnierend.",
+              "Als vor einem point of no return.",
+              "Als friedlich."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie definiert Centcom die Zielsetzung ihrer Angriffe?",
+            "options": [
+              "Sie greifen zivile Ziele an.",
+              "Sie haben keine spezielle Zielsetzung.",
+              "Sie zielen ausschließlich auf militärische Einrichtungen ab."
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les attaques entre les États-Unis et l'Iran",
+        "text": "Les États-Unis attaquent l'Iran. Ils lancent des frappes aériennes. Les cibles sont les installations militaires. Les soldats américains sont en Jordanie. Deux soldats américains sont morts. Un soldat est toujours disparu. L'Iran répond avec des drones. L'Iran attaque des bases américaines au Koweït. Il y a beaucoup de tensions maintenant. Les deux pays sont en conflit. Les États-Unis et l'Iran ne s'entendent pas. Les civils souffrent aussi. Les attaques continuent chaque nuit.",
+        "vocabulary": [
+          {
+            "word": "attaques",
+            "definition": "Actions pour blesser ou détruire."
+          },
+          {
+            "word": "soldats",
+            "definition": "Personnes qui combattent pour un pays."
+          },
+          {
+            "word": "morts",
+            "definition": "Personnes qui ne vivent plus."
+          },
+          {
+            "word": "drones",
+            "definition": "Avions sans pilote."
+          },
+          {
+            "word": "bases",
+            "definition": "Lieux où se trouvent les soldats."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui attaque l'Iran?",
+            "options": [
+              "L'Iran",
+              "Les États-Unis",
+              "Le Koweït"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de soldats américains sont morts?",
+            "options": [
+              "Un",
+              "Deux",
+              "Trois"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Où est un soldat disparu?",
+            "options": [
+              "En Jordanie",
+              "En Iran",
+              "Aux États-Unis"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Tensions entre les États-Unis et l'Iran",
+        "text": "Les États-Unis ont mené des frappes aériennes contre l'Iran samedi soir. Ces frappes ont touché des installations militaires. Les détails viennent de Centcom, le commandement militaire américain. Deux soldats américains sont morts. Un autre soldat est toujours porté disparu en Jordanie. En réponse, l'Iran a attaqué des bases américaines au Koweït avec des drones. Ce conflit a beaucoup augmenté récemment. Les deux pays s'accusent d'attaques contre des infrastructures importantes. Dimanche, l'Iran a dit qu'il a lancé des attaques massives. Ces frappes américaines visent à protéger la navigation dans le détroit d'Ormuz. Le conflit dure depuis plusieurs semaines et plus de 50 personnes ont été tuées en Iran le mois dernier.",
+        "vocabulary": [
+          {
+            "word": "frappes",
+            "definition": "Attaques aériennes par des avions."
+          },
+          {
+            "word": "soldiers",
+            "definition": "Personnes qui servent dans l'armée."
+          },
+          {
+            "word": "réponse",
+            "definition": "Action après une attaque."
+          },
+          {
+            "word": "infrastructures",
+            "definition": "Structures comme des routes ou des bâtiments."
+          },
+          {
+            "word": "navigation",
+            "definition": "Déplacement dans l'eau avec des bateaux."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand les États-Unis ont-ils attaqué?",
+            "options": [
+              "Samedi soir",
+              "Dimanche matin",
+              "Vendredi soir"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui est responsable des frappes militaires?",
+            "options": [
+              "Centcom",
+              "L'Iran",
+              "Le Koweït"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de personnes ont été tuées en Iran?",
+            "options": [
+              "50",
+              "100",
+              "25"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Conflit croissant entre les États-Unis et l'Iran",
+        "text": "Samedi soir, les États-Unis ont mené une nouvelle série de frappes aériennes contre l'Iran. Ces attaques visaient les capacités militaires et la défense côtière iraniennes. Les responsables militaires américains ont confirmé des frappes réussies, affirmant qu'elles étaient bien ciblées. Cela fait suite à la mort de deux soldats américains en Jordanie vendredi, alors que d'autres sont encore portés disparus. En réponse, l'Iran a mené des attaques de drones sur deux bases américaines au Koweït. Dans les jours récents, les tensions entre les deux pays ont fortement augmenté. Si la situation persiste, cela pourrait mener à un conflit plus large. Les États-Unis et l'Iran s'accusent d'attaques contre des infrastructures. L'Iran a déclaré avoir utilisé des drones kamikazes, qui sont conçus pour se détruire en attaquant. Le but des attaques américaines est de réduire la capacité de l'Iran à frapper la navigation commerciale dans le détroit d'Ormuz, une voie très importante pour le transport de pétrole. Au total, les pertes américaines s'élèvent maintenant à 16. En Iran, au moins 50 personnes ont été tuées et plus de 500 blessées ces trois dernières semaines à cause des frappes. Ces événements mettent en évidence la fragilité de la paix dans la région, et de nombreux experts craignent que la situation ne s'aggrave davantage si les négociations échouent.",
+        "vocabulary": [
+          {
+            "word": "kamikaze",
+            "definition": "Un pilier d'une attaque militaire où les pilotes se crashent intentionnellement dans une cible."
+          },
+          {
+            "word": "infrastructure",
+            "definition": "Les structures ou installations nécessaires au fonctionnement d'une société, comme les routes, les ponts, ou les centrales."
+          },
+          {
+            "word": "tension",
+            "definition": "Une situation de stress ou de conflit entre deux parties."
+          },
+          {
+            "word": "détroit",
+            "definition": "Un passage maritime étroit entre deux terres."
+          },
+          {
+            "word": "dégradé",
+            "definition": "Rendre quelque chose moins efficace ou en moins bon état."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel pays a mené des frappes aériennes contre l'Iran ?",
+            "options": [
+              "L'Iran",
+              "Les États-Unis",
+              "La Jordanie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de soldats américains ont été tués en Jordanie ?",
+            "options": [
+              "Un",
+              "Deux",
+              "Dix"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est l'objectif des frappes américaines mentionnées dans le texte ?",
+            "options": [
+              "Améliorer les relations diplomatiques",
+              "Réduire la capacité de l'Iran à menacer la navigation commerciale",
+              "Protéger les bases militaires uniquement"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Échanges de frappes entre les États-Unis et l'Iran après la mort de deux soldats américains en Jordanie",
+        "text": "Les États-Unis ont mené une nouvelle série de frappes aériennes contre l'Iran, ciblant ses installations côtières de surveillance et de défense aérienne, comme l'ont rapporté des responsables militaires américains. Le Commandement central américain (Centcom) a déclaré que les forces avaient réussi à frapper des capacités militaires iraniennes, tandis que les médias d'État iraniens ont annoncé que l'île Qeshm, dans le détroit d'Ormuz, avait été touchée. Centcom a également confirmé des attaques visant les Gardiens de la Révolution iraniens (IRGC), responsables de l'attaque qui a tué deux soldats américains en Jordanie vendredi, où un autre soldat est toujours porté disparu. En réponse à ces frappes, l'armée iranienne a indiqué avoir mené des attaques de drones sur deux bases américaines au Koweït, selon les médias d'État. Les tensions entre les États-Unis et l'Iran se sont intensifiées ces derniers jours, les deux parties étant accusées de frapper des infrastructures critiques. Samedi, l'Iran a mentionné avoir exécuté des « attaques à grande échelle avec des drones kamikazes » contre un dépôt militaire américain à Camp Udairi et une autre base à Ali Al Salem au Koweït, selon l'agence de presse Tasnim, affiliée aux IRGC. Les frappes américaines, à la huitième nuit consécutive d'attaques, avaient pour but de dégrader la capacité de l'Iran à menacer le transport commercial dans le détroit d'Ormuz. Selon Centcom, elles visaient à punir rapidement les forces des Gardiens de la Révolution islamique qui avaient lancé des attaques contre des membres des forces américaines en Jordanie la nuit précédente. Cela a suivi une semaine d'hostilités renouvelées, au cours de laquelle Washington a réimposé son blocus des ports iraniens, et Téhéran a proclamé la fermeture du détroit d'Ormuz, alors que leur cessez-le-feu préliminaire s'était effondré moins d'un mois après son début. Dans une déclaration antérieure samedi, Centcom a révélé : « Deux membres des forces américaines en Jordanie ont été tués au combat alors que le Commandement central américain et ses forces alliées se défendaient contre des attaques de missiles balistiques et de drones iraniens. De plus, un soldat est actuellement porté disparu. » Le secrétaire à la Défense américain, Pete Hegseth, a réagi à ces décès en publiant sur X : « Que Dieu les protège, héros. Leur sacrifice renforce notre détermination. » Le nombre de morts américains dans ce conflit a maintenant atteint 16, après qu'un pilote de la marine américaine, porté disparu plus tôt ce mois-ci, a été déclaré mort, marquant la seconde augmentation du bilan cette semaine. En Iran, au moins 50 personnes ont été tuées et plus de 500 blessées lors des frappes américaines ces trois dernières semaines, selon le ministère de la Santé du pays. Les États-Unis et l'Iran ont tous deux été accusés de cibler des infrastructures civiles. Les États-Unis ont nié ces accusations, affirmant qu'ils avaient « mené des frappes exclusivement sur des cibles militaires, y compris des infrastructures logistiques militaires », suite à des déclarations iraniennes selon lesquelles des ponts et une station auraient été touchés. Samedi, le Conseil de coopération du Golfe a accusé Téhéran de viser des infrastructures civiles après que le Koweït a signalé que des installations de production d'électricité et de distillation d'eau avaient été frappées. En vertu du droit international, attaquer des civils ou des zones civiles est illégal. Cependant, dans certaines circonstances, des objets civils - comme un pont ou une centrale électrique - perdent leur protection s'ils sont utilisés pour soutenir l'effort de guerre de l'ennemi. Washington et Téhéran avaient conclu un accord préliminaire pour mettre fin à la guerre en juin, mais l'accord s'est effondré en quelques semaines, le président Donald Trump déclarant l'accord « annulé » le 8 juillet. Samedi soir, le leader suprême iranien, Mojtaba Khamenei, a déclaré dans un communiqué écrit que les « violations répétées » de l'accord par l'Amérique avaient « révélé une vérité fondamentale : la signature du président américain est totalement sans valeur et dépourvue de crédibilité.",
+        "vocabulary": [
+          {
+            "word": "frappe",
+            "definition": "action d'attaquer avec des armes"
+          },
+          {
+            "word": "militaire",
+            "definition": "relatif à l'armée"
+          },
+          {
+            "word": "tension",
+            "definition": "état de conflit ou d'hostilité"
+          },
+          {
+            "word": "objectif",
+            "definition": "ce qui est visé ou ciblé"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "structures ou installations importantes pour fonctionner"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a mené des frappes aériennes contre l'Iran?",
+            "options": [
+              "Les États-Unis",
+              "L'Iran",
+              "Le Koweït"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Que sont les Gardiens de la Révolution?",
+            "options": [
+              "Une organisation militaire",
+              "Un groupe de civils",
+              "Un parti politique"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de soldats américains ont été tués en Jordanie?",
+            "options": [
+              "Un",
+              "Deux",
+              "Trois"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Escalade militaire entre les États-Unis et l'Iran suite à la mort de soldats américains en Jordanie",
+        "text": "Dans la nuit de samedi, les États-Unis ont intensifié leurs actions militaires en lançant de nouvelles frappes aériennes sur des installations iraniennes se trouvant sur la côte, responsables de la surveillance maritime et de la défense aérienne, rapportent des sources militaires américaines. Selon le Commandement central américain (Centcom), les opérations ont permis de frapper des capacités militaires iraniennes stratégiques, alors que les médias d'État de Téhéran ont affirmé que l'île Qeshm, située dans le détroit d'Ormuz, avait subi des dommages significatifs. Centcom a précisé que ces attaques visaient les Gardiens de la Révolution, responsables d'une attaque qui a abouti à la mort de deux soldats américains en Jordanie, où un troisième membre du personnel reste introuvable. Face à cette escalade, l'armée iranienne a déclaré avoir riposté par le biais de drones contre deux bases américaines au Koweït, information rapportée par des canaux médiatiques d'État. Les conflits entre les États-Unis et l'Iran se sont intensifiés depuis quelques jours, chaque partie étant pointée du doigt pour des frappes sur des infrastructures critiques. L'Iran a notamment mentionné qu'il avait mené des attaques massives à l'aide de drones kamikazes contre une installation militaire américaine à Camp Udairi et un autre site à la base aérienne d'Ali Al Salem au Koweït, selon l'agence de presse Tasnim, qui est proche des IRGC. Ces frappes, marquant la huitième nuit consécutive d'hostilités, visaient, selon Centcom, à altérer davantage la capacité de l'Iran à menacer le transport commercial dans le détroit d'Ormuz. À ce titre, les frappes auraient pour objectif premier de sanctionner rapidement les forces des IRGC, ayant porté atteinte aux soldats américains en Jordanie la nuit précédente. Cela s'inscrit dans un contexte où les hostilités se sont intensifiées, Washington ayant réinstauré son blocus des ports iraniens alors que Téhéran a proclamé la fermeture du détroit d'Ormuz; un cessez-le-feu préliminaire, signé un mois auparavant, est ainsi tombé à l'eau. Dans une déclaration précédente, Centcom a affirmé : « Deux membres des forces américaines en Jordanie ont été tués en service tandis que nous et nos alliés défendions le territoire face à des attaques de missiles balistiques et de drones iraniens. De plus, un soldat reste introuvable. » En réaction, le secrétaire à la Défense, Pete Hegseth, a exprimé sa tristesse sur X : « Que Dieu veille sur ces héros. Leur sacrifice renforce notre détermination. » Le bilan américain dans ce conflit s'élève désormais à 16, après la déclaration de la mort d'un pilote de la marine, porté disparu plus tôt dans le mois, marquant ainsi l'augmentation du bilan en moins d'une semaine. En parallèle, le bilan des victimes iraniennes est alarmant, avec au moins 50 morts et plus de 500 blessés habituellement signalés en conséquence des frappes américaines en trois semaines. Les deux nations se sont vu accuser de cibler des infrastructures civiles, une accusation que les États-Unis réfutent, arguant avoir mené des actions exclusivement contre des cibles militaires, même si Téhéran évoque des impacts sur des ponts et stations. Le Conseil de coopération du Golfe a également dénoncé des attaques visant des installations civiles suite à des déclarations du Koweït faisant état de frappes sur des centrales électriques et des sites de distillation d'eau. Sous le prisme du droit international, frapper des civils est strictement prohibé. Cependant, certains sites, comme des ponts ou des centrales, peuvent perdre leur statut de zone protégée s'ils servent à soutenir l'effort militaire de l'ennemi. Un accord, qui visait à mettre fin au conflit en juin, a tristement échoué quelques semaines après son adoption, se traduisant par la déclaration du président Trump, le 8 juillet, qui avait déclaré que l'accord était « terminé ». Dans ce climat de méfiance, le chef suprême iranien, Mojtaba Khamenei, a émis une critique acerbe sur le caractère illusoire des promesses américaines, relevant dans un communiqué que les « violations répétées » du pacte haussent un constat amer : « la signature du président américain se révèle non seulement vaine mais indigne de crédibilité. »",
+        "vocabulary": [
+          {
+            "word": "intensifier",
+            "definition": "rendre plus fort, accroître"
+          },
+          {
+            "word": "riposter",
+            "definition": "répondre à une attaque par une attaque"
+          },
+          {
+            "word": "hostilité",
+            "definition": "sentiment d'hostilité ou d'inimitié"
+          },
+          {
+            "word": "bilan",
+            "definition": "total des pertes ou des conséquences d'un événement"
+          },
+          {
+            "word": "stratégique",
+            "definition": "relatif à une stratégie, un plan global"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles installations ont été ciblées par les frappes américaines?",
+            "options": [
+              "Des installations civiles",
+              "Des installations militaires",
+              "Des infrastructures diplomatiques"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel était l'objectif des frappes américaines selon Centcom?",
+            "options": [
+              "Protéger des civils",
+              "Dégrader la capacité de l'Iran",
+              "Renforcer le cessez-le-feu"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a critiqué les promesses américaines?",
+            "options": [
+              "Le président américain",
+              "Le chef suprême iranien",
+              "Le secrétaire à la Défense"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La spirale d'une confrontation entre États-Unis et Iran : deux soldats américains tués et des représailles fulgurantes",
+        "text": "Samedi soir, dans une nouvelle escalade du conflit, les États-Unis ont déclenché une série de frappes aériennes, frappant des installations iraniennes qui jouent un rôle crucial dans la surveillance maritime et la défense aérienne. Selon le Commandement central américain (Centcom), les frappes ont visé des infrastructures militaires stratégiques, tandis que les médias d'État iraniens ont rapporté que l'île Qeshm dans le détroit d'Ormuz avait été touchée. Parallèlement, l'IRGC, responsables de l'attaque ayant causé la mort de deux soldats américains en Jordanie, a été spécifiquement ciblée. En contrepartie de ces actions, l'armée iranienne a, elle, annoncé avoir procédé à des frappes de drones sur deux bases américaines au Koweït, une réponse qui souligne les tensions croissantes. Les récentes attaques montrent que les deux nations s'accusent mutuellement d'avoir frappé des infrastructures critiques. Notamment, lors d'une enquête, l'Iran a affirmé avoir orchestré de \"grandes attaques avec des drones kamikazes\" contre des installations militaires américaines au Koweït, information relayée par des canaux proches des Gardiens de la Révolution. Au fil des jours, les frappes, devenues quasi quotidiennes, visent à démanteler les capacités iraniennes à nuire à la navigation commerciale dans le détroit d'Ormuz. La déclaration de Centcom souligne, en substance, que ces opérations s'inscrivent dans une volonté de sanctionner les forces irakiennes par des mesures de coercition rapides et efficaces, à la suite de leurs actions belliqueuses contre les membres des forces américaines en Jordanie. Cela fait suite à une semaine d'affrontements, dans laquelle les États-Unis ont réimposé un blocus sévère sur les ports iraniens, alors que l'Iran a rétorqué en fermant le détroit d'Ormuz, aboutissant à l'effondrement imminent d'un cessez-le-feu préliminaire, initialement établi un mois auparavant. Centcom, dans une annonce tragique ce samedi, a rapporté que les pertes américaines en Jordanie s'élevaient désormais à deux, alors que leur dispositif défensif avait tenté de parer des attaques de missiles balistiques iraniens. Le secrétaire à la Défense, Pete Hegseth, a exprimé son chagrin sur le réseau social X, affirmant que ces héros méritaient le respect : « Que Dieu les protège, leurs sacrifices confortent notre détermination. » La tragédie humaine dans le contexte de la guerre a suscité des réactions, notamment avec un bilan monté à 16 vies américaines perdues, après qu'un pilote de la marine, porté disparu, a été déclaré mort. De l'autre côté, les chiffres fournis par le ministère iranien de la Santé évoquent des pertes dépassant les cinquante victimes et plus de 500 blessés, suite à des frappes menées par les États-Unis ces trois dernières semaines. Les deux nations s'accusent mutuellement de frapper des cibles civiles, accusations que Washington réfute en assurant que ses opérations ne ciblaient que des infrastructures militaires. Cependant, après des frappes ayant affecté des ponts et des stations, le Conseil de Coopération du Golfe a également mis en lumière l'indignation face aux répercussions sur les infrastructures civiles, après que des sites de production d'eau et d'électricité ont été touchés. Selon le droit international, déférer à la protection des civils est impératif; toutefois, il existe des exceptions qui permettent de réduire cette protection si ces infrastructures sont utilisées à des fins militaires. Précédemment, un accord a été établi en juin pour parvenir à une cessation d'hostilités, accord qui s'est dissous moins d'un mois plus tard, lorsque le président Trump a formellement déclaré que cet accord était « terminé ». Dans un contexte tumultueux, le suprême leader iranien, Mojtaba Khamenei, a amplifié la critique envers les États-Unis, affirmant sans ambiguïté que les \"violations répétées\" de l'accord révélaient une vérité amère : « la signature d'un président américain ne vaut rien ». Cette situation instable présage des répercussions potentiellement catastrophiques pour la région et au-delà.",
+        "vocabulary": [
+          {
+            "word": "spirale",
+            "definition": "mouvement tournant qui se renforce au fil du temps"
+          },
+          {
+            "word": "coercition",
+            "definition": "pression exercée pour obtenir un résultat"
+          },
+          {
+            "word": "affrontement",
+            "definition": "situation où deux parties sont en conflit ouvert"
+          },
+          {
+            "word": "tragédie",
+            "definition": "événement tragique qui cause beaucoup de souffrance"
+          },
+          {
+            "word": "dissoudre",
+            "definition": "mettre fin à quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles installations ont été touchées par les frappes américaines?",
+            "options": [
+              "Installations militaires",
+              "Installations civiles",
+              "Infrastructure économique"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel a été le bilan des États-Unis à la suite des frappes?",
+            "options": [
+              "16 morts",
+              "12 morts",
+              "10 blessés"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a critiqué les promesses américaines dans le contexte de l'accord?",
+            "options": [
+              "Le président américain",
+              "Le suprême leader iranien",
+              "Le secrétaire à la Défense"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Ataques entre EE. UU. e Irán",
+        "text": "El sábado, EE. UU. ataca a Irán. Hay ataques a bases militares en Kuwait. Los ataques son a instalaciones de defensa y vigilancia. Dos soldados de EE. UU. están muertos en Jordania. Otro soldado está perdido. Irán responde con ataques. Atacan bases de EE. UU. en Kuwait. EE. UU. dice que ataca capacidades militares de Irán. La situación es grave. La guerra entre EE. UU. e Irán causa muchos problemas. La gente sufre en ambos países. Muchos civiles están heridos. Las ciudades están dañadas. Todos quieren paz y fin de la guerra.",
+        "vocabulary": [
+          {
+            "word": "militares",
+            "definition": "personas que sirven en el ejército"
+          },
+          {
+            "word": "civiles",
+            "definition": "personas que no son soldados"
+          },
+          {
+            "word": "defensa",
+            "definition": "protección de un país"
+          },
+          {
+            "word": "atacar",
+            "definition": "agredir con fuerza"
+          },
+          {
+            "word": "situación",
+            "definition": "estado o condición actual"
+          },
+          {
+            "word": "paz",
+            "definition": "ausencia de guerra"
+          },
+          {
+            "word": "dañadas",
+            "definition": "afectadas negativamente"
+          },
+          {
+            "word": "capacidades",
+            "definition": "habilidades o recursos disponibles"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde ataca EE. UU. el sábado?",
+            "options": [
+              "A Irán",
+              "A Irak",
+              "A Arabia Saudita"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántos soldados de EE. UU. están muertos?",
+            "options": [
+              "Uno",
+              "Dos",
+              "Tres"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué sufren las personas en ambos países?",
+            "options": [
+              "Descanso",
+              "Paz",
+              "Problemas"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Conflictos recientes entre EE. UU. e Irán",
+        "text": "El sábado por la noche, EE. UU. lanza nuevos ataques aéreos contra Irán. El objetivo son instalaciones militares en la costa de Irán. EE. UU. quiere mejorar su defensa porque hay muchas tensiones en la región. Después del ataque, dos soldados estadounidenses mueren en Jordania. Uno de los soldados está perdido. En respuesta, Irán ataca dos bases de EE. UU. en Kuwait con drones. La tensión aumenta cada día entre ambos países. La semana pasada, comenzó un nuevo conflicto. EE. UU. reimpone bloques a puertos iraníes, y esto complica la situación. Irán dice que cerró el Estrecho de Ormuz, un paso clave para el comercio. Ambos lados acusan al otro de daños a infraestructura crítica. Esta situación es muy preocupante porque muchas personas sufren por la guerra. En Irán, al menos 50 personas mueren y más de 500 están heridas por los ataques de EE. UU. La comunidad internacional pide diálogo para evitar más violencia.",
+        "vocabulary": [
+          {
+            "word": "tensión",
+            "definition": "situación de inestabilidad y conflicto"
+          },
+          {
+            "word": "drones",
+            "definition": "aviones no tripulados usados para ataques"
+          },
+          {
+            "word": "infraestructura",
+            "definition": "construcciones necesarias para el funcionamiento de un país"
+          },
+          {
+            "word": "comercio",
+            "definition": "intercambio de bienes y servicios entre países"
+          },
+          {
+            "word": "bloques",
+            "definition": "restricciones impuestas para limitar actividades"
+          },
+          {
+            "word": "perdido",
+            "definition": "no encontrar, no saber dónde está"
+          },
+          {
+            "word": "ataques",
+            "definition": "ofensas o agresiones en un conflicto"
+          },
+          {
+            "word": "sufren",
+            "definition": "experimentar dolor o problemas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde mueren dos soldados estadounidenses?",
+            "options": [
+              "En Irán",
+              "En Kuwait",
+              "En Jordania"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué cierra Irán en respuesta a los ataques?",
+            "options": [
+              "El Estrecho de Hormuz",
+              "Los puertos",
+              "Las bases militares"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántas personas están heridas por los ataques de EE. UU. en Irán?",
+            "options": [
+              "Más de 100",
+              "Más de 500",
+              "Más de 1000"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Aumento de la violencia entre EE. UU. e Irán",
+        "text": "El sábado pasado, EE. UU. lanzó una serie de ataques aéreos contra Irán. La operación tuvo lugar en instalaciones militares costeras que son importantes para la defensa del país. Según el Comando Central de EE. UU., se atacaron efectivamente capacidades militares iraníes que utilizan en conflictos regionales. Esto se debió a la reciente muerte de dos soldados estadounidenses en Jordania, un evento trágico que intensificó las hostilidades. Además, hay un soldado desaparecido, lo que aumenta la preocupación en EE. UU. Como respuesta, Irán realizó ataques con drones en dos bases estadounidenses en Kuwait. Esta escalada de violencia ha aumentado la tensión entre ambos países en los últimos días, y se teme que continuarán los ataques. Ambos países se acusan mutuamente de atacar infraestructura crítica. Durante la semana pasada, EE. UU. volvió a imponer bloqueos a puertos iraníes, lo que afecta la economía de Irán. En respuesta, Irán ha declarado el cierre del Estrecho de Ormuz, una vía marítima esencial para el comercio mundial. Ambos lados tienen que lidiar con la gran cantidad de bajas. En Irán, al menos 50 personas han muerto en ataques de EE. UU. en las últimas semanas. Este conflicto podría tener consecuencias aún más graves si la situación no se calma pronto, por lo que es crucial que ambos países consideren una solución pacífica para evitar una guerra abierta.",
+        "vocabulary": [
+          {
+            "word": "escala",
+            "definition": "Aumento o incremento en la intensidad o gravedad de algo."
+          },
+          {
+            "word": "infraestructura",
+            "definition": "Estructuras y servicios básicos necesarios para el funcionamiento de una sociedad."
+          },
+          {
+            "word": "bajas",
+            "definition": "Personas que han sido muertas o heridas en un conflicto."
+          },
+          {
+            "word": "atasco",
+            "definition": "Interrupción o bloque en el flujo de algo, como tráfico o comercio."
+          },
+          {
+            "word": "conflicto",
+            "definition": "Lucha o enfrentamiento entre diferentes partes, especialmente entre países."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de instalaciones atacó EE. UU. en Irán?",
+            "options": [
+              "Instalaciones militares",
+              "Escuelas",
+              "Hospitales"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántas personas han muerto en Irán por ataques de EE. UU.?",
+            "options": [
+              "50",
+              "100",
+              "25"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué vía marítima ha cerrado Irán en respuesta a los ataques?",
+            "options": [
+              "El Estrecho de Ormuz",
+              "El Canal de Suez",
+              "El Mar Mediterráneo"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Estados Unidos e Irán intercambian ataques tras la muerte de dos soldados en Jordania",
+        "text": "La noche del sábado, Estados Unidos llevó a cabo otra serie de ataques aéreos contra Irán, dirigidos a sus instalaciones de vigilancia costera y defensa aérea, según informaron oficiales militares estadounidenses. El Comando Central de Estados Unidos (Centcom) afirmó que sus fuerzas impactaron con éxito capacidades militares iraníes, mientras que medios estatales de Irán informaron que la isla Qeshm en el estrecho de Ormuz fue golpeada. Además, Centcom indicó que los ataques estaban dirigidos contra los Guardias Revolucionarios de Irán (IRGC), responsables del ataque que resultó en la muerte de dos soldados estadounidenses en Jordania el viernes. Asimismo, en represalia por los últimos ataques, el ejército iraní proclamó que realizó ataques con drones en dos bases estadounidenses en Kuwait, según medios estatales. Desde hace días, tanto Estados Unidos como Irán han intensificado sus ataques mutuos, donde se les ha acusado de golpear infraestructuras críticas. El sábado, Irán dijo que efectuó \"ataques a gran escala con drones kamikaze\" contra un 'depósito' militar estadounidense en Camp Udairi y otro en la base aérea de Ali Al Salem en Kuwait, según la agencia de noticias Tasnim. El ataque del US se llevó a cabo en la octava noche consecutiva de ataques, siendo \"diseñados para degradar aún más la capacidad de Irán de amenazar la navegación comercial en el estrecho de Ormuz\".",
+        "vocabulary": [
+          {
+            "word": "ataques",
+            "definition": "acciones de agresión o ataque"
+          },
+          {
+            "word": "instalaciones",
+            "definition": "edificios o estructuras para un propósito específico"
+          },
+          {
+            "word": "infraestructura",
+            "definition": "estructuras básicas que soportan un sistema"
+          },
+          {
+            "word": "relato",
+            "definition": "narración o historia sobre un evento"
+          },
+          {
+            "word": "vigilancia",
+            "definition": "acción de observar o supervisar algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué instalaciones atacó Estados Unidos en el ataque del sábado?",
+            "options": [
+              "Instalaciones costeras y de defensa aérea",
+              "Hospitales y escuelas",
+              "Centrales eléctricas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué afirmó el ejército iraní tras los ataques de Estados Unidos?",
+            "options": [
+              "Llevó a cabo ataques aéreos en dos bases estadounidenses",
+              "Se retirará de la región",
+              "Se reunirá con Estados Unidos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántos soldados estadounidenses han muerto en el conflicto hasta ahora?",
+            "options": [
+              "Dos",
+              "Dieciséis",
+              "Cincuenta"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Intensificación del conflicto entre EEUU e Irán tras muertes de soldados en Jordania",
+        "text": "Este sábado, el Comando Central de Estados Unidos (Centcom) llevó a cabo una serie drástica de ataques aéreos, dirigidos contra las instalaciones de vigilancia costera y de defensa aérea en Irán, afirmando que las fuerzas norteamericanas impactaron en capacidades militares críticas. Por otra parte, medios estatales iraníes reportaron que la isla de Qeshm fue hitada. Este operativo militar se lanzó en respuesta a la muerte de dos soldados estadounidenses en Jordania, un ataque que ha dejado a otro miembro del servicio en calidad de desaparecido. En un giro inmediato, Irán, a su vez, anunció haber realizado ataques con drones contra bases estadounidenses localizadas en Kuwait. En este contexto, ambos países han incrementado sus ofensivas en las últimas semanas, con acusaciones mutuas de golpear infraestructuras vitales. El ejército iraní catalogó los ataques como \"de gran escala\" y los llevó a cabo en el marco de una jornada marcada por una creciente violencia. En un comunicado, Centcom declaró que sus ataques buscan \"degradar rápidamente la capacidad de Irán de amenazar la navegación comercial en el estrecho de Ormuz\". Por su parte, el Secretario de Defensa de Estados Unidos, Pete Hegseth, reaccionó a la muerte de los soldados diciendo: \"Que Dios los acompañe, héroes\". A lo largo de tres semanas, el conflicto ha llevado a un saldo de al menos 50 muertes iraníes.",
+        "vocabulary": [
+          {
+            "word": "intensificación",
+            "definition": "aumento de la fuerza o la gravedad de algo"
+          },
+          {
+            "word": "operativo",
+            "definition": "relacionado con operaciones militares"
+          },
+          {
+            "word": "ofensivas",
+            "definition": "ataques o acciones agresivas"
+          },
+          {
+            "word": "declaración",
+            "definition": "afirmación formal o comunicada"
+          },
+          {
+            "word": "naval",
+            "definition": "relacionado con la marina o la guerra en el mar"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué objetivo tenían los ataques de Estados Unidos según Centcom?",
+            "options": [
+              "Degradar la capacidad de Irán en la región",
+              "Atacar a ciudadanos inocentes",
+              "Cerrar el estrecho de Ormuz"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántos soldados estadounidenses han muerto en el conflicto a partir de este artículo?",
+            "options": [
+              "Dieciséis",
+              "Cincuenta",
+              "Tres"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de ataques realizó Irán en respuesta a los ataques de Estados Unidos?",
+            "options": [
+              "Ataques con drones",
+              "Guerra en tierra",
+              "Negociaciones diplomáticas"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Crisis militar entre EE. UU. e Irán: un ciclo de ofensivas tras el asesinato de soldados en Jordania",
+        "text": "La escalada de hostilidades entre Estados Unidos e Irán ha llegado a un nuevo pico tras la trágica muerte de dos soldados estadounidenses en Jordania. En la noche de este sábado, el Comando Central de Estados Unidos (Centcom) orquestó un ataque masivo contra las instalaciones de vigilancia costera y defensa aérea de Irán, considerando que la operación era crítica para limitar la capacidad de dicho país de amenazar la navegación comercial en el estrecho de Ormuz. Los informes sobre el ataque han revelado que las fuerzas estadounidenses lograron impactar de manera efectiva capacidades militares iraníes, mientras que medios estatales de ese país señalaban que la isla Qeshm fue uno de los objetivos alcanzados. En un contrataque imediato, el ejército iraní informó haber llevado a cabo ataques aéreos con drones contra posiciones militares estadounidenses en bases ubicadas en Kuwait. Las acciones provocativas han sido justificadas por ambas partes bajo el manto de la defensa, aunque el trasfondo revela un desequilibrio en la narrativa bélica. El Secretario de Defensa estadounidense, Pete Hegseth, expresó en redes sociales su pesar tras la pérdida, afirmando que el sacrificio de los soldados solo refuerza la determinación de Estados Unidos. La situación, ahora, se complica aún más ante las pérdidas crecientes: a lo largo de tres semanas de enfrentamientos, al menos 50 iraníes han sucumbido ante los ataques aéreos estadounidenses. En este panorama, es pertinente preguntarse si las potencias regionales lograrán desescalar las tensiones antes que la situación derive en un conflicto a gran escala. La comunidad internacional observa con creciente inquietud el devenir de esta crisis, recordando las lecciones aprendidas de enfrentamientos pasados.",
+        "vocabulary": [
+          {
+            "word": "escalada",
+            "definition": "aumento o intensificación de un conflicto"
+          },
+          {
+            "word": "orquestar",
+            "definition": "planificar y dirigir una operación"
+          },
+          {
+            "word": "trasfondo",
+            "definition": "contexto más profundo o oculto de un evento"
+          },
+          {
+            "word": "provocativas",
+            "definition": "acciones diseñadas para provocar o incitar"
+          },
+          {
+            "word": "sucumbir",
+            "definition": "ceder o rendirse frente a una fuerza"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál fue la justificación de EE. UU. para el ataque?",
+            "options": [
+              "Limitar la amenaza a la navegación en el estrecho de Ormuz",
+              "Proteger a los civiles",
+              "Iniciar un diálogo diplomático"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántos iraníes han muerto a causa de los ataques estadounidenses en tres semanas?",
+            "options": [
+              "Cincuenta",
+              "Cien",
+              "Veinte"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué expresó el Secretario de Defensa de EE. UU. tras la muerte de los soldados?",
+            "options": [
+              "Que su sacrificio reforzaría la determinación estadounidense",
+              "Que lamentaba la guerra",
+              "Que buscarían la paz inmediatamente"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  }
+}
