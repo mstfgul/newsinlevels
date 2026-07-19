@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-19-the-discreet-charm-of-the-bourgeoisie-luis-bunuel",
+    "date": "2026-07-19",
+    "director": "Luis Buñuel",
+    "image": "https://image.tmdb.org/t/p/w780/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
+    "titles": {
+      "en": "The Discreet Charm of the Bourgeoisie",
+      "de": "Der diskrete Charme der Bourgeoisie",
+      "fr": "Le Charme discret de la bourgeoisie",
+      "es": "El encanto discreto de la burguesía"
+    }
+  },
+  {
     "id": "2026-07-18-the-commitments-alan-parker",
     "date": "2026-07-18",
     "director": "Alan Parker",

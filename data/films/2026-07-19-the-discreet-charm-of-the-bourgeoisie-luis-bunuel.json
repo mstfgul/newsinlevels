@@ -1,0 +1,1371 @@
+{
+  "id": "2026-07-19-the-discreet-charm-of-the-bourgeoisie-luis-bunuel",
+  "date": "2026-07-19",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/4593"
+  },
+  "originalTitle": "The Discreet Charm of the Bourgeoisie (1972) — Luis Buñuel",
+  "image": "https://image.tmdb.org/t/p/w780/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
+  "category": "film",
+  "film": {
+    "director": "Luis Buñuel",
+    "title": "The Discreet Charm of the Bourgeoisie",
+    "year": "1972",
+    "genres": "Comedy"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Discreet Charm of the Bourgeoisie",
+        "text": "This film is funny and strange. It is about rich friends. They want to eat dinner. But they cannot eat. Many funny things happen. The friends are confused. Their dinner plans are always stopped. The film has nice scenes and music. It shows the life of rich people. The director is Luis Buñuel. He makes unique films. This film is special and playful. It makes people think. Many people like this film.",
+        "vocabulary": [
+          {
+            "word": "dinner",
+            "definition": "a meal in the evening"
+          },
+          {
+            "word": "funny",
+            "definition": "makes you laugh"
+          },
+          {
+            "word": "rich",
+            "definition": "having a lot of money"
+          },
+          {
+            "word": "friends",
+            "definition": "people you like"
+          },
+          {
+            "word": "strange",
+            "definition": "different and unusual"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the friends want to do?",
+            "options": [
+              "eat dinner",
+              "dance",
+              "play games"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the director of the film?",
+            "options": [
+              "Luis Buñuel",
+              "Jean-Claude Carrière",
+              "Fernando Rey"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Are the events in the film logical?",
+            "options": [
+              "Yes",
+              "No",
+              "Not sure"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Discreet Charm of the Bourgeoisie",
+        "text": "The Discreet Charm of the Bourgeoisie is a funny film. It was made in 1972 by a man named Luis Buñuel. In this movie, a group of rich friends wants to have dinner together. However, they cannot eat because many strange things happen. These events are both real and imagined. The film shows the life of rich people in a unique way. The director uses humor and surrealism to tell the story. This means the events in the film are strange and do not always make sense. The movie makes the audience think about society and class. It won many awards, showing that people liked it.  It is a special film for those who enjoy comedy.",
+        "vocabulary": [
+          {
+            "word": "society",
+            "definition": "a group of people living together"
+          },
+          {
+            "word": "awards",
+            "definition": "prizes for doing well"
+          },
+          {
+            "word": "humor",
+            "definition": "funny ideas or jokes"
+          },
+          {
+            "word": "strange",
+            "definition": "different and unusual"
+          },
+          {
+            "word": "unique",
+            "definition": "one of a kind"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the characters want to have?",
+            "options": [
+              "dinner",
+              "lunch",
+              "breakfast"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the director of the film?",
+            "options": [
+              "Luis Buñuel",
+              "Paul Frankeur",
+              "Milena Vukotic"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What style does the film use?",
+            "options": [
+              "comedy",
+              "horror",
+              "sadness"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Discreet Charm of the Bourgeoisie",
+        "text": "The Discreet Charm of the Bourgeoisie is a captivating film made in 1972 by the famous director Luis Buñuel. This movie explores the lives of a group of upper-class friends who plan to have dinner together. However, their attempts are always interrupted by a mix of real and imaginary events, which adds to the film's surreal quality. The storyline is surreal, which means it includes bizarre and unexpected situations that challenge our understanding of reality. Throughout the film, we see how the characters, who are wealthy and seemingly sophisticated, struggle to find meaning in their lives. This raises questions about social class and the absurdity of life, even for those who seem to have everything. The humor is both clever and satirical, making viewers reflect on the nature of bourgeois society. If we think about their experiences, we might understand how the film critiques not just the characters but also the societal norms around them. The film achieved great success and won an Academy Award, highlighting its importance in cinema history. Buñuel's unique style not only gives the film a special charm but also engages audiences by combining striking visuals with thought-provoking themes. This movie is a must-watch for those who appreciate innovative storytelling and social commentary.",
+        "vocabulary": [
+          {
+            "word": "surreal",
+            "definition": "something that is strange or dreamlike, not making sense in a normal way."
+          },
+          {
+            "word": "satirical",
+            "definition": "using humor or irony to criticize something or someone."
+          },
+          {
+            "word": "bourgeoisie",
+            "definition": "the middle class, often associated with materialism or conventional values."
+          },
+          {
+            "word": "absurdity",
+            "definition": "the quality of being ridiculous or unreasonable."
+          },
+          {
+            "word": "narrative",
+            "definition": "the story or account of a series of events."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happens to the characters' attempts to have dinner?",
+            "options": [
+              "They are successful without interruptions.",
+              "They are always interrupted by various events.",
+              "They enjoy a peaceful dinner together."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What award did the film win in 1972?",
+            "options": [
+              "An Oscar for Best Foreign Language Film.",
+              "An Oscar for Best Picture.",
+              "A BAFTA for Best Director."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What aspects of life does the film critique?",
+            "options": [
+              "Only the food they prepare.",
+              "Social class and their lifestyles.",
+              "Their friendships and relationships."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Discreet Charm of the Bourgeoisie",
+        "text": "In Luis Buñuel's unique film, a group of wealthy friends gathers for a dinner that never truly happens. The story opens in a surreal setting where normalities are constantly disrupted. What makes this film particularly intriguing is its sharp critique of bourgeois values, using humor and absurdity to explore serious themes such as social pretensions and the illusions of upper-class life. The characters experience bizarre interruptions that force viewers to question the nature of reality and the boundaries of civility. The cinematography, supported by a playful use of light and shadow, enhances the dream-like quality of the narrative, blending the actual with the imagined. Each scene serves as a darkly comedic commentary on the lives of the affluent, making audiences laugh and reflect simultaneously. This film not only entertains but also invites viewers to examine the deeper meanings behind the absurdity of everyday life, showcasing Buñuel's masterful storytelling. As such, this film holds an important place in cinema history, having won an Academy Award and received significant acclaim for its inventive narrative structure and thematic depth.",
+        "vocabulary": [
+          {
+            "word": "gathers",
+            "definition": "comes together with people"
+          },
+          {
+            "word": "weird",
+            "definition": "strange; unusual"
+          },
+          {
+            "word": "wealthy",
+            "definition": "having a lot of money"
+          },
+          {
+            "word": "absurdity",
+            "definition": "something very silly or unreasonable"
+          },
+          {
+            "word": "commentary",
+            "definition": "an explanation or discussion about something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happens at the gathering in the film?",
+            "options": [
+              "The characters eat dinner.",
+              "The characters never eat.",
+              "The characters sing songs."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who directed The Discreet Charm of the Bourgeoisie?",
+            "options": [
+              "Luis Buñuel",
+              "Jean-Claude Carrière",
+              "Fernando Rey"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the film a critique of?",
+            "options": [
+              "Rich people's lifestyles.",
+              "Animals in nature.",
+              "School systems."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "A Surreal Critique in The Discreet Charm of the Bourgeoisie",
+        "text": "In his 1972 masterpiece, Luis Buñuel intricately weaves a narrative that critiques the absurdities of bourgeois life through a series of surreal, comedic vignettes. The film presents affluent characters set on having a dinner that remarkably never materializes due to a series of bizarre and humorous interruptions. This artistic choice amplifies the film’s exploration of social pretensions and the illusory nature of wealth and sophistication. The visual language of the film is equally compelling; Buñuel employs striking contrasts in lighting and rhythm that lend an unsettling atmosphere, accentuating the surreal elements of the storyline. Each gathering becomes a platform for the characters to reveal their superficiality as they navigate the nonsensical world around them. Furthermore, the film intertwines dreams with reality, blurring the lines in ways that prompt the audience to reflect on the nature of existence and perception. Notably, the film won the Academy Award for Best Foreign Language Film, solidifying Buñuel's legacy as a pioneer of surrealist cinema and enhancing its importance in film history. Overall, The Discreet Charm of the Bourgeoisie remains a thought-provoking journey into the contradictions of the human experience.",
+        "vocabulary": [
+          {
+            "word": "narrative",
+            "definition": "the story or description of events"
+          },
+          {
+            "word": "compelling",
+            "definition": "very interesting and able to attract attention"
+          },
+          {
+            "word": "amplifies",
+            "definition": "increases or makes stronger"
+          },
+          {
+            "word": "surreal",
+            "definition": "strange and dream-like, not real"
+          },
+          {
+            "word": "superficiality",
+            "definition": "the quality of being shallow or lacking depth"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Buñuel critique in the film?",
+            "options": [
+              "The absurdities of wealthy life.",
+              "The environment.",
+              "Children's education."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What kind of atmosphere does the film create?",
+            "options": [
+              "Cheerful and bright.",
+              "Serious and sad.",
+              "Unsettling and strange."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What award did the film win?",
+            "options": [
+              "Best Picture Award.",
+              "Best Foreign Language Film Award.",
+              "Best Director Award."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Discreet Charm of the Bourgeoisie: An Exploration of Absurdity and Class",
+        "text": "Luis Buñuel's The Discreet Charm of the Bourgeoisie is an audacious exploration of the absurdities inherent in the lives of the upper class, intricately blending surrealism with a biting satire that critiques societal norms. The narrative unfolds as a seemingly simple dinner party premise, yet this mundane scenario serves as a catalyst for a series of increasingly bizarre and nonsensical interruptions, compelling viewers to confront the absurdity of existence itself within a socio-economic context. The film's visual aesthetic—with its striking chiaroscuro lighting and playful transitions—immerses the audience in a dreamlike state, raising profound questions about the nature of reality and human perception. Buñuel's deft direction and meticulous dialogue reveal the characters’ vacuousness, showcasing their inability to engage meaningfully with each other or their circumstances. The absurdity escalates as scenes intertwine dreams and reality, destabilizing audience expectations and provoking critical thought. Not merely a comedic endeavor, the film emerges as a timeless reflection on class dynamics and existential ennui, earning Buñuel an Academy Award and solidifying his stature as a master of surrealist cinema. Hence, The Discreet Charm of the Bourgeoisie remains not only a cornerstone of film history but also a profound commentary on the human condition.",
+        "vocabulary": [
+          {
+            "word": "audacious",
+            "definition": "bold and daring; fearless"
+          },
+          {
+            "word": "biting",
+            "definition": "sharp; critical in a way that cuts deep"
+          },
+          {
+            "word": "chiaroscuro",
+            "definition": "contrast between light and dark in art"
+          },
+          {
+            "word": "vacuousness",
+            "definition": "the quality of being empty or lacking meaning"
+          },
+          {
+            "word": "ennui",
+            "definition": "a feeling of boredom or dissatisfaction"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the film critique?",
+            "options": [
+              "Societal norms.",
+              "Nature and animals.",
+              "Sports and games."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How does Buñuel style the film visually?",
+            "options": [
+              "Through bright colors and clear light.",
+              "Using striking contrasts and playful transitions.",
+              "With dark shadows and dull colors."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What major recognition did Buñuel receive for the film?",
+            "options": [
+              "An Academy Award.",
+              "Best Actor Award.",
+              "A Golden Globe."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Der diskrete Charme der Bourgeoisie",
+        "text": "Der Film ist von Luis Buñuel. Er kommt aus Frankreich. Die Geschichte ist interessant. Sechs reiche Freunde wollen zusammen essen. Aber sie essen nie. Viele komische Dinge passieren. Diese Dinge sind sehr lustig. Die Charaktere sind verrückt. Es gibt viele Unterbrechungen. Der Film ist fast surreal. Die Bilder sind schön. Die Farben sind lebhaft. Die Musik ist spannend. Man denkt über das Leben nach. Der Film ist ein Meisterwerk. Viele Menschen lieben diesen Film.",
+        "vocabulary": [
+          {
+            "word": "Film",
+            "definition": "Eine Geschichte auf einem Bildschirm."
+          },
+          {
+            "word": "essen",
+            "definition": "Nahrung aufnehmen."
+          },
+          {
+            "word": "Freunde",
+            "definition": "Menschen, die sich mögen."
+          },
+          {
+            "word": "komisch",
+            "definition": "Lustig oder seltsam."
+          },
+          {
+            "word": "schön",
+            "definition": "Esthetisch ansprechend."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Regisseur?",
+            "options": [
+              "Luis Buñuel",
+              "Jean-Claude Carrière",
+              "Stéphane Audran"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was passiert viel im Film?",
+            "options": [
+              "Es gibt viele Parteiszenen.",
+              "Es passiert viel Lustiges.",
+              "Es gibt viele Kämpfe."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wollen die Freunde essen?",
+            "options": [
+              "Ja, sie wollen essen.",
+              "Nein, sie essen immer.",
+              "Ja, aber sie essen nie."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Der diskrete Charme der Bourgeoisie",
+        "text": "Der Film von Luis Buñuel ist sehr bekannt. Er handelt von sechs reichen Freunden, die aus der französischen Bourgeoisie kommen. Diese Freunde versuchen, zusammen zu essen, aber sie haben viele Probleme beim Dinner. Oft können sie niemals tatsächlich essen, weil immer etwas passiert. Lustige und verrückte Dinge geschehen immer wieder, so dass die Charaktere oft überrascht oder verwirrt sind. Der Film zeigt eine satirische Sicht auf die Bourgeoisie und kritisiert ihr Verhalten und ihre Werte. Die Charaktere wollen fit und elegant bleiben, aber sie scheitern ständig. Viele Szenen sind surreal und komisch. Die Musik und die Bilder unterstützen die Geschichten und machen den Film ansprechend. Der Film hat viele Auszeichnungen gewonnen, weil er tiefgründig ist und Fragen über das Leben und das Verhalten der Menschen aufwirft. Viele Zuschauer denken über die Gesellschaft nach, wenn sie diesen Film sehen, denn er ist nicht nur lustig, sondern auch nachdenklich.",
+        "vocabulary": [
+          {
+            "word": "Bourgeoisie",
+            "definition": "Die wohlhabende und privilegierte Mittelschicht."
+          },
+          {
+            "word": "satirisch",
+            "definition": "Eine Form der Kritik, die humorvoll oder ironisch ist."
+          },
+          {
+            "word": "surreal",
+            "definition": "Unecht oder traumhaft; eine Mischung aus Realität und Fantasie."
+          },
+          {
+            "word": "verwirrt",
+            "definition": "Nicht sicher oder klar über etwas sein."
+          },
+          {
+            "word": " Auszeichnungen",
+            "definition": "Preise oder Ehrungen für besondere Leistungen."
+          },
+          {
+            "word": "Charaktere",
+            "definition": "Die Personen in einem Film oder einer Geschichte."
+          },
+          {
+            "word": "Dinner",
+            "definition": "Ein Abendessen."
+          },
+          {
+            "word": "verhalten",
+            "definition": "Die Art und Weise, wie sich Menschen bennehmen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films?",
+            "options": [
+              "Reiche Freunde, die nicht essen können",
+              "Ein Abenteuer in einem anderen Land",
+              "Die Geschichte einer Familie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer hat den Film gemacht?",
+            "options": [
+              "Jean-Claude Carrière",
+              "Luis Buñuel",
+              "Fernando Rey"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie fühlen sich die Charaktere im Film oft?",
+            "options": [
+              "Lustig und glücklich",
+              "Verwirrt und überrascht",
+              "Traurig und enttäuscht"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Der diskrete Charme der Bourgeoisie",
+        "text": "Luis Buñuels Film, 'Der diskrete Charme der Bourgeoisie', ist ein Meisterwerk des surrealistischen Kinos. Der Film wurde 1972 in Frankreich produziert und zeigt auf humorvolle Weise die Eigenheiten der Bourgeoisie, also der wohlhabenden Mittelschicht. Er erzählt die Geschichte einer Gruppe von sechs wohlhabenden Freunden, die versuchen, gemeinsam zu speisen, aber ständig dabei gestört werden. Diese Unterbrechungen sind oft absurd und komisch, was die Themen von sozialer Kritik und Spott deutlich macht. Wenn die Akteure an ihrem Tisch sitzen, passiert immer etwas Unerwartetes, das die Szenen noch interessanter macht. Die Bourgeoisie wird als unzufrieden und frivol dargestellt, was Fragen über ihren Lebensstil aufwirft. Die verschiedenen Szenen sind thematisch miteinander verbunden. Sie beinhalten reale und fantasiereiche Elemente. Buñuel hat in diesem Film eine beeindruckende visuelle Sprache entwickelt, die durch geschicktes Licht und Schatten unterstützt wird. Die Farben wechseln, um unterschiedliche Stimmungen zu erzeugen. Die Musik, die zur surrealen Atmosphäre beiträgt, verstärkt die emotionale Wirkung der Bilder. Der Film gewann viele Preise, darunter den Oscar für den besten fremdsprachigen Film. Er bleibt ein wichtiger Teil der Filmgeschichte, weil er wichtige Fragen über das Leben und menschliches Verhalten aufwirft. Zum Beispiel wird klar, dass soziale Spaltungen auch in einer vermeintlich harmonischen Gemeinschaft existieren. Dies ist eine wichtige Lektion, die das Publikum mitnehmen sollte.",
+        "vocabulary": [
+          {
+            "word": "Bourgeoisie",
+            "definition": "Die wohlhabende Mittelschicht, die oft an bestimmten gesellschaftlichen Normen und Werten festhält."
+          },
+          {
+            "word": "surrealistisch",
+            "definition": "Ein Stil, der Traumartiges und Absurdes darstellt und die Grenzen der Realität überschreitet."
+          },
+          {
+            "word": "absurd",
+            "definition": "Etwas, das sehr merkwürdig oder unlogisch ist und oft zum Lachen anregt."
+          },
+          {
+            "word": "satirisch",
+            "definition": "Eine Ausdrucksweise, die Ironie oder Spott verwendet, um Kritik zu üben."
+          },
+          {
+            "word": "emotionale Wirkung",
+            "definition": "Die Fähigkeit eines Kunstwerks, starke Gefühle beim Publikum auszulösen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das zentrale Thema des Films?",
+            "options": [
+              "Der Lebensstil der Bourgeoisie",
+              "Die Gesetze in Frankreich",
+              "Die Geschichte eines Maoisten"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wann wurde der Film produziert?",
+            "options": [
+              "1972",
+              "1965",
+              "1980"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Auszeichnung hat der Film gewonnen?",
+            "options": [
+              "Oscar für den besten fremdsprachigen Film",
+              "Kritikerpreis für die beste Regie",
+              "Goldene Palme in Cannes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Der diskrete Charme der Bourgeoisie",
+        "text": "Luis Buñuels 'Der diskrete Charme der Bourgeoisie' ist ein meisterhaftes Werk der surrealistischen Komödie, das die Absurdität des bürgerlichen Lebens beleuchtet. Der Film folgt einer Gruppe von wohlhabenden Freunden, die sich zum Abendessen treffen, wobei ihre Versuche, gemeinsam zu speisen, ständig durch bizarre Ereignisse gestört werden. Diese Störungen sind jedoch nicht nur einfache Hindernisse. Sie stehen symbolisch für die Oberflächlichkeit und die Unfähigkeit der Bourgeoisie, die Realität wahrzunehmen. Obwohl die Charaktere in einer scheinbar logischen Welt leben, sind die Geschehnisse alles andere als rational. Strukturen des täglichen Lebens werden auf den Kopf gestellt, was den Zuschauer zum Nachdenken anregt. Die Kameraarbeit und der kreative Einsatz von Licht verstärken die surrealistische Stimmung des Films, und die Mischung aus Realität und Traum verleiht der Handlung eine hypnotisierende Qualität. Durch seinen scharfen, oft humorvollen Blick auf die Gesellschaft hat Buñuel nicht nur einen kritischen Kommentar zur Bourgeoisie abgegeben, sondern auch einen zeitlosen Klassiker geschaffen, der für seine scharfsinnige Analyse und seinen einzigartigen Stil Anerkennung gefunden hat.",
+        "vocabulary": [
+          {
+            "word": "Bourgeoisie",
+            "definition": "Die reiche, privilegierte Schicht der Gesellschaft"
+          },
+          {
+            "word": "Absurdität",
+            "definition": "Etwas, das keinen Sinn macht"
+          },
+          {
+            "word": "meistern",
+            "definition": "Etwas perfekt machen"
+          },
+          {
+            "word": "kreativ",
+            "definition": "Einfallsreich, originell"
+          },
+          {
+            "word": "hypnotisierend",
+            "definition": "Faszinierend, anziehend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films?",
+            "options": [
+              "Das Leben in der Natur",
+              "Die Absurdität der Bourgeoisie",
+              "Die Bedeutung von Freundschaft"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer ist der Regisseur des Films?",
+            "options": [
+              "Jean-Claude Carrière",
+              "Luis Buñuel",
+              "Fernando Rey"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was passiert während des Abendessens?",
+            "options": [
+              "Die Gäste essen sofort.",
+              "Die Gäste werden ständig gestört.",
+              "Die Gäste tanzen die ganze Zeit."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Der diskrete Charme der Bourgeoisie: Eine surreale Komödie",
+        "text": "In 'Der diskrete Charme der Bourgeoisie' kreiert Luis Buñuel eine außergewöhnliche satirische Reflexion über die Lebensweise der Bourgeoisie. Der Film thematisiert die Ungereimtheiten und den Widerspruch zwischen dem Anspruch auf Eleganz und dem Scheitern an der eigenen Realität. Die Protagonisten, eine Gruppe von wohlhabenden Bürgern, versuchen mehrmals, in einem gehobenen Rahmen zusammen zu essen, doch ihre Vorhaben werden zwangsläufig von surrealen und oft komischen Zwischenfällen unterbrochen. Buñuel gelingt es meisterhaft, die Spannung zwischen Trauma und Alltagserfahrungen in einer hypnotisierenden Bildsprache einzufangen. Die Nutzung des Lichts, das bewusst unrealistisch und dreamlike wirkt, verstärkt die surrealistische Komponente des Films und drängt den Zuschauer, die Grenzen zwischen Realität und Illusion zu hinterfragen. Darüber hinaus stellt die ständige Störung der Essensgatherings einen intelligenten Kommentar über das Scheitern der sozial privilegierten Klasse dar. Der filmische Stil und die kompositorische Präsenz der Charaktere reflektieren nicht nur individuelle Absurditäten, sondern offenbaren auch tiefere gesellschaftliche Fragen. Buñuel demonstriert, dass hinter der Fassade der Gesellschaft oft das Chaos lauert, was auch in der zeitgenössischen Rezeption des Films einen bedeutenden Platz einnimmt.",
+        "vocabulary": [
+          {
+            "word": "Reflexion",
+            "definition": "Nachdenken über ein Thema"
+          },
+          {
+            "word": "Widerspruch",
+            "definition": "Gegensätzliche Aussagen oder Ideen"
+          },
+          {
+            "word": "surrealistisch",
+            "definition": "Träumerisch, unrealistisch"
+          },
+          {
+            "word": "kommentar",
+            "definition": "Erklärung oder Meinung zu einem Thema"
+          },
+          {
+            "word": "kompositorisch",
+            "definition": "Die Kunst des Zusammenstellens"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Element wird im Film besonders thematisiert?",
+            "options": [
+              "Die Liebe",
+              "Die Absurdität des Lebens",
+              "Die Natur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was beschreibt die Bildsprache im Film?",
+            "options": [
+              "Sie ist schlicht und einfach.",
+              "Sie ist surrealistisch und traumschwarz.",
+              "Sie ist typisch für Hollywood."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer hat den Film inszeniert?",
+            "options": [
+              "Jean-Luc Godard",
+              "Luis Buñuel",
+              "Francois Truffaut"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Der diskrete Charme der Bourgeoisie als gesellschaftskritisches Meisterwerk",
+        "text": "Luis Buñuels 'Der diskrete Charme der Bourgeoisie' ist mehr als nur eine Komödie – es ist ein scharfsinniger Kommentar über die Verbohrtheit und Scheinheiligkeit der sozialen Elite. Der Film inszeniert eine Reihe von dinnerhaften Zusammenkünften, deren groteske Unterbrechungen die Absurdität des menschlichen Daseins reflektieren. Während die Charaktere, gefangen in ihren selbstbezogenen Weltanschauungen, den verzweifelten Versuch unternehmen, die Normen ihrer Gesellschaft zu zelebrieren, wird der Zuschauer Zeuge eines umfassenderen Diskurses über Macht, Kontrolle und die Illusion von Ordnung. Buñuels Einsatz von surrealistischen Elementen führt dazu, dass die Grenzen zwischen Realität und Traum regelrecht verschwimmen. Diese Narrative ist nicht nur eine Kritik an der Bourgeoisie, sondern eine Einladung an den Zuschauer, tiefere Wahrheiten über das Leben zu erkunden. Die visuelle Gestaltung, untermalt von einem subtilen Klangteppich, verstärkt den Eindruck einer lebendigen, aber letztlich illusorischen Existenz. In künstlerischer Hinsicht ist der Film ein Zeugnis der avantgardistischen Strömungen der 1970er Jahre und hat sich als Meilenstein des internationalen Kinos etabliert, während es die konventionellen Erzählstrukturen hinterfragt und den Zuschauern in seiner Unberechenbarkeit und Komplexität neue Denkanstöße bietet.",
+        "vocabulary": [
+          {
+            "word": "Verbohrtheit",
+            "definition": "Starrheit, Unfähigkeit zur Selbstkritik"
+          },
+          {
+            "word": "Scheinheiligkeit",
+            "definition": "Heuchelei, falsches Verhalten"
+          },
+          {
+            "word": "abstrakt",
+            "definition": "Allgemein, nicht konkret"
+          },
+          {
+            "word": "avantgardistisch",
+            "definition": "Innovativ, fortschrittlich"
+          },
+          {
+            "word": "Illusion",
+            "definition": "Eine falsche Vorstellung von Realität"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was kritisiert Buñuel in diesem Film?",
+            "options": [
+              "Die Technologie",
+              "Die soziale Elite",
+              "Die Kunstwelt"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie werden Realität und Traum im Film dargestellt?",
+            "options": [
+              "Sie sind klar voneinander getrennt.",
+              "Sie verschwimmen ineinander.",
+              "Sie sind austauschbar."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Stilrichtung zeigt der Film?",
+            "options": [
+              "Historisches Drama",
+              "Surrealismus",
+              "Dokumentarfilm"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Le Charme discret de la bourgeoisie",
+        "text": "C'est un film de Luis Buñuel. Le film est une comédie. Il est sorti en 1972. Il parle de six personnes riches. Ces personnes veulent dîner ensemble. Cette scène est très importante. Mais elles ne peuvent pas manger. Il y a beaucoup d'interruptions. Les événements sont bizarres et drôles. Parfois, il y a des rêves aussi. Les personnages sont amusants et étranges. Ils sont souvent dans des situations comiques. Le film montre des problèmes de la bourgeoisie. C'est un film connu et populaire. Il a gagné un prix important pour le meilleur film étranger.",
+        "vocabulary": [
+          {
+            "word": "dîner",
+            "definition": "un repas du soir"
+          },
+          {
+            "word": "situation",
+            "definition": "un moment ou un endroit particulier"
+          },
+          {
+            "word": "problème",
+            "definition": "une difficulté ou une situation difficile"
+          },
+          {
+            "word": "interruption",
+            "definition": "un arrêt soudain de quelque chose"
+          },
+          {
+            "word": "comique",
+            "definition": "qui fait rire"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le directeur du film?",
+            "options": [
+              "Louis Buñuel",
+              "Jean-Claude Carrière",
+              "Fernando Rey"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de film est 'Le Charme discret de la bourgeoisie'?",
+            "options": [
+              "Un drame",
+              "Une comédie",
+              "Un documentaire"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de personnages principaux sont dans le film?",
+            "options": [
+              "Quatre",
+              "Cinq",
+              "Six"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Le Charme discret de la bourgeoisie",
+        "text": "Le film ‘Le Charme discret de la bourgeoisie’ est une comédie de Luis Buñuel. Il sort en 1972 en France. Dans le film, un groupe de six amis riches veut dîner ensemble dans un restaurant élégant. Mais ils ont beaucoup de problèmes pendant leur repas. Ils ne peuvent jamais manger à cause d'interruptions bizarres et inattendues. Parfois, un personnage rêve et la scène change complètement. Les événements sont étranges et drôles à la fois. Les amis acceptent tout ce qui se passe sans s'énerver. Ce film est important dans l'histoire du cinéma français. Il a gagné plusieurs prix, comme l'Oscar du meilleur film étranger. Les critiques aiment le mélange de réalité et de rêve. Les gens regardent ce film encore aujourd'hui parce qu'il est très original et surprenant. ‘Le Charme discret de la bourgeoisie’ est un classique qui fait réfléchir sur la vie de la bourgeoisie et ses contradictions.",
+        "vocabulary": [
+          {
+            "word": "comédie",
+            "definition": "Un film ou une pièce qui fait rire."
+          },
+          {
+            "word": "amis",
+            "definition": "Des personnes avec qui on a une bonne relation."
+          },
+          {
+            "word": "bizarre",
+            "definition": "Quelque chose d'étrange ou d'inhabituel."
+          },
+          {
+            "word": "interruption",
+            "definition": "Acte de couper quelque chose, comme une conversation."
+          },
+          {
+            "word": "restaurant",
+            "definition": "Un endroit où on peut manger à l'extérieur."
+          },
+          {
+            "word": "élégant",
+            "definition": "Quelque chose de chic ou de très joli."
+          },
+          {
+            "word": "contradiction",
+            "definition": "Une chose qui est en désaccord avec une autre."
+          },
+          {
+            "word": "réflexion",
+            "definition": "L'action de penser à quelque chose en profondeur."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel genre de film est ‘Le Charme discret de la bourgeoisie’ ?",
+            "options": [
+              "Un drame",
+              "Un documentaire",
+              "Une comédie"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Pourquoi les amis ne peuvent-ils pas manger ?",
+            "options": [
+              "À cause de la nourriture",
+              "À cause d'interruptions",
+              "À cause du serveur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "En quelle année le film est-il sorti ?",
+            "options": [
+              "1970",
+              "1972",
+              "1975"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Le Charme discret de la bourgeoisie",
+        "text": "Le Charme discret de la bourgeoisie est une comédie satirique réalisée par Luis Buñuel en 1972. Ce film montre un groupe de bourgeois français qui tente de dîner ensemble. Cependant, leurs projets échouent chaque fois, à cause d'événements inattendus et absurdes. Ces incidents, qu'ils soient réels ou imaginaires, soulignent la nature ridicule de l'aristocratie. Les thèmes de la perception et de la réalité sont présents tout au long du film. Les personnages vivent des situations bizarres, qui illustrent la société et les normes en vigueur à cette époque. Buñuel a connu un grand succès avec ce film grâce à son style visuel unique. Ce style mélange rêve et réalité et il crée une atmosphère intrigante et déroutante. Parfois, des éléments de comédie s'entremêlent avec des moments plus sérieux, ce qui donne au film une profondeur intéressante. Ce chef-d'œuvre a reçu de nombreux prix, comme l'Oscar du meilleur film étranger. De plus, il est considéré comme une œuvre majeure dans l'histoire du cinéma. Sa capacité à faire rire tout en critiquant la bourgeoisie en fait une grande réussite. Beaucoup de cinéastes ont été inspirés par ce film, qui est devenu un classique du cinéma. Les spectateurs qui l’ont vu ont souvent remarqué comment les événements absurdes reflètent les contradictions de leur propre vie.",
+        "vocabulary": [
+          {
+            "word": "bourgeoisie",
+            "definition": "la classe sociale des personnes riches et influentes qui contrôlent une grande partie de la richesse et du pouvoir."
+          },
+          {
+            "word": "absurde",
+            "definition": "quelque chose qui est vraiment irrationnel ou illogique."
+          },
+          {
+            "word": "satirique",
+            "definition": "qui utilise l'humour et l'ironie pour critiquer."
+          },
+          {
+            "word": "intriguant",
+            "definition": "qui attire l'intérêt ou la curiosité."
+          },
+          {
+            "word": "réflexion",
+            "definition": "le fait de penser à quelque chose de manière critique."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé le film ?",
+            "options": [
+              "Jean-Claude Carrière",
+              "Luis Buñuel",
+              "Fernando Rey"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix a remporté le film ?",
+            "options": [
+              "Le César du meilleur film",
+              "L'Oscar du meilleur film étranger",
+              "Le BAFTA du meilleur acteur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels types d'événements sont présents dans le film ?",
+            "options": [
+              "Des événements réalistes",
+              "Des événements imaginaires et absurdes",
+              "Des événements historiques"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Le Charme discret de la bourgeoisie",
+        "text": "Dans ce chef-d'œuvre satirique de Luis Buñuel, intitulé \"Le Charme discret de la bourgeoisie\", un groupe de bourgeois français tente de partager un dîner. Cependant, leurs efforts sont continuellement entravés par des événements étranges et inattendus. Ce film soulève des questions fondamentales sur la nature de la bourgeoisie et la réalité. En effet, Buñuel utilise des éléments surréalistes pour démontrer l'absurdité des conventions sociales. Le ton à la fois comique et critique invite le spectateur à réfléchir sur la société et ses faux-semblants. La mise en scène, avec un rythme délibérément chaotique et des éclairages étudiés, apporte une dimension visuelle fascinante. Bien que les personnages soient pris dans un monde illogique, leurs interactions révèlent souvent des vérités profondes sur l'hypocrisie et l'inauthenticité. Ce film, qui a remporté l'Oscar du meilleur film en langue étrangère, a marqué l'histoire du cinéma par son audace et son originalité. Que vous soyez amateur de comédie ou d'analyse sociale, cette œuvre peut susciter l'intérêt et la réflexion.",
+        "vocabulary": [
+          {
+            "word": "satirique",
+            "definition": "Qui critique la société de manière humoristique."
+          },
+          {
+            "word": "conventions",
+            "definition": "Règles ou traditions dans une société."
+          },
+          {
+            "word": "surréaliste",
+            "definition": "Qui surprend, qui ne suit pas la logique habituelle."
+          },
+          {
+            "word": "interactions",
+            "definition": "Moments où des personnes communiquent entre elles."
+          },
+          {
+            "word": "hypocrisie",
+            "definition": "Quand une personne prétend être ce qu'elle n'est pas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur du film ?",
+            "options": [
+              "Jean-Claude Carrière",
+              "Luis Buñuel",
+              "Fernando Rey"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel genre de film est \"Le Charme discret de la bourgeoisie\" ?",
+            "options": [
+              "Horreur",
+              "Satire",
+              "Documentaire"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix a remporté le film ?",
+            "options": [
+              "Prix du meilleur acteur",
+              "Oscar du meilleur film en langue étrangère",
+              "César du meilleur film"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Le Charme discret de la bourgeoisie : Entre Absurde et Réalité",
+        "text": "\"Le Charme discret de la bourgeoisie\" représente une acuité inégalée dans l'exploration des contradictions de la société bourgeoise, orchestrant une série d'événements à la fois cocasses et déstabilisants. Ce film surréaliste de Luis Buñuel met en scène un ensemble de personnages qui, malgré les tentatives constantes de se retrouver autour d'un dîner, sont interrompus de manière inattendue. Bien qu'il semble à première vue qu'il s'agit d'une simple comédie, l'œuvre aborde des thèmes profonds tels que l'absurdité des normes sociales et l'hypocrisie inhérente à la classe dominante. La direction d'acteurs est particulièrement remarquable ; les performances confèrent une touche d'authenticité aux échanges souvent décalés. Sur le plan visuel, Buñuel joue avec la lumière et les angles de caméra pour accentuer le sentiment d'irréalité. Le film, qui a reçu l'Oscar du meilleur film étranger en 1973, reste emblématique de la critique sociale cinglante caractéristique de Buñuel. Ce chef-d'œuvre ne se limite pas à divertir, mais incite également le spectateur à remettre en question la nature de la réalité et de la perception.",
+        "vocabulary": [
+          {
+            "word": "acuité",
+            "definition": "Clarté et précision de l'esprit."
+          },
+          {
+            "word": "déstabilisants",
+            "definition": "Qui perturbe ou trouble l'équilibre."
+          },
+          {
+            "word": "inhérente",
+            "definition": "Qui appartient de manière naturelle à quelque chose."
+          },
+          {
+            "word": "touche",
+            "definition": "Aspect ou nuance caractéristique."
+          },
+          {
+            "word": "cinglante",
+            "definition": "Aigüe, incisive, qui frappe fort."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal du film ?",
+            "options": [
+              "L'amour",
+              "Les normes sociales",
+              "La guerre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix le film a-t-il remporté ?",
+            "options": [
+              "Oscar du meilleur film étranger",
+              "César du meilleur film",
+              "BAFTA du meilleur acteur"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment est la mise en scène dans le film ?",
+            "options": [
+              "Réaliste et simple",
+              "Cocasse et déstabilisante",
+              "Ennuyeuse et lente"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "L’Art du Satirique dans \"Le Charme discret de la bourgeoisie\"",
+        "text": "\"Le Charme discret de la bourgeoisie\", œuvre emblématique de Luis Buñuel, transcende les limites du cinéma traditionnel en intégrant une critique acerbe de la bourgeoisie à travers le prisme de l'absurde. Le film, par une série d'interruptions burlesques, révèle l'incapacité d'un groupe bourgeois à savourer l'acte aussi anodin que manger. Chaque échec, loin d'être insignifiant, devient un reflet grotesque de l'hypocrisie sociale et des conventions oppressives qui régissent leur existence. La méticulosité avec laquelle Buñuel construit chaque scène, alternant entre des moments de sérieux et des éclats comiques, témoigne d'une maîtrise indéniable de la narration visuelle et des dynamiques interpersonnelles. Par ailleurs, l'accompagnement sonore accentue le décalage entre les aspérités du quotidien et les aspirations illusoires de ses personnages. Tantôt critique acerbe, tantôt poétique, le film nous pousse à questionner notre propre rapport à la réalité, à la fois fascinant et dérangeant. Sa double casquette de satire sociale et d’exploration surréaliste a suscité un intérêt académique durable, consolidant sa place dans le panthéon cinématographique.",
+        "vocabulary": [
+          {
+            "word": "transcende",
+            "definition": "Va au-delà de quelque chose."
+          },
+          {
+            "word": "insignifiant",
+            "definition": "Qui n'a pas d'importance."
+          },
+          {
+            "word": "asperités",
+            "definition": "Éléments difficiles ou désagréables."
+          },
+          {
+            "word": "dynamique",
+            "definition": "Mouvement ou interaction entre des éléments."
+          },
+          {
+            "word": "panthéon",
+            "definition": "Ensemble des figures prestigieuses dans un domaine."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Comment Buñuel critique-t-il la bourgeoisie ?",
+            "options": [
+              "En montrant leur capacité à manger",
+              "Par des événements absurdes",
+              "En faisant des interviews"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel effet les interruptions burlesques ont-elles ?",
+            "options": [
+              "Elles rendent le film ennuyeux",
+              "Elles révèlent des vérités sociales",
+              "Elles n'ont aucune importance"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est la place du film dans le cinéma selon le texte ?",
+            "options": [
+              "Il est oublié",
+              "Il est dans le panthéon cinématographique",
+              "Il est considéré comme un échec"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "El encanto discreto de la burguesía",
+        "text": "Este filme es una comedia. Luis Buñuel es el director. La historia es sobre un grupo de amigos de clase alta. Ellos quieren cenar juntos, pero hay problemas. Las cenas no son normales. Hay interrupciones extrañas. A veces, ellos sueñan con eventos locos. Los amigos son burgueses. El ritmo es divertido y la música es interesante. El color es bonito y brillante. Es un filme famoso. Ganó premios importantes. Es una película de 1972. El filme muestra la vida de los ricos. También critica la falta de sentido de su mundo. Es una mezcla de realidad y fantasía. Los personajes nunca llegan a cenar bien.",
+        "vocabulary": [
+          {
+            "word": "cena",
+            "definition": "comida de la noche"
+          },
+          {
+            "word": "interrupción",
+            "definition": "cuando algo para que otra cosa suceda"
+          },
+          {
+            "word": "música",
+            "definition": "sonido organizado que se escucha"
+          },
+          {
+            "word": "personaje",
+            "definition": "una persona en una historia"
+          },
+          {
+            "word": "sueño",
+            "definition": "imágenes y pensamientos al dormir"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el director de la película?",
+            "options": [
+              "Luis Buñuel",
+              "Fernando Rey",
+              "Jean-Claude Carrière"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de comida quieren hacer los amigos?",
+            "options": [
+              "Desayuno",
+              "Almuerzo",
+              "Cena"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿En qué año se estrenó la película?",
+            "options": [
+              "1950",
+              "1972",
+              "1980"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "El encanto discreto de la burguesía",
+        "text": "El encanto discreto de la burguesía es una película de Luis Buñuel. Este filme es una comedia surrealista y se hace en Francia. La historia comienza con un grupo de amigos que quieren cenar juntos, pero siempre hay problemas. Hay interrupciones y eventos extraños durante las cenas. Los personajes son burgueses y representan la clase alta. La película trata sobre la vida de estos personajes y sus problemas. Además, hay sueños que son muy importantes en la trama. La música acompaña las escenas y hace que la historia sea más divertida. También esta película ganó muchos premios, incluyendo el Oscar a la Mejor Película Extranjera. Es una obra maestra del cine.",
+        "vocabulary": [
+          {
+            "word": "surrealista",
+            "definition": "no real, como un sueño"
+          },
+          {
+            "word": "interrupciones",
+            "definition": "cosas que paran algo"
+          },
+          {
+            "word": "burgueses",
+            "definition": "personas de clase alta"
+          },
+          {
+            "word": "obras maestras",
+            "definition": "muy buenas películas"
+          },
+          {
+            "word": "trama",
+            "definition": "historia de la película"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué año es la película?",
+            "options": [
+              "1950",
+              "1972",
+              "1980"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué representa el grupo de amigos?",
+            "options": [
+              "La clase alta",
+              "Los estudiantes",
+              "Los trabajadores"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de música tiene la película?",
+            "options": [
+              "Música triste",
+              "Música divertida",
+              "Música clásica"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "El encanto discreto de la burguesía",
+        "text": "El encanto discreto de la burguesía, dirigida por Luis Buñuel en 1972, es una comedia surrealista que critica a la clase alta. En este filme, un grupo de amigos burgueses intenta cenar, pero siempre enfrenta obstáculos absurdos y cómicos. Estos eventos extraños reflejan la vida inmobiliaria de la burguesía, que parece perfecta, pero que está llena de contradicciones. En muchas escenas, los personajes discuten temas superficiales mientras que enfrentan situaciones surrealistas. El estilo visual es especialmente llamativo; utiliza colores vivos y una combinación de sonidos que añaden a la atmósfera surrealista. Buñuel juega con la lógica y lo fantástico, creando un ambiente donde los sueños de los personajes se mezclan con la realidad. Si los personajes hubieran tenido un poco más de empatía, tal vez hubieran aprendido a comunicarse mejor. La película fue un gran éxito crítico y ganó varios premios, incluido el Oscar a la Mejor Película Extranjera. Es importante porque muestra cómo la vida de los ricos no es siempre feliz y perfecta. A través de su humor, invita a la reflexión sobre la sociedad y sus valores, y plantea preguntas sobre el sentido de la vida y el materialismo. Los personajes, que son muy superficiales, nos hacen pensar sobre lo que realmente valoramos en nuestra propia vida. Por estas razones, la película es un clásico que ha influido en el cine y la crítica social.",
+        "vocabulary": [
+          {
+            "word": "superficial",
+            "definition": "que no tiene profundidad; poco importante o profundo."
+          },
+          {
+            "word": "materialismo",
+            "definition": "una filosofía que valora más las cosas materiales que las espirituales."
+          },
+          {
+            "word": "empatía",
+            "definition": "la capacidad de entender y compartir los sentimientos de otras personas."
+          },
+          {
+            "word": "surrealista",
+            "definition": "relativo a un movimiento artístico y literario que busca representar lo irracional y lo fantástico."
+          },
+          {
+            "word": "contradicciones",
+            "definition": "situaciones o ideas que se oponen entre sí."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué trata principalmente la película?",
+            "options": [
+              "Es una comedia sobre la vida de la clase alta.",
+              "Es una película de acción.",
+              "Es un drama triste."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué refleja la película sobre la vida de los burgueses?",
+            "options": [
+              "Que es siempre perfecta y feliz.",
+              "Que está llena de contradicciones.",
+              "Que es aburrida y sin sentido."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ganó la película en 1972?",
+            "options": [
+              "Un premio de música.",
+              "El Oscar a la Mejor Película Extranjera.",
+              "Un premio de cinematografía."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "El Encanto Discreto de la Burguesía",
+        "text": "El Encanto Discreto de la Burguesía, dirigido por Luis Buñuel en 1972, es una sátira social que examina las costumbres y comportamientos de la clase alta. La película comienza con un grupo de amigos burgueses que intentan disfrutar de una cena, pero sus intentos son constantemente interrumpidos por eventos absurdos e inesperados. Esta estructura narrativa resalta la incapacidad del grupo para actuar con autenticidad, ya que sus experiencias son una combinación de la realidad y la fantasía. Es importante reflexionar sobre cómo Buñuel utiliza el humor y lo surrealista para cuestionar las normas sociales de su tiempo. La luz, la música y la edición crean un ambiente que convierte lo trivial en lo extraordinario, llevando al espectador a una experiencia casi onírica. Además, el uso del simbolismo y la ironía invita a la reflexión sobre la hipocresía y el vacío de la vida burguesa. Este filme no solo fue un éxito comercial, sino que ganó el Oscar a la Mejor Película de Habla No Inglesa, mostrando su lugar destacado en la historia del cine.",
+        "vocabulary": [
+          {
+            "word": "sátira",
+            "definition": "un tipo de humor que critica algo."
+          },
+          {
+            "word": "burguesía",
+            "definition": "clase social rica y educada."
+          },
+          {
+            "word": "interrupción",
+            "definition": "acto de detener algo."
+          },
+          {
+            "word": "surrealista",
+            "definition": "algo que no es lógico y es raro."
+          },
+          {
+            "word": "simbolismo",
+            "definition": "uso de símbolos para representar ideas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién dirige la película?",
+            "options": [
+              "Luis Buñuel",
+              "Fernando Rey",
+              "Jean-Claude Carrière"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué intenta hacer el grupo de amigos en la película?",
+            "options": [
+              "Cenar",
+              "Bailar",
+              "Cantar"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de humor utiliza Buñuel?",
+            "options": [
+              "Sátira",
+              "Romántico",
+              "Trágico"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "La Crítica Social en El Encanto Discreto de la Burguesía",
+        "text": "En el monumental film de Luis Buñuel, El Encanto Discreto de la Burguesía, se presenta una compleja crítica a la sociedad burguesa a través de una serie de cenas que nunca logran concretarse. Este fracaso reiterado no sólo es cómico, sino que, en un sentido más profundo, revela la futilidad de los deseos de sus protagonistas. Buñuel se asegura de que la mezcla de lo cotidiano con lo absurdo desafíe las expectativas del espectador; este juego narrativo es un reflejo de las contradicciones inherentes en el comportamiento burgués. La atmósfera onírica que se construye gracias a innovadoras técnicas cinematográficas —como el uso de la música y la iluminación— potencia la sensación de irrealidad y desconcierto. La intertextualidad, evidenciada por las referencias sutiles a la política y cultura de la época, permite que la obra trascienda su contexto histórico, convirtiéndose en un comentario atemporal sobre la interrelación entre poder, deseo y frustración. El galardón del Oscar a la Mejor Película Extranjera reafirma su relevancia, tanto estética como crítica, en el vasto panorama del cine mundial.",
+        "vocabulary": [
+          {
+            "word": "monumental",
+            "definition": "algo muy grande o importante."
+          },
+          {
+            "word": "futilidad",
+            "definition": "la falta de valor o importancia."
+          },
+          {
+            "word": "onírico",
+            "definition": "relacionado con los sueños."
+          },
+          {
+            "word": "desconcierto",
+            "definition": "confusión o sorpresa."
+          },
+          {
+            "word": "transcender",
+            "definition": "ir más allá de un límite."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué revela el fracaso de las cenas?",
+            "options": [
+              "La futilidad de los deseos",
+              "El éxito de la burguesía",
+              "La paz en las relaciones"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué técnicas utiliza Buñuel en su película?",
+            "options": [
+              "Música e iluminación",
+              "Solamente diálogos",
+              "Colores intensos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué premio ganó la película?",
+            "options": [
+              "Oscar a la Mejor Película Extranjera",
+              "Oscar a la Mejor Actriz",
+              "BAFTA a la Mejor Música"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "El Encanto Discreto de la Burguesía: Una Obra Maestra de Luis Buñuel",
+        "text": "El Encanto Discreto de la Burguesía, en su espléndido despliegue de surrealismo y sátira, desafía no solo los convencionalismos narrativos, sino que también pone de manifiesto las contradicciones de la vida burguesa con una ironía mordaz. A través de una serie de cenas no consumadas, Buñuel da vida a un microcosmos donde los deseos y frustraciones de un grupo burgués se entrelazan con situaciones inesperadas que oscilan entre lo lógico y lo absurdo. La incapacidad de los personajes para llevar a cabo una simple actividad cotidiana refleja, en un sentido más amplio, la imposibilidad de alcanzar una verdadera conexión interpersonal en un mundo regido por las apariencias. La meticulosa dirección de Buñuel y la sapiente colaboración de Jean-Claude Carrière logran crear un entorno visual y auditivo que estimula una reflexión profunda sobre la naturaleza de la realidad. Este filme, que se alzó con el Oscar a la Mejor Película Extranjera, no apenas es un hito en la filmografía de Buñuel, sino que permanece como un testimonio incisivo de la inadecuación de la burguesía ante los dilemas existenciales que plantea la modernidad. En última instancia, la obra nos invita a cuestionar las dinámicas de poder y deseo, haciendo eco de las inquietudes que aún persisten en nuestra sociedad contemporánea.",
+        "vocabulary": [
+          {
+            "word": "espléndido",
+            "definition": "maravilloso, muy bonito."
+          },
+          {
+            "word": "despliegue",
+            "definition": "exhibición o presentación."
+          },
+          {
+            "word": "frustraciones",
+            "definition": "sentimientos de decepción."
+          },
+          {
+            "word": "meticulosa",
+            "definition": "muy cuidadosa y precisa."
+          },
+          {
+            "word": "incisivo",
+            "definition": "agudo, crítico y directo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué pone de manifiesto la película?",
+            "options": [
+              "Las contradicciones de la vida burguesa",
+              "La felicidad de los personajes",
+              "El éxito social de la burguesía"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué actividad cotidiana no pueden realizar los personajes?",
+            "options": [
+              "Cenar",
+              "Caminar",
+              "Hablar"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dilemas presenta la película?",
+            "options": [
+              "Los dilemas existenciales",
+              "Las relaciones familiares",
+              "El amor romántico"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  }
+}
