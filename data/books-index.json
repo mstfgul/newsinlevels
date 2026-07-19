@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-19-the-idiot-fyodor-dostoevsky",
+    "date": "2026-07-19",
+    "author": "Fyodor Dostoevsky",
+    "image": "https://covers.openlibrary.org/b/id/10249475-L.jpg",
+    "titles": {
+      "en": "The Idiot",
+      "de": "Der Idiot",
+      "fr": "L'Idiot",
+      "es": "El Idiota"
+    }
+  },
+  {
     "id": "2026-07-18-invisible-man-ralph-ellison",
     "date": "2026-07-18",
     "author": "Ralph Ellison",

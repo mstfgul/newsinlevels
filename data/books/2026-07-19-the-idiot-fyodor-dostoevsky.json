@@ -1,0 +1,1386 @@
+{
+  "id": "2026-07-19-the-idiot-fyodor-dostoevsky",
+  "date": "2026-07-19",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Idiot"
+  },
+  "originalTitle": "The Idiot (1869) — Fyodor Dostoevsky",
+  "image": "https://covers.openlibrary.org/b/id/10249475-L.jpg",
+  "category": "book",
+  "book": {
+    "author": "Fyodor Dostoevsky",
+    "title": "The Idiot",
+    "year": "1869"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Idiot",
+        "text": "Lev Myshkin is a young prince. He is good and kind. He comes back to Russia. People think he is an idiot. They do not see his heart and wisdom. He meets many people. Some are good, and some are bad. They are rich or poor. Myshkin tries to help them. He wants to show love. This story is about being good in a hard world. It is not easy, but it is important.",
+        "vocabulary": [
+          {
+            "word": "prince",
+            "definition": "a king's son"
+          },
+          {
+            "word": "good",
+            "definition": "not bad, nice"
+          },
+          {
+            "word": "kind",
+            "definition": "nice to others"
+          },
+          {
+            "word": "people",
+            "definition": "many persons"
+          },
+          {
+            "word": "world",
+            "definition": "the Earth and all life on it"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is Lev Myshkin?",
+            "options": [
+              "A prince",
+              "A king",
+              "A doctor"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do people think of Myshkin?",
+            "options": [
+              "He is wise",
+              "He is an idiot",
+              "He is rich"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Myshkin want to show?",
+            "options": [
+              "Love",
+              "Hate",
+              "Fear"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Idiot",
+        "text": "The Idiot is a novel by Fyodor Dostoevsky. It was first published in 1869. The main character is Prince Lev Myshkin. He is very good and kind. He comes back to Russia after a long time. People see him as an idiot because he is so simple and honest. They do not understand his love for others. In the story, Myshkin meets different people. Some want money and power, while others are nice. The novel shows how society treats a good person. It asks questions about goodness and human nature. Dostoevsky wrote this book during a time of great change in Russia. Readers still find it important today because it talks about heart and morality.",
+        "vocabulary": [
+          {
+            "word": "novel",
+            "definition": "a long book with a story"
+          },
+          {
+            "word": "character",
+            "definition": "a person in a story"
+          },
+          {
+            "word": "honest",
+            "definition": "telling the truth"
+          },
+          {
+            "word": "society",
+            "definition": "a group of people living together"
+          },
+          {
+            "word": "morality",
+            "definition": "ideas about what is right and wrong"
+          }
+        ],
+        "questions": [
+          {
+            "question": "When was The Idiot published?",
+            "options": [
+              "1869",
+              "1870",
+              "1868"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What type of person is Myshkin?",
+            "options": [
+              "Kind and honest",
+              "Rich and powerful",
+              "Cruel and selfish"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the book explore?",
+            "options": [
+              "Goodness and human nature",
+              "Weather and time",
+              "Food and travel"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Idiot",
+        "text": "The Idiot is a novel written by Fyodor Dostoevsky and published in 1869. The story follows Prince Lev Myshkin, a young man whose kindness and goodness set him apart from others. Although he has shown genuine compassion for people, many who meet him mistake his simplicity for foolishness. As he navigates the complexities of society, he meets various characters who reflect different aspects of human nature, including greed, ambition, and love. Dostoevsky's aim was to depict the challenges of being a truly good person in a world full of selfishness. The novel raises important questions about morality, compassion, and how society's expectations often clash with human goodness. Since the book connects with universal themes, many readers still value its exploration of deep ideas. \n\nDostoevsky himself faced personal struggles, such as epilepsy and experiences that deeply affected his view of the world. He has used these experiences to design a narrative that emphasizes true Christian love and kindness, which are often rare in society. If readers consider the conflicts Prince Myshkin encounters, they may find deeper insights into their own lives. Although some critics have remarked on its complex and sometimes disorganized structure, the emotional depth in Dostoevsky's writing encourages readers to think deeply about human behavior, kindness, and our daily choices. Therefore, The Idiot challenges us to reevaluate how we treat those who are genuinely good, and how they can influence us positively.",
+        "vocabulary": [
+          {
+            "word": "guilelessness",
+            "definition": "the quality of being innocent and honest, not deceptive or tricky."
+          },
+          {
+            "word": "chaotic",
+            "definition": "in a state of complete disorder and confusion."
+          },
+          {
+            "word": "ideal",
+            "definition": "a standard or principle to which people aspire."
+          },
+          {
+            "word": "narrative",
+            "definition": "a spoken or written account of connected events; a story."
+          },
+          {
+            "word": "morality",
+            "definition": "principles concerning the distinction between right and wrong or good and bad behavior."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the main character in The Idiot?",
+            "options": [
+              "Lev Myshkin",
+              "Fyodor Dostoevsky",
+              "Joseph Frank"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the novel primarily explore?",
+            "options": [
+              "True Christian love",
+              "Worldly ambition",
+              "Friendship"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What notable personal struggles did Dostoevsky include in the novel?",
+            "options": [
+              "Political issues",
+              "Epilepsy and mock execution",
+              "Financial troubles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Idiot",
+        "text": "In Fyodor Dostoevsky's novel 'The Idiot', we meet Prince Lev Nikolayevich Myshkin, a character whose kindness and innocence starkly contrast with the complex and often harsh realities of 19th-century Russian society. Opening with his return to St. Petersburg after years in a Swiss sanatorium, Myshkin is perceived by many people around him as a fool because of his straightforward nature. However, his purity of heart challenges the moral fabric of those he encounters, bringing their hidden motives into the light. The narrative deeply explores themes of morality, social hypocrisy, and the often painful struggle for connection in a world driven by egoism and ambition. Although some critics deem the structure of the novel chaotic, its raw emotional power and philosophical depth resonate strongly. Dostoevsky's portrayal of Myshkin is not merely a simple depiction of goodness, but an intricate examination of what it means to be 'the positively good and beautiful man' in a flawed universe. This novel remains relevant today, inviting readers to reflect on their values amid a complex, often contradictory world.",
+        "vocabulary": [
+          {
+            "word": "prince",
+            "definition": "a male member of a royal family"
+          },
+          {
+            "word": "kindness",
+            "definition": "the quality of being friendly and generous"
+          },
+          {
+            "word": "innocence",
+            "definition": "lack of experience with evil or wrongdoing"
+          },
+          {
+            "word": "hypocrisy",
+            "definition": "the behavior of pretending to be better than one is"
+          },
+          {
+            "word": "connection",
+            "definition": "a relationship or bond with others"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the main character of the novel?",
+            "options": [
+              "Lev Nikolayevich Myshkin",
+              "Fyodor Dostoevsky",
+              "St. Petersburg"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Myshkin represent in the story?",
+            "options": [
+              "Evil and ambition",
+              "Goodness and simplicity",
+              "Fear and confusion"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why do people think Myshkin is a fool?",
+            "options": [
+              "His high intelligence",
+              "His kindness and innocence",
+              "His wealth and power"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Idiot",
+        "text": "The novel 'The Idiot' by Fyodor Dostoevsky centers around Prince Lev Nikolayevich Myshkin, who, upon returning to St. Petersburg from a prolonged stay in a Swiss sanatorium, embodies an almost miraculous goodness and naïveté. This seemingly simple man is thrust into the dizzying complexities of Russian high society, where his genuine nature starkly contrasts with the ruthless self-interest of those around him. Dostoevsky uses Myshkin’s interactions to interrogate fundamental questions of morality and society, revealing the disturbing ambiguities underpinning human relationships. Despite being perceived as a fool by many, Myshkin’s character challenges the reader to reconsider the nature of wisdom and its often hidden, uncomfortable forms. Critics have noted the novel’s awkward structure and its sporadic narrative flow, which might detract from traditional storytelling; nevertheless, this very strangeness encapsulates the tumultuous human experience. As such, 'The Idiot' not only explores idealism and despair but also resonates deeply with contemporary ethical dilemmas, making it a timeless work that cultivates personal introspection.",
+        "vocabulary": [
+          {
+            "word": "embody",
+            "definition": "to represent or express something in a clear way"
+          },
+          {
+            "word": "naïveté",
+            "definition": "lack of experience or sophistication"
+          },
+          {
+            "word": "interrogate",
+            "definition": "to ask questions in a thorough and detailed way"
+          },
+          {
+            "word": "ambiguity",
+            "definition": "the quality of having more than one meaning or interpretation"
+          },
+          {
+            "word": "cultivate",
+            "definition": "to develop or improve through education or experience"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Myshkin represent in the novel?",
+            "options": [
+              "Goodness and purity",
+              "Wealth and power",
+              "Evil and selfishness"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How do other characters view Myshkin initially?",
+            "options": [
+              "As intelligent and wise",
+              "As a fool and naive",
+              "As a threat"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What important theme does the novel explore?",
+            "options": [
+              "The joy of wealth",
+              "The nature of goodness",
+              "The need for revenge"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Idiot",
+        "text": "In 'The Idiot', Fyodor Dostoevsky grapples with the concept of profound goodness through the character of Prince Lev Nikolayevich Myshkin, whose unvarnished innocence and empathy starkly contrast the often morally convoluted society surrounding him. Returning to St. Petersburg after an extended sojourn abroad for health reasons, Myshkin's very presence raises uncomfortable questions about authenticity and societal values. Dostoevsky seemingly subverts traditional narrative structures; the novel unfolds in an episodic manner, with dialogues that oscillate between the poignant and the absurd, demonstrating the fractures in human understanding and the consequences of ideological purity in a world rife with cynicism. He portrays Myshkin not simply as an idealized version of goodness but as a complex individual whose attributes may lead both to existential illumination and profound tragedy. While the chaotic organization of events can bewilder readers, it serves to exemplify the tumultuous interplay of morality and emotion in human experience. Ultimately, 'The Idiot' invites readers to reflect on the paradoxes of existence and the true essence of love and compassion in the midst of a deeply flawed humanity.",
+        "vocabulary": [
+          {
+            "word": "grapple",
+            "definition": "to engage in a struggle or debate"
+          },
+          {
+            "word": "unvarnished",
+            "definition": "plain and straightforward; without embellishment"
+          },
+          {
+            "word": "oscillate",
+            "definition": "to move back and forth between different states"
+          },
+          {
+            "word": "existential",
+            "definition": "relating to existence or the nature of being"
+          },
+          {
+            "word": "ideological",
+            "definition": "related to a set of beliefs or philosophy"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Myshkin's character raise questions about?",
+            "options": [
+              "Authenticity and societal values",
+              "Wealth and power",
+              "Crime and punishment"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How does Dostoevsky structure the narrative?",
+            "options": [
+              "In a straightforward way",
+              "In an episodic manner",
+              "In a chronological order"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is a key theme in 'The Idiot'?",
+            "options": [
+              "The joy of power",
+              "The paradoxes of existence",
+              "The importance of revenge"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Der Idiot",
+        "text": "Das Buch heißt „Der Idiot“. Es ist von Dostojewski. Der Autor ist aus Russland. Die Geschichte beginnt mit Fürst Myshkin. Er ist gut und freundlich. Viele Menschen denken, er ist dumm. Sie verstehen ihn nicht. Das Buch zeigt sein Leben und seine Probleme. Myshkin hat viele Freunde und Feinde. Er möchte helfen und glücklich sein. Er spricht mit vielen Menschen. Sie sind oft unfreundlich. Manchmal ist er traurig, weil die Menschen nicht verstehen. Myshkin hat auch eine Krankheit. Diese Krankheit ist Epilepsie. Das Buch ist wichtig und interessant. Die Leser lernen viel über die menschliche Natur. Sie sehen die Konflikte in der Gesellschaft.",
+        "vocabulary": [
+          {
+            "word": "Gesellschaft",
+            "definition": "die Gruppe von Menschen in einem Land"
+          },
+          {
+            "word": "Krankheit",
+            "definition": "ein Problem mit der Gesundheit"
+          },
+          {
+            "word": "Leser",
+            "definition": "die Leute, die ein Buch lesen"
+          },
+          {
+            "word": "spricht",
+            "definition": "reden mit jemandem"
+          },
+          {
+            "word": "trifft",
+            "definition": "jemanden sehen oder kennenlernen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist die Hauptfigur im Buch?",
+            "options": [
+              "Fürst Myshkin",
+              "Dostojewski",
+              "Eine Krankheit"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Problem hat Myshkin?",
+            "options": [
+              "Er hat viele Freunde.",
+              "Er hat Epilepsie.",
+              "Er ist unfreundlich."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was lernen die Leser im Buch?",
+            "options": [
+              "Die menschliche Natur.",
+              "Wie man freundlich ist.",
+              "Wie man einen Autor versteht."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Der Idiot",
+        "text": "„Der Idiot“ ist ein Roman von Dostojewski. Er wurde von 1868 bis 1869 in Russland veröffentlicht. Die Geschichte handelt von Fürst Myshkin, einem jungen Mann. Er ist sehr gut, aber viele Leute denken, er ist dumm, weil er oft die falschen Dinge sagt. Myshkin hat ein großes Herz und hilft anderen Menschen. In der Stadt ist er oft allein, weil er anders ist. Dieses Buch zeigt die Probleme von Menschen, die nach Geld und Macht streben. Viele Charaktere wollen Myshkin nicht verstehen, weil sie selbst egoistisch sind. Dostojewski möchte die Frage stellen, was gut und schlecht ist. Er beschreibt auch seine eigenen Sorgen im Leben. Zum Beispiel hatte er mit Krankheiten zu kämpfen. „Der Idiot“ ist ein wichtiges Werk und macht nachdenklich über die Liebe und das Leben. Es zeigt, wie schwer es ist, gut zu sein in einer schlechten Welt.",
+        "vocabulary": [
+          {
+            "word": "Fürst",
+            "definition": "ein junger adliger Mann, ein Prinz"
+          },
+          {
+            "word": "Egoismus",
+            "definition": "das Denken nur an sich selbst"
+          },
+          {
+            "word": "Krankenheit",
+            "definition": "ein Zustand, wenn man nicht gesund ist"
+          },
+          {
+            "word": "Gesellschaft",
+            "definition": "die Menschen, die zusammenleben"
+          },
+          {
+            "word": "Kraft",
+            "definition": "die Fähigkeit, stark zu sein"
+          },
+          {
+            "word": "Idee",
+            "definition": "ein Gedanke oder Konzept"
+          },
+          {
+            "word": "Welt",
+            "definition": "alles, was um uns ist"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde „Der Idiot“ veröffentlicht?",
+            "options": [
+              "1868 bis 1869",
+              "1850 bis 1851",
+              "1900 bis 1901"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist die Hauptfigur in „Der Idiot“?",
+            "options": [
+              "Der Prinz Myshkin",
+              "Der König",
+              "Der Soldat"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum denken andere, dass Myshkin dumm ist?",
+            "options": [
+              "Weil er anders ist",
+              "Weil er reich ist",
+              "Weil er viel spricht"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Der Idiot",
+        "text": "„Der Idiot“ ist ein bedeutender Roman von Fyodor Dostojewski, der zwischen 1868 und 1869 zuerst veröffentlicht wurde. Die Hauptfigur, Fürst Myshkin, ist eine faszinierende Person, die oft in Konfliktsituationen steckt. Er zeigt Güte und Offenheit, die für viele Menschen in seiner Umgebung unverständlich sind. Oft denken die Menschen, die ihn umgeben, dass er intellektuell schwach ist, weil er die Welt nicht durch eine egoistische Linse sieht. Diese Missverständnisse führen dazu, dass verschiedene Charaktere in der Geschichte versuchen, ihn zu manipulieren oder auszunutzen. Dies ist ein zentraler Konflikt, der die Themen der Liebe, Moral und das Verständnis von Intelligenz verstärkt. \n\nDostojewski fragt in diesem Werk, wie eine gute und ehrliche Person in einer solchen Welt leben kann. Er beschreibt nicht nur die inneren Kämpfe von Myshkin, sondern auch die brutalen Wahrheiten der Gesellschaft, die durch Egoismus und Gier geprägt ist. Neben der komplexen Struktur und dem besonderen Schreibstil zieht Dostojewski die Leser mit seinen biografischen Elementen in seinen Bann. Diese Elemente zeigen, dass der Autor selbst in seinem Leben viele innere Kämpfe hatte, einschließlich der Erfahrungen von Epilepsie und Verzweiflung. Es ist wichtig, zu erkennen, dass Dostojewski mit diesem Roman an seine eigenen Ideale von Liebe und Menschlichkeit appelliert. „Der Idiot“ regt zum Nachdenken an und bleibt in der Literatur von großer Bedeutung, da es die Leser dazu auffordert, über die Natur des Menschen nachzudenken.",
+        "vocabulary": [
+          {
+            "word": "Kampf",
+            "definition": "eine Auseinandersetzung oder Schwierigkeit, die man überwinden muss."
+          },
+          {
+            "word": "Egoismus",
+            "definition": "Wenn jemand nur für sich selbst denkt und sich nicht um andere kümmert."
+          },
+          {
+            "word": "Zweifel",
+            "definition": "Unsicherheit oder Skepsis über etwas."
+          },
+          {
+            "word": "Ideale",
+            "definition": "Werte und Vorstellungen, die man für gut oder wünschenswert hält."
+          },
+          {
+            "word": "Missverständnis",
+            "definition": "Wenn man etwas falsch versteht."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde „Der Idiot“ zuerst veröffentlicht?",
+            "options": [
+              "1860-1861",
+              "1868-1869",
+              "1870-1871"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Themen stehen im Mittelpunkt des Romans?",
+            "options": [
+              "Sport und Abenteuer",
+              "Liebe, Moral und Intelligenz",
+              "Kriegsführung und Strategie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Worin liegt die Schwierigkeit für Fürst Myshkin?",
+            "options": [
+              "Er ist stets zufrieden mit sich selbst.",
+              "Die Menschen um ihn herum verstehen ihn nicht.",
+              "Er ist ein reicher Prinz."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Der Idiot",
+        "text": "„Der Idiot“ von Fjodor Dostojewski beleuchtet das innere Leben des Protagonisten, Fürst Lew Nikolajewitsch Myschkin. Zu Beginn der Geschichte kehrt Myschkin nach Russland zurück, nachdem er eine lange Zeit in einer Klinik verbracht hat. Sein offenes Herz und seine unkonventionelle Art stehen im Kontrast zur gesellschaftlichen Realität, die oft von Egoismus und Machtspielen geprägt ist. Dostojewski verfolgt mit diesem Roman die Frage nach dem Guten und Schönen im Menschen und zeigt, was passiert, wenn eine solche Figur in eine zerrissene Welt eintaucht. Der Autor beschreibt nicht nur die Konflikte, die zwischen den Charakteren entstehen, sondern auch die moralischen und spirituellen Herausforderungen, mit denen Myschkin konfrontiert wird. „Der Idiot“ ist ein faszinierendes Experiment über die Möglichkeiten und Grenzen des menschlichen Wesens und stellt die Leser vor die Überlegung, wie weit sie bereit sind, echte Menschlichkeit in einer oft kalten und berechnenden Gesellschaft zu akzeptieren. Diese Fragestellungen sind auch heute noch relevant, denn sie regen den Leser an, über seine eigenen Werte und die Dynamiken in zwischenmenschlichen Beziehungen nachzudenken.",
+        "vocabulary": [
+          {
+            "word": "Rückkehr",
+            "definition": "wenn man an einen Ort zurückkommt"
+          },
+          {
+            "word": "Welt",
+            "definition": "die Erde oder die Gesellschaft, in der wir leben"
+          },
+          {
+            "word": "Konflikt",
+            "definition": "Ein Streit oder ein Problem zwischen Menschen"
+          },
+          {
+            "word": "Egoismus",
+            "definition": "wenn jemand nur an sich selbst denkt"
+          },
+          {
+            "word": "offen",
+            "definition": "ehrlich und freundlich sein"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Hauptcharakter in „Der Idiot“?",
+            "options": [
+              "Lew Nikolajewitsch Myschkin",
+              "Dostojewski",
+              "Ein anderer Protagonist"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist das zentrale Thema des Buches?",
+            "options": [
+              "Die Frage nach Gut und Böse",
+              "Die Machtspiele der Gesellschaft",
+              "Die Handlung einer Kriminalgeschichte"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo verbrachte Myschkin eine lange Zeit?",
+            "options": [
+              "In Russland",
+              "In einer Klinik",
+              "In einer Schule"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Der Idiot von Fjodor Dostojewski",
+        "text": "In „Der Idiot“ wird die ergreifende Geschichte des Fürsten Lew Nikolajewitsch Myschkin entfaltet, der nach einem längeren Aufenthalt in einer Klinik aufgrund seiner gesundheitlichen Probleme in die russische Gesellschaft zurückkehrt. Seine Ankunft enthüllt nicht nur seine bedingungslose Güte und Naivität, sondern stellt auch die grundlegenden ethischen und moralischen Überzeugungen der Menschen in Frage, denen er begegnet. In einer Zeit, die von gesellschaftlicher Unsicherheit und politischem Umbruch geprägt ist, wirft der Roman Licht auf die Widersprüche der menschlichen Natur. Es zeigt sich, dass die Interaktionen Myschkina mit den verschiedenen Charakteren, insbesondere mit der intriganten Nana und dem machthungrigen Rogozhin, das Spannungsfeld der Selbstsucht und des Mitgefühls verdeutlichen. Diese Konflikte offenbaren, inwiefern die ergreifende Darstellung von Myschkina, der als „positiv gut und schön“ beschrieben wurde, die Abgründe der anderen Figuren reflektiert. Dostojewski gelingt es, die innere Zerrissenheit zwischen Idealismus und der rauen Realität der Welt durch seine lebendige und oft irreführende Erzählweise zu illustrieren. Obwohl der Roman in seiner Struktur als chaotisch beschrieben wurde, führt gerade diese Unberechenbarkeit zu einer authentischen und bewegenden Darstellung der menschlichen Erfahrung. Zudem bleibt „Der Idiot“ nicht nur ein Schlüsselwerk der russischen Literatur, sondern fungiert auch als zeitloses Manifest für die Fragwürdigkeit von Menschlichkeit in einer oft bedrückenden Gegenwart. Dies lässt sich auch auf Dostojewskis eigene Lebensumstände zurückführen: Die Konfrontation mit seinen persönlichen Herausforderungen, etwa seiner Epilepsie, wird in der narrative Tiefe des Textes spürbar.",
+        "vocabulary": [
+          {
+            "word": "konfrontieren",
+            "definition": "jemanden oder etwas einer besonderen Herausforderung gegenüberstellen"
+          },
+          {
+            "word": "intrigant",
+            "definition": "jemand, der hinterhältig plant, um persönliche Vorteile zu erlangen"
+          },
+          {
+            "word": "abgründig",
+            "definition": "tief, unergründlich, oft in einem bedeutungsvollen oder bedrückenden Kontext verwendet"
+          },
+          {
+            "word": "unberechenbar",
+            "definition": "nicht voraussehbar, chaotisch"
+          },
+          {
+            "word": "bewegt",
+            "definition": "emotional berührt, oft in einem positiven Sinne"
+          },
+          {
+            "word": "schlüsselfigur",
+            "definition": "eine Person, die für das Verständnis eines Ereignisses oder einer Geschichte entscheidend ist"
+          },
+          {
+            "word": "überzeugungen",
+            "definition": "feste Ansichten oder Meinungen, die oft ethischen oder moralischen Charakter haben"
+          },
+          {
+            "word": "narrative",
+            "definition": "die Struktur oder Art der Erzählung einer Geschichte"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was sind die zentralen Themen des Romans?",
+            "options": [
+              "Die Konfrontation mit persönlicher Unsicherheit.",
+              "Die Beziehung zwischen Idealismus und Realität.",
+              "Die Suche nach persönlichem Gewinn."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welchen Einfluss haben die persönlichen Herausforderungen Dostojewskis auf den Roman?",
+            "options": [
+              "Sie machen die Charaktere interessanter.",
+              "Sie verleihen der Erzählung eine tiefere emotionale Dimension.",
+              "Sie führen zu einer klareren Struktur des Textes."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was beschreibt Dostojewski in Bezug auf Myschkina?",
+            "options": [
+              "Er ist der Inbegriff des Egoismus.",
+              "Er symbolisiert die wahre christliche Liebe.",
+              "Er wird als der klügste Charakter dargestellt."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Der Idiot: Eine tiefgreifende Untersuchung der Menschlichkeit",
+        "text": "In „Der Idiot“ entfaltet Fjodor Dostojewski eine komplexe Narration, die mit der Existenz und der Natur des Guten sowie dessen Rezeption in einer egoistischen Gesellschaft spielt. Der Protagonist, Fürst Lew Nikolajewitsch Myschkin, wird durch seine Kindheitserfahrungen und seinen Aufenthalt in der Klinik zum Inbegriff einer unbefleckten Seele, deren Ankunft in St. Petersburg sowohl Faszination als auch Ablehnung hervorruft. Dostojewski nutzt die Figur Myschkins, um die fragwürdigen Mechanismen menschlicher Beziehungen zu enthüllen und die Spannungen zwischen Idealismus und der bitteren Realität des Lebens in der damaligen russischen Gesellschaft zu hinterfragen. Die narrative Struktur, die oft als chaotisch und unberechenbar wahrgenommen wird, spiegelt jedoch die chaotische Psyche seiner Charaktere wider und verstärkt das Gefühl einer unergründlichen Ungewissheit. Die Reflexion über moralische Dilemmata und die Suche nach wahrer menschlicher Verbundenheit bedingt eine tiefere Auseinandersetzung mit dem Leser, der durch die Lektüre nicht nur an der psychologischen Komplexität teilhat, sondern auch an der zeitlosen Auseinandersetzung mit Fragen nach dem Sinn des Lebens, der Moral und der menschlichen Beziehung. Dostojewski gelingt es, mit diesem Roman ein eindringliches Porträt der Menschheit zu schaffen, das weit über seine Zeit hinausreicht und die Leser heutzutage in einer fortwährend komplexen Welt herausfordert und inspiriert.",
+        "vocabulary": [
+          {
+            "word": "Narration",
+            "definition": "eine erzählerische Darstellung oder Geschichte"
+          },
+          {
+            "word": "Inbegriff",
+            "definition": "das vollendete Beispiel von etwas"
+          },
+          {
+            "word": "fragwürdig",
+            "definition": "zweifelhaft oder problematisch"
+          },
+          {
+            "word": "unergründlich",
+            "definition": "nicht vollständig zu erfassen oder zu verstehen"
+          },
+          {
+            "word": "psychologische Komplexität",
+            "definition": "die vielschichtige innere Struktur von Charakteren"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welche gesellschaftliche Frage wird in „Der Idiot“ behandelt?",
+            "options": [
+              "Die Umweltschutzproblematik",
+              "Die menschliche Natur und Moral",
+              "Die Politik der damaligen Zeit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie wird die Struktur des Romans charakterisiert?",
+            "options": [
+              "Als linear und klar",
+              "Als chaotisch und unberechenbar",
+              "Als einfach und verständlich"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Gefühl weckt Dostojewski durch den Protagonisten Myschkin?",
+            "options": [
+              "Einsamkeit und Verzweiflung",
+              "Faszination und Ablehnung",
+              "Mitgefühl und Freude"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "L'Idiot",
+        "text": "L'Idiot est un livre important de Fyodor Dostoevsky. Il est publié en 1869. C'est l'histoire d'un prince nommé Myshkin. Il est gentil et simple. Myshkin a une grande bonté. Les autres personnages ne l'aiment pas. Ils pensent qu'il est idiot. Mais Myshkin a de bonnes idées. Le livre parle de l'amour et de la vérité. Il montre la lutte entre la bonté et l'égoïsme dans la société. C'est un livre qui est célèbre pour ses thèmes profonds. L'auteur écrit avec passion. Les caractères dans le livre sont très intéressants. Le message de Dostoevsky est toujours important aujourd'hui.",
+        "vocabulary": [
+          {
+            "word": "bonté",
+            "definition": "qualité d'être bon"
+          },
+          {
+            "word": "lutte",
+            "definition": "combat, opposition"
+          },
+          {
+            "word": "intéressant",
+            "definition": "qui attire l'attention"
+          },
+          {
+            "word": "message",
+            "definition": "idée ou information à transmettre"
+          },
+          {
+            "word": "profond",
+            "definition": "qui a beaucoup de sens ou valeur"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le nom du prince dans le livre ?",
+            "options": [
+              "Myshkin",
+              "Dostoevsky",
+              "Joseph Frank"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand est-ce que le livre est publié ?",
+            "options": [
+              "1866",
+              "1869",
+              "1881"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est un des thèmes principaux du livre ?",
+            "options": [
+              "La guerre",
+              "L'amour",
+              "La politique"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "L'Idiot",
+        "text": "L'Idiot est un roman écrit par Fyodor Dostoevsky. Le livre parle d'un prince, Myshkin. Il est très bon et simple. Les autres personnages pensent qu'il est idiot. Mais Myshkin voit la vérité et l'amour. Le roman montre les problèmes de la société. Par exemple, les personnes égoïstes ne comprennent pas Myshkin. L'histoire se passe dans la Russie du 19e siècle. Dostoevsky utilise des idées puissantes dans son écriture. Il questionne la nature humaine et le bien. Ce livre est toujours important. Les lecteurs peuvent réfléchir sur l'amour et la bonté. Dostoevsky a écrit ce roman entre 1868 et 1869. Il voulait montrer comment un homme bon peut souffrir dans une société méchante. Le personnage de Myshkin vit avec des crises d'épilepsie. Cela lui donne un regard différent sur la vie. Il essaie d'aider les autres et de leur montrer la compassion. Myshkin est un homme qui rêve d'un monde meilleur. Le livre finit sans solutions évidentes, ce qui laisse les lecteurs pensifs.",
+        "vocabulary": [
+          {
+            "word": "souffrir",
+            "definition": "ressentir de la douleur ou du chagrin."
+          },
+          {
+            "word": "compassion",
+            "definition": "sentiment de bienveillance envers la souffrance des autres."
+          },
+          {
+            "word": "égoïste",
+            "definition": "qui se préoccupe seulement de soi-même."
+          },
+          {
+            "word": "écrire",
+            "definition": "produire un texte avec un stylo ou un ordinateur."
+          },
+          {
+            "word": "roman",
+            "definition": "une œuvre littéraire de fiction."
+          },
+          {
+            "word": "crise",
+            "definition": "un moment de problème ou de douleur."
+          },
+          {
+            "word": "monde",
+            "definition": "l'ensemble des êtres humains et de leur environnement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand Dostoevsky a-t-il écrit L'Idiot ?",
+            "options": [
+              "Entre 1868 et 1869",
+              "Au 17ème siècle",
+              "Dans les années 1800"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le problème principal de Myshkin dans le roman ?",
+            "options": [
+              "Il est trop égoïste",
+              "Il a des crises d'épilepsie",
+              "Il aime trop les gens"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est la réaction des autres personnages envers Myshkin ?",
+            "options": [
+              "Ils le trouvent sage",
+              "Ils pensent qu'il est idiot",
+              "Ils veulent l'aider"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "L'Idiot",
+        "text": "L'Idiot est un roman écrit par Fyodor Dostoevsky, publié entre 1868 et 1869. L'histoire tourne autour de Lev Nikolayevich Myshkin, un prince connu pour sa bonté extraordinaire et sa naïveté. Myshkin arrive à Saint-Pétersbourg après avoir passé plusieurs années à l'étranger. Dès son arrivée, il rencontre diverses personnes qui jugent sa simplicité et son manque d'expérience. Bien qu'il soit perçu comme un idiot par certains, son intelligence émotionnelle et sa vision de l'amour sont profondes et réfléchies. \n\nDostoevsky explore des thèmes complexes comme la moralité, la nature humaine, et le conflit entre les valeurs traditionnelles et les désirs contemporains. En introduisant un personnage qui incarne le bien, l'auteur pose des questions sur la place de l'individu dans une société souvent égoïste. Myshkin, qui a souvent été en proie à des souffrances, illustre la difficulté d'être pure de cœur dans un monde impitoyable. Le style de Dostoevsky est à la fois riche et parfois difficile, mais il reste captivant pour le lecteur. \n\nCet ouvrage invite à réfléchir sur nos propres idéaux et sur la façon dont les gens perçoivent ceux qui sont différents. Il est vrai que L'Idiot pose des questions essentielles sur le sens de la vie. Les thèmes abordés demeurent pertinents. Ce roman a influencé de nombreux écrivains et penseurs contemporains.",
+        "vocabulary": [
+          {
+            "word": "naïveté",
+            "definition": "Manque d'expérience ou de sophistication, jugement innocent."
+          },
+          {
+            "word": "égoïste",
+            "definition": "Qui ne pense qu'à soi-même, sans se soucier des autres."
+          },
+          {
+            "word": "conflit",
+            "definition": "Lutte ou opposition entre des personnes ou des idées."
+          },
+          {
+            "word": "pur",
+            "definition": "Sans tache, désintéressé, honnête."
+          },
+          {
+            "word": "captivant",
+            "definition": "Qui attire beaucoup l'attention, qui est très intéressant."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le personnage principal de L'Idiot ?",
+            "options": [
+              "Lev Nikolayevich Myshkin",
+              "Fyodor Dostoevsky",
+              "Saint-Pétersbourg"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels thèmes Dostoevsky explore-t-il dans L'Idiot ?",
+            "options": [
+              "La technologie et l'avenir",
+              "La moralité et la nature humaine",
+              "Le voyage et la découverte"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi le roman reste-t-il pertinent aujourd'hui ?",
+            "options": [
+              "Il se concentre sur le passé.",
+              "Il aborde des questions essentielles sur la vie et les idéaux.",
+              "Il ne parle que des événements historiques."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "L'Idiot de Dostoevsky",
+        "text": "Publiée pour la première fois entre 1868 et 1869, \"L'Idiot\" est une œuvre marquante de Fiodor Dostoïevski qui explore des thèmes complexes tels que la bonté, la naïveté et la lutte entre l'innocence et le monde impitoyable des adultes. Le personnage principal, Lev Nikolaïevitch Mychkine, rappelle un idéal de pureté et de générosité. Cependant, sa simplicité et sa franchise sont souvent mal perçues, laissant ses contemporains perplexes. Dans ce contexte social troublé, Dostoïevski introduit un protagoniste qui confronte les égos, les passions et les désirs égoïstes des autres, soulevant des questions profondes sur la nature humaine et les valeurs morales. Bien que certains critiques jugent l'œuvre désordonnée, elle atteint des vérités universelles telles que la notion d'amour chrétien et les abîmes de l'âme humaine. Dostoïevski a lui-même décrit Mychkine comme l'homme bon et beau, véritable essai sur la vertu face aux épreuves.  Il fait aussi référence à ses propres combats personnels, notamment son épilepsie et les humiliations qu'il a subies, ce qui rend l'œuvre d'autant plus poignante. Bien que le roman soit souvent considéré comme une épreuve de la condition humaine, il reste d'une actualité brûlante, nous poussant à nous interroger sur notre propre moralité et notre place dans la société. En effet, comme le dit l'auteur lui-même, bien que certaines parties du texte soient inachevées, son exploration de la bonté demeure frappante et pertinente aujourd'hui.",
+        "vocabulary": [
+          {
+            "word": "bonté",
+            "definition": "Qualité de ce qui est bon, bienveillant."
+          },
+          {
+            "word": "naïveté",
+            "definition": "Simplicité, crédulité, innocence."
+          },
+          {
+            "word": "egoïsme",
+            "definition": "Tendance à ne penser qu'à soi."
+          },
+          {
+            "word": "humanité",
+            "definition": "Caractère humain, ensemble des êtres humains."
+          },
+          {
+            "word": "virtue",
+            "definition": "Qualité morale qui incite à agir bien."
+          },
+          {
+            "word": "contemplatifs",
+            "definition": "Personnes qui observent, réfléchissent profondément."
+          },
+          {
+            "word": "passions",
+            "definition": "Émotions intenses qui influencent le comportement."
+          },
+          {
+            "word": "anxiété",
+            "definition": "État d'inquiétude, d'angoisse."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal de \"L'Idiot\" ?",
+            "options": [
+              "La bonté et la naïveté",
+              "Les voyages et les aventures",
+              "Les sciences et la technologie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment Dostoïevski décrit-il Mychkine ?",
+            "options": [
+              "Un homme réflexif",
+              "Un homme bon et beau",
+              "Un homme avare"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est l'évaluation générale de l'œuvre par Dostoïevski lui-même ?",
+            "options": [
+              "Un succès total",
+              "Inachevée et imparfaite",
+              "Un chef-d'œuvre sans défaut"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "L'Idiot : Un chef-d'œuvre de Dostoïevski",
+        "text": "Dans \"L'Idiot\", publié de manière sérielle entre 1868 et 1869, le célèbre écrivain russe Fiodor Dostoïevski juxtapose la pureté à la cruauté du monde qui l'entoure. À travers le portrait de Lev Nikolaïevitch Mychkine, un prince affligé par une innocence et une bonté inébranlables, l'auteur questionne les notions de moralité et d'amour véritable dans un contexte social rempli de préjugés et d'égoïsme. Dostoïevski, en naviguant à travers des thèmes profonds tels que la spiritualité, la souffrance et les paradoxes de l'humanité, témoigne de ses propres luttes intérieures en intégrant ses expériences personnelles dans l'œuvre. Le choix d'un protagoniste aussi naïf permet une critique acerbe de la société contemporaine, où la méchanceté et l'hypocrisie prédominent. L'art de l'auteur dépasse les conventions littéraires de son temps, présentant une structure narrative complexe qui reflète le désordre de la vie humaine. Par ailleurs, il est intéressant de noter que Dostoïevski, malgré son autodérision, considérait ce roman comme une exploration audacieuse des idéaux chrétiens de compassion. Ce chef-d'œuvre encourage les lecteurs d'aujourd'hui à réfléchir sur la nature de l'humanité et leur propre place dans une société souvent troublée, tout en restant incroyablement pertinent face aux défis contemporains.",
+        "vocabulary": [
+          {
+            "word": "naïf",
+            "definition": "Manquant de sophistication, d'expérience; innocent."
+          },
+          {
+            "word": "hypocrisie",
+            "definition": "Affirmation de principes moraux tout en agissant à l'opposé."
+          },
+          {
+            "word": "paradoxal",
+            "definition": "Qui présente une apparence contradictoire mais peut contenir une vérité cachée."
+          },
+          {
+            "word": "audacieux",
+            "definition": "Avoir le courage de défendre des idées nouvelles."
+          },
+          {
+            "word": "introspection",
+            "definition": "Examen de ses propres pensées et sentiments."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle est la caractéristique principale de Mychkine selon Dostoïevski ?",
+            "options": [
+              "Il est cynique et froid.",
+              "Il incarne la bonté et la naïveté.",
+              "Il est un homme d'affaires à succès."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le but principal de Dostoïevski avec ce roman ?",
+            "options": [
+              "Critiquer le système économique de la Russie.",
+              "Explorer l'amour chrétien dans la société moderne.",
+              "Promouvoir des valeurs politiques."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Dostoïevski se percevait-il par rapport à ce roman ?",
+            "options": [
+              "Il considérait qu'il avait réussi complètement.",
+              "Il pensait qu'il y avait des défauts mais des réussites aussi.",
+              "Il était indifférent aux critiques."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "L'Idiot : La quintessence de Dostoïevski",
+        "text": "À travers \"L'Idiot\", qu'il publie entre 1868 et 1869 dans un format sériel, Fiodor Dostoïevski se propose de traiter de la condition humaine dans toute sa complexité. Ancré dans une Russie en pleine mutation, le roman met en scène Lev Nikolaïevitch Mychkine, dont la bonté inconditionnelle devient un miroir déformant pour les autres. Par des échanges incisifs et des réflexions philosophiques, Dostoïevski explore les interstices de l'âme humaine, dévoilant comment la pureté peut être perçue comme une forme de faiblesse dans un monde dominé par l'intérêt personnel et les passions dévorantes. Le récit, bien qu'il présente une structure narrative hétéroclite, propose une immersion profonde dans les abîmes de l'éthique et de la spiritualité. En la présence constante des épreuves de l'auteur lui-même — tel l'épilepsie —, l'œuvre s'impose comme une méditation sur l'amour chrétien, confrontée aux réalités souvent brutales de la société. Sa capacité à soulever des questions essentielles, tant sur le sens de la vie que sur la nature du mal, fait de \"L'Idiot\" un ouvrage indémodable, essentiel pour toute réflexion sur notre humanité, défiant les époques par sa profondeur intemporelle.",
+        "vocabulary": [
+          {
+            "word": "quintessence",
+            "definition": "essence la plus pure d'une chose"
+          },
+          {
+            "word": "interstices",
+            "definition": "espaces étroits entre des objets"
+          },
+          {
+            "word": "éthique",
+            "definition": "étude du bien et du mal"
+          },
+          {
+            "word": "méditation",
+            "definition": "réflexion profonde"
+          },
+          {
+            "word": "indémodable",
+            "definition": "qui ne se démode jamais"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel idéal humain Dostoïevski traite-t-il dans ce roman ?",
+            "options": [
+              "L'amour conditionnel",
+              "La bonté inconditionnelle",
+              "L'égoïsme"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels défis personnels Dostoïevski inclut-il dans l'histoire ?",
+            "options": [
+              "Des voyages",
+              "L'épilepsie",
+              "L'enfance"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel élément narratif est décrit comme hétéroclite dans le roman ?",
+            "options": [
+              "Sa structure",
+              "Ses personnages",
+              "Son thème"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "El Idiota",
+        "text": "El Idiota es un libro de Fyodor Dostoevsky. La historia comienza con un príncipe joven. Se llama Lev Myshkin. Él es muy bueno y amable. Myshkin regresa a Rusia. Él tiene una condición especial. Muchas personas no entienden su bondad. Piensan que él es tonto. La novela muestra su vida y sus experiencias. Hay personas con problemas y emociones. El libro habla de amor, amistad y la vida en la sociedad. Es un libro importante sobre ser bueno.",
+        "vocabulary": [
+          {
+            "word": "príncipe",
+            "definition": "hombre de la realeza"
+          },
+          {
+            "word": "bueno",
+            "definition": "que hace cosas positivas"
+          },
+          {
+            "word": "bondad",
+            "definition": "ser amable y generoso"
+          },
+          {
+            "word": "entender",
+            "definition": "comprender algo"
+          },
+          {
+            "word": "vida",
+            "definition": "la existencia de una persona"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el protagonista de la historia?",
+            "options": [
+              "Un príncipe",
+              "Un rey",
+              "Un ladrón"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo es Lev Myshkin?",
+            "options": [
+              "Es malo",
+              "Es bueno",
+              "Es viejo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde regresa Myshkin?",
+            "options": [
+              "A Alemania",
+              "A Rusia",
+              "A Francia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "El Idiota",
+        "text": "El Idiota es una novela escrita por Fyodor Dostoevsky en 1869. El libro cuenta la historia de Lev Myshkin, un joven príncipe con un corazón puro. Él es muy bueno y no tiene malicia. A pesar de esto, muchas personas creen que él es tonto porque no comprende la hipocresía de la sociedad. Myshkin regresa a Rusia después de un tiempo en Suiza, y su bondad provoca muchas reacciones en la sociedad, tanto positivas como negativas. La novela explora temas como la bondad, el amor y las relaciones humanas. También muestra las dificultades de ser una persona buena en un mundo difícil donde el egoísmo es común. La obra sigue siendo relevante hoy en día porque habla de la lucha entre el bien y el mal, y las decisiones difíciles que deben tomar las personas. Muchas personas hoy también sufren por ser buenos en una sociedad que a menudo recompensa lo contrario.",
+        "vocabulary": [
+          {
+            "word": "bondad",
+            "definition": "cualidad de ser bueno"
+          },
+          {
+            "word": "malicia",
+            "definition": "intención de hacer daño a otros"
+          },
+          {
+            "word": "relaciones",
+            "definition": "conexiones entre personas"
+          },
+          {
+            "word": "egoísmo",
+            "definition": "preocupación excesiva por uno mismo"
+          },
+          {
+            "word": "hipocresía",
+            "definition": "fingir tener creencias que no se tienen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el personaje principal de la novela?",
+            "options": [
+              "Lev Myshkin",
+              "Fyodor Dostoevsky",
+              "La sociedad rusa"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué provoca la bondad de Myshkin en la sociedad?",
+            "options": [
+              "Reacciones positivas",
+              "Reacciones negativas",
+              "Ambas reacciones"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Cuál es uno de los temas centrales de la novela?",
+            "options": [
+              "La riqueza",
+              "La lucha entre el bien y el mal",
+              "El aburrimiento"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "El Idiota",
+        "text": "El Idiota es una obra literaria de Fyodor Dostoevsky, publicada en 1869. La historia se centra en Lev Nikolayevich Myshkin, un joven príncipe que regresa a Rusia tras una larga enfermedad. Myshkin es un hombre con una gran bondad, que siempre actúa con sinceridad. Sin embargo, su pureza es malinterpretada por otros personajes que lo consideran ingenuo. En la novela, Dostoevsky examina cómo una persona buena puede ser despreciada en una sociedad llena de egoísmo y ambición. La vida en Rusia en el siglo XIX estaba marcada por la lucha de clases y el conflicto moral. Los personajes que rodean a Myshkin representan estos conflictos y sus pasiones. Cada personaje tiene su propia lucha y, a menudo, muestran comportamientos egoístas que contrastan con la bondad de Myshkin. A través de esta obra, el autor plantea preguntas sobre la naturaleza humana, la moralidad y el amor verdadero. La historia de Myshkin es un reflejo de las dificultades que enfrenta quien intenta ser bueno en un mundo complicado y a veces cruel. Estos temas son eternos y siguen resonando en el mundo moderno. La novela es un reto por su estructura, pero al mismo tiempo, es muy enriquecedora para los lectores que buscan profundizar en la moralidad y los valores humanos.",
+        "vocabulary": [
+          {
+            "word": "egoísmo",
+            "definition": "Comportamiento que se caracteriza por pensar solo en uno mismo y no en los demás."
+          },
+          {
+            "word": "bondad",
+            "definition": "Cualidad de ser bueno y amable."
+          },
+          {
+            "word": "pasiones",
+            "definition": "Sentimientos intensos que una persona puede tener."
+          },
+          {
+            "word": "moralidad",
+            "definition": "Principios que determinan lo que es bueno o malo."
+          },
+          {
+            "word": "crueldad",
+            "definition": "Comportamiento que causa sufrimiento a otros."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué trata principalmente 'El Idiota'?",
+            "options": [
+              "La vida de un príncipe bueno.",
+              "Un conflicto entre diferentes clases sociales.",
+              "La historia de un guerrero famoso."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál es la característica principal de Myshkin?",
+            "options": [
+              "Es rico y poderoso.",
+              "Es bondadoso y sincero.",
+              "Es egoísta y cruel."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué examina Dostoevsky en esta novela?",
+            "options": [
+              "El amor entre los personajes.",
+              "La moralidad en una sociedad egoísta.",
+              "Las guerras del siglo XIX."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "El idiota de Dostoyevski",
+        "text": "El idiota, una obra de Fyodor Dostoyevski publicada entre 1868 y 1869, presenta la vida de Lev Nikolayevich Myshkin, un príncipe cuyos valores y comprensión del mundo contrastan con la hipocresía y egoísmo de la sociedad que lo rodea. Aunque es considerado 'idiota' por su bondad y simplicidad, el personaje encarna una visión ideal de la humanidad, confrontando a otros personajes que a menudo carecen de empatía. A lo largo de la novela, se exploran las complejidades de la moral y la espiritualidad, así como la lucha entre el bien y el mal en un contexto social complicado. La narrativa incluye elementos autobiográficos del autor, planteando cuestiones sobre la naturaleza del amor cristiano y la capacidad humana para el sufrimiento. A pesar de la crítica hacia su estructura algo caótica, muchos consideran que El idiota es una obra maestra por su profundidad emocional. Al leerlo, los lectores son invitados a reflexionar sobre las dificultades de ser un hombre bueno en un mundo lleno de egoísmo.",
+        "vocabulary": [
+          {
+            "word": "bondad",
+            "definition": "calidad de ser amable y generoso"
+          },
+          {
+            "word": "egoísmo",
+            "definition": "interés solo en uno mismo"
+          },
+          {
+            "word": "complejidades",
+            "definition": "las cosas que son difíciles de entender"
+          },
+          {
+            "word": "narrativa",
+            "definition": "relato de una historia"
+          },
+          {
+            "word": "conflictos",
+            "definition": "luchas o problemas entre personas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el personaje principal de la novela?",
+            "options": [
+              "Lev Nikolayevich Myshkin",
+              "Fyodor Dostoyevski",
+              "La sociedad rusa"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué valores se destacan en el personaje Myshkin?",
+            "options": [
+              "Bondad y simplicidad",
+              "Egoísmo y ambición",
+              "Inteligencia y manipulación"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué crítica recibe el príncipe Myshkin de la sociedad?",
+            "options": [
+              "Es considerado un tonto",
+              "Se le respeta mucho",
+              "Es visto como un líder"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "La complejidad humana en El idiota",
+        "text": "El idiota, escrito por Fyodor Dostoyevski y publicado en 1869, constituye una reflexión profunda acerca de la integridad del ser humano frente a los imperativos de una sociedad egoísta y materialista. A través de la figura del príncipe Lev Myshkin, un personaje que privatiza la bondad en un mundo hostil, Dostoyevski desafía las convenciones del género novelístico al incorporar experiencias personales, como sus sufrimientos por la enfermedad y la reclusión. La obra plantea preguntas sobre la moralidad, el verdadero amor y la interacción social, poniendo en tela de juicio la aparente incompetencia de Myshkin como una forma de sabiduría que desarma a quienes le rodean. Aunque la estructura narrativa del libro presenta momentos de disteria y dispersión, este enfoque no hace sino acentuar la tragedia inherente a la lucha del protagonista. La obra invita al lector a considerar la lucha entre el ideal y la realidad mientras explora sus temas filosóficos en un contexto histórico fascinante y revelador.",
+        "vocabulary": [
+          {
+            "word": "integridad",
+            "definition": "moralmente completo, sin corrupción"
+          },
+          {
+            "word": "desafía",
+            "definition": "retar, provocar a alguien"
+          },
+          {
+            "word": "sabiduría",
+            "definition": "conocimiento profundo basado en la experiencia"
+          },
+          {
+            "word": "dispersión",
+            "definition": "división y falta de concentración"
+          },
+          {
+            "word": "tragedia",
+            "definition": "representación de eventos muy tristes o dolorosos"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué representa el personaje de Myshkin en la novela?",
+            "options": [
+              "La bondad en un mundo hostil",
+              "El egoísmo y la ambición",
+              "La inteligencia extrema"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué personal enfrenta Dostoyevski al redactar esta obra?",
+            "options": [
+              "Su sufrimiento por la enfermedad",
+              "La riqueza de su familia",
+              "La fama como autor"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tensión explora la novela?",
+            "options": [
+              "El ideal vs. la realidad",
+              "La risa vs. el llanto",
+              "El pasado vs. el futuro"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Lecciones de humanidad en El idiota",
+        "text": "En El idiota, publicado en 1869, Fyodor Dostoyevski desafía las normas literarias y sociales de su época a través de la compleja figura de Lev Nikolayevich Myshkin, un príncipe cuyas virtudes son percibidas como debilidades en un entorno marcado por el egoísmo y la ambición. A través de un estilo narrativo que mezcla episodios intensos con reflexiones filosóficas, Dostoyevski ahonda en el dilema de la existencia humana, contrastando la concepción del amor ideal con las frías dinámicas sociales del siglo XIX. La aparente estructura caótica de la novela es un reflejo de la lucha interna del autor y, en última instancia, del mismo Myshkin, quien se convierte en el epítome de la bondad y la vulnerabilidad. Lo que se presenta como una crítica a la superficialidad social se transforma en una indagación sobre la naturaleza más profunda del ser humano y su capacidad para el sufrimiento auténtico. A través de su búsqueda incesante de trascendencia moral, El idiota se erige como un testimonio de la lucha perpetua entre el bien y el mal, invitando a los lectores a un cuestionamiento introspectivo sobre sus propias vidas y valores.",
+        "vocabulary": [
+          {
+            "word": "desafía",
+            "definition": "retar a las normas existentes"
+          },
+          {
+            "word": "virtudes",
+            "definition": "cualidades positivas de una persona"
+          },
+          {
+            "word": "epítome",
+            "definition": "ejemplo perfecto de algo"
+          },
+          {
+            "word": "indagación",
+            "definition": "investigación profunda de un tema"
+          },
+          {
+            "word": "trascendencia",
+            "definition": "superación de los límites comunes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué concepto central explora la novela de Dostoyevski?",
+            "options": [
+              "La lucha entre el bien y el mal",
+              "Elロード diario",
+              "La importancia de la riqueza"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo es percibido Myshkin por la sociedad en la que vive?",
+            "options": [
+              "Como un tonto",
+              "Como un héroe nacional",
+              "Como un líder respetado"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué refleja la estructura narrativa de la obra?",
+            "options": [
+              "La lucha interna del autor",
+              "Una historia lineal",
+              "Un relato de aventura"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  }
+}
