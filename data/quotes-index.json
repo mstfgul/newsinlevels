@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-20-oscar-wilde-i-never-travel-without-my-diar",
+    "date": "2026-07-20",
+    "author": "Oscar Wilde",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg/330px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg",
+    "titles": {
+      "en": "I never travel without my diary. One should always have something sensational to read in the train.",
+      "de": "I never travel without my diary. One should always have something sensational to read in the train.",
+      "fr": "Je ne voyage jamais sans mon journal. On devrait toujours avoir quelque chose de sensationnel à lire dans le train.",
+      "es": "Nunca viajo sin mi diario. Siempre se debe tener algo sensacional que leer en el tren."
+    }
+  },
+  {
     "id": "2026-07-19-william-shakespeare-on-a-day-alack-the-day-love-wh",
     "date": "2026-07-19",
     "author": "William Shakespeare",
