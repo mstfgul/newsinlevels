@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-20-russia-launches-major-ballistic-missile-attack-on-ukrainian-",
+    "date": "2026-07-20",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+    "category": "politics",
+    "titles": {
+      "en": "Major Missile Attacks by Russia on Ukraine",
+      "de": "Russland startet einen großangelegten Angriff auf die Ukraine",
+      "fr": "Conflit armé entre la Russie et l'Ukraine",
+      "es": "Rusia lleva a cabo un ataque masivo en Ucrania"
+    }
+  },
+  {
+    "id": "2026-07-20-norway-opens-new-memorial-for-victims-of-2011-massacre",
+    "date": "2026-07-20",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe5a/live/0c2fc2e0-83d7-11f1-ad7d-c7f9656ee7bb.jpg",
+    "category": "culture",
+    "titles": {
+      "en": "Norway unveils memorial for the victims of the 2011 massacre",
+      "de": "Norwegen eröffnet Denkmal für die Opfer des Terroranschlags",
+      "fr": "Mémorial en Norvège pour les victimes d'une attaque en 2011",
+      "es": "Noruega abre un monumento para recordar a las víctimas del ataque de 2011"
+    }
+  },
+  {
+    "id": "2026-07-20-food-delivery-rider-wins-china-s-top-literary-prize",
+    "date": "2026-07-20",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27d9/live/016c8b40-83eb-11f1-a4bc-65277c7fcf81.jpg",
+    "category": "culture",
+    "titles": {
+      "en": "Wang Jibing Wins the Lu Xun Literary Prize",
+      "de": "Wang Jibing gewinnt einen wichtigen Literaturpreis",
+      "fr": "Wang Jibing remporte un prix littéraire en Chine",
+      "es": "El éxito literario de Wang Jibing"
+    }
+  },
+  {
     "id": "2026-07-19-russians-turn-to-cash-putting-more-strain-on-slowing-wartime",
     "date": "2026-07-19",
     "source": "BBC News",
