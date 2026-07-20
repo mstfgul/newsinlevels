@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-20-la-jetee-chris-marker",
+    "date": "2026-07-20",
+    "director": "Chris Marker",
+    "image": "https://image.tmdb.org/t/p/w780/elGidsRHXkk8UyrtLbcMhaptDyp.jpg",
+    "titles": {
+      "en": "Exploring Themes in La Jetée",
+      "de": "La Jetée",
+      "fr": "La Jetée",
+      "es": "Explorando La Jetée"
+    }
+  },
+  {
     "id": "2026-07-19-the-discreet-charm-of-the-bourgeoisie-luis-bunuel",
     "date": "2026-07-19",
     "director": "Luis Buñuel",

@@ -1,0 +1,1371 @@
+{
+  "id": "2026-07-20-la-jetee-chris-marker",
+  "date": "2026-07-20",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/662"
+  },
+  "originalTitle": "La Jetée (1962) — Chris Marker",
+  "image": "https://image.tmdb.org/t/p/w780/elGidsRHXkk8UyrtLbcMhaptDyp.jpg",
+  "category": "film",
+  "film": {
+    "director": "Chris Marker",
+    "title": "La Jetée",
+    "year": "1962",
+    "genres": "Drama, Romance, Science Fiction"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "La Jetée",
+        "text": "La Jetée is a short movie. It is about a man. He looks at old photos. These photos show his past. The man has a job. He works with time travel. The world is now very bad. There was a big war. People want to fix this world. The man remembers good times. He wants to see his past again. The movie is black and white. The photos tell a story. It is a sad story but beautiful. Many people love this film.",
+        "vocabulary": [
+          {
+            "word": "photos",
+            "definition": "pictures taken with a camera."
+          },
+          {
+            "word": "past",
+            "definition": "time before now."
+          },
+          {
+            "word": "travel",
+            "definition": "to go from one place to another."
+          },
+          {
+            "word": "world",
+            "definition": "the earth and all people."
+          },
+          {
+            "word": "sad",
+            "definition": "not happy."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the man look at?",
+            "options": [
+              "Old photos",
+              "Videos",
+              "Books"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the movie's color?",
+            "options": [
+              "Black and white",
+              "Color",
+              "Gray"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What happened to the world?",
+            "options": [
+              "It had a big war",
+              "It got better",
+              "It was fun"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "La Jetée - A Unique Film",
+        "text": "La Jetée is a special film from 1962. It is directed by Chris Marker. The film tells a story using still photos, not moving pictures. This makes it different. The story begins with a man. He is in a world after a big war. This world is very bad. The man remembers his past and wants to go back. This film shows feelings about time and memory. The mood is sad but also beautiful. The black and white images create a strong effect. People see the past very differently. This film influenced many movies later. For example, it inspired the film 12 Monkeys. La Jetée is a new way to tell stories.",
+        "vocabulary": [
+          {
+            "word": "influenced",
+            "definition": "changed something or someone."
+          },
+          {
+            "word": "special",
+            "definition": "different and important."
+          },
+          {
+            "word": "effect",
+            "definition": "the result of something."
+          },
+          {
+            "word": "memory",
+            "definition": "the ability to remember things."
+          },
+          {
+            "word": "differently",
+            "definition": "in another way."
+          }
+        ],
+        "questions": [
+          {
+            "question": "In which year was La Jetée made?",
+            "options": [
+              "1962",
+              "1975",
+              "1980"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does La Jetée use to tell its story?",
+            "options": [
+              "Still photos",
+              "Videos",
+              "Paintings"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Which film was inspired by La Jetée?",
+            "options": [
+              "12 Monkeys",
+              "Star Wars",
+              "Titanic"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Exploring Themes in La Jetée",
+        "text": "La Jetée, directed by Chris Marker in 1962, is a remarkable science fiction film that uses still photos instead of traditional moving images. This unique approach makes it stand out among many films of its time. The story presents a man who experiences the aftermath of a devastating world war. He faces many challenges related to time travel as he confronts his past during an experimental journey. The film powerfully explores themes of memory, loss, and the complexity of our connection to the past. Many viewers mention that they feel deeply affected by the haunting and contemplative atmosphere. The striking black and white visuals add emotional weight, which helps to convey the themes Marker wants us to consider. Moreover, many believe that La Jetée has inspired future works, such as the film 12 Monkeys, which shares similar themes. Marker's artistic approach challenges our understanding of time and reality by displaying how attachment to memories can influence our lives. If we think about the past too much, we may find it difficult to live in the present. Overall, La Jetée is a captivating piece of cinema history that continues to resonate with viewers today. Its exploration of human experience keeps audiences thinking long after they watch it.",
+        "vocabulary": [
+          {
+            "word": "devastating",
+            "definition": "causing a lot of damage or destruction."
+          },
+          {
+            "word": "confronts",
+            "definition": "to face or deal with something difficult or challenging."
+          },
+          {
+            "word": "contemplative",
+            "definition": "thinking deeply about something."
+          },
+          {
+            "word": "influence",
+            "definition": "to have an effect on someone or something."
+          },
+          {
+            "word": "attachment",
+            "definition": "a strong emotional connection to someone or something."
+          },
+          {
+            "word": "resonate",
+            "definition": "to have a lasting influence or impact."
+          },
+          {
+            "word": "exploration",
+            "definition": "the act of examining or discussing something in detail."
+          },
+          {
+            "word": "complexity",
+            "definition": "the state of being complicated or intricate."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is La Jetée primarily made of?",
+            "options": [
+              "Moving images",
+              "Still photos",
+              "Animations"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which famous film is inspired by La Jetée?",
+            "options": [
+              "Inception",
+              "12 Monkeys",
+              "The Matrix"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What key theme does La Jetée explore?",
+            "options": [
+              "Adventure",
+              "Time travel",
+              "Relationship strategies"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Exploring Memories in La Jetée",
+        "text": "La Jetée, a remarkable film by Chris Marker, opens in a post-apocalyptic world after a devastating war. It follows a man whose obsession with a photograph leads him into an experimental journey through time. The film, remarkable for its use of still images, evokes deep emotions and asks profound questions about memory and the nature of time. Although the protagonist is searching for hope in a dystopian reality, viewers are also made to confront the painful truth of the past. Marker's direction creates a haunting atmosphere, enhanced by the black and white visuals, which add to its melancholic beauty. The film has left a lasting impact on cinema history, inspiring films like 12 Monkeys. Critics have noted that it plays with the idea of a time loop, suggesting that no matter how much we wish to escape the past, it is always part of our identity. By blending drama with science fiction, La Jetée invites audiences to reflect on their own relationships with time and memory, making it a unique cinematic experience that is both visually and emotionally striking.",
+        "vocabulary": [
+          {
+            "word": "obsession",
+            "definition": "a very strong desire to do something"
+          },
+          {
+            "word": "confront",
+            "definition": "to face something difficult"
+          },
+          {
+            "word": "experimental",
+            "definition": "related to trying new ideas or methods"
+          },
+          {
+            "word": "dystopia",
+            "definition": "a very bad, imagined society"
+          },
+          {
+            "word": "identity",
+            "definition": "who a person is"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the man focus on in La Jetée?",
+            "options": [
+              "A photograph",
+              "A movie",
+              "A song"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What kind of images does La Jetée use to tell its story?",
+            "options": [
+              "Still images",
+              "Video clips",
+              "Paintings"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who directed the film La Jetée?",
+            "options": [
+              "Chris Marker",
+              "François Truffaut",
+              "Jean-Luc Godard"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "La Jetée: A Journey into Time and Memory",
+        "text": "Chris Marker's La Jetée stands as a landmark of avant-garde cinema, ingeniously blending drama, romance, and science fiction within a mere 29 minutes. The film opens in a devastated, post-nuclear war setting, where the protagonist, fixated on a haunting image from his past, becomes part of a grim time travel experiment. This unique narrative structure, primarily composed of still photographs, invites viewers into a contemplative exploration of memory's interplay with identity and time. Given its minimalist visual style, La Jetée's black and white imagery takes on a poetic quality, enhancing the emotional weight of the story. Critics describe it as a meditation on the idea of dystopia, yet whispering the possibility of hope and understanding. The film's themes resonate with existential inquiries, prompting audiences to ponder their connections to both personal and collective histories. Notably, its profound influence extends to contemporary cinema, with works like 12 Monkeys drawing inspiration from its conceptual framework. Exploring La Jetée is not merely watching a film but engaging with a rich tapestry of philosophical questions regarding time, memory, and the human condition.",
+        "vocabulary": [
+          {
+            "word": "avant-garde",
+            "definition": "new and experimental ideas in arts or culture"
+          },
+          {
+            "word": "ingeniously",
+            "definition": "cleverly and creatively"
+          },
+          {
+            "word": "interplay",
+            "definition": "the way two things affect each other"
+          },
+          {
+            "word": "poetic",
+            "definition": "having a quality of poetry, beautiful and expressive"
+          },
+          {
+            "word": "existential",
+            "definition": "related to existence or human experience"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What style of cinema does La Jetée represent?",
+            "options": [
+              "Avant-garde",
+              "Hollywood",
+              "Mainstream"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What kind of experiment is at the center of La Jetée?",
+            "options": [
+              "Time travel",
+              "Space travel",
+              "Genetic modification"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How does the film's visual style affect its storytelling?",
+            "options": [
+              "Enhances emotional weight",
+              "Makes it less clear",
+              "Distracts from the story"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "La Jetée: An Unconventional Exploration of Time and Memory",
+        "text": "In La Jetée, Chris Marker crafts an extraordinary narrative that defies conventional film structure by relying almost entirely on still photographs, thus inviting an introspection into the nature of time, memory, and reality itself. Opening in a world ravaged by nuclear disaster, the film's protagonist becomes ensnared in an experiment aimed at traversing temporal boundaries, yet it is within the confines of his past that deeper truths reside. The minimalist aesthetic, rendered in striking black and white, serves not only as a visual choice but also as a philosophical statement about the starkness of existence in a dystopian habitat. Marker's poignant commentary engages viewers in a dialogue concerning their own temporal existence, compelling us to grapple with the notion that the past is an inseparable part of our identity. The film resonates profoundly, underscoring the existential dilemma of human beings' perpetual tether to their memories. Both a product of its time and a timeless piece of art, La Jetée has indelibly influenced the landscape of modern cinema, echoing through works such as 12 Monkeys. It challenges audiences, urging them to confront the complexities of their own histories and the inescapable nature of the present.",
+        "vocabulary": [
+          {
+            "word": "defies",
+            "definition": "resists or challenges expectations"
+          },
+          {
+            "word": "introspection",
+            "definition": "the process of examining one's own thoughts and feelings"
+          },
+          {
+            "word": "transcending",
+            "definition": "going beyond normal limits or boundaries"
+          },
+          {
+            "word": "poignant",
+            "definition": "emotionally moving or affecting"
+          },
+          {
+            "word": "tether",
+            "definition": "to tie someone or something to a fixed point"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What narrative structure does La Jetée rely on?",
+            "options": [
+              "Still photographs",
+              "Moving images",
+              "Only sound"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the film suggest about the past?",
+            "options": [
+              "It is part of our identity",
+              "It can be forgotten",
+              "It is only fiction"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How is La Jetée influential in cinema?",
+            "options": [
+              "It has inspired many other films",
+              "It is only a short film",
+              "It has never been discussed"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "La Jetée",
+        "text": "La Jetée ist ein kurzer Film. Er ist 29 Minuten lang. Der Film kommt aus Frankreich. Chris Marker macht diesen Film. Die Geschichte ist spannend. Ein Mann sieht in die Vergangenheit. Er denkt an seine Erinnerungen. Der Mann will die Probleme lösen. Die Welt ist schlecht nach einem Krieg. Der Film hat viele Fotos. Es gibt keine bewegten Bilder. Die Fotos sind schwarz-weiß. La Jetée ist besonders. Viele Menschen mögen diesen Film.",
+        "vocabulary": [
+          {
+            "word": "Erinnerungen",
+            "definition": "Dinge, die man in der Vergangenheit erlebt hat."
+          },
+          {
+            "word": "Probleme",
+            "definition": "Dinge, die Schwierigkeiten machen."
+          },
+          {
+            "word": "schwarz-weiß",
+            "definition": "Farben sind nur schwarz und weiß."
+          },
+          {
+            "word": "besonders",
+            "definition": "Anders als normal oder typisch."
+          },
+          {
+            "word": "spannend",
+            "definition": "Es macht viel Spaß, das zu sehen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie lang ist der Film La Jetée?",
+            "options": [
+              "30 Minuten",
+              "29 Minuten",
+              "28 Minuten"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo kommt der Film her?",
+            "options": [
+              "Aus Deutschland",
+              "Aus Frankreich",
+              "Aus Italien"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie sind die Bilder im Film?",
+            "options": [
+              "Bunt",
+              "Bewegte Bilder",
+              "Schwarz-weiß"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "La Jetée",
+        "text": "La Jetée ist ein französischer Film von Chris Marker. Der Film ist 29 Minuten lang und aus dem Jahr 1962. Die Geschichte handelt von einem Mann, der besondere Erinnerungen an die Vergangenheit hat. Die Welt ist nach einem Krieg kaputt, und der Mann macht ein Experiment, um die Probleme zu lösen. La Jetée benutzt viele Fotos und es gibt keine bewegten Bilder, nur Fotos in schwarz-weiß. Diese besondere Art macht den Film einzigartig. Die Bilder zeigen die Gefühle des Mannes und viele Leute finden den Film interessant. Einige Kritiker sagen, La Jetée ist eine Art Foto-Roman. Der Film hat auch andere Filme beeinflusst, zum Beispiel 12 Monkeys aus 1995. Dieser Film spricht über Zeitreise und die Vergangenheit. La Jetée ist wichtig, weil sie das Thema der Flucht aus der Gegenwart behandelt. Viele Menschen fühlen sich manchmal verloren und möchten in ihre Erinnerungen zurückkehren.",
+        "vocabulary": [
+          {
+            "word": "Schwarz-Weiß",
+            "definition": "Farben, die nur Schwarz und Weiß umfassen."
+          },
+          {
+            "word": "Experiment",
+            "definition": "Eine Untersuchung oder ein Test, um etwas herauszufinden."
+          },
+          {
+            "word": "Einzigartig",
+            "definition": "Etwas, das anders oder besonders ist."
+          },
+          {
+            "word": "Erinnerungen",
+            "definition": "Bilder oder Gedanken an die Vergangenheit."
+          },
+          {
+            "word": "beeinflussen",
+            "definition": "Etwas verändert oder hat einen Effekt auf etwas anderes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat La Jetée gemacht?",
+            "options": [
+              "Chris Marker",
+              "Jean-Luc Godard",
+              "François Truffaut"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was benutzt der Film, um die Geschichte zu erzählen?",
+            "options": [
+              "Bewegte Bilder",
+              "Fotos",
+              "Farbbilder"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was behandelt La Jetée als wichtiges Thema?",
+            "options": [
+              "Leben nach dem Krieg",
+              "Nostalgie und Erinnerung",
+              "Zukunftspläne"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "La Jetée",
+        "text": "La Jetée ist ein kurzer Science-Fiction-Film aus Frankreich, der 1962 von Chris Marker gedreht wurde. Der Film dauert 29 Minuten und nutzt eine sehr ungewöhnliche Technik: Er besteht fast nur aus Standbildern, die die Geschichte auf beeindruckende Weise erzählen. Die Hauptfigur ist ein Mann, der Erinnerungen an die Vergangenheit hat, und diese Erinnerungen sind für ihn sehr wichtig. Besonders in der post-apokalyptischen Welt nach einem verheerenden Krieg versuchen die Menschen, einen Weg zu finden, die Hoffnung und die Menschlichkeit zu bewahren. Der Mann wird bei einem Experiment ausgesucht, das die Probleme der Menschheit lösen soll. Das Experiment ist gefährlich, denn er reist durch die Zeit, um Antworten zu finden. Der schwarz-weiße Stil des Films verstärkt die Emotionen und die düstere Atmosphäre. Seit seiner Veröffentlichung hat La Jetée die Filmwelt stark beeinflusst. Der Film inspirierte später Werke wie 12 Monkeys, die ähnliche Themen behandeln. Die zentralen Themen im Film sind Zeitreise, Erinnerung und die Hoffnung auf eine bessere Zukunft. Chris Marker zeigt uns, dass die Vergangenheit komplex ist und wir nicht einfach entkommen können, denn die Erinnerungen des Mannes sind mit Schmerz und Verlust verbunden. Wenn wir durch die Zeit reisen könnten, werden wir möglicherweise erkennen, dass die Realität, in der wir leben, immer unser Zuhause bleibt. Wenn man sich die Bilder ansieht, kann man die tiefe Symbolik verstehen. Der Film bleibt ein eindrucksvolles Meisterwerk, das die Zuschauer zum Nachdenken anregt.",
+        "vocabulary": [
+          {
+            "word": "verheerend",
+            "definition": "sehr zerstörerisch oder schlimm, oft in Bezug auf einen Krieg oder eine Katastrophe."
+          },
+          {
+            "word": "Symbolik",
+            "definition": "die Verwendung von Symbolen, um Ideen oder Bedeutungen darzustellen."
+          },
+          {
+            "word": "post-apokalyptisch",
+            "definition": "bezogen auf die Zeit nach einer großen Katastrophe, z. B. einem Weltkrieg."
+          },
+          {
+            "word": "Hoffnung",
+            "definition": "der Wunsch, dass etwas Gutes passiert oder dass die Dinge sich verbessern."
+          },
+          {
+            "word": "Komplexität",
+            "definition": "der Zustand, schwierig oder vielschichtig zu sein, was oft verschiedene Aspekte beinhaltet."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie lange dauert der Film La Jetée?",
+            "options": [
+              "29 Minuten",
+              "30 Minuten",
+              "25 Minuten"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was verstärkt der schwarz-weiße Stil des Films?",
+            "options": [
+              "Die Emotionen",
+              "Die Farben",
+              "Die Dialoge"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Thema wird im Film behandelt?",
+            "options": [
+              "Liebe",
+              "Freundschaft",
+              "Zeitreise"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "La Jetée: Eine Reise durch Vergangenheit und Zukunft",
+        "text": "Der Film La Jetée, unter der Regie von Chris Marker, öffnet mit einer düsteren Szene, die von einem post-apokalyptischen Setting geprägt ist. In einer Zeit, in der die Welt durch einen verheerenden Krieg zerstört wurde, steht ein Mann im Mittelpunkt, der seine Erinnerungen an die Vergangenheit einsetzt, um in der Zukunft zu überleben. La Jetée ist kein gewöhnlicher Film, sondern eine faszinierende Mischung aus Drama, Romanze und Science-Fiction, die vollständig mit Standbildern erzählt wird. Diese besondere Technik vermittelt dem Zuschauer ein Gefühl von Zeit und Raum, die in ständiger Spannung zueinander stehen. Durch die Verwendung von Schwarz-Weiß-Bildern erzeugt Marker eine melancholische Atmosphäre, die den Zuschauer in das emotionale Innenleben des Protagonisten eintauchen lässt. Die zentrale Frage des Films ist, ob man der Vergangenheit entkommen kann oder ob man stets in der Gegenwart gefangen bleibt. Diese philosophische Auseinandersetzung spiegelt sich nicht nur in der Handlung wider, sondern auch in der durchdachten Bildsprache und der eindringlichen Musik. La Jetée hat die Filmkunst nachhaltig beeinflusst und gilt als Vorläufer moderner Sci-Fi-Erzählungen, wie zum Beispiel dem Film 12 Monkeys. Ein besonders bemerkenswerter Aspekt ist die Hypothese, dass Erinnerungen und Bilder uns sowohl befreien als auch einschränken können.",
+        "vocabulary": [
+          {
+            "word": "düsteren",
+            "definition": "traurig oder dunkel"
+          },
+          {
+            "word": "post-apokalyptischen",
+            "definition": "nach einer großen Zerstörung oder einem Weltuntergang"
+          },
+          {
+            "word": "Standbildern",
+            "definition": "Bilder, die nicht in Bewegung sind"
+          },
+          {
+            "word": "philosophische",
+            "definition": "mit Gedanken über das Leben und die Existenz"
+          },
+          {
+            "word": "Einfluss",
+            "definition": "Wirkung auf etwas oder jemanden"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films La Jetée?",
+            "options": [
+              "Die Reise in die Zukunft.",
+              "Der Konflikt zwischen Vergangenheit und Gegenwart.",
+              "Die Freundschaft zwischen Menschen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Womit wird La Jetée hauptsächlich erzählt?",
+            "options": [
+              "Mit bewegten Bildern.",
+              "Mit Standbildern.",
+              "Mit Zeichnungen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer hat La Jetée gedreht?",
+            "options": [
+              "Chris Marker.",
+              "Jean-Luc Godard.",
+              "François Truffaut."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "La Jetée: Eine cineastische Reflexion über Zeit und Erinnerung",
+        "text": "La Jetée, 1962 von Chris Marker inszeniert, ist ein einzigartiges Werk, das die Beziehungen zwischen Erinnerung, Zeit und Identität auf kunstvolle Weise erkundet. Die schlichte Darstellung mittels Standbildern konfrontiert den Zuschauer mit der Fragilität unserer Erinnerungen und der Frage, ob wir den eigenen Lebensweg durch das Zurückblicken wirklich verstehen können. In einem post-apokalyptischen Kontext experimentiert der Protagonist mit seiner Vergangenheit, wobei sich die Grenzen zwischen Utopie und Dystopie verwischen. Markers Entscheidung, den Film monochrom und in einer Fotoerzählweise zu gestalten, schafft eine unmittelbare Verbindung zu den Emotionen und Gedankengängen des Hauptcharakters. Die melancholische Tonalität und die eindringlichen Klänge unterstreichen die unterschwellige Botschaft, dass die Flucht vor der Gegenwart nicht möglich ist. La Jetée wurde häufig als Vorläufer bedeutender Science-Fiction-Werke wie 12 Monkeys bezeichnet, was seinen Stellenwert in der Filmgeschichte untermauert. Marker thematisiert die Unerbittlichkeit der Zeit und die Unmöglichkeit, aus ihr auszubrechen. Dieser vielseitige Film bleibt nicht nur ein Meisterwerk der Avantgarde, sondern auch eine tiefgründige Betrachtung des menschlichen Daseins und der Komplexität des Erinnerns.",
+        "vocabulary": [
+          {
+            "word": "Reflexion",
+            "definition": "nachdenkliches Überlegen oder Denken"
+          },
+          {
+            "word": "Fragilität",
+            "definition": "Zerbrechlichkeit oder Anfälligkeit"
+          },
+          {
+            "word": "Utopie",
+            "definition": "ideale, oft unerreichbare Vorstellung von einer perfekten Gesellschaft"
+          },
+          {
+            "word": "Dystopie",
+            "definition": "schlechte, oft negative Vorstellung einer zukünftigen Gesellschaft"
+          },
+          {
+            "word": "monochrom",
+            "definition": "in einer einzigen Farbe oder Farbtöne"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was nutzt der Regisseur, um die Geschichte zu erzählen?",
+            "options": [
+              "Farbenfrohe Animation.",
+              "Standbilder.",
+              "Nur Text."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Thema wird in La Jetée behandelt?",
+            "options": [
+              "Die Beziehung zwischen Freunden.",
+              "Die Unerbittlichkeit der Zeit.",
+              "Die Wichtigkeit von Geld."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie wird der Film in der Filmgeschichte betrachtet?",
+            "options": [
+              "Als bedeutender Blockbuster.",
+              "Als Vorläufer der Science-Fiction.",
+              "Als Musikvideo."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La Jetée: Ein Meisterwerk der zeitgenössischen Filmkunst",
+        "text": "In La Jetée, eine 1962 entstandene filmische Errungenschaft von Chris Marker, entfaltet sich ein komplexes Geflecht aus Zeit, Erinnerung und der inhärenten Melancholie des menschlichen Daseins, das durch die eigentümliche Ästhetik des Fotofilm-Genres verstärkt wird. Marker, der begründend für den Terminus \"photo novel\" verantwortlich zeichnete, konzipiert hier eine narrative Struktur, die nicht nur die visuelle Wahrnehmung herausfordert, sondern auch philosophische Fragen zur Natur der Erinnerung aufwirft. Der Mann im Zentrum der Handlung, gefangen in einem post-apokalyptischen Universum, bemüht sich, die Tücken seiner Vergangenheit zu entschlüsseln, während er gleichzeitig der bedrückenden Gegenwart gegenübersteht. Die starren Bilder, die Markers Werk charakterisieren, laden den Zuschauer ein, mit den Emotionen der Protagonisten zu interagieren und ihre eigenen Erfahrungen in den Kontext der Zeit zu setzen. In der Schaffung einer Welt, die sowohl Utopie als auch Dystopie impliziert, gelingt es dem Regisseur, eine ambivalente Atmosphäre zu erzeugen, in der die Grenzen zwischen Traum und Wirklichkeit verwischen. Diese stilistischen Entscheidungen sind nicht zufällig; sie zeugen von Markers innovativem Ansatz, der das Geschichtenerzählen neu definiert und als Vorläufer für zahlreiche spätere Werke, wie etwa Terry Gilliams 12 Monkeys, fungiert. So verdeutlicht La Jetée nicht nur die zeitgenössischen Herausforderungen der Identitätsfindung in unserer schnelllebigen Welt, sondern provokativ die Frage, ob es für den Menschen tatsächlich eine Flucht aus der eigenen Zeit gibt.",
+        "vocabulary": [
+          {
+            "word": "Errungenschaft",
+            "definition": "eine erfolgreiche Leistung oder ein bedeutender Fortschritt"
+          },
+          {
+            "word": "inhärente",
+            "definition": "einer Sache innewohnend oder selbstverständlich"
+          },
+          {
+            "word": "narrative",
+            "definition": "die Handlung oder Erzählweise eines Werkes"
+          },
+          {
+            "word": "Tücken",
+            "definition": "versteckte Schwierigkeiten oder Probleme"
+          },
+          {
+            "word": "ambivalente",
+            "definition": "zwiespältige oder gemischte Gefühle"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was thematisiert La Jetée neben der Zeit?",
+            "options": [
+              "Die Herausforderungen der Identitätsfindung.",
+              "Die Entwicklung neuer Technologien.",
+              "Die Schönheit der Natur."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie werden die Bilder im Film dargestellt?",
+            "options": [
+              "Als lebendige Animation.",
+              "Als statische Fotos.",
+              "Als Gemälde."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist eine der Fragen, die La Jetée aufwirft?",
+            "options": [
+              "Gibt es eine Flucht aus der eigenen Zeit?",
+              "Was ist das schönste Land?",
+              "Wie wird Musik produziert?"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "La Jetée",
+        "text": "La Jetée est un film français. Il est fait par Chris Marker. C'est un film de science-fiction. L'histoire est courte, seulement 29 minutes. Un homme cherche son passé. Il regarde des images. Ces images sont très importantes. Le film est en noir et blanc. La musique est aussi spéciale. Les événements se passent après une guerre. Les personnages ont des émotions fortes. Ce film est très différent. Beaucoup de gens l'aiment. C'est un film à voir.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "une histoire sur un écran"
+          },
+          {
+            "word": "homme",
+            "definition": "un garçon ou un adulte"
+          },
+          {
+            "word": "passé",
+            "definition": "le temps qui est fini"
+          },
+          {
+            "word": "images",
+            "definition": "des photos ou des dessins"
+          },
+          {
+            "word": "guerre",
+            "definition": "un combat entre des pays"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui fait le film La Jetée?",
+            "options": [
+              "Chris Marker",
+              "Jean-Luc Godard",
+              "François Truffaut"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de film est La Jetée?",
+            "options": [
+              "drame",
+              "horreur",
+              "sci-fi"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Le film est en couleur?",
+            "options": [
+              "oui",
+              "non",
+              "partiellement"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "La Jetée",
+        "text": "La Jetée est un court-métrage français réalisé par Chris Marker en 1962. Ce film dure 29 minutes et il est en noir et blanc. L'histoire commence dans un monde après une guerre. Un homme participe à une expérience scientifique. Il cherche à comprendre son passé grâce à des images. Ces images sont des photos. La musique crée une atmosphère spéciale. Les thèmes principaux sont le temps et les souvenirs. Le film montre comment le passé ne peut pas changer. La Jetée a inspiré d'autres films comme 12 Monkeys en 1995. Beaucoup de critiques disent que c'est une œuvre unique. La technique du film est originale et différente. Les photos racontent une histoire sans mouvement.",
+        "vocabulary": [
+          {
+            "word": "court-métrage",
+            "definition": "un petit film"
+          },
+          {
+            "word": "expérience",
+            "definition": "un test scientifique"
+          },
+          {
+            "word": "compréhension",
+            "definition": "savoir ce que quelque chose veut dire"
+          },
+          {
+            "word": "souvenirs",
+            "definition": "des choses que l'on se rappelle"
+          },
+          {
+            "word": "œuvre",
+            "definition": "un travail artistique"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le nom du réalisateur?",
+            "options": [
+              "François Truffaut",
+              "Chris Marker",
+              "Jean-Luc Godard"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel genre de film est La Jetée?",
+            "options": [
+              "comédie",
+              "drame",
+              "science-fiction"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Est-ce que le film a des scènes avec des mouvements?",
+            "options": [
+              "oui",
+              "non",
+              "parfois"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "La Jetée",
+        "text": "La Jetée est un film français réalisé par Chris Marker en 1962. Ce court-métrage de 29 minutes est considéré comme un chef-d'œuvre de la science-fiction et a été produit à l'époque de la guerre froide. L'histoire débute dans un monde post-apocalyptique, dévasté par une guerre nucléaire, où un homme participe à une expérience scientifique pour explorer son passé par le biais d'images photographiques. Ces images, qui montrent des souvenirs d'une époque révolue, sont le cœur du film. Elles révèlent non seulement des événements, mais aussi des émotions profondes. La musique poignante et le noir et blanc créent une atmosphère unique qui attire l'attention du spectateur. Les thèmes principaux incluent le temps, la mémoire, et le désir de revenir à une époque plus paisible. Les critiques célèbrent l'originalité de La Jetée et son impact sur d'autres œuvres, notamment le film 12 Monkeys, qui a emprunté plusieurs concepts à ce court-métrage. La Jetée montre que le passé est complexe et qu'il est difficile de le comprendre pleinement. Si l'on essaie de revenir en arrière, on risque d'oublier le présent. C'est une réflexion profonde sur le temps, le souvenir et la perception humaine, invitant les spectateurs à une méditation sur leur propre rapport au temps.",
+        "vocabulary": [
+          {
+            "word": "chef-d'œuvre",
+            "definition": "une œuvre d'art considérée comme très importante et très réussie."
+          },
+          {
+            "word": "post-apocalyptique",
+            "definition": "un monde qui existe après une grande catastrophe, souvent une guerre ou une apocalypse."
+          },
+          {
+            "word": "atmosphère",
+            "definition": "l'ambiance ou le sentiment créé par l'environnement."
+          },
+          {
+            "word": "point de vue",
+            "definition": "la façon dont une personne voit ou interprète les choses."
+          },
+          {
+            "word": "médiation",
+            "definition": "un processus de réflexion qui permet de comprendre ou d'analyser une expérience."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le genre principal de La Jetée ?",
+            "options": [
+              "Science-fiction",
+              "Documentaire",
+              "Comédie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle technique Chris Marker a-t-il utilisée pour créer La Jetée ?",
+            "options": [
+              "Des images animées",
+              "Des photos fixes",
+              "Des tableaux"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel message important transmet La Jetée sur le temps ?",
+            "options": [
+              "Le passé et le présent sont toujours séparés.",
+              "Il n'y a pas d'échappatoire au présent.",
+              "Le temps est illimité."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "La Jetée : Entre passé et futur",
+        "text": "La Jetée, réalisé par Chris Marker en 1962, est une œuvre cinématographique qui explore les thèmes de la mémoire et du temps. Dans une société post-apocalyptique devastée par une guerre mondiale, un homme se retrouve impliqué dans une expérience destinée à résoudre les problèmes de son époque, mais sa curiosité le pousse à se confronter à son passé. Cependant, cette quête soulève des questions profondes : peut-on vraiment échapper au temps ? La réalité de ses souvenirs est-elle plus décevante que ce qu'il imaginait ? \n\nL'originalité de La Jetée réside dans son format, presque entièrement composé de photographies fixes. Cette approche visuelle crée une atmosphère unique, presque onirique, où chaque image raconte une histoire. L'utilisation du noir et blanc renforce la mélancolie et la nostalgie présentes tout au long du récit. La voix off accompagne ces images, ajoutant une dimension poétique et philosophique. Cette œuvre a marqué l'évolution du cinéma, inspirant de nombreux réalisateurs, notamment avec le film 12 Monkeys. En fin de compte, La Jetée incite à réfléchir sur le propre rapport que chacun entretient avec son passé et sur la notion d'évasion face à un présent rempli de souffrances.",
+        "vocabulary": [
+          {
+            "word": "mélancolie",
+            "definition": "tristesse profonde"
+          },
+          {
+            "word": "quêtes",
+            "definition": "recherche, aventure"
+          },
+          {
+            "word": "atmosphère",
+            "definition": "ambiance, sentiment dans un lieu"
+          },
+          {
+            "word": "experiment",
+            "definition": "essai, test"
+          },
+          {
+            "word": "inspiré",
+            "definition": "motivé par une idée ou un modèle"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé La Jetée ?",
+            "options": [
+              "Jean-Luc Godard",
+              "Chris Marker",
+              "François Truffaut"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel format la film utilise-t-il ?",
+            "options": [
+              "Des vidéos",
+              "Des photographies",
+              "Des animations"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le thème principal de La Jetée ?",
+            "options": [
+              "La guerre",
+              "La mémoire",
+              "L'amour"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La Jetée : Un jeu d'images et de temps",
+        "text": "La Jetée, œuvre emblématique de Chris Marker, se sincère dans une exploration profonde du temps, de la mémoire, et de la quête de sens dans un monde ravagé par la guerre. Le récit commence dans un univers dystopique où le protagoniste, à travers une expérience de voyage dans le temps, est confronté à ses souvenirs. Loin d'être une simple narration, La Jetée transcende les conventions du cinéma en se déployant principalement à travers une suite d'images fixes. Les photographies, bien que statiques, évoquent un mouvement émotionnel puissant, et leur juxtaposition avec une voix off contemplative renforce la portée philosophique de l'œuvre.\n\nNéanmoins, cette approche visuelle soulève des interrogations sur la nature du temps et notre attachement au passé. En introduisant cette tension entre le désir d'évasion et l'inévitabilité du présent, Marker parvient à établir un dialogue intime entre le spectateur et son propre rapport au souvenir. En effet, son film a inspiré plusieurs œuvres de science-fiction moderne, consolidant ainsi son héritage cinématographique. La Jetée, au-delà d'un simple court-métrage, se positionne comme un regard critique sur notre incapacité à revenir en arrière et sur les vérités souvent décevantes de la mémoire.",
+        "vocabulary": [
+          {
+            "word": "émblematique",
+            "definition": "qui représente bien quelque chose"
+          },
+          {
+            "word": "dystopique",
+            "definition": "relatif à une société imaginaire négative"
+          },
+          {
+            "word": "juxtaposition",
+            "definition": "mise côte à côte"
+          },
+          {
+            "word": "contemplative",
+            "definition": "qui invite à réfléchir profondément"
+          },
+          {
+            "word": "héritage",
+            "definition": "ce qui est transmis, influence héritée"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel concept central est exploré dans La Jetée ?",
+            "options": [
+              "Le futur",
+              "La mémoire",
+              "La technologie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment les images sont-elles utilisées dans le film ?",
+            "options": [
+              "Elles sont animées",
+              "Elles sont fixes",
+              "Elles sont des vidéos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le ton général de la voix off dans La Jetée ?",
+            "options": [
+              "Ludique",
+              "Contemplatif",
+              "Agressif"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La Jetée : Temps, mémoire et l'image comme un outil d'évasion",
+        "text": "La Jetée, magistralement orchestrée par Chris Marker en 1962, plonge le spectateur dans un labyrinthe sensoriel où le temps et l'image s'entrelacent de manière saisissante. En tant qu'œuvre phare du mouvement de la rive gauche, cette réalisation invite à une réflexion sur l'état de l'humanité après une catastrophe mondiale, où un homme se retrouve piégé dans une boucle temporelle. Ce dispositif narratif, qui alterne habilement entre passé et présent, questionne notre rapport à la mémoire tout en soulignant la dissonance entre nos idéaux et la douloureuse réalité.\n\nL'art de Marker ne se résume pas à une simple juxtaposition d'images : il utilise la photographie pour créer une expérience immersive, un « roman-photo » dans lequel chaque image évoque des émotions intenses. Par ce biais, le cinéaste interroge la nature même de l'art et sa capacité à capturer l'essence fugace de l'existence humaine. En confrontant le spectateur à une réalité esthétique et émotionnelle, La Jetée devient un miroir de nos propres luttes face à l'inéluctabilité du temps. En cela, cette œuvre transcende les limites traditionnelles du cinéma, ouvrant la voie à une nouvelle forme de narration visuelle, étroitement liée à des réflexions sur la condition humaine et l'écoulement indomptable du temps.",
+        "vocabulary": [
+          {
+            "word": "labyrinthe",
+            "definition": "un lieu complexe avec de nombreux chemins"
+          },
+          {
+            "word": "saisissante",
+            "definition": "qui attire fortement l'attention"
+          },
+          {
+            "word": "juxtaposition",
+            "definition": "action de placer deux choses côte à côte"
+          },
+          {
+            "word": "romain-photo",
+            "definition": "un récit illustré avec des photos"
+          },
+          {
+            "word": "inéluctabilité",
+            "definition": "le fait de ne pas pouvoir éviter quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle technique Chris Marker utilise-t-il principalement dans La Jetée ?",
+            "options": [
+              "Des vidéos animées",
+              "Des photographies scannées",
+              "Des images fixes"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel sentiment prédomine dans La Jetée ?",
+            "options": [
+              "Optimisme",
+              "Nostalgie",
+              "Indifférence"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que remet en question La Jetée ?",
+            "options": [
+              "L'évasion du temps",
+              "La technologie moderne",
+              "Les relations humaines"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "La Jetée",
+        "text": "La Jetée es un corto de 1962. El director es Chris Marker. La película está en blanco y negro. La historia ocurre en un mundo después de una guerra. Este mundo es muy triste. Un hombre está en un experimento. Él ve imágenes de su pasado. Las imágenes son importantes para él. La Jetée tiene un ambiente especial y un tiempo que es muy curioso. La historia no es larga, pero es profunda. La película dura veintinueve minutos. Muchos críticos dicen que es buena para el cine. La Jetée es una obra única e interesante en la historia del cine.",
+        "vocabulary": [
+          {
+            "word": "triste",
+            "definition": "que tiene pena o dolor"
+          },
+          {
+            "word": "profunda",
+            "definition": "que es intensa o tiene mucho significado"
+          },
+          {
+            "word": "curioso",
+            "definition": "interesante o extraño"
+          },
+          {
+            "word": "única",
+            "definition": "que no hay otra igual"
+          },
+          {
+            "word": "interesante",
+            "definition": "que capta la atención"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué año es La Jetée?",
+            "options": [
+              "1961",
+              "1962",
+              "1963"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿De qué color es la película?",
+            "options": [
+              "A color",
+              "En blanco y negro",
+              "En sepia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuánto tiempo dura La Jetée?",
+            "options": [
+              "Veinte minutos",
+              "Veintinueve minutos",
+              "Treinta minutos"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "La Jetée",
+        "text": "La Jetée es un corto francés de 1962. Chris Marker es el director y su obra es muy conocida. La película tiene un estilo único. Está en blanco y negro y dura veintinueve minutos. La historia ocurre en un mundo después de una guerra terrible y devastadora. Un hombre participa en un experimento sobre el tiempo. Él ve imágenes de su pasado y estas imágenes son muy importantes para él. La Jetée mezcla drama y ciencia ficción en una forma innovadora. Muchos críticos piensan que es una obra maestra del cine. El corto usa solo fotos fijas y no movimiento. Esto es diferente de otras películas que tienen acción. La historia habla sobre el tiempo, la memoria y la obsesión por el pasado. La música y los sonidos son también interesantes. La película ha influenciado otras obras, como 12 Monkeys. Es un clásico que muchos estudiantes de cine van a estudiar en el futuro.",
+        "vocabulary": [
+          {
+            "word": "observar",
+            "definition": "mirar con atención algo"
+          },
+          {
+            "word": "influenciar",
+            "definition": "afectar el desarrollo o resultado de algo"
+          },
+          {
+            "word": "clásico",
+            "definition": "obra que es muy importante o famosa en su campo"
+          },
+          {
+            "word": "devastador",
+            "definition": "algo que causa mucha destrucción"
+          },
+          {
+            "word": "experimento",
+            "definition": "prueba que se hace para descubrir o demostrar algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué año es La Jetée?",
+            "options": [
+              "1962",
+              "1972",
+              "1982"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de imágenes usa La Jetée?",
+            "options": [
+              "fijas",
+              "animadas",
+              "virtuales"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué otras obras se han inspirado en La Jetée?",
+            "options": [
+              "12 Monkeys",
+              "Avatar",
+              "Inception"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Explorando La Jetée",
+        "text": "La Jetée es un cortometraje francés de 1962, dirigido por Chris Marker. Este filme es único porque está compuesto casi enteramente de fotografías fijas. La historia se desarrolla en un mundo post-apocalíptico después de una guerra nuclear, donde la humanidad lucha por sobrevivir. El protagonista participa en un experimento para viajar en el tiempo y confrontar su pasado. Esta experiencia lo lleva a descubrir momentos de su vida que han marcado su identidad. Cada imagen fija muestra no solo su viaje, sino también sus memorias y emociones.  La película investiga temas profundos como la memoria, la percepción del tiempo y el anhelo por el pasado. Si el protagonista regresa al pasado, piensa que podrá resolver sus problemas. Sin embargo, la obra nos enseña que el regreso al pasado no siempre es lo que imaginamos. La Jetée tiene un ambiente melancólico y reflexivo. La música y el sonido, que son fundamentales, realzan la experiencia emocional. La Jetée ha influido en el cine contemporáneo, inspirando otras obras como la famosa película 12 Monkeys. Este corto ha ganado reconocimiento por su innovador uso de imágenes y sonido, lo cual lo convierte en un referente en la historia del cine.",
+        "vocabulary": [
+          {
+            "word": "anhelo",
+            "definition": "deseo intenso de algo"
+          },
+          {
+            "word": "melancólico",
+            "definition": "relacionado con una tristeza profunda"
+          },
+          {
+            "word": "experimento",
+            "definition": "proceso para probar o investigar algo"
+          },
+          {
+            "word": "referente",
+            "definition": "algo que es un modelo o ejemplo a seguir"
+          },
+          {
+            "word": "percepción",
+            "definition": "forma en la que una persona entiende o siente algo"
+          },
+          {
+            "word": "identidad",
+            "definition": "conjunto de características que definen a una persona"
+          },
+          {
+            "word": "memorias",
+            "definition": "recuerdos de eventos pasados"
+          },
+          {
+            "word": "influido",
+            "definition": "afectado o cambiado por algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién dirigió La Jetée?",
+            "options": [
+              "Chris Marker",
+              "Jean Vigo",
+              "Yannis Karpouzis"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál es el tema principal del cortometraje?",
+            "options": [
+              "El amor",
+              "La guerra",
+              "La memoria"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué tipo de imágenes utiliza La Jetée?",
+            "options": [
+              "Fotografías fijas",
+              "Animaciones",
+              "Vídeos"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "La Jetée: Un viaje a través del tiempo y la memoria",
+        "text": "La Jetée, dirigida por Chris Marker en 1962, es una obra maestra del cine de ciencia ficción que explora la complejidad del tiempo y de la memoria. La historia comienza con un hombre que enfrenta su pasado en el contexto de un mundo post-apocalíptico tras una guerra nuclear. A través de imágenes fijas, la película nos sumerge en su obsesión por un momento específico de su historia personal. Aunque en apariencia es un simple relato de ciencia ficción, los matices filosóficos son profundos: ¿podemos realmente escapar de nuestro pasado? Es importante que el espectador reflexione sobre la naturaleza del recuerdo, ya que cada imagen evoca algo más que un momento congelado en el tiempo. Marker utiliza un lenguaje visual impactante, donde la fotografía en blanco y negro se convierte en un narrador, y el ritmo de la narración añade tensión a la trama. Además, la película se asocia con el movimiento artístico de la 'izquierda bancaria', destacando la cohesión entre el arte y el cine. La Jetée invita a cuestionar no solo el tiempo, sino también la esperanza en medio de la desesperación, haciendo de este filme una experiencia única que perdura más allá de su corta duración.",
+        "vocabulary": [
+          {
+            "word": "memoria",
+            "definition": "la capacidad de recordar cosas del pasado"
+          },
+          {
+            "word": "obsesión",
+            "definition": "cuando alguien piensa en algo todo el tiempo"
+          },
+          {
+            "word": "narrador",
+            "definition": "la persona o cosa que cuenta una historia"
+          },
+          {
+            "word": "filme",
+            "definition": "una película o producción cinematográfica"
+          },
+          {
+            "word": "esperanza",
+            "definition": "la expectativa de que algo bueno suceda"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién dirige La Jetée?",
+            "options": [
+              "Chris Marker",
+              "Yannis Karpouzis",
+              "Jake Hinkson"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de imágenes utiliza la película?",
+            "options": [
+              "Imágenes en movimiento",
+              "Imágenes fijas",
+              "Imágenes en color"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es un tema importante de la película?",
+            "options": [
+              "El amor",
+              "La música",
+              "El tiempo y la memoria"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "La Jetée: La complejidad del tiempo a través de la imagen",
+        "text": "La Jetée, estrenada en 1962 y dirigida por Chris Marker, se erige como un referente icónico del cine de ciencia ficción, explorando la relación intrínseca entre el tiempo y la memoria. Desde sus primeras escenas, un hombre es lanzado a un futuro distópico tras una guerra nuclear, donde se convierte en protagonista de un experimento que busca viajar al pasado. Este relato visual, construido casi en su totalidad con imágenes estáticas en blanco y negro, provoca una reflexión profunda sobre cómo el pasado sigue presente en el individuo. La utilización del tiempo como constructo narrativo, junto a la influencia del movimiento artístico de la 'izquierda bancaria', subraya la intención de Marker de desafiar la linealidad del tiempo. A medida que la película avanza, se revela la esencia de la memoria: un ciclo que no solo guarda la nostalgia, sino que también plantea preguntas fundamentales sobre la inevitabilidad del presente. La atmósfera, acentuada por el sonido, crea una conexión emocional que invita al espectador a cuestionar la propia percepción del tiempo y la percepción del yo. Sin lugar a dudas, La Jetée va más allá de su corta duración, convirtiéndose en una pieza esencial en la historia del cine.",
+        "vocabulary": [
+          {
+            "word": "donde",
+            "definition": "lugar en el que ocurre algo"
+          },
+          {
+            "word": "evoca",
+            "definition": "traer un recuerdo a la mente"
+          },
+          {
+            "word": "ciclo",
+            "definition": "una serie de eventos que se repiten"
+          },
+          {
+            "word": "intención",
+            "definition": "la finalidad o propósito de algo"
+          },
+          {
+            "word": "desafiar",
+            "definition": "poner a prueba algo o alguien"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué revela la película sobre el pasado?",
+            "options": [
+              "Es simple de entender",
+              "Siempre está presente en el individuo",
+              "No tiene importancia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de estructura utiliza La Jetée?",
+            "options": [
+              "Construida con imágenes estáticas",
+              "Construida solo con diálogos",
+              "Construida con colores brillantes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué movimiento se menciona en relación con el director?",
+            "options": [
+              "La nueva ola",
+              "La izquierda bancaria",
+              "El neorrealismo"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La Jetée: Un diálogo entre la memoria y el tiempo",
+        "text": "La Jetée, dirigida por Chris Marker en 1962, es mucho más que un filme de ciencia ficción; es una meditación profunda sobre la paradoja del tiempo y la memoria. A través de una serie de fotografías fijas, Marker articula un relato visual que revela la complejidad de lo que significa recordar. La narrativa sigue a un hombre, cuyo viaje lo lleva a confrontar un pasado que es simultáneamente anhelado y elusivo. La elección de una estética en blanco y negro no es trivial; esta decisión subraya la naturaleza etérea de los recuerdos, inmortalizados en un instante que nunca regresa. La exploración del tiempo en la obra se plantea no solo como un linear, sino como un ciclo repetitivo, sugiriendo que nuestras experiencias están eternamente ligadas a la agridulce naturaleza del presente. En este sentido, La Jetée se convierte en un espejo del alma humana que, a pesar de la esperanza de escapar de la condición humana, siempre está atada al aquí y el ahora. Es impresionante cómo Marker, al considerarla un 'foto novela', desafía la noción convencional del cine, empujando al espectador a cuestionar su propia realidad. Así, nos invita a reconsiderar la relación entre memoria y experiencia, constituyendo un hito en la historia del cine que trasciende su propia duración.",
+        "vocabulary": [
+          {
+            "word": "paradoja",
+            "definition": "una afirmación que parece contradictoria pero puede ser verdad"
+          },
+          {
+            "word": "etereal",
+            "definition": "muy ligero y delicado, como si no fuera parte de este mundo"
+          },
+          {
+            "word": "agridulce",
+            "definition": "algo que tiene tanto alegría como tristeza"
+          },
+          {
+            "word": "reflejar",
+            "definition": "mostrar o representar algo"
+          },
+          {
+            "word": "trascender",
+            "definition": "ir más allá de los límites establecidos"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de estética utiliza la película?",
+            "options": [
+              "Colorido y brillante",
+              "Negro y blanco",
+              "Animaciones"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo describe Marker su obra?",
+            "options": [
+              "Como un filme convencional",
+              "Como una foto novela",
+              "Como una serie animada"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué relaciona La Jetée con la condición humana?",
+            "options": [
+              "El deseo de escapar del tiempo",
+              "La búsqueda de riquezas",
+              "La ambición de poder"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  }
+}
