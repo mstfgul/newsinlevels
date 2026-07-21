@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-21-leo-tolstoy-",
+    "date": "2026-07-21",
+    "author": "Leo Tolstoy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg/330px-Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
+    "titles": {
+      "en": "All happy families are alike; each unhappy family is unhappy in its own way.",
+      "de": "Alle glücklichen Familien ähneln einander, jede unglückliche Familie ist auf ihre Weise unglücklich.",
+      "fr": "Toutes les familles heureuses se ressemblent, chaque famille malheureuse l'est à sa façon.",
+      "es": "Todas las familias felices son parecidas; cada familia infeliz es infeliz a su manera."
+    }
+  },
+  {
     "id": "2026-07-20-oscar-wilde-i-never-travel-without-my-diar",
     "date": "2026-07-20",
     "author": "Oscar Wilde",
