@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-21-2019-2019-2020-hong-kong-protests",
+    "date": "2026-07-21",
+    "year": 2019,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hong_Kong_anti-extradition_bill_protest_%2848108527758%29.jpg/330px-Hong_Kong_anti-extradition_bill_protest_%2848108527758%29.jpg",
+    "titles": {
+      "en": "The Yuen Long Attack in Hong Kong",
+      "de": "Die Proteste gegen das Auslieferungsgesetz in Hongkong",
+      "fr": "Les événements de Yuen Long en juillet 2019",
+      "es": "Los incidentes de Hong Kong en 2019"
+    }
+  },
+  {
     "id": "2026-07-20-2015-suruc-bombing",
     "date": "2026-07-20",
     "year": 2015,
