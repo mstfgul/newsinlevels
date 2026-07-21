@@ -1,0 +1,1426 @@
+{
+  "id": "2026-07-21-the-trial-franz-kafka",
+  "date": "2026-07-21",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Trial"
+  },
+  "originalTitle": "The Trial (1925) — Franz Kafka",
+  "image": "https://covers.openlibrary.org/b/id/14910748-L.jpg",
+  "category": "book",
+  "book": {
+    "author": "Franz Kafka",
+    "title": "The Trial",
+    "year": "1925"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Trial",
+        "text": "The Trial is a book by Franz Kafka. It is about a man named Josef K. One day, he wakes up and is arrested. Many people come to see him. He does not know why he is arrested. His life becomes very strange. Josef tries to understand the law. He meets many different characters. They help him or make things worse. The book asks important questions. What is the law? Who makes the rules? It is interesting and sometimes confusing. Many people like this book.",
+        "vocabulary": [
+          {
+            "word": "arrested",
+            "definition": "taken by the police"
+          },
+          {
+            "word": "strange",
+            "definition": "not normal or usual"
+          },
+          {
+            "word": "law",
+            "definition": "rules that people must follow"
+          },
+          {
+            "word": "understand",
+            "definition": "to know or comprehend"
+          },
+          {
+            "word": "important",
+            "definition": "having great meaning"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the main character?",
+            "options": [
+              "Josef K.",
+              "Franz Kafka",
+              "Max Brod"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What happens to Josef K.?",
+            "options": [
+              "He gets a job.",
+              "He goes on vacation.",
+              "He is arrested."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Does Josef K. know why he is arrested?",
+            "options": [
+              "Yes, he knows.",
+              "No, he does not know.",
+              "It is not clear."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Trial",
+        "text": "The Trial is a novel by Franz Kafka. It was published in 1925. The story follows a man named Josef K. One morning, he is suddenly arrested, but he does not know why. This strange event changes his everyday life in many ways. Josef K. meets many different people who are connected to the law and his trial. He feels confused, scared, and very angry about what is happening. Throughout the story, Kafka explores themes of justice and power, showing how they impact individuals. His unique style includes strange situations that make readers think. Many readers find the novel even more important today. It makes them reflect on the justice system and see connections to their own lives. Kafka’s work is famous and studied in many schools. It also reminds us of the uncertainty in life. The Trial raises questions about guilt and innocence, which are still relevant now.",
+        "vocabulary": [
+          {
+            "word": "justice",
+            "definition": "the quality of being fair and reasonable"
+          },
+          {
+            "word": "authority",
+            "definition": "the power or right to give orders or make decisions"
+          },
+          {
+            "word": "reflect",
+            "definition": "to think carefully about something"
+          },
+          {
+            "word": "impact",
+            "definition": "the effect or influence of one thing on another"
+          },
+          {
+            "word": "uncertainty",
+            "definition": "the state of being unsure or having doubts"
+          },
+          {
+            "word": "guilt",
+            "definition": "the fact of having committed a crime or wrong"
+          },
+          {
+            "word": "innocence",
+            "definition": "the state of being not guilty of a crime"
+          },
+          {
+            "word": "prosecuted",
+            "definition": "to bring a case against someone in a court of law"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happens to Josef K. in the story?",
+            "options": [
+              "He is suddenly arrested.",
+              "He helps the police.",
+              "He becomes a lawyer."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What themes does Kafka explore in the novel?",
+            "options": [
+              "Justice and friendship.",
+              "Justice and power.",
+              "Friendship and love."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why is The Trial still important today?",
+            "options": [
+              "It is fun to read.",
+              "It raises questions about guilt.",
+              "It tells a happy story."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Trial",
+        "text": "The Trial is a novel written by Franz Kafka, published in 1925. The story centers on a man named Josef K., who experiences a very strange event. One morning, he wakes up to find that he has been arrested by an unknown authority. Although he is not told what crime he has committed, he must navigate a confusing and seemingly illogical legal system. The narrative explores the frustrations and fears of Josef K., who struggles to understand the reasons behind his arrest. Throughout the book, Kafka uses a surreal style, which creates a strong sense of absurdity and tension. The novel raises important questions about justice, power, and individual rights in society. Many readers find it relevant today, as we still deal with issues concerning law and order, such as wrongful arrests and the transparency of legal systems. Kafka is often seen as a critic of bureaucratic methods that deny people their rights. Despite Kafka's early death in 1924, his work continues to influence literature and inspire new generations of readers. His themes resonate deeply, especially in a world where government actions can often feel distant or unjust. The Trial reminds us that anyone can find themselves trapped in a situation where they must fight against an unknown and unkind authority, making it a timeless piece of literature.",
+        "vocabulary": [
+          {
+            "word": "surreal",
+            "definition": "an unusual and dream-like quality that does not seem to be realistic."
+          },
+          {
+            "word": "bureaucratic",
+            "definition": "related to a complicated system of rules and officials."
+          },
+          {
+            "word": "investigate",
+            "definition": "to examine a situation carefully to discover facts."
+          },
+          {
+            "word": "relevant",
+            "definition": "connected to what is being discussed or considered."
+          },
+          {
+            "word": "prosecute",
+            "definition": "to officially accuse someone of a crime in a court."
+          },
+          {
+            "word": "authority",
+            "definition": "the power or right to give orders and make decisions."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What event happens to Josef K. in The Trial?",
+            "options": [
+              "He becomes a lawyer.",
+              "He is arrested by an unknown authority.",
+              "He runs away from his job."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Kafka's surreal style create in the novel?",
+            "options": [
+              "A sense of humor.",
+              "A sense of absurdity and tension.",
+              "A straightforward plot."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why do many readers find The Trial relevant today?",
+            "options": [
+              "It explores ancient themes.",
+              "It deals with current issues about law and order.",
+              "It is a love story."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Trial by Franz Kafka",
+        "text": "Franz Kafka's \"The Trial\" opens with an ordinary man, Josef K., waking up to find himself arrested without explanation. This mysterious and unsettling event leads him into a perplexing legal system, where he faces unseen authorities and an inexplicable charge. Throughout the novel, Kafka explores themes of guilt, bureaucracy, and alienation, creating a world that reflects human anxiety in the modern age. Readers may find themselves questioning the nature of justice and the power dynamics in society. Kafka’s distinct style combines elements of surrealism and absurdity with vivid descriptions, drawing readers into Josef's increasingly disorienting journey. The novel not only critiques the legal system but also mirrors the struggles individuals experience within larger, often incomprehensible structures. Published posthumously in 1925, \"The Trial\" remains significant today, prompting reflection on personal freedom and the pressures of conforming to societal norms. Its relevance persists, as it resonates with contemporary issues around authority and individual rights, inviting new generations to engage with Kafka's profound insights.",
+        "vocabulary": [
+          {
+            "word": "arrested",
+            "definition": "taken by the police because of a crime"
+          },
+          {
+            "word": "exploration",
+            "definition": "the act of looking into something in detail"
+          },
+          {
+            "word": "conformity",
+            "definition": "acting according to rules or social norms"
+          },
+          {
+            "word": "bureaucracy",
+            "definition": "a system of government or management with many rules"
+          },
+          {
+            "word": "anxiety",
+            "definition": "worry or nervousness about something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is arrested in the story?",
+            "options": [
+              "A strange woman",
+              "Josef K.",
+              "A police officer"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What theme does the book explore?",
+            "options": [
+              "Friendship",
+              "Bureaucracy",
+              "Nature"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When was the book published?",
+            "options": [
+              "1925",
+              "1915",
+              "1935"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Trial: A Journey Through Bureaucratic Nightmares",
+        "text": "In \"The Trial,\" Franz Kafka presents a haunting exploration of modern existential dread and societal structures through the story of Josef K., a man thrust into a bewildering legal nightmare. Arrested in his own home without clear charges, he navigates a labyrinthine bureaucratic system that is both absurd and terrifying. Kafka's narrative style, characterized by surrealism and bleak humor, draws readers into a world where traditional notions of justice and accountability collapse. The underlying themes of alienation and the struggle against faceless authority resonate powerfully, inviting contemplation on the individual's place within an indifferent society. Given its posthumous publication in 1925, many have interpreted the novel as a reflection of Kafka's own life experiences and the tumultuous socio-political landscape of early 20th-century Europe. Its literary significance is underscored by its inclusion in Le Monde's 100 Books of the Century, affirming its enduring relevance. Kafka’s incisive critique of bureaucracy and its dehumanizing effects challenges readers to reconsider current dynamics of power and control, making \"The Trial\" a relentless and provocative inquiry into the nature of justice.",
+        "vocabulary": [
+          {
+            "word": "bewildering",
+            "definition": "confusing and difficult to understand"
+          },
+          {
+            "word": "labyrinthine",
+            "definition": "like a maze, very complicated"
+          },
+          {
+            "word": "existential",
+            "definition": "related to existence and life's meaning"
+          },
+          {
+            "word": "indifferent",
+            "definition": "not caring; having no interest"
+          },
+          {
+            "word": "incisive",
+            "definition": "clear and sharp; cutting through confusion"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What type of system does Josef K. face?",
+            "options": [
+              "Bureaucratic",
+              "Democratic",
+              "Public"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Kafka invite readers to contemplate?",
+            "options": [
+              "The meaning of friendship",
+              "The individual's place in society",
+              "Cooking techniques"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When was \"The Trial\" first published?",
+            "options": [
+              "1925",
+              "1937",
+              "1914"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Kafka's The Trial: A Dystopian Allegory of Bureaucratic Terror",
+        "text": "Franz Kafka's \"The Trial\" remains an indelible mark on the literary landscape, encapsulating the futility of human existence caught within the gears of an unyielding bureaucracy. The novel presents an intricate tapestry of themes—alienation, existential angst, and the absurdity of the judicial system—interwoven in the harrowing narrative of Josef K., whose arrest for an unnamed crime becomes a metaphor for the perennial struggle against ineffable authority. Kafka’s mastery lies not only in his ability to craft an engrossing tale but also in his profound commentary on the nature of power and its disintegration of individuality. The surreal, often nightmarish tone underscores the anxiety of navigating a world governed by invisible forces, leaving readers to grapple with their own complicity in this societal machinery. Posthumously published in 1925, the work resonates far beyond its time, prompting readers to reflect on contemporary issues of justice and personal autonomy. Kafka’s incisive dissection of the legal apparatus and the oppressive weight of conformity evokes a haunting familiarity, ensuring \"The Trial\" remains pivotal in scholarly discussions concerning the relationship between the individual and societal constructs. Consequently, this seminal work transcends its era, challenging each subsequent generation to confront the complexities of existence and authority.",
+        "vocabulary": [
+          {
+            "word": "indelible",
+            "definition": "making marks that cannot be removed"
+          },
+          {
+            "word": "ineffable",
+            "definition": "too great or extreme to be expressed in words"
+          },
+          {
+            "word": "perennial",
+            "definition": "lasting for a long time; eternal"
+          },
+          {
+            "word": "tapestry",
+            "definition": "a complex combination of things or ideas"
+          },
+          {
+            "word": "dissection",
+            "definition": "analyzing something in detail to understand it"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Josef K.'s arrest represent?",
+            "options": [
+              "A fight for justice",
+              "A metaphor for authority",
+              "A historical account"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What kind of tone does Kafka use in the novel?",
+            "options": [
+              "Light-hearted",
+              "Surreal and nightmarish",
+              "Fun and silly"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why is \"The Trial\" considered important?",
+            "options": [
+              "It addresses contemporary issues",
+              "It is a biography",
+              "It is just a story"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Der Prozess",
+        "text": "Der Prozess ist ein Buch von Franz Kafka. Es handelt von Josef K. Er ist ein Mann. Eines Morgens wird er festgenommen. Er weiß nicht, warum. Die Geschichte ist sehr spannend. Kafka erzählt von Angst und Macht. Die Menschen um Josef K. sind geheimnisvoll. Sie sprechen oft seltsam. Der Leser fragt sich, was passiert. Dieses Buch ist wichtig für viele Leser. Kafka schreibt in einem speziellen Stil. Es gibt viele Fragen in der Geschichte.",
+        "vocabulary": [
+          {
+            "word": "Buch",
+            "definition": "eine Sammlung von Seiten"
+          },
+          {
+            "word": "Mann",
+            "definition": "ein Erwachsener, männlicher Mensch"
+          },
+          {
+            "word": "festgenommen",
+            "definition": "jemand wird von der Polizei gefangen"
+          },
+          {
+            "word": "Geschichte",
+            "definition": "eine Erzählung; etwas, das passiert"
+          },
+          {
+            "word": "Angst",
+            "definition": "das Gefühl von Sorgen oder Furcht"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist die Hauptfigur?",
+            "options": [
+              "Josef K.",
+              "Franz Kafka",
+              "Ein Polizist"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was passiert mit Josef K.?",
+            "options": [
+              "Er wird festgenommen.",
+              "Er geht spazieren.",
+              "Er schläft."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Ist die Geschichte spannend?",
+            "options": [
+              "Ja, sie ist spannend.",
+              "Nein, sie ist langweilig.",
+              "Sie ist kurz."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Der Prozess",
+        "text": "Der Prozess ist ein Roman von Franz Kafka. Er wurde 1925 veröffentlicht, aber Kafka schrieb ihn schon in den Jahren 1914 und 1915. Die Hauptfigur heißt Josef K. Eines Morgens wacht er auf und wird festgenommen. Josef K. weiß nicht, warum er im Gefängnis ist. Die Menschen um ihn sind sehr seltsam, und sie reden über das Gesetz. Aber niemand erklärt die Situation. Das macht Josef K. sehr nervös und ängstlich. Kafka beschreibt die Angst und die Unsicherheit von Josef K. auf eine besondere Weise. Die Geschichte ist geheimnisvoll und spannend. Viele Leser denken oft über Themen wie Autorität und Freiheit nach. Dieses Buch ist wichtig, weil es Fragen über das Leben und die Justiz aufwirft. Kafka hat einen einzigartigen Schreibstil. Viele Menschen lesen dieses Buch, um die komplexen Gedanken von Kafka zu verstehen. Der Roman zeigt die Absurdität und Willkür einer unklaren Rechtsprechung. Das macht die Handlung noch faszinierender.",
+        "vocabulary": [
+          {
+            "word": "Festnahme",
+            "definition": "Die Verhaftung einer Person durch die Polizei."
+          },
+          {
+            "word": "Gesetz",
+            "definition": "Die Regeln, die das Verhalten der Menschen bestimmen."
+          },
+          {
+            "word": "Angst",
+            "definition": "Ein Gefühl von Sorge oder Furcht."
+          },
+          {
+            "word": "Justiz",
+            "definition": "Das System von Gerichten und Gesetzen."
+          },
+          {
+            "word": "Absurdität",
+            "definition": "Etwas, das keinen Sinn oder keine Logik hat."
+          },
+          {
+            "word": "Komplex",
+            "definition": "Schwierig oder kompliziert."
+          },
+          {
+            "word": "Willkür",
+            "definition": "Die Macht, ohne Regeln zu handeln."
+          },
+          {
+            "word": "Frieden",
+            "definition": "Ein Zustand ohne Konflikte oder Krieg."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde Der Prozess veröffentlicht?",
+            "options": [
+              "1925",
+              "1914",
+              "1937"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist die Hauptfigur des Romans?",
+            "options": [
+              "Josef K.",
+              "Franz Kafka",
+              "Max Brod"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was beschreibt Kafka in dem Roman?",
+            "options": [
+              "Die Liebe",
+              "Angst und Unsicherheit",
+              "Frieden"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Der Prozess",
+        "text": "Der Prozess ist ein wichtiger Roman von Franz Kafka, der 1925 posthum veröffentlicht wurde. Die Geschichte handelt von Josef K., einem Bankangestellten, der eines Morgens unerwartet festgenommen wird, ohne genau zu wissen, warum. Diese Festnahme geschieht plötzlich und führt zu einer ständigen Unsicherheit in seinem Leben. Kafka thematisiert die Ohnmacht eines Individuums vor einer schwer fassbaren Autorität, die als gesichtslos und unverständlich erscheint. Josef K. versucht verzweifelt, die Gründe für seine Festnahme zu verstehen. Dabei trifft er auf verschiedene Figuren, die ihm helfen oder ihn verwirren, was die Komplexität der Rechtswelt zeigt. Viele Leser haben die Absurdität und die Angst, die viele Menschen in modernen Gesellschaften empfinden, als sehr treffend empfunden. Die Unfähigkeit, die eigene Situation zu begreifen, führt zu einem Gefühl der Isolation. Das Buch regt zudem zum Nachdenken über Gerechtigkeit und die menschliche Existenz an. Auch wenn der Roman unvollendet bleibt, zeigt er eine wirkungsvolle Kritik an bürokratischen Systemen. Kafkas Stil ist präzise und manchmal verwirrend, was die Leser immer wieder in eine fremde, doch vertraute Welt zieht. Der Prozess bleibt somit zeitlos und lässt uns auch heute noch über unsere Rolle in der Gesellschaft nachdenken.",
+        "vocabulary": [
+          {
+            "word": "Bürokratie",
+            "definition": "Die Bürokratie ist ein System von Regeln und Verfahren, das in großen Organisationen notwendig ist."
+          },
+          {
+            "word": "Ohnmacht",
+            "definition": "Ohnmacht bedeutet, dass man keine Macht oder Kontrolle über eine Situation hat."
+          },
+          {
+            "word": "Absurdität",
+            "definition": "Absurdität beschreibt etwas, das sinnlos oder irrational ist."
+          },
+          {
+            "word": "Isolierung",
+            "definition": "Isolierung bedeutet, dass man sich von anderen Menschen getrennt fühlt."
+          },
+          {
+            "word": "bedeutend",
+            "definition": "Bedeutend heißt wichtig oder von großer Relevanz."
+          },
+          {
+            "word": "verwirrend",
+            "definition": "Verwirrend beschreibt etwas, das nicht klar oder leicht zu verstehen ist."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde Der Prozess veröffentlicht?",
+            "options": [
+              "1925",
+              "1914",
+              "1937"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer hat den Roman nach Kafkas Tod veröffentlicht?",
+            "options": [
+              "Max Brod",
+              "Willa Muir",
+              "Edwin Muir"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was thematisiert der Roman hauptsächlich?",
+            "options": [
+              "Geld und Macht",
+              "Freiheit und Freundschaft",
+              "Ohnmacht vor Autorität"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Der Prozess",
+        "text": "In \"Der Prozess\" von Franz Kafka begegnet der Leser Josef K., einem gewöhnlichen Bankangestellten, der eines Morgens verhaftet wird, ohne jegliche Erklärung. Dieses absurde und beunruhigende Szenario eröffnet die Erzählung und zieht Leser sofort in die tiefgründige Auseinandersetzung mit Themen wie Schuld, Macht und der Unzugänglichkeit von Justizsystemen. Kafka, ein Meister des Unheimlichen, beschreibt die Gefühlswelt seines Protagonisten, der gegen einen anonymen und kafkaesken Staat kämpft, der ihn verfolgt. Die Geschichten sind oft gekennzeichnet von einer düsteren, fast surrealen Atmosphäre. Außerdem wird die innere Zerrissenheit von Josef K. besonders deutlich, da er immer wieder mit der Frage konfrontiert wird, was seine Schuld ist oder ob er überhaupt eine begangen hat. Der Roman behandelt auch die Ohnmacht des Individuums angesichts einer übermächtigen Bürokratie, die sich über das Leben der Menschen erhebt. Obwohl der Roman 1925 veröffentlicht wurde, bleibt seine Relevanz bis heute bestehen, da er viele Fragen zur menschlichen Existenz, Identität und der Natur von Autorität aufwirft. Der Einfluss von \"Der Prozess\" auf die deutsche Literatur ist enorm, und international hat das Werk bedeutende Beachtung gefunden, weil es universelle Ängste und die Isolation des Individuums in einer zunehmend entfremdeten Welt thematisiert. Kafka selbst hat nach seiner Diagnose von Tuberkulose oft in seinen Tagebüchern die Themen des Wandels und der Unsicherheit reflektiert, was seine Werke zusätzlich intensiviert und bereichert hat. Diese vielschichtigen Aspekte tragen zur anhaltenden Faszination der Leser bei.",
+        "vocabulary": [
+          {
+            "word": "Ohnmacht",
+            "definition": "Mangel an Macht oder Einfluss; Hilflosigkeit."
+          },
+          {
+            "word": "Bürokratie",
+            "definition": "Ein System oder eine Organisation, die durch Regeln und Vorschriften gekennzeichnet ist."
+          },
+          {
+            "word": "Zerrissenheit",
+            "definition": "Der Zustand innerer Spaltung oder Unsicherheit."
+          },
+          {
+            "word": "entfremdet",
+            "definition": "Von etwas oder jemandem entfremdet sein, sich fremd fühlen."
+          },
+          {
+            "word": "übermächtig",
+            "definition": "So stark oder dominant, dass man ihr kaum entkommen kann."
+          },
+          {
+            "word": "Diagnose",
+            "definition": "Feststellung einer Krankheit oder eines Zustands."
+          },
+          {
+            "word": "Intensität",
+            "definition": "Stärke oder Ausmaß einer Empfindung oder eines Ereignisses."
+          },
+          {
+            "word": "Reflexion",
+            "definition": "Nachdenken über etwas; tiefgreifende Überlegung."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie wird die innere Zerrissenheit von Josef K. im Roman deutlich?",
+            "options": [
+              "Durch seine Ablehnung der Autorität.",
+              "Durch seine ständige Suche nach dem Grund der Verhaftung.",
+              "Durch seine Freundschaften im Gefängnis."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "In welchem Jahr wurde \"Der Prozess\" veröffentlicht?",
+            "options": [
+              "1920",
+              "1925",
+              "1930"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Thema wird im Roman nicht behandelt?",
+            "options": [
+              "Die Isolation des Individuums.",
+              "Die Bedeutung der Familie.",
+              "Die Macht der Bürokratie."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Der Prozess – Ein Werk der Verunsicherung",
+        "text": "Franz Kafkas \"Der Prozess\" ist ein faszinierendes, jedoch verstörendes Werk, das den Leser in die verworrene Welt des Josef K. einführt, der eines Morgens ohne nachvollziehbare Anklage verhaftet wird. Diese Situation, die die Absurdität der menschlichen Existenz verkörpert, entfaltet sich in einem fast surrealen Rahmen, der durch Kafkas charakteristischen Erzählstil geprägt ist. Die düstere Ironie, mit der Kafka die Ohnmacht und Verzweiflung seines Protagonisten einfängt, verstärkt das Gefühl der Hilflosigkeit, das sich durch den gesamten Roman zieht. Insofern als die Struktur des Romans die Fragmentierung und den unendlichen Kreislauf juristischer Auseinandersetzungen eindringlich widerspiegelt, verweist das Werk auf essentielle Fragen zur Gerechtigkeit, Schuld und der Rolle des Individuums in einem unverständlichen System. Überdies positioniert Kafka, dessen Einfluss auf die Literatur unermesslich ist, sich mit \"Der Prozess\" als Wegbereiter für existenzialistische und absurdistische Literatur. Trotz der Veröffentlichung im Jahre 1925 reflektiert das Werk auch gegenwärtige gesellschaftliche Ängste und thematisiert universelle Überlegungen zur menschlichen Existenz. Es sind die prägnante Charakterisierung und die Ambivalenz der Handlung, die die Leser nicht nur in den Bann ziehen, sondern sie zudem zu einer kritischen Reflexion über ihre eigene Realität anregen. Daher bleibt \"Der Prozess\" ein zeitloses Werk, das auch heute noch zur Auseinandersetzung mit dem eigenen Platz in der Welt anregt.",
+        "vocabulary": [
+          {
+            "word": "verworren",
+            "definition": "chaotisch oder kompliziert, schwer zu durchschauen."
+          },
+          {
+            "word": "gestalten",
+            "definition": "formen, prägen; eine Entwicklung oder ein Ereignis hervorrufen."
+          },
+          {
+            "word": "absurd",
+            "definition": "völlig unlogisch; gegen die gesunde Vernunft."
+          },
+          {
+            "word": "Ohnmacht",
+            "definition": "das Gefühl, machtlos oder hilflos zu sein."
+          },
+          {
+            "word": "fragmentarisch",
+            "definition": "in Stücke, Bruchstücke unterteilt; nicht vollständig."
+          },
+          {
+            "word": "intertextuelle",
+            "definition": "Beziehung zwischen Texten; Anspielungen oder Einflüsse."
+          },
+          {
+            "word": "Ambivalenz",
+            "definition": "Gleichzeitigkeit von widersprüchlichen Gefühlen oder Ansichten."
+          },
+          {
+            "word": "Existenz",
+            "definition": "das Dasein, das Leben eines Menschen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was beschreibt die Handlung von \"Der Prozess\"?",
+            "options": [
+              "Die Verhaftung ohne Anklage des Protagonisten.",
+              "Die Suche nach Gerechtigkeit in einem klaren System.",
+              "Die Freundschaft zwischen Josef K. und dem Ankläger."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Gefühl wird durch Kafkas Erzählstil vermittelt?",
+            "options": [
+              "Hoffnung und Optimismus.",
+              "Ohnmacht und Verzweiflung.",
+              "Langeweile und Desinteresse."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie wird Kafkas Einfluss auf die Literatur beschrieben?",
+            "options": [
+              "Er wird als gering eingeschätzt.",
+              "Er wird als unermesslich angesehen.",
+              "Er wird als überbewertet betrachtet."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Der Prozess – Kafkas Meisterwerk der Absurdität",
+        "text": "In \"Der Prozess\" entwirft Franz Kafka ein ebenso unheimliches wie faszinierendes Porträt der menschlichen Existenz im Angesicht einer vorgeblich rationalen Bürokratie. Der Protagonist Josef K., der durch ein undurchsichtiges und groteskes Gerichtsverfahren gefangen gehalten wird, ist nicht nur Opfer eines absurden Systems, sondern auch Repräsentant der tragischen Situation des Einzelnen in einer Welt ohne erkennbaren Sinn. Die Sprache Kafkas ist durchzogen von einer dichten Symbolik, die eine ambivalente Kombination aus Hoffnung und Verzweiflung erzeugt. Diese Dichotomie wird durch die allgegenwärtige Präsenz der Ungewissheit verstärkt, die sich wie ein roter Faden durch den Roman zieht. Der narrative Aufbau, eingehüllt in illusorische Möglichkeiten, ermöglicht dem Leser eine tiefgreifende Reflexion über die Natur der Freiheit und des Unglücks. \"Der Prozess\" ist nicht allein ein literarisches Werk; es ist ein philosophisches Manifest, das die Grundfragen des Seins und der Verpflichtungen des Individuums zur Diskussion stellt. Kafkas Einfluss wirkte auch weit über seine Zeit hinaus. Das Werk hinterfragt nicht nur die Institutionen der Macht, sondern thematisiert auch universelle menschliche Kämpfe, die in der heutigen Welt relevant bleiben. In seiner Komplexität fordert es den Leser heraus, sich mit den Fragen der Gerechtigkeit, Identität und des Sinns des Lebens auseinanderzusetzen.",
+        "vocabulary": [
+          {
+            "word": "porträtieren",
+            "definition": "ein Bild zeigen oder beschreiben"
+          },
+          {
+            "word": "undurchsichtig",
+            "definition": "nicht klar oder durchschaubar"
+          },
+          {
+            "word": "grotesk",
+            "definition": "unnatürlich und absurd"
+          },
+          {
+            "word": "Dichotomie",
+            "definition": "Zwei gegensätzliche Dinge zusammenbringen"
+          },
+          {
+            "word": "narrativ",
+            "definition": "die Erzählweise betreffend"
+          },
+          {
+            "word": "Manifest",
+            "definition": "eine öffentliche Erklärung von Ideen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Hauptthema steht im Fokus von \"Der Prozess\"?",
+            "options": [
+              "Die Annäherung an die Natur",
+              "Der Kampf des Individuums gegen die Macht",
+              "Romantische Beziehungen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie ist Kafkas Sprache in \"Der Prozess\"?",
+            "options": [
+              "Einfach und klar",
+              "Dicht und symbolisch",
+              "Lustig und verspielt"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was fordert das Werk vom Leser?",
+            "options": [
+              "Sich zu amüsieren",
+              "Eine tiefgreifende Reflexion",
+              "Das Buch schnell zu lesen"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Le procès",
+        "text": "Le procès est un livre connu. Il est écrit par Franz Kafka. L'histoire commence avec Josef K. Josef K. est un homme ordinaire. Un jour, il est arrêté sans raison. Il ne sait pas pourquoi. Les choses sont très étranges pour lui. C'est une situation difficile. Il se sent perdu et confus. Il veut comprendre ce qui se passe. Le livre parle de la justice et de la peur. Les personnages sont aussi mystérieux. Ce livre est très célèbre dans le monde entier. Beaucoup de gens aiment ce livre. Il est étudié dans les écoles. Il inspire des réflexions sur la société.",
+        "vocabulary": [
+          {
+            "word": "ordinaire",
+            "definition": "qui est normal, pas spécial"
+          },
+          {
+            "word": "situation",
+            "definition": "un ensemble de circonstances"
+          },
+          {
+            "word": "difficile",
+            "definition": "pas facile, compliqué"
+          },
+          {
+            "word": "réflexions",
+            "definition": "pensées ou idées sur un sujet"
+          },
+          {
+            "word": "étudié",
+            "definition": "appris ou analysé en classe"
+          },
+          {
+            "word": "inspire",
+            "definition": "donne des idées"
+          },
+          {
+            "word": "monde",
+            "definition": "la Terre, tous les pays"
+          },
+          {
+            "word": "célèbre",
+            "definition": "bien connu, populaire"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est l'auteur de Le procès ?",
+            "options": [
+              "Franz Kafka",
+              "Dostoevsky",
+              "Max Brod"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand le livre est-il publié ?",
+            "options": [
+              "1914",
+              "1925",
+              "1937"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel sentiment ressent Josef K. lors de son arrestation ?",
+            "options": [
+              "La joie",
+              "La confusion",
+              "La colère"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Le procès",
+        "text": "Le procès est un roman écrit par Franz Kafka. Il a été publié en 1925. L'histoire raconte la vie de Josef K., un homme ordinaire. Un matin, il est arrêté sans raison, et il ne comprend pas ce qu'il a fait. À partir de ce moment, il vit des événements étranges et troublants. Josef K. essaie de comprendre sa situation. Il parle avec plusieurs personnages, comme des avocats et des gardiens. Ces personnages sont souvent confus et mystérieux, ce qui ajoute à sa frustration. Le livre explore des thèmes comme l'injustice, la solitude et l'absurdité du pouvoir. Kafka montre la peur de la société moderne et les difficultés du système judiciaire. Beaucoup de gens pensent que ce livre est un chef-d'œuvre. Il pose des questions importantes sur la liberté et la responsabilité. Aujourd'hui, il est encore important et souvent étudié dans de nombreux pays.",
+        "vocabulary": [
+          {
+            "word": "injustice",
+            "definition": "situation où quelqu'un est traité de façon injuste."
+          },
+          {
+            "word": "solitude",
+            "definition": "état d’être seul."
+          },
+          {
+            "word": "absurde",
+            "definition": "qui n’a pas de sens logique."
+          },
+          {
+            "word": "pouvoir",
+            "definition": "capacité d'agir ou de contrôler."
+          },
+          {
+            "word": "responsabilité",
+            "definition": "obligation d'agir d'une certaine façon."
+          },
+          {
+            "word": "système judiciaire",
+            "definition": "ensemble des institutions qui appliquent le droit."
+          },
+          {
+            "word": "frustration",
+            "definition": "sentiment de mécontentement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le personnage principal du roman ?",
+            "options": [
+              "Josef K.",
+              "Franz Kafka",
+              "Max Brod"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel thème important explore le livre ?",
+            "options": [
+              "La joie",
+              "La solitude",
+              "L'amitié"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quand le livre a-t-il été publié ?",
+            "options": [
+              "1920",
+              "1925",
+              "1930"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Le procès",
+        "text": "Le procès est un roman de Franz Kafka, publié en 1925. Ce livre parle de Josef K., un homme qui est arrêté sans savoir pourquoi, ce qui crée un sens d'incompréhension chez le lecteur. Cet événement étrange marque le début d'une série de situations illogiques et absurdes qui reflètent la société moderne. Josef K. rencontre divers personnages, qui l’aident ou le freinent dans sa quête de justice. Ces personnages, souvent mystérieux, ajoutent à l'atmosphère troublante du récit. Le texte aborde des thèmes profonds comme l'angoisse, la bureaucratie et la solitude, qui peuvent toucher chacun d'entre nous dans notre vie quotidienne. L'écriture de Kafka est très originale, souvent remplie de détails qui créent un univers déroutant. Les lecteurs ont ressenti l'angoisse et l'isolement de Josef K. qui engendrent une réflexion sur leur propre existence. Chaque chapitre semble prolonger son désespoir, nous faisant réfléchir sur la condition humaine. En fin de compte, cette œuvre nous questionne sur la nature de la justice et notre place dans la société. Le procès a influence plusieurs écrivains et penseurs, devenant un classique de la littérature, étudié et analysé dans de nombreux contextes académiques.",
+        "vocabulary": [
+          {
+            "word": "angoisse",
+            "definition": "sentiment d'inquiétude ou de peur"
+          },
+          {
+            "word": "bureaucratie",
+            "definition": "système complexe d'organisations gouvernementales"
+          },
+          {
+            "word": "absurde",
+            "definition": "qui n'a pas de sens, illogique"
+          },
+          {
+            "word": "mystérieux",
+            "definition": "qui suscite des questions, difficile à comprendre"
+          },
+          {
+            "word": "réflexion",
+            "definition": "pensée profonde, considération sur un sujet"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le personnage principal du roman ?",
+            "options": [
+              "Josef K.",
+              "Franz Kafka",
+              "Max Brod"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est un des thèmes principaux abordés dans le texte ?",
+            "options": [
+              "La bureaucratie",
+              "Le romantisme",
+              "La science-fiction"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand le roman a-t-il été publié ?",
+            "options": [
+              "En 1914",
+              "En 1925",
+              "En 1937"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Le Procès",
+        "text": "« Le Procès » de Franz Kafka, publié en 1925, est un roman monumental qui explore des thèmes d'absurdité et d'aliénation. L'histoire commence avec Josef K., un homme ordinaire qui se réveille un jour pour découvrir qu'il est arrêté sans savoir pourquoi. Cette situation paradoxale illustre la lutte contre une autorité inaccessible et incompréhensible. Au fil de ses mésaventures, on assiste à des interrogations sur la culpabilité, la justice et le pouvoir, soulignant ainsi un sentiment d'impuissance face à un système déshumanisant. L'écriture de Kafka se caractérise par un ton à la fois poignant et dérangeant, créant une atmosphère oppressante qui pousse le lecteur à réfléchir sur la condition humaine. En plus de son influence notable sur la littérature moderne, ce roman demeure pertinent aujourd'hui pour sa critique des phénomènes bureaucratiques et de la solitude de l’individu dans un monde devenu étranger. Kafka, en confrontant ses lecteurs à ces questions profondes, laisse une empreinte durable sur notre compréhension de la société contemporaine.",
+        "vocabulary": [
+          {
+            "word": "absurdité",
+            "definition": "quelque chose qui n'a pas de sens"
+          },
+          {
+            "word": "aliénation",
+            "definition": "sentiment d'isolement ou d'éloignement"
+          },
+          {
+            "word": "inaccessible",
+            "definition": "que l'on ne peut pas atteindre"
+          },
+          {
+            "word": "paradoxal",
+            "definition": "qui semble contradictoire"
+          },
+          {
+            "word": "oppressante",
+            "definition": "quelque chose qui pèse fortement sur l'esprit"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le personnage principal du roman ?",
+            "options": [
+              "Josef K.",
+              "Franz Kafka",
+              "Max Brod"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand « Le Procès » a-t-il été publié ?",
+            "options": [
+              "1914",
+              "1925",
+              "1937"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel thème important est exploré dans le livre ?",
+            "options": [
+              "L'amour",
+              "L'absurdité",
+              "L'amitié"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Le Procès",
+        "text": "Publié en 1925, « Le Procès » de Franz Kafka dépeint une réalité où la logique et le sens sont submergés par des forces inexplicables et impressionnantes. L’intrigue palpitante, centrée sur Josef K., un homme arrêté et poursuivi par une autorité hermétique, révèle l’angoisse de l’individu confronté à un système judiciaire opaque et absurde. Au cœur de cette œuvre, Kafka explore la déshumanisation engendrée par la bureaucratie, principalement à travers un récit empreint de surréalisme. Les questions qu’il soulève vont bien au-delà des simples préoccupations juridiques, en abordant, par exemple, la nature de la justice et le sens de la culpabilité qui habite chacun d’entre nous. Kafka parvient, par une prose claire et précise, à créer une atmosphère pesante, renforcée par des dialogues souvent dépouillés, donnant ainsi au lecteur une impression d’aliénation déconcertante. Ses descriptions immersives, bien que parfois dérangeantes, amènent le lecteur à s'interroger sur sa propre place et son rôle dans la société. Ce roman, tout en étant un reflet symbolique des angoisses liées à la bureaucratie moderne, évoque également des thématiques universelles, telles que l’absurdité de l'existence, qui résonnent toujours aujourd'hui. L'œuvre de Kafka continue d'inspirer de nombreux écrivains et artistes, servant de fil rouge pour aborder des réalités sociales troublantes et des préoccupations contemporaines, comme la lutte contre l'indifférence et l'incompréhension qui marquent notre époque.",
+        "vocabulary": [
+          {
+            "word": "absurde",
+            "definition": "Qui est déraisonnable, illogique, contraire au sens commun."
+          },
+          {
+            "word": "déshumanisation",
+            "definition": "Processus par lequel un individu est privé de ses caractéristiques humaines."
+          },
+          {
+            "word": "surréalisme",
+            "definition": "Mouvement artistique et littéraire visant à libérer la pensée de la logique."
+          },
+          {
+            "word": "aliénation",
+            "definition": "État de quelqu'un qui est devenu étranger à lui-même ou à son environnement."
+          },
+          {
+            "word": "symbolique",
+            "definition": "Qui donne un sens au-delà de la réalité immédiate, représentant des idées ou des concepts."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le protagoniste du roman ?",
+            "options": [
+              "Franz Kafka",
+              "Josef K.",
+              "Max Brod"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Kafka décrit-il le système judiciaire dans le roman ?",
+            "options": [
+              "Transparent et clair",
+              "Opacité et absurdité",
+              "Efficace et juste"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle thématique universelle est évoquée dans le roman ?",
+            "options": [
+              "La nature du bonheur",
+              "L’absurdité de l'existence",
+              "Les relations amicales"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Le Procès",
+        "text": "Œuvre incontournable de la littérature moderne, « Le Procès » de Franz Kafka, publié en 1925, soulève des interrogations fondamentales sur la condition humaine et la nature de l'autorité. Le protagoniste, Josef K., se trouve enfermé dans un labyrinthe judiciaire, symbole d'une société où les règles et les lois semblent arbitraires. Par son approche subtile, l'auteur décrit un monde où l'absurde devient la norme, entraînant le lecteur dans des réflexions profondes sur la culpabilité inhérente à l'existence. Le style de Kafka, marqué par son utilisation du non-dit et de l'ironie, crée une atmosphère d'aliénation qui transcende le temps et résonne avec les angoisses contemporaines concernant le pouvoir et la perte d'autonomie individuelle. À travers des personnages grotesques et des situations paradoxales, l'œuvre interpelle sur le rapport entre l'individu et l'État, questionnant ainsi les fondements de la justice. La richesse thématique et la profondeur psychologique de « Le Procès » font de ce roman une exploration inédite des dilemmes moraux, confirmant ainsi la place prépondérante de Kafka dans le panthéon littéraire du XXe siècle.",
+        "vocabulary": [
+          {
+            "word": "incontournable",
+            "definition": "quelque chose de très important ou essentiel"
+          },
+          {
+            "word": "labyrinthe",
+            "definition": "un lieu compliqué à naviguer"
+          },
+          {
+            "word": "inhérent",
+            "definition": "qui fait partie intégrante de quelque chose"
+          },
+          {
+            "word": "subtil",
+            "definition": "fin, délicat et difficile à déceler"
+          },
+          {
+            "word": "grotesque",
+            "definition": "extrêmement bizarre ou ridicule"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle est la principale préoccupation de Joséph K. ?",
+            "options": [
+              "La perte d'autonomie",
+              "La recherche de la vérité",
+              "L'amour"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment Kafka décrit-il le monde du procès ?",
+            "options": [
+              "Comme habité par des personnages normaux",
+              "Comme un lieu d'absurde",
+              "Comme un monde organisé"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel aspect de la justice est remis en question dans le roman ?",
+            "options": [
+              "La simplicité",
+              "L'arbitraire",
+              "La clarté"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "El Proceso",
+        "text": "El Proceso es un libro de Franz Kafka. La historia empieza con Josef K. Él es un hombre. Un día, Josef K. está arrestado. No sabe por qué. La autoridad es misteriosa. La situación es extraña. Josef K. tiene miedo. Él quiere entender. ¿Qué va a pasar con él? Esta novela es famosa. Kafka escribe de manera interesante. El libro habla de la justicia. También habla del miedo y la soledad. El Proceso es importante hoy. Es un clásico de la literatura.",
+        "vocabulary": [
+          {
+            "word": "proceso",
+            "definition": "es un procedimiento o acción"
+          },
+          {
+            "word": "hombre",
+            "definition": "persona de sexo masculino"
+          },
+          {
+            "word": "miedo",
+            "definition": "sensación de peligro"
+          },
+          {
+            "word": "extraña",
+            "definition": "no normal o rara"
+          },
+          {
+            "word": "justicia",
+            "definition": "sistema de derecho y leyes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el personaje principal?",
+            "options": [
+              "Josef K.",
+              "Max Brod",
+              "Franz Kafka"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tiene Josef K.?",
+            "options": [
+              "Una casa",
+              "Un miedo",
+              "Un amigo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué es El Proceso?",
+            "options": [
+              "Una película",
+              "Un libro",
+              "Un poema"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "El Proceso de Kafka",
+        "text": "El Proceso fue escrito por Franz Kafka en 1914 y 1915. Se publicó en 1925, después de la muerte de Kafka. La historia comienza con Josef K., un hombre común. Un día, Josef K. es arrestado sin un motivo claro. Esto es muy extraño para él. A medida que avanza la novela, Josef K. busca respuestas. Él quiere saber por qué está en problemas. La autoridad que lo juzga es confusa y distante. El libro trata sobre el sistema judicial y el poder. También explora el miedo y la soledad que siente Josef K. Kafka tiene un estilo único. Su forma de escribir es intrigante y profunda. Esta novela todavía es relevante hoy, porque habla de la lucha contra la injusticia.",
+        "vocabulary": [
+          {
+            "word": "motivo",
+            "definition": "razón para hacer algo"
+          },
+          {
+            "word": "extraño",
+            "definition": "diferente o raro"
+          },
+          {
+            "word": "buscar",
+            "definition": "tratar de encontrar"
+          },
+          {
+            "word": "poder",
+            "definition": "capacidad de hacer algo"
+          },
+          {
+            "word": "relevante",
+            "definition": "importante o significativo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo se escribió El Proceso?",
+            "options": [
+              "En 1914 y 1915",
+              "En 1925",
+              "En 1937"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es el personaje principal?",
+            "options": [
+              "Josef K.",
+              "Franz Kafka",
+              "Un juez"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿De qué habla la novela?",
+            "options": [
+              "De la amistad",
+              "Del poder y la justicia",
+              "De la familia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "El Proceso de Franz Kafka",
+        "text": "El Proceso es una novela escrita por Franz Kafka entre 1914 y 1915 y publicada en 1925. La obra sigue a Josef K., un hombre que un día es arrestado. Sin embargo, no entiende la razón de su arresto. Desde el comienzo, Josef K. se enfrenta a una autoridad poco accesible, lo que genera en él una sensación de angustia y confusión. A lo largo de la novela, intenta descubrir qué está pasando, pero se encuentra atrapado en un sistema judicial que no tiene sentido. Los temas principales de la novela incluyen la lucha contra la injusticia y el aislamiento personal. Kafka utiliza un estilo de escritura que mezcla lo surrealista con lo absurdo, lo que hace que el lector reflexione sobre la condición humana. La relevancia del libro se mantiene hoy, ya que plantea preguntas sobre el poder y la corrupción en la sociedad moderna. El Proceso obliga a los lectores a cuestionar las normas y el sentido de la justicia.",
+        "vocabulary": [
+          {
+            "word": "angustia",
+            "definition": "sentimiento de miedo o preocupación"
+          },
+          {
+            "word": "sistema",
+            "definition": "conjunto de elementos que funcionan juntos"
+          },
+          {
+            "word": "aislamiento",
+            "definition": "estado de estar solo o separado"
+          },
+          {
+            "word": "reflexionar",
+            "definition": "pensar detenidamente sobre algo"
+          },
+          {
+            "word": "corrupción",
+            "definition": "uso indebido de poder"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué busca Josef K. durante la novela?",
+            "options": [
+              "Una respuesta sobre su arresto",
+              "Una nueva casa",
+              "Un amigo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál es un tema importante de El Proceso?",
+            "options": [
+              "La vida familiar",
+              "La injusticia",
+              "El amor"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo es el estilo de Kafka?",
+            "options": [
+              "Realista",
+              "Absurdo y surrealista",
+              "Romántico"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "El Proceso de Franz Kafka",
+        "text": "Franz Kafka, un autor esencial de la literatura del siglo XX, presenta en *El Proceso* una narrativa envolvente que examina la alienación y la incomunicación en un mundo regido por normas incomprensibles. La historia comienza con la súbita detención de Josef K., un hombre que se enfrenta a una acusación vaga y opaca, sin entender el motivo detrás de su arresto. A lo largo de la novela, Kafka utiliza un estilo inquietante y onírico que refleja la angustia existencial de Josef, mientras este intenta navegar un sistema judicial inextricablemente complicado. A medida que avanza, surgen preguntas fundamentales sobre el poder, la justicia y la impotencia del individuo frente a las instituciones. Kafka, influenciado por las obras de Dostoyevski, explora la lucha interna de los personajes en condiciones opresivas y la búsqueda de significado en la vida. La naturaleza incompleta de la novela, con su inesperado final, resuena con los lectores contemporáneos, aludiendo a la confusión y la incertidumbre que persisten en nuestra propia realidad. Así, *El Proceso* se convierte en una reflexión atemporal sobre la lucha por la justicia en un mundo irracional.",
+        "vocabulary": [
+          {
+            "word": "alienación",
+            "definition": "Sentimiento de estar separado o aislado de algo."
+          },
+          {
+            "word": "incomprensible",
+            "definition": "Que no se puede entender."
+          },
+          {
+            "word": "narrativa",
+            "definition": "Forma de contar una historia."
+          },
+          {
+            "word": "justicia",
+            "definition": "Principio moral que busca el bien y la equidad."
+          },
+          {
+            "word": "opresivo",
+            "definition": "Que causa sufrimiento o presión."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el protagonista de *El Proceso*?",
+            "options": [
+              "Un juez",
+              "Josef K.",
+              "Un policía"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué le ocurre a Josef K. al inicio de la historia?",
+            "options": [
+              "Es detenido",
+              "Consigue un trabajo",
+              "Viaja a otro país"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tema principal explora Kafka en la novela?",
+            "options": [
+              "La amistad",
+              "La justicia",
+              "El amor"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "El Proceso: Una novela de Franz Kafka",
+        "text": "Publicado póstumamente en 1925, *El Proceso* de Franz Kafka ha sido considerado como una de las obras más significativas de la literatura moderna, abordando de manera incisiva cuestiones de poder y justicia. La narrativa sigue a Josef K., un hombre aparentemente común cuyo arresto inicial desencadena una serie de eventos absurdos dentro de un sistema judicial ambiguo y enigmático. La prosa de Kafka se caracteriza por su tensión psicológica y una atmósfera opresiva que se siente casi tangible. En un mundo donde las leyes son inalcanzables, el protagonista se convierte en un emblema de la impotencia del individuo frente a un orden social arbitrario. Kafka invita al lector a cuestionar no solo la integridad del sistema legal, sino también el significado de la existencia misma. A través de su estilo surrealista y provocativo, el autor nos confronta con el absurdo de la vida y las luchas internas que acompañan a la búsqueda de sentido. *El Proceso* no solo refleja la angustia de su época, marcada por el desencanto, sino que también plantea preguntas que siguen siendo relevantes hoy, convirtiendo la novela en un examen continuo de la condición humana.",
+        "vocabulary": [
+          {
+            "word": "incisiva",
+            "definition": "Que penetra en la esencia de las cosas."
+          },
+          {
+            "word": "absurdo",
+            "definition": "Que carece de sentido lógico."
+          },
+          {
+            "word": "emblema",
+            "definition": "Símbolo que representa algo."
+          },
+          {
+            "word": "imponente",
+            "definition": "Que causa respeto o admiración."
+          },
+          {
+            "word": "surrealista",
+            "definition": "Que mezcla lo real con lo fantástico."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo fue publicada *El Proceso*?",
+            "options": [
+              "En 1925",
+              "En 1945",
+              "En 1914"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de sistema menciona la novela?",
+            "options": [
+              "Un sistema justo",
+              "Un sistema judicial ambiguo",
+              "Un sistema democrático"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué enfrenta principalmente Josef K. en la historia?",
+            "options": [
+              "Una guerra",
+              "Un misterio",
+              "Un sistema opresivo"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "El Proceso de Kafka: Una inclusión en el canon literario",
+        "text": "La obra *El Proceso*, escrita por Franz Kafka y publicada tras su muerte en 1925, se erige como un examen penetrante de la condición humana dentro de un entramado jurídico que podría ser percibido como un laberinto opresor. Desde la primera escena de la detención de Josef K. —un individuo cualquiera que se convierte en víctima de una maquinaria judicial implacable—, Kafka despliega un arsenal de simbolismos y metáforas que no solo ponen de relieve la incomprensión del agente ante una autoridad que se manifiesta como un sistema anónimo, sino que también evocan la angustia de un ser atrapado entre lo conocido y lo nebuloso. El entorno alienante en el que navega Josef refleja la crisis existencial del individuo moderno, arrastrado por fuerzas que escapan a su control. Además, el uso del absurdo y lo surrealista no se limita a la estética; es una técnica que promueve la reflexión crítica sobre la lógica del poder y la naturaleza de la culpabilidad, dejando al lector ante un sinnúmero de cuestionamientos sobre la justicia y la ética. En este sentido, *El Proceso* no solo se inscribe en el legado literario del siglo XX, sino que también plantea interrogantes inquietantes que resuenan en nuestra contemporaneidad, invitando a una revisión constante de nuestro propio lugar en la sociedad.",
+        "vocabulary": [
+          {
+            "word": "entramado",
+            "definition": "Estructura compleja de relaciones."
+          },
+          {
+            "word": "laberinto",
+            "definition": "Lugar confuso con muchos caminos."
+          },
+          {
+            "word": "implacable",
+            "definition": "Que no cede ni perdona."
+          },
+          {
+            "word": "nebuloso",
+            "definition": "Difuso, poco claro o incierto."
+          },
+          {
+            "word": "cuestionamientos",
+            "definition": "Interrogantes o dudas sobre algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cómo se describe el sistema judicial en *El Proceso*?",
+            "options": [
+              "Como un sistema comprensible",
+              "Como un laberinto opresor",
+              "Como un sistema justo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué representa Josef K. en la novela?",
+            "options": [
+              "Un héroe",
+              "Una víctima del sistema",
+              "Un criminal"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué temas se abordan en *El Proceso*?",
+            "options": [
+              "El amor y la amistad",
+              "La búsqueda de justicia y la ética",
+              "La historia y la política"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

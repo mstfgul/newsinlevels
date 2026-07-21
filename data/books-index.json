@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-21-the-trial-franz-kafka",
+    "date": "2026-07-21",
+    "author": "Franz Kafka",
+    "image": "https://covers.openlibrary.org/b/id/14910748-L.jpg",
+    "titles": {
+      "en": "The Trial",
+      "de": "Der Prozess",
+      "fr": "Le procès",
+      "es": "El Proceso de Franz Kafka"
+    }
+  },
+  {
     "id": "2026-07-20-things-fall-apart-chinua-achebe",
     "date": "2026-07-20",
     "author": "Chinua Achebe",
