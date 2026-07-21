@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-21-a-man-escaped-robert-bresson",
+    "date": "2026-07-21",
+    "director": "Robert Bresson",
+    "image": "https://image.tmdb.org/t/p/w780/gkoZ8fFib24zhB2DKpjQ09SK9FU.jpg",
+    "titles": {
+      "en": "A Man Escaped: A Study of Courage",
+      "de": "Ein Mann ist entkommen",
+      "fr": "Un condamné à mort s'est échappé – Analyse du film",
+      "es": "Un hombre se escapa"
+    }
+  },
+  {
     "id": "2026-07-20-la-jetee-chris-marker",
     "date": "2026-07-20",
     "director": "Chris Marker",
