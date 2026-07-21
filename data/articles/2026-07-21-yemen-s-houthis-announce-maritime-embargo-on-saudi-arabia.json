@@ -1,0 +1,1377 @@
+{
+  "id": "2026-07-21-yemen-s-houthis-announce-maritime-embargo-on-saudi-arabia",
+  "date": "2026-07-21",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Houthis Blockade Saudi Ships",
+        "text": "The Houthis are in Yemen. They say they block Saudi ships. They make this rule now. The Red Sea is very important. Saudi Arabia sends oil through here. The Houthis say they respond to attacks. They attack a Saudi airport. Many people die in Yemen. There is a civil war since 2014. The war is very bad. Many people need help. The Houthis say the blockade is unfair. They want an eye for an eye. They stop Saudi ships from coming. The Houthis start attacking ships too. Six ships are lost. The situation is dangerous. It is hard for many people.",
+        "vocabulary": [
+          {
+            "word": "blockade",
+            "definition": "to stop something from coming or going"
+          },
+          {
+            "word": "attack",
+            "definition": "to harm someone or something"
+          },
+          {
+            "word": "important",
+            "definition": "very necessary or valuable"
+          },
+          {
+            "word": "civil war",
+            "definition": "a fight between people in the same country"
+          },
+          {
+            "word": "situation",
+            "definition": "a way things are at a time"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who says they block Saudi ships?",
+            "options": [
+              "The Saudi government",
+              "The Houthis",
+              "The United Nations"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is very important for Saudi Arabia?",
+            "options": [
+              "The Red Sea",
+              "The Atlantic Ocean",
+              "The Nile River"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "When did the civil war start?",
+            "options": [
+              "In 2024",
+              "In 2014",
+              "In 2010"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Houthis Set Rules for Saudi Ships",
+        "text": "The Houthis are a group in Yemen. They announce a maritime blockade against Saudi Arabia. This is important because the Red Sea is vital for oil from Saudi Arabia. The conflict between the Houthis and Saudi Arabia became worse recently. The Houthis said they attacked Abha airport as a response. They blame Saudi Arabia for air strikes on Sanaa airport. Yemen has a civil war since 2014, and a lot of people are affected. Many died and many need help. The Houthis say that Saudi Arabia has a blockade on Yemen. They say they will respond with the same action. They begin stopping Saudi ships from coming into their waters. In the last weeks, they also attacked some merchant vessels. Four ships sank, and this caused issues for shipping. A major question is what will happen next.",
+        "vocabulary": [
+          {
+            "word": "announced",
+            "definition": "to say something in a public way"
+          },
+          {
+            "word": "blockade",
+            "definition": "to stop ships from coming or leaving an area"
+          },
+          {
+            "word": "merchant vessel",
+            "definition": "a ship that carries goods for trade"
+          },
+          {
+            "word": "conflict",
+            "definition": "a fight or struggle between groups"
+          },
+          {
+            "word": "affected",
+            "definition": "to be changed or influenced by something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the Houthis announce?",
+            "options": [
+              "A peace deal",
+              "A maritime blockade",
+              "A new airport"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where did the Houthis attack in Saudi Arabia?",
+            "options": [
+              "At a school",
+              "At a hospital",
+              "At an airport"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What happened to the ships attacked by the Houthis?",
+            "options": [
+              "They all sank",
+              "They were saved",
+              "They returned to port"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Houthis Declare Maritime Embargo on Saudi Arabia",
+        "text": "The Houthis, a group in Yemen, have announced a maritime embargo on Saudi Arabia. This decision comes after tensions rose in the region, especially in the Red Sea, which is crucial for Saudi oil shipments. The Houthis claimed they launched missiles at Abha airport in response to air strikes by Saudi Arabia on Sanaa airport. Yemen is suffering from a long civil war that started in 2014. This war has caused significant loss of life and created one of the worst humanitarian crises in history, affecting millions. The Houthis accused Saudi Arabia of imposing an unjust blockade on their country. They plan to stop Saudi ships from passing through important waterways. They began to attack merchant vessels in nearby waters, and some ships have already sunk. Experts say that while the Houthis have not confirmed more attacks, the mere announcement creates uncertainty for shipping. The future actions of the Houthis could change the dynamics of trade in the region.",
+        "vocabulary": [
+          {
+            "word": "embargo",
+            "definition": "a rule that stops trade with a country"
+          },
+          {
+            "word": "tension",
+            "definition": "a feeling of stress or danger between groups"
+          },
+          {
+            "word": "humanitarian",
+            "definition": "relating to people and their well-being"
+          },
+          {
+            "word": "merchant",
+            "definition": "a person or ship that buys and sells goods"
+          },
+          {
+            "word": "dynamics",
+            "definition": "the way things change or interact"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What have the Houthis announced?",
+            "options": [
+              "A maritime embargo",
+              "A peace treaty",
+              "A new airport"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the civil war in Yemen causing?",
+            "options": [
+              "A lot of food",
+              "Many deaths",
+              "More jobs"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What have the Houthis started to attack?",
+            "options": [
+              "Passenger planes",
+              "Merchant vessels",
+              "Fishing boats"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Houthis Declare Maritime Embargo on Saudi Arabia",
+        "text": "The Red Sea has become vital for oil shipments from Saudi Arabia during the ongoing conflict involving the US, Israel, and Iran, which has effectively closed the Strait of Hormuz in the Gulf. This announcement follows a week after a significant escalation in the ongoing conflict between the Houthis and Saudi Arabia, which had been largely dormant since an unofficial truce began in 2022. The Houthis reported that they launched missiles at Abha airport in southwestern Saudi Arabia as a retaliation for airstrikes on Sanaa's airport, which they attributed to the Saudi kingdom. The strikes were acknowledged by the Saudi-backed Yemeni government, which claimed they acted to prevent an Iranian aircraft from landing in the capital without permission. Since the civil war began in 2014, Yemen has faced immense devastation after the Houthis forced the government out of Sanaa. The conflict escalated further in 2015 when the Saudi-led coalition intervened to reinstate the government's rule, resulting in over 150,000 deaths and a dire humanitarian crisis affecting more than 22 million people in need of aid, according to the UN. Houthi military spokesperson Yahya Sarea expressed that Saudi Arabia had imposed a severe blockade for almost 12 years, and in response, the Houthis decided to declare a 'maritime embargo' against what they termed the 'criminal Saudi enemy.' He warned that any reckless actions by Saudi Arabia would meet with a strong counteraction from the Houthis.",
+        "vocabulary": [
+          {
+            "word": "embargo",
+            "definition": "a restriction or ban on trade with a country."
+          },
+          {
+            "word": "retaliation",
+            "definition": "action taken to punish someone for an injury."
+          },
+          {
+            "word": "devastation",
+            "definition": "severe and complete destruction."
+          },
+          {
+            "word": "blockade",
+            "definition": "an action to prevent goods from entering or leaving a place."
+          },
+          {
+            "word": "escalation",
+            "definition": "an increase in intensity or seriousness."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the Houthis launch missiles at?",
+            "options": [
+              "Abha airport",
+              "Sanaa airport",
+              "Yanbu port"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who claimed to have carried out the air strikes on Sanaa's airport?",
+            "options": [
+              "Houthis",
+              "Saudi-backed Yemeni government",
+              "US government"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How long has the blockade by Saudi Arabia been imposed according to the Houthis?",
+            "options": [
+              "5 years",
+              "12 years",
+              "20 years"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Houthis Implement Maritime Embargo Against Saudi Arabia Amid Rising Tensions",
+        "text": "The increasing significance of the Red Sea as a transit route for oil shipments from Saudi Arabia has become evident, particularly against the backdrop of the ongoing conflict involving the US, Israel, and Iran, which has rendered the Strait of Hormuz nearly impassable. This announcement from the Houthis comes on the heels of a substantial escalation in hostilities with Saudi Arabia, marking a departure from the unofficial ceasefire that had prevailed since 2022. Reportedly, the Houthis launched missiles targeting Abha airport in southwestern Saudi Arabia, citing airstrikes on Sanaa's airport — which they attributed to the Saudi coalition — as their motive. The Saudi-backed Yemeni government, however, stated that these strikes were necessary to intercept an unapproved Iranian aircraft. Since 2014, when the Houthis expelled the Yemeni government from Sanaa, the country has been embroiled in a devastating civil war that has claimed over 150,000 lives and contributed to an unprecedented humanitarian crisis. In response to what they describe as a protracted siege by Saudi Arabia, Houthi military spokesperson Yahya Sarea announced a 'maritime embargo' against Saudi interests. He emphasized that any reckless actions on the part of Saudi Arabia would elicit a decisive counter-response, underscoring the volatility of the region.",
+        "vocabulary": [
+          {
+            "word": "transit",
+            "definition": "the act of passing through a place."
+          },
+          {
+            "word": "hostilities",
+            "definition": "acts of war or aggression."
+          },
+          {
+            "word": "embattled",
+            "definition": "involved in a difficult situation or conflict."
+          },
+          {
+            "word": "volatility",
+            "definition": "the state of being prone to rapid change."
+          },
+          {
+            "word": "prevail",
+            "definition": "to exist or be widespread."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why did the Houthis launch missiles at Abha airport?",
+            "options": [
+              "To support the Yemeni government",
+              "Due to airstrikes they blamed on Saudi Arabia",
+              "To celebrate a truce"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did the Houthis declare against Saudi interests?",
+            "options": [
+              "A peace agreement",
+              "A maritime embargo",
+              "A military truce"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many people have died in the Yemen civil war according to the report?",
+            "options": [
+              "About 50,000",
+              "Over 150,000",
+              "Around 200,000"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Maritime Embargo Declared by Houthis: A Strategic Announcement Amidst Ongoing Geopolitical Turmoil",
+        "text": "In a bold and strategic move, the Houthis have declared a maritime embargo on Saudi Arabia, a development steered by the geopolitical turbulence surrounding the Red Sea, which has now emerged as an essential artery for the transportation of oil shipments originating from Saudi Arabia. This declaration follows a concerning escalation in tensions, which marks a significant deviation from the largely dormant conflict that had persisted since the informal truce established in 2022. According to reports, the Houthis executed missile strikes on Abha airport in southwestern Saudi Arabia, framing their aggressive action as a retaliatory measure against airstrikes on Sanaa's airport, which they unequivocally ascribed to the Saudi coalition. On the contrary, the Saudi-backed Yemeni government defended its operations by asserting the necessity to intercept an unauthorized Iranian aircraft. The ongoing civil war, ignited in 2014 when the Houthis ousted the government from Sanaa, has precipitated a humanitarian catastrophe, with over 150,000 deaths and millions of lives affected. Yahya Sarea, the Houthi military spokesperson, articulated the long-standing grievances against what they term the 'oppressive siege' imposed by Saudi Arabia, leading to the declaration of a 'maritime embargo' culminating in a direct warning: any escalation by Saudi forces would be met with resolute counteractions. Thus, the ramifications of such announcements echo throughout the region, casting uncertainty over maritime shipping and raising questions regarding the implications for global oil markets.",
+        "vocabulary": [
+          {
+            "word": "precipitate",
+            "definition": "to cause something to happen quickly."
+          },
+          {
+            "word": "grievance",
+            "definition": "a complaint about unfair treatment."
+          },
+          {
+            "word": "vehemently",
+            "definition": "in a forceful or passionate manner."
+          },
+          {
+            "word": "ramifications",
+            "definition": "the consequences or outcomes of an action."
+          },
+          {
+            "word": "artery",
+            "definition": "a main route through which something flows."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has sparked the maritime embargo declared by the Houthis?",
+            "options": [
+              "Geopolitical stability",
+              "Geopolitical turbulence",
+              "International peace talks"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many deaths have resulted from the Yemeni civil war according to the report?",
+            "options": [
+              "Around 10,000",
+              "Over 150,000",
+              "Approximately 500,000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Yahya Sarea warn would happen if Saudi forces escalate their actions?",
+            "options": [
+              "There would be negotiations",
+              "There would be direct action",
+              "They would retreat"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Houthi erklären Embargo auf Saudi-Arabien",
+        "text": "Die Rotsee ist wichtig für Öl. Saudi-Arabien schickt viel Öl dorthin. Die Houthi-Gruppe kann jetzt mehr Angriffe machen. Letzte Woche gab es viele Kämpfe. Die Houthi haben Raketen auf einen Flughafen in Saudi-Arabien geschossen. Saudi-Arabien greift auch Sanaa an. Die Houthi sagen, dass die Angriffe unfair sind. Viele Menschen leiden in Jemen. Die Houthi sagen, dass sie ein Embargo machen. Sie wollen das Meer für Saudi-Schiffe schließen. Sie wollen sicher sein, dass ihre Menschen geschützt sind.",
+        "vocabulary": [
+          {
+            "word": "Rotsee",
+            "definition": "Ein Meer zwischen Ländern."
+          },
+          {
+            "word": "Öl",
+            "definition": "Ein wichtiger Stoff für Energie."
+          },
+          {
+            "word": "Angriffe",
+            "definition": "Das ist, wenn jemand etwas zerstört."
+          },
+          {
+            "word": "Menschen",
+            "definition": "Alle Leute, die leben."
+          },
+          {
+            "word": "Embargo",
+            "definition": "Ein Verbot, Menschen oder Dinge zu senden."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum ist die Rotsee wichtig?",
+            "options": [
+              "Für Öl!",
+              "Für Wasser!",
+              "Für Fisch."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was machen die Houthi?",
+            "options": [
+              "Sie machen ein Embargo.",
+              "Sie senden Öl.",
+              "Sie reparieren und bauen."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer greift die Houthi an?",
+            "options": [
+              "Saudi-Arabien.",
+              "Die USA.",
+              "Iran."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Houthi erklären See-Embargo gegen Saudi-Arabien",
+        "text": "Die Rotsee ist sehr wichtig für Saudi-Arabien. Saudi-Arabien versendet viel Öl dorthin. In den letzten Wochen gab es viele Angriffe von der Houthi-Gruppe auf Saudi-Arabien. Die Houthi schießen Raketen auf den Flughafen in Abha. Das passiert, weil Saudi-Arabien den Flughafen in Sanaa angreift. Die Houthi sagen, dass das unfair ist und dass sie die Menschen im Jemen schützen müssen. Der Jemen hat einen furchtbaren Krieg seit 2014, und die Menschen leiden sehr. Die Houthi haben gesagt, dass sie ein Embargo machen werden. Das bedeutet, dass sie die Schiffe von Saudi-Arabien im Meer stoppen wollen. Sie wollen nicht nur die Angriffe stoppen, sondern auch ihren Handel schützen. Viele Menschen im Jemen sind arm, und sie brauchen dringend Hilfe. Der Krieg hat viele zerstört und die Lebensbedingungen verschlechtert. Die Houthis sagen, sie handeln im Namen ihres Volkes und wollen Frieden.",
+        "vocabulary": [
+          {
+            "word": "Öl",
+            "definition": "Eine wichtige Flüssigkeit, die für Energie und Verkehr genutzt wird."
+          },
+          {
+            "word": "Angriffe",
+            "definition": "Militärische Aktionen gegen einen Ort oder eine Gruppe."
+          },
+          {
+            "word": "Embargo",
+            "definition": "Ein Verbot, etwas zu senden oder zu empfangen."
+          },
+          {
+            "word": "Schiffe",
+            "definition": "Große Boote, die für Transport auf dem Wasser gebaut sind."
+          },
+          {
+            "word": "Flughafen",
+            "definition": "Ein Ort, wo Flugzeuge starten und landen."
+          },
+          {
+            "word": "Armut",
+            "definition": "Der Zustand, wenn jemand nicht genug Geld hat."
+          },
+          {
+            "word": "Krieg",
+            "definition": "Ein Konflikt zwischen Staaten oder Gruppen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die Houthi letzte Woche gemacht?",
+            "options": [
+              "Sie haben ein Embargo erklärt.",
+              "Sie haben Frieden geschlossen.",
+              "Sie haben einen neuen Flughafen gebaut."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum schießen die Houthi Raketen?",
+            "options": [
+              "Weil sie Urlaub machen wollen.",
+              "Weil Saudi-Arabien angreift.",
+              "Weil sie neue Schiffe kaufen wollen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie lange gibt es den Krieg im Jemen?",
+            "options": [
+              "Seit zwei Jahren.",
+              "Seit vielen Jahren.",
+              "Seit einem Monat."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Houthi erklären maritimes Embargo gegen Saudi-Arabien",
+        "text": "Die Rotsee spielt eine wichtige Rolle für die Öllieferungen aus Saudi-Arabien und ist ein strategischer Punkt im gesamten Handelsverkehr. Saudi-Arabien hat aufgrund der Angriffe im Golf die Lieferungen dorthin erhöht. In der letzten Woche gab es viele Angriffe zwischen der Houthi-Gruppe und Saudi-Arabien, weil Saudi-Arabien den Flughafen in Sanaa angegriffen hat, was die Spannungen weiter verschärft hat. Die Houthi haben darauf mit Raketen auf einen Flughafen in Saudi-Arabien reagiert, und sie sehen das als ungerecht an, weil sie die Luftangriffe als einen klaren Verstoß gegen Menschenrechte betrachten. Der Bürgerkrieg in Jemen dauert schon viele Jahre und hat viele Menschen in Not gebracht. Viele Familien haben ihre Heimat verloren und zurzeit leiden sie unter extremer Armut. Die Houthi haben angekündigt, ein maritimes Embargo einzuführen, das bedeutet, dass sie Schiffe von Saudi-Arabien im Meer stoppen wollen, um Druck auf das Land auszuüben. Houthi-Sprecher haben gesagt, dass die Menschen in Jemen sehr viel leiden und ihrer Meinung nach das Embargo nötig ist, um gegen die saudische Aggression zu kämpfen. Zudem haben sie angekündigt, dass jedes weitere aggressive Handeln Saudi-Arabiens eine starke Antwort zur Folge haben wird. Diese Situation ist gefährlich, denn sie könnte zu einem größeren Konflikt in der Region führen. Die internationale Gemeinschaft beobachtet die Entwicklungen mit Sorge, denn schon jetzt gibt es viele Flüchtlinge.",
+        "vocabulary": [
+          {
+            "word": "Strategie",
+            "definition": "Ein langfristiger Plan, um ein Ziel zu erreichen."
+          },
+          {
+            "word": "Aggression",
+            "definition": "Ein feindliches Verhalten oder eine gewalttätige Handlung."
+          },
+          {
+            "word": "Eingreifen",
+            "definition": "Jemanden oder etwas aktiv beeinflussen."
+          },
+          {
+            "word": "Menschenrechte",
+            "definition": "Rechte, die jedem Menschen zustehen."
+          },
+          {
+            "word": "Konflikt",
+            "definition": "Ein Streit oder Uneinigkeit zwischen Gruppen oder Ländern."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die Houthi angekündigt, um gegen Saudi-Arabien zu kämpfen?",
+            "options": [
+              "Ein militärisches Eingreifen",
+              "Ein maritimes Embargo",
+              "Ein Friedensvertrag"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist die Rolle der Rotsee in diesem Konflikt?",
+            "options": [
+              "Sie ist ein wichtiger Handelsweg.",
+              "Sie ist ein militärischer Stützpunkt.",
+              "Sie ist ein sicherer Hafen."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was könnte als Folge des Embargos passieren?",
+            "options": [
+              "Die internationale Gemeinschaft könnte eingreifen.",
+              "Das Leid der Menschen könnte zunehmen.",
+              "Der Bürgerkrieg könnte zu Ende gehen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Houthi-Erklärung über maritimen Embargo gegen Saudi-Arabien",
+        "text": "Das Rote Meer hat während des US-israelischen Krieges mit Iran an Bedeutung gewonnen, da die Straße von Hormuz praktisch geschlossen ist. Eine Woche nach der jüngsten Eskalation des Konflikts zwischen den Houthis und Saudi-Arabien berichteten die Houthis, sie hätten Raketen auf den Flughafen Abha im Südwesten Saudi-Arabiens abgefeuert. Dies geschah als Reaktion auf Luftangriffe auf den Flughafen von Sanaa, die das Königreich verantwortlich machte. Die von der saudischen Regierung unterstützte jemenitische Regierung gab an, dass sie einen iranischen Flugzeuglandung in der Hauptstadt ohne Genehmigung verhindern wollte. Seit 2014 wird Jemen durch einen Bürgerkrieg verwüstet, in dem die Houthis die Regierung in Sanaa stürzten. Die Situation eskalierte 2015, als eine von Saudi-Arabien geführte Koalition intervenierte. Laut den UN sind mehr als 22 Millionen Menschen auf Hilfe angewiesen. Der Militärsprecher der Houthis, Yahya Sarea, erklärte, Saudi-Arabien habe die jemenitische Bevölkerung praktisch 12 Jahre lang unterdrückt. Er kündigte einen maritimen Embargo gegen das 'kriminelle saudische Feind' an. Sarea warnte, dass jegliche aggressive Handlung der Saudis mit einer umfassenden Reaktion beantwortet werde. Die Houthis schließen den Bab al-Mandab und haben in jüngster Zeit Angriffe auf Handelsschiffe gestartet. Ob und wie die Houthis verstärkt vorgehen, bleibt abzuwarten.",
+        "vocabulary": [
+          {
+            "word": "Rotes Meer",
+            "definition": "Ein Meer zwischen Afrika und Asien."
+          },
+          {
+            "word": "Eskalation",
+            "definition": "Eine Steigerung oder Zunahme von Konflikten."
+          },
+          {
+            "word": "Raketen",
+            "definition": "Waffen, die in die Luft geschossen werden."
+          },
+          {
+            "word": "Embargo",
+            "definition": "Ein Verbot des Handels mit einem Land."
+          },
+          {
+            "word": "Bürgerkrieg",
+            "definition": "Ein Krieg zwischen Gruppen innerhalb eines Landes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die Houthis auf den Flughafen Abha abgefeuert?",
+            "options": [
+              "Raketen",
+              "Flugzeuge",
+              "Schiffe"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Meer ist wichtig für die Ölverschiffung?",
+            "options": [
+              "Mittelmeer",
+              "Atlantik",
+              "Rotes Meer"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wie viele Millionen Menschen benötigen Hilfe im Jemen?",
+            "options": [
+              "22 Millionen",
+              "10 Millionen",
+              "5 Millionen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Houthis verhängen maritimen Embargo gegen Saudi-Arabien",
+        "text": "Inmitten des anhaltenden US-israelischen Konflikts mit Iran hat das Rote Meer an strategischer Bedeutung gewonnen, da sich die Lage in der Straße von Hormuz erheblich verschärft hat. Kürzlich gaben die Houthis bekannt, sie hätten Raketen auf den Flughafen Abha in Saudi-Arabien abgefeuert, eine Reaktion auf Luftangriffe, die sie dem saudischen Königreich zuschreiben. Diese Angriffe werden von der jemenitischen Regierung bestätigt, die versucht habe, unbeaufsichtigte iranische Flugzeuge an der Landung in Sanaa zu hindern. Der Bürgerkrieg im Jemen, der 2014 begann, hat verheerende Folgen und forderte über 150.000 Menschenleben. Rund 22 Millionen Jemeniten benötigen humanitäre Hilfe. Der Militärsprecher der Houthis, Yahya Sarea, sprach von einem jahrelangen, ungerechten Belagerungszustand, den Saudi-Arabien gegen das jemenitische Volk aufrechterhalte. Dies führte zu ihrer Entscheidung, einen maritimen Embargo gegen Saudi-Arabien auszurufen, verknüpft mit der Gleichung 'Auge um Auge'. Zudem wurden Handelsrouten für saudische Schiffe im Bab al-Mandab gesperrt. Die Angriffe auf Handelsschiffe in diesem Gebiets haben bereits begonnen, während die Unsicherheit über künftige Vorgänge im Golf von Aden zunimmt und der saudische Ölexport nach Yanbu um mehr als 70% gestiegen ist. Ob die Houthis direkt gegen saudische Schiffe vorgehen werden, bleibt ungewiss und wird genau verfolgt.",
+        "vocabulary": [
+          {
+            "word": "strategische Bedeutung",
+            "definition": "Wichtigkeit eines Ortes oder einer Handlung für eine Strategie."
+          },
+          {
+            "word": "verheerend",
+            "definition": "extrem schädlich oder zerstörerisch."
+          },
+          {
+            "word": "Belagerungszustand",
+            "definition": "Eine Situation, in der ein Gebiet blockiert ist."
+          },
+          {
+            "word": "ambivalent",
+            "definition": "gegenläufige Gefühle oder Meinungen über etwas."
+          },
+          {
+            "word": "Unsicherheit",
+            "definition": "Mangel an Klarheit oder Vertrauen in eine Situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die Houthis auf den Flughafen Abha abgefeuert?",
+            "options": [
+              "Raketen",
+              "Bomben",
+              "Drohnen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Folgen hat der Konflikt im Jemen?",
+            "options": [
+              "Wirtschaftswachstum",
+              "Zunahme der Ölproduktion",
+              "Humanitäre Krise"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was schloss Sarea für saudische Schiffe?",
+            "options": [
+              "Den Bab al-Mandab",
+              "Den Suezkanal",
+              "Die Straße von Hormuz"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Houthis verkünden maritimen Embargo gegen Saudi-Arabien im Angesicht des Konflikts",
+        "text": "Das Rote Meer hat sich in jüngster Zeit als strategisches Drehkreuz für Öltransporte aus Saudi-Arabien etabliert, insbesondere infolge des eskalierenden US-israelischen Krieges gegen Iran, welcher die Straße von Hormuz weitgehend verheerend beeinträchtigt hat. In dieser angespannten Atmosphäre kündigten die Houthis an, Raketen auf den Flughafen Abha abgefeuert zu haben, als direkte Antwort auf Luftangriffe, die nach ihrer Auffassung das saudische Königreich verübt hat. Dieser militärische Vorstoß wurde von der jemenitischen Regierung als präventive Maßnahme gegen ein unautorisiertes iranisches Flugzeug, das in der Hauptstadt Sanaa landen wollte, deklariert. Seit ihrem Sturz der jemenitischen Regierung im Jahr 2014 hat der Bürgerkrieg unvorstellbares Leid verursacht, wobei über 150.000 Menschen ihr Leben verloren haben. Die UN berichten von 22 Millionen Menschen, die dringend humanitäre Hilfe benötigen. Sarea beschrieb Saudi-Arabiens jahrelange „ungerechte Belagerung“ der jemenitischen Bevölkerung und erklärte, dass die Houthis ein maritimes Embargo als Vergeltungsmaßnahme gegen diesen „kriminellen Feind“ verhängen wollten. Die Schließung des Bab al-Mandab sei bereits in vollem Gange, während die Houthis in den letzten Wochen aggressive Maßnahmen gegen Handelsschiffe eingeleitet haben. Ob die Houthis, die sich vorerst auf Drohungen beschränkten, bereit sind, ihre Strategie auf direkte Angriffe gegen saudische Schiffe zu verändern, bleibt eine der entscheidendsten Fragen des aktuellen konfliktreichen Kontextes. Dies wird durch die Tatsache verstärkt, dass Saudi-Arabien mittlerweile über 70% seiner Ölexporte auf den Hafen Yanbu verlagert hat, infolgedessen ist ein besorgniserregender Rückgang des kommerziellen Schiffsverkehrs in der Region zu verzeichnen.",
+        "vocabulary": [
+          {
+            "word": "Drehkreuz",
+            "definition": "Ein zentraler Ort für Transport oder Verkehr."
+          },
+          {
+            "word": "deklariert",
+            "definition": "Öffentlich oder offiziell erklärt."
+          },
+          {
+            "word": "Vergeltungsmaßnahme",
+            "definition": "Eine Handlung als Antwort auf eine frühere Ungerechtigkeit."
+          },
+          {
+            "word": "aggressiv",
+            "definition": "Offensiv oder angreifend handeln."
+          },
+          {
+            "word": "entscheidend",
+            "definition": "Von großer Bedeutung oder Einfluss."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die Houthis als Vergeltungsmaßnahme angekündigt?",
+            "options": [
+              "Einen maritimen Embargo",
+              "Einen Friedensvertrag",
+              "Eine Offensive"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Menschen sind auf humanitäre Hilfe angewiesen?",
+            "options": [
+              "22 Millionen",
+              "5 Millionen",
+              "50 Millionen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo hat Saudi-Arabien den Großteil seiner Ölexporte verlagert?",
+            "options": [
+              "Nach Yanbu",
+              "Nach Jeddah",
+              "Nach Kairo"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les Houthis font un embargo maritime",
+        "text": "Les Houthis annoncent un embargo maritime. Cet embargo est contre l'Arabie Saoudite. Les Houthis sont en guerre depuis longtemps. Le Yémen est en crise. Beaucoup de gens ont besoin d'aide. Les Houthis attaquent des cibles au Yémen. Ils lancent des missiles et utilisent des drones. Le conflit est très dangereux et cause beaucoup de souffrances. Les frappes aériennes sont fréquentes. Les Houthis se disent déterminés. Ils veulent protéger leur peuple. La mer Rouge est importante pour les navires de pétrole. L'embargo touche aussi les ports et le commerce. La situation est grave et incertaine pour la région.",
+        "vocabulary": [
+          {
+            "word": "embargo",
+            "definition": "une interdiction commerciale"
+          },
+          {
+            "word": "guerre",
+            "definition": "un conflit armé"
+          },
+          {
+            "word": "navires",
+            "definition": "grands bateaux"
+          },
+          {
+            "word": "pétrole",
+            "definition": "un liquide utilisé pour l’énergie"
+          },
+          {
+            "word": "missiles",
+            "definition": "armes pour frapper des cibles éloignées"
+          },
+          {
+            "word": "commerce",
+            "definition": "achat et vente de biens"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui sont les Houthis ?",
+            "options": [
+              "Un groupe militaire",
+              "Des médecins",
+              "Des politiciens"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel pays est touché par l'embargo ?",
+            "options": [
+              "L'Arabie Saoudite",
+              "Le Yémen",
+              "L'Égypte"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle mer est importante pour les navires de pétrole ?",
+            "options": [
+              "La mer Méditerranée",
+              "La mer Rouge",
+              "L'océan Atlantique"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les Houthis annoncent un embargo maritime sur l'Arabie Saoudite",
+        "text": "Les Houthis annoncent un embargo maritime sur l'Arabie Saoudite. Cet embargo est une réaction à des attaques récentes contre eux. Les Houthis attaquent des cibles en Arabie Saoudite. Il y a une guerre au Yémen depuis 2014. Ce conflit a causé la mort de plus de 150 000 personnes. Le Yémen a des problèmes graves. Beaucoup de gens ont besoin d'aide, car il y a une crise humanitaire sérieuse. Les Houthis disent que l'Arabie Saoudite provoque ces conséquences. La situation est délicate et tendue. Ils vont fermer Bab al-Mandab pour les navires saoudiens. Ces actions commencent à créer beaucoup de problèmes pour le commerce. Les attaques ont été systématiques et rapides. Les Houthis essaient de montrer leur pouvoir. Ils veulent aussi donner un message fort aux pays voisins. Les experts disent que cet embargo pourrait aggraver la situation au Yémen. Le commerce maritime pourrait souffrir, et cela risque d'augmenter les prix des marchandises. La région a besoin de paix et de dialogue.",
+        "vocabulary": [
+          {
+            "word": "embargo",
+            "definition": "une interdiction officielle sur le commerce"
+          },
+          {
+            "word": "tendue",
+            "definition": "qui est en conflit ou en désaccord"
+          },
+          {
+            "word": "précédent",
+            "definition": "ce qui s'est passé avant"
+          },
+          {
+            "word": "navigation",
+            "definition": "le mouvement des navires sur l'eau"
+          },
+          {
+            "word": "provoquer",
+            "definition": "faire en sorte que quelque chose se produise"
+          },
+          {
+            "word": "marchandises",
+            "definition": "les produits échangés dans le commerce"
+          },
+          {
+            "word": "crise",
+            "definition": "une situation difficile ou qui pose problème"
+          },
+          {
+            "word": "piraterie",
+            "definition": "l'acte de voler ou attaquer des navires en mer"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Depuis quand y a-t-il une guerre au Yémen ?",
+            "options": [
+              "Depuis 2020",
+              "Depuis 2014",
+              "Depuis 2015"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que veulent montrer les Houthis avec cet embargo ?",
+            "options": [
+              "Leur faiblesse",
+              "Leur pouvoir",
+              "Leur amitié"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est un effet possible de cet embargo sur la région ?",
+            "options": [
+              "Augmenter le commerce",
+              "Créer des problèmes pour la navigation",
+              "Améliorer la situation humanitaire"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les Houthis déclarent un embargo maritime sur l'Arabie Saoudite",
+        "text": "Les Houthis ont récemment déclaré un embargo maritime contre l'Arabie Saoudite. Cette décision vient après des escalades alarmantes dans le conflit au Yémen, qui a déjà duré près de neuf ans. Les Houthis affirment que leurs forces répondent à des attaques continues de l'Arabie Saoudite. Ils ont visé des bases militaires en Arabie Saoudite en réponse à des frappes sur l'aéroport de Sanaa, que le gouvernement saoudien a confirmées. Ce conflit a commencé en 2014 lorsqu'ils ont renversé le gouvernement hébergé à Sanaa. La guerre a causé de nombreuses morts et a créé une crise humanitaire catastrophique. Actuellement, le Yémen a des problèmes graves avec la famine et le manque d'assistance humanitaire. Les Houthis disent que l'Arabie Saoudite attaque leur peuple depuis trop longtemps, raison pour laquelle ils ont décidé de fermer le Bab al-Mandab, un détroit crucial, pour les navires militaires saoudiens. Cet embargo pourrait avoir un grand impact sur le commerce international. Si le commerce maritime est perturbé, les autorités saoudiennes pourraient subir d'énormes pertes. Malgré un cessez-le-feu annoncé l'année dernière, les tensions restent toujours très élevées. Les Houthis ont déjà organisé des attaques contre des navires dans le passé, ce qui montre bien qu'ils prennent cette situation très au sérieux.",
+        "vocabulary": [
+          {
+            "word": "embargo",
+            "definition": "une interdiction officielle concernant le commerce ou les échanges, souvent pour des raisons politiques."
+          },
+          {
+            "word": "crise humanitaire",
+            "definition": "une situation dans laquelle de nombreuses personnes ont besoin d'aide urgente à cause de la guerre, de la famine ou d'autres catastrophes."
+          },
+          {
+            "word": "Bab al-Mandab",
+            "definition": "un détroit qui relie la Mer Rouge à l'Océan Indien, très important pour le transport maritime."
+          },
+          {
+            "word": "frappes aériennes",
+            "definition": "des attaques effectuées par des avions sur des cibles au sol."
+          },
+          {
+            "word": "tensions",
+            "definition": "des situations de stress ou de conflit qui peuvent causer des conflits futurs."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est l'effet de l'embargo sur le commerce international ?",
+            "options": [
+              "Il pourrait perturber le commerce maritime.",
+              "Il n'aura aucun succès.",
+              "Il augmentera les échanges commerciaux."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel événement a marqué le début du conflit au Yémen ?",
+            "options": [
+              "L'attaque d'un navire marchand.",
+              "Le renversement du gouvernement par les Houthis.",
+              "Un cessez-le-feu positif."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les Houthis ont-ils décidé de fermer le Bab al-Mandab ?",
+            "options": [
+              "Pour protéger leur peuple.",
+              "Pour augmenter les échanges.",
+              "Pour soutenir l'Arabie Saoudite."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Les Houthis du Yémen annoncent un 'embargo maritime' sur l'Arabie Saoudite",
+        "text": "La mer Rouge est devenue essentielle pour les expéditions de pétrole d'Arabie Saoudite durant la guerre entre les États-Unis et Israël contre l'Iran, ce qui a conduit à la fermeture effective du détroit d'Hormuz dans le Golfe. Cette annonce survient une semaine après la plus importante intensification d'un conflit auparavant calme entre les Houthis et l'Arabie Saoudite, qui avait été marqué par une trêve informelle en 2022. Les Houthis ont déclaré avoir lancé des missiles sur l'aéroport d'Abha, dans le sud-ouest de l'Arabie Saoudite, en réponse à des frappes aériennes sur l'aéroport de Sanaa, que le groupe a imputées au royaume. Ces frappes ont été revendiquées par le gouvernement yéménite soutenu par l'Arabie Saoudite, qui a précisé avoir voulu empêcher un avion iranien d'atterrir sans autorisation. Le Yémen est ravagé par une guerre civile depuis 2014, lorsque les Houthis ont renversé le gouvernement de Sanaa. Le conflit s'est intensifié en 2015, après l'intervention d'une coalition dirigée par l'Arabie Saoudite pour rétablir le gouvernement. Plus de 150 000 personnes auraient perdu la vie, et l'ONU estime que plus de 22 millions de personnes ont besoin d'une forme d'aide. Lundi, le porte-parole militaire des Houthis, Yahya Sarea, a déclaré que l'Arabie Saoudite avait imposé un \"siège injuste\" depuis près de douze ans, pillant les ressources yéménites. Par conséquent, le groupe a décidé de réagir en déclarant un \"embargo maritime\" contre l'Arabie Saoudite. Il a averti que toute escalade serait rencontrée par une réponse décisive.",
+        "vocabulary": [
+          {
+            "word": "embargo",
+            "definition": "Une interdiction d'échanger ou de transporter des marchandises."
+          },
+          {
+            "word": "siège",
+            "definition": "Un blocus pour empêcher l'accès à une zone."
+          },
+          {
+            "word": "frappes",
+            "definition": "Des attaques, souvent aériennes."
+          },
+          {
+            "word": "conflict",
+            "definition": "Un désaccord ou une lutte entre deux parties."
+          },
+          {
+            "word": "réaction",
+            "definition": "Une réponse à une situation ou un événement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel pays a été ciblé par les Houthis?",
+            "options": [
+              "L'Égypte",
+              "L'Arabie Saoudite",
+              "Le Liban"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que veulent empêcher les Houthis avec l'embargo?",
+            "options": [
+              "Les exportations de pétrole",
+              "Les frappes aériennes",
+              "Les importations alimentaires"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Depuis combien de temps le siège yéménite est-il en cours selon Sarea?",
+            "options": [
+              "Environ 12 ans",
+              "Environ 10 ans",
+              "Environ 5 ans"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Les Houthis du Yémen annoncent un embargo maritime contre l'Arabie Saoudite",
+        "text": "L'importance stratégique de la mer Rouge s'est accentuée pour les expéditions pétrolières saoudiennes, notamment dans le contexte de la guerre entre les États-Unis et Israël face à l'Iran, qui a provoqué la quasi-fermeture du détroit d'Hormuz. Cette déclaration est intervenue une semaine après une escalade significative du conflit latent entre les Houthis et la monarchie saoudienne, souvent régie par une trêve informelle établie en 2022. Les Houthis ont affirmé avoir bombardé l'aéroport d'Abha en réaction à des frappes aériennes sur Sanaa que le groupe attribue au royaume. Parallèlement, le gouvernement yéménite, soutenu par les Saoudiens, a justifié ses actions comme des mesures préventives contre un appareil iranien survolant la capitale yéménite. L'impact de la guerre civile, qui fait rage depuis 2014, a été dévastateur, entraînant la perte de plus de 150 000 vies et exacerbant l'une des crises humanitaires les plus graves au monde, où 22 millions de personnes sont en situation d'urgence. Dans une annonce particulièrement virulente, le porte-parole militaire des Houthis, Yahya Sarea, a accusé l'Arabie Saoudite d'imposer un \"terrible siège\" depuis près de douze ans. Il a également fait savoir que le groupe avait décidé d'intégrer un \"embargo maritime\" contre cet \"ennemi criminel\", insistant sur des conséquences dévastatrices en cas d'aggravation des hostilités.",
+        "vocabulary": [
+          {
+            "word": "stratégique",
+            "definition": "Essentiel pour un plan ou un but particulier."
+          },
+          {
+            "word": "humanitaire",
+            "definition": "Relatif à l'aide aux personnes dans le besoin."
+          },
+          {
+            "word": "virulent",
+            "definition": "Extêmement agressif ou hostile."
+          },
+          {
+            "word": "conséquences",
+            "definition": "Les résultats d'une action ou d'une décision."
+          },
+          {
+            "word": "hostilités",
+            "definition": "Des actions d'agression ou de conflit."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi les Houthis ont-ils attaqué l'aéroport d'Abha?",
+            "options": [
+              "Pour soutenir un avion iranien",
+              "En réponse à des frappes sur Sanaa",
+              "Pour une trêve"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel effet la guerre a-t-elle eu sur la population yéménite?",
+            "options": [
+              "Rien",
+              "Des millions de personnes nécessitent de l'aide",
+              "Le pays est devenu riche"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le principal sujet de l'annonce des Houthis?",
+            "options": [
+              "Un nouveau gouvernement",
+              "Un embargo maritime",
+              "Une trêve"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Déclaration d'embargo maritime des Houthis sur l'Arabie Saoudite : une intensification des tensions",
+        "text": "La mer Rouge, épine dorsale des voies maritimes pour les exportations pétrolières saoudiennes, s'affiche désormais comme un enjeu crucial au vu des nouvelles dynamiques géopolitiques exacerbées par le conflit Iran-États-Unis. Ce développement intervient une semaine après une escalation notoire, qui remet en question la stabilité précaire gagnée grâce à une trêve informelle instaurée en 2022 entre les Houthis et Riyad. Les déclarations des Houthis, incluant des frappes sur l'aéroport d'Abha, révèlent les tensions persistantes, exacerbées par des frappes attribuées par le groupe à la coalition pro-saoudienne, dont le gouvernement a justifié ses actions en plaçant la sécurité nationale en premier lieu. En effet, la guerre civile yéménite, qui perdure depuis 2014, a généré des pertes humaines vertigineuses, estimées à plus de 150 000, et engendré l’une des crises humanitaires les plus graves au monde, avec 22 millions de personnes dans le besoin selon l'ONU. En proclamant un \"embargo maritime\" contre l'Arabie Saoudite, Sarea a brusquement déplacé le dialogue vers une escalade potentielle de l'affrontement, faisant référence à un \"siège injuste\" qui, selon lui, plombe les ressources du Yémen. La question qui demeure est de savoir si cette menace se traduira par des actions concrètes sur les routes maritimes stratégiques, où des navires en transit doivent s'interroger sur leur sécurité au milieu de ces tensions croissantes.",
+        "vocabulary": [
+          {
+            "word": "enjeu",
+            "definition": "Un point de conflit ou un problème majeur à résoudre."
+          },
+          {
+            "word": "épine dorsale",
+            "definition": "Le soutien ou la base principale d'une structure."
+          },
+          {
+            "word": "désengagement",
+            "definition": "Arrêt ou réduction d'une implication ou d'une participation."
+          },
+          {
+            "word": "vertigineux",
+            "definition": "Énorme ou impressionnant au point de provoquer des vertiges."
+          },
+          {
+            "word": "dialogue",
+            "definition": "Un échange d'idées ou de déclarations entre deux parties."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel rôle la mer Rouge joue-t-elle dans le contexte actuel?",
+            "options": [
+              "Elle est sans importance",
+              "Elle est essentielle pour les exportations de pétrole",
+              "Elle est fermée à la navigation"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels sont les réels enjeux de la guerre civile yéménite?",
+            "options": [
+              "Des bénéfices économiques uniques",
+              "Une crise humanitaire de grande échelle",
+              "Une prospérité nationale"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que pourraient subir les navires en transit après l'annonce de l'embargo?",
+            "options": [
+              "Une protection accrue",
+              "Des actions concrètes d'attaques potentielles",
+              "Un voyage assuré"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Los Houthi y el embargo marítimo",
+        "text": "Los Houthi son un grupo en Yemen. Ellos dicen que hay un embargo marítimo. Este embargo es contra Arabia Saudita. El Mar Rojo es muy importante para el petróleo. Los Houthi lanzan misiles al aeropuerto de Abha. Arabia Saudita bombardea el aeropuerto de Sanaa. Yemen tiene una guerra civil desde 2014. La guerra provoca mucho sufrimiento en el país. Muchas personas necesitan ayuda. Más de 22 millones de personas sufren. La situación es muy grave. El embargo afecta el comercio y la economía. Los Houthi creen que el embargo es necesario. Ellos piensan que es una forma de resistencia. La comunidad internacional observa la situación con atención.",
+        "vocabulary": [
+          {
+            "word": "borracho",
+            "definition": "taza de café que tiene licor"
+          },
+          {
+            "word": "embargo",
+            "definition": "bloqueo que impide que algo pase"
+          },
+          {
+            "word": "comercio",
+            "definition": "actividad de comprar y vender cosas"
+          },
+          {
+            "word": "situación",
+            "definition": "estado o condición de algo"
+          },
+          {
+            "word": "grave",
+            "definition": "muy serio o importante"
+          },
+          {
+            "word": "resistencia",
+            "definition": "oposición a algo"
+          },
+          {
+            "word": "comunidad",
+            "definition": "grupo de personas con algo en común"
+          },
+          {
+            "word": "atención",
+            "definition": "observación cuidadosa"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas necesitan ayuda en Yemen?",
+            "options": [
+              "22 millones",
+              "10 millones",
+              "50 millones"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué piensan los Houthi sobre el embargo?",
+            "options": [
+              "Es necesario",
+              "Es ineficaz",
+              "No es importante"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Desde cuándo hay una guerra civil en Yemen?",
+            "options": [
+              "Desde 2014",
+              "Desde 2015",
+              "Desde 2016"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Los Houthi anuncian un embargo marítimo",
+        "text": "Los Houthi son un grupo en Yemen. Ellos han hecho un embargo marítimo contra Arabia Saudita. El Mar Rojo es importante para el transporte de petróleo. La guerra en Yemen comenzó en 2014. Los Houthi lanzaron misiles al aeropuerto de Abha. Esto fue porque Arabia Saudita bombardeó su aeropuerto en Sanaa. En Yemen, muchas personas necesitan ayuda. Ellos sufren por la guerra. El portavoz militar de los Houthi dice que Arabia Saudita ha hecho un asedio a Yemen. Ellos quieren responder a este asedio. Anuncian un embargo sobre los barcos de Arabia Saudita. Es un embargo como un castigo por el conflicto. Los Houthi dicen que van a cerrar Bab al-Mandab para los barcos sauditas.",
+        "vocabulary": [
+          {
+            "word": "transporte",
+            "definition": "movimiento de cosas"
+          },
+          {
+            "word": "aeropuerto",
+            "definition": "lugar donde llegan los aviones"
+          },
+          {
+            "word": "respondieron",
+            "definition": "dijeron algo en respuesta"
+          },
+          {
+            "word": "conflicto",
+            "definition": "disputa entre personas"
+          },
+          {
+            "word": "asediado",
+            "definition": "bloqueo de un lugar"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué han hecho los Houthi contra Arabia Saudita?",
+            "options": [
+              "Un acuerdo",
+              "Un embargo",
+              "Un tratado"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Por qué bombardeó Arabia Saudita el aeropuerto de Sanaa?",
+            "options": [
+              "Para ayudar a los Houthi",
+              "Para prevenir un ataque",
+              "No hay razón"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué es Bab al-Mandab?",
+            "options": [
+              "Un país",
+              "Un puerto",
+              "Un estrecho"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Los Houthi declaran un embargo marítimo contra Arabia Saudita",
+        "text": "Los Houthi en Yemen han declarado un embargo marítimo contra Arabia Saudita. Esta decisión viene después de un conflicto que aumentó recientemente. Durante muchos años, el Mar Rojo ha sido un paso importante para el transporte de petróleo desde Arabia Saudita. La guerra en Yemen comenzó en 2014 y ha ocasionado mucho sufrimiento a la población. El portavoz de los Houthi, Yahya Sarea, dijo que Arabia Saudita ha impuesto un asedio y que ellos responden con este embargo. Sarea mencionó que los Houthi están cerrando Bab al-Mandab a los barcos sauditas. Este estrecho es crucial para el movimiento de barcos. Entre 2014 y 2023, más de 150,000 personas han muerto debido a esta guerra. El conflicto también ha creado una crisis humanitaria grave. Más de 22 millones de personas necesitan ayuda. En respuesta a la reciente situación, Arabia Saudita ha cambiado su ruta de exportación de petróleo a un puerto diferente. Esto puede afectar los precios del petróleo en el futuro.",
+        "vocabulary": [
+          {
+            "word": "conflicto",
+            "definition": "una lucha o pelea entre grupos"
+          },
+          {
+            "word": "embargo",
+            "definition": "prohibición de comercialización"
+          },
+          {
+            "word": "asedio",
+            "definition": "bloqueo de un lugar para controlarlo"
+          },
+          {
+            "word": "crisis humanitaria",
+            "definition": "una situación grave que afecta a personas"
+          },
+          {
+            "word": "crucial",
+            "definition": "muy importante o necesario"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Por qué los Houthi anuncian el embargo?",
+            "options": [
+              "Como represalia contra Arabia Saudita",
+              "Para ayudar al pueblo de Yemen",
+              "Para hacer paz con Arabia Saudita"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Desde cuándo hay guerra en Yemen?",
+            "options": [
+              "Desde 2020",
+              "Desde 2022",
+              "Desde 2014"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué han hecho Arabia Saudita con su petróleo?",
+            "options": [
+              "Lo han exportado a un nuevo puerto",
+              "No han cambiado nada",
+              "Lo han vendido a Europa"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Los hutíes de Yemen anuncian un 'embargo marítimo' a Arabia Saudita",
+        "text": "El Mar Rojo se ha vuelto crucial para los envíos de petróleo procedentes de Arabia Saudita. Esto se debe a la guerra entre EE. UU. e Israel con Irán, que ha llevado al cierre efectivo del Estrecho de Ormuz en el Golfo. Este anuncio ocurre una semana después de la escalada más significativa en el conflicto entre los hutíes y Arabia Saudita, que había permanecido en gran medida inactivo desde que un alto el fuego informal entró en vigor en 2022. Los hutíes afirmaron haber lanzado misiles contra el aeropuerto de Abha, en el sudoeste de Arabia Saudita, en respuesta a los ataques aéreos en el aeropuerto de Saná, a los que culpan al reino saudita. Estos ataques fueron reivindicados por el gobierno yemení respaldado por Arabia Saudita, el cual dijo que intentaba evitar que un avión iraní aterrizara en la capital sin autorización. Desde que comenzó la guerra civil en 2014, Yemen ha sido devastado. El conflicto se intensificó en 2015, tras la intervención de una coalición árabe liderada por Arabia Saudita. Más de 150,000 personas han muerto y hay más de 22 millones que necesitan ayuda, según la ONU. El portavoz militar hutí, Yahya Sarea, denunció que Arabia Saudita impone un 'asedio injusto y opresor', y anunció que se declaraba un embargo marítimo como respuesta. Además, el gobierno hutí expresó que cualquier acción imprudente tendría una respuesta contundente.",
+        "vocabulary": [
+          {
+            "word": "embargo",
+            "definition": "prohibición de comerciar con un país"
+          },
+          {
+            "word": "devastado",
+            "definition": "muy dañado o destruido"
+          },
+          {
+            "word": "escalada",
+            "definition": "aumento de la intensidad de un conflicto"
+          },
+          {
+            "word": "impone",
+            "definition": "exigir algo a otras personas"
+          },
+          {
+            "word": "responder",
+            "definition": "contestar a un hecho o situación"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué han anunciado los hutíes?",
+            "options": [
+              "Una tregua.",
+              "Un embargo marítimo.",
+              "Un ataque aéreo."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántas personas han muerto en el conflicto?",
+            "options": [
+              "Más de 150.",
+              "Más de 150,000.",
+              "Más de 1,500."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es la razón del embargo?",
+            "options": [
+              "Aumentar las importaciones.",
+              "Contestar a un asedio.",
+              "Apoyar a un país vecino."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Los hutíes de Yemen declaran un 'embargo marítimo' contra Arabia Saudita",
+        "text": "En el contexto del actual conflicto entre Estados Unidos, Israel e Irán, el Mar Rojo ha cobrado una nueva relevancia para los envíos de petróleo desde Arabia Saudita, especialmente debido al cierre práctico del Estrecho de Ormuz. Este reciente anuncio de los hutíes llega tras una notable escalada en una disputa que había permanecido prácticamente inactiva desde un acuerdo de alto el fuego informal que data de 2022. Los hutíes informaron que habían efectuado ataques con misiles contra el aeropuerto de Abha, en el suroeste de Arabia Saudita. Este ataque, en su opinión, es una respuesta a los bombardeos sobre el aeropuerto de Saná, los cuales ellos atribuyen al reino saudita. Las fuerzas respaldadas por Arabia Saudita reivindicaron estos ataques, argumentando que su objetivo era evitar la llegada de un avión iraní sin autorización. Desde el estallido de la guerra civil en 2014, Yemen ha sufrido enormes devastaciones. La intervención de la coalición árabe liderada por Arabia Saudita en 2015 amplificó la crisis, dejando un saldo de más de 150,000 muertos y 22 millones de personas en necesidad crítica de asistencia humanitaria, según cifras de la ONU. Yahya Sarea, portavoz militar hutí, criticó duramente el 'asedio injusto y opresor' que Arabia Saudita ha impuesto a Yemen, y en ese marco, anunció la declaración de un embargo marítimo. Destacó que cualquier acción imprudente del 'enemigo saudí' sería respondida con una escalada significativa.",
+        "vocabulary": [
+          {
+            "word": "relevancia",
+            "definition": "importancia o significado de algo"
+          },
+          {
+            "word": "considerable",
+            "definition": "de gran tamaño o cantidad"
+          },
+          {
+            "word": "impuesto",
+            "definition": "algo que se ha obligado a cumplir"
+          },
+          {
+            "word": "devastaciones",
+            "definition": "grandes daños o destrucción"
+          },
+          {
+            "word": "asistencia",
+            "definition": "ayuda o apoyo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Por qué es importante ahora el Mar Rojo?",
+            "options": [
+              "Porque hay más envíos de petróleo.",
+              "Porque se completó la paz.",
+              "Porque se cerró el Estrecho de Ormuz."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué número de muertos se reporta en el conflicto?",
+            "options": [
+              "25,000",
+              "150,000",
+              "500,000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de embargo se declaró?",
+            "options": [
+              "Embargo terrestre.",
+              "Embargo aéreo.",
+              "Embargo marítimo."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Los hutíes de Yemen imponen un 'embargo marítimo' a Arabia Saudita en medio del conflicto regional",
+        "text": "Ante la agudización del conflicto en Medio Oriente, en particular la guerra entre Estados Unidos e Israel contra Irán, el Mar Rojo ha adquirido un papel crítico para los envíos de petróleo provenientes de Arabia Saudita, especialmente tras el cierre cada vez más efectivo del Estrecho de Ormuz. En un giro inesperado de los acontecimientos, los hutíes han declarado un embargo marítimo contra Arabia Saudita, un pronunciamiento que sigue a unos ataques significativos contra el aeropuerto de Abha, realizados como represalia por los bombardeos contra el aeropuerto de Saná, atribuidos a la coalición saudí. Según el Ejército respaldado por Arabia Saudita, dichos ataques tenían como objetivo bloquear un vuelo iraní no autorizado. La devastación sufrida por Yemen desde el inicio de la guerra civil en 2014 es innegable; el conflicto se intensificó con la intervención de la coalición árabe en 2015, resultando en más de 150,000 muertes y millones de personas en urgente necesidad de asistencia, según informes de la ONU. Yahya Sarea, portavoz militar hutí, denunció el 'asedio injusto y opresor' que ha ejercido Arabia Saudita sobre su pueblo, justificando así la decisión de declarar un embargo marítimo, cuya intención es mantener una postura firme a través del principio de 'ojo por ojo'. La incertidumbre que esto genera plantea un desafío significativo para el comercio marítimo en la región, dado que cualquier acción imprudente del 'enemigo saudí' podría desencadenar una escalada aún más grave en el conflicto.",
+        "vocabulary": [
+          {
+            "word": "agudización",
+            "definition": "aumento de la intensidad de un problema"
+          },
+          {
+            "word": "represalia",
+            "definition": "respuesta a una acción agresiva"
+          },
+          {
+            "word": "denunciar",
+            "definition": "hacer una declaración contra algo malo"
+          },
+          {
+            "word": "plantear",
+            "definition": "presentar un problema o cuestión"
+          },
+          {
+            "word": "comercio marítimo",
+            "definition": "intercambio de bienes por vías acuáticas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es la razón presentada por los hutíes para el embargo?",
+            "options": [
+              "Defender su economía.",
+              "Responder a los ataques aéreos.",
+              "Aumentar los envíos de petróleo."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha causado más de 150,000 muertes?",
+            "options": [
+              "La guerra civil en Yemen.",
+              "Un terremoto.",
+              "Ataques aéreos en Arabia Saudita."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué podría desencadenar este embargo?",
+            "options": [
+              "Un aumento en la paz.",
+              "Una escalada en el conflicto.",
+              "La firma de un acuerdo."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

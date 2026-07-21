@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-21-yemen-s-houthis-announce-maritime-embargo-on-saudi-arabia",
+    "date": "2026-07-21",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0f9/live/01fcfa10-845c-11f1-bee8-53ce494e1abc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Houthis Declare Maritime Embargo on Saudi Arabia",
+      "de": "Houthi erklären maritimes Embargo gegen Saudi-Arabien",
+      "fr": "Les Houthis déclarent un embargo maritime sur l'Arabie Saoudite",
+      "es": "Los Houthi declaran un embargo marítimo contra Arabia Saudita"
+    }
+  },
+  {
+    "id": "2026-07-21-us-launches-fresh-strikes-on-iran-as-trump-warns-of-retaliat",
+    "date": "2026-07-21",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae7d/live/d48c2a30-84c7-11f1-b976-0b9c15b0ccfc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Continues Airstrikes Against Iran",
+      "de": "US-Militär führt neue Angriffe auf Iran durch",
+      "fr": "Les frappes militaires américaines sur l'Iran",
+      "es": "El conflicto entre Estados Unidos e Irán se intensifica"
+    }
+  },
+  {
+    "id": "2026-07-21-trump-slaps-50-tariffs-on-canada-and-carney-vows-to-intensif",
+    "date": "2026-07-21",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d92/live/ef104d10-84c6-11f1-b976-0b9c15b0ccfc.jpg",
+    "category": "business",
+    "titles": {
+      "en": "Trump Imposes New Tariffs on Canadian Goods",
+      "de": "US-Zölle auf kanadische Waren steigen",
+      "fr": "Trump impose de nouvelles taxes de 50% sur le Canada",
+      "es": "Tensión comercial entre Trump y Canadá"
+    }
+  },
+  {
     "id": "2026-07-20-russia-launches-major-ballistic-missile-attack-on-ukrainian-",
     "date": "2026-07-20",
     "source": "BBC News",

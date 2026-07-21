@@ -1,0 +1,1377 @@
+{
+  "id": "2026-07-21-trump-slaps-50-tariffs-on-canada-and-carney-vows-to-intensif",
+  "date": "2026-07-21",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d92/live/ef104d10-84c6-11f1-b976-0b9c15b0ccfc.jpg",
+  "category": "business",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Trump's Tariff on Canada",
+        "text": "US President Trump puts a 50% tax on goods from Canada. This tax is on items like wine, hockey sticks, and cement. Trump says Canada treats US products unfairly. Some products like energy and fish do not have the tax. The tax starts in 30 days. Prime Minister Carney says Canada will talk more about trade with the US. Canada had a tax on US goods in the past. This new tax makes the trade problems worse. The US has other taxes on Canadian steel and aluminum. Carney wants to solve these problems soon.",
+        "vocabulary": [
+          {
+            "word": "tariff",
+            "definition": "a tax on goods from another country"
+          },
+          {
+            "word": "goods",
+            "definition": "items that people use or sell"
+          },
+          {
+            "word": "unfairly",
+            "definition": "not fair or just"
+          },
+          {
+            "word": "trade",
+            "definition": "buying and selling items between countries"
+          },
+          {
+            "word": "problems",
+            "definition": "difficult situations that need a solution"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What percentage is the new tax?",
+            "options": [
+              "30%",
+              "50%",
+              "100%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What will Canada talk about with the US?",
+            "options": [
+              "sports",
+              "trade",
+              "clothes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is an example of a good with a tax?",
+            "options": [
+              "milk",
+              "hockey sticks",
+              "cars"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump Imposes Tariff on Canada",
+        "text": "US President Donald Trump has announced a 50% tariff on many goods from Canada. This tax affects many items, like wine, hockey sticks, and cement. Trump claims that Canada treats US cars, dairy, and alcohol unfairly. However, products like energy and fish are not included in the tax. The new tariff starts in 30 days. Canada’s Prime Minister Mark Carney says he will try to improve trade talks with the US soon. In the past, Canada placed tariffs on US goods because of Trump's actions. Canada still has tariffs on US steel and aluminum. The trade disputes between the two countries are now more serious. Many people hope for a resolution between Canada and the US.",
+        "vocabulary": [
+          {
+            "word": "announced",
+            "definition": "told people about something"
+          },
+          {
+            "word": "claim",
+            "definition": "say that something is true"
+          },
+          {
+            "word": "included",
+            "definition": "part of a group or list"
+          },
+          {
+            "word": "serious",
+            "definition": "important and not happy"
+          },
+          {
+            "word": "resolution",
+            "definition": "a solution to a problem"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What items does the tariff affect?",
+            "options": [
+              "wine, hockey sticks",
+              "cars, shoes",
+              "milk, bread"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the Prime Minister of Canada?",
+            "options": [
+              "Donald Trump",
+              "Mark Carney",
+              "Joe Biden"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When does the new tariff start?",
+            "options": [
+              "in 30 days",
+              "in 1 week",
+              "in 1 month"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump Imposes New Tariffs on Canadian Goods",
+        "text": "President Donald Trump has recently imposed a 50% tariff on various goods imported from Canada. This action comes after he described what he considers unfair treatment of US products, such as cars, dairy, and alcohol. Everyday consumer items like wine and hockey sticks are now affected by these tariffs, while several significant goods like energy, potash, critical minerals, and fish are exempt. The new tariffs will become effective in 30 days and could greatly impact trade and prices in both countries. \n\nIn response, Canadian Prime Minister Mark Carney has stated that Canada is ready to increase trade talks with the US soon. This situation has heightened trade tensions, as many hope for a quick resolution. Canada has already retaliated against previous tariffs from Trump by imposing a 25% levy on US goods in the past. Such measures have created a complicated relationship between the two neighboring countries. \n\nExperts have suggested that both nations need to find common ground to improve trade relations. If they do not reach an agreement, consumers on both sides may face higher prices for these goods. Many believe that collaboration is essential; otherwise, escalating tensions could lead to further tariffs affecting other markets beyond these initial products, impacting jobs and the economy.",
+        "vocabulary": [
+          {
+            "word": "tariff",
+            "definition": "a tax on goods that are imported or exported."
+          },
+          {
+            "word": "retaliate",
+            "definition": "to take action against someone because they have done something harmful."
+          },
+          {
+            "word": "exempt",
+            "definition": "free from an obligation or duty."
+          },
+          {
+            "word": "tensions",
+            "definition": "stress or conflict between people or countries."
+          },
+          {
+            "word": "collaboration",
+            "definition": "working together with others to achieve a common goal."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What items are affected by the new tariffs imposed by Trump?",
+            "options": [
+              "Only cars, dairy, and alcohol",
+              "Wine, hockey sticks, and cement",
+              "Only energy and potash"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is Canada's response to the new tariffs?",
+            "options": [
+              "They are ready to increase trade talks with the US",
+              "They will not retaliate this time",
+              "They have imposed new tariffs on all US goods"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What could happen if Canada and the US do not reach an agreement?",
+            "options": [
+              "Higher prices for consumers",
+              "More friendly relations",
+              "No change in trade policies"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump Imposes 50% Tariffs on Canada, Carney Promises Trade Talks",
+        "text": "US President Donald Trump has implemented a significant 50% tariff on various goods imported from Canada. This measure is seen as retaliation for what he describes as \"unequal treatment\" of US products, including automobiles, dairy, and alcoholic beverages. Everyday consumer items like wine and hockey sticks are among the affected products, while key exports such as energy and fish will remain exempt. In response, Canadian Prime Minister Mark Carney confirmed that Canada stands ready to \"intensify\" trade negotiations with the US over the upcoming weeks. The administration stated that these tariffs would come into effect within 30 days, marking a new high in trade tensions between the two countries. Previously, Canada had reacted to Trump's tariffs in 2025 by imposing its own 25% tariffs on approximately C$30 billion worth of US goods. Although some of these tariffs were later dropped, restrictions on US cars, steel, and aluminum remained. The Supreme Court ruled earlier this year that many tariffs imposed by Trump were enacted illegally; however, his latest actions invoke a lesser-known law that has yet to be tested in court. The announced tariffs affect all goods, regardless of existing agreements under the USMCA, indicating a possible deterioration in diplomatic relations and trade discussions.",
+        "vocabulary": [
+          {
+            "word": "implement",
+            "definition": "to put something into action or effect"
+          },
+          {
+            "word": "significant",
+            "definition": "important or noteworthy"
+          },
+          {
+            "word": "retaliation",
+            "definition": "an act of returning a negative action"
+          },
+          {
+            "word": "exempt",
+            "definition": "not subjected to or free from a duty"
+          },
+          {
+            "word": "negotiate",
+            "definition": "to discuss something in order to reach an agreement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the percentage of the new tariff imposed by Trump?",
+            "options": [
+              "40%",
+              "50%",
+              "60%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which goods are exempt from the new tariffs?",
+            "options": [
+              "cars and dairy",
+              "energy and fish",
+              "wine and hockey sticks"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Prime Minister Carney promise to do?",
+            "options": [
+              "intensify trade talks",
+              "increase tariffs",
+              "ignore the tariffs"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "US Tariffs Rise to 50% on Canadian Imports; Carney's Response Signals Trade Intentions",
+        "text": "In a bold move, President Donald Trump has instituted a substantial 50% tariff on a diverse range of imported goods from Canada, framing it as a countermeasure against what he deems \"unequal treatment\" of US products, particularly cars, dairy, and alcoholic beverages. Everyday items such as wine and hockey sticks are among those facing higher costs, although key segments, including energy and various seafood products, have been spared from these tariffs. In an assertive response, Canadian Prime Minister Mark Carney indicated that Canada is fully prepared to \"intensify\" negotiations with the US in the near future. The White House has signaled that these duties will be implemented within 30 days, greatly escalating the trade friction that has been developing between the two nations. Canada had previously retaliated against Trump's tariffs in 2025 by putting a 25% levy on approximately C$30 billion of US imports, but Carney ultimately chose to eliminate some of the tariffs while maintaining charges on US vehicles and metals. Remarkably, this latest set of tariffs derives from a lesser-known law, which has not yet faced judicial scrutiny, differing from many tariffs previously ruled illegal by the Supreme Court. This increase in trade barriers not only disrupts the existing economic landscape but also signals a significant deterioration in relations between the US and Canada.",
+        "vocabulary": [
+          {
+            "word": "substantial",
+            "definition": "considerable in quantity"
+          },
+          {
+            "word": "countermeasure",
+            "definition": "an action taken to counteract something"
+          },
+          {
+            "word": "framing",
+            "definition": "to construct or present in a particular way"
+          },
+          {
+            "word": "friction",
+            "definition": "conflict or tension resulting from differences"
+          },
+          {
+            "word": "judicial",
+            "definition": "related to the courts or the justice system"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump say the tariffs were a response to?",
+            "options": [
+              "equal treatment",
+              "unequal treatment",
+              "friendly talks"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which goods were specifically mentioned as facing new tariffs?",
+            "options": [
+              "cars and textiles",
+              "dairy and beverages",
+              "electronics and tools"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Carney indicate Canada would do?",
+            "options": [
+              "reduce tariffs",
+              "intensify trade negotiations",
+              "withdraw from talks"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump's Aggressive Tariff Strategy Targets Canadian Goods; Carney's Call for Negotiation Reflects Trade Tensions",
+        "text": "In a provocative escalation of economic diplomacy, President Donald Trump has enacted a sweeping 50% tariff on a broad spectrum of imports from Canada, ostensibly in retaliation for what he perceives as \"unequal treatment\" of American products—namely, automobiles, dairy products, and various alcoholic beverages. Affected consumer goods include staples such as wine and hockey sticks; however, notable exemptions will apply to critical sectors like energy and seafood. Prime Minister Mark Carney's response indicates a determination on Canada's part to \"intensify\" negotiations with the United States in the imminent future. The White House has announced that the new tariffs will take effect in thirty days, a significant uptick in what has already become a tense trade environment between the neighboring countries. Canada had previously engaged in reprisals against Trump's 2025 tariffs, imposing a 25% levy on an estimated C$30 billion of US exports. While Carney had eventually rescinded certain tariffs, constraints on US automotive imports and metals remained firmly established. Intriguingly, this installment of tariffs is predicated on a lesser-known legal foundation, diverging from the broadly condemned tariffs ruled unlawful by the Supreme Court earlier this year, which had questioned the legitimacy of Trump's emergency authority. The resultant spike in import duties not only complicates the economic relations between the two nations but also portends a deeper rift fueled by longstanding grievances and competing national interests.",
+        "vocabulary": [
+          {
+            "word": "provocative",
+            "definition": "causing a strong reaction or response"
+          },
+          {
+            "word": "sweeping",
+            "definition": "comprehensive, wide-ranging"
+          },
+          {
+            "word": "ostensibly",
+            "definition": "apparently; seemingly; for all outward appearances"
+          },
+          {
+            "word": "retaliation",
+            "definition": "action taken against someone as revenge"
+          },
+          {
+            "word": "predicated",
+            "definition": "based on or established by"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the percentage of tariffs Trump has enacted on Canadian imports?",
+            "options": [
+              "30%",
+              "50%",
+              "70%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Prime Minister Carney's response suggest?",
+            "options": [
+              "Canada will ignore the tariffs",
+              "Canada is ready for negotiations",
+              "Canada supports the tariffs"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What distinguishes the current tariffs from past ones ruled unlawful?",
+            "options": [
+              "the law it is based on",
+              "the type of goods affected",
+              "the amount of tariff imposed"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Trump führt neue Zölle ein",
+        "text": "Der US-Präsident Trump hat Zölle. Diese Zölle sind 50 Prozent. Sie sind für Waren aus Kanada. Kanada verkauft viele Dinge. Zum Beispiel: Wein und Hockeyschläger. Einige Waren haben keine Zölle. Dazu gehören Energie und Fisch. Der kanadische Minister Carney spricht. Er sagt, Kanada will Gespräche. Die neuen Zölle beginnen in 30 Tagen. Die USA haben schon Zölle auf Stahl. Kanada hat auch Zölle auf US-Waren. Das ist ein Problem zwischen Kanada und den USA.",
+        "vocabulary": [
+          {
+            "word": "Zölle",
+            "definition": "Steuern auf Waren beim Import."
+          },
+          {
+            "word": "Waren",
+            "definition": "Güter oder Dinge, die verkauft werden."
+          },
+          {
+            "word": "Gespräche",
+            "definition": "Diskussionen zwischen Leuten."
+          },
+          {
+            "word": "Energie",
+            "definition": "Kraft oder Strom für Dinge."
+          },
+          {
+            "word": "Problem",
+            "definition": "Eine schwierige Situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat die Zölle eingeführt?",
+            "options": [
+              "Kanada",
+              "Trump",
+              "Carney"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sind einige Waren aus Kanada?",
+            "options": [
+              "Schuhe",
+              "Wein",
+              " Bücher"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wann beginnen die neuen Zölle?",
+            "options": [
+              "In 30 Tagen",
+              "Jetzt",
+              "In 60 Tagen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump stellt Zölle auf Kanada ein",
+        "text": "US-Präsident Donald Trump hat Zölle eingeführt. Diese Zölle sind 50 Prozent auf viele Waren aus Kanada. Es betrifft Waren wie Wein, Hockeyschläger und Zement. Einige Waren sind nicht betroffen. Diese sind Energie, Fisch und wichtige Mineralien. Der kanadische Premier Mark Carney sagt, Kanada will die Gespräche mit den USA verstärken. Er sagt auch, dass Kanada bereit ist, die Verhandlungen über den Handel zu intensivieren. Das bedeutet, Kanada möchte mehr über die Probleme im Handel sprechen. Die neuen Zölle kommen in 30 Tagen und sind ein großes Problem zwischen Kanada und den USA. Kanada hat in der Vergangenheit auch Zölle auf US-Waren eingeführt. Diese Zölle waren 25 Prozent. Die Situation ist schwierig, weil beide Länder Zölle erheben. Viele Menschen sind besorgt über die möglichen Konsequenzen für die Wirtschaft. Beide Seiten müssen zusammenarbeiten, um eine Lösung zu finden.",
+        "vocabulary": [
+          {
+            "word": "Zoll",
+            "definition": "eine Steuer auf importierte Waren"
+          },
+          {
+            "word": "Gespräche",
+            "definition": "Diskussionen über wichtige Themen"
+          },
+          {
+            "word": "einführen",
+            "definition": "eine neue Regel oder Steuer erstellen"
+          },
+          {
+            "word": "Waren",
+            "definition": "Produkte, die gekauft und verkauft werden"
+          },
+          {
+            "word": "Intensivierung",
+            "definition": "eine Vertiefung oder Verstärkung von etwas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was haben die neuen Zölle für eine Größe?",
+            "options": [
+              "25 Prozent",
+              "50 Prozent",
+              "10 Prozent"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was möchte Kanada mit den USA verstärken?",
+            "options": [
+              "Die Gespräche",
+              "Die Zölle",
+              "Die Wirtschaft"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wann kommen die neuen Zölle in Kraft?",
+            "options": [
+              "In 10 Tagen",
+              "In 30 Tagen",
+              "In 50 Tagen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "US-Zölle auf kanadische Waren steigen",
+        "text": "US-Präsident Donald Trump hat entschieden, neue Zölle auf Kanada einzuführen. Die Zölle betragen 50 Prozent auf viele importierte Waren, was einen erheblichen finanziellen Druck auf die kanadischen Unternehmen ausübt. Dazu gehören Produkte wie Wein, Hockeyschläger und Zement. Diese Entscheidung ist eine Antwort auf die, seiner Meinung nach, ungerechte Behandlung der US-Waren in Kanada. Bestimmte Produkte wie Energie, wichtige Mineralien und Fisch sind jedoch ausgenommen. Mark Carney, der Premier von Kanada, hat daraufhin reagiert und angekündigt, dass Kanada die Handelsgespräche intensivieren wird. Diese Gespräche sind wichtig, um eine Lösung zu finden und die wirtschaftlichen Beziehungen zu verbessern. Die neuen Zölle treten in 30 Tagen in Kraft. Dies bedeutet eine erhebliche Eskalation der Handelskonflikte zwischen Kanada und den USA, die bereits in der Vergangenheit kritisch waren. Kanada hatte bereits 2025 Zölle auf US-Waren eingeführt, um auf vorherige Maßnahmen zu reagieren. Diese Zölle betrugen 25 Prozent und waren ein Versuch, die kanadische Wirtschaft zu schützen. Auch Zölle auf Stahl und Aluminium von Kanada gegen die USA sind aktiv und erschweren die Verhandlungen weiter. Wenn die Handelsgespräche nicht erfolgreich sind, könnten die Kräfte der beiden Nationen weiter ansteigen und die wirtschaftliche Zusammenarbeit gefährden. Daher sind diese Gespräche dringend notwendig, um ein mögliches wirtschaftliches Ungleichgewicht zu verhindern.",
+        "vocabulary": [
+          {
+            "word": "Zölle",
+            "definition": "Steuern, die auf importierte Waren erhoben werden."
+          },
+          {
+            "word": "intensivieren",
+            "definition": "etwas intensiver oder verstärkt machen."
+          },
+          {
+            "word": "eskalieren",
+            "definition": "sich verschärfen oder schlimmer werden."
+          },
+          {
+            "word": "konflikt",
+            "definition": "Eine Auseinandersetzung oder ein Streit zwischen zwei oder mehreren Seiten."
+          },
+          {
+            "word": "wirtschaftlich",
+            "definition": "Die Wirtschaft betreffend oder mit der Wirtschaft zu tun habend."
+          },
+          {
+            "word": "verhandeln",
+            "definition": "Gespräche führen, um eine Einigung zu erzielen."
+          },
+          {
+            "word": "Produkte",
+            "definition": "Güter oder Waren, die hergestellt oder verkauft werden."
+          },
+          {
+            "word": "ausgenommen",
+            "definition": "Von etwas ausgeschlossen, nicht betroffen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie hoch sind die Zölle auf kanadische Waren?",
+            "options": [
+              "25 Prozent",
+              "50 Prozent",
+              "75 Prozent"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was plant Kanada nach der Entscheidung von Trump?",
+            "options": [
+              "Das Land wird Zölle abbauen.",
+              "Kanada wird Handelsgespräche intensivieren.",
+              "Es wird keine Reaktion geben."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Produkte sind von den Zöllen nicht betroffen?",
+            "options": [
+              "Energie und Fisch",
+              "Getränke und Lebensmittel",
+              "Technologieprodukte"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump verhängt 50% Zölle auf Kanada, Carney will Handelsgespräche intensivieren",
+        "text": "US-Präsident Donald Trump hat einen Zoll von 50 % auf eine Vielzahl von Waren, die aus Kanada importiert werden, verhängt. Dies geschah als Reaktion auf das, was er als \"ungleichmäßige Behandlung\" von US-Autos, Milchprodukten und Alkohol bezeichnete. Zu den betroffenen Produkten gehören alltägliche Verbrauchsartikel wie Wein und Hockeyschläger sowie industrielle Waren wie Zement. Allerdings bleiben einige wichtige Exporte verschont, unter anderem Energie, Kali, kritische Mineralien und Fisch. Ministerpräsident Mark Carney erklärte, Kanada sei bereit, die Handelsgespräche mit den USA in den kommenden Wochen zu \"intensivieren\". Das Weiße Haus gab bekannt, dass die Zölle in 30 Tagen in Kraft treten. Dies stellt eine erhebliche Eskalation der Handelskonflikte zwischen den nordamerikanischen Nachbarn dar. Kanada hatte im Jahr 2025 als eines der wenigen Länder auf Trumps Zölle reagiert und 25 % auf Waren im Wert von etwa 30 Milliarden Dollar erhoben. Carney senkte einige davon, behielt aber die Zölle auf US-Autos, Stahl und Aluminium bei. Der Oberste Gerichtshof der USA stellte jedoch fest, dass viele von Trumps Zöllen, die weltweit in Krisensituationen auferlegt wurden, illegal waren. Trump's letzte Maßnahme nutzte ein anderes, unbekanntes Gesetz, das bisher nicht vor Gericht getestet wurde.",
+        "vocabulary": [
+          {
+            "word": "Zoll",
+            "definition": "Steuer auf importierte Waren"
+          },
+          {
+            "word": "Waren",
+            "definition": "Produkte oder Güter"
+          },
+          {
+            "word": "Reaktion",
+            "definition": "Antwort auf etwas"
+          },
+          {
+            "word": "intensivieren",
+            "definition": "stärker oder mehr machen"
+          },
+          {
+            "word": "Eskalation",
+            "definition": "steigende Spannung oder Konflikt"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist die Ursache für die Zölle von Trump?",
+            "options": [
+              "Gesundheitsprobleme",
+              "Ungleichmäßige Behandlung",
+              "Energiesparen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Waren bleiben von den Zöllen verschont?",
+            "options": [
+              "Alkohol und Wein",
+              "Energie und Fisch",
+              "Autos und Zement"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wann treten die neuen Zölle in Kraft?",
+            "options": [
+              "In 30 Tagen",
+              "Sofort",
+              "In 60 Tagen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump verhängt 50% Zölle auf kanadische Importe; Carney kündigt Intensivierung der Handelsgespräche an",
+        "text": "In einer kürzlich getätigten Maßnahme hat US-Präsident Donald Trump einen Zoll von 50 % auf eine breit gefächerte Palette von Waren, die aus Kanada importiert werden, eingeführt, und zwar als Antwort auf das, was er als \"ungleichmäßige Behandlung\" von amerikanischen Autos, Milchprodukten und alkoholischen Getränken bezeichnete. Zu den betroffenen Alltagsgegenständen zählen unter anderem Wein und Hockeyschläger, während industrielle Waren wie Zement ebenfalls angegriffen werden. Im Gegensatz dazu bleibt eine Reihe entscheidender Exporte, einschließlich Energie, Kali und kritische Mineralien, von dieser Zollpolitik unberührt. Mark Carney, der Ministerpräsident Kanadas, äußerte, dass Kanada bereit sei, die Handelsverhandlungen mit den Vereinigten Staaten in naher Zukunft zu \"intensivieren\". Das Weiße Haus hat überdies signalisiert, dass die neuen Zölle in 30 Tagen in Kraft treten werden, was eine bedeutende Eskalation der Handelskonflikte zwischen den beiden Nachbarn darstellt. Im Jahr 2025 hatte Kanada bereits auf Trumps vorherige Zölle reagiert, indem es einen eigenen Zoll von 25 % auf US-Waren einführte. Trotz des Rückzugs mancher Zölle auf US-Waren behielt Carney die Zölle auf amerikanische Autos, Stahl und Aluminium bei, während der Oberste Gerichtshof der USA zuvor viele von Trumps globalen Zöllen als illegal abgelehnt hatte. Trumps jüngste Initiative nutzt ein wenig bekanntes Gesetz, das im Gegensatz zu nationalen Notstandsmaßnahmen steht.",
+        "vocabulary": [
+          {
+            "word": "Maßnahme",
+            "definition": "Aktion oder Entscheidung"
+          },
+          {
+            "word": "Zitat",
+            "definition": "Worte, die man von jemandem übernimmt"
+          },
+          {
+            "word": "entscheidend",
+            "definition": "wichtig oder ausschlaggebend"
+          },
+          {
+            "word": "Signal",
+            "definition": "Hinweis oder Zeichen"
+          },
+          {
+            "word": "Zollpolitik",
+            "definition": "Regelungen zu Importsteuern"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was bezeichnet Trump als Grund für die Zölle?",
+            "options": [
+              "Zahlungsdifferenzen",
+              "Ungleichmäßige Behandlung",
+              "Höhere Lebenshaltungskosten"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was bleibt von Trumps neuen Zöllen unberührt?",
+            "options": [
+              "Stahl und Aluminium",
+              "Energie und Fisch",
+              "Wein und Hockeyschläger"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wann gab Carney bekannt, dass Kanada die Handelsgespräche intensivieren wird?",
+            "options": [
+              "In 30 Tagen",
+              "In der nächsten Zeit",
+              "Nach einigen Monaten"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Die Handelskrise eskaliert: Trump verhängt drastische Zölle auf Kanada",
+        "text": "US-Präsident Donald Trump hat jüngst einen Zoll von 50 % auf diverse Importwaren aus Kanada eingeführt, und dies als Antwort auf das, was er als eine \"ungleichmäßige Behandlung\" amerikanischer Autos, Molkereiprodukte und alkoholischer Getränke apostrophiert. Unter den betroffenen Produkten befinden sich alltägliche Konsumartikel wie Wein und Hockeyschläger sowie industrielle Waren, darunter Zement. Paradoxerweise bleiben jedoch wesentliche Exportgüter wie Energie, Kali und kritische Mineralien von dieser Zollmaßnahme unberührt. Premierminister Mark Carney hat in seiner Stellungnahme klar gemacht, dass Kanada entschlossen sei, die Handelsgespräche mit den Vereinigten Staaten in naher Zukunft intensiv zu führen. Während das Weiße Haus bestätigte, dass die neuen Zölle innerhalb von 30 Tagen in Kraft treten werden, bedeutet dies eine dramatische Eskalation der Handelsspannungen zwischen den beiden Nachbarn. Interessanterweise war Kanada bereits im Jahr 2025 eines der wenigen Länder, das auf die früheren Zölle Trumps reagierte, als es einen eigenen Zoll von 25 % auf US-Waren verhängte. Für die Zukunft könnte diese diplomatische Krise das Klima der Handelsverhandlungen zwischen den Ländern nachhaltig belasten. Trotz rückläufiger Handelsgespräche und der rechtlichen Herausforderungen, die Trump gegenüberstanden, nutzt die aktuelle Maßnahme ein weniger bekanntes Gesetz aus dem Jahr 1930, das die Diskriminierung im Handel regelt und nicht in nationalen Notstandsregimen verankert ist. Carney betonte die Bedrohung, die eine solche Zollpolitik für die kanadische Souveränität darstellen könnte, insbesondere im Hinblick auf die früheren Äußerungen Trumps, Kanada könnte als 51. Bundesstaat der USA fungieren müssen, was die Reihe ungelöster Probleme nur weiter verkomplizieren dürfte.",
+        "vocabulary": [
+          {
+            "word": "apostrophieren",
+            "definition": "einen Begriff oder Zustand betonen oder hervorheben"
+          },
+          {
+            "word": "paradoxerweise",
+            "definition": "auf eine merkwürdige Weise, die keinen Sinn zu ergeben scheint"
+          },
+          {
+            "word": "verankert",
+            "definition": "festgelegt oder etabliert"
+          },
+          {
+            "word": "nachhaltig",
+            "definition": "längerfristig wirksam oder bleibend"
+          },
+          {
+            "word": "Souveränität",
+            "definition": "Unabhängigkeit und Selbstbestimmung eines Staates"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist die Hauptursache für Trumps Zölle auf Kanada?",
+            "options": [
+              "Ungleichmäßige Behandlung",
+              "Verhandlungsschwierigkeiten",
+              "Klimawandel"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Waren bleiben von den Zöllen verschont?",
+            "options": [
+              "Schwarzer Tee",
+              "Energie und Kali",
+              "Aluminium und Kohle"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche rechtlichen Herausforderungen hat Trump in Bezug auf die Zölle?",
+            "options": [
+              "Er hat keine",
+              "Vor Gericht umstritten",
+              "Monatliche Überprüfungen"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Trump impose des taxes sur le Canada",
+        "text": "Le président américain, Donald Trump, impose 50% de taxes. Les taxes sont sur beaucoup de produits du Canada. Cela commence dans 30 jours. Trump dit que le Canada traite mal les États-Unis. Des produits comme le vin et les cigares sont concernés. Cependant, l'énergie et les poissons ne sont pas affectés. Le Premier ministre Carney veut parler avec les États-Unis. Il veut plus de négociations. Le Canada a des taxes sur certains produits américains aussi. Cela crée des tensions entre les deux pays.",
+        "vocabulary": [
+          {
+            "word": "président",
+            "definition": "la personne qui dirige un pays"
+          },
+          {
+            "word": "taxes",
+            "definition": "de l'argent que l'on paie au gouvernement"
+          },
+          {
+            "word": "produits",
+            "definition": "les choses que l'on achète"
+          },
+          {
+            "word": "important",
+            "definition": "qui a beaucoup de valeur"
+          },
+          {
+            "word": "négociations",
+            "definition": "discussions pour un accord"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui impose des taxes?",
+            "options": [
+              "Le Canada",
+              "Donald Trump",
+              "Mark Carney"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quand commencent les taxes?",
+            "options": [
+              "Dans 30 jours",
+              "Dans 10 jours",
+              "Aujourd'hui"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels produits ne sont pas concernés?",
+            "options": [
+              "Vin",
+              "Énergie",
+              "Cigares"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump impose 50% de taxes sur le Canada",
+        "text": "Le président américain, Donald Trump, a imposé des taxes de 50% sur de nombreux produits du Canada. Cela est une réponse à ce qu'il appelle un traitement inégal des voitures et des produits laitiers des États-Unis. Ces taxes concernent des articles comme le vin et des bâtons de hockey. Cependant, certains produits comme l'énergie et les poissons sont épargnés. Le Premier ministre, Mark Carney, a dit que le Canada est prêt à intensifier les négociations commerciales. Ces nouvelles taxes vont commencer dans 30 jours. Cela crée plus de tensions entre ces deux pays. Au Canada, des taxes contre les produits américains existent déjà. Les deux pays veulent trouver des solutions.",
+        "vocabulary": [
+          {
+            "word": "réponse",
+            "definition": "réaction à quelque chose"
+          },
+          {
+            "word": "produits laitiers",
+            "definition": "nourriture faite avec du lait"
+          },
+          {
+            "word": "intensifier",
+            "definition": "rendre quelque chose plus fort"
+          },
+          {
+            "word": "négociations",
+            "definition": "discussions pour un accord"
+          },
+          {
+            "word": "tensions",
+            "definition": "problèmes ou conflits"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles taxes Trump impose?",
+            "options": [
+              "25%",
+              "50%",
+              "10%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Le Canada va intensifier quoi?",
+            "options": [
+              "Les taxes",
+              "Les négociations",
+              "Les produits"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels produits sont épargnés?",
+            "options": [
+              "L'énergie et les poissons",
+              "Le vin",
+              "Les voitures"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump impose de nouvelles taxes de 50% sur le Canada",
+        "text": "Le président des États-Unis, Donald Trump, a récemment imposé des taxes de 50% sur une grande variété de produits importés du Canada. Cette décision est une réaction à ce qu'il appelle un traitement inégal des voitures, des produits laitiers et de l'alcool américains. Parmi les articles concernés, il y a des produits courants comme le vin et les équipements sportifs, tandis que des exportations clés comme l'énergie et les minéraux critiques sont exemptées. Le Premier ministre canadien, Mark Carney, a souligné que le Canada est prêt à intensifier les discussions commerciales avec les États-Unis, car ces nouvelles taxes risquent de causer des problèmes économiques importants. Si les négociations échouent, les deux pays pourraient rencontrer davantage de tensions. En effet, en 2025, le Canada a également imposé des taxes contre les États-Unis en réponse à ces tarifs, ce qui a exacerbé les disputes commerciales. Le milieu des affaires canadien craint que ces taxes augmentent les prix pour les consommateurs. De plus, cela peut affecter l'emploi dans les secteurs qui dépendent du commerce. Les deux nations doivent travailler ensemble pour éviter une escalade des tensions, car une guerre commerciale pourrait nuire aux économies des deux pays. Les tarifs imposés par Trump sont utilisés sous une loi obscure qui n'a pas été testée devant les tribunaux, ce qui soulève des questions sur leur validité. Ainsi, les enjeux de cette décision vont bien au-delà des simples taxes, ils touchent des relations diplomatiques et économiques importantes. Ces événements rappellent que les discussions commerciales doivent rester ouvertes pour trouver des solutions pacifiques.",
+        "vocabulary": [
+          {
+            "word": "taxes",
+            "definition": "des impôts ou des droits que le gouvernement collecte sur les biens ou services."
+          },
+          {
+            "word": "tensions",
+            "definition": "des conflits ou des désaccords entre des pays ou des groupes."
+          },
+          {
+            "word": "exportations",
+            "definition": "des biens ou services vendus à l'étranger."
+          },
+          {
+            "word": "négociations",
+            "definition": "des discussions pour parvenir à un accord."
+          },
+          {
+            "word": "marché",
+            "definition": "un lieu ou un système où les biens et services sont échangés."
+          },
+          {
+            "word": "économie",
+            "definition": "l'ensemble des activités liées à la production et à la consommation de biens et services."
+          },
+          {
+            "word": "commerce",
+            "definition": "l'échange de biens et services entre les pays."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type de produits est concerné par les nouvelles taxes de Trump ?",
+            "options": [
+              "Principalement l'énergie",
+              "Les aliments et l'alcool",
+              "Les véhicules uniquement"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi Carney souhaite-t-il intensifier les discussions commerciales ?",
+            "options": [
+              "Pour éviter des problèmes économiques",
+              "Pour imposer plus de taxes",
+              "Pour restreindre les importations"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelles sont les conséquences possibles de ces nouvelles taxes ?",
+            "options": [
+              "Augmentation des prix pour les consommateurs",
+              "Réduction de l'emploi au Canada",
+              "Les deux réponses précédentes"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump impose des tarifs de 50 % sur le Canada, Carney promet d'intensifier les négociations commerciales",
+        "text": "Le président américain Donald Trump a décidé d'imposer des tarifs douaniers de 50 % sur une large gamme de biens importés du Canada, en réponse à ce qu'il qualifie de \"traitement inégal\" des voitures, des produits laitiers et des boissons alcoolisées provenant des États-Unis. Parmi les articles touchés figurent des produits de consommation courante comme le vin, des bâtons de hockey, ainsi que des biens industriels comme le ciment. Toutefois, certains exportations clés, telles que l'énergie, le potasse, des minéraux critiques et le poisson, seront exemptées de ces nouvelles taxes. En réaction, le Premier ministre canadien Mark Carney a déclaré que le Canada était prêt à \"intensifier\" les discussions commerciales avec les États-Unis durant les semaines à venir. La Maison Blanche a informé que ces droits de douane entreront en vigueur dans 30 jours. Cette décision marque une escalade significative des tensions commerciales entre les deux voisins nord-américains. Au début de 2025, le Canada avait déjà réagi en appliquant une taxe de 25 % sur environ 30 milliards de dollars canadiens de produits américains. Bien que Carney ait abrogé certaines taxes, il en a conservé d'autres sur les voitures américaines, l'acier et l'aluminium. Récemment, la Cour suprême des États-Unis a déclaré que plusieurs des tarifs de Trump étaient illégaux, mais les nouveaux droits de douane reposent sur une loi obscure qui n'a pas encore été testée en justice.",
+        "vocabulary": [
+          {
+            "word": "tarifs",
+            "definition": "Taxes sur les marchandises importées."
+          },
+          {
+            "word": "réponse",
+            "definition": "Ce qu'on dit ou fait après une question ou un problème."
+          },
+          {
+            "word": "produits",
+            "definition": "Articles fabriqués qui sont vendus."
+          },
+          {
+            "word": "négociations",
+            "definition": "Discussions pour parvenir à un accord."
+          },
+          {
+            "word": "escalade",
+            "definition": "Augmentation rapide d'une situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi Trump impose-t-il ces tarifs?",
+            "options": [
+              "Pour le traitement inégal des produits",
+              "Pour protéger le Canada",
+              "Pour réduire les prix"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelles exportations canadiennes seront exemptées?",
+            "options": [
+              "Les produits laitiers",
+              "L'énergie et le poisson",
+              "Les voitures"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quand ces tarifs entreront-ils en vigueur?",
+            "options": [
+              "Dans 30 jours",
+              "Dans 60 jours",
+              "Immédiatement"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Les États-Unis augmentent les tarifs sur le Canada : Carney promet d'accroître les négociations",
+        "text": "Le président des États-Unis, Donald Trump, a récemment annoncé l'imposition de tarifs de 50 % sur divers produits importés du Canada. Cette décision résulte d'un mécontentement relatif à ce qu'il caractérise comme un \"traitement inégal\" des véhicules américains, produits laitiers et vins. Les articles impactés incluent non seulement des produits de consommation, tels que le vin et les équipements sportifs, mais également des matériaux industriels comme le ciment. Malgré cela, certains des secteurs essentiels tels que l'énergie et certains minéraux seront, heureusement, exemptés. En réponse, le Premier ministre canadien, Mark Carney, a affirmé que le Canada se tenait prêt à \"intensifier\" les discussions commerciales avec les États-Unis dans un avenir proche. La Maison Blanche a indiqué que ces droits de douane commenceront à s'appliquer dans 30 jours, ce qui représente une escalade notoire des tensions commerciales entre les deux pays. Rappelons qu'en 2025, le Canada avait réagi contre les tarifs américains en instaurant une taxe de 25 % sur des produits d'une valeur de 30 milliards de dollars canadiens. Bien que certaines de ces taxes aient été annulées, celles sur les voitures, l'acier et l'aluminium demeurent en vigueur. De plus, il est intéressant de noter que la Cour suprême des États-Unis a précédemment jugé illégaux plusieurs des tarifs globaux instaurés par Trump, mais sa dernière décision s'appuie sur une législation encore inexplorée.",
+        "vocabulary": [
+          {
+            "word": "mécontentement",
+            "definition": "Incontentement ou insatisfaction par rapport à quelque chose."
+          },
+          {
+            "word": "secteurs",
+            "definition": "Parties spécifiques d'une économie ou d'une industrie."
+          },
+          {
+            "word": "exemptés",
+            "definition": "Non soumis à une règle ou condition."
+          },
+          {
+            "word": "discussions",
+            "definition": "Échanges d'idées pour parvenir à un accord."
+          },
+          {
+            "word": "législation",
+            "definition": "Ensemble des lois en vigueur."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type de produits a été impacté par les nouveaux tarifs?",
+            "options": [
+              "Produits laitiers et coton",
+              "Véhicules, produits laitiers et vins",
+              "Seulement l'acier"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi Carney souhaite-t-il intensifier les négociations?",
+            "options": [
+              "Pour éviter d'autres tarifs",
+              "Pour augmenter les tarifs",
+              "Pour réduire les importations américaines"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand ces nouveaux tarifs entreront-ils en vigueur?",
+            "options": [
+              "Dans 30 jours",
+              "Dans 10 jours",
+              "Ce week-end"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Les États-Unis aggravent leur politique tarifaire envers le Canada : Carney s'engage à intensifier les négociations",
+        "text": "La décision du président américain Donald Trump d'imposer un tarif douanier de 50 % sur un vaste éventail de marchandises en provenance du Canada constitue une nouvelle escalade dans les tensions commerciales déjà palpables entre les deux pays. En dénonçant ce qu'il considère comme un \"traitement inégal\", Trump cible une multitude de produits allant de l'alcool aux articles de consommation courante tels que les bâtons de hockey. Il est à noter que certains secteurs stratégiques, incluant l'énergie, le potasse et certains minéraux, seront miraculeusement exemptés, un détail qui soulève toutefois des questions sur les véritables motivations de cette mesure. Dans ce contexte délicat, Mark Carney, le Premier ministre du Canada, a réagi en affirmant que le pays est déterminé à \"intensifier\" les négociations commerciales dans les semaines à venir. La Maison Blanche a précisé que ces nouvelles taxes entreront en vigueur dans un délai de 30 jours, marquant ainsi une aggravation notable des relations économiques entre les deux nations, déjà sous tension. Rappelons qu'en 2025, le Canada avait fait volte-face en répondant aux tarifs imposés par les États-Unis par l'instauration d'une taxe de 25 % sur des biens d'une valeur considérable. De plus, tandis que la Cour suprême des États-Unis a, dans le passé, vu des tarifs, précédemment imposés, déclarés illégaux, le cadre législatif actuel permet à Trump d'agir selon des lois jusque-là peu utilisées. En fin de compte, cette situation met en lumière les défis substantiels auxquels le Canada est confronté, notamment en ce qui concerne ses intérêts dans les secteurs automobiles et agricoles, où les tensions persistent.",
+        "vocabulary": [
+          {
+            "word": "palpables",
+            "definition": "Clairs, évidents ou tangibles."
+          },
+          {
+            "word": "stratégiques",
+            "definition": "Essentiels dans un contexte global ou militaire."
+          },
+          {
+            "word": "volte-face",
+            "definition": "Changement radical d'opinion ou de position."
+          },
+          {
+            "word": "aggravation",
+            "definition": "Augmentation qui rend la situation pire."
+          },
+          {
+            "word": "législatif",
+            "definition": "Concernant des lois ou le processus légal."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle sera la conséquence des nouveaux tarifs sur les relations entre les deux pays?",
+            "options": [
+              "Une amélioration de la coopération",
+              "Une aggravation des tensions",
+              "Un retour à la normale"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels sont les secteurs exemptés des nouveaux tarifs?",
+            "options": [
+              "Beaucoup de secteurs",
+              "L'énergie et certains minéraux",
+              "Tous les produits"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle loi a été utilisée pour imposer ces tarifs?",
+            "options": [
+              "Une loi récemment adoptée",
+              "Une loi peu utilisée",
+              "Une loi annulée"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Trump y Canadá",
+        "text": "Donald Trump es el presidente de Estados Unidos. Él pone un impuesto del 50% a productos de Canadá. Esto es porque él dice que hay un trato injusto. Los productos son carros, leche y vino. Algunos productos no tienen impuesto. Estos son energía y pescado. El primer ministro de Canadá quiere hablar sobre el comercio. Él dice que ellos están listos para hablar más. El impuesto empieza en 30 días. Esto causa problemas entre Estados Unidos y Canadá. Canadá tiene sus propios impuestos a productos de Estados Unidos.",
+        "vocabulary": [
+          {
+            "word": "impuesto",
+            "definition": "dinero que se paga al gobierno"
+          },
+          {
+            "word": "productos",
+            "definition": "cosas que se venden"
+          },
+          {
+            "word": "comercio",
+            "definition": "intercambio de bienes"
+          },
+          {
+            "word": "presidente",
+            "definition": "persona que dirige un país"
+          },
+          {
+            "word": "canadá",
+            "definition": "un país al norte de Estados Unidos"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el presidente de Estados Unidos?",
+            "options": [
+              "Mark Carney",
+              "Donald Trump",
+              "Justin Trudeau"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué impuesto pone Trump?",
+            "options": [
+              "25%",
+              "50%",
+              "75%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué país no tiene impuestos?",
+            "options": [
+              "Canadá",
+              "México",
+              "Estados Unidos"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump pone impuestos a Canadá",
+        "text": "El presidente de Estados Unidos, Donald Trump, impone un impuesto del 50% a muchos productos de Canadá. Él dice que hay un trato desigual para coches, leche y vino. Este impuesto afecta a productos importantes como cemento y palos de hockey, que son muy populares. Algunos productos como energía y pescado están exentos del impuesto, así que no todos los sectores sufrirán igual. El primer ministro de Canadá, Mark Carney, responde que Canadá va a hablar más sobre el comercio con Estados Unidos. Él tiene planes de reunirse con ellos en las próximas semanas porque la situación es complicada. El impuesto empezará en 30 días y causa tensión entre ambos países. Antes, Canadá tuvo un impuesto a productos de Estados Unidos, pero ahora las dos naciones tienen problemas por varios impuestos. Canadá quiere reducir esos impuestos y busca soluciones para mejorar el comercio entre los países.",
+        "vocabulary": [
+          {
+            "word": "impuesto",
+            "definition": "una carga que el gobierno pone a las personas o empresas"
+          },
+          {
+            "word": "exento",
+            "definition": "libre de una carga o impuesto"
+          },
+          {
+            "word": "tensión",
+            "definition": "estrés o conflicto entre personas o grupos"
+          },
+          {
+            "word": "trato",
+            "definition": "una forma de comportamiento o acuerdo entre personas"
+          },
+          {
+            "word": "reunirse",
+            "definition": "encontrarse con alguien para hablar o discutir algo"
+          },
+          {
+            "word": "cemento",
+            "definition": "material de construcción utilizado para hacer edificios"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué porcentaje de impuesto impone Trump a los productos de Canadá?",
+            "options": [
+              "25%",
+              "50%",
+              "75%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué productos están exentos del impuesto?",
+            "options": [
+              "Coches y leche",
+              "Energía y pescado",
+              "Cementos y vinos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuándo comenzará el impuesto?",
+            "options": [
+              "En 10 días",
+              "En 30 días",
+              "En 60 días"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Tensión comercial entre Trump y Canadá",
+        "text": "Donald Trump, el presidente de Estados Unidos, ha impuesto un impuesto del 50% a varios productos importados de Canadá, lo que ha creado una gran preocupación en el país vecino. Él considera que hay un tratamiento desigual, especialmente hacia los coches, productos lácteos y vino. Este enfoque severo se basa en su opinión de que Canadá discrimina a los productos estadounidenses. Sin embargo, ciertos productos, como energía, potasa y pescado, no se verán afectados por este nuevo impuesto. El primer ministro, Mark Carney, ha respondido diciendo que Canadá está listo para intensificar las conversaciones sobre comercio con Estados Unidos en las próximas semanas, lo que podría ayudar a mitigar las tensiones. Este impuesto comenzará en 30 días, y marca un aumento considerable en la tensión comercial entre ambos países. En 2025, Canadá había respondido a impuestos de Trump con sus propios aranceles en productos estadounidenses, demostrando que el comercio es un tema delicado entre las naciones. Además, Canadá tiene actualmente un impuesto sobre el acero y el aluminio estadounidense, lo que complica aún más la situación. Los ciudadanos y trabajadores canadienses temen que estos conflictos comerciales afecten su economía y empleos. Hay preocupaciones sobre las antiguas tarifas y los derechos de los trabajadores involucrados en la fabricación de automóviles. Si la situación continúa, podríamos ver un aumento en los aranceles y un impacto negativo en ambos países. Las negociaciones siguen difíciles entre los dos países, y todos esperan que se alcance un acuerdo pronto para evitar daños mayores.",
+        "vocabulary": [
+          {
+            "word": "arancel",
+            "definition": "impuesto que se paga por bienes importados o exportados."
+          },
+          {
+            "word": "discriminación",
+            "definition": "tratamiento desigual hacia personas o cosas."
+          },
+          {
+            "word": "tensión",
+            "definition": "estado de conflicto o tensión entre dos partes."
+          },
+          {
+            "word": "negociaciones",
+            "definition": "proceso de discutir acuerdos."
+          },
+          {
+            "word": "soberanía",
+            "definition": "poder que tiene un estado para gobernarse a sí mismo."
+          },
+          {
+            "word": "productores",
+            "definition": "personas o empresas que producen bienes o servicios."
+          },
+          {
+            "word": "economía",
+            "definition": "sistema de producción y distribución de bienes y servicios."
+          },
+          {
+            "word": "impacto",
+            "definition": "efecto o influencia que algo tiene sobre algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué porcentaje de impuesto ha impuesto Trump a productos canadienses?",
+            "options": [
+              "25%",
+              "50%",
+              "10%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué productos canadienses no se verán afectados por el impuesto?",
+            "options": [
+              "Electricidad y pescado",
+              "Juguetes y ropa",
+              "Coches y lácteos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué ha hecho Canadá en respuesta a los impuestos de Trump en 2025?",
+            "options": [
+              "Ha impuesto sus propios aranceles",
+              "Los ha ignorado",
+              "Ha reducido los impuestos"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump impone aranceles del 50% a Canadá y Carney promete intensificar las negociaciones comerciales",
+        "text": "El presidente de EE. UU., Donald Trump, ha impuesto un arancel del 50% a una amplia gama de productos importados desde Canadá, como respuesta a lo que él ha calificado de \"tratamiento desigual\" de los autos estadounidenses, lácteos y alcohol. Entre los artículos afectados se encuentran productos de uso diario, como el vino y los palos de hockey, además de bienes industriales como el cemento. No obstante, algunas exportaciones clave, como energía, potasa, minerales críticos y pescado, no se verán afectadas. El primer ministro Mark Carney respondió afirmando que Canadá está dispuesto a \"intensificar\" las negociaciones comerciales con EE. UU. en las próximas semanas. La Casa Blanca ha declarado que los nuevos aranceles entrarán en vigor en 30 días, lo que marca una escalada significativa en las tensiones comerciales entre los dos países. En 2025, Canadá fue uno de los pocos países que respondió a los aranceles de Trump, imponiendo un gravamen del 25% sobre mercancías estadounidenses por un valor de aproximadamente 30 mil millones de dólares canadienses. Aunque Carney posteriormente eliminó algunos aranceles, mantuvo los impuestos sobre autos, acero y aluminio estadounidenses. La Corte Suprema de EE. UU. había dictaminado anteriormente que muchos de estos aranceles eran ilegales. Sin embargo, la última decisión de Trump se basa en una ley diferente y poco conocida.",
+        "vocabulary": [
+          {
+            "word": "aranceles",
+            "definition": "Impuestos sobre productos importados."
+          },
+          {
+            "word": "respuesta",
+            "definition": "Acción o comentario que se hace después de algo."
+          },
+          {
+            "word": "tensiones",
+            "definition": "Situaciones de conflicto o discrepancia."
+          },
+          {
+            "word": "mercancías",
+            "definition": "Productos o bienes que se comercializan."
+          },
+          {
+            "word": "negociaciones",
+            "definition": "Conversaciones para llegar a un acuerdo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué porcentaje de arancel se impuso a los productos de Canadá?",
+            "options": [
+              "25%",
+              "50%",
+              "15%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué países están involucrados en las negociaciones comerciales?",
+            "options": [
+              "Canadá y México",
+              "EE. UU. y Canadá",
+              "EE. UU. y Europa"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuánto tardarán en entrar en vigor los nuevos aranceles?",
+            "options": [
+              "15 días",
+              "30 días",
+              "60 días"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump implementa aranceles del 50% sobre productos canadienses mientras Carney busca reanudar diálogos comerciales",
+        "text": "En un movimiento que ha generado gran controversia, el presidente de EE. UU., Donald Trump, ha decidido imponer un arancel del 50% sobre diversos bienes importados de Canadá. Esta medida ha sido justificada por Trump como una respuesta a lo que él considera un \"tratamiento desigual\" hacia los vehículos, productos lácteos y bebidas alcohólicas estadounidenses. A pesar de que artículos cotidianos como vinos y palos de hockey se verán perjudicados, ciertosexportaciones esenciales, incluyendo energía, potasa, minerales críticos y pescados, han quedado exentas de este gravamen. Ante esta situación, el primer ministro canadiense Mark Carney ha expresado la disposición de su gobierno para \"intensificar\" las negociaciones comerciales con EE. UU. en un futuro inmediato. La Casa Blanca ha anunciado que estos aranceles comenzarán a aplicarse dentro de 30 días. Este desarrollo supone un aumento considerable de las tensiones comerciales entre ambos países. Canadá, que ya había impuesto aranceles anteriormente como represalia, ha visto cómo la Corte Suprema de EE. UU. declaró ilegítimas muchas de las tarifas implementadas por Trump bajo poderes de emergencia. Sin embargo, la nueva acción sigue un marco legal diferente, y podría tener implicaciones significativas para la relación comercial entre estos vecinos norteamericanos.",
+        "vocabulary": [
+          {
+            "word": "controversia",
+            "definition": "Debate o discusión sobre un tema difícil."
+          },
+          {
+            "word": "justificada",
+            "definition": "Explicada y defendida con argumentos."
+          },
+          {
+            "word": "gravamen",
+            "definition": "Impuesto aplicado a ciertos bienes."
+          },
+          {
+            "word": "disposición",
+            "definition": "Intención o disposición para hacer algo."
+          },
+          {
+            "word": "impliaciones",
+            "definition": "Consecuencias o efectos de una acción."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Por qué Trump impuso aranceles a los productos canadienses?",
+            "options": [
+              "Por un tratamiento desigual",
+              "Por un acuerdo comercial",
+              "Por el clima"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué productos están exentos de los nuevos aranceles?",
+            "options": [
+              "Lácteos",
+              "Pescados",
+              "Vinos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué dijo Carney acerca de las negociaciones comerciales?",
+            "options": [
+              "Que no hay planes",
+              "Que se intensificarán",
+              "Que se detendrán"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump lanza aranceles del 50% a productos canadienses, Carney promete revitalizar las conversaciones comerciales",
+        "text": "En un giro audaz que ha suscitado intensas reacciones en ambos lados de la frontera, el presidente de EE. UU., Donald Trump, ha decidido imponer un arancel del 50% sobre una variada gama de productos importados desde Canadá, aduciendo razones de \"trato desigual\" hacia automóviles, productos lácteos y bebidas alcohólicas estadounidenses. Si bien algunos artículos de consumo diario, como el vino o los palos de hockey, quedarán bajo este nuevo gravamen, múltiples exportaciones fundamentales, especialmente en los sectores de energía, potasa, minerales críticos y pesquerías, se han salvado de esta medida. Mark Carney, primer ministro canadiense, ha respondido a tal ataque comercial asegurando que su gobierno está completamente preparado para \"intensificar\" las negociaciones en un futuro cercano, dado que el impacto de esta decisión dañina para el comercio bilateral podría ser profundo. La Casa Blanca ha afirma que estos aranceles entrarán en vigor en 30 días, aumentando así las tensiones ya existentes en las relaciones comerciales entre estas naciones. Vale la pena recordar que en 2025, Canadá ya había reaccionado a la política arancelaria de Trump con una respuesta análoga, afirmando la importancia de sostener un comercio justo y de abordar las \"amenazas a la soberanía canadiense\". A pesar de las resoluciones de la Corte Suprema de EE. UU. que declararon ciertos aranceles anteriores como ilegales, esta última maniobra se basa en una ley diferente y poco convencional, lo que podría complicar aún más la relación entre los dos vecinos de América del Norte.",
+        "vocabulary": [
+          {
+            "word": "suscitar",
+            "definition": "Dar lugar a una situación o reacción."
+          },
+          {
+            "word": "gravedad",
+            "definition": "Severidad o seriedad de una situación."
+          },
+          {
+            "word": "análogo",
+            "definition": "Similar o comparable a algo."
+          },
+          {
+            "word": "maniobra",
+            "definition": "Acción estratégica o táctica para alcanzar un objetivo."
+          },
+          {
+            "word": "complicar",
+            "definition": "Hacer más difícil o complejo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de productos se verán afectados por los nuevos aranceles de Trump?",
+            "options": [
+              "Productos energéticos",
+              "Productos importados desde Canadá",
+              "Productos médicos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha prometido Carney al respecto?",
+            "options": [
+              "No hacer nada",
+              "Intensificar las negociaciones comerciales",
+              "Rechazar todo diálogo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué relación tiene este anuncio con el comercio justo?",
+            "options": [
+              "Impulsa el comercio justo",
+              "Complica las negociaciones de comercio justo",
+              "Mejora el comercio justo"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}
