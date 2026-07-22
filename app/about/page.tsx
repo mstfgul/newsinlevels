@@ -127,6 +127,21 @@ export default function AboutPage() {
 
         <section>
           <h2 className="mb-3 text-xl font-bold tracking-tight" style={{ fontFamily: "var(--font-bricolage)" }}>
+            Coming from News in Levels?
+          </h2>
+          <p>
+            If you know sites like News in Levels, the idea here will feel
+            familiar — real news, simplified so learners can actually read it.
+            This notebook takes that further: <strong>six CEFR levels</strong>{" "}
+            instead of three, <strong>four languages</strong> instead of one,
+            and news is just one shelf — art, film, books, quotes and history
+            get the same treatment, each with a word notebook and comprehension
+            questions built in.
+          </p>
+        </section>
+
+        <section>
+          <h2 className="mb-3 text-xl font-bold tracking-tight" style={{ fontFamily: "var(--font-bricolage)" }}>
             How to work with a text
           </h2>
           <p>

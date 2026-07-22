@@ -43,9 +43,23 @@ function contentEntries(section: Section, entries: SitemapSource[]): MetadataRou
 // on-demand instead of being pre-built — see recentWindow() in lib/data.ts),
 // so the sitemap lists all of them, not just the recently pre-rendered ones.
 export default function sitemap(): MetadataRoute.Sitemap {
+  // Each section's own freshest entry date stands in for the list page's
+  // lastModified — accurate enough since the list re-renders whenever its
+  // newest entry does, and cheaper than tracking a separate "last built" date.
+  const sectionDates: Record<string, string | undefined> = {
+    news: getIndex()[0]?.date,
+    art: getArtIndex()[0]?.date,
+    films: getFilmIndex()[0]?.date,
+    books: getBookIndex()[0]?.date,
+    quotes: getQuoteIndex()[0]?.date,
+    history: getHistoryIndex()[0]?.date,
+  };
+  const latestOverall = Object.values(sectionDates).sort().at(-1);
+
   const staticPages: MetadataRoute.Sitemap = [
     ...["", "news", "art", "films", "books", "quotes", "history"].map((path) => ({
       url: `${SITE_URL}/${path}${path ? "/" : ""}`,
+      lastModified: path ? sectionDates[path] : latestOverall,
       changeFrequency: "daily" as const,
     })),
     {
@@ -56,6 +70,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...["english", "german", "french", "spanish"].flatMap((lang) =>
       LEVELS.map((level) => ({
         url: `${SITE_URL}/read/${lang}/${level.toLowerCase()}/`,
+        lastModified: latestOverall,
         changeFrequency: "daily" as const,
       })),
     ),

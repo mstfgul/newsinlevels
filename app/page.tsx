@@ -45,6 +45,11 @@ export default function Home() {
   return (
     <div className="flex min-h-[calc(100dvh-17rem)] flex-col justify-center lg:relative lg:left-1/2 lg:w-[min(calc(100vw-3rem),64rem)] lg:-translate-x-1/2">
       <JsonLd data={webSiteJsonLd()} />
+      {/* Every page needs one real h1 for SEO/a11y; the hand-note below is
+          decorative, so the crawlable title lives here instead, visually hidden. */}
+      <h1 className="sr-only">
+        Any Text in Levels — daily news, art &amp; stories at your level (CEFR A1–C2)
+      </h1>
       {/* What this place is, jotted at the top of the page in pencil. */}
       <p
         className="hand-note mx-auto mb-9 max-w-md rotate-[-0.6deg] text-center lg:max-w-none"
