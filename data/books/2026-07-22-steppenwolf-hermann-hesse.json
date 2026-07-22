@@ -1,0 +1,1402 @@
+{
+  "id": "2026-07-22-steppenwolf-hermann-hesse",
+  "date": "2026-07-22",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Steppenwolf_(novel)"
+  },
+  "originalTitle": "Steppenwolf (1927) — Hermann Hesse",
+  "image": "https://covers.openlibrary.org/b/id/3221083-L.jpg",
+  "category": "book",
+  "book": {
+    "author": "Hermann Hesse",
+    "title": "Steppenwolf",
+    "year": "1927"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf is a book by Hermann Hesse. It is about a man. He feels alone and different. The man has a big heart and deep thoughts. He lives in a city. Many people do not understand him. He worries about the world. This book talks about feelings and being lost. It makes us think about who we are. The story is interesting and special. Readers can feel the man's heart and mind.",
+        "vocabulary": [
+          {
+            "word": "man",
+            "definition": "an adult male person"
+          },
+          {
+            "word": "feelings",
+            "definition": "what we feel inside, like happiness or sadness"
+          },
+          {
+            "word": "alone",
+            "definition": "without other people"
+          },
+          {
+            "word": "different",
+            "definition": "not the same as others"
+          },
+          {
+            "word": "world",
+            "definition": "the earth and everything on it"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is Steppenwolf about?",
+            "options": [
+              "a man",
+              "a wolf",
+              "a city"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the man feel?",
+            "options": [
+              "happy",
+              "alone",
+              "rich"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is Steppenwolf about?",
+            "options": [
+              "a game",
+              "feelings",
+              "food"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf is a novel by Hermann Hesse. It was published in 1927. The main character is a man who feels very alone. He does not fit in with other people in the city. He has deep thoughts and feelings about life. The man thinks a lot about his place in the world. He feels confused and searches for meaning. Hesse wrote this book during a time of great struggle in his life. He had many questions about identity and belonging. The story shows his thoughts during a difficult time. Steppenwolf has been popular for many years because it connects with many readers today. Many people feel like they do not fit in. Readers can explore their own feelings and thoughts through the man's journey. They can reflect on their lives and discover why they feel lonely. The book helps them understand their own struggles and hopes.",
+        "vocabulary": [
+          {
+            "word": "identity",
+            "definition": "the qualities and beliefs that make a person unique"
+          },
+          {
+            "word": "belonging",
+            "definition": "the feeling of being accepted and included in a group"
+          },
+          {
+            "word": "journey",
+            "definition": "a process of traveling from one place to another, often in life"
+          },
+          {
+            "word": "reflect",
+            "definition": "to think deeply about something"
+          },
+          {
+            "word": "discover",
+            "definition": "to find out something for the first time"
+          }
+        ],
+        "questions": [
+          {
+            "question": "When was Steppenwolf first published?",
+            "options": [
+              "1900",
+              "1927",
+              "1930"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the main character search for?",
+            "options": [
+              "Friends",
+              "Meaning",
+              "Adventure"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the book help readers understand?",
+            "options": [
+              "Their hobbies",
+              "Their struggles",
+              "Their jobs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf is a profound novel written by Hermann Hesse, first published in 1927. The story revolves around a man, Harry Haller, who feels a deep sense of isolation in a city full of people. Throughout the novel, this character struggles with his identity and the inner conflicts within himself. Harry often thinks about society, existence, and personal fulfillment. Hesse explores themes of duality, spirituality, and the search for meaning in life. The man finds himself questioning the values and norms of the world around him, which leads to intense inner turmoil. Hesse wrote Steppenwolf during a time of personal crisis, reflecting his own experiences and emotions from the 1920s. His deep questions about life and self-identity invite readers to consider their own lives and feelings, encouraging them to explore their inner selves.\n\nSince its release, Steppenwolf has captured the hearts and minds of many readers, remaining relevant across generations. Readers who have faced similar feelings of loneliness and confusion often relate to Harry’s struggles. The novel has sparked discussions about mental health and the search for personal meaning in modern life. In essence, the characters and themes in Steppenwolf continue to resonate with readers today, prompting ongoing reflection about the complexities of human nature and the challenges of finding one's place in the world. Hesse's work has become a classic that many find invaluable in understanding themselves and their experiences.",
+        "vocabulary": [
+          {
+            "word": "isolation",
+            "definition": "the state of being alone or separated from others."
+          },
+          {
+            "word": "identity",
+            "definition": "the qualities, beliefs, and characteristics that make someone who they are."
+          },
+          {
+            "word": "duality",
+            "definition": "the concept of having two different parts, often with opposing qualities."
+          },
+          {
+            "word": "spirituality",
+            "definition": "the quality of being concerned with the soul or spirit rather than the material."
+          },
+          {
+            "word": "turmoil",
+            "definition": "a state of great disturbance, confusion, or uncertainty."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Harry Haller struggle with in Steppenwolf?",
+            "options": [
+              "His financial situation",
+              "His identity and inner conflicts",
+              "His relationships with others"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When was Steppenwolf first published?",
+            "options": [
+              "1920",
+              "1927",
+              "1935"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What themes does Hesse explore in this novel?",
+            "options": [
+              "Friendship and loyalty",
+              "Duality and spirituality",
+              "Adventure and fantasy"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Discovering the Duality of Existence in Steppenwolf",
+        "text": "In Hermann Hesse's novel 'Steppenwolf', the reader is invited into the conflicted psyche of Harry Haller, a man who embodies the struggle between his human side and his wild, animalistic nature. The story opens during a time of personal crisis, as Haller grapples with profound feelings of isolation and despair in a world that he finds difficult to understand. Through the lens of Hesse's philosophical exploration, themes of identity, duality, and the quest for meaning resonate throughout the narrative. Hesse employs a vivid, introspective style that encourages readers to reflect on their own existences. The work, published in 1927, not only captures a tumultuous period in Hesse's life but also mirrors the broader zeitgeist of the 1920s, marked by disillusionment and a search for authenticity. By navigating through Haller's experiences, readers engage with questions about their own nature and the societal norms that shape our identities. 'Steppenwolf' remains relevant today as it challenges us to confront our inner conflicts and seek a deeper understanding of ourselves in a complex world.",
+        "vocabulary": [
+          {
+            "word": "conflicted",
+            "definition": "having different feelings about something"
+          },
+          {
+            "word": "psyche",
+            "definition": "the human mind or spirit"
+          },
+          {
+            "word": "isolation",
+            "definition": "being alone or separated from others"
+          },
+          {
+            "word": "disillusionment",
+            "definition": "a feeling of disappointment when something is not as good as expected"
+          },
+          {
+            "word": "authenticity",
+            "definition": "being real or genuine"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Harry Haller struggle with?",
+            "options": [
+              "His friendship",
+              "His nature",
+              "His job"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What themes are explored in 'Steppenwolf'?",
+            "options": [
+              "Friendship and love",
+              "Identity and duality",
+              "Nature and animals"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When was 'Steppenwolf' first published?",
+            "options": [
+              "1927",
+              "1929",
+              "1910"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Existential Quest in Hesse's Steppenwolf",
+        "text": "Hermann Hesse's 'Steppenwolf', published in 1927, delves deeply into the complexities of the human experience through the figure of Harry Haller, a man wrestling with an intrinsic dichotomy: his civilized persona is continuously at odds with his primal instincts. Set against the backdrop of a post-World War I Europe, an environment rife with disillusionment and existential angst, the narrative encapsulates Haller's tumultuous journey towards self-discovery amid an increasingly alienating society. Hesse’s prose is richly layered, employing potent symbolism and surreal imagery to depict the internal battles of his protagonist. Furthermore, the novel probes profound existential questions concerning the nature of identity, the struggle for moral integrity, and the quest for authentic existence in a world characterized by chaos and fragmentation. Hesse’s tale reflects not only his own crisis of spirituality during the 1920s but also resonates with a contemporary readership that grapples with similar dilemmas. Although 'Steppenwolf' achieved notable acclaim, Hesse himself articulated concerns over its frequent misinterpretations, cautioning that many readers overlooked the nuances of Haller's character. In an era marked by a profound cultural shift, Hesse’s work continues to resonate, inviting readers to confront their own dualities and aspire towards a more comprehensive understanding of self within the intricate tapestry of societal influences, urging them to reflect meticulously on their choices in a bewildering world.",
+        "vocabulary": [
+          {
+            "word": "dichotomy",
+            "definition": "a division or contrast between two things that are represented as being opposed or entirely different."
+          },
+          {
+            "word": "disillusionment",
+            "definition": "a feeling of disappointment resulting from the discovery that something is not as good as one believed it to be."
+          },
+          {
+            "word": "fragmentation",
+            "definition": "the process or state of breaking or being broken into small or separate parts."
+          },
+          {
+            "word": "nuance",
+            "definition": "a subtle difference in or shade of meaning, expression, or sound."
+          },
+          {
+            "word": "meticulously",
+            "definition": "in a way that shows great attention to detail; very thoroughly."
+          },
+          {
+            "word": "symbolism",
+            "definition": "the use of symbols to represent ideas or qualities."
+          },
+          {
+            "word": "authentic",
+            "definition": "of undisputed origin; genuine."
+          },
+          {
+            "word": "spirituality",
+            "definition": "the quality of being concerned with the human spirit or soul as opposed to material or physical things."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the primary conflict experienced by Harry Haller in 'Steppenwolf'?",
+            "options": [
+              "His civilized persona versus his primal instincts",
+              "His desire for fame versus his quest for solitude",
+              "His acceptance of society versus his rejection of it"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What key theme does 'Steppenwolf' explore in relation to human identity?",
+            "options": [
+              "The exploration of physical strength",
+              "The struggle for moral integrity",
+              "The pursuit of wealth and power"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "In what year was 'Steppenwolf' first published?",
+            "options": [
+              "1925",
+              "1927",
+              "1929"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Hermann Hesse's Steppenwolf: A Study of Identity and Existential Conflict",
+        "text": "'Steppenwolf', Hermann Hesse's profound exploration into the labyrinthine recesses of the human soul, confronts not only the fragmented identity of its protagonist, Harry Haller, but also grapples with the sociocultural disarray of the 1920s. The narrative artfully oscillates between stark realism and fantastical elements, creating an intricate tapestry that mirrors Haller's own tumultuous existence as he seeks reconciliation between his bourgeois obligations and the wild call of his inner beast. Hesse’s nuanced prose evokes a sense of existential urgency, compelling the reader to engage with fundamental questions surrounding authenticity, the nature of selfhood, and the often painful dichotomy between societal expectation and personal desire. Although critically acclaimed, Hesse lamented the misinterpretations of 'Steppenwolf', arguing that its true essence was frequently obscured by superficial readings. In an age where individual identity is more relevant than ever, Hesse's magnum opus remains a timeless exploration of what it means to be whole amidst the chaos of modernity, encouraging contemplative engagement with the myriad dimensions of the self.",
+        "vocabulary": [
+          {
+            "word": "labyrinthine",
+            "definition": "intricate and confusing, like a labyrinth"
+          },
+          {
+            "word": "grapples",
+            "definition": "struggles with something difficult"
+          },
+          {
+            "word": "oscillates",
+            "definition": "moves back and forth between different states"
+          },
+          {
+            "word": "nuanced",
+            "definition": "having subtle differences in meaning or tone"
+          },
+          {
+            "word": "lamented",
+            "definition": "expressed sorrow or regret about something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Haller struggle with in 'Steppenwolf'?",
+            "options": [
+              "His identity",
+              "His wealth",
+              "His family"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How does Hesse describe the narrative style of 'Steppenwolf'?",
+            "options": [
+              "Very simple",
+              "Full of reality and fantasy",
+              "Only realistic"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Hesse express concern about regarding the book?",
+            "options": [
+              "Its length",
+              "It being misunderstood",
+              "Its popularity"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Steppenwolf",
+        "text": "Das Buch heißt „Steppenwolf“. Es ist von Hermann Hesse. Der Autor kommt aus Deutschland und ist sehr bekannt. Das Buch ist im Jahr 1927 erschienen und hat viele Leser. Die Hauptfigur ist ein Mann. Er fühlt sich einsam und unglücklich. Er sucht nach seinem Platz in der Welt. Die Geschichte zeigt viele Gefühle und Gedanken. Menschen lesen das Buch und denken über ihr Leben nach. Es geht um Freundschaft und das Leben. Die Sprache ist poetisch und schön. Steppenwolf hat viele wichtige Themen. Es ist ein sehr interessantes Buch und bleibt beliebt bei den Lesenden.",
+        "vocabulary": [
+          {
+            "word": "berühmt",
+            "definition": "bekannt und geschätzt"
+          },
+          {
+            "word": "Geschichte",
+            "definition": "eine Erzählung oder Handlung"
+          },
+          {
+            "word": "Gefühle",
+            "definition": "Emotionen oder Empfindungen"
+          },
+          {
+            "word": "Zuhörer",
+            "definition": "Menschen, die zuhören"
+          },
+          {
+            "word": "Themen",
+            "definition": "wichtige Ideen oder Fragen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann ist das Buch erschienen?",
+            "options": [
+              "1927",
+              "1929",
+              "1930"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie fühlt sich die Hauptfigur?",
+            "options": [
+              "glücklich",
+              "einsam",
+              "relevant"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist ein wichtiges Thema des Buches?",
+            "options": [
+              "Einsamkeit",
+              "Schule",
+              "Reisen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Steppenwolf",
+        "text": "„Steppenwolf“ ist ein Buch von Hermann Hesse. Es ist 1927 erschienen und gehört zu seinen bekanntesten Werken. Die Geschichte handelt von einem Mann, der Harry Haller heißt. Harry lebt in Deutschland. Er hat große Probleme mit sich selbst und auch mit der Welt um ihn herum. Oft fühlt er sich einsam und verwirrt. Harry hat Angst vor Nähe und Freundschaft, weil er sich nicht sicher ist, ob er geliebt wird. In dem Buch gibt es viele Gedanken über das Leben, die Suche nach Identität und die Einsamkeit des Menschen. Hesse beschreibt eine sehr schwierige Zeit in seinem Leben, in der er selbst auch litt. Viele Menschen lesen das Buch heute noch, weil seine Themen aktuell bleiben. Es regt zum Nachdenken an und ist sehr interessant für Leser, die sich mit tiefen Fragen beschäftigen. „Steppenwolf“ ist also nicht nur eine Geschichte, sondern auch eine Reflexion von Hesses eigenen Erfahrungen und Gefühlen.",
+        "vocabulary": [
+          {
+            "word": "Verwirrung",
+            "definition": "der Zustand, dass man nicht weiß, was man tun soll"
+          },
+          {
+            "word": "Identität",
+            "definition": "das, was einen Menschen ausmacht"
+          },
+          {
+            "word": "Einsamkeit",
+            "definition": "das Gefühl, allein zu sein"
+          },
+          {
+            "word": "Reflexion",
+            "definition": "das Nachdenken über etwas"
+          },
+          {
+            "word": "Aktuell",
+            "definition": "jetzt und heute wichtig"
+          },
+          {
+            "word": "Erfahrungen",
+            "definition": "das, was man im Leben erlebt"
+          },
+          {
+            "word": "Freundschaft",
+            "definition": "eine enge Beziehung zwischen Menschen"
+          },
+          {
+            "word": "Angst",
+            "definition": "ein starkes Gefühl von Sorge oder Furcht"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde „Steppenwolf“ veröffentlicht?",
+            "options": [
+              "1927",
+              "1937",
+              "1957"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist der Hauptcharakter des Buches?",
+            "options": [
+              "Harry Haller",
+              "Hermann Hesse",
+              "Der Steppenwolf"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum hat Harry Angst vor Freundschaft?",
+            "options": [
+              "Weil er gerne allein ist.",
+              "Weil er sich nicht sicher ist.",
+              "Weil er viele Freunde hat."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Steppenwolf",
+        "text": "„Steppenwolf“ ist ein bedeutender Roman von Hermann Hesse, der 1927 veröffentlicht wurde. In diesem Jahr war Deutschland von sozialen und politischen Veränderungen geprägt. Viele Menschen suchten nach ihrer Identität und waren mit inneren Konflikten beschäftigt. Der Roman folgt Harry Haller, einem Mann, der in einem tiefen inneren Konflikt steckt. Harry fühlt sich oft allein in einer Welt, die ihm fremd erscheint. Er hat Schwierigkeiten, sein Leben zu akzeptieren, weil er zwischen verschiedenen Welten hin und her gerissen ist. \nIn dem Buch entdeckt er unterschiedliche Aspekte seiner Persönlichkeit. Manchmal ist er der Wolf, der wild und unabhängig ist, und manchmal der Mensch, der Freude und Liebe sucht. Hesse reflektiert über die Herausforderungen des Lebens und die Suche nach Identität, die besonders in der Zeit nach dem Ersten Weltkrieg relevant war, als viele Menschen sich verloren fühlten. Viele Leser finden sich in Harrys Gefühlen wieder und erkennen, dass sie nicht allein sind mit ihren inneren Kämpfen. Hesse nutzt eine poetische Sprache, die den Leser fesselt und zum Nachdenken anregt. Die Themen des Romans sind zeitlos und eignen sich hervorragend für Diskussionen über persönliche Krisen und Selbstfindung. Bis heute bleibt „Steppenwolf“ relevant und hilft uns, über unsere eigenen inneren Konflikte und die menschliche Natur nachzudenken.",
+        "vocabulary": [
+          {
+            "word": "Identität",
+            "definition": "Die Identität ist das, was eine Person einzigartig macht, ihre Persönlichkeit oder ihr Selbstverständnis."
+          },
+          {
+            "word": "Krise",
+            "definition": "Eine Krise ist eine schwierige oder entscheidende Situation, in der wichtige Entscheidungen getroffen werden müssen."
+          },
+          {
+            "word": "Veränderung",
+            "definition": "Veränderung bedeutet, dass etwas anders oder neu wird."
+          },
+          {
+            "word": "reflektieren",
+            "definition": "Reflektieren bedeutet, über etwas nachzudenken oder es zu betrachten."
+          },
+          {
+            "word": "poetisch",
+            "definition": "Poetisch beschreibt eine schöne und bildhafte Sprache, die oft Gefühle ausdrückt."
+          }
+        ],
+        "questions": [
+          {
+            "question": "In welchem Jahr wurde der Roman veröffentlicht?",
+            "options": [
+              "1925",
+              "1927",
+              "1929"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist ein zentrales Thema im Roman?",
+            "options": [
+              "Die Suche nach Liebe",
+              "Die Suche nach Identität",
+              "Die Suche nach Geld"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie fühlen sich viele Menschen laut dem Text in Bezug auf ihre inneren Konflikte?",
+            "options": [
+              "Äußerst allein",
+              "Ganz zufrieden",
+              "Immer glücklich"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Steppenwolf von Hermann Hesse",
+        "text": "In \"Steppenwolf\" beschreibt Hermann Hesse den inneren Kampf eines Mannes, der zwischen den Anforderungen der Gesellschaft und seinen eigenen Wünschen hin- und hergerissen ist. Der Protagonist, Harry Haller, ist ein einsamer Intellektueller, der seine Identität hinterfragt. Seit der Veröffentlichung im Jahr 1927 hat der Roman viele Leser durch seine tiefgründigen Themen angezogen. Haller befindet sich in einer existenziellen Krise, die durch die turbulente Zeit der 1920er Jahre verstärkt wird, als viele Menschen nach einem Sinn und einer Bestimmung in einer sich rapide verändernden Welt suchten. Hesse greift in seiner Erzählung philosophische Reflexionen über das Wesen des Menschen, die Dualität des Lebens und die Suche nach Sinn und Verständnis auf. Darüber hinaus spielt die Kunst eine zentrale Rolle, weil sie Haller sowohl Trost als auch Schmerz bringt. Hesse verwendet einen poetischen, aber klaren Stil, der den Leser in die komplexe Gefühlswelt des Steppenwolfs zieht. Das Buch lädt dazu ein, über die eigene Existenz und innere Konflikte nachzudenken. Hesse erkannte später, dass \"Steppenwolf\" von vielen Lesern missverstanden wurde, was oft zu einer oberflächlichen Interpretation ihrer tiefen Botschaft führte. Die Themen Identität, Einsamkeit und die Suche nach Selbsterkenntnis sprechen universelle Fragen an, die immer wieder neu interpretiert werden können. Die bleibende Relevanz des Romans zeigt, dass Hesses Einsichten auch heute noch von Bedeutung sind und Leser immer wieder dazu anregen, über sich selbst und ihre Werte nachzudenken.",
+        "vocabulary": [
+          {
+            "word": "existenzielle Krise",
+            "definition": "ein tiefgreifender innerer Konflikt oder Zweifel bezüglich der eigenen Identität"
+          },
+          {
+            "word": "Dualität",
+            "definition": "das Vorhandensein von zwei gegensätzlichen Aspekten oder Seiten der Realität"
+          },
+          {
+            "word": "spirituell",
+            "definition": "die geistige oder seelische Dimension des Menschseins"
+          },
+          {
+            "word": "Missverständnis",
+            "definition": "ein falsches Verständnis oder eine falsche Interpretation von etwas"
+          },
+          {
+            "word": "bleibend",
+            "definition": "eternal oder beständig, nicht vergänglich"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde \"Steppenwolf\" veröffentlicht?",
+            "options": [
+              "1920",
+              "1927",
+              "1930"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Rolle spielt die Kunst im Leben von Harry Haller?",
+            "options": [
+              "Sie bringt ihm nur Freude.",
+              "Sie bringt ihm sowohl Trost als auch Schmerz.",
+              "Sie hat keinerlei Einfluss auf ihn."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was erkennt Hermann Hesse über die Leser von \"Steppenwolf\"?",
+            "options": [
+              "Viele missverstehen den Roman.",
+              "Die Leser schätzen das Buch immer gleich.",
+              "Es wird nur von Intellektuellen gelesen."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Steppenwolf von Hermann Hesse",
+        "text": "Hermann Hesses \"Steppenwolf\" bietet eine tiefgehende Auseinandersetzung mit der Zerrissenheit des Menschen in der modernen Gesellschaft, indem er eine komplexe, psychologisch ausgefeilte Charakterstudie entwirft. Der Protagonist, Harry Haller, ist ein Intellektueller, dessen innere Konflikte ihn in eine existentielle Krise stürzen. In einer Welt, die ihn nicht akzeptiert und die ihm fremd erscheint, sehen wir die Entfremdung des Einzelnen, die zum Teil von Hesses eigenen Existenzkrisen in den turbulenten 1920er Jahren beeinflusst ist. In der Bloßstellung seiner inneren Widersprüche entblößt Hesse hypersensible Fragen über Identität und die Suche nach dem Sinn des Lebens. Die Darstellung von Haller als zerrissenem Individuum regt den Leser an, über seine eigene Identität und das Gefühl der Zugehörigkeit in einer zunehmend fragmentierten Gesellschaft zu reflektieren. Der Roman, 1927 veröffentlicht, spiegelt somit nicht nur die Krisen und Unsicherheiten der Zwischenkriegszeit wider, sondern bleibt auch heute von hoher Relevanz, da die fundamentalen menschlichen Erfahrungen von Einsamkeit und Selbstfindung zeitlos sind. Kafka-artige Elemente und ein gehobener, metaphorischer Stil machen die Lektüre sowohl herausfordernd als auch befriedigend. So wird der Leser angeregt, über die Dualität des menschlichen Daseins nachzudenken und dieses Werk nicht lediglich als literarisches Relikt der Vergangenheit zu betrachten, sondern als zeitgenössisches Plädoyer für das Verständnis der menschlichen Psyche.",
+        "vocabulary": [
+          {
+            "word": "Entfremdung",
+            "definition": "Das Gefühl der Distanz oder Trennung von seiner Umgebung oder von anderen Menschen."
+          },
+          {
+            "word": "Identität",
+            "definition": "Das Wesen oder die Eigenschaften, die eine Person oder Gruppe von anderen unterscheiden."
+          },
+          {
+            "word": "existentiell",
+            "definition": "In Beziehung zu den fundamentalen Fragen des Lebens, insbesondere dem Dasein und den menschlichen Lebensbedingungen."
+          },
+          {
+            "word": "metaphorisch",
+            "definition": "In Bezug auf eine bildliche Sprache, die über die wörtliche Bedeutung hinausgeht."
+          },
+          {
+            "word": "psychologisch",
+            "definition": "In Beziehung zur Wissenschaft des Verhaltens und der mentalen Prozesse."
+          },
+          {
+            "word": "komplex",
+            "definition": "Schwierig zu analysieren oder zu verstehen; vielschichtig."
+          },
+          {
+            "word": "fragmentiert",
+            "definition": "In Teile zerlegt oder nicht zusammenhängend; nicht vollständig."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches zentrale Thema behandelt der Roman \"Steppenwolf\"?",
+            "options": [
+              "Die Zerrissenheit des Menschen",
+              "Die Industrie der 1920er Jahre",
+              "Die Liebe zwischen Harry und einer Frau"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches literarische Element wird im Roman hervorgehoben?",
+            "options": [
+              "Separable Verbs",
+              "Kafka-artige Elemente",
+              "Dialektische Sprache"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum bleibt das Thema von \"Steppenwolf\" auch heute relevant?",
+            "options": [
+              "Es ist eine einfache Geschichte.",
+              "Es behandelt zeitlose menschliche Erfahrungen.",
+              "Es ist nur für Historiker interessant."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Steppenwolf von Hermann Hesse",
+        "text": "Hermann Hesses \"Steppenwolf\" ist ein literarisches Meisterwerk, das die innere Zerrissenheit des Menschen in einer entfremdeten, modernen Welt thematisiert. Harry Haller, ein Protagonist, der zwischen bürgerlichen Erwartungen und seinen eigenen wildlichen Instinkten gefangen ist, verkörpert die schwelende Existenzkrise der 1920er Jahre. Diese Dekade war geprägt von a tiefgreifenden Umbruch, der durch die Weltwirtschaftskrise und die sozialen Spannungen der Nachkriegszeit verstärkt wurde. Hesse nutzt in seinem Werk nicht nur einen eindringlichen, metaphorischen Sprachstil, sondern entwickelt auch komplexe Gedanken zu Identität, Individualität und dem Streben nach Sinn. Der Steppenwolf wird zum Symbol für die innere Zerrissenheit des Individuums, das in eine dualistische Welt gespalten ist – die gesellschaftlichen Normen einerseits und die ungezähmten, tiefen Triebe andererseits. Zugleich reflektiert der Roman die gesellschaftlichen Umbrüche seiner Zeit und lädt zur Selbstreflexion ein. Durch die vielschichtige Erzählweise, die Elemente des Traums und der Philosophie miteinander verwebt, entführt der Leser in die vielschichtige Psyche des Steppenwolfs. Dieses Buch bleibt in seiner umfänglichen Betrachtung menschlicher Emotionen und Daseinsfragen zeitlos relevant. Nicht selten wird es auch als Kritik an der Entfremdung der modernen Menschen gedeutet, ein Thema, das auch heute von großer Aktualität ist. Als ein frühes Beispiel für moderne literarische Theorien erhebt es die Frage, inwiefern der individualistische Ansatz der Kunst sowohl als Befreiung als auch als einsame Erfahrung gelten kann, was den Leser dazu anregt, eigene Positionen in diesem Spannungsfeld des menschlichen Daseins zu hinterfragen.",
+        "vocabulary": [
+          {
+            "word": "Entfremdung",
+            "definition": "Das Gefühl der Trennung oder Isolation von der Umwelt oder sich selbst."
+          },
+          {
+            "word": "Existenzkrise",
+            "definition": "Eine Phase tiefgreifender Unsicherheit über die eigene Identität und den Sinn des Lebens."
+          },
+          {
+            "word": "dualistisch",
+            "definition": "Die Vorstellung, dass die Welt aus zwei gegensätzlichen Prinzipien besteht."
+          },
+          {
+            "word": "metaphorisch",
+            "definition": "Bildhaft; in übertragenem Sinn."
+          },
+          {
+            "word": "gesellschaftliche Normen",
+            "definition": "Allgemein akzeptierte Verhaltensregeln und Werte innerhalb einer Gesellschaft."
+          },
+          {
+            "word": "Selbstreflexion",
+            "definition": "Der Prozess, in dem man über die eigenen Gedanken und Emotionen nachdenkt."
+          },
+          {
+            "word": "Daseinsfragen",
+            "definition": "Grundlegende Fragen bezüglich des Lebens, seines Sinns und der menschlichen Existenz."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches zentrale Thema behandelt Hesses \"Steppenwolf\"?",
+            "options": [
+              "Die gesellschaftlichen Normen der 1920er Jahre",
+              "Die innere Zerrissenheit des Individuums",
+              "Das Leben in der Natur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was symbolisiert der Steppenwolf im Roman?",
+            "options": [
+              "Die Weisheit des Alters",
+              "Die Dualität menschlicher Triebe und Normen",
+              "Die Schönheit der Natur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie beschreibt Hesse die gesellschaftlichen Umbrüche seiner Zeit?",
+            "options": [
+              "Als bedeutungslos",
+              "Als eine Zeit des Stillstands",
+              "Als prägend für die menschliche Identität"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf est un livre de Hermann Hesse. Il sort en 1927. L'histoire parle d'un homme triste et seul. Cet homme aime beaucoup la musique et les livres. Il a deux côtés différents. Une partie est humaine et l'autre est un loup. Il cherche sa place dans le monde. Ce livre montre les pensées profondes de l'homme. Hesse écrit aussi sur la solitude et les émotions. Les thèmes de la vie et de la mort sont importants. Les lecteurs découvrent une grande lutte intérieure. Steppenwolf est populaire, mais beaucoup de gens ne comprennent pas bien ce livre. C'est une œuvre touchante et intense.",
+        "vocabulary": [
+          {
+            "word": "solitude",
+            "definition": "l'état d'être seul."
+          },
+          {
+            "word": "émotions",
+            "definition": "ce que l'on ressent."
+          },
+          {
+            "word": "popularité",
+            "definition": "la qualité d'être aimé par beaucoup."
+          },
+          {
+            "word": "lutte",
+            "definition": "l'action de se battre."
+          },
+          {
+            "word": "livre",
+            "definition": "un objet avec des pages."
+          },
+          {
+            "word": "musique",
+            "definition": "des sons agréables."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est l'auteur de Steppenwolf ?",
+            "options": [
+              "Hermann Hesse",
+              "Albert Camus",
+              "Marcel Proust"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand le livre Steppenwolf sort-il ?",
+            "options": [
+              "1927",
+              "1919",
+              "1930"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qu'est-ce que l'homme cherche dans le livre ?",
+            "options": [
+              "La richesse",
+              "Sa place dans le monde",
+              "Un animal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf est un roman de Hermann Hesse, publié en 1927. Ce livre parle d'un homme qui s'appelle Harry Haller. Harry vit une crise intérieure très profonde. Il est dans une grande solitude et il se sent incompris par les autres. Harry aime la musique, la littérature et la philosophie, mais il se sent souvent triste. Il a une personnalité complexe, avec un côté humain et un côté sauvage, ce qui le rend spécial. Il se sent comme un loup des steppes. Les thèmes de la solitude, de la recherche de soi et de la dualité de l'homme sont très présents dans ce livre. On peut lire Steppenwolf pour découvrir la lutte de Harry avec lui-même. C'est un roman qui invite à réfléchir sur nos sentiments et nos émotions. Hesse a écrit ce livre à un moment où il vivait aussi une crise spirituelle, et cela a beaucoup influencé son écriture. Le roman a été très populaire et a touché de nombreux lecteurs au fil des années.",
+        "vocabulary": [
+          {
+            "word": "solitude",
+            "definition": "État d'être seul."
+          },
+          {
+            "word": "littérature",
+            "definition": "L'ensemble des œuvres écrites."
+          },
+          {
+            "word": "philosophie",
+            "definition": "Étude des questions fondamentales."
+          },
+          {
+            "word": "émotion",
+            "definition": "Sentiment qui provoque une réponse."
+          },
+          {
+            "word": "complexe",
+            "definition": "Difficulté ou intricate dans sa nature."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le nom du personnage principal ?",
+            "options": [
+              "Harry Haller",
+              "Hermann Hesse",
+              "Steppenwolf"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "En quelle année le livre a-t-il été publié ?",
+            "options": [
+              "1920",
+              "1927",
+              "1930"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel sujet important est discuté dans le livre ?",
+            "options": [
+              "La musique",
+              "La solitude",
+              "Les animaux"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf, écrit par Hermann Hesse en 1927, explore des thèmes profonds comme la dualité de l'être humain. Le personnage principal, Harry Haller, ressent une profonde crise existentielle. Il vit dans un conflit entre sa nature sauvage, représentée par le loup, et son côté plus sensible et intellectuel. Hesse utilise un style poétique et introspectif, qui plonge le lecteur dans les pensées intimes de Harry. Ce roman pose des questions sur la solitude, l'identité et la recherche de sens dans la vie moderne.\n\nDans les années 1920, période de bouleversements sociaux et politiques, Hesse a écrit ce livre en réponse à ses propres luttes internes. De nombreux lecteurs, qui ont vécu des crises similaires, ont trouvé un écho dans les mots de Hesse. Il a dit que son roman a été mal compris par beaucoup, mais ceux qui ont essayé de le comprendre ont découvert une richesse de réflexions sur la complexité humaine.\n\nBien que le livre ait connu un grand succès, il continue de poser des questions pertinentes aujourd'hui, surtout dans un monde où l'individu cherche sa place. Si les lecteurs prennent le temps de réfléchir aux thèmes de Steppenwolf, ils peuvent trouver des réponses à leurs propres questionnements. C'est ce qui rend ce roman si significatif et intemporel, redéfinissant notre compréhension de nous-mêmes et des autres.",
+        "vocabulary": [
+          {
+            "word": "dualité",
+            "definition": "la coexistence de deux aspects opposés dans une réalité."
+          },
+          {
+            "word": "sensible",
+            "definition": "capable de ressentir des émotions, d'être touché."
+          },
+          {
+            "word": "introspectif",
+            "definition": "qui se concentre sur ses propres pensées et sentiments."
+          },
+          {
+            "word": "bouleversements",
+            "definition": "changement soudain et violent dans une situation."
+          },
+          {
+            "word": "réflexions",
+            "definition": "pensées profondes sur un sujet."
+          },
+          {
+            "word": "écho",
+            "definition": "résonance d'une idée qui rappelle quelque chose d'autre."
+          },
+          {
+            "word": "significatif",
+            "definition": "qui a une grande importance ou valeur symbolique."
+          },
+          {
+            "word": "intemporel",
+            "definition": "qui ne dépend pas du temps; toujours pertinent."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal de Steppenwolf ?",
+            "options": [
+              "La dualité de l'être humain",
+              "La guerre et la paix",
+              "L'amour et la perte"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi Hesse a-t-il écrit ce livre selon le texte ?",
+            "options": [
+              "Pour s'amuser",
+              "En réponse à ses luttes intérieures",
+              "Pour enseigner des leçons"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que ressent Harry Haller à propos de sa vie ?",
+            "options": [
+              "Il est toujours heureux",
+              "Il vit une crise existentielle",
+              "Il est très satisfait de lui-même"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Steppenwolf par Hermann Hesse",
+        "text": "Dans 'Steppenwolf', publié en 1927, Hermann Hesse explore les profondeurs de la psyché humaine à travers le personnage complexe de Harry Haller. Ce roman, qui tire son titre du terme allemand désignant un loup des steppes, reflète une crise spirituelle profonde qui touche Hesse lui-même durant les années 1920. Haller se retrouve déchiré entre sa nature sauvage et ses aspirations intellectuelles, ce qui l'amène à traverser un voyage intérieur tumultueux. D'une part, il désire la paix et l'harmonie, tandis que, d'autre part, les forces de sa passion et de son instinct le tirent vers l'auto-destruction. Hesse aborde des thèmes majeurs tels que la dualité de l'âme, la solitude, et la quête de soi. Son écriture est à la fois poétique et philosophique, créant une atmosphère qui enchante et interpelle les lecteurs. Ce livre invite à une réflexion sur la condition humaine, questionnant nos désirs et notre existence dans un monde en conflit. Son succès durable témoigne de la profondeur de ses thèmes et de leur pertinence aujourd'hui.",
+        "vocabulary": [
+          {
+            "word": "psyché",
+            "definition": "L'esprit et les émotions d'une personne."
+          },
+          {
+            "word": "nature",
+            "definition": "L'ensemble des caractéristiques et des instincts d'un être."
+          },
+          {
+            "word": "crise",
+            "definition": "Un moment difficile ou une période de trouble."
+          },
+          {
+            "word": "solitude",
+            "definition": "État d'être seul, souvent ressenti comme triste."
+          },
+          {
+            "word": "quêtes",
+            "definition": "Des recherches pour trouver quelque chose d'important."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le titre du livre ?",
+            "options": [
+              "Der Steppenwolf",
+              "Steppenwolf",
+              "The Wolf of the Steppe"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quand le livre a-t-il été publié ?",
+            "options": [
+              "1929",
+              "1927",
+              "1930"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui est l'auteur de Steppenwolf ?",
+            "options": [
+              "Hermann Melville",
+              "Hermann Hesse",
+              "Herman Hesse"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Steppenwolf : une exploration existentielle",
+        "text": "À travers 'Steppenwolf', Hermann Hesse cherche à articuler les tensions inhérentes à l'identité humaine. Publié en 1927 dans un contexte de bouleversements culturels, ce roman se présente comme une réflexion sur la dualité de l'âme, juxtaposition d'un loup sauvage et d'un intellectuel tourmenté. Harry Haller, le protagoniste, incarne cette lutte entre l'appétit de la vie et la quête de sérénité. Hesse, avec son style méticuleux, utilise des éléments symboliques pour représenter les conflits internes de son personnage, nous immergeant ainsi dans une économie narrative riche en significations. D'ailleurs, certains critiques ont constaté que cette œuvre ne se limite pas uniquement à une introspection personnelle, mais soulève également des questions universelles sur la condition humaine et les luttes entre les aspirations individuelles et les attentes sociétales. Le roman interroge donc les aspirations individuelles face aux pressions sociétales, tout en naviguant à travers des thèmes tels que la solitude et l'aliénation. Hesse nous invite, au fond, à nous interroger sur notre propre humanité et sur la place que nous occupons dans le monde. Malgré les malentendus qui ont longtemps entouré cette œuvre, 'Steppenwolf' demeure pertinente aujourd'hui, nous confrontant à notre quête de compréhension dans un monde en mutation et à la manière dont ces enjeux résonnent encore dans notre réalité contemporaine. Ainsi, à travers son récit puissant, Hesse propose une critique acerbe des conventions sociales tout en offrant une voie vers la réconciliation avec soi-même et les autres.",
+        "vocabulary": [
+          {
+            "word": "juxtaposition",
+            "definition": "Action de placer deux éléments côte à côte pour les comparer ou les contraster."
+          },
+          {
+            "word": "aliénation",
+            "definition": "État de quelqu'un qui se sent étranger dans sa propre société, souvent sujet à un sentiment de perte d'identité."
+          },
+          {
+            "word": "aspiration",
+            "definition": "Désir intense de réaliser quelque chose de grand ou de noble."
+          },
+          {
+            "word": "pertinence",
+            "definition": "Qualité d'être adapté ou approprié à une situation donnée."
+          },
+          {
+            "word": "inversion",
+            "definition": "Changement d'ordre dans la construction d'une phrase, souvent pour souligner un point."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème central de 'Steppenwolf' ?",
+            "options": [
+              "La quête de sérénité",
+              "La dualité de l'âme",
+              "Les pressions sociétales"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "En quelle année 'Steppenwolf' a-t-il été publié ?",
+            "options": [
+              "1920",
+              "1927",
+              "1930"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Hesse décrit-il le personnage principal, Harry Haller ?",
+            "options": [
+              "Comme un intellectuel en paix",
+              "Comme un loup sauvage tourné vers la société",
+              "Comme une représentation de la lutte interne"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Steppenwolf : Un voyage introspectif",
+        "text": "L'œuvre de Hermann Hesse, 'Steppenwolf', publiée en 1927, s'impose comme une exploration introspective de la psyche humaine face aux tumultes de l'existence moderne. Ce roman, ancré dans un cadre socio-historique particulier, concentre ses réflexions sur Harry Haller, figure emblématique oscillant entre le désir primal et la quête d'élévation spirituelle. Haller représente la dichotomie entre l'individu et l'existence sociale, une lutte exacerbée par l'aliénation ressentie au sein d'une société en pleine transformation. Hesse, avec une plume raffinée, nous immerge dans un univers où se mêlent rêverie et dure réalité, mais où le lecteur est néanmoins invité à une réflexion personnelle sur sa propre nature, son identité. En évoquant des thèmes profonds comme l'absurdité et la solitude, Hesse interroge les fondements de notre humanité, la recherche touristique de sens et le ressentiment face aux normes sociétales. 'Steppenwolf' reste une œuvre phare, singulièrement actuelle, compte tenu des questionnements existentiels qui continuent de hanter l'esprit humain, faisant de ce roman un indispensable pour quiconque s'investit dans les réflexions sur sa propre essence.",
+        "vocabulary": [
+          {
+            "word": "introspective",
+            "definition": "Relatif à l'examen approfondi de ses propres pensées et émotions."
+          },
+          {
+            "word": "tumultes",
+            "definition": "Des troubles ou des perturbations chaotiques."
+          },
+          {
+            "word": "dichotomie",
+            "definition": "Une division en deux parties opposées."
+          },
+          {
+            "word": "aliénation",
+            "definition": "Un sentiment de distance ou d'isolement dans une société."
+          },
+          {
+            "word": "indispensable",
+            "definition": "Essentiel ; quelque chose de nécessaire."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal de Steppenwolf ?",
+            "options": [
+              "La quête d'indépendance",
+              "L'exploration de la psyche humaine",
+              "Le voyage dans le temps"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Harry Haller est-il décrit ?",
+            "options": [
+              "Comme un héros de guerre",
+              "Comme une figure emblématique",
+              "Comme un enfant"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel sentiment Hesse évoque-t-il dans son livre ?",
+            "options": [
+              "L'amour",
+              "L'absurdité",
+              "La joie"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf es un libro de Hermann Hesse. El autor es alemán y suizo. La historia empieza con un hombre que se llama Harry Haller. Él tiene un problema con su vida. Harry se siente triste y solo. Vive en una ciudad grande. El libro habla de dos partes. Una parte es el hombre. La otra parte es el lobo. Estas partes son muy diferentes. Harry quiere entender su vida. Él busca respuestas. El libro es famoso y tiene muchas ideas sobre la vida.",
+        "vocabulary": [
+          {
+            "word": "libro",
+            "definition": "una historia o texto escrito"
+          },
+          {
+            "word": "uno",
+            "definition": "el número después de cero"
+          },
+          {
+            "word": "vida",
+            "definition": "la existencia de una persona"
+          },
+          {
+            "word": "triste",
+            "definition": "no feliz"
+          },
+          {
+            "word": "ciudad",
+            "definition": "un lugar donde vive mucha gente"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el autor del libro?",
+            "options": [
+              "Harry Haller",
+              "Hermann Hesse",
+              "El lobo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se siente Harry Haller?",
+            "options": [
+              "Feliz",
+              "Triste",
+              "Contento"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde vive Harry Haller?",
+            "options": [
+              "En el campo",
+              "En una ciudad grande",
+              "En una montaña"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf es una novela de Hermann Hesse que se publicó en 1927. La historia empieza con Harry Haller, un hombre que se siente triste y confuso. Él vive solo en una ciudad grande. A lo largo del libro, Harry tiene luchas internas. Él no entiende su lugar en el mundo. Hay dos partes en su personalidad: una parte es humana y otra parte es como un lobo. Harry busca respuestas sobre su vida y su felicidad. Esta novela es conocida por sus ideas profundas. Muchos lectores la han disfrutado mucho. Sin embargo, Hesse pensaba que la gente no siempre entendió su mensaje. Steppenwolf sigue siendo popular hoy en día.",
+        "vocabulary": [
+          {
+            "word": "novela",
+            "definition": "una historia larga escrita"
+          },
+          {
+            "word": "hombre",
+            "definition": "persona masculina"
+          },
+          {
+            "word": "triste",
+            "definition": "no contento"
+          },
+          {
+            "word": "personaje",
+            "definition": "una persona en un cuento"
+          },
+          {
+            "word": "luchar",
+            "definition": "pelear o tener problemas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo se publicó Steppenwolf?",
+            "options": [
+              "1927",
+              "1900",
+              "1980"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se siente Harry Haller?",
+            "options": [
+              "Triste y confundido",
+              "Feliz y contento",
+              "Enojado y cansado"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántas partes tiene la personalidad de Harry?",
+            "options": [
+              "Una",
+              "Dos",
+              "Tres"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Steppenwolf",
+        "text": "Steppenwolf, escrito por Hermann Hesse, es una novela publicada en 1927. Esta obra literaria se considera una de las más importantes del siglo XX. A través de la historia, el protagonista, Harry Haller, enfrenta una crisis existencial que refleja su conflicto interno. Harry se siente dividido entre dos partes de su personalidad: una parte que es humana y otra que es animal, representada por un lobo. Hesse explora temas como la soledad, el sentido de la vida y la búsqueda de la identidad, temas que han resonado profundamente con los lectores a lo largo del tiempo. En el relato, Harry se siente perdido en su relación con la sociedad y su propia naturaleza. Muchos lectores pueden identificarse con su lucha, que es especialmente relevante en un mundo moderno lleno de incertidumbres. A medida que avanza la narrativa, él busca respuestas a sus interrogantes existenciales. Aunque la novela fue un éxito en su tiempo, Hesse creía que muchos lectores no comprendieron su mensaje profundo sobre la dualidad del ser humano. Steppenwolf invita a reflexionar sobre este conflicto interno que todos enfrentamos. Su mensaje es relevante incluso hoy, ya que muchos continúan buscando su lugar en el mundo. Esta obra revela la necesidad de aceptar tanto nuestras partes humanas como las más instintivas, lo que puede llevar a una vida más equilibrada.",
+        "vocabulary": [
+          {
+            "word": "dualidad",
+            "definition": "la coexistencia de dos aspectos diferentes en una persona o cosa."
+          },
+          {
+            "word": "conflicto",
+            "definition": "una lucha o enfrentamiento entre dos o más fuerzas, ideas o personas."
+          },
+          {
+            "word": "existencial",
+            "definition": "relativo a la existencia o a la búsqueda de significado en la vida."
+          },
+          {
+            "word": "identidad",
+            "definition": "el sentido de ser uno mismo, lo que nos define como personas."
+          },
+          {
+            "word": "reflejar",
+            "definition": "mostrar o representar algo, como un espejo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el protagonista de Steppenwolf?",
+            "options": [
+              "Harry Haller",
+              "Hermann Hesse",
+              "Un lobo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál es un tema importante en la novela?",
+            "options": [
+              "La política",
+              "El conflicto interno",
+              "La tecnología"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué parte de la personalidad de Harry está representada por el lobo?",
+            "options": [
+              "Su parte humana",
+              "Su parte instintiva",
+              "Su parte racional"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Steppenwolf",
+        "text": "La novela \"Steppenwolf\" de Hermann Hesse, publicada en 1927, explora la complejidad de la identidad y la lucha interna del ser humano. El protagonista, un hombre dividido entre su naturaleza salvaje y su deseo de pertenencia, representa la crisis espiritual que Hesse experimentaba en la década de 1920. En este contexto, el autor se sumerge en la dualidad del alma humana, donde coexisten lo instintivo y lo racional. A través de un estilo evocador y poético, Hesse invita al lector a reflexionar sobre temas universales como la soledad, la búsqueda de significado y el anhelo de conexión. Aunque ha sido ampliamente aclamada, Hesse afirmaba que su obra había sido malinterpretada, lo que añade otra capa de profundidad a su lectura. Al final, \"Steppenwolf\" no solo es una representación del individuo en conflicto, sino que también es un comentario sobre la sociedad y su incapacidad para entender la verdadera esencia del ser humano. Esta obra sigue siendo significativa hoy en día, ya que anima a los lectores a cuestionar su propio lugar en el mundo y la complejidad de su propia existencia.",
+        "vocabulary": [
+          {
+            "word": "complejidad",
+            "definition": "cantidad de partes y elementos juntos."
+          },
+          {
+            "word": "identidad",
+            "definition": "quién es una persona o cosa."
+          },
+          {
+            "word": "naturaleza",
+            "definition": "cualidades de alguien o algo."
+          },
+          {
+            "word": "soledad",
+            "definition": "estar solo."
+          },
+          {
+            "word": "significado",
+            "definition": "lo que algo representa o quiere decir."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿En qué año fue publicada la novela?",
+            "options": [
+              "1927",
+              "1929",
+              "1930"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué representa el protagonista de la novela?",
+            "options": [
+              "La felicidad",
+              "La lucha interna",
+              "La amistad"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se describe el estilo de Hesse en esta obra?",
+            "options": [
+              "Sencillo",
+              "Evocador y poético",
+              "Seco y aburrido"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Steppenwolf",
+        "text": "Publicada en 1927, \"Steppenwolf\" de Hermann Hesse se erige como una profunda reflexión sobre la dualidad del ser humano en un contexto de crisis espiritual, propio de los años 20. El protagonista, atrapado entre su instinto salvaje y su anhelo de conexión, encarna la lucha interna de aquellos que buscan su identidad en una sociedad que a menudo provoca alienación. Hesse utiliza un lenguaje rico y matizado, lo que invita a los lectores a sumergirse en las raíces existenciales de sus personajes. Paralelamente, el autor presenta a la figura del \"lobo estepario\" como una metáfora compleja del individuo contemporáneo, simbolizando las tensiones entre lo primitivo y lo civilizado. Este balance entre introspección y crítica social resuena aun en la actualidad, desafiando a los lectores a confrontar sus propias crisis existenciales. A pesar de su popularidad, Hesse advierte que su obra ha sido malentendida en muchas ocasiones, lo que abre el debate sobre su verdadero significado y relevancia. Lejos de ser un simple relato, \"Steppenwolf\" se convierte en una invitación a explorar la esencia de la naturaleza humana.",
+        "vocabulary": [
+          {
+            "word": "dualidad",
+            "definition": "la existencia de dos partes diferentes."
+          },
+          {
+            "word": "metáfora",
+            "definition": "expresión que implica comparación."
+          },
+          {
+            "word": "introspección",
+            "definition": "mirar hacia dentro de uno mismo."
+          },
+          {
+            "word": "alienación",
+            "definition": "desconexión con la realidad o los demás."
+          },
+          {
+            "word": "relevancia",
+            "definition": "importancia o significado en un contexto."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué simboliza el \"lobo estepario\" en la novela?",
+            "options": [
+              "El bienestar",
+              "La dualidad del ser humano",
+              "La amistad"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de crisis refleja Hesse en este libro?",
+            "options": [
+              "Crisis financiera",
+              "Crisis espiritual",
+              "Crisis política"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se describe el lenguaje de Hesse en la obra?",
+            "options": [
+              "Simpático",
+              "Rico y matizado",
+              "Confuso"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Steppenwolf",
+        "text": "La obra \"Steppenwolf\", publicada por Hermann Hesse en 1927, se presenta como un intrincado estudio de las facetas contradictorias de la psique humana en medio de una crisis de espiritualidad aguda. El protagonista, atrapado entre el lobo estepario —símbolo de una naturaleza indómita— y el anhelo de pertenecer a un mundo que rechaza su esencia, contrasta visceralmente con el ideal de la vida burguesa. Hesse, a través de una prosa evocadora, desafía las convenciones sociales y propone una exploración de la existencia que invita a la desalienación del individuo. Esta novela, aunque popular en su tiempo, ha sido objeto de malentendidos, lo que ha contribuido a su estatus enigmático dentro del canon literario. Su relevancia persiste en la actualidad, ya que confronta cuestiones existenciales sobre la autenticidad, el deseo y la fragmentación del yo. No se limita a ser un simple relato; se convierte en un espejo que refleja las luchas internas de la humanidad, poniendo en tela de juicio las normas sociales y sugiriendo que el camino hacia la autenticidad puede estar plagado de dolor y sacrificio. Esta obra continúa resonando, invitando al lector a confrontar sus propias divisiones internas, lo que a su vez fomenta un diálogo profundo con las realidades contemporáneas que aún enfrentamos.",
+        "vocabulary": [
+          {
+            "word": "intrincado",
+            "definition": "muy complicado o complejo."
+          },
+          {
+            "word": "psique",
+            "definition": "la mente o el alma de una persona."
+          },
+          {
+            "word": "indómita",
+            "definition": "incontrolable, salvaje."
+          },
+          {
+            "word": "conveniones",
+            "definition": "normas o reglas sociales establecidas."
+          },
+          {
+            "word": "desalienación",
+            "definition": "el proceso de recuperar conexión con uno mismo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué simboliza el lobo estepario en la obra?",
+            "options": [
+              "La naturaleza indómita",
+              "La paz",
+              "La civilización"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo describe Hesse la vida burguesa?",
+            "options": [
+              "Ideal",
+              "Rechazante hacia el protagonista",
+              "Sencilla"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de diálogo invita Hesse a través de su obra?",
+            "options": [
+              "Un diálogo superficial",
+              "Un diálogo profundo con la realidad",
+              "Un diálogo humorístico"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

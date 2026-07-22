@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-22-steppenwolf-hermann-hesse",
+    "date": "2026-07-22",
+    "author": "Hermann Hesse",
+    "image": "https://covers.openlibrary.org/b/id/3221083-L.jpg",
+    "titles": {
+      "en": "Steppenwolf",
+      "de": "Steppenwolf",
+      "fr": "Steppenwolf",
+      "es": "Steppenwolf"
+    }
+  },
+  {
     "id": "2026-07-21-the-trial-franz-kafka",
     "date": "2026-07-21",
     "author": "Franz Kafka",
