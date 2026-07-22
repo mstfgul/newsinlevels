@@ -1,0 +1,1393 @@
+{
+  "id": "2026-07-22-more-warehouses-of-russian-online-retailer-wildberries-hit-b",
+  "date": "2026-07-22",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c7e/live/17a04300-859b-11f1-a6e0-e3aa80f742c2.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Drones Hit Russian Store",
+        "text": "Ukrainian drones hit a big online store. The store is Wildberries. Fifteen people are hurt. This happens again. The attacks are in Krasnodar and Stavropol. The workers leave the place quickly. This is the second time in four days. Last time, eight people died and sixty-two are hurt. Ukraine says the store helps make drones and equipment. The founder says they have many feelings because of the attacks. Five people are hurt in Nevinnomyssk. Ten are hurt in Krasnodar. Three are very hurt. An oil place catches fire. Some drone parts hit buildings. There are no hurt people in those buildings.",
+        "vocabulary": [
+          {
+            "word": "drones",
+            "definition": "Flying robots or planes."
+          },
+          {
+            "word": "store",
+            "definition": "A place to buy things."
+          },
+          {
+            "word": "hurt",
+            "definition": "Injured or in pain."
+          },
+          {
+            "word": "attack",
+            "definition": "A surprise act of violence."
+          },
+          {
+            "word": "people",
+            "definition": "Human beings, individuals."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who hit the online store?",
+            "options": [
+              "Ukrainian drones",
+              "Russian planes",
+              "American boats"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many people are hurt?",
+            "options": [
+              "Fifteen",
+              "Twenty",
+              "Ten"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the name of the online store?",
+            "options": [
+              "Wildberries",
+              "Krasnodar",
+              "Stavropol"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ukrainian Drones Hit Wildberries Again",
+        "text": "Ukrainian drones have hit the Wildberries warehouses again. The online store is in Russia. Fifteen people are injured during the attacks. This is the second time in four days. The first attack took place on Saturday and caused eight deaths and sixty-two injuries. The founder of Wildberries and regional leaders say the drones hit areas in Krasnodar and Stavropol. They report that some warehouses have helped supply parts for Russian drones. Five people were hurt in Nevinnomyssk, and ten were injured in Krasnodar. Three people are in serious condition. The governor reports a big attack happened last night. Some drone parts also hit buildings in the region but there were no injuries in those buildings.",
+        "vocabulary": [
+          {
+            "word": "warehouses",
+            "definition": "Large buildings to store goods."
+          },
+          {
+            "word": "injured",
+            "definition": "Hurt or harmed."
+          },
+          {
+            "word": "attack",
+            "definition": "A violent act against a target."
+          },
+          {
+            "word": "government",
+            "definition": "A group that leads a country or area."
+          },
+          {
+            "word": "report",
+            "definition": "To give information about something."
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many attacks have there been in four days?",
+            "options": [
+              "One",
+              "Two",
+              "Three"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Wildberries do?",
+            "options": [
+              "It is a warehouse",
+              "It is a store",
+              "It is a factory"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many people died in the first attack?",
+            "options": [
+              "Eight",
+              "Ten",
+              "Five"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ukraine Hits Wildberries Warehouses Again",
+        "text": "Ukrainian drones have attacked warehouses of the online retailer Wildberries again, injuring fifteen people. The attacks have shocked the region, and officials have reported several injuries. This is the second drone attack in just four days. The first attack occurred on Saturday, resulting in eight deaths and sixty-two injuries. The warehouses in the Krasnodar and Stavropol regions are crucial because they reportedly supply parts for Russian drones and navigation systems, which play significant roles in the ongoing conflict. In Nevinnomyssk, five workers have faced injuries, while in Krasnodar, ten people were hurt, with three suffering serious conditions that required immediate medical attention. The local governor described the recent attacks as significant events, emphasizing the danger to civilians. In addition to the warehouses, some drone parts struck nearby buildings; fortunately, there were no injuries reported there. Wildberries founder Tatyana Kim has expressed sadness about the situation, mentioning the emotional impact of these attacks on her employees and workers. She insists that they must continue their work, despite the risks. Ukraine has not provided detailed information about these attacks yet, but they indicate an escalation in the conflict. The majority of people want an end to this violence, while many fear for their safety and well-being in the region.",
+        "vocabulary": [
+          {
+            "word": "navigate",
+            "definition": "to find a way to go from one place to another; often used in the context of using maps or technology."
+          },
+          {
+            "word": "escalation",
+            "definition": "a situation that becomes more intense or serious."
+          },
+          {
+            "word": "impact",
+            "definition": "the strong effect or influence that something has on a situation."
+          },
+          {
+            "word": "significant",
+            "definition": "important or meaningful."
+          },
+          {
+            "word": "civilians",
+            "definition": "people who are not members of the military or police."
+          },
+          {
+            "word": "emotional",
+            "definition": "related to feelings, often causing happiness, sadness, or anxiety."
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many attacks have occurred in the past four days?",
+            "options": [
+              "One attack",
+              "Two attacks",
+              "Three attacks"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What role do the warehouses serve in the conflict?",
+            "options": [
+              "Housing for people",
+              "Supply parts for Russian drones",
+              "Places for shopping"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Tatyana Kim express about the attacks?",
+            "options": [
+              "She felt excitement",
+              "She expressed sadness",
+              "She ignored them"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ukrainian Drone Attacks Target Wildberries Warehouses",
+        "text": "Ukrainian drones have struck warehouses belonging to Wildberries, Russia's largest online retail company, causing injuries to 15 individuals, as reported by the company's founder and various regional officials. The attacks occurred overnight, impacting logistics hubs in the Krasnodar and Stavropol regions, leading to the evacuation of workers, the founder stated. This incident marks the second assault on the company's facilities within just four days, as earlier strikes on warehouses in Tambov and Elektrostal resulted in eight fatalities and 62 injuries. Kyiv officials have asserted that these warehouses were facilitating supplies required for Russian drones and navigation systems. Tatyana Kim, the founder of Wildberries, expressed her distress via Telegram, saying, \"It is difficult to convey the emotions we feel regarding the attacks on innocent people, including our employees.\" Kim emphasized the importance of continuing their work for societal benefit despite these challenges. According to Governor Vladimir Vladimirov, five people were injured in Nevinnomyssk. In Krasnodar, ten suffered injuries, with three reported in critical condition. Governor Veniamin Kondratyev mentioned that the region experienced a significant attack that also targeted a company in Armavir, resulting in the death of one worker. Additionally, an oil depot was hit, sparking a fire, while nearby buildings sustained damage but no injuries were reported.",
+        "vocabulary": [
+          {
+            "word": "strike",
+            "definition": "to hit something with force"
+          },
+          {
+            "word": "evacuate",
+            "definition": "to remove people from a place for safety"
+          },
+          {
+            "word": "facility",
+            "definition": "a building or location used for a specific purpose"
+          },
+          {
+            "word": "emphasize",
+            "definition": "to give special importance to something"
+          },
+          {
+            "word": "casualties",
+            "definition": "people harmed or injured in an event"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many people were injured in the attacks on Wildberries warehouses?",
+            "options": [
+              "15",
+              "62",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did the founder of Wildberries express about the attacks?",
+            "options": [
+              "They are happy about them.",
+              "They are sad about them.",
+              "They are proud of their employees."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where did the most recent drone attacks take place?",
+            "options": [
+              "Krasnodar and Stavropol",
+              "Maykop and Sochi",
+              "Armavir and Nevinnomyssk"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ukraine Launches Further Drone Strikes on Wildberries Logistics Hubs",
+        "text": "Once again, Ukrainian drones have targeted warehouses of Wildberries, the preeminent online retailer in Russia, resulting in injuries to 15 employees, as confirmed by the company’s founder and local authorities. The overnight strikes affected logistics centres in both Krasnodar and the Stavropol region, necessitating the evacuation of personnel, according to Kim. This episode represents the second instance of assault on their facilities within a mere four days, following earlier attacks that devastated warehouses in Tambov and Elektrostal, claiming eight lives and injuring 62 individuals. Citing security concerns, Kyiv has alleged that these logistics sites served as conduits for materials necessary for Russian militaristic functionalities, including drone and navigation technology. Tatyana Kim articulated her emotional turmoil on the messaging platform Telegram, stating, \"The senseless aggression toward innocent individuals, including our staff, is overwhelming,\" while underscoring that it is imperative they persist in their mission for the betterment of society. Notably, Governor Vladimir Vladimirov reported that five people sustained minor injuries in Nevinnomyssk, whereas in Krasnodar, ten were injured, three critically. Governor Veniamin Kondratyev detailed a significant strike that not only hit a local company in Armavir but also resulted in one fatality, while a nearby oil depot ignited a fire. Though drone fragments damaged adjacent apartment buildings and private homes in Dinskaya, there were no reported injuries.",
+        "vocabulary": [
+          {
+            "word": "premier",
+            "definition": "most important or leading"
+          },
+          {
+            "word": "necessitate",
+            "definition": "to make something necessary"
+          },
+          {
+            "word": "conduit",
+            "definition": "a means of transmitting something"
+          },
+          {
+            "word": "articulate",
+            "definition": "to express something clearly"
+          },
+          {
+            "word": "turmoil",
+            "definition": "a state of confusion or disorder"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What percentage of the injured were reported to have serious injuries?",
+            "options": [
+              "None",
+              "3 out of 10",
+              "3 out of 15"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What reason did Kyiv give for attacking the Wildberries warehouses?",
+            "options": [
+              "They were used for storage.",
+              "They caused emotional turmoil.",
+              "They supplied materials for drones."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What platform did Tatyana Kim use to express her feelings?",
+            "options": [
+              "Instagram",
+              "Telegram",
+              "Facebook"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Escalation of Conflict: Ukrainian Drones Target Russian Retailer’s Warehouses Yet Again",
+        "text": "In an alarming continuation of hostilities, Ukrainian drones have once more struck the warehouses of Wildberries, the largest online shopping platform in Russia, resulting in injuries sustained by 15 people, according to statements from both the company's founder and regional leaders. These overnight assaults primarily targeted logistics hubs across the Krasnodar and Stavropol regions, forcing an emergency evacuation of personnel. Astonishingly, this marks the second wave of attacks on the firm within a mere four days, with prior strikes on its facilities in Tambov and Elektrostal leading to eight fatalities and 62 injuries. Kyiv officials assert that these sites have been complicit in supplying essential components for the Russian military's drone operations and navigation systems. Tatyana Kim, the founder of Wildberries, shared her profound distress via Telegram, lamenting, \"There are no words sufficient to convey the depth of sorrow inflicted upon our employees and their families by this brazen aggression,\" while resolutely underscoring the imperative to persevere in their duties for societal betterment. Reports indicate that five individuals were injured in Nevinnomyssk, with ten injuries reported in Krasnodar, three of whom are in critical condition. Governor Veniamin Kondratyev elaborated on the severity of the assault, noting that the region endured a \"massive attack last night,\" which was punctuated by fatalities at a local company in Armavir and an oil depot catch on fire. Despite damage to two apartment buildings and several private residences in Dinskaya, authorities confirmed that no civilian casualties occurred. Notably, Ukraine has yet to corroborate details regarding these latest drone strikes.",
+        "vocabulary": [
+          {
+            "word": "hostilities",
+            "definition": "acts of war or conflict"
+          },
+          {
+            "word": "alarming",
+            "definition": "causing worry or fear"
+          },
+          {
+            "word": "lamenting",
+            "definition": "expressing sadness or regret"
+          },
+          {
+            "word": "brazen",
+            "definition": "done in a bold manner without shame"
+          },
+          {
+            "word": "corroborate",
+            "definition": "to confirm or give support to a statement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Tatyana Kim express about the attacks?",
+            "options": [
+              "They were not serious.",
+              "They deeply affected her and her employees.",
+              "They were necessary."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many people were seriously injured in Krasnodar?",
+            "options": [
+              "Five",
+              "Eight",
+              "Three"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Where did the most recent attacks occur?",
+            "options": [
+              "Krasnodar and Stavropol",
+              "Dinskaya and Armavir",
+              "Nevinnomyssk and Tambov"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Angriff auf Lager in Russland",
+        "text": "Ukrainische Flugzeuge treffen Lager von Wildberries. Das ist ein großer Online-Shop in Russland. 15 Menschen haben Verletzungen. Die Angriffe sind in der Nacht. Es gibt viele Lager in Krasnodar und Stavropol. Die Lager sind wichtig für den Lieferdienst. Mitarbeiter verlassen die Lager. Die Firma hat Probleme. In den letzten Tagen gab es schon Angriffe. Ein Lager in Tambov hat auch einen Angriff. Acht Menschen sterben dort. Menschen brauchen Hilfe. Wildberries hat viele Mitarbeiter. Die Gründerin sagt: Wir arbeiten für die Menschen.",
+        "vocabulary": [
+          {
+            "word": "Lager",
+            "definition": "Ein Platz für viele Dinge."
+          },
+          {
+            "word": "Angriff",
+            "definition": "Wenn man etwas schlecht macht."
+          },
+          {
+            "word": "Mitarbeiter",
+            "definition": "Ein Mensch, der für eine Firma arbeitet."
+          },
+          {
+            "word": "Verletzungen",
+            "definition": "Wenn der Körper weh tut."
+          },
+          {
+            "word": "Firma",
+            "definition": "Ein Unternehmen oder Geschäft."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer greift die Lager an?",
+            "options": [
+              "Russland",
+              "Ukraine",
+              "Deutschland"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Menschen haben Verletzungen?",
+            "options": [
+              "Zehn",
+              "Fünfzehn",
+              "Viertausend"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Ist Wildberries ein Online-Shop?",
+            "options": [
+              "Ja",
+              "Nein",
+              "Nicht sicher"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Angriffe auf Wildberries-Lager",
+        "text": "Ukrainische Drohnen haben die Lager von Wildberries erneut attackiert. Es gibt 15 Verletzte in den Regionen Krasnodar und Stavropol. Der Angriff passiert in der Nacht, als viele Menschen schlafen. Der Gründer Tatyana Kim sagt, dass die Angriffe sehr schwer sind. Weil die Angriffe so oft sind, müssen alle Mitarbeiter die Lager schnell verlassen. Vor vier Tagen gab es einen ähnlichen Angriff. Ein Lager in Tambov wurde getroffen, dabei starben acht Menschen und 62 sind verletzt. Wildberries ist der größte Online-Händler in Russland. Die Gründerin sagt, dass die Menschen verletzt sind, aber sie muss für andere weiterarbeiten. Der Gouverneur von Krasnodar, Veniamin Kondratyev, berichtet auch von Verletzten in Nevinnomyssk und anderen Städten. Er sagt, dass es eine massive Bedrohung gibt und die Regionen oft angegriffen werden. Einige Lager sollen für die Herstellung von Drohnen verwendet worden sein, das macht die Situation sehr ernst. Die Stadtverwaltung hat zudem einen Brand in einem Öl-Depot gemeldet, der durch die Angriffe verursacht wurde.",
+        "vocabulary": [
+          {
+            "word": "Angriff",
+            "definition": "eine Attacke oder ein Überfall auf jemanden oder etwas."
+          },
+          {
+            "word": "Lager",
+            "definition": "ein Ort, wo Waren oder Güter gelagert werden."
+          },
+          {
+            "word": "Verletzte",
+            "definition": "Menschen, die durch einen Angriff oder Unfall Schmerzen haben."
+          },
+          {
+            "word": "Gründer",
+            "definition": "Die Person, die eine Firma oder ein Unternehmen gegründet hat."
+          },
+          {
+            "word": "Bedrohung",
+            "definition": "eine Gefahr, die für etwas oder jemanden besteht."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden verletzt?",
+            "options": [
+              "15",
+              "62",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo befinden sich die Lager von Wildberries?",
+            "options": [
+              "In Moskau",
+              "In Krasnodar und Stavropol",
+              "In Sankt Petersburg"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer berichtet von den Verletzten in Nevinnomyssk?",
+            "options": [
+              "Tatyana Kim",
+              "Der Gouverneur",
+              "Ein Mitarbeiter"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ukrainische Angriffe auf Wildberries-Lager",
+        "text": "Ukrainische Drohnen haben wieder Lager des größten Online-Händlers Wildberries in Russland angegriffen. Dabei wurden 15 Menschen verletzt. Die Angriffe fanden in den Regionen Krasnodar und Stavropol statt, wo mehrere Lagerhäuser getroffen wurden. Die Gründerin Tatyana Kim, die die Situation genau verfolgt, sagte, dass die Mitarbeiter des Unternehmens schnell evakuiert wurden, um ihre Sicherheit zu gewährleisten. Dies ist der zweite Angriff innerhalb von vier Tagen, was die Sorge über die Sicherheit in den betroffenen Gebieten erhöht. Zuvor wurden auch in Tambov und Elektrostal Lager angegriffen; dort starben acht Menschen und 62 Personen wurden verletzt. Kyiv, die Hauptstadt der Ukraine, behauptet, dass diese Lager für die Versorgung von Drohnen und militärischer Ausrüstung genutzt werden. In der Stadt Nevinnomyssk wurden fünf Menschen verletzt, und auch in Krasnodar gab es Verletzte. Der Gouverneur berichtete von einem massiven Angriff, der über Nacht stattfand. Zudem kam es zu einem Anschlag auf ein Öllager, bei dem ein Feuer ausbrach. Solche Angriffe zeigen nicht nur die angespannte geopolitische Lage, sondern sie betreffen auch das tägliche Leben der Menschen in der Region. Viele Bürger fühlen sich unsicher, und die Geschäfte in der Umgebung leiden unter den ständigen Bedrohungen. Die Menschen hoffen, dass diese gefährliche Situation bald endet, um in Frieden leben zu können.",
+        "vocabulary": [
+          {
+            "word": "Angriffe",
+            "definition": "aggressive Aktionen gegen etwas oder jemanden, die für Menschen gefährlich sind."
+          },
+          {
+            "word": "evakuiert",
+            "definition": "in Sicherheit bringen, um eine Gefahr zu vermeiden."
+          },
+          {
+            "word": "Lager",
+            "definition": "Orte, an denen Waren oder Materialien gelagert werden."
+          },
+          {
+            "word": "Oberfläche",
+            "definition": "die äußere Schicht oder die äußerste Schicht von etwas."
+          },
+          {
+            "word": "geopolitisch",
+            "definition": "bezieht sich auf die Beziehung zwischen geopolitischen Faktoren, wie Länder und deren Macht."
+          },
+          {
+            "word": "Bedrohungen",
+            "definition": "Situationen oder Ereignisse, die gefährlich sind."
+          },
+          {
+            "word": "konfliktbeladen",
+            "definition": "voll von Spannungen oder schwierigen Situationen."
+          },
+          {
+            "word": "Bürger",
+            "definition": "Menschen, die in einem bestimmten Land leben."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden bei den Angriffen verletzt?",
+            "options": [
+              "10",
+              "15",
+              "62"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was behauptet Kyiv über die Lager von Wildberries?",
+            "options": [
+              "Sie sind für die Lagerung von Lebensmitteln.",
+              "Sie werden für die Versorgung von Drohnen genutzt.",
+              "Sie sind nur für die Lagerung von Bekleidung."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was geschah während des massiven Angriffs in der Region Krasnodar?",
+            "options": [
+              "Ein neues Lager wurde eröffnet.",
+              "Ein Öllager wurde getroffen und es brach ein Feuer aus.",
+              "Es gab keinen Schaden."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Erneute Angriffe auf Lagerhäuser von Wildberries in Russland",
+        "text": "Wiederholt wurden Lagerhäuser des größten russischen Online-Händlers Wildberries durch ukrainische Drohnen getroffen, wobei 15 Personen verletzt wurden, so der Gründer des Unternehmens und regionale Regierungschefs. Die logistischen Zentren von Wildberries in den Regionen Krasnodar und Stawropol waren von nächtlichen Angriffen betroffen, was zur Evakuierung der Mitarbeiter führte, berichtete der Gründer. Dies ist bereits das zweite Mal innerhalb von vier Tagen, dass die Ukraine die Einrichtungen des Unternehmens angreift. Am Samstag wurden Lagerhäuser in Tambow und Elektrostal angegriffen, was acht Todesopfer und 62 Verletzte zur Folge hatte. Kiew behauptet, dass die Lagerhäuser zur Lieferung von Komponenten für die Herstellung von Drohnen und Navigationsausrüstung eingesetzt wurden. Tatyana Kim, die Gründerin von Wildberries, erklärte, die logistischen Zentren in Krasnodar sowie in der Stadt Nevinnomyssk seien attackiert worden. \"Es fehlen die Worte, um die Gefühle und Emotionen zu beschreiben, die die Angriffe auf gewöhnliche Menschen, unsere Mitarbeiter und uns, die wir einfach unserer Arbeit nachgehen, ausgelöst haben,\" schrieb sie auf Telegram. Fünf Personen wurden in einem Lagerkomplex am Stadtrand von Nevinnomyssk verletzt und erhielten ambulante Behandlung, so Gouverneur Vladimir Vladimirov. Zudem wurden zehn Personen in Krasnodar verletzt, drei von ihnen befinden sich in einem kritischen Zustand.",
+        "vocabulary": [
+          {
+            "word": "Angriffe",
+            "definition": "eine gewaltsame Handlung gegen etwas"
+          },
+          {
+            "word": "Lagerhäuser",
+            "definition": "Orte, an denen Waren gelagert werden"
+          },
+          {
+            "word": "Verletzte",
+            "definition": "Menschen, die durch einen Unfall oder Angriff körperlich geschädigt wurden"
+          },
+          {
+            "word": "Evakuierung",
+            "definition": "die sichere Entfernung von Personen aus einem gefährlichen Bereich"
+          },
+          {
+            "word": "Bericht",
+            "definition": "eine Mitteilung über etwas, was geschehen ist"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden verletzt?",
+            "options": [
+              "15",
+              "62",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "In welchen Regionen fanden die Angriffe statt?",
+            "options": [
+              "Krasnodar und Stawropol",
+              "Moskau und Sankt Petersburg",
+              "Tambow und Elektrostal"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was wurde in den Lagerhäusern vermutet?",
+            "options": [
+              "Verkauf von Lebensmitteln",
+              "Lieferung von Drohnenkomponenten",
+              "Lagerung von Kleidung"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ukrainische Drohnenangriffe auf Wildberries: Ein besorgniserregender Trend",
+        "text": "Erneute Angriffe ukrainischer Drohnen auf die Lagerhäuser von Wildberries, dem größten Online-Händler Russlands, haben erneut für Schlagzeilen gesorgt, nachdem laut Aussagen des Unternehmensgründers und regionaler Regierungschefs insgesamt 15 Menschen verletzt wurden. In den Nachtstunden trafen die Angriffe die logistischen Zentren in den Regionen Krasnodar und Stawropol, was die Evakuierung der Mitarbeiter nach sich zog. Diese Vorfälle sind bereits der zweite Angriff innerhalb von vier Tagen, in denen die Ukraine die Einrichtungen der Firma angegriffen hat. Am vorhergehenden Samstag wurden Lagerhäuser in Tambow und Elektrostal angegriffen, wobei acht Personen ums Leben kamen und 62 weitere verletzt wurden. Kiew behauptet, dass diese Lagerhäuser zur Lieferung von Drohnenkomponenten und Navigationsgeräten genutzt werden. Tatyana Kim, die Gründerin von Wildberries, äußerte auf Telegram, dass die Angriffe die Emotionen der Menschen, insbesondere ihrer Mitarbeiter, stark beeinflusst hätten. \"Es fehlen mir die Worte, um die Auswirkungen solcher Angriffe zu beschreiben,\" fügte sie hinzu. Der Gouverneur von Stawropol, Veniamin Kondratyev, berichtete zudem von zehn Verletzten in Krasnodar, wobei drei sich in einem ernsthaften Zustand befinden.",
+        "vocabulary": [
+          {
+            "word": "besorgniserregend",
+            "definition": "etwas, das Sorgen oder Angst verursacht"
+          },
+          {
+            "word": "Vorfall",
+            "definition": "ein Ereignis, oft unerwartet oder problematisch"
+          },
+          {
+            "word": "äußern",
+            "definition": "eine Meinung oder Gefühle ausdrücken"
+          },
+          {
+            "word": "Einfluss",
+            "definition": "der Effekt, den etwas auf jemanden hat"
+          },
+          {
+            "word": "ernsthaft",
+            "definition": "sehr wichtig oder kritisch"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden von den Angriffen verletzt?",
+            "options": [
+              "15",
+              "25",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo fanden die Angriffe statt?",
+            "options": [
+              "In Russland",
+              "In der Ukraine",
+              "In Deutschland"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist Tatyana Kim?",
+            "options": [
+              "Die Gründerin von Wildberries",
+              "Der Gouverneur von Krasnodar",
+              "Ein Mitarbeiter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Auseinandersetzung zwischen Ukraine und Russland: Wildberries erneut Ziel ukrainischer Drohnen",
+        "text": "In einem besorgniserregenden Muster wurden die Lagerhäuser des größten russischen Online-Händlers Wildberries erneut von ukrainischen Drohnen angegriffen, was zu Verletzungen bei 15 Personen führte, wie der Gründer des Unternehmens und regionale Regierungsvertreter berichten. Diese nächtlichen Angriffe auf die logistischen Zentren in den Regionen Krasnodar und Stawropol führten nicht nur zur Evakuierung der Mitarbeiter, sondern werfen auch bedeutsame Fragen zur Sicherheit und den geopolitischen Implikationen solcher Attacken auf. Der gegenwärtige Vorfall ist bereits der zweite in einem Zeitraum von nur vier Tagen, in dem ukrainische Streitkräfte die Anlagen der Firma ins Visier genommen haben; am vorhergehenden Samstag wurden Lagerhäuser in Tambow und Elektrostal angegriffen. Kiew bekräftigt, dass diese Einrichtungen zur Versorgung mit Komponenten für russische UAVs (Unmanned Aerial Vehicles) und Navigationsgeräte genutzt werden. Tatyana Kim, die Gründerin von Wildberries, äußerte auf Telegram ihre Ohnmacht, die durch die Angriffe verursachten Emotionen zu beschreiben und betonte, dass solche Übergriffe nicht nur für die unmittelbetroffenen Arbeiter, sondern für die gesamte Gesellschaft verheerende Auswirkungen haben müssten. Besonders besorgniserregend ist zudem die Tatsache, dass auch zivil genutzte Infrastruktur, wie ein Öl-Depot und Wohngebäude, betroffen waren, während die Ukraine noch keine offizielle Bestätigung zu den Drohnenangriffen abgab. Was die Reaktionen des internationalen Marktes angeht, könnte dieser Vorfall weitreichende Konsequenzen nach sich ziehen, die über eine einfache Bewertung von Sicherheit hinausgehen.",
+        "vocabulary": [
+          {
+            "word": "Muster",
+            "definition": "eine wiederkehrende oder erkennbare Art von Verhalten oder Ereignis"
+          },
+          {
+            "word": "geopolitisch",
+            "definition": "betrifft die Politik in Bezug auf geographische Gegebenheiten"
+          },
+          {
+            "word": "Ohnmacht",
+            "definition": "ein Gefühl des Mangels an Macht"
+          },
+          {
+            "word": "verheerend",
+            "definition": "extrem schädlich oder voller Zerstörung"
+          },
+          {
+            "word": "Infrastruktur",
+            "definition": "die grundlegenden Einrichtungen und Systeme, die eine Gesellschaft benötigt"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Angriffe gab es innerhalb von vier Tagen?",
+            "options": [
+              "Zwei",
+              "Drei",
+              "Fünf"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was betonte Tatyana Kim in ihrer Erklärung?",
+            "options": [
+              "Die positive Wirkung der Angriffe",
+              "Die Emotionen, die durch die Angriffe ausgelöst wurden",
+              "Die Sicherheit der Lagerhäuser"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Art von Gebäuden war ebenfalls betroffen?",
+            "options": [
+              "Öl-Depot und Wohnhäuser",
+              "Schulen und Krankenhäuser",
+              "Büros und Fabriken"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Attaque en Ukraine",
+        "text": "Des drones d'Ukraine attaquent des entrepôts. Ces entrepôts sont pour une grande boutique en ligne. Quinze personnes sont blessées. La fondatrice de Wildberries dit cela. Les attaques sont à Krasnodar et Stavropol. Il y a des travailleurs évacués. C'est la deuxième attaque en quatre jours. Huit personnes sont mortes dans une autre attaque. Elle dit que les gens travaillent. Les gens ne doivent pas avoir peur. Les drones frappent des entrepôts. Ils frappent aussi des maisons. Il n'y a pas de morts dans les maisons.",
+        "vocabulary": [
+          {
+            "word": "drones",
+            "definition": "avions sans pilote"
+          },
+          {
+            "word": "entreprises",
+            "definition": "grandes boutiques ou organisations"
+          },
+          {
+            "word": "attaque",
+            "definition": "frapper ou blesser quelqu'un ou quelque chose"
+          },
+          {
+            "word": "travailler",
+            "definition": "faire un emploi ou une tâche"
+          },
+          {
+            "word": "blessé",
+            "definition": "avoir une douleur ou une lésion"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui attaque les entrepôts?",
+            "options": [
+              "Les avions",
+              "Les drones d'Ukraine",
+              "Les soldats"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de personnes sont blessées?",
+            "options": [
+              "Cinq",
+              "Dix",
+              "Quinze"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Où sont les attaqués?",
+            "options": [
+              "À Krasnodar et à Stavropol",
+              "À Paris et à Londres",
+              "À Moscou et à Kiev"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Attaque de drones en Ukraine",
+        "text": "Des drones ukrainiens attaquent de nouveau des entrepôts de Wildberries. Ces entrepôts sont en Russie, dans les régions de Krasnodar et de Stavropol. Quinze personnes sont blessées à cause des attaques. La fondatrice de Wildberries, Tatyana Kim, annonce cela sur Telegram. Les travailleurs doivent évacuer les lieux rapidement pour leur sécurité. C'est la deuxième fois qu'Ukraine attaque l'entreprise en quatre jours. Dans une autre attaque, huit personnes sont tuées et soixante-deux sont blessées. Les autorités disent que ces entrepôts reçoivent des pièces pour fabriquer des drones russes et du matériel de navigation. Les gens se sentent en danger chez eux, car les drones frappent aussi des bâtiments civils. Certaines maisons sont touchées, mais heureusement, il n'y a pas de blessés. Les événements montrent la tension croissante entre l'Ukraine et la Russie et les répercussions de la guerre sur les civils et les travailleurs.",
+        "vocabulary": [
+          {
+            "word": "entrepôts",
+            "definition": "bâtiments où l'on stocke des marchandises."
+          },
+          {
+            "word": "attaques",
+            "definition": "actions de frapper ou d'agresser."
+          },
+          {
+            "word": "blessées",
+            "definition": "personnes qui ont subi des dommages ou des blessures."
+          },
+          {
+            "word": "évacuer",
+            "definition": "quitter un lieu pour des raisons de sécurité."
+          },
+          {
+            "word": "sécurité",
+            "definition": "condition d'être protégé contre le danger."
+          },
+          {
+            "word": "tension",
+            "definition": "situation de conflit ou de stress entre des groupes."
+          },
+          {
+            "word": "répercussions",
+            "definition": "conséquences d'un événement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de personnes sont blessées dans la dernière attaque ?",
+            "options": [
+              "Vingt-cinq",
+              "Quinze",
+              "Trente"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a annoncé les blessures sur Telegram ?",
+            "options": [
+              "Le gouverneur",
+              "Un travailleur",
+              "Tatyana Kim"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel est le sentiment des gens chez eux ?",
+            "options": [
+              "Ils se sentent en sécurité",
+              "Ils se sentent en danger",
+              "Ils se sentent heureux"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Attaques de drones sur l'entreprise Wildberries",
+        "text": "Des drones ukrainiens ont de nouveau attaqué des entrepôts de Wildberries, la plus grande entreprise de vente en ligne en Russie. Quinze personnes ont été blessées dans cette attaque. La fondatrice, Tatyana Kim, a expliqué que les attaques ont eu lieu dans les régions de Krasnodar et Stavropol. C'est la deuxième attaque en quatre jours. Samedi, un autre entrepôt à Tambov a été frappé, tuant huit personnes et blessant soixante-deux autres. Selon des responsables, ces entrepôts sont utilisés pour fournir des parties de drones et de matériel de navigation à la Russie. Si ces attaques continuent, cela pourrait affecter gravement la chaîne d'approvisionnement de l'entreprise. Tatyana Kim a exprimé ses sentiments sur les attaques, en disant qu'elles touchent des gens ordinaires, des employés qui travaillent dur. Elle souhaite que l'on continue à faire son travail pour le bien des gens. Les gouverneurs de la région rapportent également des blessures dans des complexes d'entrepôts à Nevinnomyssk et Krasnodar. Dans le complexe de Nevinnomyssk, cinq personnes ont été blessées et ont reçu des soins. Le gouverneur Veniamin Kondratyev a mentionné que dix autres personnes ont été blessées dans l'attaque à Krasnodar, avec trois en état grave. Si la situation ne s'améliore pas, les employés pourraient avoir peur de retourner au travail, ce qui serait terrible pour l'entreprise.",
+        "vocabulary": [
+          {
+            "word": "entrepôts",
+            "definition": "des grands bâtiments où l'on stocke des marchandises"
+          },
+          {
+            "word": "logistique",
+            "definition": "l'organisation des transports, de l'entreposage et de la distribution"
+          },
+          {
+            "word": "fragments",
+            "definition": "de petits morceaux qui restent après une explosion"
+          },
+          {
+            "word": "approvisionnement",
+            "definition": "le fait de fournir ce qu'il faut pour un usage ou une consommation"
+          },
+          {
+            "word": "gravement",
+            "definition": "de manière sérieuse ou sévère"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a été blessé dans l'attaque ?",
+            "options": [
+              "Des employés de Wildberries",
+              "Des enfants dans la rue",
+              "Des touristes étrangers"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel pourrait être l'impact des attaques sur l'entreprise ?",
+            "options": [
+              "Aucun impact",
+              "Cela pourrait affecter la chaîne d'approvisionnement",
+              "Cela va augmenter les ventes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de personnes ont été blessées à Krasnodar ?",
+            "options": [
+              "Dix",
+              "Cinquante",
+              "Soixante-deux"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Les entrepôts de Wildberries touchés par des drones ukrainiens",
+        "text": "Des drones ukrainiens ont de nouveau frappé des entrepôts appartenant à Wildberries, le plus grand détaillant en ligne de Russie, causant des blessures à 15 personnes, selon le fondateur de l'entreprise et des gouverneurs régionaux. Ces sites logistiques situés dans les régions de Krasnodar et de Stavropol ont été touchés par des attaques nocturnes, ce qui a nécessité l'évacuation des travailleurs, a déclaré le fondateur. Ce n'est pas la première fois que l'Ukraine cible ces installations, puisque c'est la seconde attaque en quatre jours, avec des entrepôts à Tambov et Elektrostal frappés le samedi précédent, faisant huit morts et 62 blessés. Kyiv a affirmé que ces entrepôts étaient utilisés pour fournir des composants afin de fabriquer des drones et des équipements de navigation pour la Russie. Tatyana Kim, fondatrice de Wildberries, a exprimé sur Telegram sa profonde indignation face à ces attaques, rappelant que \"ces situations démontrent l'importance de continuer notre travail pour le bien des gens\". Cinq blessés ont été signalés sur un site près de Nevinnomyssk, a déclaré le gouverneur Vladimir Vladimirov, tandis que dix autres l'ont été à Krasnodar, dont trois dans un état sérieux. Il a également mentionné un \"massif attaque\" qui a coûté la vie à un employé à Armavir.",
+        "vocabulary": [
+          {
+            "word": "entrepôts",
+            "definition": "grands bâtiments pour stocker des marchandises"
+          },
+          {
+            "word": "attaques",
+            "definition": "actions violentes contre quelque chose"
+          },
+          {
+            "word": "évacuation",
+            "definition": "action de faire sortir des personnes d'un endroit dangereux"
+          },
+          {
+            "word": "blessés",
+            "definition": "personnes qui ont été blessées"
+          },
+          {
+            "word": "fondatrice",
+            "definition": "femme qui a créé une entreprise"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a été blessé à cause des attaques?",
+            "options": [
+              "Les employés de Wildberries",
+              "Les drones ukrainiens",
+              "Les gouverneurs régionaux"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel était le nombre de victimes à Tambov et Elektrostal?",
+            "options": [
+              "Cinq blessures",
+              "Huit morts",
+              "Dix blessures"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a exprimé son indignation sur Telegram?",
+            "options": [
+              "Vladimir Vladimirov",
+              "Veniamin Kondratyev",
+              "Tatyana Kim"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "Des entrepôts de Wildberries frappés de nouveau par des drones ukrainiens",
+        "text": "Les récentes attaques de drones ukrainiens ont de nouveau ciblé des entrepôts du plus grand détaillant en ligne russe, Wildberries, provoquant des blessures chez quinze personnes, comme l’a confirmé le fondateur de l’entreprise ainsi que des gouverneurs régionaux. Les centres logistiques situés dans les provinces de Krasnodar et de Stavropol ont subi des frappes nocturnes entraînant l’évacuation des travailleurs, en raison de la gravité des incidents. Ce fut la deuxième fois en quatre jours que l’Ukraine a engagé des frappes sur les installations de la société, ayant déjà frappé des entrepôts à Tambov et Elektrostal le samedi précédent, ce qui avait conduit à la mort de huit personnes et à 62 blessures. Selon le gouvernement de Kyiv, ces installations étaient utilisées pour fournir à la Russie des composants destinés à la fabrication de drones et d'équipements de navigation. Tatyana Kim, fondatrice de Wildberries, a déclaré sur Telegram que ces attaques provoquent des émotions intenses, mais qu'il est essentiel de continuer à travailler pour le bien des gens. Le gouverneur Vladimir Vladimirov a également rapporté que cinq personnes avaient été blessées dans un complexe près de Nevinnomyssk. Le nombre de blessures s'élevait à dix à Krasnodar, dont trois étaient dans un état critique, tandis qu’un bombardement à Armavir a causé la mort d’un employé.",
+        "vocabulary": [
+          {
+            "word": "frappes",
+            "definition": "tirs ou attaques, souvent via des armes"
+          },
+          {
+            "word": "installations",
+            "definition": "lieux équipés pour un usage spécifique"
+          },
+          {
+            "word": "évacuation",
+            "definition": "action de faire sortir des personnes d'un endroit dangereux"
+          },
+          {
+            "word": "conformément",
+            "definition": "en accord avec quelque chose"
+          },
+          {
+            "word": "émotions",
+            "definition": "sentiments intenses ressentis par une personne"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel était le résultat des attaques à Tambov et Elektrostal?",
+            "options": [
+              "Cinquante blessés",
+              "Huit morts",
+              "Aucun blessé"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'a déclaré Tatyana Kim sur Telegram?",
+            "options": [
+              "Il faut continuer à travailler",
+              "Les attaques étaient inutiles",
+              "Les victimes ne sont pas importantes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de personnes ont été blessées près de Nevinnomyssk?",
+            "options": [
+              "Cinq personnes",
+              "Dix personnes",
+              "Quinze personnes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Les frappes de drones ukrainiens sur Wildberries: un nouvel épisode tragique",
+        "text": "Une nouvelle salve de drones ukrainiens a, de nouveau, frappé les entrepôts du géant russe Wildberries, suscitant un tollé général suite aux blessures infligées à quinze personnes. Ce scenario a été révélé par des sources officielles, y compris le fondateur de l'entreprise ainsi que certains gouverneurs régionaux. Ces attaques nocturnes ont eu lieu dans les régions de Krasnodar et de Stavropol, entraînant une évacuation précipitée du personnel. Ce contexte chaotique n'est pas une première, car c'est déjà la seconde attaque en l'espace de quatre jours; les précédentes frappes, datées du samedi, avaient causé la mort de huit employés et blessé 62 autres à Tambov et Elektrostal. Kyiv, dans un effort pour justifier ses actions, a affirmé que ces lieux de stockage servaient à livrer des composants nécessaires à la fabrication de drones et d'équipements militaires pour le compte de Moscou. Tatyana Kim, la fondatrice de Wildberries, a partagé dans un message sur Telegram son indignation face à ces attaques sadiques, faisant remarquer qu'elles affectent des êtres humains innocents. Le gouverneur de Stavropol, Vladimir Vladimirov, a déclaré que cinq personnes avaient été blessées dans un entrepôt près de Nevinnomyssk, tandis qu'à Krasnodar, dix victimes avaient été enregistrées, dont trois dans un état jugé préoccupant. Il a également mentionné un bombardement à Armavir qui a coûté la vie à un employé, rapportant des dommages colossaux et une grande souffrance humaine, sans compter les frappes simultanées sur deux immeubles d'habitation.",
+        "vocabulary": [
+          {
+            "word": "tollé",
+            "definition": "réaction collective très négative"
+          },
+          {
+            "word": "salve",
+            "definition": "série rapide d'attaques"
+          },
+          {
+            "word": "justifier",
+            "definition": "expliquer quelque chose pour le défendre"
+          },
+          {
+            "word": "sadiques",
+            "definition": "maléfiques ou cruels"
+          },
+          {
+            "word": "préoccupant",
+            "definition": "qui cause de l'inquiétude"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles régions ont été touchées par les frappes?",
+            "options": [
+              "Krasnodar et Stavropol",
+              "Moskva et Belgorod",
+              "Tver et Novgorod"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel a été réclamé par Kyiv concernant ces entrepôts?",
+            "options": [
+              "Ils contenaient des armes",
+              "Ils fournissaient des composants",
+              "Ils étaient abandonnés"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est l'état de trois des dix blessés à Krasnodar?",
+            "options": [
+              "Critique",
+              "Stable",
+              "Inconnu"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Ataques en depósitos de Wildberries",
+        "text": "Los drones de Ucrania atacan depósitos en Rusia otra vez. Los depósitos son de Wildberries, el mayor vendedor en línea de Rusia. Quince personas están heridas por los ataques. Hay evacuaciones de trabajadores en las ciudades afectadas. Tatyana Kim es la fundadora de Wildberries. Ella dice que hay muchos sentimientos y emociones. La situación es difícil para muchos. Los ataques son peligrosos y generan miedo. Estos ataques son la segunda vez en cuatro días que ocurren. Los depósitos en Krasnodar y Nevinnomyssk están dañados. Estos lugares son importantes para la logística de la empresa. Wildberries suministra productos a muchas personas. Las autoridades locales están preocupadas por la seguridad de la gente.",
+        "vocabulary": [
+          {
+            "word": "logística",
+            "definition": "organización de la distribución de bienes."
+          },
+          {
+            "word": "depósito",
+            "definition": "lugar donde se almacenan cosas."
+          },
+          {
+            "word": "atacar",
+            "definition": "agredir a alguien o algo."
+          },
+          {
+            "word": "fundadora",
+            "definition": "persona que crea una empresa."
+          },
+          {
+            "word": "evacuación",
+            "definition": "acción de sacar personas de un lugar."
+          },
+          {
+            "word": "herido",
+            "definition": "persona que recibe daño."
+          },
+          {
+            "word": "situación",
+            "definition": "estado o condición de algo."
+          },
+          {
+            "word": "miedo",
+            "definition": "sentimiento de temor o angustia."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas están heridas por los ataques?",
+            "options": [
+              "Quince",
+              "Diez",
+              "Ocho"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es la fundadora de Wildberries?",
+            "options": [
+              "Tatyana Kim",
+              "Vladimir Vladimirov",
+              "Veniamin Kondratyev"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde están los depósitos atacados?",
+            "options": [
+              "En Krasnodar y Nevinnomyssk",
+              "En Moscú y San Petersburgo",
+              "En Tambov y Elektrostal"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ataques a Wildberries por drones ucranianos",
+        "text": "Drones de Ucrania atacan nuevamente depósitos de Wildberries. Este es el segundo ataque en cuatro días. Quince personas están heridas en los ataques recientes. Estos drones atacan principalmente en las regiones de Krasnodar y Stavropol. Tatyana Kim, la fundadora de Wildberries, habla sobre el dolor y la preocupación de los trabajadores. Todos deben evacuar por seguridad. Los ataques son muy peligrosos y causan graves daños. En el primer ataque, ocho personas murieron y muchas más resultaron heridas. Las autoridades dicen que los depósitos envían piezas para drones rusos. El gobernador de Stavropol, Vladimir Vladimirov, menciona que cinco personas están heridas en la ciudad de Nevinnomyssk. Todos recibieron tratamiento médico y están en recuperación. Además, los daños incluyen un depósito de aceite que se incendió. El primer ataque causó un gran miedo en la comunidad. La situación es muy tensa y muy difícil para todos. Las personas quieren estabilidad y paz en su vida cotidiana.",
+        "vocabulary": [
+          {
+            "word": "drones",
+            "definition": "Vehículos aéreos no tripulados, controlados a distancia."
+          },
+          {
+            "word": "depósitos",
+            "definition": "Lugares donde se guardan mercancías."
+          },
+          {
+            "word": "evacuar",
+            "definition": "Salir de un lugar por razones de seguridad."
+          },
+          {
+            "word": "tratamiento",
+            "definition": "Atención médica que se le da a una persona enferma."
+          },
+          {
+            "word": "incendio",
+            "definition": "Fuego que causa destrucción."
+          },
+          {
+            "word": "logística",
+            "definition": "Gestión del transporte y almacenamiento de productos."
+          },
+          {
+            "word": "comunidad",
+            "definition": "Grupo de personas que viven en la misma área."
+          },
+          {
+            "word": "stabilidad",
+            "definition": "Estado de ser firme y no cambiar."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas están heridas en los ataques recientes?",
+            "options": [
+              "Quince",
+              "Ocho",
+              "Cinco"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dijo Tatyana Kim sobre los trabajadores de Wildberries?",
+            "options": [
+              "Que están felices",
+              "Que deben evacuar",
+              "Que no hay problemas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué causó el incendio en el depósito?",
+            "options": [
+              "Un ataque de drones",
+              "Un problema eléctrico",
+              "Una explosión interna"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Drones Ucranianos atacan depósitos de Wildberries",
+        "text": "Recientemente, los drones de Ucrania han atacado depósitos de Wildberries, la mayor tienda online de Rusia. Estos ataques han herido a quince personas, mostrando la gravedad de la situación en el área. Es el segundo ataque en solo cuatro días. En el primer ataque, ocho personas murieron y sesenta y dos resultaron heridas. Tatyana Kim, la fundadora de Wildberries, ha comentado que estos ataques afectan gravemente a muchas personas, incluidos sus empleados, quienes solo intentan trabajar en un ambiente seguro. Ella cree que es fundamental seguir trabajando a pesar de los riesgos. Los depósitos de Wildberries están ubicados en Krasnodar y Stavropol, que son regiones clave para la distribución de productos. También hubo ataques en Tambov y Elektrostal, donde hay más heridos. Las autoridades han enfatizado que estos depósitos se utilizan para enviar piezas para los drones rusos, lo cual genera preocupación internacional. La situación es tensa y los trabajadores están en estado de alerta. Si las cosas continúan así, podría haber más ataques en el futuro. Además, la comunidad local se siente inquieta, sabiendo que un conflicto más amplio podría estallar. Es importante que las personas y las empresas tomen precauciones para garantizar su seguridad. Las imágenes de los ataques han sido devastadoras, y muchas familias están afectadas. Sin embargo, hay quienes creen que es esencial seguir adelante y continuar con sus vidas normales.",
+        "vocabulary": [
+          {
+            "word": "logística",
+            "definition": "El proceso de planificar y ejecutar el movimiento y almacenamiento de bienes."
+          },
+          {
+            "word": "grave",
+            "definition": "Algo muy serio o importante."
+          },
+          {
+            "word": "tenso",
+            "definition": "Una situación con mucha presión o nerviosismo."
+          },
+          {
+            "word": "comunidad",
+            "definition": "Un grupo de personas que viven en la misma área."
+          },
+          {
+            "word": "precauciones",
+            "definition": "Medidas que se toman para evitar problemas."
+          },
+          {
+            "word": "devastador",
+            "definition": "Algo que causa una gran destrucción o sufrimiento."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas han sido heridas en el segundo ataque?",
+            "options": [
+              "Quince personas",
+              "Ocho personas",
+              "Sesenta y dos personas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde están ubicados los depósitos de Wildberries?",
+            "options": [
+              "En Krasnodar y Tambov",
+              "En Krasnodar y Stavropol",
+              "En Elektrostal y Tambov"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué afecta los ataques según Tatyana Kim?",
+            "options": [
+              "A los empleados de Wildberries",
+              "A los drones rusos",
+              "A la logística de transporte"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Más almacenes de la tienda en línea rusa Wildberries atacados por Ucrania",
+        "text": "Los drones ucranianos han atacado de nuevo almacenes de Wildberries, el mayor minorista online de Rusia, causando heridas a quince personas, según informaron el fundador de la compañía y gobernadores regionales. Los centros logísticos en las regiones de Krasnodar y Stavropol fueron impactados durante ataques nocturnos, lo que llevó a la evacuación de trabajadores, explicó el fundador. Este es el segundo ataque que Ucrania lleva a cabo en las instalaciones de la empresa en tan solo cuatro días, ya que almacenes en Tambov y Elektrostal también sufrieron ataques el sábado, resultando en ocho muertes y sesenta y dos heridos. Kyiv ha afirmado que estos almacenes se emplean para suministrar componentes utilizados en la fabricación de drones y equipos de navegación de Rusia. Tatyana Kim, fundadora de Wildberries, mencionó que los centros logísticos en Krasnodar y Nevinnomyssk fueron atacados. \"No hay palabras para describir todos los sentimientos y emociones provocados por los ataques a personas corrientes, a nuestros empleados, a nosotros, que simplemente estamos realizando nuestro trabajo\", escribió en Telegram. Según el gobernador Vladimir Vladimirov, en un complejo de almacenes en Nevinnomyssk, cinco personas resultaron heridas; todas recibieron tratamiento ambulatorio. En el ataque a un complejo en Krasnodar, diez personas resultaron heridas, de las cuales tres están en estado grave. El gobernador de la región, Veniamin Kondratyev, afirmó que la región fue objeto de un \"ataque masivo la noche pasada\", con golpes también en una empresa que dejó a un empleado muerto. La administración de la ciudad reportó que un depósito de petróleo fue alcanzado por vehículos aéreos no tripulados, provocando un incendio. Fragmentos de drones también impactaron en dos edificios de apartamentos en Krasnodar y en dos casas particulares en el pueblo de Dinskaya, según el gobernador. Hasta ahora, Ucrania no ha confirmado ni publicado detalles sobre los nuevos ataques con drones.",
+        "vocabulary": [
+          {
+            "word": "almacenes",
+            "definition": "lugar donde se guardan cosas"
+          },
+          {
+            "word": "atacados",
+            "definition": "sufrir un ataque"
+          },
+          {
+            "word": "empleados",
+            "definition": "personas que trabajan para una empresa"
+          },
+          {
+            "word": "evacuación",
+            "definition": "salir de un lugar por seguridad"
+          },
+          {
+            "word": "drones",
+            "definition": "aviones no tripulados"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas fueron heridas en los ataques a Wildberries?",
+            "options": [
+              "15 personas",
+              "62 personas",
+              "8 personas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dijo la fundadora de Wildberries sobre los ataques?",
+            "options": [
+              "Son inaceptables",
+              "No se puede describir",
+              "Debemos continuar trabajando"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué asegura Ucrania sobre los almacenes de Wildberries?",
+            "options": [
+              "Son solo centros logísticos",
+              "Se utilizan para suministrar componentes a drones",
+              "No están atacando esos lugares"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Los ataques ucranianos continúan afectando a los centros logísticos de Wildberries",
+        "text": "Recientemente, los drones ucranianos han vuelto a impactar en las instalaciones de Wildberries, el mayor minorista online de Rusia, resultando en quince heridos, según lo afirmaron tanto el fundador de la empresa como varios gobernadores regionales. Los centros logísticos ubicados en las regiones de Krasnodar y Stavropol fueron objeto de ataques a lo largo de la noche, lo que, como consecuencia, llevó a la evacuación inmediata de los trabajadores. Este ataque representa la segunda ocasión en cuatro días en que Ucrania ha dirigido su ofensiva contra los activos de la compañía, habiendo sufrido los almacenes en Tambov y Elektrostal un asalto el sábado precedente que dejó un saldo trágico de ocho muertes y sesenta y dos heridos. El gobierno de Kyiv ha insistido en que dichos almacenes han sido utilizados para proveer componentes que facilitan la fabricación de drones y equipos de navegación ruso. Tatyana Kim, la fundadora de Wildberries, expresó su consternación en Telegram: \"No existen palabras apropiadas para reflejar los sentimientos y emociones que nos causan estos ataques en personas comunes, en nuestros colaboradores, así como en nosotros, que únicamente estamos desempeñando nuestras labores.\" En Nevinnomyssk, cinco personas resultaron heridas y recibieron tratamiento ambulatorio, mientras que en Krasnodar, diez individuos fueron afectados con tres en condiciones críticas, declarado por el gobernador Veniamin Kondratyev, quien también mencionó un ataque masivo que resultó en la muerte de un empleado en Armavir. Se reportó que un depósito de petróleo fue alcanzado por drones, provocando un incendio. Asimismo, fragmentos de estas aeronaves impactaron en dos edificios de apartamentos y en viviendas de Dinskaya, aunque sin dejar heridos. Hasta el momento, Ucrania no ha dado detalles sobre estos ataques recientes.",
+        "vocabulary": [
+          {
+            "word": "consternación",
+            "definition": "gran sorpresa y tristeza"
+          },
+          {
+            "word": "ofensiva",
+            "definition": "acción de atacar"
+          },
+          {
+            "word": "colaboradores",
+            "definition": "personas que trabajan con otros"
+          },
+          {
+            "word": "trágico",
+            "definition": "muy triste, causa pena"
+          },
+          {
+            "word": "incendio",
+            "definition": "fuego que causa daño"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué expresaron los gobernadores sobre el ataque?",
+            "options": [
+              "Hubo quince personas heridas",
+              "Los ataques son alarmantes",
+              "No hay heridos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué acciones emprendió Tatyana Kim tras los ataques?",
+            "options": [
+              "Publicó en Telegram",
+              "Cerró los almacenes",
+              "Cancelo el servicio"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué asegura Kyiv sobre los almacenes de Wildberries?",
+            "options": [
+              "Son inocentes",
+              "Han sido utilizados para suministrar componentes",
+              "No se están utilizando"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La escalada de ataques ucranianos a las instalaciones de Wildberries suscita preocupación",
+        "text": "En un contexto de creciente hostilidad, los recientes ataques de drones ucranianos a los almacenes de Wildberries, el mayor minorista online de Rusia, han dejado a su paso un saldo de quince heridos, según ha señalado tanto el fundador de la empresa, Tatyana Kim, como diversos funcionarios regionales. Los centros logísticos situados en las regiones de Krasnodar y Stavropol fueron objeto de ataques casi simultáneos durante la noche, lo que condujo a la evacuación de los trabajadores en aras de garantizar su seguridad. Se trata del segundo ataque que Ucrania ejecuta en tan solo cuatro días, tras la ofensiva previa que se saldó con la trágica pérdida de ocho vidas y sesenta y dos heridos en Tambov y Elektrostal. Desde Kyiv, se ha argumentado que las instalaciones de Wildberries han sido utilizadas en la cadena de suministro de componentes destinados a la fabricación de drones y sistemas de navegación para el uso militar ruso. En un mensaje conmovedor a través de Telegram, Kim expresó que \"no existen palabras para describir el torrente de emociones que generan estos ataques en individuos comunes, en nuestros colaboradores y en nosotros mismos, que sencillamente intentamos hacer nuestro trabajo\". En Nevinnomyssk, se reportaron cinco heridos, todos atendidos ambulatoriamente, mientras que en Krasnodar, diez personas sufrieron lesiones, tres de ellas en estado grave, como aclaró el gobernador Veniamin Kondratyev. Este último también comunicó que un ataque aéreo en Armavir resultó en la muerte de un empleado, y que un depósito de petróleo fue alcanzado, provocando un incendio significativo. Además, fragmentos de drones impactaron en dos edificios de apartamentos y en diversas viviendas en Dinskaya, aunque afortunadamente sin dejar heridos. Hasta el momento, Ucrania no ha confirmado ni proporcionado detalles sobre estos nuevos ataques.",
+        "vocabulary": [
+          {
+            "word": "hostilidad",
+            "definition": "sentido de antagonismo o enemistad"
+          },
+          {
+            "word": "simultáneos",
+            "definition": "que ocurren al mismo tiempo"
+          },
+          {
+            "word": "argumentado",
+            "definition": "presentar razones para una opinión"
+          },
+          {
+            "word": "conmovedor",
+            "definition": "que provoca emociones fuertes"
+          },
+          {
+            "word": "significativo",
+            "definition": "importante o notable"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué consecuencias dejaron los ataques a Wildberries?",
+            "options": [
+              "Quince heridos",
+              "Un incendio",
+              "Ningún herido"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál fue la reacción de Tatyana Kim en Telegram?",
+            "options": [
+              "Estuvo tranquila",
+              "Se sintió feliz",
+              "Expresó sus emociones"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué se mencionó sobre el ataque en Armavir?",
+            "options": [
+              "No hubo heridos",
+              "Un empleado murió",
+              "Solo hubo daños materiales"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-22-us-renews-strikes-on-iran-as-trump-threatens-to-attack-under",
+    "date": "2026-07-22",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a13/live/5d582620-8572-11f1-bee8-53ce494e1abc.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Continues Air Strikes on Iran",
+      "de": "US-Angriffe auf Iran setzen sich fort",
+      "fr": "Les attaques américaines sur l'Iran continuent",
+      "es": "Estados Unidos intensifica sus ataques a Irán"
+    }
+  },
+  {
+    "id": "2026-07-22-more-warehouses-of-russian-online-retailer-wildberries-hit-b",
+    "date": "2026-07-22",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c7e/live/17a04300-859b-11f1-a6e0-e3aa80f742c2.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Ukraine Hits Wildberries Warehouses Again",
+      "de": "Ukrainische Angriffe auf Wildberries-Lager",
+      "fr": "Attaques de drones sur l'entreprise Wildberries",
+      "es": "Drones Ucranianos atacan depósitos de Wildberries"
+    }
+  },
+  {
+    "id": "2026-07-22-zelensky-sacks-ukraine-s-top-army-commander-after-days-of-pr",
+    "date": "2026-07-22",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Zelensky Removes Army Commander After Protests",
+      "de": "Zelensky entlässt den Armeechef nach landesweiten Protesten",
+      "fr": "Remplacement du commandant de l'armée en Ukraine",
+      "es": "Zelensky destituye al comandante del ejército"
+    }
+  },
+  {
     "id": "2026-07-21-yemen-s-houthis-announce-maritime-embargo-on-saudi-arabia",
     "date": "2026-07-21",
     "source": "BBC News",
