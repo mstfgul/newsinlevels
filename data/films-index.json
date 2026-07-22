@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-22-ugetsu-kenji-mizoguchi",
+    "date": "2026-07-22",
+    "director": "Kenji Mizoguchi",
+    "image": "https://image.tmdb.org/t/p/w780/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+    "titles": {
+      "en": "Exploring Ugetsu's Themes",
+      "de": "Ugetsu",
+      "fr": "Ugetsu",
+      "es": "Ugetsu"
+    }
+  },
+  {
     "id": "2026-07-21-a-man-escaped-robert-bresson",
     "date": "2026-07-21",
     "director": "Robert Bresson",

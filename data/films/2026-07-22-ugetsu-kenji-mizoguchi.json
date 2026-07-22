@@ -1,0 +1,1383 @@
+{
+  "id": "2026-07-22-ugetsu-kenji-mizoguchi",
+  "date": "2026-07-22",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/14696"
+  },
+  "originalTitle": "Ugetsu (1953) — Kenji Mizoguchi",
+  "image": "https://image.tmdb.org/t/p/w780/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+  "category": "film",
+  "film": {
+    "director": "Kenji Mizoguchi",
+    "title": "Ugetsu",
+    "year": "1953",
+    "genres": "Fantasy, Drama, Mystery"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Ugetsu",
+        "text": "Ugetsu is a Japanese film. It is from 1953. The director is Kenji Mizoguchi. The film is about two men. They want to earn money. They sell pots to soldiers. One man loves a woman. The woman is mysterious. The men forget their families. They have wives. The wives are sad. The story is about greed and war. The film has ghosts. It shows life in Japan. Ugetsu is famous. Many people like this film. It is very beautiful.",
+        "vocabulary": [
+          {
+            "word": "mysterious",
+            "definition": "strange and not easy to understand"
+          },
+          {
+            "word": "greed",
+            "definition": "wanting a lot of money or things"
+          },
+          {
+            "word": "ghosts",
+            "definition": "spirits of dead people"
+          },
+          {
+            "word": "beautiful",
+            "definition": "very nice to look at"
+          },
+          {
+            "word": "sad",
+            "definition": "unhappy"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the men sell?",
+            "options": [
+              "Pots",
+              "Food",
+              "Clothes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "When is Ugetsu made?",
+            "options": [
+              "1953",
+              "2000",
+              "1940"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the director?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Hayao Miyazaki",
+              "Akira Kurosawa"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Discovering Ugetsu",
+        "text": "Ugetsu is a Japanese film made in 1953. The director Kenji Mizoguchi created this story. It takes place in the 16th century. The film shows two men named Genjuro and Tobei. They sell pots to soldiers for money. They do not listen to warnings. Genjuro wants to be rich and loves a woman. This woman is called Lady Wakasa. Tobei dreams of being a samurai. They forget their wives, Miyagi and Ohama. The film discusses important ideas. It talks about greed, war, and family. Ugetsu also has ghosts and spirits. The visual style is very beautiful. The camera moves slowly. The music is soft and sad. Many people love this film. It is a famous work in Japanese cinema.",
+        "vocabulary": [
+          {
+            "word": "soldiers",
+            "definition": "people who fight in an army"
+          },
+          {
+            "word": "dreams",
+            "definition": "thoughts or wishes when awake or asleep"
+          },
+          {
+            "word": "gentle",
+            "definition": "soft and kind"
+          },
+          {
+            "word": "important",
+            "definition": "very special or necessary"
+          },
+          {
+            "word": "visual",
+            "definition": "related to what you see"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who are Genjuro and Tobei?",
+            "options": [
+              "Soldiers",
+              "Potters",
+              "Samurais"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Genjuro want to be?",
+            "options": [
+              "Rich",
+              "A soldier",
+              "A teacher"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Ugetsu show?",
+            "options": [
+              "A love story",
+              "A comedy",
+              "An action movie"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Exploring Ugetsu's Themes",
+        "text": "Ugetsu is a remarkable Japanese film from 1953, directed by the talented Kenji Mizoguchi. This film is set in the 16th century, during a time of great conflict in Japan, and it tells a powerful story about two men, Genjuro and Tobei, who sell their pottery to soldiers in a nearby village. They ignore warnings about the dangers of seeking wealth and power during war. This pursuit leads to serious consequences for both. Genjuro falls in love with Lady Wakasa, a mysterious woman who seems magical, while Tobei dreams of becoming a samurai, a warrior known for bravery and skill. As they chase their dreams, they forget about their wives, Miyagi and Ohama, who are left to suffer in isolation. Ugetsu explores deep themes like the consequences of war, the dangers of greed, and the importance of family bonds. The film’s beautiful visuals and soft sounds create an emotional atmosphere, allowing viewers to feel the characters' struggles. Mizoguchi's masterful direction has not only captured the public's attention but has also made Ugetsu one of the most important films in Japanese cinema history. Critics appreciate the film for its complex narratives that combine romance, tragedy, and ghostly elements, showing how ambition can lead to loss. The film won the Silver Lion Award at the 1953 Venice Film Festival, cementing its status as a classic. Audiences worldwide have connected with its themes, which reflect on the regrets from the past and the lessons that can be learned from them. In conclusion, Ugetsu stands as a timeless exploration of human emotions and the effects of ambition, family, and war, which continue to resonate today.",
+        "vocabulary": [
+          {
+            "word": "ambition",
+            "definition": "a strong desire to achieve something, usually requiring hard work."
+          },
+          {
+            "word": "regret",
+            "definition": "a feeling of sadness or disappointment about something that happened."
+          },
+          {
+            "word": "consequences",
+            "definition": "the results or effects of an action or decision."
+          },
+          {
+            "word": "visuals",
+            "definition": "the images or scenes seen in a film or art."
+          },
+          {
+            "word": "isolation",
+            "definition": "the state of being separated from others."
+          },
+          {
+            "word": "romance",
+            "definition": "a story or feeling related to love."
+          },
+          {
+            "word": "audiences",
+            "definition": "groups of people who watch or listen to performances or films."
+          },
+          {
+            "word": "tension",
+            "definition": "the feeling of stress or anxiety that builds up."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do Genjuro and Tobei sell in the film?",
+            "options": [
+              "Pottery",
+              "Clothes",
+              "Food"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What award did Ugetsu win in 1953?",
+            "options": [
+              "The Golden Lion Award",
+              "The Silver Lion Award",
+              "The Best Picture Award"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What do the characters ignore while chasing their dreams?",
+            "options": [
+              "Their health",
+              "Warnings about greed",
+              "Laws of the country"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ugetsu: A Tale of Ambition and Regret",
+        "text": "Set in 16th century Japan, 'Ugetsu' delves into the lives of peasants Genjuro and Tobei, whose ambitions lead them to pursue wealth amid warfare. The film portrays a struggle between material desire and familial loyalty, making viewers reflect on the consequences of greed. Mizoguchi employs haunting visuals and exquisite cinematography to convey the film's themes. The ghostly presence of Lady Wakasa symbolizes both temptation and loss, urging the audience to reconsider what truly matters in life. Although the initial moments set a tone of hope and aspiration, the underlying message critiques the pursuit of ambition that neglects loved ones. Critics have praised the movie for its unique blend of fantasy and drama, with Mizoguchi's direction leaving a lasting impact on cinema. The film, having won the Silver Lion Award at the Venice Film Festival, is recognized as a masterpiece that resonates with viewers even today. In this way, 'Ugetsu' serves as a poignant reminder of the dangers associated with losing oneself in the quest for success, ultimately questioning whether the rewards are worth the sacrifices made along the way.",
+        "vocabulary": [
+          {
+            "word": "ambition",
+            "definition": "strong desire to succeed"
+          },
+          {
+            "word": "consequences",
+            "definition": "results of actions"
+          },
+          {
+            "word": "haunting",
+            "definition": "lasting in thoughts or memory"
+          },
+          {
+            "word": "symbolize",
+            "definition": "represent something"
+          },
+          {
+            "word": "neglect",
+            "definition": "to not care for something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do Genjuro and Tobei want to achieve?",
+            "options": [
+              "Wealth and success",
+              "Peace and tranquility",
+              "Fame and fortune"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the ghost symbolize in the film?",
+            "options": [
+              "Hope",
+              "Temptation",
+              "Joy"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What award did 'Ugetsu' win?",
+            "options": [
+              "Golden Globe",
+              "Silver Lion",
+              "Academy Award"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ugetsu: Illusions and the Human Condition",
+        "text": "'Ugetsu' stands as a haunting exploration of desire and disillusionment, set against the backdrop of Japan's tumultuous 16th century. Kenji Mizoguchi crafts a film steeped in rich visual poetry, where every frame illustrates the rift between ambition and responsibility. At the core of the narrative lies the character of Genjuro, whose quest for wealth not only leads him to encounter the ethereal Lady Wakasa but also to forsake the tangible love of his wife, Miyagi. The director utilizes light and shadow to evoke an atmosphere thick with tension, while the soundtrack underscores the emotional weight of each decision. Critics have remarked on the film's intricate commentary on patriarchy and the societal pressures that compel men to forgo familial ties in favour of personal gain. Given these thematic layers, 'Ugetsu' transcends the mere telling of a ghost story; it delves into the complexities of human nature and the consequences of unchecked ambition. The accolades garnered by the film are indicative of its universal relevance and enduring impact, marking it as an essential work in the canon of Japanese cinema.",
+        "vocabulary": [
+          {
+            "word": "disillusionment",
+            "definition": "loss of belief or innocence"
+          },
+          {
+            "word": "forgo",
+            "definition": "to decide not to do or have something"
+          },
+          {
+            "word": "ethereal",
+            "definition": "extremely delicate and light"
+          },
+          {
+            "word": "undercurrents",
+            "definition": "hidden meanings or feelings"
+          },
+          {
+            "word": "transcends",
+            "definition": "goes beyond the limits"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Genjuro forsake in his quest for wealth?",
+            "options": [
+              "Friendship",
+              "Family",
+              "Power"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Mizoguchi use to create a tense atmosphere?",
+            "options": [
+              "Colorful costumes",
+              "Light and shadow",
+              "Fast-paced editing"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is a major theme of the film?",
+            "options": [
+              "Joy of friendship",
+              "Consequences of ambition",
+              "Nature's beauty"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ugetsu: A Masterclass in Cinematic Storytelling",
+        "text": "Kenji Mizoguchi's 'Ugetsu' not only encapsulates the essence of ghostly intrigue but also serves as a profound meditation on the folly of ambition amidst chaos. Set in the sociopolitical landscape of 16th century Japan, it deftly navigates the interplay of desire and moral compromise through its protagonists, Genjuro and Tobei. The dichotomy of their journeys — one seduced by the supernatural allure of Lady Wakasa, the other ensnared by the samurai ideal — exemplifies the tragic consequences of neglecting familial bonds. Mizoguchi employs a visual language that is meticulously crafted, with chiaroscuro lighting amplifying the emotional gravitas of the narrative. Furthermore, the use of fog and natural landscapes becomes a visual metaphor for the characters’ disconnection from reality, lending an almost surreal quality to their plight. Notably, the film is enriched with deeper socio-historical commentaries; it echoes the harsh realities faced by women during wartime, positioning itself within the feminist discourse. In juxtaposing the ethereal and earthly, 'Ugetsu' transcends mere narrative, emerging as a cinematic artifact that challenges viewers to confront the intricate tapestry of human emotions and societal constructs, a testament to Mizoguchi's indelible mark on the history of cinema.",
+        "vocabulary": [
+          {
+            "word": "folly",
+            "definition": "foolishness or lack of good sense"
+          },
+          {
+            "word": "interplay",
+            "definition": "the way in which two or more things influence each other"
+          },
+          {
+            "word": "chiaroscuro",
+            "definition": "the use of light and shadow in art"
+          },
+          {
+            "word": "juxtaposing",
+            "definition": "placing things side by side for comparison"
+          },
+          {
+            "word": "indelible",
+            "definition": "making a lasting mark or impression"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Mizoguchi explore in 'Ugetsu'?",
+            "options": [
+              "Comedy and romance",
+              "Ambition and neglect",
+              "Adventure and travel"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What cinematic technique is prominently used in the film?",
+            "options": [
+              "Fast cuts",
+              "Chiaroscuro lighting",
+              "Bright colors"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How does the film position itself within feminist discourse?",
+            "options": [
+              "By ignoring women’s roles",
+              "By echoing wartime realities faced by women",
+              "By focusing solely on male characters"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Ugetsu",
+        "text": "Ugetsu ist ein Film aus Japan. Er ist von Kenji Mizoguchi. Der Film ist aus dem Jahr 1953. Die Geschichte spielt im 16. Jahrhundert. Zwei Männer verkaufen Töpfe. Sie wollen Geld verdienen. Aber das ist gefährlich. Es gibt einen Geist im Film. Der Geist ist eine Frau. Die Musik im Film ist wichtig. Die Bilder sind schön und mystisch. Ugetsu ist ein berühmter Film. Er hat viele Preise gewonnen. Viele Leute finden den Film tiefgründig.",
+        "vocabulary": [
+          {
+            "word": "Film",
+            "definition": "Eine Geschichte in Bildern."
+          },
+          {
+            "word": "Gesicht",
+            "definition": "Eine Person mit besonderen Kräften."
+          },
+          {
+            "word": "Gefahr",
+            "definition": "Eine Situation, die nicht sicher ist."
+          },
+          {
+            "word": "Licht",
+            "definition": "Helligkeit, die man sieht."
+          },
+          {
+            "word": "Musik",
+            "definition": "Geräusche, die man hört und mag."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann ist der Film Ugetsu?",
+            "options": [
+              "1953",
+              "1960",
+              "1945"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer macht den Film?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Akira Kurosawa",
+              "Hayao Miyazaki"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was wollen die Männer verkaufen?",
+            "options": [
+              "Töpfe",
+              "Kleider",
+              "Schuhe"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ugetsu",
+        "text": "Ugetsu ist ein japanischer Film aus dem Jahr 1953. Der Film zeigt die Geschichte von zwei Männern. Genjuro und Tobei verkaufen Töpfe. Sie wollen reich werden, aber das ist gefährlich. Es gibt eine warnende Person, die ihnen sagt, dass sie aufpassen sollen. Im Film sieht man eine geheimnisvolle Frau. Sie hat große Macht. Die Bilder sind schön, besonders die Landschaften. Die Musik unterstützt die Stimmung. Ugetsu ist ein Fantasy-Drama. Der Film hat viele Preise gewonnen, unter anderem den Silbernen Löwen in Venedig. Kritiker finden ihn tiefgründig und besonders. Er spricht über Krieg, Gier und das Vergessen. Das ist wichtig für alle Menschen. Viele Menschen denken darüber nach, was es bedeutet.",
+        "vocabulary": [
+          {
+            "word": "Geheimnisvoll",
+            "definition": "Rätselhaft und nicht leicht zu verstehen."
+          },
+          {
+            "word": "Warnen",
+            "definition": "Jemandem sagen, dass etwas nicht gut ist."
+          },
+          {
+            "word": "Stimmung",
+            "definition": "Die Gefühle, die man hat."
+          },
+          {
+            "word": "Landschaften",
+            "definition": "Schöne Bilder von der Natur."
+          },
+          {
+            "word": "Kritiker",
+            "definition": "Personen, die Filme bewerten."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was wollen die Männer in Ugetsu?",
+            "options": [
+              "Reich werden",
+              "Kampf gewinnen",
+              "Essen verkaufen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist die Frau im Film?",
+            "options": [
+              "Eine Hexe",
+              "Der Geist",
+              "Eine Soldatin"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welchen Preis hat der Film gewonnen?",
+            "options": [
+              "Silberner Löwe",
+              "Goldene Palme",
+              "Oscar"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ugetsu",
+        "text": "Ugetsu ist ein Meisterwerk des japanischen Films, das 1953 von Kenji Mizoguchi produziert wurde. Die Handlung spielt im 16. Jahrhundert in Japan, einer Zeit des Bürgerkriegs, die das Land stark beeinflusst hat. Der Film folgt zwei Bauern, Genjuro und Tobei, die Töpfe verkaufen wollen, aber sie ignorieren die dringende Warnung eines Weisen über die Gefahren des Krieges und das Streben nach Reichtum. Genjuro wird von der schönen und geheimnisvollen Lady Wakasa verführt, was eine zentrale Rolle im Film spielt. Diese Beziehung zeigt die Themen Liebe und Verlust auf tiefgreifende Weise und beleuchtet, wie Gier Menschen dazu bringt, wichtige Dinge zu opfern. Besonders eindrucksvoll ist die Bildsprache, die mit ausgeklügelter Lichtführung und beeindruckender Kameraführung das Stimmungsbild unterstreicht. Die Musik verstärkt die Emotionen und trägt zur mystischen Atmosphäre bei. Ugetsu wurde international anerkannt und gewann den Silbernen Löwen bei den Filmfestspielen von Venedig. Kritiker interpretieren den Film als scharfe Kritik an Militarismus und patriarchalen Strukturen, die in der damaligen Gesellschaft verbreitet waren. Genjuro und Tobei riskieren, alles zu verlieren, nicht nur für sich selbst, sondern auch für ihre Frauen, Miyagi und Ohama. Mizoguchi wollte zeigen, dass Gier und das Streben nach Macht tragische Konsequenzen haben können, die das Leben aller Betroffenen nachhaltig beeinflussen. Der Film bleibt ein zeitloses Beispiel dafür, wie menschliche Schwächen zu großen Tragödien führen können.",
+        "vocabulary": [
+          {
+            "word": "Bürgerkrieg",
+            "definition": "ein Krieg innerhalb eines Landes, in dem verschiedene Gruppen um Macht kämpfen."
+          },
+          {
+            "word": "verführen",
+            "definition": "jemanden dazu bringen, etwas zu tun, oft durch Charme oder Schönheit."
+          },
+          {
+            "word": "mystisch",
+            "definition": "etwas Geheimnisvolles oder Übernatürliches, das oft mit Religion oder Spiritualität verbunden ist."
+          },
+          {
+            "word": "Kameraführung",
+            "definition": "die Art und Weise, wie die Kamera im Film bewegt oder positioniert wird, um die Geschichte darzustellen."
+          },
+          {
+            "word": "patriarchal",
+            "definition": "eine Gesellschaft oder Kultur, in der Männer die Kontrolle und Macht haben."
+          },
+          {
+            "word": "Einfluss",
+            "definition": "die Fähigkeit, das Verhalten oder die Meinungen von Menschen zu verändern."
+          },
+          {
+            "word": "tragisch",
+            "definition": "etwas, das sehr traurig oder unglücklich endet."
+          },
+          {
+            "word": "Konsequenzen",
+            "definition": "Folgen oder Ergebnisse einer Handlung oder Entscheidung."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat Ugetsu produziert?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Masayuki Mori",
+              "Martha P. Nochimson"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was war ein zentrales Thema des Films?",
+            "options": [
+              "Kriegsgefahren",
+              "Kochen",
+              "Sport"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo gewann der Film den Silbernen Löwen?",
+            "options": [
+              "Filmfestspiele von Cannes",
+              "Filmfestspiele von Venedig",
+              "Filmfestspiele von Berlin"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ugetsu – Ein Meisterwerk der japanischen Filmkunst",
+        "text": "Der Film \"Ugetsu\", inszeniert von Kenji Mizoguchi im Jahr 1953, bietet einen tiefen Einblick in die Gefahren von Gier und Militarismus während der japanischen Bürgerkriege des 16. Jahrhunderts. Die beiden Protagonisten, Genjuro und Tobei, streben danach, Reichtum und Ruhm zu erlangen, ignorieren dabei jedoch die Warnungen eines Weisen. Ihre unaufhörliche Suche führt sie zu Tragödien, die nicht nur ihr Leben, sondern auch die ihrer Frauen, Miyagi und Ohama, bedrohen. \nMizoguchis Meisterwerk kombiniert Elemente des Jidaigeki mit einer Geistergeschichte und schafft es so, den Zuschauer in eine Welt voller Spannung und tiefsinniger Reflexionen über das menschliche Dasein zu entführen. Der Einsatz von Licht und Schatten, die melancholische Musik sowie die poetische Bildsprache verstärken die emotionally charged Atmosphäre des Films. Darüber hinaus zeigt die Beziehung zwischen Genjuro und der mysteriösen Lady Wakasa, wie die Suche nach Schönem und Mächtigem oft zur Selbstzerstörung führt. \nDie Auszeichnung mit dem Silbernen Löwen beim Filmfestival von Venedig verdeutlicht die große Bedeutung des Films in der Geschichte des japanischen Kinos. \"Ugetsu\" bleibt nicht nur ein visuelles Erlebnis, sondern regt auch zu philosophischen Überlegungen über den Preis des menschlichen Verlangens an.",
+        "vocabulary": [
+          {
+            "word": "Gefahr",
+            "definition": "etwas, das gefährlich ist"
+          },
+          {
+            "word": "Künstler",
+            "definition": "jemand, der Kunst macht"
+          },
+          {
+            "word": "Suche",
+            "definition": "nach etwas suchen oder etwas finden wollen"
+          },
+          {
+            "word": "auszeichnen",
+            "definition": "einen Preis geben"
+          },
+          {
+            "word": "Erlebnis",
+            "definition": "etwas, das man erlebt"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Regisseur des Films?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Akira Kurosawa",
+              "Hayao Miyazaki"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Hauptthema behandelt der Film?",
+            "options": [
+              "Sport und Wettkampf",
+              "Gier und Militarismus",
+              "Freundschaft und Loyalität"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat den Film ausgezeichnet?",
+            "options": [
+              "Den Goldenen Bären",
+              "Den Silbernen Löwen",
+              "Den Oscar"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ugetsu – Reflexionen über menschliches Verlangen und Tragik",
+        "text": "Im Jahr 1953 präsentierte der Meisterregisseur Kenji Mizoguchi \"Ugetsu\", ein herausragendes Beispiel für das japanische Kino, das tiefere Themen wie Gier, Militarismus und familiäre Verantwortung behandelt. Das Drama entführt die Zuschauer in die tumultuösen Zeiten der Azuchi-Momoyama-Periode, in der der Protagonist Genjuro und sein Freund Tobei versuchen, am Krieg zu profitieren, ohne die moralischen Konsequenzen ihrer Handlung zu bedenken. Durch eine Kombination von jidaigeki-Elementen und einer Geistergeschichte gelingt es Mizoguchi, die emotionale Tiefe und Komplexität der Charaktere zu beleuchten. \nEin zentrales Thema des Films ist die Tragik von Genjuros Beziehung zur geheimnisvollen Lady Wakasa. Ihre Verbindung symbolisiert sowohl das Streben nach unerreichbarem Glück als auch die Gefahren, die sich aus einer solchen Besessenheit ergeben können. Die herausragende Bildsprache, unterstützt durch einen hypnotisierenden Soundtrack und atmosphärische Lichtsetzungen, lässt die traumartige Qualität der Erzählung lebendig werden. Diese stilistischen Mittel verstärken das Gefühl von Entfremdung und Verlust, das den gesamten Film durchzieht. \"Ugetsu\" gilt als ein Meisterwerk, das sowohl im historischen als auch im zeitgenössischen Kontext bedeutend bleibt.",
+        "vocabulary": [
+          {
+            "word": "tiefere",
+            "definition": "wichtige oder grundlegende"
+          },
+          {
+            "word": "Leidenschaft",
+            "definition": "starke emotionale Zuneigung"
+          },
+          {
+            "word": "Entfremdung",
+            "definition": "das Gefühl des Getrenntseins"
+          },
+          {
+            "word": "moralisch",
+            "definition": "die Unterscheidung zwischen Gut und Böse"
+          },
+          {
+            "word": "hypnotisierend",
+            "definition": "sehr fesselnd oder anziehend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "In welcher Zeit spielt der Film?",
+            "options": [
+              "Der Edo-Zeit",
+              "Der Azuchi-Momoyama-Periode",
+              "Der Meiji-Zeit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was für eine Art von Geschichte kombiniert der Film?",
+            "options": [
+              "Komödie und Drama",
+              "Jidaigeki und Geistergeschichte",
+              "Science-Fiction und Fantasy"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie geht es Genjuro in der Geschichte?",
+            "options": [
+              "Er wird glücklich",
+              "Er vernachlässigt seine Familie",
+              "Er wird ein Krieger"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ugetsu – Ein kunstvoller Kommentar zur menschlichen Hybris",
+        "text": "Kenji Mizoguchis \"Ugetsu\" aus dem Jahr 1953 stellt eine eindringliche Untersuchung der zwischenmenschlichen Beziehungen und ihrer Fragilität dar, die im Spannungsfeld von Gier, Militarismus und Emotionen angesiedelt ist. Indem er die materiellen und spirituellen Bestrebungen der Protagonisten Genjuro und Tobei thematisiert, reflektiert der Film über die Gefahren eines Wunsches, der über das menschliche Maß hinausgeht. Die subtile Verwebung von Wehmut, Trauer und unstillbarem Streben nach dem Unbekannten spiegelt sich nicht nur im Umgang der Charaktere mit ihren Frauen wider, sondern auch in der Repräsentation der Geister, die in dieser Geschichte als Metaphern für verlorene Werte fungieren. \nDer formale Einsatz von Licht und Schatten, gepaart mit einer hypnotisierenden Klanglandschaft, verstärkt die Atmosphäre des Unheimlichen und setzt den Zuschauer in einen transzendentalen Zustand, der das Bedürfnis, die Narration begreifen zu wollen, zugleich anregt und frustriert. Kritiker betonen, dass Mizoguchi durch die Verschmelzung von Elementen traditioneller japanischer Erzählkunst mit modernen filmischen Techniken einen zeitlosen Kommentar zur menschlichen Hybris geleistet hat, der sowohl historische als auch universelle Verwirrung thematisiert. Von der mit dem Silbernen Löwen ausgezeichneten Inszenierung bis hin zu den vielschichtigen Charakterstudien ist \"Ugetsu\" nicht nur ein cineastisches Meisterwerk, sondern ein tiefgründiges Werk, das auch heute noch zu denken gibt und zur Debatte über die menschliche Natur und ihre Vergänglichkeit auffordert.",
+        "vocabulary": [
+          {
+            "word": "eindringlich",
+            "definition": "mit starkem Eindruck"
+          },
+          {
+            "word": "Fragilität",
+            "definition": "Zartheit oder Zerbrechlichkeit"
+          },
+          {
+            "word": "subtil",
+            "definition": "fein und zurückhaltend"
+          },
+          {
+            "word": "verweben",
+            "definition": "miteinander verbinden"
+          },
+          {
+            "word": "transzendental",
+            "definition": "über das Normale hinausgehend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was reflektiert der Film über den menschlichen Wunsch?",
+            "options": [
+              "Er ist immer positiv",
+              "Er kann gefährlich werden",
+              "Er hat keine Bedeutung"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie wird die Beziehung zu Geistern im Film dargestellt?",
+            "options": [
+              "Als erfreulich und positiv",
+              "Als Metapher für verlorene Werte",
+              "Als uninteressant"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat der Film gewonnen?",
+            "options": [
+              "Den Silbernen Löwen",
+              "Den Goldenen Löwen",
+              "Den Blauen Löwen"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Ugetsu",
+        "text": "Ugetsu est un film japonais. Il est fait par Kenji Mizoguchi. Le film sort en 1953. L'histoire se passe au Japon. Deux paysans veulent vendre des pots. Ils rencontrent des soldats. Genjuro veut de l'argent et une femme. Sa femme est triste. Tobei veut être un samouraï. Il va oublier sa femme. Le film parle de l'amour et de la famille. Les images sont très belles. La musique est émotive. Ugetsu est un film important dans l'histoire du cinéma. Il a gagné des prix. C'est un film à voir.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "Une œuvre de cinema."
+          },
+          {
+            "word": "paysans",
+            "definition": "Des personnes qui vivent à la campagne."
+          },
+          {
+            "word": "amour",
+            "definition": "Un sentiment fort pour quelqu'un."
+          },
+          {
+            "word": "famille",
+            "definition": "Un groupe de personnes liées."
+          },
+          {
+            "word": "priser",
+            "definition": "Gagner ou obtenir quelque chose."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui fait le film Ugetsu ?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Tobei",
+              "Genjuro"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "En quelle année Ugetsu sort-il ?",
+            "options": [
+              "1950",
+              "1953",
+              "1960"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel sentiment le film parle-t-il ?",
+            "options": [
+              "La tristesse",
+              "L'amour",
+              "La colère"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ugetsu",
+        "text": "Ugetsu est un film japonais de 1953. Kenji Mizoguchi est le directeur. Ce film parle de la vie des paysans. Genjuro et Tobei veulent vendre des pots. Ils rencontrent des soldats dans un village. Genjuro veut devenir riche et il aime une femme mystérieuse. Sa femme s'appelle Miyagi. Elle est triste parce que Genjuro la laisse. Tobei veut devenir samouraï. Il oublie aussi sa femme, Ohama. Le film montre des thèmes importants comme l'amour, la guerre et la famille. Il y a des moments de beauté et de tristesse. La musique et les images créent une atmosphère particulière. Ugetsu a gagné des prix importants dans le monde du cinéma. C'est un film qui mérite d'être vu.",
+        "vocabulary": [
+          {
+            "word": "directeur",
+            "definition": "La personne qui fait un film."
+          },
+          {
+            "word": "mystérieux",
+            "definition": "Quelque chose qu'on ne comprend pas."
+          },
+          {
+            "word": "thèmes",
+            "definition": "Des idées importantes dans un texte ou un film."
+          },
+          {
+            "word": "atmosphère",
+            "definition": "Le sentiment général d'un lieu."
+          },
+          {
+            "word": "prix",
+            "definition": "Une récompense pour quelque chose de bien."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le nom du réalisateur d'Ugetsu ?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Genjuro",
+              "Miyagi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui est la femme de Genjuro ?",
+            "options": [
+              "Miyagi",
+              "Ohama",
+              "Wakasa"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Le film Ugetsu parle de quels thèmes ?",
+            "options": [
+              "L'amour et la guerre",
+              "La science et l'histoire",
+              "Les animaux et la nature"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ugetsu",
+        "text": "Ugetsu est un film japonais réalisé par Kenji Mizoguchi en 1953. Ce film se déroule au Japon, durant une période de guerre, plus précisément à l'époque d'Azuchi–Momoyama. Les personnages principaux sont Genjuro et Tobei. Genjuro est un potier qui souhaite gagner de l'argent en vendant des pots. Cependant, il a aussi été attiré par une femme mystérieuse, Lady Wakasa. En même temps, sa femme, Miyagi, se sent abandonnée et désespérée. Tobei rêve de devenir samouraï, ce qui cause beaucoup de problèmes pour sa femme, Ohama, qui ressent aussi une grande solitude.\n\nUgetsu aborde des thèmes importants comme l'amour, la guerre et les conséquences des choix. Mizoguchi utilise des images splendides et une musique émotive pour créer une atmosphère unique. Le film a reçu le prix du Lion d'argent à Venise et est souvent considéré comme un chef-d'œuvre du cinéma japonais. En outre, il critique fortement la société patriarcale, montrant comment les hommes négligent leurs familles pour poursuivre leurs ambitions.\n\nSi les personnages avaient réfléchi à leurs choix, ils auraient pu préserver leurs relations. Ugetsu invite donc les spectateurs à réfléchir sur les effets de l'ambition et de l'oubli sur les relations humaines. La fin tragique montre que la quête de richesses peut mener à la destruction personnelle et familiale, incarnant le message de Mizoguchi sur l'impact négatif de la guerre et de la cupidité.",
+        "vocabulary": [
+          {
+            "word": "patriarcale",
+            "definition": "relatif à une société où les hommes ont plus de pouvoir que les femmes."
+          },
+          {
+            "word": "splendides",
+            "definition": "très belles, magnifiques."
+          },
+          {
+            "word": "ambition",
+            "definition": "désir intense de réussir ou de réaliser quelque chose."
+          },
+          {
+            "word": "mystérieuse",
+            "definition": "qui est difficile à comprendre ou à expliquer."
+          },
+          {
+            "word": "tragique",
+            "definition": "qui cause de la tristesse ou qui a un mauvais dénouement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le métier de Genjuro ?",
+            "options": [
+              "C'est un soldat.",
+              "C'est un potier.",
+              "C'est un samouraï."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi Miyagi se sent-elle abandonnée ?",
+            "options": [
+              "Elle a une relation secrète.",
+              "Genjuro s'intéresse à Lady Wakasa.",
+              "Tobei rêve de devenir samouraï."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix le film a-t-il reçu à Venise ?",
+            "options": [
+              "Le Lion d'or.",
+              "Le Lion d'argent.",
+              "Le Grand Prix."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ugetsu : Un Chef-d'Oeuvre du Cinéma Japonais",
+        "text": "Ugetsu, réalisé par Kenji Mizoguchi en 1953, est un film qui plonge le spectateur dans le Japon du 16ème siècle, durant une période de guerre civile. Le récit suit Genjuro et Tobei, deux paysans dont les aspirations d'enrichissement les mènent à des choix périlleux. Le film explore des thèmes profonds tels que la cupidité, la vanité des hommes et les conséquences tragiques de la guerre. La mise en scène de Mizoguchi est notable pour sa capacité à créer une atmosphère de rêve et de fatalisme, amplifiée par des éléments visuels, tels que les brumes sur le lac Biwa. Les choix de lumière et de composition ne font qu’ajouter à la richesse de l'œuvre. Avec un rythme contemplatif et une bande sonore évocatrice, le film séduit et interpelle. Ugetsu a remporté le Lion d'Argent au Festival de Venise et est souvent considéré comme un chef-d'œuvre du cinéma, tant au Japon qu'à l'étranger. Cette œuvre invite à réfléchir sur la condition humaine, la nature des relations et le prix de nos désirs. Elle est essentielle pour comprendre les nuances culturelles et sociales de son époque.",
+        "vocabulary": [
+          {
+            "word": "chef-d'œuvre",
+            "definition": "une œuvre d'art très célèbre et réussie"
+          },
+          {
+            "word": "aspirations",
+            "definition": "des désirs ou des objectifs importants"
+          },
+          {
+            "word": "contemplatif",
+            "definition": "qui pousse à réfléchir ou à méditer"
+          },
+          {
+            "word": "atmosphère",
+            "definition": "l'ambiance d'un lieu ou d'une œuvre"
+          },
+          {
+            "word": "tragiques",
+            "definition": "qui causent de la tristesse ou de la douleur"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur d'Ugetsu?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Hayao Miyazaki",
+              "Akira Kurosawa"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel prix a gagné Ugetsu au Festival de Venise?",
+            "options": [
+              "Lion d'Or",
+              "Lion d'Argent",
+              "Oscar"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est un des thèmes principaux du film?",
+            "options": [
+              "La comédie",
+              "La cupidité",
+              "L'amitié"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ugetsu : Une Réflexion sur les Illusions et les Conséquences",
+        "text": "Réalisé par Kenji Mizoguchi en 1953, Ugetsu transcende le simple récit d'époque pour devenir une méditation sur les illusions et les travers de l'humanité. En guise de récit, l'intrigue centre son attention sur deux paysans, Genjuro et Tobei, dont les ambitions de richesse les détachent de leurs obligations familiales. Ce film aborde des problématiques complexes telles que la cupidité, la vanité et l'impact destructeur de la guerre. Ainsi, Mizoguchi s'attache à illustrer comment la quête des désirs personnels peut mener à des résultats désastreux. Sur le plan visuel, l'œuvre se distingue par son utilisation poétique de la lumière et des paysages -- par exemple, la brume mystique qui enveloppe le lac Biwa. Les séquences contemplatives, juxtaposées à une bande sonore évocatrice, créent une atmosphère à la fois tragique et mélancolique. À travers Ugetsu, Mizoguchi ne se contente pas de raconter une histoire : il interroge la mémoire collective et les conséquences des choix humains, ouvrant ainsi la voie à une réflexion sur le patrimoine culturel et sur les luttes féministes dans une société patriarcale. Cette dualité du récit et de la réflexion en fait un chef-d'œuvre intemporel, un pilier du cinéma japonais.",
+        "vocabulary": [
+          {
+            "word": "transcende",
+            "definition": "dépasse une limite ou un niveau"
+          },
+          {
+            "word": "méditation",
+            "definition": "une réflexion profonde sur un sujet"
+          },
+          {
+            "word": "obligations",
+            "definition": "des engagements ou des responsabilités"
+          },
+          {
+            "word": "poétique",
+            "definition": "qui évoque la beauté ou les émotions"
+          },
+          {
+            "word": "mélancolique",
+            "definition": "qui exprime une tristesse réfléchie"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le sujet principal d'Ugetsu?",
+            "options": [
+              "Une quête de richesse",
+              "Une histoire d'amour",
+              "Une comédie dramatique"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment Mizoguchi présente-t-il les thèmes du film?",
+            "options": [
+              "De manière humoristique",
+              "Avec des réflexions profondes",
+              "Sans profondeur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel élément visuel caractérise Ugetsu?",
+            "options": [
+              "Des couleurs vives",
+              "La brume sur le lac Biwa",
+              "Des scènes d'action"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ugetsu : Une Exploration des Illusions et des Tragédies Humaines",
+        "text": "À travers Ugetsu, Kenji Mizoguchi ne se limite pas à une simple fable tragique ; il convoque les échos des luttes humaines avec une maîtrise formelle inégalée. Le film, ancré dans le Japon tumultueux du 16ème siècle, illustre de manière poignante les conséquences d'une quête d'aspirations superficielles, telles que la richesse ou le statut social, qui submergent les protagonistes, Genjuro et Tobei, au détriment de leur existence familiale. Par cette approche, Mizoguchi pose la question cruciale du rapport entre l'ambition individuelle et le collectif. L'usage de la lumière devient, par ailleurs, un personnage à part entière, dépeignant une atmosphère tantôt spectrale, tantôt mélancolique, où chaque ombre devient le reflet des tourments intérieurs des personnages. Ce qui frappe dans cette œuvre, c'est la façon dont Mizoguchi sculpte chaque séquence avec une minutie quasi chorégraphique, rendant l'expérience cinématographique non seulement immersive mais aussi profondément réflexive. À travers l'opposition entre les désirs des hommes et les tragédies des femmes, le film nous pousse à un examen critique des dynamiques patriarcales, transformant ainsi Ugetsu en une œuvre d'art résolument féministe. Cette dualité du récit et de la forme en fait un chef-d'œuvre intemporel, dont l'impact transcende les frontières culturelles et temporelles, résonnant encore aujourd'hui dans nos esprits contemporains.",
+        "vocabulary": [
+          {
+            "word": "fable",
+            "definition": "un récit à but moral ou éducatif"
+          },
+          {
+            "word": "poignant",
+            "definition": "qui éveille de fortes émotions"
+          },
+          {
+            "word": "submergent",
+            "definition": "emplissent au-delà de la capacité"
+          },
+          {
+            "word": "spectrale",
+            "definition": "relatif à un spectre ou un fantôme"
+          },
+          {
+            "word": "sculpte",
+            "definition": "forme ou modèle quelque chose avec précision"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Comment Mizoguchi présente-t-il la quête des personnages?",
+            "options": [
+              "Comme tragique et mélodramatique",
+              "Comme superficielle et destructrice",
+              "Comme humoristique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel rôle joue la lumière dans Ugetsu?",
+            "options": [
+              "Elle crée une atmosphère lumineuse",
+              "Elle est un personnage à part entière",
+              "Elle est toujours sombre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "En quoi Ugetsu est-il considéré comme féministe?",
+            "options": [
+              "Par l'étude des luttes masculines",
+              "Par la critique des dynamiques patriarcales",
+              "Par une approche humoristique"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Ugetsu",
+        "text": "Ugetsu es una película japonesa muy interesante. El director es Kenji Mizoguchi. La historia ocurre en Japón, en el siglo dieciseis. Hay dos hombres, Genjuro y Tobei. Ellos venden cosas a los soldados que pasan por su pueblo. Genjuro quiere dinero y fama. Tobei quiere ser un valiente samurái. Las esposas de los hombres son Miyagi y Ohama. La película habla de la familia. También habla de la guerra y sus consecuencias. Ugetsu es famosa en el mundo por su historia. Tiene elementos de fantasía, drama y misterio. La película muestra cómo la guerra afecta a las personas, especialmente a las mujeres.",
+        "vocabulary": [
+          {
+            "word": "interesante",
+            "definition": "que llama la atención"
+          },
+          {
+            "word": "valiente",
+            "definition": "que no tiene miedo"
+          },
+          {
+            "word": "consecuencia",
+            "definition": "resultado de una acción"
+          },
+          {
+            "word": "mujeres",
+            "definition": "femenino de hombres"
+          },
+          {
+            "word": "historia",
+            "definition": "narración de eventos"
+          },
+          {
+            "word": "misterio",
+            "definition": "cosa que no se entiende"
+          },
+          {
+            "word": "fantasía",
+            "definition": "realidad diferente de la vida"
+          },
+          {
+            "word": "afectar",
+            "definition": "influenciar a alguien o algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿En qué siglo ocurre la historia?",
+            "options": [
+              "Siglo diecisiete",
+              "Siglo dieciséis",
+              "Siglo diecinueve"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién es el director de la película?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Tobei",
+              "Miyagi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué quiere Genjuro?",
+            "options": [
+              "Dinero y fama",
+              "Una casa",
+              "Ser un samurái"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ugetsu",
+        "text": "Ugetsu es una película japonesa de 1953. El director se llama Kenji Mizoguchi. La película ocurre en el siglo XVI, en Japón, durante una época de guerra civil. Genjuro y Tobei son dos hombres que venden cerámica en su pueblo. Ellos ignoran una advertencia de un sabio sobre la guerra. Genjuro quiere ser rico y conocer a la dama Wakasa, que es un espíritu. Tobei sueña con ser un samurái y ser valiente. Sus esposas son Miyagi y Ohama. La historia explora temas como la familia, la guerra, el deseo y la ambición de los hombres. Ugetsu es un clásico del cine japonés. Es famoso por su estilo visual y sus mensajes profundos. La película ganó premios importantes en festivales de cine, incluyendo el León de Plata en Venecia. Ugetsu conecta con el público porque refleja la tristeza de la guerra y las pérdidas familiares.",
+        "vocabulary": [
+          {
+            "word": "sabio",
+            "definition": "una persona con mucha experiencia y conocimiento"
+          },
+          {
+            "word": "dama",
+            "definition": "una mujer noble o importante"
+          },
+          {
+            "word": "espíritu",
+            "definition": "la fuerza o esencia de una persona, a veces en forma de fantasma"
+          },
+          {
+            "word": "pueblo",
+            "definition": "un lugar donde vive un grupo de personas, más pequeño que una ciudad"
+          },
+          {
+            "word": "valiente",
+            "definition": "una persona que enfrenta el peligro con coraje"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el director de Ugetsu?",
+            "options": [
+              "Kenji Mizoguchi",
+              "Masayuki Mori",
+              "Ueda Akinari"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué sueña Tobei con ser?",
+            "options": [
+              "un comerciante",
+              "un samurái",
+              "un sabio"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el tema central de la película?",
+            "options": [
+              "la guerra y la ambición",
+              "la felicidad y el amor",
+              "la naturaleza y los animales"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ugetsu",
+        "text": "Ugetsu, dirigida por Kenji Mizoguchi en 1953, es una obra maestra del cine japonés. La película se ambienta en el siglo XVI, durante una época de guerra civil en Japón. Esto significa que los personajes enfrentan no solo amenazas externas, sino también conflictos internos. Dos hombres, Genjuro y Tobei, deciden vender sus productos a soldados, a pesar de las graves advertencias sobre los peligros de la guerra. Genjuro desea riqueza y su ambición lo ciega; se siente atraído por la enigmática dama Wakasa, que representa tanto la belleza como la tragedia. Tobei, por otro lado, aspira a convertirse en un samurái, ignorando el costo emocional que esto puede traer a su esposa, Ohama.\n\nA través de estos personajes, la película refleja las complejidades de la ambición y el impacto en la familia. La cinematografía de Ugetsu es notable; Mizoguchi utiliza imágenes poéticas que crean una atmósfera enigmática y melancólica. Muchos críticos opinan que con Ugetsu, Mizoguchi critica la vanidad masculina que lleva a los hombres a olvidar su familia y su humanidad. La película también presenta fuertes elementos de fantasía y misterio, que complementan su narrativa trágica sobre las consecuencias de la guerra y la desilusión. Este filme ha influido en el cine mundial y es considerado un hito importante en la historia del cine, con temas que aún resuenan en la sociedad contemporánea.",
+        "vocabulary": [
+          {
+            "word": "ambición",
+            "definition": "Deseo de obtener poder, riqueza o éxito."
+          },
+          {
+            "word": "melancólica",
+            "definition": "Sentimiento de tristeza o nostalgia."
+          },
+          {
+            "word": "misterio",
+            "definition": "Algo que no se entiende completamente y que despierta curiosidad."
+          },
+          {
+            "word": "vanidad",
+            "definition": "Exceso de orgullo por uno mismo."
+          },
+          {
+            "word": "reflejar",
+            "definition": "Mostrarse o manifestarse; ser un espejo de algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿En qué siglo se ambienta la película Ugetsu?",
+            "options": [
+              "Siglo XVII",
+              "Siglo XVI",
+              "Siglo XV"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué desea Genjuro a lo largo de la película?",
+            "options": [
+              "Poder político",
+              "Riqueza",
+              "Fama"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es uno de los temas principales de Ugetsu?",
+            "options": [
+              "La amistad",
+              "La ambición",
+              "La ciencia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ugetsu: Un viaje de ambición y fantasía",
+        "text": "Ugetsu es una película dirigida por Kenji Mizoguchi que se sitúa en el turbulento Japón del siglo XVI. La historia comienza con dos campesinos, Genjuro y Tobei, que intentan vender sus cerámicas, a pesar de la advertencia de un sabio local. Esta decisión impulsiva refleja un deseo de prosperidad que, sin embargo, plantea importantes preguntas sobre la avaricia y las consecuencias de las decisiones humanas. A medida que Genjuro se enamora de la misteriosa Lady Wakasa, la película explora temas como el arrepentimiento, la ambición desmedida y la relación entre lo sobrenatural y la vida cotidiana. El uso de la luz y la cámara es magistral; Mizoguchi logra crear una atmósfera envolvente que ayuda a resaltar el conflicto entre los deseos materiales y los lazos familiares. Aunque los personajes buscan la felicidad en el éxito personal, parece que cada uno enfrenta una trágica pérdida. Ugetsu es considerada una obra maestra del cine japonés y ha influido en películas posteriores. La profunda crítica a la guerra y el machismo presente en la narrativa invita a la reflexión sobre la naturaleza humana y la búsqueda de significado en tiempos de crisis.",
+        "vocabulary": [
+          {
+            "word": "ambición",
+            "definition": "Deseo de lograr algo importante."
+          },
+          {
+            "word": "consecuencias",
+            "definition": "Resultados que vienen después de una acción."
+          },
+          {
+            "word": "reflejar",
+            "definition": "Mostrar algo que se está considerando."
+          },
+          {
+            "word": "atmosfera",
+            "definition": "Ambiente que se siente en un lugar."
+          },
+          {
+            "word": "tragedia",
+            "definition": "Situación muy triste o lamentable."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿En qué siglo se desarrolla la historia?",
+            "options": [
+              "Siglo XV",
+              "Siglo XVI",
+              "Siglo XVII"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué quieren vender Genjuro y Tobei?",
+            "options": [
+              "Cerámicas",
+              "Ropa",
+              "Comida"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tema importante se aborda en la película?",
+            "options": [
+              "La aventura",
+              "La ambición y la pérdida",
+              "El romance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ugetsu: Reflexiones sobre la ambición y la guerra",
+        "text": "Ugetsu, un hito en la filmografía de Kenji Mizoguchi, se ambienta en la turbulenta época del Japón del siglo XVI, explorando la vida de dos campesinos cuyos deseos de prosperidad y éxito personal los conducen a decisiones fatídicas. La película lleva a los espectadores a cuestionar la relación entre la ambición desmedida y las consecuencias devastadoras que esta conlleva, tanto a nivel personal como social. A través de una narrativa envolvente, Mizoguchi entrelaza elementos de la fantasía con la crítica a las actitudes patriarcales y militaristas que perpetúan la desolación y el sufrimiento humano. La historia se centra en Genjuro, quien, atrapado entre su deseo de riqueza y un romance con la enigmática Lady Wakasa, pierde de vista el verdadero significado de la felicidad y la familia. La cinematografía destaca por su uso innovador de la luz y la composición, creando una atmósfera de ensueño que, sin embargo, se ve interrumpida por la dura realidad de la guerra. Ugetsu es reconocido no solo por su belleza estética, sino también por el impacto emocional y reflexión que genera, invitando a los espectadores a reflexionar sobre su propia conexión con la ambición y el sacrificio.",
+        "vocabulary": [
+          {
+            "word": "mítico",
+            "definition": "Relativo a mitos o historias legendarias."
+          },
+          {
+            "word": "entretejer",
+            "definition": "Combinar diferentes elementos de manera armoniosa."
+          },
+          {
+            "word": "patriarcal",
+            "definition": "Relativo a un sistema social que privilegia a los hombres."
+          },
+          {
+            "word": "devastador",
+            "definition": "Que causa gran destrucción o sufrimiento."
+          },
+          {
+            "word": "cinematografía",
+            "definition": "El arte y técnica de filmar películas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué deseo tiene Genjuro?",
+            "options": [
+              "Volver a casa",
+              "Ser rico",
+              "Ser médico"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué conecta la trama con la crítica social?",
+            "options": [
+              "El humor",
+              "La fantasía",
+              "Las actitudes patriarcales"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué se utiliza en la película para crear una atmósfera especial?",
+            "options": [
+              "La música",
+              "La luz y la composición",
+              "El diálogo"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ugetsu: Un espejo de ambiciones y tragedias humanas",
+        "text": "Ugetsu, dirigida por Kenji Mizoguchi, se sitúa en el contexto de la guerra civil japonesa de los siglos XVI y XVII, fusionando elementos de la fantasía con una meditación profunda sobre la ambición, la inevitabilidad del sufrimiento y la inexorable lucha entre el deseo y la realidad. La narrativa, que sigue la travesía de Genjuro en su búsqueda de fortuna y reconocimiento, se entrelaza de manera magistral con una crítica social que expone el carácter devastador de la guerra y su impacto en las dinámicas familiares. El uso poético de la cinematografía, desde la inquietante atmósfera del lago Biwa hasta las sutilezas de la luz y la sombra, sugiere un mundo donde lo sobrenatural no es solo un recurso narrativo, sino un reflejo de las luchas internas de los personajes. La transformación de Lady Wakasa de figura seductora a representación del sufrimiento humano captura el sentido de pérdida que permea la obra. A través de su complejidad temática y técnica, Ugetsu trasciende su tiempo, siendo un faro de reflexión sobre la naturaleza humana y el precio de la ambición en un contexto de guerra, así como un incisivo comentario sobre el patriarcado y sus devastadoras consecuencias. Al despedirnos, uno no puede evitar cuestionarse: ¿realmente vale la pena perseguir tales sueños a expensas de lo que verdaderamente importa?",
+        "vocabulary": [
+          {
+            "word": "inevitable",
+            "definition": "Que no se puede evitar o eludir."
+          },
+          {
+            "word": "poético",
+            "definition": "Que tiene cualidades propias de la poesía; artístico."
+          },
+          {
+            "word": "permeable",
+            "definition": "Que puede ser penetrado o influido por algo."
+          },
+          {
+            "word": "devastador",
+            "definition": "Que causa gran destrucción o sufrimiento de manera intensa."
+          },
+          {
+            "word": "incisivo",
+            "definition": "Agudo y claro en el análisis o crítica."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué representa Lady Wakasa en la historia?",
+            "options": [
+              "Suerte",
+              "Sufrimiento humano",
+              "Sabiduría"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es un tema central de Ugetsu?",
+            "options": [
+              "El amor",
+              "La ambición y sus consecuencias",
+              "La amistad"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué sugiere el uso de la luz y sombra en la cinematografía?",
+            "options": [
+              "Simpleza",
+              "Inquietud",
+              "Alegría"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}
