@@ -1,0 +1,1373 @@
+{
+  "id": "2026-07-23-us-signs-landmark-nuclear-deal-with-saudi-arabia",
+  "date": "2026-07-23",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "US signs landmark nuclear deal with Saudi Arabia",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "US Signs Nuclear Deal with Saudi Arabia",
+        "text": "The US and Saudi Arabia sign a new deal. This deal is about nuclear energy. Saudi Arabia wants to have nuclear plants. The US will help with this. The deal allows companies to work in Saudi Arabia. This agreement helps both countries. Some people worry about bombs. Experts say this could be dangerous. Saudi Arabia has a leader. He visits the US last year. The country needs energy for many homes. The US wants to build things in Saudi Arabia. The deal is big news for many people.",
+        "vocabulary": [
+          {
+            "word": "deal",
+            "definition": "an agreement or contract"
+          },
+          {
+            "word": "energy",
+            "definition": "power to make things work"
+          },
+          {
+            "word": "nuclear",
+            "definition": "related to the energy in atoms"
+          },
+          {
+            "word": "plant",
+            "definition": "a place where things are made"
+          },
+          {
+            "word": "worry",
+            "definition": "to feel concern or fear"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who signs the deal?",
+            "options": [
+              "US and Saudi Arabia",
+              "China and Saudi Arabia",
+              "Russia and Saudi Arabia"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the deal help Saudi Arabia with?",
+            "options": [
+              "Nuclear energy",
+              "Food production",
+              "Travel"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who visited the US last year?",
+            "options": [
+              "The Saudi leader",
+              "The American president",
+              "The Russian leader"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "US Signs Nuclear Energy Deal with Saudi Arabia",
+        "text": "The US and Saudi Arabia have signed a new nuclear deal. This deal will let Saudi Arabia develop nuclear energy. The US energy department says it will help American companies. They will work in Saudi Arabia's energy program. People are worried this deal may cause problems. Experts say it could help Saudi Arabia make nuclear bombs. The agreement helps both countries with energy. The Saudi leader visited the US last November to talk. Some lawmakers worry about the risks. In the past, Saudi Arabia did not produce its own fuel. But this deal could change things. It is worth a lot of money and good for US companies.",
+        "vocabulary": [
+          {
+            "word": "develop",
+            "definition": "to make something better or grow"
+          },
+          {
+            "word": "concern",
+            "definition": "a feeling of worry"
+          },
+          {
+            "word": "lawmakers",
+            "definition": "people who make laws"
+          },
+          {
+            "word": "agreement",
+            "definition": "a discussion that ends in a decision"
+          },
+          {
+            "word": "fuel",
+            "definition": "a material used to produce energy"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the main goal of the nuclear deal?",
+            "options": [
+              "To develop nuclear energy",
+              "To create problems",
+              "To end cooperation"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who visited the US last November?",
+            "options": [
+              "The Saudi King",
+              "The American President",
+              "The Chinese President"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do some lawmakers feel about the deal?",
+            "options": [
+              "They are worried",
+              "They are happy",
+              "They ignore it"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "US Signs Major Nuclear Agreement with Saudi Arabia",
+        "text": "The United States and Saudi Arabia have signed a significant nuclear agreement that could shape the future energy landscape of the region. This agreement allows Saudi Arabia to develop its civilian nuclear energy program. According to the US energy department, it opens the door for American companies to engage in Saudi Arabia's nuclear sector, providing them with great business opportunities. However, this deal raises concerns among many experts. They warn that it could give Saudi Arabia the ability to enrich uranium. While enriched uranium is essential for generating energy power, it can also be used to create nuclear weapons. This situation raises serious fears about nuclear safety and security in the wider region. If Saudi Arabia were to develop nuclear weapons, it could create instability and encourage other countries to follow suit. Therefore, nuclear proliferation, which is when more countries start developing nuclear weapons, becomes a real worry. The recent visit of the Saudi leader to Washington was crucial in finalizing this deal. Many lawmakers in the US have expressed their concerns about the potential risks that come with this agreement. They emphasize that safety must always come first. The deal could establish a powerful partnership between both nations, focusing on energy and regional stability. Furthermore, some experts mention that such agreements highlight the importance of international co-operation in promoting peaceful energy solutions while controlling the spread of nuclear weapons capability. The US and Saudi Arabia's collaboration could significantly impact global energy security and nuclear nonproliferation efforts in the future.",
+        "vocabulary": [
+          {
+            "word": "proliferation",
+            "definition": "the rapid increase or spread of something, especially nuclear weapons."
+          },
+          {
+            "word": "cooperation",
+            "definition": "working together towards a common goal."
+          },
+          {
+            "word": "stability",
+            "definition": "the state of being steady and not likely to change."
+          },
+          {
+            "word": "enrich",
+            "definition": "to increase the amount of a substance, often referring to uranium for nuclear energy."
+          },
+          {
+            "word": "nuclear safety",
+            "definition": "measures and protocols to prevent accidents or misuse of nuclear energy."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the primary purpose of the nuclear agreement between the US and Saudi Arabia?",
+            "options": [
+              "To develop nuclear weapons",
+              "To enhance civilian nuclear energy programs",
+              "To reduce oil dependency"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is a major concern for experts regarding this agreement?",
+            "options": [
+              "It may lead to decreased energy prices",
+              "It could enable Saudi Arabia to enrich uranium",
+              "It will increase cooperation between the US and Iran"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What aspect of the agreement is highlighted by both US and Saudi officials?",
+            "options": [
+              "Nuclear nonproliferation standards",
+              "Immediate military benefits",
+              "Reduction of oil imports"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "US Signs Groundbreaking Nuclear Agreement with Saudi Arabia",
+        "text": "The United States and Saudi Arabia have formally signed a groundbreaking agreement that is said to enable the Gulf kingdom to develop a civilian nuclear program. Described as a “peaceful nuclear cooperation agreement,” the deal is expected to provide American companies with significant opportunities within Saudi Arabia's nuclear energy sector, as indicated by the US Department of Energy. While the full text of the deal remains confidential, US media outlets have suggested it may eventually allow Saudi Arabia to enrich uranium—a process not only important for power generation but also potentially for manufacturing nuclear weapons. Experts warn that permitting this could mark a milestone for the US and potentially increase the risk of nuclear proliferation in a tumultuous region. In conjunction with the cooperation agreement, a “bilateral safeguards agreement” was also established. According to a statement, these two agreements form the legal foundation for a long-term, multibillion-dollar partnership that aims to achieve several important economic and strategic goals, particularly concerning nuclear nonproliferation. Meanwhile, concerns are mounting as tensions rise between the US and Iran, coupled with recent Houthi declarations of a maritime blockade against Saudi Arabia. The agreement now awaits Congressional review, with bipartisan skepticism anticipated.",
+        "vocabulary": [
+          {
+            "word": "groundbreaking",
+            "definition": "very innovative or new"
+          },
+          {
+            "word": "nuclear",
+            "definition": "related to energy or weapons using atoms"
+          },
+          {
+            "word": "proliferation",
+            "definition": "rapid increase, especially of weapons"
+          },
+          {
+            "word": "bipartisan",
+            "definition": "supported by two different political parties"
+          },
+          {
+            "word": "tensions",
+            "definition": "stress or conflict between groups"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the new deal allow Saudi Arabia to develop?",
+            "options": [
+              "A military nuclear program",
+              "A civilian nuclear program",
+              "An oil drilling program"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is a risk mentioned about the deal?",
+            "options": [
+              "Increased trade with Iran",
+              "Nuclear proliferation",
+              "Economic decline"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What will happen next with the agreement?",
+            "options": [
+              "It will be made public immediately.",
+              "It will go to Congress for review.",
+              "It will cancel previous agreements."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Significant Nuclear Agreement Reached Between US and Saudi Arabia",
+        "text": "In a notable development, the United States and Saudi Arabia have signed a significant nuclear agreement that is expected to facilitate the development of a civilian nuclear program within the Gulf nation. Characterized as a “peaceful nuclear cooperation agreement,” the deal, according to the US Department of Energy, aims to provide American firms enhanced access to the burgeoning Saudi nuclear energy industry. Although the details of the accord have not been released, reports indicate it might permit Saudi Arabia to enrich uranium—an action that could fuel power generation but also create the potential for nuclear weapon production. Experts have expressed concerns that this precedent could pose a significant risk of nuclear proliferation in an already unstable region. The Department of Energy emphasized that alongside this cooperation agreement, a “bilateral safeguards agreement” was also executed, which lays a legal foundation for a substantial, long-term partnership geared towards achieving crucial economic and strategic objectives, particularly regarding nuclear nonproliferation. Meanwhile, as tensions escalate between the US and Iran, the agreement is poised to attract scrutiny from various quarters, particularly given the ongoing complexities in regional geopolitics. Lawmakers now face the complex task of reviewing the nuances of this unprecedented agreement.",
+        "vocabulary": [
+          {
+            "word": "notable",
+            "definition": "worthy of attention or remarkable"
+          },
+          {
+            "word": "burgeoning",
+            "definition": "growing or developing quickly"
+          },
+          {
+            "word": "precedent",
+            "definition": "an earlier action that serves as an example"
+          },
+          {
+            "word": "geopolitics",
+            "definition": "politics influenced by geographical factors"
+          },
+          {
+            "word": "scrutiny",
+            "definition": "careful examination or review"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the deal allow Saudi Arabia to develop?",
+            "options": [
+              "A military program",
+              "A civilian nuclear program",
+              "An oil reserve"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What might Saudi Arabia be permitted to do under the deal?",
+            "options": [
+              "Enrich uranium",
+              "Build oil refineries",
+              "Export weapons"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What kind of agreement was signed alongside the nuclear agreement?",
+            "options": [
+              "A financial agreement",
+              "A bilateral safeguards agreement",
+              "An energy agreement"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Historic Nuclear Accord Between the US and Saudi Arabia Signals Shift in Regional Dynamics",
+        "text": "In a momentous turn of events, the United States and Saudi Arabia have formalized a historic nuclear accord, which ostensibly allows the Gulf kingdom to embark upon developing a civilian nuclear infrastructure. Lauded as a “peaceful nuclear cooperation agreement,” this arrangement, as articulated by the US Department of Energy, is set to avail American enterprises of substantial opportunities within the Saudi nuclear energy landscape. While the specifics of the agreement remain undisclosed, speculation abounds that it may enable Saudi Arabia to engage in uranium enrichment—a process that carries significant implications regarding both energy production and potential military applications. Analysts caution that this development could represent an unprecedented leap for the US and could potentially exacerbate nuclear proliferation risks within a region already fraught with tension. Notably, a “bilateral safeguards agreement” has concurrently been established, ostensibly to ensure compliance with international nonproliferation standards. As diplomatic frictions escalate between the US and Iran, scrutiny of this consequential agreement is anticipated, particularly in light of recent military provocations. The unfolding scenario is compounded by the need for Congressional oversight, a prospect that may incite robust debates across party lines. As stakeholders grapple with the ramifications of this unprecedented diplomatic move, the broader geopolitical context remains pivotal to understanding the potential pathways ahead.",
+        "vocabulary": [
+          {
+            "word": "momentous",
+            "definition": "of great importance or significance"
+          },
+          {
+            "word": "ostensibly",
+            "definition": "apparently or seemingly, but not necessarily so"
+          },
+          {
+            "word": "availing",
+            "definition": "making available or accessible"
+          },
+          {
+            "word": "exacerbate",
+            "definition": "to worsen or intensify a situation"
+          },
+          {
+            "word": "ramifications",
+            "definition": "consequences or outcomes of an action"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the nuclear accord allow Saudi Arabia to develop?",
+            "options": [
+              "A military base",
+              "A civilian nuclear infrastructure",
+              "An oil drilling operation"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What might the agreement enable Saudi Arabia to do?",
+            "options": [
+              "Engage in uranium enrichment",
+              "Reduce oil production",
+              "Increase military presence"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What has been established alongside the nuclear agreement?",
+            "options": [
+              "A financial cooperation agreement",
+              "A bilateral safeguards agreement",
+              "A military partnership"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "US und Saudi-Arabien unterschreiben Vertrag",
+        "text": "Die USA und Saudi-Arabien haben einen Vertrag. Dieser Vertrag ist wichtig. Saudi-Arabien darf jetzt Atomkraft machen. Es ist ein ziviles Programm. Die USA helfen Saudi-Arabien. Der Vertrag hat viele Vorteile. Firmen aus den USA kommen nach Saudi-Arabien. Die Menschen dort arbeiten mit ihnen. Mehrere Leute haben Angst. Sie sagen, Saudi-Arabien kann Uran anreichern. Das ist gefährlich. Es kann Atomwaffen geben. Die USA möchten keine Kriege. Saudi-Arabien ist ein Freund von den USA. Der Vertrag ist für viele Jahre. Die Regierungen sprechen viel darüber.",
+        "vocabulary": [
+          {
+            "word": "Vertrag",
+            "definition": "Eine schriftliche Abmachung zwischen zwei oder mehr Parteien."
+          },
+          {
+            "word": "Atomkraft",
+            "definition": "Energie aus Atomen, die für Strom genutzt wird."
+          },
+          {
+            "word": "Uran",
+            "definition": "Ein Material für Atomkraft und Atomwaffen."
+          },
+          {
+            "word": "Freund",
+            "definition": "Eine Person, zu der man gute Beziehungen hat."
+          },
+          {
+            "word": "gefahr",
+            "definition": "Etwas, das schädlich ist."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist wichtig für Saudi-Arabien?",
+            "options": [
+              "Ein neuer Flughafen",
+              "Ein ziviles Atomprogramm",
+              "Mehr Wasser"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was machen die USA für Saudi-Arabien?",
+            "options": [
+              "Sie verkaufen Autos",
+              "Sie helfen mit Atomkraft",
+              "Sie geben Geld"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was haben viele Leute gesagt?",
+            "options": [
+              "Es gibt keinen Vertrag",
+              "Es ist gefährlich",
+              "Es ist sehr gut"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "US unterzeichnet wichtigen Vertrag mit Saudi-Arabien",
+        "text": "Die USA und Saudi-Arabien haben einen wichtigen Vertrag unterschrieben. Dieser Vertrag erlaubt Saudi-Arabien, ein ziviles Atomprogramm zu entwickeln. Der Vertrag wird als friedliche Zusammenarbeit beschrieben und ermöglicht vielen amerikanischen Firmen, in der saudi-arabischen Atomkraft tätig zu sein. Einige Experten warnen jedoch vor den Risiken. Sie sagen, dass der Vertrag es Saudi-Arabien erlauben könnte, Uran anzureichern. Uran wird für Atomkraftwerke und auch für Atomwaffen gebraucht. Dies ist eine große Sorge, weil die Region instabil ist. Die USA möchten eine langfristige Partnerschaft aufbauen. Der Vertrag hat auch Regeln für Sicherheit, die wichtig sind, um Risiken zu minimieren. Saudi-Arabien hat zuvor mit den USA zusammengearbeitet, und diese Zusammenarbeit ist wichtig für beide Länder. Die Situation in der Region wird angespannt, weil Kämpfe zwischen den USA und Iran zunehmen. Damit ist auch die internationale Aufmerksamkeit auf diesen Vertrag hoch.",
+        "vocabulary": [
+          {
+            "word": "Atomprogramm",
+            "definition": "Ein Programm zur Entwicklung von Atomkraft für Energie."
+          },
+          {
+            "word": "Zusammenarbeit",
+            "definition": "Wenn zwei oder mehr Parteien gemeinsam arbeiten."
+          },
+          {
+            "word": "Risiken",
+            "definition": "Gefahren oder Unsicherheiten, die auftreten können."
+          },
+          {
+            "word": "Uran",
+            "definition": "Ein Chemieelement, das in Atomkraftwerken verwendet wird."
+          },
+          {
+            "word": "Sicherheit",
+            "definition": "Massnahmen, die Personen und Dinge schützen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was erlaubt der Vertrag Saudi-Arabien?",
+            "options": [
+              "Ein ziviles Atomprogramm zu entwickeln",
+              "Atomwaffen herzustellen",
+              "Nur Brennstoff zu importieren"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum sind Experten besorgt über den Vertrag?",
+            "options": [
+              "Er könnte die Region stabilisieren",
+              "Er könnte Urananreicherung erlauben",
+              "Er hat keine Regeln für Sicherheit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist ein Ziel der USA mit diesem Vertrag?",
+            "options": [
+              "Langfristige Partnerschaft aufbauen",
+              "Saudi-Arabien isolieren",
+              "Weniger amerikanische Firmen involvieren"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Vereinigte Staaten schließen bedeutenden Atomvertrag mit Saudi-Arabien",
+        "text": "Die Vereinigten Staaten und Saudi-Arabien haben kürzlich einen bedeutenden Vertrag unterzeichnet, der Saudi-Arabien erlaubt, ein ziviles Atomprogramm zu entwickeln. Dieser sogenannte friedliche Kooperationsvertrag öffnet amerikanischen Unternehmen den Zugang zum saudi-arabischen Energiesektor und wird voraussichtlich viele Veränderungen mit sich bringen. Berichten zufolge könnte Saudi-Arabien in der Zukunft Uran anreichern. Urananreicherung ist ein komplexer Prozess, der sowohl zur Energiegewinnung in Atomkraftwerken als auch zur Herstellung von Atomwaffen genutzt werden kann. Viele Experten haben Bedenken geäußert, dass dies zu einer weiteren Verbreitung von Atomwaffen in einer bereits instabilen Region führen könnte. Neben dem Kooperationsvertrag wurde auch ein bilaterales Sicherheitsabkommen unterzeichnet, das die Sicherheit in der Region verbessern soll. Die US-Behörden haben betont, dass diese Verträge hohe Sicherheitsstandards gewährleisten. Diese Entwicklungen kommen zu einem Zeitpunkt, an dem die Spannungen zwischen den USA und Iran zunehmen. Saudi-Arabien, ein langjähriger US-Verbündeter, ist von Konflikten betroffen, die die Sicherheit in der gesamten Region beeinflussen. Die Unterzeichnung des Vertrages hat auch internationale Reaktionen hervorgerufen. Einige Länder und Experten sind besorgt über die Möglichkeiten, dass Saudi-Arabien in der Lage sein könnte, eine Nuklearwaffe zu entwickeln. Die US-Regierung hat jedoch versichert, dass zusammen mit dem Vertrag klare Regeln zur Nonproliferation und Sicherheit gelten werden. Falls Saudi-Arabien internationale Standards einhält, könnte dies die Sorgen um die atomare Sicherheit verringern. Es bleibt abzuwarten, wie sich die weiteren Verhandlungen entwickeln werden und was dies für die internationale Gemeinschaft bedeutet.",
+        "vocabulary": [
+          {
+            "word": "Urananreicherung",
+            "definition": "Der Prozess, bei dem Uran so behandelt wird, dass es in Atomkraftwerken verwendet oder für Atomwaffen hergestellt werden kann."
+          },
+          {
+            "word": "Kooperationsvertrag",
+            "definition": "Ein rechtlicher Vertrag, der zwei oder mehr Parteien erlaubt, zusammenzuarbeiten, oft im wirtschaftlichen oder wissenschaftlichen Bereich."
+          },
+          {
+            "word": "bilaterales Sicherheitsabkommen",
+            "definition": "Ein Vertrag zwischen zwei Ländern, der Sicherheitsfragen und Maßnahmen zur Konfliktvermeidung behandelt."
+          },
+          {
+            "word": "Nonproliferation",
+            "definition": "Der Versuch, die Verbreitung von Nuklearwaffen zu verhindern und sicherzustellen, dass Länder, die diese Waffen nicht besitzen, sie auch nicht entwickeln."
+          },
+          {
+            "word": "Instabil",
+            "definition": "Wenn etwas nicht stabil oder unsicher ist; oft in Bezug auf politische oder wirtschaftliche Situationen verwendet."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was erlaubt Saudi-Arabien gemäß dem neuen Vertrag?",
+            "options": [
+              "Ein ziviles Atomprogramm zu entwickeln",
+              "Atomwaffen zu produzieren",
+              "Uran abzubauen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Land hat größte Bedenken gegenüber dem neuen Vertrag geäußert?",
+            "options": [
+              "Iran",
+              "Ägypten",
+              "Türkei"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche zusätzlichen Vereinbarungen wurden zusammen mit dem Kooperationsvertrag unterzeichnet?",
+            "options": [
+              "Ein bilaterales Sicherheitsabkommen",
+              "Einen Wirtschaftsvertrag",
+              "Ein Handelsabkommen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "USA unterzeichnen wegweisenden Atomdeal mit Saudi-Arabien",
+        "text": "Die Vereinigten Staaten und Saudi-Arabien haben einen wegweisenden Vertrag unterzeichnet, der dem Golfkönigreich ermöglichen soll, ein ziviles Atomprogramm zu entwickeln. Laut dem US-Energieministerium wird dieser \"friedliche Kooperationsvertrag“ \"großen Zugang für amerikanische Firmen zum saudischen Atomprogramm” bieten. Obwohl der genaue Text des Vertrages nicht veröffentlicht wurde, berichten US-Medien, dass es Saudi-Arabien möglicherweise erlaubt sein könnte, Uran anzureichern, was sowohl als Brennstoff für Kernkraftwerke als auch zur Herstellung von Atomwaffen verwendet werden kann. Experten warnen, dass dies eine Premiere für die USA darstellen würde und das Risiko der nuklearen Proliferation in einer ohnehin instabilen Region erhöhen könnte. Zusätzlich zu dem Kooperationsvertrag wurde auch ein \"bilaterales Sicherheitsabkommen\" unterzeichnet. In einer Erklärung hieß es, dass diese beiden Verträge die rechtlichen Grundlagen für eine jahrzehntelange, milliardenschwere Partnerschaft bilden, die mehrere wirtschaftliche und strategische Ziele verfolgt, einschließlich der nuklearen Nichtverbreitung. Die saudische Regierung erklärte, dass dieser Deal \"eine Erweiterung der bestehenden Zusammenarbeit\" zwischen den beiden Ländern im Energiesektor darstellt. Diese Ankündigung fällt mit der Verschärfung der Kämpfe zwischen den USA und dem Iran zusammen. Saudi-Arabien, ein langjähriger Verbündeter der USA, beherbergt mehrere US-Stützpunkte, die iranischen Angriffen ausgesetzt sind. Geplant war auch, dass Saudi-Arabien Uran auf eigenem Boden anreichern könnte, was wertvolle wirtschaftliche Vorteile mit sich bringen würde.",
+        "vocabulary": [
+          {
+            "word": "wegweisend",
+            "definition": "sehr wichtig für die Zukunft"
+          },
+          {
+            "word": "Kooperation",
+            "definition": "Zusammenarbeit zwischen zwei oder mehr Parteien"
+          },
+          {
+            "word": "Uran",
+            "definition": "ein chemisches Element, das in Atomkraftwerken verwendet wird"
+          },
+          {
+            "word": "Proliferation",
+            "definition": "die Ausbreitung von Waffen, besonders Atomwaffen"
+          },
+          {
+            "word": "Ziel",
+            "definition": "was man erreichen möchte"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was erlaubt der Vertrag Saudi-Arabien?",
+            "options": [
+              "Uran anreichern",
+              "Atomwaffen herstellen",
+              "Kernkraftwerke schließen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie wird der Vertrag beschrieben?",
+            "options": [
+              "Als friedlicher Kooperationsvertrag",
+              "Als militärischer Vertrag",
+              "Als geheime Abmachung"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was könnte der Vertrag für die USA bringen?",
+            "options": [
+              "Wertvolle wirtschaftliche Vorteile",
+              "Weniger Sicherheit",
+              "Politische Isolation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "USA und Saudi-Arabien schließen bedeutenden Atomvertrag",
+        "text": "Die USA und Saudi-Arabien haben einen bedeutsamen Vertrag unterzeichnet, der dem Golfstaat offenbar ermöglichen könnte, ein ziviles Kernenergieprogramm zu entwickeln. Laut dem US-Energieministerium handelt es sich um ein \"Abkommen über friedliche nukleare Zusammenarbeit\", das \"umfangreichen Zugang für amerikanische Unternehmen im saudischen Atomsektor\" verspricht. Details des Abkommens wurden nicht offengelegt, jedoch berichten US-Medien, dass Saudi-Arabien möglicherweise befugt sein könnte, Uran anzureichern, was sowohl für die Energiegewinnung als auch für die Nuklearwaffenherstellung von Bedeutung ist. Experten warnen, dies könnte für die USA eine Premiere darstellen und das Risiko einer nuklearen Proliferation in der bereits instabilen Region erhöhen. Der US-Energieminister betonte, dass mit dem kooperativen Vertrag zugleich ein \"bilaterales Sicherheitsabkommen\" unterzeichnet wurde, welches die rechtlichen Grundlagen für jahrzehntelange, milliardenschwere Partnerschaften schaffen soll. Diese Vereinbarung wird in einer Zeit gefestigt, in der die Konflikte zwischen den USA und Iran eskalieren, nachdem Saudi-Arabien, ein langjähriger Verbündeter der USA, mehrere US-Stützpunkte beherbergt, die Ziel iranischer Angriffe sind. In der öffentlichen Erklärung der saudischen Regierung wurde zudem verdeutlicht, dass dieser Vertrag eine Erweiterung der bisherigen Kooperation im Energiesektor darstellt, eine Tatsache, die nach dem Besuch des saudischen Führers in Washington im vergangenen November noch an Bedeutung gewinnen könnte.",
+        "vocabulary": [
+          {
+            "word": "bedeutsam",
+            "definition": "wichtig und bedeutungsvoll"
+          },
+          {
+            "word": "Zugang",
+            "definition": "Möglichkeit, etwas zu erreichen oder zu verwenden"
+          },
+          {
+            "word": "bezüglich",
+            "definition": "in Bezug auf; hinsichtlich"
+          },
+          {
+            "word": "vermitteln",
+            "definition": "etwas erklären oder klar machen"
+          },
+          {
+            "word": "insofern",
+            "definition": "in welchem Maße; soweit"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welche Rolle spielt das bilaterale Sicherheitsabkommen?",
+            "options": [
+              "Es schafft rechtliche Grundlagen",
+              "Es wird nicht erwähnt",
+              "Es ist irrelevant"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was könnte Saudi-Arabien möglicherweise erlauben?",
+            "options": [
+              "Uran anzureichern",
+              "Atomwaffen zu verkaufen",
+              "Kernkraftwerke zu schließen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer hat den Vertrag unterzeichnet?",
+            "options": [
+              "USA und Saudi-Arabien",
+              "Iran und Saudi-Arabien",
+              "USA und Russland"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Amerikanisch-saudische Atomvereinbarung: Ein Wendepunkt in der Energiepolitik?",
+        "text": "Die Vereinigten Staaten haben mit Saudi-Arabien einen bedeutenden und potenziell kontroversen Atomvertrag abgeschlossen, der dem Königreich der Wüste augenscheinlich gestatten könnte, ein zivil-nukleares Programm im Rahmen eines \"Kooperationsabkommens für friedliche Nukleartechnologie\" aufzubauen, was wiederum den Zugang amerikanischer Unternehmen zu einem bisher geschlossen wirkenden Markt findet. Während das genaue Vertragswerk derzeit nicht öffentlich zugänglich ist, deuten Berichte darauf hin, dass Saudi-Arabien mit dieser Vereinbarung möglicherweise die Erlaubnis erhält, Uran anzureichern – ein Vorgang, der nicht nur zur Gewinnung von Energie, sondern auch zur potentiellen Herstellung von Kernwaffen genutzt werden könnte. Diese Möglichkeit erweckt Besorgnis bei Fachleuten, die warnen, dass dies die erste seiner Art für die USA darstellt und das geopolitische Gleichgewicht in einer bereits von Instabilität geprägten Region gefährden könnte. Der Minister für Energie hob hervor, dass neben dem Kooperationsabkommen ein \"bilaterales Sicherheitsabkommen\" unterzeichnet wurde, welches als rechtliche Grundlage für eine tiefgreifende, milliardenschwere Partnerschaft dient, die einer Vielzahl strategischer und wirtschaftlicher Aspekte Rechnung trägt. In einem Kommentar zur bestehende gemeinsame Historie der Kooperation im Energiesektor unterstrich die saudische Regierung die Erweiterung dieser Beziehungen, insbesondere nach dem Besuch des saudischen Führers in Washington. Angesichts der kürzlichen Eskalationen zwischen den USA und Iran stellt sich die Frage, ob dieser Vertrag nicht auch eine Stellungnahme zu den angespannteren Beziehungen mit Teheran ist und welche Auswirkungen sich daraus auf die regionale Stabilität ergeben könnten. Immerhin warnt Rosemary Kelanic, eine Expertin für regionale Sicherheit, vor den möglichen Gefahren, die ein solcher Schritt mit sich bringen kann, besonders im Hinblick auf die nukleare Fähigkeit des saudischen Königreichs.",
+        "vocabulary": [
+          {
+            "word": "potenziell",
+            "definition": "möglich; mit Aussicht auf Realisierung"
+          },
+          {
+            "word": "Kontrovers",
+            "definition": "umstritten; Anlass zu Diskussionen"
+          },
+          {
+            "word": "geopolitisch",
+            "definition": "die weltpolitische Lage betreffend"
+          },
+          {
+            "word": "Erlaubnis",
+            "definition": "Gestattung; Zustimmung, etwas zu tun"
+          },
+          {
+            "word": "Eskalation",
+            "definition": "Steigerung oder Zuspitzung einer Situation"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was könnte dieser Vertrag für die USA bedeuten?",
+            "options": [
+              "Das Risiko einer nuklearen Proliferation",
+              "Die Möglichkeit von Friedensverhandlungen",
+              "Die Stärkung militärischer Allianzen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was war eine Begleiterscheinung des Vertrags?",
+            "options": [
+              "Ein bilaterales Sicherheitsabkommen",
+              "Ein Handelsabkommen mit Europa",
+              "Ein Abkommen über Waffenkontrolle"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Anliegen hat Rosemary Kelanic betont?",
+            "options": [
+              "Die Risiken der nuklearen Fähigkeit Saudi-Arabiens",
+              "Die Vorteile der nuklearen Zusammenarbeit",
+              "Das Fehlen internationaler Aufsicht"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Accord nucléaire entre les États-Unis et l'Arabie Saoudite",
+        "text": "Les États-Unis et l'Arabie Saoudite signent un accord important. Cet accord permet à l'Arabie Saoudite d'avoir un programme nucléaire civil. Les États-Unis veulent aider l'Arabie Saoudite dans son développement. Plusieurs entreprises américaines vont travailler là-bas pour construire des installations. Cela crée de nombreux emplois et enrichit les deux pays. L'Arabie Saoudite a besoin de plus d'énergie pour son industrie. Cependant, cela peut être dangereux pour la sécurité de la région. Des experts s'inquiètent des conséquences de cet accord. Ils pensent que cela peut provoquer des tensions avec d'autres pays. La sécurité mondiale est un sujet de préoccupation constant.",
+        "vocabulary": [
+          {
+            "word": "accord",
+            "definition": "un arrangement entre deux parties"
+          },
+          {
+            "word": "programme",
+            "definition": "un plan pour une activité"
+          },
+          {
+            "word": "sécurité",
+            "definition": "protection contre le danger"
+          },
+          {
+            "word": "installations",
+            "definition": "les lieux ou structures pour faire quelque chose"
+          },
+          {
+            "word": "industrie",
+            "definition": "les activités de production et de commerce"
+          },
+          {
+            "word": "emplois",
+            "definition": "les postes de travail pour les personnes"
+          },
+          {
+            "word": "tensions",
+            "definition": "les relations difficiles entre groupes"
+          },
+          {
+            "word": "consequences",
+            "definition": "les résultats d'une action"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est l'objectif principal de l'accord?",
+            "options": [
+              "Aider l'Arabie Saoudite à développer un programme nucléaire",
+              "Réduire la production de pétrole",
+              "Augmenter les tensions internationales"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle inquiétude les experts expriment-ils?",
+            "options": [
+              "L'accord peut être dangereux",
+              "L'Arabie Saoudite ne veut pas d'énergie",
+              "Les États-Unis ne veulent pas d'accord"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Que vont construire les entreprises américaines en Arabie Saoudite?",
+            "options": [
+              "Des écoles",
+              "Des installations nucléaires",
+              "Des routes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les États-Unis signent un accord nucléaire avec l'Arabie Saoudite",
+        "text": "Les États-Unis et l'Arabie Saoudite ont signé un accord important. Cet accord permet à l'Arabie Saoudite de développer un programme nucléaire civil. Les États-Unis veulent aider les entreprises américaines à entrer dans l'énergie saoudienne pour plusieurs raisons. Ce programme peut enrichir l'uranium. L'uranium peut être utilisé comme carburant pour des centrales électriques, mais il peut aussi causer des problèmes dangereux pour la région. Cet accord pourrait augmenter le risque de prolifération nucléaire dans un environnement déjà instable. Des experts soulignent que cela est une première pour les États-Unis. Le gouvernement saoudien affirme que cet accord renforce la coopération entre les deux pays. Cela arrive après une visite du roi saoudien aux États-Unis qui a renforcé les liens. De plus, certains parlementaires s'opposent à cet accord à cause des risques pour la sécurité dans la région. Les discussions autour de cet accord vont sûrement continuer dans les semaines à venir.",
+        "vocabulary": [
+          {
+            "word": "accord",
+            "definition": "Un contrat ou un arrangement entre deux parties."
+          },
+          {
+            "word": "programme",
+            "definition": "Un plan ou un projet pour réaliser quelque chose."
+          },
+          {
+            "word": "carburant",
+            "definition": "Une substance utilisée pour produire de l'énergie."
+          },
+          {
+            "word": "prolifération",
+            "definition": "La propagation ou l'augmentation de quelque chose, surtout des armes."
+          },
+          {
+            "word": "coopération",
+            "definition": "Le travail ensemble entre deux ou plusieurs parties."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type de programme l'Arabie Saoudite va-t-elle développer?",
+            "options": [
+              "Un programme militaire",
+              "Un programme nucléaire civil",
+              "Un programme agricole"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi certains parlementaires s'opposent-ils à cet accord?",
+            "options": [
+              "Pour des raisons économiques",
+              "Pour des raisons de sécurité",
+              "Pour des raisons environnementales"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a récemment visité les États-Unis avant cet accord?",
+            "options": [
+              "Le président américain",
+              "Le roi saoudien",
+              "Un député américain"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Accord nucléaire majeur entre les États-Unis et l'Arabie Saoudite",
+        "text": "Les États-Unis et l'Arabie Saoudite ont récemment signé un accord important qui pourrait changer l'avenir de la région. Cet accord permet à l'Arabie Saoudite de créer un programme nucléaire civil, ce qui représente un développement majeur. Le département de l'énergie des États-Unis affirme que cet accord facilitera l'accès des entreprises américaines à l'énergie saoudienne. Cela signifie que des entreprises pourraient avoir l'opportunité d'investir dans ce programme, ce qui pourrait renforcer l'économie locale. De plus, cet accord pourrait permettre à l'Arabie Saoudite d'enrichir l'uranium à l'avenir, un processus qui peut être risqué. En effet, les experts s'inquiètent que cela puisse entraîner des problèmes de sécurité dans une région déjà instable. L'Arabie Saoudite, qui est un allié important des États-Unis, pourrait augmenter le risque de prolifération nucléaire dans le Moyen-Orient. Le gouvernement saoudien a déclaré que ce nouvel accord renforce leur coopération économique et technologique avec les États-Unis. Cela arrive après que le roi saoudien a visité Washington en novembre dernier pour discuter de plusieurs questions cruciales. Maintenant, le congrès des États-Unis doit examiner cet accord, et certains membres du congrès s'y opposent. Ils craignent que cet accord ne donne à l'Arabie Saoudite la capacité de développer des armes nucléaires, ce qui serait dangereux pour la paix mondiale. Si cette situation évolue, cela pourrait aussi compliquer les relations entre les États-Unis et l'Iran, qui ont déjà été tendues ces dernières années.",
+        "vocabulary": [
+          {
+            "word": "prolifération",
+            "definition": "le fait de se répandre ou de se développer, en particulier en ce qui concerne des armes."
+          },
+          {
+            "word": "cooperation",
+            "definition": "l'action de travailler ensemble pour un but commun."
+          },
+          {
+            "word": "uranium",
+            "definition": "un élément chimique utilisé comme combustible dans les centrales nucléaires."
+          },
+          {
+            "word": "enrichir",
+            "definition": "augmenter la concentration d'un isotope d'un élément, ici en rapport avec l'uranium."
+          },
+          {
+            "word": "dangers",
+            "definition": "choses qui peuvent causer du tort ou du risque."
+          },
+          {
+            "word": "accord",
+            "definition": "un arrangement ou un contrat entre deux ou plusieurs parties."
+          },
+          {
+            "word": "instabilité",
+            "definition": "une situation de déséquilibre ou de conflit."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel pays a signé un accord avec l'Arabie Saoudite ?",
+            "options": [
+              "La France",
+              "Les États-Unis",
+              "Le Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelles entreprises pourraient profiter de cet accord selon le texte ?",
+            "options": [
+              "Les entreprises chinoises",
+              "Les entreprises européennes",
+              "Les entreprises américaines"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Pourquoi certains membres du congrès s'opposent-ils à cet accord ?",
+            "options": [
+              "Ils veulent plus de coopération avec l'Arabie Saoudite",
+              "Ils craignent le développement d'armes nucléaires",
+              "Ils soutiennent l'accord sans réserve"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Les États-Unis signent un accord nucléaire historique avec l'Arabie Saoudite",
+        "text": "Les États-Unis et l'Arabie Saoudite ont récemment signé un accord qui permettra au royaume du Golfe de développer un programme nucléaire civil. Cet accord, qualifié de \"contrat de coopération nucléaire pacifique\", est censé favoriser l'accès des entreprises américaines au programme énergétique nucléaire saoudien. Bien que le texte de l'accord n'ait pas été rendu public, les médias américains indiquent qu'il pourrait permettre à l'Arabie Saoudite d'enrichir l'uranium à l'avenir. Les experts estiment que cela représenterait une première pour les États-Unis et pourrait accroître le risque de prolifération nucléaire dans cette région déjà instable. Le département américain de l'Énergie a également souligné qu'un \"accord de garanties bilatéral\" a été signé simultanément à la coopération. En effet, ces deux accords posent les bases d'un partenariat de plusieurs milliards de dollars, qui vise de nombreux objectifs économiques et stratégiques prioritaires. Le gouvernement saoudien a fait savoir que cet accord prolongeait la coopération existante entre les deux nations, notamment depuis la visite du roi saoudien à Washington l'année dernière.",
+        "vocabulary": [
+          {
+            "word": "accord",
+            "definition": "un contrat ou une entente entre deux parties"
+          },
+          {
+            "word": "coopération",
+            "definition": "travailler ensemble pour un objectif commun"
+          },
+          {
+            "word": "risque",
+            "definition": "probabilité d'un danger ou d'un problème"
+          },
+          {
+            "word": "enrichir",
+            "definition": "augmenter la richesse ou la qualité de quelque chose"
+          },
+          {
+            "word": "partenariat",
+            "definition": "une relation de travail entre des personnes ou des organisations"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type d'accord a été signé entre les États-Unis et l'Arabie Saoudite?",
+            "options": [
+              "Un accord militaire",
+              "Un accord de coopération nucléaire",
+              "Un accord commercial"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que l'accord permettrait à l'Arabie Saoudite de faire?",
+            "options": [
+              "Développer des armes",
+              "Enrichir l'uranium",
+              "Construire des bâtiments"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a visité Washington l'année dernière?",
+            "options": [
+              "Le président américain",
+              "Le roi saoudien",
+              "Un sénateur"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Accord nucléaire entre les États-Unis et l'Arabie Saoudite : enjeux et implications",
+        "text": "Les États-Unis et l'Arabie Saoudite ont conclu un accord significatif, visant à installer un programme nucléaire civil dans le royaume. Cet accord, décrit comme un \"partenariat de coopération nucléaire pacifique\", garantit un accès privilégié aux entreprises américaines dans le secteur énergétique saoudien. Bien que les détails de l'accord restent secrets, des médias américains affirment qu'il pourrait ouvrir la voie à l'enrichissement de l'uranium par l'Arabie Saoudite, technique qui présente des risques potentiels de prolifération nucléaire dans une région déjà délicate. Le département de l'Énergie américain a aussi confirmé la signature d'un \"accord de garanties bilatéral\", renforçant ainsi les bases légales de ce partenariat économique de plusieurs milliards de dollars, centré sur la sécurité et l'efficacité énergétique. Le gouvernement saoudien, de son côté, a fait savoir que cet accord représente une avancée dans la relation énergétique des deux pays. Cette initiative survient en pleine escalade des tensions entre les États-Unis et l'Iran, soulignant les implications stratégiques de ce nouveau développement dans un contexte de conflit régional. Toutefois, des critiques se font entendre, notamment en ce qui concerne les risques inhérents à l'autorisation pour l'Arabie Saoudite de posséder des infrastructures d'enrichissement sur son sol.",
+        "vocabulary": [
+          {
+            "word": "conclure",
+            "definition": "terminer un accord ou un contrat"
+          },
+          {
+            "word": "privilégié",
+            "definition": "qui bénéficie d'un avantage ou d'un traitement spécial"
+          },
+          {
+            "word": "prolifération",
+            "definition": "augmentation rapide d'un phénomène, ici en matière de nucléaire"
+          },
+          {
+            "word": "tensions",
+            "definition": "conflits ou tensions politiques entre des pays"
+          },
+          {
+            "word": "infrastructures",
+            "definition": "les installations et structures nécessaires au fonctionnement d'un service"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type de programme l'Arabie Saoudite va-t-elle développer selon l'accord?",
+            "options": [
+              "Militaire",
+              "Civil",
+              "Rural"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est la réaction des critiques à l'égard de l'accord?",
+            "options": [
+              "Ils soutiennent l'accord",
+              "Ils expriment des inquiétudes",
+              "Ils ne commentent pas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi cet accord est-il considéré comme stratégiquement important?",
+            "options": [
+              "À cause des tensions avec l'Iran",
+              "À cause de l'économie saoudienne",
+              "À cause de la technologie nucléaire"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Accord nucléaire américano-saoudien : une aube nouvelle ou une menace sous-jacente?",
+        "text": "L'entente récemment signée entre les États-Unis et l'Arabie Saoudite ouvre la porte à un développement controversé d'un programme nucléaire civil, immédiatement perçu par certains comme une avancée diplomatique historique. Néanmoins, certains experts, craignant une prolifération nucléaire, arguent qu’en permettant à l'Arabie Saoudite d’enrichir l'uranium sur son territoire, les États-Unis franchissent une ligne dangereuse. Cet accord, qualifié de \"coopération pacifique\", reste enveloppé de mystère, ses détails n'ayant pas été dévoilés, si ce n'est que des reportages laissent entendre qu'il pourrait faciliter l'accès des entreprises américaines à un secteur énergétique jusqu'alors largement dominé par des pratiques moins transparentes. Alors que la région est déjà marquée par des tensions croissantes dues aux actions de l'Iran, ce nouvel arrangement pourrait exacerber les tensions géopolitiques. La déclaration d'experts israéliens reflète également un sentiment d'inquiétude quant à la possibilité que cette initiative puisse, à long terme, ouvrir la voie à l'émergence d'un programme nucléaire militaire. En outre, face à une opposition bipartisane au Congrès, les critiques évoquent l'hypocrisie des décideurs américains, qui d'une main appellent à la non-prolifération, tout en facilitant le développement nucléaire d'un partenaire, l'Arabie Saoudite, souvent qualifiée de nation autoritaire. Ce double discours pourrait susciter l'inquiétude des acteurs internationaux et déclencher des répercussions sur la scène mondiale.",
+        "vocabulary": [
+          {
+            "word": "entente",
+            "definition": "accord formel ou convention entre deux parties"
+          },
+          {
+            "word": "controversé",
+            "definition": "qui suscite des débats ou des opinions opposées"
+          },
+          {
+            "word": "franchir",
+            "definition": "dépasser une limite ou une frontière"
+          },
+          {
+            "word": "exacerber",
+            "definition": "aggraver ou intensifier une situation"
+          },
+          {
+            "word": "hypocrisie",
+            "definition": "le fait de prétendre avoir des principes que l'on ne respecte pas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le risque associé à l'accord selon certains experts?",
+            "options": [
+              "Une augmentation des prix du pétrole",
+              "Une prolifération nucléaire",
+              "Une paix durable"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment certains critiques perçoivent-ils la réaction des décideurs américains?",
+            "options": [
+              "Comme honnête",
+              "Comme hypocrite",
+              "Comme proactive"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle nation est mise en cause à cause de son programme nucléaire potentiel?",
+            "options": [
+              "Les États-Unis",
+              "L'Iran",
+              "L'Arabie Saoudite"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Acuerdo nuclear entre Estados Unidos y Arabia Saudita",
+        "text": "Estados Unidos y Arabia Saudita son amigos. Ellos firman un acuerdo importante. Este acuerdo permite a Arabia Saudita tener una energía nuclear. La energía nuclear es para el uso pacífico. Este acuerdo ayuda a las empresas de Estados Unidos. Ellos pueden trabajar en Arabia Saudita. El acuerdo no dice todo. Pero puede dejar enriquecer uranio. El uranio es un material para energía. Algunos expertos están nerviosos por esto. Ellos dicen que es un riesgo. Pero ambos países quieren trabajar juntos.",
+        "vocabulary": [
+          {
+            "word": "acuerdo",
+            "definition": "trato entre dos o más personas"
+          },
+          {
+            "word": "nuclear",
+            "definition": "relacionado con la energía de átomos"
+          },
+          {
+            "word": "energía",
+            "definition": "fuerza para hacer cosas funcionar"
+          },
+          {
+            "word": "empresas",
+            "definition": "grupos que venden bienes o servicios"
+          },
+          {
+            "word": "expertos",
+            "definition": "personas que saben mucho sobre algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué firman Estados Unidos y Arabia Saudita?",
+            "options": [
+              "un acuerdo importante",
+              "una guerra",
+              "un documento secreto"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de energía puede tener Arabia Saudita?",
+            "options": [
+              "energía nuclear",
+              "energía solar",
+              "energía eólica"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué algunos expertos están nerviosos?",
+            "options": [
+              "puede haber riesgo",
+              "el acuerdo no existe",
+              "los países son enemigos"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Acuerdo nuclear entre Estados Unidos y Arabia Saudita",
+        "text": "Estados Unidos y Arabia Saudita han firmado un acuerdo muy importante. Este acuerdo permite a Arabia Saudita desarrollar un programa nuclear pacífico. Es un acuerdo sobre cooperación en energía, y esto beneficiará a las empresas estadounidenses. Estas empresas pueden trabajar en Arabia Saudita para construir plantas nucleares. El acuerdo no fue publicado, pero se dice que podría permitir a Arabia Saudita enriquecer uranio. El uranio se puede usar para energía, pero también para armas nucleares. Expertos dicen que esto es un riesgo serio. Además, el acuerdo incluye condiciones que protegen la seguridad nuclear. Arabia Saudita y Estados Unidos quieren colaborar estrechamente en este proyecto importante. Las tensiones en la región son grandes, especialmente con Irán. Este acuerdo puede ser un cambio significativo en la política de Medio Oriente. Muchas personas están hablando de las posibles consecuencias para la paz regional y global.",
+        "vocabulary": [
+          {
+            "word": "programa",
+            "definition": "un plan o sistema de actividades"
+          },
+          {
+            "word": "cooperación",
+            "definition": "el trabajo conjunto para un objetivo común"
+          },
+          {
+            "word": "enriquecer",
+            "definition": "aumentar la cantidad de un elemento, como el uranio"
+          },
+          {
+            "word": "riesgo",
+            "definition": "la posibilidad de que algo malo suceda"
+          },
+          {
+            "word": "seguridad",
+            "definition": "protección contra amenazas"
+          },
+          {
+            "word": "consecuencias",
+            "definition": "los resultados o efectos de una acción"
+          },
+          {
+            "word": "tensiones",
+            "definition": "situaciones de tensión o conflicto"
+          },
+          {
+            "word": "nuclear",
+            "definition": "relacionado con la energía producida por reacciones nucleares"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué permite el acuerdo nuclear entre Estados Unidos y Arabia Saudita?",
+            "options": [
+              "Enriquecer uranio",
+              "Producir petróleo",
+              "Desarrollar tecnología informática"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué el acuerdo es importante para las empresas estadounidenses?",
+            "options": [
+              "Pueden construir plantas nucleares",
+              "Pueden vender armas",
+              "Pueden hacer turismo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué preocupa a los expertos sobre este acuerdo?",
+            "options": [
+              "El aumento de la producción de petróleo",
+              "El riesgo de armas nucleares",
+              "El desarrollo de tecnología de computadoras"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Acuerdo nuclear entre Estados Unidos y Arabia Saudita",
+        "text": "Estados Unidos y Arabia Saudita han firmado un acuerdo decisivo que permite a Arabia Saudita desarrollar un programa nuclear con fines pacíficos. Este acuerdo es un paso importante en la cooperación entre los dos países en el sector de la energía y podría tener implicaciones significativas para la región. Aunque el texto del acuerdo no se ha hecho público, los medios informan que podría permitir a Arabia Saudita enriquecer uranio. Esto presenta un riesgo potencial, ya que el uranio puede ser usado tanto para plantas eléctricas como para crear armas nucleares. Los expertos advierten que esto podría marcar un cambio significativo y aumentar el riesgo de proliferación nuclear en el área, que ya es muy inestable. Además, el acuerdo incluye medidas de protección para asegurar la seguridad nuclear, lo que muestra la intención de ambas naciones de cooperar de manera responsable. Arabia Saudita y Estados Unidos quieren fortalecer su colaboración en muchos aspectos, incluso ante la creciente tensión con Irán. Muchos creen que este acuerdo puede tener un gran impacto a largo plazo en las relaciones internacionales, especialmente si Arabia Saudita logra ser un líder regional en energía nuclear. Sin embargo, también hay preocupaciones sobre la posibilidad de que este programa se desvíe hacia fines militares. Si eso ocurre, podría haber consecuencias graves en la política internacional y en la seguridad de otros países de la región.",
+        "vocabulary": [
+          {
+            "word": "proliferación",
+            "definition": "El aumento o expansión de algo. En este contexto, se refiere a la expansión de armas nucleares."
+          },
+          {
+            "word": "enriquecer",
+            "definition": "El proceso de aumentar la concentración de un isótopo de un elemento, como el uranio, para usarlo como combustible o en armas."
+          },
+          {
+            "word": "medidas de protección",
+            "definition": "Acciones adoptadas para asegurar la seguridad de algo, en este caso de la energía nuclear."
+          },
+          {
+            "word": "colaboración",
+            "definition": "Trabajo conjunto entre dos o más partes para alcanzar un objetivo común."
+          },
+          {
+            "word": "riesgo",
+            "definition": "Probabilidad de que ocurra un evento negativo o peligroso."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué permite el acuerdo entre Estados Unidos y Arabia Saudita?",
+            "options": [
+              "Desarrollar un programa nuclear pacífico",
+              "Construir armas nucleares",
+              "Exportar uranio enriquecido"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué advierten los expertos sobre la proliferación nuclear?",
+            "options": [
+              "Es un riesgo menor",
+              "Puede aumentar en la región",
+              "Está completamente controlada"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuáles son las intenciones principales de Arabia Saudita y Estados Unidos con el acuerdo?",
+            "options": [
+              "Aumentar la producción de petróleo",
+              "Fortalecer la cooperación en energía",
+              "Crear un programa militar nuclear"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Estados Unidos firma un acuerdo nuclear histórico con Arabia Saudita",
+        "text": "Estados Unidos y Arabia Saudita han firmado un acuerdo que, según informes, permitirá al reino del Golfo desarrollar un programa nuclear civil. Este acuerdo es descrito como un \"acuerdo de cooperación nuclear pacífica\" que, según el Departamento de Energía de EE.UU., proporcionará \"un gran acceso a las empresas estadounidenses en el programa de energía nuclear saudita\". Aunque el texto del acuerdo no se hizo público, los medios estadounidenses han informado que podría permitir a Arabia Saudita enriquecer uranio en el futuro, uranio este que puede ser utilizado como combustible para plantas de energía, aunque también puede ser empleado para fabricar bombas nucleares. Expertos advierten que esto marcaría un precedente para Estados Unidos y podría poner en riesgo la proliferación nuclear en una región ya inestable. Además, se firmó un \"acuerdo de salvaguardias bilateral\". Según la declaración del Departamento de Energía, estos acuerdos sientan las bases legales para una asociación de décadas que permitirá avanzar en objetivos estratégicos y económicos clave, incluyendo la no proliferación nuclear. La situación se complica con el aumento de tensiones entre Estados Unidos e Irán; Arabia Saudita, un aliado de EE. UU., alberga varias bases estadounidenses que han sido objeto de ataques iraníes. La decisión fue anunciada poco después de que los hutíes en Yemen impusieran un \"bloqueo marítimo\" contra el reino.",
+        "vocabulary": [
+          {
+            "word": "acuerdo",
+            "definition": "una disposición entre dos o más partes."
+          },
+          {
+            "word": "proliferación",
+            "definition": "aumento o expansión de algo, usualmente armas."
+          },
+          {
+            "word": "uranio",
+            "definition": "un elemento químico utilizado en la energía nuclear."
+          },
+          {
+            "word": "energía",
+            "definition": "la capacidad para realizar trabajo o producir cambio."
+          },
+          {
+            "word": "seguridad",
+            "definition": "protección contra el peligro."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de acuerdo firmaron Estados Unidos y Arabia Saudita?",
+            "options": [
+              "Un acuerdo militar",
+              "Un acuerdo de cooperación nuclear",
+              "Un acuerdo de comercio"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué podría permitir el acuerdo sobre el uranio?",
+            "options": [
+              "Que Arabia Saudita produzca armas",
+              "Que Arabia Saudita enriquezca uranio",
+              "Que Arabia Saudita venda petróleo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué riesgo mencionan los expertos sobre el nuevo acuerdo?",
+            "options": [
+              "Que provoca paz en la región",
+              "Que causa un aumento en la proliferación nuclear",
+              "Que reduce los conflictos"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Los Estados Unidos establecen un acuerdo nuclear trascendental con Arabia Saudita",
+        "text": "La reciente firma de un monumental acuerdo entre Estados Unidos y Arabia Saudita ha suscitado intensos debates y preocupaciones en la comunidad internacional. Este convenio, presentado como un 'acuerdo de cooperación nuclear pacífica', permitirá al reino saudita desarrollar su propio programa nuclear civil, lo que podría dar lugar a la capacidad de enriquecer uranio en su territorio, según han informado diversas fuentes. Tal desarrollo, aunque con intenciones pacíficas, plantea el inquietante espectro de una posible proliferación nuclear en una región marcada por la inestabilidad. Es relevante destacar que, junto al acuerdo de cooperación, se estableció un acuerdo de salvaguardias bilateral, que pretende asegurar el cumplimiento de normas de seguridad. Desde el Departamento de Energía, se ha comunicado que estos acuerdos son parte de un esfuerzo por fortalecer tanto la economía como la estrategia de no proliferación en el ámbito nuclear. No obstante, las reacciones no se hicieron esperar; expertos israelíes y organizaciones no gubernamentales han manifestado su preocupación, advirtiendo que este movimiento podría llevar a un potencial desarrollo de armas nucleares por parte de Arabia Saudita. La aprobación del acuerdo por parte del Congreso no parece garantizada, ya que hay voces críticas que cuestionan la decisión del gobierno.",
+        "vocabulary": [
+          {
+            "word": "trascendental",
+            "definition": "de gran importancia o relevancia."
+          },
+          {
+            "word": "inquietante",
+            "definition": "que causa preocupación o alarma."
+          },
+          {
+            "word": "convencioón",
+            "definition": "un acuerdo formal entre partes."
+          },
+          {
+            "word": "safeguardias",
+            "definition": "medidas para proteger algo."
+          },
+          {
+            "word": "manifestar",
+            "definition": "expresar algo, generalmente sentimientos o preocupaciones."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es la principal preocupación sobre el acuerdo firmado?",
+            "options": [
+              "Que cause un conflicto armado",
+              "Que Arabia Saudita desarrolle armas nucleares",
+              "Que se reduzca la producción de petróleo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de acuerdo adicional se firmó junto con el acuerdo de cooperación?",
+            "options": [
+              "Un acuerdo de seguridad",
+              "Un acuerdo de salvaguardias bilateral",
+              "Un acuerdo de comercio"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo describió el Departamento de Energía el propósito de los acuerdos?",
+            "options": [
+              "Fortalecer la economía y la estrategia de no proliferación",
+              "Reducir la producción de energía",
+              "Aumentar las tensiones con Irán"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Estados Unidos y Arabia Saudita sellan un acuerdo nuclear polémico con múltiples implicaciones regionales",
+        "text": "En un movimiento que podría reconfigurar el equilibrio de poder en el Medio Oriente, Estados Unidos ha formalizado un acuerdo nuclear con Arabia Saudita, un paso sin precedentes que, al menos teóricamente, daría al reino acceso a la tecnología nuclear civil y la capacidad de enriquecer uranio en su propio territorio. A pesar de ser presentado como un 'acuerdo de cooperación nuclear pacífica', las implicaciones de este pacto son extraordinariamente complejas, dado el contexto de creciente tensión entre Estados Unidos e Irán, lo que suscita legítimas inquietudes sobre una eventual proliferación. El Departamento de Energía enfatizó que este compromiso no solo es beneficioso para crear una asociación económica multimillonaria, sino que también busca establecer salvaguardias en el ámbito nuclear. No obstante, voces críticas, incluidos expertos israelíes, advierten que la posibilidad de que Arabia Saudita desarrolle infraestructura para enriquecer uranio podría transformarse en una amenaza tangible para la estabilidad regional. Además, la respuesta del Congreso estadounidense es incierta, ya que algunos legisladores han expresado su desacuerdo con la posibilidad de que se permita a una nación como Arabia Saudita acceder a tecnología tan delicada. A medida que las tensiones se intensifican, resulta imperativo analizar cómo este acuerdo redefinirá las dinámicas de poder nucleares en un contexto marcado por ambiciones geopolíticas entre grandes naciones.",
+        "vocabulary": [
+          {
+            "word": "reconfigurar",
+            "definition": "reorganizar o modificar la disposición de algo."
+          },
+          {
+            "word": "implicaciones",
+            "definition": "consecuencias o efectos derivados de una situación."
+          },
+          {
+            "word": "legítimas",
+            "definition": "justificadas, razonables o correctas."
+          },
+          {
+            "word": "infrastructure",
+            "definition": "las instalaciones y estructuras necesarias para el funcionamiento de una sociedad."
+          },
+          {
+            "word": "geopolíticas",
+            "definition": "relacionadas con la influencia política de la geografía."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cómo se presenta el acuerdo entre Estados Unidos y Arabia Saudita?",
+            "options": [
+              "Como un movimiento militar",
+              "Como un acuerdo nuclear pacífico",
+              "Como un acuerdo económico solamente"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué riesgo podría surgir según los críticos del acuerdo?",
+            "options": [
+              "Que Arabia Saudita sea un aliado fuerte",
+              "Que Arabia Saudita desarrolle tecnología nuclear peligrosa",
+              "Que se reduzca la inversión en energía"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es la reacción esperada del Congreso estadounidense hacia el acuerdo?",
+            "options": [
+              "Apoyo unánime",
+              "Incertidumbre y oposición de algunos legisladores",
+              "Indiferencia total"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

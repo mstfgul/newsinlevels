@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-23-tankers-make-sharp-u-turns-after-houthi-shipping-threat",
+    "date": "2026-07-23",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88e8/live/95f90c40-85ce-11f1-b976-0b9c15b0ccfc.png",
+    "category": "politics",
+    "titles": {
+      "en": "Oil Tankers Change Routes Following Houthi Maritime Embargo",
+      "de": "Öltanker ändern Kurs nach Houthi-Bedrohung",
+      "fr": "Les pétroliers font demi-tour après la menace Houthi",
+      "es": "El cambio de rumbo de varios barcos por el embargo Houthis"
+    }
+  },
+  {
+    "id": "2026-07-23-houthis-claim-attack-on-oil-tankers-as-us-launches-more-stri",
+    "date": "2026-07-23",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Houthis Attack Saudi Oil Tankers While US Strikes Iran",
+      "de": "Houthi-Angriff auf Öltanker und USA reagieren auf Iran",
+      "fr": "Les Houthis et les tensions maritimes",
+      "es": "Los hutíes llevan a cabo ataques a buques saudíes durante conflicto con Irán"
+    }
+  },
+  {
+    "id": "2026-07-23-us-signs-landmark-nuclear-deal-with-saudi-arabia",
+    "date": "2026-07-23",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Signs Major Nuclear Agreement with Saudi Arabia",
+      "de": "Vereinigte Staaten schließen bedeutenden Atomvertrag mit Saudi-Arabien",
+      "fr": "Accord nucléaire majeur entre les États-Unis et l'Arabie Saoudite",
+      "es": "Acuerdo nuclear entre Estados Unidos y Arabia Saudita"
+    }
+  },
+  {
     "id": "2026-07-22-us-renews-strikes-on-iran-as-trump-threatens-to-attack-under",
     "date": "2026-07-22",
     "source": "BBC News",
