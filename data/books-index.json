@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-23-the-year-of-magical-thinking-joan-didion",
+    "date": "2026-07-23",
+    "author": "Joan Didion",
+    "image": "https://covers.openlibrary.org/b/id/13693-L.jpg",
+    "titles": {
+      "en": "The Year of Magical Thinking",
+      "de": "Das Jahr des magischen Denkens",
+      "fr": "L'année de la pensée magique",
+      "es": "El año del pensamiento mágico"
+    }
+  },
+  {
     "id": "2026-07-22-steppenwolf-hermann-hesse",
     "date": "2026-07-22",
     "author": "Hermann Hesse",
