@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-23-2010-one-direction",
+    "date": "2026-07-23",
+    "year": 2010,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/330px-One_Direction_Sydney_4.jpg",
+    "titles": {
+      "en": "Formation and Rise of One Direction",
+      "de": "One Direction und ihr Erfolg",
+      "fr": "L'émergence de One Direction",
+      "es": "One Direction: un fenómeno global"
+    }
+  },
+  {
     "id": "2026-07-22-2002-israel-defense-forces",
     "date": "2026-07-22",
     "year": 2002,
