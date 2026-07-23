@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-23-the-passion-of-joan-of-arc-carl-theodor-dreyer",
+    "date": "2026-07-23",
+    "director": "Carl Theodor Dreyer",
+    "image": "https://image.tmdb.org/t/p/w780/tAgV9yxY6AC1bsPt3qJJQpD4s8.jpg",
+    "titles": {
+      "en": "The Passion of Joan of Arc",
+      "de": "Die Passion der Johanna von Orléans",
+      "fr": "La Passion de Jeanne d'Arc",
+      "es": "La Pasión de Juana de Arco"
+    }
+  },
+  {
     "id": "2026-07-22-ugetsu-kenji-mizoguchi",
     "date": "2026-07-22",
     "director": "Kenji Mizoguchi",
