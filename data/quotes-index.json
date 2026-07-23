@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-23-ralph-waldo-emerson-the-silent-organ-loudest-chant",
+    "date": "2026-07-23",
+    "author": "Ralph Waldo Emerson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg/330px-Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg",
+    "titles": {
+      "en": "The silent organ loudest chants The master's requiem.",
+      "de": "Der stille Orgel singt am lautesten das Requiem des Meisters.",
+      "fr": "L'orgue silencieux chante le requiem du maître.",
+      "es": "El órgano silencioso canta más fuerte el réquiem del maestro."
+    }
+  },
+  {
     "id": "2026-07-22-johann-wolfgang-von-goethe-individuality-of-expression-is",
     "date": "2026-07-22",
     "author": "Johann Wolfgang von Goethe",
