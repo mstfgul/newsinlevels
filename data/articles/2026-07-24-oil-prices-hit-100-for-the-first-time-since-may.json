@@ -1,0 +1,1369 @@
+{
+  "id": "2026-07-24-oil-prices-hit-100-for-the-first-time-since-may",
+  "date": "2026-07-24",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Oil prices hit $100 for the first time since May",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
+  "category": "business",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Oil Prices Reach $100",
+        "text": "Oil prices reach $100 a barrel. This is the first time since May. Conflict in the Middle East is big. This conflict causes fears about oil supplies. Oil prices go up more than 6% on Thursday. The US increases military strikes. Houthi militia attack oil tankers in Yemen. This attack threatens the oil route for Saudi Arabia. Gas prices also go up. The UK gas price is around 150. It was 98p at the end of June. Higher oil prices make petrol and diesel more expensive. This can mean higher prices for food. Many people feel this change.",
+        "vocabulary": [
+          {
+            "word": "prices",
+            "definition": "how much things cost"
+          },
+          {
+            "word": "conflict",
+            "definition": "a fight or trouble"
+          },
+          {
+            "word": "supplies",
+            "definition": "things people need"
+          },
+          {
+            "word": "military",
+            "definition": "related to soldiers and war"
+          },
+          {
+            "word": "expensive",
+            "definition": "costs a lot of money"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the price of oil now?",
+            "options": [
+              "$100 a barrel",
+              "$98 a barrel",
+              "$150 a barrel"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Where do the Houthi militia attack?",
+            "options": [
+              "In Yemen",
+              "In Saudi Arabia",
+              "In the US"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What happens to petrol prices?",
+            "options": [
+              "They go down",
+              "They stay the same",
+              "They go up"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Oil Prices Hit $100 for the First Time",
+        "text": "Oil prices hit $100 a barrel for the first time since May. The increasing conflict in the Middle East causes worries about energy supplies. Brent crude prices rise by more than 6% on Thursday. This happens after the US increases military strikes against Iran. Houthi militia in Yemen attack oil tankers in the Red Sea. This action threatens an important route for oil exports. Gas prices are also rising. The UK gas price is about 150 per therm. It was around 98p at the end of June. Higher oil prices usually mean petrol and diesel become more expensive. This can raise prices for many other products, like food. People feel the effect of rising costs each day.",
+        "vocabulary": [
+          {
+            "word": "conflict",
+            "definition": "a serious disagreement or fight"
+          },
+          {
+            "word": "worries",
+            "definition": "concerns or feelings of anxiety"
+          },
+          {
+            "word": "increasing",
+            "definition": "getting bigger or higher"
+          },
+          {
+            "word": "important",
+            "definition": "having great value or significance"
+          },
+          {
+            "word": "exports",
+            "definition": "goods sold to other countries"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the current oil price?",
+            "options": [
+              "$100 a barrel",
+              "$98 a barrel",
+              "$150 a barrel"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who attacks oil tankers?",
+            "options": [
+              "Iran",
+              "Houthi militia",
+              "Saudi Arabia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What happens to food prices?",
+            "options": [
+              "They go down",
+              "They stay the same",
+              "They can rise"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Oil Prices Hit $100 Again Due to Middle East Conflict",
+        "text": "Oil prices have reached $100 a barrel for the first time since May, which has alarmed many people worldwide. The ongoing conflict in the Middle East has raised fears about global energy supplies and stability in the region. Brent crude, the standard for oil prices, increased by more than 6% on Thursday after several days of rising prices. This rise in oil prices follows the United States stepping up military actions against Iran, which has further complicated the situation. Simultaneously, the Houthi militia from Yemen attacked oil tankers in the Red Sea, posing a serious threat to Saudi Arabia's main export route. \n\nGas prices have also steadily climbed during the past month, with the current UK gas price at about 150 per therm, a significant increase from around 98p at the end of June. Higher oil prices usually lead to increased costs for petrol and diesel. These changes can then contribute to rising food prices. If businesses face higher transportation costs, they often raise their prices to manage these costs. As a result, many consumers may feel the effects of these changes, especially those who heavily rely on driving for work or daily activities. Higher energy prices can create a ripple effect that impacts everyone.",
+        "vocabulary": [
+          {
+            "word": "benchmark",
+            "definition": "a standard or point of reference used for comparison."
+          },
+          {
+            "word": "militia",
+            "definition": "a group of civilians trained to fight in emergencies."
+          },
+          {
+            "word": "inflation",
+            "definition": "an increase in prices, reducing the purchasing power of money."
+          },
+          {
+            "word": "transportation",
+            "definition": "the act of moving goods or people from one place to another."
+          },
+          {
+            "word": "economic",
+            "definition": "related to the system of production and management of resources."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has caused oil prices to reach $100 a barrel again?",
+            "options": [
+              "The military actions in Ukraine",
+              "The escalating conflict in the Middle East",
+              "A rise in public demand for oil"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What has been the impact of rising oil prices on gas prices in the UK?",
+            "options": [
+              "Gas prices have fallen significantly",
+              "Gas prices have risen to about 150 per therm",
+              "Gas prices remained unchanged"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What effect can higher energy prices have on food costs?",
+            "options": [
+              "Food costs usually decrease automatically",
+              "Higher energy prices can lead to increased food prices",
+              "Energy prices have no effect on food prices"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Oil Prices Reach $100 a Barrel Amid Middle East Conflict",
+        "text": "Oil prices surged to $100 a barrel for the first time since May, due to the worsening situation in the Middle East, which has heightened worries about global energy supplies. On Thursday, Brent crude, the international benchmark for oil, increased by over 6% following days of rising prices as the United States intensified military operations against Iran. Prices saw a sharp rise after the Houthi militia from Yemen targeted oil tankers in the Red Sea, jeopardizing a crucial export route that Saudi Arabia had been using to avoid the Strait of Hormuz. Additionally, gas prices have been steadily climbing over the last month, with the UK benchmark gas price hitting around 150 per therm, up from approximately 98p at the end of June. Previously, oil prices had declined due to a temporary ceasefire between the US and Iran; however, that ceasefire has now collapsed. US Secretary of State Marco Rubio recently remarked that Iran's leaders were unwilling to negotiate. This ongoing conflict is likely to fuel inflation in several countries, including the UK and the US, resulting in higher costs for consumers. Typically, increased oil prices directly lead to higher petrol and diesel prices, impacting drivers and potentially raising costs of other goods like food due to increased transportation expenses.",
+        "vocabulary": [
+          {
+            "word": "surged",
+            "definition": "rose suddenly and strongly"
+          },
+          {
+            "word": "worsening",
+            "definition": "getting worse"
+          },
+          {
+            "word": "jeopardizing",
+            "definition": "putting in danger"
+          },
+          {
+            "word": "declined",
+            "definition": "went down or reduced"
+          },
+          {
+            "word": "negotiate",
+            "definition": "talk to reach an agreement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What was the price of oil per barrel mentioned in the article?",
+            "options": [
+              "$100",
+              "$150",
+              "$50"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who attacked the oil tankers in the Red Sea?",
+            "options": [
+              "US military",
+              "Houthi militia",
+              "Iranian forces"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is likely to happen as a result of the ongoing conflict?",
+            "options": [
+              "Lower prices",
+              "Higher inflation",
+              "More agreements"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Surge in Oil Prices: $100 a Barrel as Middle East Tensions Rise",
+        "text": "The price of oil recently soared to $100 a barrel for the first time since May, a development attributed largely to escalating tensions in the Middle East that have reimposed fears regarding global energy stability. On Thursday, Brent crude, recognized as the global standard for oil prices, experienced a notable increase exceeding 6%, a trend that followed several days of notable price hikes driven by intensified US military engagements in Iran. Notably, oil prices surged dramatically after the Houthi militia launched attacks on oil tankers in the Red Sea, thereby threatening a vital export passage utilized by Saudi Arabia to bypass the contentious Strait of Hormuz. Over the preceding month, gas prices have also consistently risen, marked by the UK benchmark gas price reaching approximately 150 per therm, a significant jump from about 98p at the end of June. While oil prices had retracted following a short-lived ceasefire between the US and Iran, this ceasefire has since failed. In a recent statement, US Secretary of State Marco Rubio emphasized that Iranian leadership appears unlikely to negotiate. The ongoing military conflict threatens to exacerbate inflationary pressures in various countries, notably the UK and the US, thus leading consumers to face higher prices across multiple sectors. As oil prices increase, petrol and diesel costs invariably rise, directly affecting drivers, while also causing considerable price hikes in food and other goods due to escalated transportation costs.",
+        "vocabulary": [
+          {
+            "word": "soared",
+            "definition": "rose rapidly and dramatically"
+          },
+          {
+            "word": "reimposed",
+            "definition": "put back into place after being removed"
+          },
+          {
+            "word": "contentious",
+            "definition": "causing a lot of disagreement"
+          },
+          {
+            "word": "short-lived",
+            "definition": "not lasting long; temporary"
+          },
+          {
+            "word": "exacerbate",
+            "definition": "to make worse or more severe"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What level did oil prices reach recently?",
+            "options": [
+              "$100",
+              "$200",
+              "$300"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did the Houthi militia attack?",
+            "options": [
+              "Security forces",
+              "Oil tankers",
+              "Military bases"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who mentioned that Iranian leadership seems unlikely to negotiate?",
+            "options": [
+              "President Biden",
+              "Marco Rubio",
+              "The Prime Minister"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Record Oil Prices at $100 Per Barrel: A Ripple Effect from Middle East Strife",
+        "text": "In a noteworthy development for global markets, oil prices have reached the $100 a barrel threshold for the first time since May, a surge stemming from the re-escalation of tensions in the Middle East, which has reignited concerns over the stability of energy supplies worldwide. On Thursday, Brent crude, serving as the global benchmark for oil pricing, experienced an extraordinary increase of over 6%, a progression that has materialized following an uptick in US military operations against Iran. The dramatic rise was precipitated by attacks from the Houthi militia on oil tankers navigating the Red Sea, a maneuver that has jeopardized a critical export corridor that Saudi Arabia employs to circumvent the increasingly contested Strait of Hormuz. Concurrently, gas prices have steadily risen over the past month, with the UK benchmark gas price now hovering around 150 per therm compared to approximately 98p at the close of June. The previous decline in oil prices had followed a temporizing ceasefire between the US and Iran; nevertheless, that ceasefire has unraveled, with US Secretary of State Marco Rubio asserting that Iranian leaders are evidently unprepared to engage in negotiations. This ongoing conflict harbors the potential to exacerbate inflationary pressures across many nations, including the United Kingdom and the United States, compelling consumers to brace for rising prices. As fuel prices escalate, implications extend beyond motorists, as increased costs invariably trickle down to essential goods, such as food, due to businesses transferring their heightened transportation expenses to consumers, ultimately posing a significant challenge for policymakers grappling with inflationary dynamics. \nShould such elevated energy prices persist, central banks may face mounting pressure to maintain higher interest rates, thereby creating further burdens for mortgage holders and borrowers already navigating financial challenges.",
+        "vocabulary": [
+          {
+            "word": "noteworthy",
+            "definition": "worthy of notice; important"
+          },
+          {
+            "word": "re-escalation",
+            "definition": "the act of increasing again after a decrease"
+          },
+          {
+            "word": "precipitated",
+            "definition": "caused to happen suddenly"
+          },
+          {
+            "word": "temporizing",
+            "definition": "delaying action to gain time"
+          },
+          {
+            "word": "grappling",
+            "definition": "struggling or wrestling with a problem"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What significant price level did oil recently reach?",
+            "options": [
+              "$100",
+              "$150",
+              "$200"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Which group attacked oil tankers in the Red Sea?",
+            "options": [
+              "Houthi militia",
+              "Saudi forces",
+              "US military"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What might happen if energy prices remain high?",
+            "options": [
+              "Interest rates may rise",
+              "Prices may fall",
+              "No effect on anything"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Ölpreise steigen auf 100 Dollar",
+        "text": "Die Ölpreise sind hoch. Jetzt kostet ein Barrel 100 Dollar. Dies ist das erste Mal seit Mai. Der Konflikt im Mittleren Osten ist stark. Die Angst über die Energieversorgung wächst. Am Donnerstag stiegen die Preise um mehr als 6 Prozent. Die USA machen mehr Angriffe auf Iran. Die Houthi-Miliz hat Öltanker angegriffen. Die Angriffe sind im Roten Meer. Saudi-Arabien benutzte einen wichtigen Weg. Der Weg umgeht den Hormus-Straße. Auch die Gaspreise steigen. Sie sind seit einem Monat hoch. Dies ist schwierig für viele Menschen.",
+        "vocabulary": [
+          {
+            "word": "Ölpreise",
+            "definition": "Preise für Öl"
+          },
+          {
+            "word": "Dollar",
+            "definition": "US-Währung"
+          },
+          {
+            "word": "Angriffe",
+            "definition": "Attacken oder Überfälle"
+          },
+          {
+            "word": "Konflikt",
+            "definition": "Streit oder Kampf"
+          },
+          {
+            "word": "Gaspreise",
+            "definition": "Preise für Gas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viel kostet ein Barrel Öl?",
+            "options": [
+              "50 Dollar",
+              "100 Dollar",
+              "150 Dollar"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer macht Angriffe auf Iran?",
+            "options": [
+              "Saudi-Arabien",
+              "Die Houthi-Miliz",
+              "Die USA"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wo sind die Öltanker angegriffen?",
+            "options": [
+              "Im Roten Meer",
+              "Im Mittelmeer",
+              "Im Atlantik"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ölpreise erreichen 100 Dollar",
+        "text": "Die Ölpreise sind stark gestiegen. Jetzt kostet ein Barrel 100 Dollar. Dies ist das erste Mal seit Mai. Der Konflikt im Mittleren Osten ist sehr gefährlich. Viele Menschen haben Angst vor der Energieversorgung und den hohen Preisen. Am Donnerstag sind die Preise um über 6 Prozent gestiegen. Dies geschah, weil die USA die militärischen Angriffe auf Iran intensiviert haben. Auch die Houthi-Miliz in Jemen greift an. Sie haben kürzlich Öltanker im Roten Meer angegriffen. Saudi-Arabien benutzt diesen Weg, um die Hormus-Straße zu umfahren. Die Gaspreise sind ebenfalls gestiegen. Sie sind jetzt teuer und die Menschen geben mehr Geld für Energie aus. Höhere Ölpreise machen Benzin und Diesel teurer. Dies hat viele Konsequenzen, weil die Preise für Lebensmittel und andere Waren auch steigen können. Wenn die Energiepreise steigen, trifft das alle Haushalte. Die Inflation könnte dadurch weiterhin zunehmen und das Leben der Menschen schwerer machen.",
+        "vocabulary": [
+          {
+            "word": "steigern",
+            "definition": "höher machen oder mehr von etwas bekommen"
+          },
+          {
+            "word": "Konflikt",
+            "definition": "ein Streit oder Krieg zwischen Gruppen oder Ländern"
+          },
+          {
+            "word": "Energieversorgung",
+            "definition": "das Bereitstellen von Energie, wie Gas oder Strom"
+          },
+          {
+            "word": "Konsequenz",
+            "definition": "eine Folge oder ein Ergebnis einer Handlung"
+          },
+          {
+            "word": "Inflation",
+            "definition": "wenn die Preise für Waren und Dienstleistungen steigen"
+          },
+          {
+            "word": "militärisch",
+            "definition": "es betrifft das Militär oder Streitkräfte"
+          },
+          {
+            "word": "Angriffe",
+            "definition": "ein körperlicher Übergriff oder Angriff auf etwas oder jemanden"
+          },
+          {
+            "word": "Haushalte",
+            "definition": "die Menschen, die in einem Haus leben, oder eine Familie"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie hoch sind die aktuellen Ölpreise?",
+            "options": [
+              "80 Dollar",
+              "100 Dollar",
+              "120 Dollar"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was passiert mit den Gaspreisen?",
+            "options": [
+              "Sie steigen.",
+              "Sie bleiben gleich.",
+              "Sie sinken."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum haben viele Menschen Angst?",
+            "options": [
+              "Weil die Preise steigen.",
+              "Weil das Wetter schlecht ist.",
+              "Weil es mehr Freizeit gibt."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ölpreise erreichen $100 zum ersten Mal seit Mai",
+        "text": "Die Ölpreise haben kürzlich $100 pro Barrel erreicht. Dies ist das erste Mal, dass die Preise so hoch sind, seit dem Monat Mai. Der Grund dafür sind die Spannungen im Mittleren Osten, die wieder stark gestiegen sind. Viele Menschen haben Angst um die weltweite Energieversorgung, weil sich die Situation zunehmend verschärft. Am Donnerstag stiegen die Preise um mehr als 6%, nachdem die USA ihre militärischen Angriffe auf Iran intensiviert haben. Diese Angriffe haben die Märkte verunsichert und dazu geführt, dass die Preise angestiegen sind. Die Houthi-Miliz im Jemen hat währenddessen Öltanker im Roten Meer angegriffen, was einen wichtigen Exportweg für Saudi-Arabien bedroht. Wenn dieser Weg blockiert wird, könnte das viele Länder in eine schwierige Lage bringen. Auch die Gaspreise sind gestiegen. Aktuell kostet Gas in Großbritannien etwa 150 Pence pro therm, was noch höher ist als in den letzten Monaten. Höhere Energiepreise führen dazu, dass Benzin und Diesel teurer werden. Dies hat Auswirkungen auf die Preise für viele Waren. Wenn Unternehmen die höheren Transportkosten an die Verbraucher weitergeben, müssen diese mehr Geld für Lebensmittel und andere Produkte bezahlen. Inflation war in Großbritannien und den USA bereits gesunken, könnte nun aber durch die hohen Energiepreise wieder steigen. Die Situation bleibt angespannt und könnte viele Menschen betreffen, besonders die, die auf ein festes Einkommen angewiesen sind. Das hat auch Konsequenzen für die Zentralbanken, die ihre Zinspolitik überdenken müssen. Wenn die Energiepreise hoch bleiben, könnte das viele wirtschaftliche Entscheidungen beeinflussen.",
+        "vocabulary": [
+          {
+            "word": "Miliz",
+            "definition": "Eine Miliz ist eine Gruppe von Kämpfern, die oft nicht zur regulären Armee gehört."
+          },
+          {
+            "word": "Exportweg",
+            "definition": "Ein Exportweg ist der Weg, den Waren nehmen, um ein Land zu verlassen."
+          },
+          {
+            "word": "Versorgung",
+            "definition": "Die Versorgung ist die Bereitstellung von wichtigen Gütern, wie z.B. Energie."
+          },
+          {
+            "word": "einflussreich",
+            "definition": "Einflussreich bedeutet, einen starken Einfluss oder Macht zu haben."
+          },
+          {
+            "word": "Zinspolitik",
+            "definition": "Zinspolitik beschreibt die Entscheidungen einer Zentralbank über die Zinssätze."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist der Grund für den Anstieg der Ölpreise?",
+            "options": [
+              "Die Spannungen im Mittleren Osten",
+              "Ein Anstieg der Ölproduktion",
+              "Ein Abkommen zwischen den USA und Iran"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was könnte geschehen, wenn die Energiepreise hoch bleiben?",
+            "options": [
+              "Die Inflationsrate könnte sinken",
+              "Die Zinspolitik könnte sich ändern",
+              "Die Verbraucherpreise könnten fallen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was geschah mit den Gaspreisen in Großbritannien?",
+            "options": [
+              "Sie sind gefallen",
+              "Sie sind gestiegen",
+              "Sie sind gleich geblieben"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ölpreise erreichen 100 Dollar pro Barrel zum ersten Mal seit Mai",
+        "text": "Die Ölpreise haben zum ersten Mal seit Mai die Marke von 100 Dollar pro Barrel überschritten, nachdem der eskalierende Konflikt im Nahen Osten die Ängste über die globalen Energieversorgung wieder angeheizt hat. Brent-Rohöl, der globale Maßstab für Ölpreise, stieg am Donnerstag um mehr als 6% nach mehreren Tagen der Preiserhöhungen, als die USA militärische Angriffe gegen den Iran verstärkten. Die Preise stiegen, nachdem die Huthi-Miliz im Jemen Öltanker im Roten Meer angegriffen hatte, und damit einen wichtigen Exportweg bedrohte, den Saudi-Arabien genutzt hat, um die Straße von Hormuz zu umgehen. Auch die Gaspreise sind im vergangenen Monat stetig gestiegen, wobei der Referenzpreis für Gas im Vereinigten Königreich derzeit etwa 150 Pence pro Therm beträgt, ein Anstieg von etwa 98 Pence Ende Juni. Zuvor waren die Ölpreise gefallen, nachdem ein vorübergehender Waffenstillstand zwischen den USA und dem Iran vereinbart worden war. Sie hatten das Niveau erreicht, das zuletzt vor dem Beginn der militärischen Aktionen der USA und Israels gegen den Iran am 28. Februar zu beobachten war. Der Waffenstillstand hat jedoch nicht gehalten, und in dieser Woche sagte der US-Außenminister Marco Rubio, dass die Verantwortlichen im Iran \"nicht bereit sind, ein Abkommen zu schließen\". Der anhaltende Konflikt birgt das Risiko, die Inflation in vielen Ländern, einschließlich des Vereinigten Königreichs und der USA, zu erhöhen, was zu höheren Preisen für Verbraucher führen kann. Höhere Ölpreise führen in der Regel dazu, dass Benzin und Diesel teurer werden. Während die Fahrer direkt betroffen sind, könnten auch Haushalte von höheren Preisen anderer Güter, wie Lebensmittel, betroffen sein, da Unternehmen die gestiegenen Transportkosten an die Kunden weitergeben. Die Inflation ist sowohl im Vereinigten Königreich auf 2,6% gesunken als auch in den USA auf 3,5%. Es bleibt jedoch fraglich, ob die Verlangsamung von kurzer Dauer sein wird aufgrund des erneuten Konflikts im Nahen Osten. Neue Daten, die am Donnerstag veröffentlicht wurden, zeigen, dass die Benzinpreise im Vereinigten Königreich seit Anfang Juli um 5 Pence pro Liter gestiegen sind und fast £1,56 erreicht haben. Diesel liegt bei durchschnittlich £1,72 pro Liter, so der RAC. Die durchschnittlichen Benzinpreise in den USA haben erneut 4 Dollar pro Gallone überschritten, ein Anstieg von $3,92 vor einem Monat, laut der Autofahrer-Interessenvertretung AAA. \"Teurerer Kraftstoff und Energie können sich auf die breite Wirtschaft auswirken, Kosten für Unternehmen erhöhen und letztendlich die Preise für Lebensmittel und andere Waren in die Höhe treiben\", sagte Jonathan Raymond, Investmentmanager bei Quilter Cheviot. \"Dies schafft eine weitere Herausforderung für die Zentralbanken, während sie weiterhin gegen die Inflation kämpfen.\"",
+        "vocabulary": [
+          {
+            "word": "eskalieren",
+            "definition": "stärker werden"
+          },
+          {
+            "word": "Angriffe",
+            "definition": "gewaltsame Handlungen gegen etwas oder jemanden"
+          },
+          {
+            "word": "Versorgung",
+            "definition": "bereitgestellte Mengen, die man braucht"
+          },
+          {
+            "word": "Umsatz",
+            "definition": "das Geld, das durch Verkauf eingenommen wird"
+          },
+          {
+            "word": "Herausforderung",
+            "definition": "eine schwierige Aufgabe"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist der Grund für den Anstieg der Ölpreise?",
+            "options": [
+              "wegen der guten Wirtschaftslage",
+              "wegen der Konflikte im Nahen Osten",
+              "wegen der steigenden Nachfrage"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagte Marco Rubio über den Iran?",
+            "options": [
+              "sie wollen einen Deal machen",
+              "sie sind nicht bereit, einen Deal zu machen",
+              "sie haben Frieden geschlossen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viel kostet Benzin jetzt im Vereinigten Königreich?",
+            "options": [
+              "es kostet fast £1,56 pro Liter",
+              "es kostet fast £1,20 pro Liter",
+              "es kostet fast £1,00 pro Liter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ölpreise erreichen erstmals seit Mai 100 Dollar pro Barrel",
+        "text": "Ölpreise haben den Wert von 100 Dollar pro Barrel überschritten, was für die Märkte seit Mai eine signifikante Wende darstellt. Diese Entwicklung ist nicht zuletzt auf den sich verschärfenden Konflikt im Nahen Osten zurückzuführen, der zur erneuten Besorgnis hinsichtlich der globalen Energieversorgung führt. Brent-Rohöl, als internationaler Referenzpreis anerkannt, verzeichnete am Donnerstag einen Anstieg von über 6%, nachdem militärische Angriffe der USA auf Iran wieder zugenommen hatten. Ein weiterer ausschlaggebender Faktor war der Angriff der Huthi-Miliz im Jemen auf Öltanker im Roten Meer, der eine entscheidende Handelsroute gefährdete. Diese Route wird von Saudi-Arabien genutzt, um potenzielle Blockaden in der Straße von Hormuz zu vermeiden. Zugleich haben auch die Gaspreise im Vereinigten Königreich ein neues Hoch erreicht und liegen derzeit bei etwa 150 Pence pro Therm, gestiegen von rund 98 Pence Ende Juni. Diese Preissteigerungen korrelieren direkt mit der gescheiterten Zusammenarbeit zwischen den USA und dem Iran, die zunächst in einem Waffenstillstand gipfelte. Bundesminister Marco Rubio äußerte in dieser Woche, dass die Entscheidungsträger im Iran nicht bereit seien, einen Kompromiss zu suchen. Sollte der Konflikt weiterhin anhalten, könnte dies die Inflation in zahlreichen Ländern, einschließlich UK und den USA, anheizen und die Lebenshaltungskosten für die Verbraucher erheblich beeinflussen. Der Anstieg der Ölpreise hat weitreichende Folgen, da er die Kosten für Benzin und Diesel erhöht, was nicht nur Fahrer, sondern auch Haushalte betrifft, die potenziell höhere Preise für Grundnahrungsmittel zu erwarten haben. Berichte zeigen, dass die inflationären Tendenzen in den letzten Monaten in beiden Ländern zwar gesenkt wurden, doch die Frage bleibt, ob diese Stabilität von Dauer sein kann, angesichts der Unruhen im Nahen Osten. Aktuelle Daten zeigen, dass die Benzinpreise in Großbritannien seit Juli um 5 Pence pro Liter gestiegen sind und Diesel im Durchschnitt 1,72 £ pro Liter kostet. In den USA liegen die Benzinpreise hingegen wieder über 4 Dollar pro Gallone, was einen Anstieg von 3,92 Dollar vor einem Monat darstellt. Jonathan Raymond, Investmentmanager von Quilter Cheviot, bemerkte, dass diese Preissteigerungen tiefere Risse im Wirtschaftsgefüge sowohl für Verbraucher als auch für Unternehmen verursachen könnten. Er warnte vor möglichen Anpassungen der Zinspolitik durch die Zentralbanken, will diese dem Druck der ansteigenden Lebenshaltungskosten Stand halten.",
+        "vocabulary": [
+          {
+            "word": "Konflikt",
+            "definition": "eine ernste Auseinandersetzung oder Streitigkeit"
+          },
+          {
+            "word": "Teuerung",
+            "definition": "allgemeiner Anstieg der Preise"
+          },
+          {
+            "word": "Zusammenarbeit",
+            "definition": "gemeinsame Arbeit oder Abkommen"
+          },
+          {
+            "word": "Stabilität",
+            "definition": "Zustand der Beständigkeit oder Ausgewogenheit"
+          },
+          {
+            "word": "Wirtschaftsgefüge",
+            "definition": "die Struktur und Beziehung in einer Wirtschaft"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was führte zur Erhöhung der Ölpreise?",
+            "options": [
+              "der Ukraine-Konflikt",
+              "der eskalierende Konflikt im Nahen Osten",
+              "die Stabilität der Märkte"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was äußerte Marco Rubio?",
+            "options": [
+              "dass der Iran bereit sei für einen Deal",
+              "dass andere Länder eingreifen sollten",
+              "dass Iran nicht bereit ist zu verhandeln"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was könnte inflationäre Tendenzen in den USA beeinflussen?",
+            "options": [
+              "Die Preise für Rohstoffe",
+              "Die Ernährungssicherheit",
+              "Die Lebenshaltungskosten"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ölpreise übersteigen erstmals seit Mai die 100-Dollar-Marke",
+        "text": "Die jüngsten Entwicklungen auf den globalen Märkten bestätigen eindrücklich, dass Ölpreise erstmals seit Mai wieder die schlüssige Grenze von 100 Dollar pro Barrel überschreiten. Vor dem Hintergrund der anwachsenden Spannungen im Nahen Osten manifestieren sich nicht nur Ängste hinsichtlich einer potentiellen Verknappung globaler Energiequellen, sondern es entfalten sich auch komplexe wirtschaftliche Verflechtungen mit weitreichenden Folgen. Brent-Rohöl, als internationaler Maßstab definiert, erlebte jüngst einen bemerkenswerten Anstieg von über 6%, vor allem bedingt durch die Intensivierung militärischer Operationen der USA gegen den Iran. Eine Eskalation wurde zusätzlich durch Angriffe der Huthi-Miliz auf Öltanker im Roten Meer provoziert, wodurch die vitale Handelsroute von Saudi-Arabien, die zur Umgehung der strategisch wichtigen Straße von Hormuz dient, deutlich bedroht ist. Parallel dazu verzeichnen auch die Gaspreise im Vereinigten Königreich eine drastische Steigerung; aktuell wird ein Preis von etwa 150 Pence pro Therm gemeldet, ein markanter Anstieg im Vergleich zu den 98 Pence, die Ende Juni verzeichnet wurden. Diese Entwicklungen sind erst recht alarmierend, wenn man bedenkt, dass der anfängliche Waffenstillstand zwischen den USA und dem Iran zu einem gewissen Maß an Stabilität führte, die jedoch nicht von langer Dauer war. In der Tat äußerte US-Außenminister Marco Rubio unmissverständlich, dass die derzeitige Führung im Iran nicht bereit sei, einen tragfähigen Kompromiss zu finden. Vor dem backdrop dieser unfriedlichen Situation könnte die Inflation, nicht nur im Vereinigten Königreich, sondern auch in den USA, erneut angeheizt werden, was die Lebenshaltungskosten der Konsumenten potentiell stark belasten könnte. Höhere Ölpreise gehen erfahrungsgemäß mit Preissteigerungen hinsichtlich Benzin und Diesel einher, was sich sowohl direkt auf Fahrer als auch indirekt auf Haushalte auswirken kann, da Unternehmen letztlich gezwungen sind, höhere Transportkosten an die Endverbraucher weiterzugeben. Es bleibt abzuwarten, ob die jüngst gesunkenen Inflationsraten in den USA auf 3,5% und im UK auf 2,6% nachhaltig sind, oder ob der schwelende Konflikt jegliche Hoffnung auf Stabilität untergräbt. Aktuelle Schätzungen belegen, dass die durchschnittlichen Benzinpreise im Vereinigten Königreich seit Juli um 5 Pence pro Liter gestiegen sind; Dieselpreise belaufen sich derzeit auf 1,72 £ pro Liter, während die Benzinpreise in den USA erneut über die entscheidende Marke von 4 Dollar pro Gallone hieven. Jonathan Raymond, ein Investmentmanager bei Quilter Cheviot, warnt nachdrücklich davor, dass die teureren Energiekosten weitreichende Folgen für die gesamte Wirtschaft haben können und sowohl Unternehmen als auch Verbraucher belasten. Sollte diese Kostensteigerung anhalten, werden die Zentralbanken unter Druck geraten, ihre Zinssätze langfristig hoch zu halten, was die finanzielle Belastung für Hypothekenschuldner und andere Kreditnehmer weiter erhöhen könnte.",
+        "vocabulary": [
+          {
+            "word": "exponential",
+            "definition": "sich schnell und stark verändernd, ansteigend"
+          },
+          {
+            "word": "manifeste",
+            "definition": "deutlich erkennbar oder offenkundig"
+          },
+          {
+            "word": "schwelende",
+            "definition": "etwas, das verborgen ist, aber trotzdem eine Auswirkung oder Gefahr darstellt"
+          },
+          {
+            "word": "tragfähig",
+            "definition": "so beschaffen, dass es funktioniert und Bestand hat"
+          },
+          {
+            "word": "absorbieren",
+            "definition": "etwas aufnehmen oder in sich aufnehmen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was geschah zuletzt mit den Ölpreisen?",
+            "options": [
+              "sie fielen unter 100 Dollar",
+              "sie überstiegen 100 Dollar",
+              "sie blieben gleich"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat Marco Rubio gesagt?",
+            "options": [
+              "dass die iranische Führung nicht verhandeln möchte",
+              "dass der Iran den Konflikt beendet hat",
+              "dass Energiepreise stabil bleiben"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was könnte die Zentralbanken unter Druck setzen?",
+            "options": [
+              "der Rückgang der Energiepreise",
+              "die steigenden Lebenshaltungskosten",
+              "die Stabilität der Märkte"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les prix du pétrole montent à 100 dollars",
+        "text": "Les prix du pétrole sont à 100 dollars. C'est la première fois depuis mai. Le conflit au Moyen-Orient commence à faire peur. Les gens ont peur des fournitures d'énergie. Le pétrole Brent est en hausse de 6 %. Les États-Unis font plus de frappes militaires contre l'Iran. Les milices yéménites attaquent des tankers de pétrole. Cela menace une route d'exportation importante. Les prix du gaz augmentent aussi. Le prix du gaz au Royaume-Uni est maintenant environ 150. La hausse des prix affecte les consommateurs. Les prix de l'essence et du diesel montent également. Cela touche les chauffeurs et les foyers.",
+        "vocabulary": [
+          {
+            "word": "pétrole",
+            "definition": "Un liquide noir utilisé pour faire du carburant."
+          },
+          {
+            "word": "prix",
+            "definition": "Combien on paie pour quelque chose."
+          },
+          {
+            "word": "guerre",
+            "definition": "Un grand conflit entre des pays ou des groupes."
+          },
+          {
+            "word": "peur",
+            "definition": "Un sentiment d'inquiétude."
+          },
+          {
+            "word": "essence",
+            "definition": "Le carburant pour les voitures."
+          }
+        ],
+        "questions": [
+          {
+            "question": "À combien sont les prix du pétrole ?",
+            "options": [
+              "80 dollars",
+              "100 dollars",
+              "150 dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui attaque des tankers de pétrole ?",
+            "options": [
+              "Les États-Unis",
+              "Les milices yéménites",
+              "L'Iran"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Les prix de quoi augmentent aussi ?",
+            "options": [
+              "Les vêtements",
+              "Les médicaments",
+              "Les prix du gaz"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les prix du pétrole atteignent 100 dollars",
+        "text": "Les prix du pétrole atteignent 100 dollars par baril pour la première fois depuis mai. Ce changement se produit à cause du conflit croissant au Moyen-Orient. Cela crée des craintes pour les approvisionnements mondiaux d'énergie. Le pétrole Brent, une référence pour les prix, augmente de plus de 6 %. Cela arrive après plusieurs jours de hausse. Les États-Unis intensifient leurs frappes militaires contre l'Iran. En même temps, des milices au Yémen attaquent des tankers dans la mer Rouge. Cela menace une importante route d'exportation que l'Arabie Saoudite utilise. Les prix du gaz augmentent aussi, avec un prix au Royaume-Uni prochain à environ 150. L'inflation risque d'augmenter avec les prix élevés.",
+        "vocabulary": [
+          {
+            "word": "baril",
+            "definition": "Un grand conteneur pour le liquide."
+          },
+          {
+            "word": "conflit",
+            "definition": "Un désaccord ou une lutte entre des parties."
+          },
+          {
+            "word": "approvisionnement",
+            "definition": "Avoir ce dont on a besoin."
+          },
+          {
+            "word": "militaires",
+            "definition": "Des forces armées d'un pays."
+          },
+          {
+            "word": "inflation",
+            "definition": "Quand les prix augmentent dans une économie."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi les prix du pétrole augmentent-ils ?",
+            "options": [
+              "À cause de la pluie",
+              "À cause du conflit",
+              "À cause des nouvelles voitures"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le prix du gaz au Royaume-Uni ?",
+            "options": [
+              "Environ 150",
+              "Environ 100",
+              "Environ 200"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Que font les États-Unis en ce moment ?",
+            "options": [
+              "Ils téléchargent des jeux",
+              "Ils tiennent des négociations",
+              "Ils intensifient des frappes militaires"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les prix du pétrole atteignent 100 dollars pour la première fois depuis mai",
+        "text": "Les prix du pétrole ont atteint 100 dollars par baril pour la première fois depuis mai. Ce changement est dû à l'escalade du conflit au Moyen-Orient. Les craintes augmentent concernant les approvisionnements en énergie dans le monde entier. Ainsi, le prix du pétrole Brent, qui est une référence mondiale, a augmenté de plus de 6 % jeudi. Cela s'explique par des frappes militaires intensifiées des États-Unis contre l'Iran. Par ailleurs, les milices Houthi au Yémen ont attaqué des tankers de pétrole dans la mer Rouge, menaçant une route d’exportation cruciale pour l'Arabie Saoudite. Au cours de ce mois, les prix du gaz ont également augmenté, avec un prix moyen d'environ 150 pour le Royaume-Uni. Cette hausse des prix risque de provoquer une inflation dans plusieurs pays comme les États-Unis et le Royaume-Uni. Les prix élevés du pétrole entraînent une augmentation des prix de l'essence et du diesel. Les consommateurs et les ménages ressentent déjà cet impact dans leur budget.",
+        "vocabulary": [
+          {
+            "word": "escalade",
+            "definition": "L'augmentation d'un problème ou d'un conflit."
+          },
+          {
+            "word": "approvisionnements",
+            "definition": "Les ressources disponibles pour une utilisation."
+          },
+          {
+            "word": "Houthi",
+            "definition": "Un groupe armé au Yémen."
+          },
+          {
+            "word": "menace",
+            "definition": "Un danger potentiel pour quelque chose."
+          },
+          {
+            "word": "inflation",
+            "definition": "Un phénomène économique où les prix augmentent."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi les prix du pétrole ont-ils augmenté?",
+            "options": [
+              "À cause du conflit au Moyen-Orient",
+              "À cause d'une fête",
+              "À cause de la pluie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le prix moyen du gaz au Royaume-Uni?",
+            "options": [
+              "Environ 100",
+              "Environ 150",
+              "Environ 200"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel groupe attaque des tankers au Yémen?",
+            "options": [
+              "Les États-Unis",
+              "Les Houthi",
+              "L'Iran"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Les prix du pétrole atteignent 100 $ pour la première fois depuis mai",
+        "text": "Les prix du pétrole ont atteint 100 $ le baril pour la première fois depuis mai, alors que le conflit croissant au Moyen-Orient ravive les craintes concernant les approvisionnements énergétiques mondiaux. Le brut Brent, référence mondiale des prix du pétrole, a augmenté de plus de 6 % jeudi dernier après plusieurs jours de hausse, notamment suite à l'intensification des frappes militaires américaines contre l'Iran. Les prix ont fortement grimpé après que des miliśtaires Houthis au Yémen ont attaqué des pétroliers dans la mer Rouge, menaçant ainsi une route d'exportation clé que l'Arabie saoudite utilise pour contourner le détroit d'Hormuz. Les prix du gaz ont également augmenté régulièrement au cours du mois dernier, le prix de référence pour le gaz au Royaume-Uni étant actuellement d'environ 150 pence par therm, contre environ 98 pence fin juin. Les prix du pétrole avaient diminué après un cessez-le-feu temporaire entre les États-Unis et l'Iran, mais ce cessez-le-feu a échoué. En outre, cette semaine, le secrétaire d'État américain, Marco Rubio, a déclaré que les dirigeants iraniens \"n'étaient pas prêts à conclure un accord\". Ce conflit en cours pourrait faire grimper l'inflation dans de nombreux pays, notamment au Royaume-Uni et aux États-Unis, entraînant ainsi une augmentation des prix pour les consommateurs. Des prix du pétrole plus élevés signifient généralement que l'essence et le diesel deviennent plus chers, ce qui affecte directement les conducteurs.",
+        "vocabulary": [
+          {
+            "word": "baril",
+            "definition": "Un baril est une unité pour mesurer le pétrole."
+          },
+          {
+            "word": "croissant",
+            "definition": "Qui augmente ou devient plus grand."
+          },
+          {
+            "word": "approvisionnement",
+            "definition": "Fourniture de quelque chose, ici du pétrole."
+          },
+          {
+            "word": "conflit",
+            "definition": "Lorsque deux groupes sont en désaccord ou se battent."
+          },
+          {
+            "word": "cesser",
+            "definition": "Arrêter quelque chose."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel a été le prix du baril de pétrole récemment?",
+            "options": [
+              "95 $",
+              "100 $",
+              "105 $"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a intensifié les frappes militaires contre l'Iran?",
+            "options": [
+              "L'Arabie saoudite",
+              "Les États-Unis",
+              "La Russie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel type de prix a également augmenté avec le prix du pétrole?",
+            "options": [
+              "Les prix des légumes",
+              "Les prix de l'essence",
+              "Les prix des maisons"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Les prix du pétrole franchissent le seuil des 100 $ pour la première fois depuis mai",
+        "text": "Pour la première fois depuis le mois de mai, les prix du pétrole ont atteint 100 $ le baril, une montée significative qui suscite des inquiétudes quant à l’approvisionnement énergétique mondial, exacerbé par la recrudescence des tensions au Moyen-Orient. En effet, le brut Brent, référence internationale, a enregistré une hausse de plus de 6 % ce jeudi, suite à des jours consécutifs de flambée, survenant à l’heure où les États-Unis intensifient leurs frappes militaires contre l'Iran. Cette escalade a été précipité par l'attaque de la milice Houthie au Yémen contre des pétroliers dans la mer Rouge, exacerbant les préoccupations sur une route d'exportation cruciale pour l'Arabie saoudite, qui permet de contourner le détroit stratégique d'Hormuz. En parallèle, les tarifs du gaz ont également connu une progression constante, le prix de référence pour le gaz au Royaume-Uni approchant les 150 pence par therm, en hausse par rapport aux 98 pence observés fin juin. Auparavant, les prix avaient enregistré une baisse après un cessez-le-feu temporaire entre les États-Unis et l'Iran, ce dernier ayant échoué. Le secrétaire d'État américain, Marco Rubio, a affirmé plus tôt cette semaine que les dirigeants iranéens \"n'étaient pas disposés à négocier\". Les tensions persistantes risquent d'entraîner une inflation croissante dans plusieurs pays, y compris au Royaume-Uni et aux États-Unis, mettant ainsi pression sur les consommateurs.",
+        "vocabulary": [
+          {
+            "word": "franchir",
+            "definition": "Passer au-delà d'une limite ou d'un seuil."
+          },
+          {
+            "word": "exacerber",
+            "definition": "Rendre une situation plus intense ou plus difficile."
+          },
+          {
+            "word": "concernant",
+            "definition": "Relatif à un sujet spécifique."
+          },
+          {
+            "word": "observé",
+            "definition": "Remarqué ou constaté."
+          },
+          {
+            "word": "pression",
+            "definition": "Influence ou contrainte exercée sur quelqu'un."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand les prix du pétrole ont-ils atteint 100 $?",
+            "options": [
+              "En mai",
+              "La semaine dernière",
+              "Le mois prochain"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a considérablement augmenté ses frappes militaires?",
+            "options": [
+              "L'Iran",
+              "Les États-Unis",
+              "L'Arabie saoudite"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est l'impact potentiel sur les consommateurs?",
+            "options": [
+              "Diminuer les prix",
+              "Augmenter la pression économique",
+              "Rendre les choses plus faciles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "L'envol des prix pétroliers au-delà de 100 $ : une nouvelle tempête économique?",
+        "text": "Pour la première fois depuis le mois de mai, les prix du pétrole s'élèvent au-delà des 100 $ le baril, suscitant de vives inquiétudes quant à la sécurité des approvisionnements énergétiques mondiaux, en réaction à l'escalade des conflits au Moyen-Orient. Le brut Brent, benchmark international, enregistre une flambée de plus de 6 % en ce jeudi, un relèvement qui n'est pas anodin, étant donné que cette hausse résulte de frappes militaires renforcées menées par les États-Unis contre l'Iran. Les tensions se sont intensifiées, en grande partie en raison de l'attaque des Houthis yéménites sur des pétroliers dans les eaux tumultueuses de la mer Rouge, menaçant ainsi une voie d'exportation essentielle pour l'Arabie saoudite, qui tente de contournait le détroit d'Hormuz devenu impraticable. Parallèlement, les prix du gaz continuent de flamber, le coût de référence britannique s'établissant aux alentours de 150 pence par therm, une augmentation notable par rapport aux 98 pence relevés fin juin. Bien que les prix aient précédemment reculé suite à un cessez-le-feu qui,ironise-t-on, n'aura duré que l'espace d'un souffle, la déclaration du secrétaire d'État américain, Marco Rubio, affirmant que les autorités iraniennes \"n'étaient pas enclin à négocier\", clarifie le tableau pessimiste d'un retour à la paix. Ce climat de tension croissante soulève des perspectives alarmantes en matière d'inflation pour plusieurs pays, incluant le Royaume-Uni et les États-Unis, pressant ainsi les consommateurs face à un renchérissement inévitable des biens de première nécessité. Ce retournement de situation, révélateur d'une économie mondiale fragile, soulève de véritables préoccupations pour les banques centrales déjà en lutte contre le spectre de l'inflation.",
+        "vocabulary": [
+          {
+            "word": "élever",
+            "definition": "Faire monter quelque chose."
+          },
+          {
+            "word": "vif",
+            "definition": "Intense, énergique."
+          },
+          {
+            "word": "ironie",
+            "definition": "Lorsque l'on dit le contraire de ce que l'on pense pour se moquer."
+          },
+          {
+            "word": "renchérit",
+            "definition": "Augmenter les prix de manière significative."
+          },
+          {
+            "word": "perspective",
+            "definition": "Idée vague de ce qui pourrait arriver."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel événement a entraîné l'augmentation des prix du pétrole?",
+            "options": [
+              "Une guerre entre pays",
+              "Des frappes militaires américaines",
+              "Un accord de paix"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix de référence est mentionné pour le gaz au Royaume-Uni?",
+            "options": [
+              "150 pence par therm",
+              "100 pence par therm",
+              "200 pence par therm"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel impact l'augmentation des prix du pétrole pourrait-elle avoir sur l'économie?",
+            "options": [
+              "Diminuer les coûts pour les entreprises",
+              "Augmenter les prix pour les consommateurs",
+              "Faciliter la vie des consommateurs"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Los precios del petróleo suben a $100",
+        "text": "Los precios del petróleo son altos. Ahora son $100 por barril. Esto es nuevo desde mayo. El conflicto en el Medio Oriente es grande. Hay miedo por la energía en el mundo. Los precios suben más del 6%. Los Estados Unidos atacan a Irán. Hay un ataque en Yemen. Los precios de la gasolina son altos también. Suben desde hace un mes. La gasolina en el Reino Unido cuesta £1.56. En Estados Unidos, es $4 por galón. Esto preocupa a las personas. La inflación puede aumentar. Las familias pueden pagar más.",
+        "vocabulary": [
+          {
+            "word": "petróleo",
+            "definition": "líquido importante para energía"
+          },
+          {
+            "word": "precio",
+            "definition": "cuánto cuesta algo"
+          },
+          {
+            "word": "alto",
+            "definition": "que tiene mucha altura o cantidad"
+          },
+          {
+            "word": "conflicto",
+            "definition": "una pelea o problema serio"
+          },
+          {
+            "word": "miedo",
+            "definition": "sentir temor o preocupación"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuánto cuesta el petróleo ahora?",
+            "options": [
+              "$100",
+              "$50",
+              "$150"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde hay un conflicto grande?",
+            "options": [
+              "En África",
+              "En el Medio Oriente",
+              "En Europa"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué sube además del petróleo?",
+            "options": [
+              "El agua",
+              "La gasolina",
+              "La comida"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Los precios del petróleo alcanzan $100",
+        "text": "Los precios del petróleo suben a $100 por barril. Esta es la primera vez desde mayo que esto ocurre. El conflicto en el Medio Oriente causa mucha preocupación a nivel mundial. Durante esta semana, los precios subieron más del 6%. Estados Unidos realiza ataques contra Irán. Además, los Houthi en Yemen atacan barcos en el Mar Rojo, lo que es un problema grave para Arabia Saudita. Las familias sienten el impacto porque los precios de la gasolina aumentan poco a poco. En el Reino Unido, el precio es de £1.56 por litro. En Estados Unidos, se paga más de $4 por galón. Como resultado de estos aumentos, la inflación está subiendo de nuevo. Esto significa que las familias pueden pagar más por la comida y otros productos. La situación es difícil para las personas y se complica cada vez más. Si los precios del petróleo siguen subiendo, los costos de vida también aumentarán y afectarán a muchas personas.",
+        "vocabulary": [
+          {
+            "word": "combustible",
+            "definition": "sustancia que produce energía al quemarse."
+          },
+          {
+            "word": "conflicto",
+            "definition": "disputa o lucha entre grupos."
+          },
+          {
+            "word": "inflación",
+            "definition": "aumento general de los precios en un país."
+          },
+          {
+            "word": "gasolina",
+            "definition": "combustible líquido para vehículos."
+          },
+          {
+            "word": "preocupación",
+            "definition": "sentimiento de inquietud o temor."
+          },
+          {
+            "word": "familia",
+            "definition": "grupo de personas que viven juntas y se cuidan."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Por qué suben los precios del petróleo?",
+            "options": [
+              "Por el conflicto en el Medio Oriente.",
+              "Porque la gasolina está barata.",
+              "Por la paz entre países."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuánto cuesta la gasolina en el Reino Unido?",
+            "options": [
+              "£1.56 por litro.",
+              "£2.00 por litro.",
+              "£1.00 por litro."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué pasa si los precios del petróleo siguen subiendo?",
+            "options": [
+              "Los costos de vida aumentarán.",
+              "Todo será más barato.",
+              "No habrá problemas."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Los precios del petróleo alcanzan niveles altos",
+        "text": "Los precios del petróleo han alcanzado $100 por barril, lo que representa un aumento significativo. Es la primera vez desde mayo que esto ocurre. Este incremento ha causado consternación y preocupación en muchos países, porque lo que sucede en el Medio Oriente afecta las reservas de energía en todo el mundo. El conflicto en esta región ha incrementado los temores sobre el suministro de energía global. En las últimas semanas, el petróleo Brent, que es el estándar global, ha subido más del 6% en un solo día. Estados Unidos ha intensificado los ataques militares contra Irán, lo que complica aún más la situación. Además, los Houthi en Yemen han atacado barcos que transportan petróleo en el Mar Rojo, lo que afecta gravemente a Arabia Saudita, que depende de estas rutas para exportar su producción. La subida de precios ha tenido consecuencias directas, ya que los precios de la gasolina también han subido y en el Reino Unido alcanzan casi £1.56 por litro. En Estados Unidos, la gasolina supera los $4 por galón. Aunque la inflación estaba bajando, se teme que este aumento en los precios del petróleo también cause incrementos en los precios de otros productos, como alimentos, que podrían subir debido a los mayores costos de transporte. Este escenario es preocupante para las familias, porque si los precios del petróleo continúan altos, muchas personas sufrirán el impacto. Esto podría llevar a una nueva ola de inflación que afectará la economía de muchos países, haciéndola más frágil y complicada para los consumidores. La situación actual evidencia la relación entre conflictos geopolíticos y la economía global.",
+        "vocabulary": [
+          {
+            "word": "incremento",
+            "definition": "aumento en cantidad o tamaño."
+          },
+          {
+            "word": "consternación",
+            "definition": "sorpresa o angustia causada por una noticia inesperada."
+          },
+          {
+            "word": "gravemente",
+            "definition": "de manera seria o crítica."
+          },
+          {
+            "word": "importancia",
+            "definition": "el valor o la relevancia de algo."
+          },
+          {
+            "word": "escenario",
+            "definition": "una situación o contexto específico."
+          },
+          {
+            "word": "frágil",
+            "definition": "débil, que puede romperse fácilmente."
+          },
+          {
+            "word": "oleoducto",
+            "definition": "tubería utilizada para transportar petróleo."
+          },
+          {
+            "word": "francamente",
+            "definition": "honestamente o de manera clara."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es el precio actual del petróleo por barril?",
+            "options": [
+              "$50",
+              "$100",
+              "$150"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué efecto tienen los precios del petróleo en la gasolina en Estados Unidos?",
+            "options": [
+              "Aumentan los precios",
+              "Disminuyen los precios",
+              "No tienen efecto"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué han hecho los Houthi en relación al suministro de petróleo?",
+            "options": [
+              "Han defendido los barcos",
+              "Han atacado barcos en el Mar Rojo",
+              "Han negociado la paz"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Los precios del petróleo alcanzan los 100 dólares por barril por primera vez desde mayo",
+        "text": "Los precios del petróleo han subido a 100 dólares por barril, marcando la primera vez que alcanzan esta cifra desde mayo. Este aumento se debe al creciente conflicto en Oriente Medio, que ha reavivado los temores sobre el suministro de energía a nivel global. El crudo Brent, que es el referente global para los precios del petróleo, experimentó un incremento de más del 6% el jueves tras varios días de alzas, especialmente después de que Estados Unidos intensificara sus ataques militares contra Irán. La situación se complicó aún más cuando las milicias hutíes en Yemen asaltaron petroleros en el Mar Rojo, lo que pone en peligro una ruta de exportación clave que Arabia Saudita ha utilizado para evitar el estrecho de Ormuz. A su vez, los precios del gas han aumentado de manera constante en el último mes, alcanzando un precio de referencia en el Reino Unido de alrededor de 150 p por termia, en comparación con un precio de 98p a finales de junio. Aunque los precios del petróleo habían caído tras un alto el fuego temporal entre Estados Unidos e Irán, este cese de hostilidades no ha logrado mantenerse. Marco Rubio, secretario de Estado de EE. UU., afirmó esta semana que los líderes en Irán ",
+        "vocabulary": [
+          {
+            "word": "aumento",
+            "definition": "incremento en cantidad o valor"
+          },
+          {
+            "word": "temores",
+            "definition": "miedos o preocupaciones"
+          },
+          {
+            "word": "crudo",
+            "definition": "petróleo sin procesar"
+          },
+          {
+            "word": "milicias",
+            "definition": "grupos armados no regulares"
+          },
+          {
+            "word": "ruta",
+            "definition": "camino o vía para el tráfico"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué precio alcanzó el petróleo?",
+            "options": [
+              "80 dólares",
+              "100 dólares",
+              "150 dólares"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién intensificó los ataques militares?",
+            "options": [
+              "Arabia Saudita",
+              "Irán",
+              "Estados Unidos"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué han hecho las milicias hutíes?",
+            "options": [
+              "Asaltaron petroleros",
+              "Hicieron un trato",
+              "Disminuyeron precios"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Los precios del petróleo superan los 100 dólares por barril, el nivel más alto desde mayo",
+        "text": "Por primera vez desde mayo, los precios del petróleo han escalado a 100 dólares por barril debido al resurgimiento de tensiones en Oriente Medio que han exacerbado la preocupación por el suministro energético global. El petróleo Brent, punto de referencia internacional, ha observado un incremento superior al 6% en un solo día, tras la intensificación de los ataques militares de Estados Unidos contra Irán. Esta situación se ha visto agravada por el ataque de las milicias hutíes en Yemen a petroleros en el Mar Rojo; un acto que no solo representa una amenaza directa, sino que también compromete una vital ruta de exportación que Arabia Saudita ha estado utilizando para sortear el estrecho de Ormuz. Además, los precios del gas en el Reino Unido se han disparado, alcanzando alrededor de 150 p por termia. Los precios del petróleo, que habían bajado temporalmente tras un alto el fuego entre Estados Unidos e Irán, ahora están en una trayectoria ascendente y Marco Rubio, secretario de Estado estadounidense, ha dejado claro que los líderes iraníes “no están dispuestos a hacer un acuerdo”. Las consecuencias de este conflicto no solo impactan el mercado del petróleo, sino que también podrían empujar la inflación en países como Reino Unido y Estados Unidos, afectando a los consumidores y aumentando los costes en bienes básicos como alimentos, lo que podría provocar un incremento en la tasa inflacionaria.  Las presiones resultantes sobre las tasas de interés podrían obligar a los bancos centrales a aumentar sus medidas, generando un impacto significativo en familias y deudores. ",
+        "vocabulary": [
+          {
+            "word": "escalado",
+            "definition": "aumento o incremento gradual"
+          },
+          {
+            "word": "exacerbado",
+            "definition": "intensificado o agravado"
+          },
+          {
+            "word": "comprometer",
+            "definition": "poner en peligro o arriesgar"
+          },
+          {
+            "word": "vital",
+            "definition": "muy importante o esencial"
+          },
+          {
+            "word": "impulsar",
+            "definition": "producir un cambio o incremento"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál ha sido el nuevo precio del petróleo?",
+            "options": [
+              "90 dólares",
+              "100 dólares",
+              "110 dólares"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué dijo Marco Rubio sobre Irán?",
+            "options": [
+              "Están listos para negociar",
+              "No están dispuestos a hacer un acuerdo",
+              "Invertirán en petróleo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué podría aumentar como consecuencia del conflicto?",
+            "options": [
+              "Los precios de los alimentos",
+              "Los precios de la vivienda",
+              "Los precios de los servicios"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Los precios del petróleo superan los 100 dólares, marcando un nuevo despertar de tensiones en Oriente Medio",
+        "text": "En un giro dramático de los acontecimientos, los precios del petróleo han cruzado la barrera de los 100 dólares por barril, el umbral no alcanzado desde mayo, alimentado por la resurgente inestabilidad en el Oriente Medio que ha encendido una oleada de preocupación sobre la seguridad del suministro energético a nivel mundial. Este significativo aumento, que ha registrado un ascenso de más del 6% en una sola jornada, se produce en un contexto en el que Estados Unidos ha intensificado sus acciones militares contra Irán. A esto se suma el ataque perpetrado por milicias hutíes en Yemen contra petroleros situados en el Mar Rojo, lo que no solo plantea una amenaza directa a la navegación, sino que también compromete una ruta de exportación crucial que Arabia Saudita ha empleado para evitar el estrecho de Ormuz. En paralelo, el precio del gas en el Reino Unido ha escalado, alcanzando 150 p por termia, mientras que el panorama previo de índices en descenso ha dado paso a una nueva etapa de incertidumbre. Marco Rubio, secretario de Estado de EE. UU., ha declarado que los líderes iraníes “no están listos para negociar”, sugiriendo que la diplomacia permanece estancada. Las repercusiones de este conflicto son multifacéticas, puesto que podrían propiciar un incremento de la inflación, golpeando a los consumidores de países como el Reino Unido y los Estados Unidos. A medida que los precios del petróleo se disparan, el impacto en los costes de transporte puede trasladarse a los precios de alimentos y bienes esenciales, complicando aún más el entorno económico. Esta compleja dinámica presiona a los bancos centrales, que podrían verse obligados a considerar un aumento en las tasas de interés, una jugada que podría resultar devastadora para los prestatarios y las familias que ya enfrentan dificultades económicas.",
+        "vocabulary": [
+          {
+            "word": "dramático",
+            "definition": "impactante o sorprendente en gran medida"
+          },
+          {
+            "word": "oleada",
+            "definition": "aumento repentino en cantidades o magnitud"
+          },
+          {
+            "word": "perpetrado",
+            "definition": "cometido o llevado a cabo"
+          },
+          {
+            "word": "estancada",
+            "definition": "sin movimiento o avance"
+          },
+          {
+            "word": "repercusiones",
+            "definition": "consecuencias o efectos resultantes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué eventos han llevado al aumento de precios del petróleo?",
+            "options": [
+              "La estabilidad en Oriente Medio",
+              "El conflicto y los ataques en la región",
+              "La inversión de Arabia Saudita"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es un posible efecto del aumento en los precios del petróleo?",
+            "options": [
+              "Reducción de la inflación",
+              "Aumento en los precios de los alimentos",
+              "Disminución en el coste de transporte"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué podría suceder con las tasas de interés?",
+            "options": [
+              "Bajarían por presión económica",
+              "Aumentarían para combatir la inflación",
+              "Permanecerían igual"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}

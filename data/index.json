@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-24-indonesian-babies-were-trafficked-to-singapore-what-happens-",
+    "date": "2026-07-24",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a4/live/b3961660-8666-11f1-93cb-95d7eb12ec49.jpg",
+    "category": "world",
+    "titles": {
+      "en": "The Issue of Trafficked Indonesian Babies",
+      "de": "Babys wurden nach Singapur verkauft",
+      "fr": "Le trafic de bébés en Indonésie et ses conséquences",
+      "es": "El futuro de los bebés indonesios en Singapur"
+    }
+  },
+  {
+    "id": "2026-07-24-oil-prices-hit-100-for-the-first-time-since-may",
+    "date": "2026-07-24",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
+    "category": "business",
+    "titles": {
+      "en": "Oil Prices Hit $100 Again Due to Middle East Conflict",
+      "de": "Ölpreise erreichen $100 zum ersten Mal seit Mai",
+      "fr": "Les prix du pétrole atteignent 100 dollars pour la première fois depuis mai",
+      "es": "Los precios del petróleo alcanzan niveles altos"
+    }
+  },
+  {
+    "id": "2026-07-24-us-hits-dozens-of-trading-partners-with-new-wave-of-tariffs",
+    "date": "2026-07-24",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c18a/live/839d6280-8727-11f1-926f-c90d1bcfbc84.jpg",
+    "category": "business",
+    "titles": {
+      "en": "US Introduces New Tariffs on Imports from 60 Countries",
+      "de": "US-Verwaltung verhängt neue Zölle auf Waren",
+      "fr": "Les États-Unis imposent de nouveaux tarifs à plusieurs partenaires commerciaux",
+      "es": "Nuevos aranceles por parte de Estados Unidos"
+    }
+  },
+  {
     "id": "2026-07-23-tankers-make-sharp-u-turns-after-houthi-shipping-threat",
     "date": "2026-07-23",
     "source": "BBC News",

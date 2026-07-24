@@ -1,0 +1,1369 @@
+{
+  "id": "2026-07-24-us-hits-dozens-of-trading-partners-with-new-wave-of-tariffs",
+  "date": "2026-07-24",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "US hits dozens of trading partners with new wave of tariffs",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c18a/live/839d6280-8727-11f1-926f-c90d1bcfbc84.jpg",
+  "category": "business",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "US New Taxes on Imports",
+        "text": "The US has new taxes. These taxes are on 60 countries. The countries include the UK and China. The taxes are from 10% to 12.5%. This is for all goods that come into America. The US government says this is because of forced labour. Some experts say this is not true. They say President Trump wants to make new rules. These taxes replace old taxes that end soon. Many people think this will make prices higher. The UK says it needs to act for better deals. Other countries are not happy about these taxes.",
+        "vocabulary": [
+          {
+            "word": "tax",
+            "definition": "money paid to the government"
+          },
+          {
+            "word": "countries",
+            "definition": "nations or places in the world"
+          },
+          {
+            "word": "goods",
+            "definition": "things that you can buy"
+          },
+          {
+            "word": "prices",
+            "definition": "the amount of money to pay"
+          },
+          {
+            "word": "happy",
+            "definition": "feeling good or pleased"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many countries are there with new taxes?",
+            "options": [
+              "60",
+              "50",
+              "70"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What are the taxes on goods?",
+            "options": [
+              "10% to 12.5%",
+              "5% to 9%",
+              "15% to 20%"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Is the UK happy about the new taxes?",
+            "options": [
+              "Yes",
+              "No",
+              "Maybe"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "US Imposes New Tariffs on Imports",
+        "text": "The US has set new tariffs on 60 trading partners. This includes the UK, China, and the European Union. The tariffs are between 10% and 12.5% on all goods. These new tariffs replace the old ones that expire soon. The US says this is because of forced labour issues. Some experts, like Caroline Freund, say this is not really about forced labour. They believe Trump is looking for a way to create tariffs. The new tariffs will likely raise prices for businesses and customers. The UK has lost some benefits compared to the EU due to these new taxes. Many other countries are upset with the US and call the new tariffs unfair.",
+        "vocabulary": [
+          {
+            "word": "tariffs",
+            "definition": "taxes on goods from other countries"
+          },
+          {
+            "word": "issues",
+            "definition": "problems or important topics"
+          },
+          {
+            "word": "businesses",
+            "definition": "companies that sell goods or services"
+          },
+          {
+            "word": "customers",
+            "definition": "people who buy things"
+          },
+          {
+            "word": "benefits",
+            "definition": "advantages or good things"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who are the trading partners affected?",
+            "options": [
+              "Only the UK",
+              "60 trading partners",
+              "Just China"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What do the tariffs range from?",
+            "options": [
+              "10% to 12.5%",
+              "5% to 10%",
+              "15% to 20%"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why are other countries upset?",
+            "options": [
+              "Because they like the taxes",
+              "Because the taxes are unfair",
+              "Because they want to pay more"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "US Introduces New Tariffs on Imports from 60 Countries",
+        "text": "The United States has introduced new tariffs affecting 60 of its trading partners, which include major economies like the United Kingdom, China, and the European Union. These tariffs range from 10% to 12.5% on all goods entering the US. This change is significant because it accounts for almost all American imports. The new tariffs replace older ones that are set to expire soon, and they reflect ongoing tensions in international trade. The US government claims that these tariffs aim to address issues related to forced labour in global supply chains. However, trade experts like Caroline Freund have argued that this explanation may not be entirely accurate. They believe President Trump is using forced labour as a legal reason to put the tariffs in place. The introduction of these tariffs may increase costs for both businesses and consumers, making everyday goods more expensive. Various countries have expressed dissatisfaction with the move, arguing that the tariffs are unfair and could hurt their economies significantly. Many nations may now focus on trade agreements with other countries, trying to reduce their dependence on the US economy. If this happens, it could change the global trading landscape, prompting shifts in alliances and economic relationships. The situation remains tense, and many observers are keenly watching how it develops.",
+        "vocabulary": [
+          {
+            "word": "tariff",
+            "definition": "a tax on goods coming into a country"
+          },
+          {
+            "word": "import",
+            "definition": "to bring goods into a country from abroad"
+          },
+          {
+            "word": "economy",
+            "definition": "the system of trade and money in a country"
+          },
+          {
+            "word": "dissatisfaction",
+            "definition": "a feeling of not being happy or satisfied"
+          },
+          {
+            "word": "unilateral",
+            "definition": "one-sided; done by one country without agreement from others"
+          },
+          {
+            "word": "supply chain",
+            "definition": "the network of people and companies involved in making and delivering goods"
+          },
+          {
+            "word": "trade agreements",
+            "definition": "contracts between countries about how they will do business together"
+          },
+          {
+            "word": "alliance",
+            "definition": "an agreement between countries to work together for a common goal"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the new tariffs range from?",
+            "options": [
+              "5% to 10%",
+              "10% to 12.5%",
+              "12% to 15%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What do some trade experts believe about the real reason for the tariffs?",
+            "options": [
+              "It addresses climate change",
+              "It is about forced labour",
+              "It is a strategy for US manufacturing"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What might countries do in response to the tariffs?",
+            "options": [
+              "Increase imports from the US",
+              "Focus on trade agreements with other countries",
+              "Reduce their products' prices"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "US Imposes Tariffs on 60 Trade Partners Amid Trade War",
+        "text": "The United States has recently imposed new tariffs on 60 trading partners as part of the ongoing trade war that was reignited by President Donald Trump upon his return to office last year. Key countries affected, such as the UK, China, and the European Union, will now face tariffs ranging from 10% to 12.5% on nearly all goods, encompassing the majority of American imports. According to claims, these tariffs stem from accusations that important economic partners have not adequately addressed forced labor concerns. However, US trade expert Caroline Freund suggested that this initiative is 'not about forced labor' but rather an attempt by Trump to find a legal basis to impose these tariffs. Earlier in the year, the US Supreme Court determined that many tariffs imposed under emergency powers were enacted unlawfully. Freund, the Dean of the UC San Diego School of Global Policy and Strategy, indicated that this latest action is merely a replacement for the expiring levy and was framed within the context of addressing the trade deficit and boosting US manufacturing. The new tariffs are expected to raise costs for businesses and consumers, although exempted goods might lessen the impact. Overall, many trading partners might seek ways to minimize their reliance on the US due to their disappointment with these new measures.",
+        "vocabulary": [
+          {
+            "word": "tariff",
+            "definition": "A tax on goods brought into a country."
+          },
+          {
+            "word": "impose",
+            "definition": "To put something in place, like a rule or tax."
+          },
+          {
+            "word": "concerns",
+            "definition": "Worries or problems about something."
+          },
+          {
+            "word": "adequately",
+            "definition": "In a way that is good enough."
+          },
+          {
+            "word": "initiatives",
+            "definition": "New plans or actions to solve problems."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who imposed the new tariffs?",
+            "options": [
+              "The Supreme Court",
+              "The UK",
+              "The United States"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What is the range of new tariffs?",
+            "options": [
+              "5% to 7%",
+              "10% to 12.5%",
+              "15% to 20%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why does Caroline Freund believe the tariffs are not about forced labor?",
+            "options": [
+              "She thinks it's a legal excuse",
+              "They are about environmental issues",
+              "They do not affect businesses"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "The US Escalates Trade Tensions with New Tariffs on 60 Partners",
+        "text": "In a significant escalation of the ongoing trade war that reignited with President Donald Trump’s return to power last year, the United States has implemented new tariffs affecting 60 trading partners, including influential economies like the UK, China, and the European Union. These tariffs, imposed at rates between 10% and 12.5%, encompass virtually all goods entering the US, thereby impacting a substantial proportion of American imports. While the Biden administration justified these measures as a response to alleged failures by key economic allies to adequately address forced labor concerns, some analysts, including US trade expert Caroline Freund, argue that the motivations are more complex. Freund claims that the administration is, in essence, 'looking for a legal reason' to maintain these tariffs, granting credence to a broader strategy focused primarily on the trade deficit and bolstering US manufacturing capabilities. The US Supreme Court’s earlier ruling on the illegality of some globally imposed tariffs has forced the government to carefully navigate these measures, yet the anticipated consequences include rising costs for consumers and businesses alike. In an increasingly interconnected global marketplace, it is plausible that affected countries may seek alternative trade routes to diminish dependency on the US, heightening the stakes in international economic relations.",
+        "vocabulary": [
+          {
+            "word": "significant",
+            "definition": "Important or meaningful."
+          },
+          {
+            "word": "influential",
+            "definition": "Having a lot of power or impact."
+          },
+          {
+            "word": "justified",
+            "definition": "Shown to be right or reasonable."
+          },
+          {
+            "word": "credence",
+            "definition": "Belief or acceptance of something as true."
+          },
+          {
+            "word": "navigate",
+            "definition": "To carefully manage or direct a situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has the US imposed on 60 trading partners?",
+            "options": [
+              "New tariffs",
+              "New taxes",
+              "New trade agreements"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What reason was given for the new tariffs?",
+            "options": [
+              "To address forced labor",
+              "To improve relations",
+              "To decrease imports"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What might affected countries do in response to the tariffs?",
+            "options": [
+              "Seek alternative trade routes",
+              "Increase exports",
+              "Decrease tariffs"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "US Unveils New Tariffs, Reinforcing Its Stance in the Trade War Landscape",
+        "text": "As tensions in the global trade arena escalate, the United States has initiated a new wave of tariffs directed at 60 of its trading partners, a move orchestrated following President Donald Trump’s controversial return to office last year. Countries such as the UK, China, and members of the European Union find themselves subjected to tariffs in the range of 10% to 12.5% on nearly all goods, thereby covering almost the entirety of American imports. Ostensibly aimed at addressing the rampant issue of forced labor, these tariffs, as suggested by trade expert Caroline Freund, appear to be more about providing a legal veneer for Trump's ambitions to reshape trade dynamics favorably for US manufacturing. The US Supreme Court's previous ruling—which deemed several global tariffs as unlawfully instituted—has compelled the administration to tread cautiously; nevertheless, this latest imposition raises inevitable questions regarding potential increases in costs for consumers and businesses. Moreover, it is anticipated that nations affected by these tariffs may actively seek to diversify their trade partnerships, thereby potentially diminishing their reliance on the US. Domestic stakeholders express concern that the imposition of these tariffs could stymie economic growth, while foreign governments—most notably Brazil and Japan—have criticized these new levies as unwarranted, signaling broader implications for international relations. Given these circumstances, the intricate interplay between domestic policy and global trade continues to be a critical realm for observation.",
+        "vocabulary": [
+          {
+            "word": "orchestrated",
+            "definition": "To carefully plan and arrange an event or action."
+          },
+          {
+            "word": "veneer",
+            "definition": "A thin layer covering something, often used metaphorically."
+          },
+          {
+            "word": "rampant",
+            "definition": "Spreading widely and uncontrollably."
+          },
+          {
+            "word": "stymie",
+            "definition": "To hinder or obstruct progress."
+          },
+          {
+            "word": "stakeholders",
+            "definition": "Individuals or groups that have an interest in a particular issue."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What type of measure has the US implemented on its trading partners?",
+            "options": [
+              "New tariffs",
+              "New agreements",
+              "New regulations"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What reason is given for these tariffs, according to the text?",
+            "options": [
+              "To reshape trade dynamics",
+              "To address forced labor",
+              "To protect foreign workers"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How might affected countries respond to the tariffs?",
+            "options": [
+              "Seek alternative partnerships",
+              "Reduce exports drastically",
+              "Ignore the tariffs completely"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Neue Zölle in den USA",
+        "text": "Die USA haben neue Zölle. 60 Länder bekommen diese Zölle. Die Länder sind zum Beispiel Großbritannien, China und die EU. Die Zölle sind 10 bis 12,5 Prozent. Alle Waren sind betroffen. Diese Zölle gelten ab jetzt. Präsident Trump hat diese Zölle beschlossen. Er möchte die Arbeitsbedingungen verbessern. Experten sagen, das ist nicht der wahre Grund. Der Grund ist der Handel. Die USA möchten mehr Geld verdienen. Die anderen Länder sind unzufrieden. Die Firmen müssen mehr für Waren bezahlen. Die Verbraucher müssen auch mehr Geld zahlen. Das ist nicht gut für die Wirtschaft.",
+        "vocabulary": [
+          {
+            "word": "Zölle",
+            "definition": "Steuern auf Waren"
+          },
+          {
+            "word": "Länder",
+            "definition": "Staaten oder Nationen"
+          },
+          {
+            "word": "Waren",
+            "definition": "Produkte oder Sachen"
+          },
+          {
+            "word": "Experten",
+            "definition": "Fachleute oder Spezialisten"
+          },
+          {
+            "word": "Economie",
+            "definition": "Wirtschaft oder Geldsystem"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Länder haben neue Zölle?",
+            "options": [
+              "50",
+              "60",
+              "70"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer hat die Zölle beschlossen?",
+            "options": [
+              "Die Experten",
+              "Präsident Trump",
+              "Die Firmen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer muss mehr Geld bezahlen?",
+            "options": [
+              "Die Regierung",
+              "Die Firmen",
+              "Die Verbraucher"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Neue Zölle in den USA",
+        "text": "Die USA haben neue Zölle auf Waren. Präsident Trump hat die Zölle für 60 Länder beschlossen. Dazu gehören Großbritannien, China und die EU. Die Zölle betragen 10 bis 12,5 Prozent. Diese Zölle ersetzen alte Zölle. Die alten Zölle enden am Freitag. Experten sagen, das ist nicht nur wegen der Arbeitsbedingungen. Sie glauben, Trump findet einen Grund für die Zölle. Er möchte mehr Geld für die USA. Die neuen Zölle sind eine schlechte Nachricht für viele Unternehmen. Firmen müssen jeden Tag mehr für Waren zahlen. Auch die Verbraucher müssen wahrscheinlich mehr bezahlen. Diese Zölle sind nicht gut für den Handel. Einige Länder sind enttäuscht und wollen weniger von den USA kaufen.",
+        "vocabulary": [
+          {
+            "word": "Präsident",
+            "definition": "Der Anführer eines Staates"
+          },
+          {
+            "word": "Waren",
+            "definition": "Produkte oder Sachen"
+          },
+          {
+            "word": "Enttäuscht",
+            "definition": "Unzufrieden oder traurig über etwas"
+          },
+          {
+            "word": "Unternehmen",
+            "definition": "Firmen oder Geschäfte"
+          },
+          {
+            "word": "Handel",
+            "definition": "Austausch von Waren und Dienstleistungen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie hoch sind die Zölle?",
+            "options": [
+              "10-12%",
+              "20-25%",
+              "30-35%"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wann enden die alten Zölle?",
+            "options": [
+              "am Montag",
+              "am Freitag",
+              "am Sonntag"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was denken die Experten über die Zölle?",
+            "options": [
+              "Sie sind schlecht.",
+              "Es ist nur wegen der Arbeitsbedingungen.",
+              "Trump sucht einen Grund."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "US-Verwaltung verhängt neue Zölle auf Waren",
+        "text": "Die US-Regierung hat neue Zölle auf Waren für 60 Handelspartner eingeführt. Präsident Trump hat diese Zölle angekündigt, um den Handel zu steuern. Die Länder, die betroffen sind, umfassen Großbritannien, China und die EU. Die neuen Zölle liegen zwischen 10 und 12,5 Prozent und gelten für fast alle amerikanischen Importe. Diese Zölle ersetzen die alten Zölle, die am Freitag auslaufen. Experten sagen, dass die neuen Zölle nicht nur wegen der Arbeitsbedingungen eingeführt wurden. Caroline Freund, eine Handels-Expertin, meint, dass Trump einen rechtlichen Grund sucht, um die Zölle zu rechtfertigen. Viele Länder sind unzufrieden mit diesen neuen Regelungen, weil sie ihre Abhängigkeit von den USA verringern möchten. Die neuen Zölle können die Kosten für Unternehmen und Verbraucher erhöhen, obwohl einige Waren von den Zöllen befreit sind. Die britische Handelskammer hat auch Bedenken geäußert, dass der Wettbewerb mit der EU beeinträchtigt wird. Es gibt Ängste, dass die EU über günstigere Tarife verfügt, was Großbritannien benachteiligt. Diese Zölle sind ein Zeichen für die Handelsstrategie von Trump, die auch indirekt den internationalen Handel beeinflusst. Experten befürchten, dass die neuen Zölle das Wachstum der Weltwirtschaft gefährden könnten, wenn Handelspartner versuchen, neue Vereinbarungen zu finden, um die USA zu umgehen.",
+        "vocabulary": [
+          {
+            "word": "Tarif",
+            "definition": "Eine Steuer oder Abgabe auf importierte Waren."
+          },
+          {
+            "word": "benachteiligen",
+            "definition": "Jemanden schlechter behandeln als andere."
+          },
+          {
+            "word": "Handelsstrategie",
+            "definition": "Ein Plan zur Regelung des Handels mit anderen Ländern."
+          },
+          {
+            "word": "Experten",
+            "definition": "Fachleute, die viel Wissen über ein bestimmtes Thema haben."
+          },
+          {
+            "word": "Bedenken",
+            "definition": "Sorgen oder Zweifel über etwas."
+          },
+          {
+            "word": "Wettbewerb",
+            "definition": "Der Konkurrenzkampf zwischen Firmen oder Ländern."
+          },
+          {
+            "word": "Abhängigkeit",
+            "definition": "Der Zustand, dass man von etwas oder jemandem abhängig ist."
+          },
+          {
+            "word": "benachteiligt",
+            "definition": "Zu wenig Vorteile haben im Vergleich zu anderen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viel Prozent beträgt der neue Zoll auf Waren?",
+            "options": [
+              "5 bis 7,5 Prozent",
+              "10 bis 12,5 Prozent",
+              "15 bis 20 Prozent"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Land hat Bedenken über den Wettbewerb geäußert?",
+            "options": [
+              "Frankreich",
+              "Spanien",
+              "Großbritannien"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Warum sind viele Länder unzufrieden mit den neuen Regelungen?",
+            "options": [
+              "Weil sie die Zölle unterstützen.",
+              "Weil sie ihre Abhängigkeit verringern möchten.",
+              "Weil sie mehr Waren importieren wollen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Die USA erheben neue Zölle gegen Dutzende Handelspartner",
+        "text": "Die USA haben kürzlich Zölle in Höhe von 10 % bis 12,5 % auf Waren von 60 Handelspartnern eingeführt, was eine weitere Eskalation im Handelskrieg darstellt. Diese Maßnahme, die vom US-Präsidenten Donald Trump eingeleitet wurde, zielt auf Länder wie das Vereinigte Königreich, China und die Europäische Union ab und betrifft nahezu alle amerikanischen Importe. Der Hintergrund für diese Zölle sind Vorwürfe, dass wichtige Handelspartner nicht ausreichend gegen Zwangsarbeit vorgehen. Laut der US-Handelsexpertin Caroline Freund ist diese Entscheidung jedoch vielmehr ein rechtlicher Vorwand für die Einführung der Zölle. Der Oberste Gerichtshof der USA hatte zuvor entschieden, dass viele global eingeführte Zölle illegal waren. Laut Handelsbeauftragtem Jamieson Greer soll die Maßnahme dazu beitragen, Menschenrechtsverletzungen zu bekämpfen und die Handelspraktiken zu verbessern. Jedoch befürchten Experten, dass die neuen Zölle die Kosten für Unternehmen und Verbraucher erhöhen könnten. Elizabeth Cutler von der Asia Society Policy Institute merkt zudem an, dass viele Handelspartner versuchen werden, ihre Abhängigkeit von den USA zu verringern, indem sie Handelsabkommen mit anderen Ländern schließen. Das Vereinigte Königreich hat durch diese Zölle seinen Wettbewerbsvorteil gegenüber der EU verloren.",
+        "vocabulary": [
+          {
+            "word": "Zölle",
+            "definition": "Steuern auf importierte Waren"
+          },
+          {
+            "word": "Eskalation",
+            "definition": "Steigerung oder Intensivierung eines Konflikts"
+          },
+          {
+            "word": "Zwangsarbeit",
+            "definition": "Arbeit, die unter Zwang verrichtet wird"
+          },
+          {
+            "word": "Handelsabkommen",
+            "definition": "Vereinbarungen zwischen Ländern über den Handel"
+          },
+          {
+            "word": "Wettbewerbsvorteil",
+            "definition": "Vorteil im Wettbewerb zu anderen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was wurde gegen Dutzende Handelspartner erlassen?",
+            "options": [
+              "Neue Zölle",
+              "Neue Steuern",
+              "Neue Gesetze"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Land hat die neuen Zölle eingeführt?",
+            "options": [
+              "Vereinigte Staaten",
+              "Kanada",
+              "Vereinigtes Königreich"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was sind die Zölle ein Vorwand gegen?",
+            "options": [
+              "Zwangsarbeit",
+              "Überstunden",
+              "Steuersenkungen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "USA erhöhen Zölle als Teil der neuen Handelsstrategie",
+        "text": "Die United States haben in einer neuen Runde von Zöllen eine Erhöhung von 10 % bis 12,5 % auf Waren von sechzig strategischen Handelspartnern bekannt gegeben. Diese Entscheidungen, die seit der Rückkehr von Präsident Donald Trump ins Amt letzten Jahr gelten, zielen unter anderem auf die EU, China und das Vereinigte Königreich ab und betreffen fast alle amerikanischen Importe. Die neuen Zölle ersetzen eine identische Vorgabe, deren Laufzeit am Freitag endete, und beruhen auf Beschwerden, wesentliche Handelspartner hätten unzureichende Maßnahmen gegen Zwangsarbeit getroffen. Caroline Freund, eine Handelsexpertin, äußerte jedoch, dass diese Initiativen nicht wirklich dem Schutz der Arbeiter dienen, sondern eher dazu, einen rechtlichen Rahmen für die Einführung der Zölle zu schaffen. Der Oberste Gerichtshof der USA hatte bereits festgestellt, dass viele der globalen Zölle unter Notstandsbefugnissen unrechtmäßig waren. Jamieson Greer, Handelsbeauftragter der USA, erklärte, dass die heutigen Maßnahmen darauf abzielten, sowohl Menschenrechtsverletzungen zu bekämpfen als auch die Handelspraktiken zu verbessern. Experten warnen allerdings, dass die neuen Verpflichtungen die Preise sowohl für Unternehmen als auch für Verbraucher erhöhen könnten, während viele Länder Strategie entwickeln werden, um ihre Abhängigkeit von den USA zu reduzieren.",
+        "vocabulary": [
+          {
+            "word": "strategisch",
+            "definition": "geplant oder wichtig für einen bestimmten Zweck"
+          },
+          {
+            "word": "unzulänglich",
+            "definition": "nicht ausreichend oder unbefriedigend"
+          },
+          {
+            "word": "Initiativen",
+            "definition": "Vorschläge oder Maßnahmen, um Veränderungen zu bewirken"
+          },
+          {
+            "word": "verpflichtungen",
+            "definition": "Zusagen oder Pflichten, die man einhält"
+          },
+          {
+            "word": "Manöver",
+            "definition": "geschickte oder geplante Handlungen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welche Zölle wurden in den USA erhöht?",
+            "options": [
+              "Zölle auf Waren",
+              "Zölle auf Dienstleistungen",
+              "Zölle auf Steuern"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist eine der Ursachen für die neuen Zölle?",
+            "options": [
+              "Aussicht auf Frieden",
+              "Zwangsarbeit",
+              "Arbeitnehmerrechte"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Land hat die Zölle in letzter Zeit verstärkt?",
+            "options": [
+              "China",
+              "USA",
+              "Brasilien"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Neue Zollmaßnahmen der USA: Eine strategische Provokation oder notwendige Verteidigung?",
+        "text": "Die Vereinigten Staaten haben in einer scharfen Reaktion auf anhaltende Handelsungleichgewichte und mutmaßliche Verstöße gegen humanitäre Standards eine dramatische Erhöhung der Zölle von 10 % bis 12,5 % auf Importe von sechzig wichtigen Handelspartnern implementiert. Diese Maßnahmen, die in der ersten Amtszeit von Präsident Donald Trump eingeleitet wurden, zielen auf große Wirtschaftsnationen wie das Vereinigte Königreich, China und die Europäische Union ab und betreffen nahezu jedes importierte Produkt. Diese Zölle ersetzen eine identische Regelung, deren Geltungsdauer am Freitag endete, und basieren auf der Behauptung, dass kritische Handelspartner ihrer Verantwortung im Kampf gegen Zwangsarbeit nicht gerecht werden. Allerdings äußerte Caroline Freund, eine Fachfrau auf dem Gebiet des internationalen Handels, dass diese neuen Zölle nicht primär dem Schutz von Arbeitnehmern dienen, sondern vielmehr einen rechtlichen Vorwand bieten, um die Zollmaßnahmen durchzusetzen. Im Frühling wies der Oberste Gerichtshof der Vereinigten Staaten darauf hin, dass viele Zölle, die im Rahmen von Notstandsmaßnahmen verhängt wurden, in der Tat illegal seien. Jamieson Greer, Handelsbeauftragter der Vereinigten Staaten, sah die neuen Zölle als notwendig an, um sowohl Menschenrechte zu fördern als auch verzerrte Handelspraktiken auszumerzen. Während Experten besorgt sind, dass diese Zölle die Preislandschaft für Konsumenten und Unternehmer belasten werden, ist die Wahrscheinlichkeit hoch, dass die betroffenen Länder versuchen werden, ihre Handelsstrategien zu diversifizieren und sich von der Abhängigkeit von amerikanischen Märkten zu befreien.",
+        "vocabulary": [
+          {
+            "word": "dramatisch",
+            "definition": "sehr stark ausgeprägt oder mit großen Folgen"
+          },
+          {
+            "word": "mutmaßlich",
+            "definition": "angeblich oder wahrscheinlich"
+          },
+          {
+            "word": "Implementierung",
+            "definition": "die Ausführung oder Umsetzung eines Plans"
+          },
+          {
+            "word": "Vorwand",
+            "definition": "ein scheinbarer Grund, um etwas zu rechtfertigen"
+          },
+          {
+            "word": "ausmerzen",
+            "definition": "entfernen oder beseitigen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Ziel der neuen Zollmaßnahmen?",
+            "options": [
+              "Den internationalen Handel zu regulieren",
+              "Zwangsarbeit zu bekämpfen",
+              "Die amerikanische Wirtschaft zu fördern"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat der Oberste Gerichtshof der USA entschieden?",
+            "options": [
+              "Die Zölle sind legal",
+              "Die Zölle sind illegal",
+              "Die Zölle sind ausgesetzt"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Land wird besonders stark von den neuen Zöllen betroffen sein?",
+            "options": [
+              "Japan",
+              "Vereinigtes Königreich",
+              "Mexiko"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les nouveaux tarifs des États-Unis",
+        "text": "Les États-Unis mettent de nouveaux tarifs. Ils touchent 60 partenaires commerciaux. Les pays concernés sont le Royaume-Uni, la Chine, et l'Union européenne. Les tarifs sont de 10% à 12.5%. Cela est sur tous les produits. Ces tarifs remplaçent d'anciens tarifs. Les États-Unis disent que ces pays ne stoppent pas le travail forcé. Beaucoup de pays sont en colère. Les tarifs augmentent le prix des produits. Cela peut toucher les entreprises et les consommateurs. Les États-Unis continuent de mettre des tarifs.",
+        "vocabulary": [
+          {
+            "word": "tarifs",
+            "definition": "des frais ou des taxes sur des produits."
+          },
+          {
+            "word": "produits",
+            "definition": "des choses que l'on achète, comme des aliments ou des vêtements."
+          },
+          {
+            "word": "pays",
+            "definition": "un lieu avec des frontières, comme la France ou les États-Unis."
+          },
+          {
+            "word": "entreprises",
+            "definition": "des groupes qui vendent des produits ou services."
+          },
+          {
+            "word": "travail forcé",
+            "definition": "un travail où les gens ne choisissent pas de travailler."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui met de nouveaux tarifs?",
+            "options": [
+              "La France",
+              "Les États-Unis",
+              "L'Union européenne"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels pays sont concernés?",
+            "options": [
+              "Le Canada et le Brésil",
+              "Le Royaume-Uni et la Chine",
+              "L'Australie et le Japon"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le taux des nouveaux tarifs?",
+            "options": [
+              "1% à 5%",
+              "10% à 12.5%",
+              "15% à 20%"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les nouveaux tarifs des États-Unis sur les échanges",
+        "text": "Les États-Unis annoncent des nouveaux tarifs pour 60 partenaires commerciaux. Cela commence avec le Royaume-Uni, la Chine, et l'Union européenne. Ces tarifs sont de 10% à 12,5% sur la plupart des produits. Ils remplacent des tarifs qui s'arrêtent ce vendredi. Les États-Unis disent que certains pays ne luttent pas assez contre le travail forcé. Caroline Freund, une experte, pense que ce n'est pas vraiment à cause du travail forcé. Elle dit que Trump cherche une raison légale pour ces tarifs. Les nouvelles taxes peuvent augmenter les prix pour les consommateurs. Certaines entreprises peuvent aussi avoir des problèmes. Les partenaires commerciaux sont déçus par cette décision. Ils vont chercher à travailler avec d'autres pays.",
+        "vocabulary": [
+          {
+            "word": "décision",
+            "definition": "un choix que l'on fait."
+          },
+          {
+            "word": "consommateurs",
+            "definition": "les personnes qui achètent des produits."
+          },
+          {
+            "word": "embrouillé",
+            "definition": "quelque chose de compliqué ou confus."
+          },
+          {
+            "word": "déçus",
+            "definition": "ne pas être contents de quelque chose."
+          },
+          {
+            "word": "vont chercher",
+            "definition": "aller à la recherche de quelque chose."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui impose des nouveaux tarifs?",
+            "options": [
+              "La Chine",
+              "Les États-Unis",
+              "Le Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les États-Unis imposent-ils des tarifs?",
+            "options": [
+              "Pour protéger l'environnement",
+              "Pour lutter contre le travail forcé",
+              "Pour réduire les prix"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est la nouvelle taxe sur les produits?",
+            "options": [
+              "5% à 7%",
+              "10% à 12.5%",
+              "15% à 20%"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les États-Unis imposent de nouveaux tarifs à plusieurs partenaires commerciaux",
+        "text": "Les États-Unis ont décidé d'imposer de nouveaux tarifs à 60 de leurs partenaires commerciaux dans un contexte de tensions croissantes lors de la guerre commerciale. Parmi les pays concernés se trouvent le Royaume-Uni, la Chine et l'Union européenne. Ces tarifs, qui varient de 10% à 12,5%, s'appliquent à presque tous les biens importés aux États-Unis. Les États-Unis affirment que ces mesures visent à punir les pays qui n'agissent pas suffisamment contre le travail forcé. Cela a été un sujet de débat important, surtout avec les récentes accusations contre la Chine concernant des violations des droits humains dans la région du Xinjiang, où des minorités musulmanes sont touchées par le travail forcé. Caroline Freund, une experte en commerce, a déclaré que Trump cherchait plutôt une raison légale pour justifier ces tarifs, afin de répondre à des préoccupations économiques internes. En fait, le gouvernement américain souhaite également réduire son déficit commercial et stimuler la production nationale. Cependant, ces nouveaux impôts augmenteront probablement les coûts pour les entreprises et les consommateurs, ce qui peut être problématique. Si les pays touchés par ces tarifs choisissent de diminuer leur dépendance envers les États-Unis, cela pourrait entraîner une réorientation des alliances commerciales. Le gouvernement britannique a exprimé des préoccupations concernant cette nouvelle situation, en particulier parce que le Royaume-Uni risque de perdre son avantage économique par rapport à l'Union européenne. Cela pourrait entraîner des conséquences négatives à long terme.",
+        "vocabulary": [
+          {
+            "word": "travail forcé",
+            "definition": "Travail effectué par des personnes contre leur volonté, souvent dans des conditions abusives."
+          },
+          {
+            "word": "déficit commercial",
+            "definition": "Une situation où un pays importe plus qu'il n'exporte."
+          },
+          {
+            "word": "réorientation",
+            "definition": "Le fait de changer la direction ou le focus, ici au niveau des relations commerciales."
+          },
+          {
+            "word": "minoritaires musulmanes",
+            "definition": "Des groupes de personnes qui suivent la religion musulmane et qui sont souvent moins nombreux dans une région donnée."
+          },
+          {
+            "word": "alliances commerciales",
+            "definition": "Des accords entre différents pays pour faciliter les échanges de biens et de services."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quels pays sont concernés par les nouveaux tarifs ?",
+            "options": [
+              "Le Canada, le Royaume-Uni et la Chine",
+              "Le Royaume-Uni, la Chine et l'Union européenne",
+              "La France, l'Allemagne et l'Italie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelles sont les intentions des États-Unis selon Caroline Freund ?",
+            "options": [
+              "Punir les pays",
+              "Chercher une raison légale pour justifier les tarifs",
+              "Réduire le déficit commercial"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels impacts les nouveaux tarifs pourraient-ils avoir sur les entreprises et les consommateurs ?",
+            "options": [
+              "Ils ne changeront rien",
+              "Ils vont augmenter les coûts",
+              "Ils vont réduire les importations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Les États-Unis imposent de nouveaux droits de douane à une soixantaine de partenaires commerciaux",
+        "text": "Les États-Unis ont imposé de nouveaux droits de douane à 60 partenaires commerciaux dans le cadre d'une escalade récente de la guerre commerciale, relancée par le président Donald Trump lorsqu'il est revenu au pouvoir l'année dernière. Les pays ciblés, tels que le Royaume-Uni, la Chine et l'Union européenne, se verront appliquer un tarif variant de 10 % à 12,5 % sur tous les produits, représentant presque l'intégralité des importations américaines. Ces droits de douane remplacent une taxe identique qui expire vendredi et sont fondés sur des allégations selon lesquelles des partenaires économiques clés n'ont pas efficacement traité le travail forcé. Néanmoins, Caroline Freund, experte en commerce, a déclaré que cette mesure n'a rien à voir avec le travail forcé mais vise simplement à justifier légalement l'instauration des droits. En effet, la Cour suprême des États-Unis avait statué plus tôt cette année que de nombreux droits de douane imposés dans le cadre de pouvoirs d'urgence étaient illégalement instaurés. Selon l'ambassadeur commercial américain, Jamieson Greer, la décision vise à corriger ce qu'il qualifie d'abus en matière de droits de l'homme et de pratiques commerciales déformantes. Bien qu'elle soit censée améliorer le bien-être des travailleurs, plusieurs experts soulignent que les entreprises et les consommateurs pourraient en subir les conséquences en raison de l'augmentation des coûts associés.",
+        "vocabulary": [
+          {
+            "word": "droit de douane",
+            "definition": "Taxe sur les produits importés"
+          },
+          {
+            "word": "escalade",
+            "definition": "Augmentation ou intensification"
+          },
+          {
+            "word": "ciblé",
+            "definition": "Visé ou frappé par une action"
+          },
+          {
+            "word": "alerte",
+            "definition": "Information sur un danger"
+          },
+          {
+            "word": "abuser",
+            "definition": "Exploiter ou mal utiliser"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quels pays sont touchés par les nouveaux droits de douane ?",
+            "options": [
+              "Les États-Unis et le Canada",
+              "Le Royaume-Uni, la Chine et l'Union Européenne",
+              "La France et l'Allemagne"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les nouveaux tarifs ont-ils été instaurés ?",
+            "options": [
+              "Pour soutenir le travail à l'étranger",
+              "À cause de problèmes liés au travail forcé",
+              "Pour réduire les impôts internes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est la conséquence possible de ces nouveaux droits de douane ?",
+            "options": [
+              "Diminuer le coût des produits",
+              "Augmenter les coûts pour les entreprises et consommateurs",
+              "Réduire les importations de produits"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Une nouvelle vague de droits de douane des États-Unis sur ses partenaires commerciaux",
+        "text": "La récente décision des États-Unis d'imposer de nouveaux droits de douane à 60 pays, dont le Royaume-Uni, la Chine et l'Union européenne, marque une intensification de la guerre commerciale relancée par le président Donald Trump l'année dernière. Ces droits de douane, lesquels varient entre 10 % et 12,5 % sur l'ensemble des marchandises, touchent pratiquement toutes les importations américaines. Ces mesures approuvées par la Maison Blanche ont remplacé un régime de droits identique, qui s'expire ce vendredi et prétendent, sans preuves claires, répondre à des préoccupations concernant le travail forcé dans les chaînes d'approvisionnement. Cependant, Caroline Freund, spécialiste en commerce international, soutient que cette initiative vise principalement à justifier légalement ces droits plutôt qu'à résoudre un problème réel lié au travail forcé. La Cour suprême avait antérieurement rendu une décision considérant de nombreux droits imposés comme illégaux. L'ambassadeur commercial, Jamieson Greer, a affirmé que cette action ambitionne d'apporter un changement positif en matière de droits humains. Toutefois, des experts mettent en garde que les répercussions financières pour les entreprises pourraient être significatives, alors que la dépendance des partenaires commerciaux aux États-Unis pourrait s'intensifier avec la nécessité de trouver des alternatives à cette nouvelle situation tarifaire.",
+        "vocabulary": [
+          {
+            "word": "intensification",
+            "definition": "Renforcement ou augmentation significative"
+          },
+          {
+            "word": "répercussions",
+            "definition": "Effets ou conséquences d'une action"
+          },
+          {
+            "word": "ambition",
+            "definition": "Désir d'atteindre un objectif"
+          },
+          {
+            "word": "préoccupations",
+            "definition": "Inquiétudes ou intérêts importants"
+          },
+          {
+            "word": "justifier",
+            "definition": "Fournir des raisons pour expliquer une action"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Sur quel pourcentage des importations américaines ces droits de douane s'appliquent-ils ?",
+            "options": [
+              "Sur 100 %",
+              "Sur 99,4 %",
+              "Sur 50 %"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi certains experts mettent-ils en garde contre ces droits de douane ?",
+            "options": [
+              "Ils pourraient encourager les exportations",
+              "Ils peuvent causer des augmentations de coûts pour les entreprises",
+              "Ils réduisent le commerce international"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le rôle de Caroline Freund dans cette situation ?",
+            "options": [
+              "Elle est importatrice",
+              "Elle est experte en commerce",
+              "Elle est membre du gouvernement"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Les États-Unis : un nouveau souffle dans la guerre commerciale par le biais de droits de douane",
+        "text": "Les États-Unis, enracinés dans leur stratégie commerciale, viennent de franchir une étape significative en imposant de nouveaux droits de douane à 60 de leurs partenaires commerciaux, dont le Royaume-Uni, la Chine et l'Union européenne. Ce mouvement, oscillant entre 10 % et 12,5 %, s'applique à presque toutes les marchandises importées, révélant ainsi une volonté claire de défendre les intérêts américains dans un contexte de concurrence internationale exacerbée. Malgré les justifications avancées par l'administration Trump, notamment le travail forcé, des experts, tel que Caroline Freund, remettent en question la légitimité de cette mesure, considérant qu'elle ne serait qu'un prétexte pour ancrer durablement ces tarifs. La décision de remplacer un régime antérieur, dont l'échéance est fixée à vendredi, s'accompagne de la conviction que ces nouvelles taxes seront efficaces pour redresser ce qu'ils appellent une situation de labeur non régulé. Cependant, alors que le spectre d'une hausse générale des coûts pèse sur les entreprises et les consommateurs, il est à craindre que de nombreux pays touchés cherchent à s'émanciper de cette dépendance commerciale par des accords bilatéraux, aggravant ainsi les tensions internationales. La réaction des gouvernements visés, notamment celle du Japon et du Brésil, souligne également l'inquiétude grandissante face à cette dynamique commerciale. Au final, bien que ces droits de douane soient perçus comme une mesure de protection, les implications économiques et géopolitiques pourraient s'avérer vastes et imprévisibles, laissant les acteurs du marché dans une attente anxieuse.",
+        "vocabulary": [
+          {
+            "word": "enraciné",
+            "definition": "Profondément installé ou ancré dans un système"
+          },
+          {
+            "word": "exacerbé",
+            "definition": "Rendu plus intense, particulièrement en termes de conflit"
+          },
+          {
+            "word": "légitimité",
+            "definition": "Qualité d'être justifié ou fondé sur des raisons valables"
+          },
+          {
+            "word": "ancrer",
+            "definition": "Établir solidement quelque chose dans un contexte"
+          },
+          {
+            "word": "émanciper",
+            "definition": "Rendre indépendant, libérer d'un contrôle"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le pourcentage des droits de douane imposés ?",
+            "options": [
+              "10 % à 12,5 %",
+              "8 % à 10 %",
+              "12,5 % à 15 %"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le principal motif invoqué pour justifier ces droits de douane ?",
+            "options": [
+              "L'augmentation des exportations américaines",
+              "Le maintien de l'égalité tarifaire",
+              "Le travail forcé"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Comment certains pays envisagent-ils leur avenir face à ces nouveaux tarifs ?",
+            "options": [
+              "En cherchant à renforcer leurs relations avec les États-Unis",
+              "En réduisant leur dépendance aux États-Unis",
+              "En acceptant les nouveaux tarifs sans réaction"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Nuevos aranceles en Estados Unidos",
+        "text": "Estados Unidos tiene nuevos aranceles. Son para 60 países. El presidente Trump los pone. El Reino Unido, China y la Unión Europea están en la lista. Los aranceles son de 10% a 12.5%. Otros aranceles se acaban el viernes. Los aranceles son para proteger los derechos de los trabajadores. Todo esto afecta muchas importaciones. Los expertos dicen que es difícil para los países demostrar que no tienen trabajo forzado. La nueva regla puede aumentar los precios en las tiendas. Los países quieren hacer acuerdos con otros socios. Esto es un cambio importante en el comercio.",
+        "vocabulary": [
+          {
+            "word": "aranceles",
+            "definition": "impuestos sobre productos"
+          },
+          {
+            "word": "países",
+            "definition": "lugares con gobierno"
+          },
+          {
+            "word": "trabajadores",
+            "definition": "personas que trabajan"
+          },
+          {
+            "word": "precios",
+            "definition": "cantidad de dinero por algo"
+          },
+          {
+            "word": "comercio",
+            "definition": "intercambio de productos"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos países tienen nuevos aranceles?",
+            "options": [
+              "20",
+              "60",
+              "80"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién es el presidente de Estados Unidos?",
+            "options": [
+              "Biden",
+              "Obama",
+              "Trump"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Los aranceles son para proteger qué?",
+            "options": [
+              "el precio",
+              "los trabajadores",
+              "los países"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Estados Unidos impone nuevos aranceles",
+        "text": "Estados Unidos ha impuesto nuevos aranceles a 60 países. Esta es una nueva etapa en la guerra comercial. El presidente Trump ha llevado a cabo esta acción el año pasado. Los países incluidos son el Reino Unido, China y la Unión Europea. Los aranceles son del 10% al 12.5%. Esto afecta a casi todas las importaciones de Estados Unidos. Los aranceles reemplazan a una regla que se acaba el viernes. Los expertos en comercio dicen que esto no es solo para el trabajo forzado. Los países afectados pueden tener dificultades para demostrar que no tienen trabajo forzado. Esto podría subir los precios para las tiendas y los consumidores. También, algunos países quieren hacer tratos con otros para reducir su dependencia de Estados Unidos.",
+        "vocabulary": [
+          {
+            "word": "imponer",
+            "definition": "poner algo como una regla"
+          },
+          {
+            "word": "comercial",
+            "definition": "relacionado al comercio"
+          },
+          {
+            "word": "importaciones",
+            "definition": "productos que vienen de otros países"
+          },
+          {
+            "word": "afectados",
+            "definition": "personas o países que sufren efectos"
+          },
+          {
+            "word": "dependencia",
+            "definition": "necesidad de algo o alguien"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué porcentaje son los aranceles nuevos?",
+            "options": [
+              "5%-10%",
+              "10%-12.5%",
+              "15%-20%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué acaba el viernes próximo?",
+            "options": [
+              "los trabajos",
+              "los aranceles antiguos",
+              "los precios"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Los países afectados quieren hacer qué?",
+            "options": [
+              "tratos con otros",
+              "más aranceles",
+              "menos importaciones"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Nuevos aranceles por parte de Estados Unidos",
+        "text": "Estados Unidos ha tomado una decisión importante y ha impuesto nuevos aranceles a 60 países. Esta medida marca una escalada en la guerra comercial que comenzó con el presidente Donald Trump cuando volvió al poder el año pasado. Los países afectados incluyen el Reino Unido, China y la Unión Europea, y todos enfrentarán un arancel que varía del 10% al 12.5% sobre casi todas las importaciones estadounidenses. Esta acción reemplaza un arancel antiguo, que se termina este viernes, lo que significa que muchos productos experimentarán un aumento de precio en poco tiempo. Los analistas dicen que aunque el gobierno ha mencionado el trabajo forzado, en realidad Trump busca una justificación legal para imponer estos aranceles, que están diseñados para proteger la economía de Estados Unidos. Si estos aranceles son permanentes, podrían hacer que los consumidores paguen más por productos importados. Algunos países intentan buscar alternativas y otros acuerdos para no depender tanto de Estados Unidos. Por ejemplo, pueden formar alianzas con otras naciones para establecer un comercio más equilibrado. Por lo tanto, habrá un impacto significativo en el comercio internacional y en la economía global, ya que las tarifas pueden afectar la distribución de bienes y servicios. Mientras tanto, muchos críticos en otros países han señalado que estos nuevos aranceles son injustos, y algunos gobiernos han expresado su descontento por las decisiones de la administración Trump. Así, la tensión entre las naciones puede seguir creciendo en el futuro cercano.",
+        "vocabulary": [
+          {
+            "word": "arancel",
+            "definition": "Impuesto que se paga por introducir productos de otro país."
+          },
+          {
+            "word": "escalada",
+            "definition": "Aumento o intensificación de un conflicto."
+          },
+          {
+            "word": "justificación",
+            "definition": "Razón que se da para explicar o defender una acción."
+          },
+          {
+            "word": "alternativa",
+            "definition": "Opción diferente que se puede elegir respecto a otra."
+          },
+          {
+            "word": "distribución",
+            "definition": "Forma en que se reparten los productos."
+          },
+          {
+            "word": "comercio internacional",
+            "definition": "Intercambio de bienes y servicios entre diferentes países."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuánto varían los nuevos aranceles impuestos por Estados Unidos?",
+            "options": [
+              "Del 5% al 8%",
+              "Del 10% al 12.5%",
+              "Del 12.5% al 15%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha mencionado el gobierno de EE.UU. como razón para los nuevos aranceles?",
+            "options": [
+              "El crecimiento del comercio",
+              "El trabajo forzado",
+              "La reducción de impuestos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué pueden intentar algunos países para no depender de Estados Unidos?",
+            "options": [
+              "Buscar otros acuerdos comerciales",
+              "Permanecer inactivos",
+              "Reducir sus exportaciones"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "EE.UU. impone nuevas tarifas a decenas de socios comerciales",
+        "text": "EE.UU. ha establecido nuevas tarifas para 60 socios comerciales en el último episodio de la guerra comercial reavivada por el presidente Donald Trump al asumir nuevamente el cargo el año pasado. Entre los afectados están el Reino Unido, China y la Unión Europea, a quienes se les aplicará un arancel del 10% al 12.5% en todos los productos, lo que representan casi todas las importaciones estadounidenses. Estas tarifas reemplazan un impuesto equivalente que vencía el viernes pasado, y se fundamentan en la afirmación de que socios económicos clave no han abordado adecuadamente el trabajo forzado. Sin embargo, la experta en comercio Caroline Freund ha declarado que esta decisión no está relacionada con el trabajo forzado, sino que Trump busca simplemente 'una razón legal para imponer las tarifas'. La Corte Suprema de EE.UU. había dictaminado anteriormente que muchas tarifas impuestas a nivel global bajo poderes de emergencia fueron implementadas de forma ilegal. El representante comercial de EE.UU., Jamieson Greer, argumentó que 'la acción de hoy comenzará a corregir tanto un abuso de derechos humanos como una práctica comercial distorsionante para mejorar el bienestar de los trabajadores'.",
+        "vocabulary": [
+          {
+            "word": "tarifa",
+            "definition": "Impuesto que se paga por productos importados."
+          },
+          {
+            "word": "arancel",
+            "definition": "Costo adicional por mercancías que entran a un país."
+          },
+          {
+            "word": "decisión",
+            "definition": "Elección o resolución sobre un asunto."
+          },
+          {
+            "word": "afectado",
+            "definition": "Que sufre las consecuencias de algo."
+          },
+          {
+            "word": "producto",
+            "definition": "Cosa que se vende o se utiliza."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién impuso las nuevas tarifas?",
+            "options": [
+              "La Corte Suprema",
+              "El presidente Donald Trump",
+              "La Unión Europea"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué porcentaje de arancel se aplicará?",
+            "options": [
+              "5% al 10%",
+              "10% al 12.5%",
+              "12.5% al 15%"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué argumento usó Caroline Freund sobre las tarifas?",
+            "options": [
+              "Es para ayudar a los trabajadores",
+              "No están relacionadas con el trabajo forzado",
+              "Son necesarias por la emergencia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Estados Unidos aplica nuevas tarifas a múltiples socios comerciales",
+        "text": "Estados Unidos ha instaurado una nueva serie de tarifas que afecta a 60 socios comerciales, un movimiento que intensifica la guerra comercial iniciada nuevamente por el presidente Donald Trump al asumir su mandato el año pasado. Entre los afectados se encuentran países como el Reino Unido, China y la Unión Europea, que sufrirán un arancel de entre el 10% y el 12.5% sobre todos los productos importados, abarcando casi la totalidad de las importaciones estadounidenses. Esta acción sustituye un impuesto similar que estaba programado para expirar el viernes, atribuyéndose a las acusaciones de que ciertos aliados económicos no han hecho lo suficiente para erradicar el trabajo forzado. No obstante, la especialista en comercio internacional, Caroline Freund, comentó que la medida no responde a una preocupación genuina sobre el trabajo forzado, sino que el presidente busca una justificación legal para reinstaurar las tarifas. En años recientes, la Corte Suprema de Estados Unidos determinó que muchas tarifas impuestas globalmente bajo la autoridad de emergencia eran ilegítimas. El representante comercial de EE.UU. subrayó que 'la acción de hoy es un paso crucial para corregir abusos de derechos humanos y prácticas comerciales sesgadas, en interés del bienestar de los trabajadores'.",
+        "vocabulary": [
+          {
+            "word": "instaurar",
+            "definition": "Establecer algo de manera oficial."
+          },
+          {
+            "word": "acusar",
+            "definition": "Decir que alguien hizo algo malo o ilegal."
+          },
+          {
+            "word": "abarcando",
+            "definition": "Incluyendo o cubriendo algo."
+          },
+          {
+            "word": "legítimas",
+            "definition": "Que son válidas o legales."
+          },
+          {
+            "word": "justificación",
+            "definition": "Razón que se presenta para explicar algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué países están afectados por las nuevas tarifas?",
+            "options": [
+              "Reino Unido, China y Brasil",
+              "Reino Unido, China y la Unión Europea",
+              "Reino Unido, Japón y la Unión Europea"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué dice Caroline Freund sobre las tarifas?",
+            "options": [
+              "Son necesarias para proteger a los trabajadores",
+              "No se relacionan con el trabajo forzado",
+              "Se deben aplicar a más países"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué indicó el representante comercial de EE.UU. sobre esta acción?",
+            "options": [
+              "Es un abuso de derechos humanos",
+              "Es un paso crucial para corregir abusos",
+              "No tiene importancia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Estados Unidos intensifica la guerra comercial con nuevas tarifas a socios clave",
+        "text": "En el último desarrollo de la prolongada guerra comercial, Estados Unidos ha decidido, bajo la administración de Donald Trump, implementar un conjunto de nuevas tarifas que afectan a 60 de sus más importantes socios comerciales. El Reino Unido, China y la Unión Europea se encuentran entre los países que enfrentarán aranceles que oscilarán entre el 10% y el 12.5%, lo que representa una parte considerable de las importaciones estadounidenses. Este movimiento es la continuación del arancel anterior, que expirará en breve, y se justifica por afirmaciones de que estas naciones no han tomado medidas adecuadas contra el trabajo forzado, aunque la experta Caroline Freund cuestiona tal justificación, sugiriendo que la administración de Trump busca simplemente un pretexto legal para reinstaurar tarifas. La Corte Suprema de EE.UU. ya había declarado anteriormente la ilegalidad de muchas tarifas impuestas bajo poderes de emergencia. Según el representante comercial, Jamieson Greer, eliminar las tarifas es un paso vital hacia la corrección de un abuso de derechos humanos y una práctica comercial distorsionada, orientada a mejorar el bienestar de los trabajadores en todo el mundo. Este panorama plantea la interrogante sobre la efectividad de estas medidas, dado que se prevé que generarán mayores costos para empresas y consumidores, aunque podrían mitigarse por la inclusión de productos exentos.",
+        "vocabulary": [
+          {
+            "word": "aranceles",
+            "definition": "Impuestos establecidos sobre productos importados."
+          },
+          {
+            "word": "justificación",
+            "definition": "Explicación que se da para un hecho o decisión."
+          },
+          {
+            "word": "cuestiona",
+            "definition": "Pone en duda algo ya establecido."
+          },
+          {
+            "word": "interrogante",
+            "definition": "Pregunta o duda sobre un tema."
+          },
+          {
+            "word": "mitigarse",
+            "definition": "Disminuir la gravedad o el impacto de algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué efecto se prevé de las nuevas tarifas en consumidores y empresas?",
+            "options": [
+              "Reducción de costos",
+              "Aumento de costos",
+              "Ningún efecto"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál fue la opinión de Caroline Freund sobre la justificación del trabajo forzado?",
+            "options": [
+              "Estaba de acuerdo con las tarifas",
+              "La cuestionó como pretexto",
+              "No opinó sobre ello"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué declaró la Corte Suprema sobre las tarifas impuestas anteriormente?",
+            "options": [
+              "Eran legales",
+              "Eran ilegales",
+              "Son necesarias"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  }
+}
