@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-24-mark-twain-among-the-three-or-four-millio",
+    "date": "2026-07-24",
+    "author": "Mark Twain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg/330px-Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg",
+    "titles": {
+      "en": "Among the three or four million cradles now rocking in the land are some which this nation would preserve for ages as sacred things, if we could know which ones they are.",
+      "de": "Unter den drei oder vier Millionen wiegenden Wiegen im Land sind einige, die diese Nation für ewige Zeiten als heilige Dinge bewahren würde, wenn wir wüssten, welche das sind.",
+      "fr": "Parmi les trois ou quatre millions de berceaux qui se balancent dans le pays, il y en a quelques-uns que cette nation préserverait comme des choses sacrées, si nous savions lesquels ils sont.",
+      "es": "Entre los tres o cuatro millones de cunas que ahora mecen en la tierra hay algunas que esta nación preservaría durante siglos como cosas sagradas, si pudiéramos saber cuáles son."
+    }
+  },
+  {
     "id": "2026-07-23-ralph-waldo-emerson-the-silent-organ-loudest-chant",
     "date": "2026-07-23",
     "author": "Ralph Waldo Emerson",
