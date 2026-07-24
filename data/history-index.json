@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-24-2019-boris-johnson",
+    "date": "2026-07-24",
+    "year": 2019,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg",
+    "titles": {
+      "en": "Boris Johnson's Rise to Prime Minister",
+      "de": "Boris Johnson wird Premierminister des Vereinigten Königreichs",
+      "fr": "Boris Johnson devient Premier ministre du Royaume-Uni",
+      "es": "La llegada de Boris Johnson como Primer Ministro"
+    }
+  },
+  {
     "id": "2026-07-23-2010-one-direction",
     "date": "2026-07-23",
     "year": 2010,
