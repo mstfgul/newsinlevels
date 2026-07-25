@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-25-the-sound-and-the-fury-william-faulkner",
+    "date": "2026-07-25",
+    "author": "William Faulkner",
+    "image": "https://covers.openlibrary.org/b/id/8292212-L.jpg",
+    "titles": {
+      "en": "The Sound and the Fury",
+      "de": "Der Klang und die Wut",
+      "fr": "Le Bruit et la Fureur",
+      "es": "El ruido y la furia"
+    }
+  },
+  {
     "id": "2026-07-23-the-year-of-magical-thinking-joan-didion",
     "date": "2026-07-23",
     "author": "Joan Didion",

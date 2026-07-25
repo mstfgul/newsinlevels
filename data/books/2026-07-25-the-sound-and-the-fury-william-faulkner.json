@@ -1,0 +1,1390 @@
+{
+  "id": "2026-07-25-the-sound-and-the-fury-william-faulkner",
+  "date": "2026-07-25",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+  },
+  "originalTitle": "The Sound and the Fury (1929) — William Faulkner",
+  "image": "https://covers.openlibrary.org/b/id/8292212-L.jpg",
+  "category": "book",
+  "book": {
+    "author": "William Faulkner",
+    "title": "The Sound and the Fury",
+    "year": "1929"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Sound and the Fury",
+        "text": "The Sound and the Fury is a book. It is by William Faulkner. The story is about a family. They live in Mississippi. There are four main characters. Their names are Quentin, Benjy, Jason, and Caddy. They are brothers and a sister. This family has many problems. They are sad and confused. The book is about their lives. It shows their feelings. The writing style is special. It is not easy to read. Many people like the book. It is important in American literature.",
+        "vocabulary": [
+          {
+            "word": "family",
+            "definition": "a group of related people"
+          },
+          {
+            "word": "problems",
+            "definition": "difficult things to solve"
+          },
+          {
+            "word": "sad",
+            "definition": "feeling unhappy"
+          },
+          {
+            "word": "characters",
+            "definition": "people in a story"
+          },
+          {
+            "word": "important",
+            "definition": "having great meaning"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the author?",
+            "options": [
+              "Mark Twain",
+              "William Faulkner",
+              "Ernest Hemingway"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many main characters are there?",
+            "options": [
+              "Two",
+              "Three",
+              "Four"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Where does the family live?",
+            "options": [
+              "Mississippi",
+              "California",
+              "New York"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Sound and the Fury",
+        "text": "The Sound and the Fury is a novel by William Faulkner. It was published in 1929. This book tells the story of a wealthy family in Mississippi. The family is called the Compsons. There are four main characters. They are brothers and a sister. Their names are Quentin, Benjy, Jason, and Caddy. Each character has different problems. These problems connect with each other. For example, Benjy has a mental disability. Caddy struggles with her love life. Quentin is very anxious, and Jason is impulsive. The story uses a unique style. It has many flashbacks and different points of view. This makes the story complex. Although it was not popular at first, it became important over time. Now, many people study this novel.",
+        "vocabulary": [
+          {
+            "word": "wealthy",
+            "definition": "having a lot of money"
+          },
+          {
+            "word": "disability",
+            "definition": "a condition that limits someone"
+          },
+          {
+            "word": "anxious",
+            "definition": "feeling nervous or worried"
+          },
+          {
+            "word": "important",
+            "definition": "having great meaning"
+          },
+          {
+            "word": "complex",
+            "definition": "not simple, very detailed"
+          }
+        ],
+        "questions": [
+          {
+            "question": "When was the book published?",
+            "options": [
+              "1925",
+              "1929",
+              "1935"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is the family's name?",
+            "options": [
+              "Carter",
+              "Johnson",
+              "Compson"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Does Caddy have a love problem?",
+            "options": [
+              "Yes",
+              "No",
+              "Not mentioned"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Sound and the Fury",
+        "text": "The Sound and the Fury is a significant novel by William Faulkner, first published in 1929. This book explores the lives of the Compson family, who are wealthy but are falling apart in Mississippi. The story focuses on four main characters: Quentin, Benjy, Jason, and their sister Caddy, each of whom faces unique challenges that affect the others and their family. For instance, Benjy, who has a mental disability, perceives and experiences the world in a different way. Caddy's life becomes complicated due to her relationships, especially her struggles with societal expectations. Quentin battles with obsession and anxiety regarding honor and family reputation, while Jason, who is impulsive and often angry, acts selfishly towards his siblings. Faulkner's narrative style is quite experimental, using stream of consciousness and different unreliable narrators which make the plot difficult to follow sometimes. However, this technique deepens the reader’s understanding of the characters' inner thoughts and emotions. Initially, the novel did not gain much popularity, but now, it is considered one of Faulkner's finest works due to its impact on modernist literature and Southern Gothic themes. The Compson family's decline reflects broader issues in the American South during the early 20th century, revealing themes of decay, loss, and the struggle for identity.",
+        "vocabulary": [
+          {
+            "word": "neuroticism",
+            "definition": "a tendency toward anxiety, worry, and emotional instability."
+          },
+          {
+            "word": "promiscuity",
+            "definition": "the practice of having multiple sexual relationships."
+          },
+          {
+            "word": "imperiled",
+            "definition": "put in danger or at risk."
+          },
+          {
+            "word": "societal expectations",
+            "definition": "the accepted behaviors or standards in a society."
+          },
+          {
+            "word": "experimental",
+            "definition": "characterized by innovative and unconventional methods."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the main focus of The Sound and the Fury?",
+            "options": [
+              "The history of a wealthy family",
+              "The decline of a wealthy family",
+              "The rise of modernist literature"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which character struggles with anxiety and obsession?",
+            "options": [
+              "Caddy",
+              "Benjy",
+              "Quentin"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "How does Faulkner's writing style affect the plot?",
+            "options": [
+              "It makes the plot easier to follow.",
+              "It uses clear and simple language.",
+              "It makes the plot difficult to follow."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Sound and the Fury",
+        "text": "Published in 1929, William Faulkner’s 'The Sound and the Fury' offers a vivid yet stark portrayal of a wealthy Southern family facing decline. Set in the fictional Yoknapatawpha County, this novel introduces the Compson siblings—Quentin, Benjy, Jason, and their sister Caddy—each grappling with personal issues while their family crumbles around them. Faulkner's unique writing style, characterized by an experimental use of stream of consciousness and multiple unreliable narrators, has captivated readers since its release. As you navigate the text, you will encounter sudden flashbacks that reveal the family's troubled past, immersing you in their chaotic lives and multifaceted relationships. Although it was initially overlooked by critics, the novel gradually gained recognition and has become a significant work within the Southern Gothic genre, exemplifying the complexities of Southern life in the early 20th century. It raises important questions about family dynamics, memory, and identity, inviting readers to contemplate how the past shapes the present. Despite its complexity, the themes and struggles within 'The Sound and the Fury' resonate with contemporary audiences, making it a crucial read in American literature and influencing countless writers after Faulkner. Today, scholars regard it as one of Faulkner's most profound works and a cornerstone in the study of modernist literature, illustrating the tragedies of human existence within a disintegrating social order.",
+        "vocabulary": [
+          {
+            "word": "decay",
+            "definition": "the process of declining or deteriorating in quality or strength."
+          },
+          {
+            "word": "neuroticism",
+            "definition": "an emotional instability or tendency to experience negative emotions."
+          },
+          {
+            "word": "paradigmatic",
+            "definition": "serving as a typical example or pattern of something."
+          },
+          {
+            "word": "chaos",
+            "definition": "complete disorder and confusion."
+          },
+          {
+            "word": "candid",
+            "definition": "truthful and straightforward; frank."
+          },
+          {
+            "word": "promiscuity",
+            "definition": "engaging in casual and indiscriminate sexual relationships."
+          },
+          {
+            "word": "unreliable",
+            "definition": "not able to be trusted or depended upon."
+          },
+          {
+            "word": "influence",
+            "definition": "the capacity to have an effect on the character, development, or behavior of someone or something."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the main focus of 'The Sound and the Fury'?",
+            "options": [
+              "The successes of the Compson family.",
+              "The decline of the Compson family.",
+              "The wealth of the Compson family."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did critics initially respond to 'The Sound and the Fury'?",
+            "options": [
+              "It was celebrated from the start.",
+              "It was initially overlooked.",
+              "It received wide commercial success."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What literary genre does 'The Sound and the Fury' belong to?",
+            "options": [
+              "Southern Gothic.",
+              "Romantic.",
+              "Science fiction."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Sound and the Fury",
+        "text": "William Faulkner’s 'The Sound and the Fury,' a seminal work published in 1929, epitomises a profound meditation on the disintegration of an affluent Southern family. Set within the confines of the fictional Yoknapatawpha County, the narrative unfolds through the fragmented experiences of the Compson siblings—Quentin, Benjy, Jason, and Caddy. Each sibling's harrowing inner turmoil serves to reflect their intricate interactions and the generational decay that plagues their family, revealing a layered commentary on Southern aristocracy.\n\nFaulkner's experimental style, characterised by stream of consciousness and shifting perspectives, not only challenges conventions of narrative but also invites readers into the labyrinthine intricacies of memory and identity. The novel oscillates between present and past, incorporating sudden flashbacks that intricately interweave the characters' histories, culminating in a single tumultuous weekend in 1928, rife with emotional upheaval.\n\nInitially met with indifference, 'The Sound and the Fury' underwent a remarkable transformation into critical acclaim, playing a pivotal role in solidifying Faulkner's legacy as a Nobel laureate. Its bleak yet candid portrayal of Southern life in the early 20th century resonates with themes of decline, familial dysfunction, and the oppressive weight of societal expectations, making it a cornerstone of modernist literature. Scholars now regard it as one of Faulkner's most complex novels, provoking ongoing discourse around the fragility of family bonds and existential despair.",
+        "vocabulary": [
+          {
+            "word": "interweave",
+            "definition": "to weave two or more things together; to combine or blend different elements."
+          },
+          {
+            "word": "labyrinthine",
+            "definition": "resembling a labyrinth; intricate and confusing."
+          },
+          {
+            "word": "tumultuous",
+            "definition": "characterised by turbulence or disorder; chaotic."
+          },
+          {
+            "word": "seminal",
+            "definition": "strongly influencing later developments; original and influential."
+          },
+          {
+            "word": "autonomous",
+            "definition": "having the freedom to govern oneself; independent."
+          },
+          {
+            "word": "oppressive",
+            "definition": "burdensome, unjustly severe, or harsh."
+          },
+          {
+            "word": "myriad",
+            "definition": "a countless or extremely great number."
+          },
+          {
+            "word": "decay",
+            "definition": "the process of rotting or decomposing; decline."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What narrative style is prominently featured in 'The Sound and the Fury'?",
+            "options": [
+              "Stream of consciousness",
+              "First-person narrative",
+              "Linear narrative"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Which themes does Faulkner explore in his portrayal of the Compson family?",
+            "options": [
+              "Fame and success",
+              "Familial dysfunction and societal expectations",
+              "Adventure and exploration"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What was the initial public reception of 'The Sound and the Fury'?",
+            "options": [
+              "Highly praised",
+              "Indifferent",
+              "Widely successful"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Sound and the Fury",
+        "text": "'The Sound and the Fury' by William Faulkner, first published in 1929, stands as a quintessential representation of modernist literature, characterized by its disjointed narrative structure and profound psychological depth. The novel probes into the lives of the Compson siblings—Quentin, Benjy, Jason, and Caddy—whose personal struggles encapsulate the decay of a once-illustrious Southern family amidst the evolving cultural landscape of the early 20th century. Faulkner’s audacious use of stream of consciousness, alongside a plethora of unreliable narrators, not only defies traditional storytelling conventions but also compels readers to confront the complex interplay of memory, time, and identity. As the narrative oscillates between temporal planes, unannounced flashbacks intertwine the siblings' experiences, rendering a multifaceted portrait of despair and resilience. Although the novel initially eluded commercial success, it eventually garnered critical acclaim and solidified Faulkner's place in literary history, culminating in his receipt of the Nobel Prize in Literature in 1949. Its enduring relevance lies in its trenchant exploration of familial bonds, societal constraints, and the human condition, inviting readers to engage with its rich thematic tapestry.",
+        "vocabulary": [
+          {
+            "word": "quintessential",
+            "definition": "representing the most perfect example of a quality or class"
+          },
+          {
+            "word": "disjointed",
+            "definition": "lacking a coherent sequence; disorganized"
+          },
+          {
+            "word": "audacious",
+            "definition": "extremely bold or daring"
+          },
+          {
+            "word": "multifaceted",
+            "definition": "having many aspects or features"
+          },
+          {
+            "word": "trenchant",
+            "definition": "sharp, incisive, and clear-cut"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What genre does Faulkner's novel belong to?",
+            "options": [
+              "Modernist literature",
+              "Fantasy",
+              "Biography"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Faulkner's narrative style challenge?",
+            "options": [
+              "traditional storytelling conventions",
+              "simple plots",
+              "romantic poetry"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "When did Faulkner win the Nobel Prize?",
+            "options": [
+              "1949",
+              "1930",
+              "1955"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Der Klang und die Wut",
+        "text": "Das Buch ist von William Faulkner. Es ist eine Geschichte über die Compson-Familie. Sie leben in Mississippi, im Süden von Amerika. Die Familie hat viele Probleme. Es gibt vier Geschwister: Quentin, Benjy, Jason und Caddy. Jeder hat seine eigenen Schwierigkeiten. Benjy hat eine Behinderung. Caddy hat viele Freunde und sie trifft sich oft mit ihnen. Quentin ist sehr traurig. Er denkt viel nach. Jason ist unruhig und macht viele Fehler. Das Buch zeigt das Leben im frühen 20. Jahrhundert. Es hat einen besonderen Stil und ist sehr interessant. Viele Leser finden das Buch spannend.",
+        "vocabulary": [
+          {
+            "word": "Familie",
+            "definition": "eine Gruppe von Menschen, die verwandt sind"
+          },
+          {
+            "word": "Freunde",
+            "definition": "Menschen, die man mag und mit ihnen spielt"
+          },
+          {
+            "word": "schwierig",
+            "definition": "etwas, das nicht einfach ist"
+          },
+          {
+            "word": "traurig",
+            "definition": "wenn man sich schlecht fühlt"
+          },
+          {
+            "word": "interessant",
+            "definition": "wenn etwas spannend und neugierig macht"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Autor des Buches?",
+            "options": [
+              "Ernest Hemingway",
+              "William Faulkner",
+              "Mark Twain"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo lebt die Compson-Familie?",
+            "options": [
+              "In New York",
+              "In Kalifornien",
+              "In Mississippi"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wie viele Geschwister gibt es in der Geschichte?",
+            "options": [
+              "Drei",
+              "Fünf",
+              "Vier"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Der Klang und die Wut",
+        "text": "Der Klang und die Wut ist ein Roman von William Faulkner. Er kam 1929 heraus. Die Geschichte spielt in Mississippi und zeigt die Compson-Familie. Diese Familie hat viele Probleme und Schwächen, die sehr tief sind. Jeder Bruder oder jede Schwester hat ihre eigenen Schwierigkeiten. Caddy hat viele Freunde, aber sie hat auch ein gefährliches Leben. Quentin ist oft traurig und denkt viel nach. Benjy hat eine Behinderung, die sein Leben schwierig macht und ihn oft allein lässt. Jason ist unruhig und hat finanzielle Probleme. Das Buch erzählt von einem Wochenende im Jahr 1928, als alles chaotisch war. Es ist sehr spannend und interessant zu lesen. Das Buch zeigt das harte Leben im Süden der USA in dieser Zeit, das oft voller Konflikte und Missverständnisse ist. Faulkner verwendet einen modernen Stil beim Schreiben und zeigt die Gedanken der Charaktere. Viele Leser finden den Roman sehr tiefgründig und wichtig.",
+        "vocabulary": [
+          {
+            "word": "Behinderung",
+            "definition": "eine Einschränkung oder Schwierigkeit im Leben"
+          },
+          {
+            "word": "finanziell",
+            "definition": "etwas, das mit Geld zu tun hat"
+          },
+          {
+            "word": "Chaotisch",
+            "definition": "unordentlich und verwirrend"
+          },
+          {
+            "word": "modern",
+            "definition": "neu oder zeitgemäß"
+          },
+          {
+            "word": "tiefgründig",
+            "definition": "sehr nachdenklich oder mit viel Bedeutung"
+          },
+          {
+            "word": "Konflikte",
+            "definition": "Probleme oder Streit zwischen Personen"
+          },
+          {
+            "word": "Missverständnisse",
+            "definition": "falsches Verstehen oder Interpretieren von etwas"
+          },
+          {
+            "word": "Schwächen",
+            "definition": "die negativen Seiten oder Probleme einer Person"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde der Roman veröffentlicht?",
+            "options": [
+              "1920",
+              "1929",
+              "1935"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Geschwister gibt es in der Familie?",
+            "options": [
+              "Drei",
+              "Fünf",
+              "Vier"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was ist Caddys Problem?",
+            "options": [
+              "Sie hat viele Freunde",
+              "Sie ist oft traurig",
+              "Sie hat ein gefährliches Leben"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Der Klang und die Wut",
+        "text": "Der Klang und die Wut, geschrieben von William Faulkner, ist ein bedeutender Roman der amerikanischen Literatur. Er wurde 1929 veröffentlicht und spielt in Mississippi. Das Buch folgt der Compson-Familie und ihren vielfältigen Problemen. Die Geschwister Quentin, Benjy, Jason und Caddy haben sehr unterschiedliche Schwierigkeiten, die ihre Leben beeinflussen. Benjy, der eine geistige Behinderung hat, kann die komplexen sozialen Situationen nicht verstehen. Quentin kämpft mit inneren Ängsten, die ihn in den Wahnsinn treiben. Caddy hat ein schwieriges Liebesleben, weil sie in ihrer Gesellschaft viele Vorurteile erlebt. Jason ist impulsiv und unzufrieden, was oft zu Streit innerhalb der Familie führt. Faulkner erzählt die Geschichte an einem einzigen Wochenende im Jahr 1928, wobei er oft Rückblenden verwendet. Sein moderner Schreibstil beinhaltet Elemente wie den Bewusstseinsstrom, der dem Leser einen tiefen Einblick in die Gedanken der Charaktere gibt. Diese Erzählweise macht das Buch besonders einzigartig und herausfordernd für die Leser. Viele Menschen finden die komplexen Themen über Familie, Verlust und das Leben im Süden faszinierend und wichtig. Obwohl das Buch zunächst nicht sehr erfolgreich war, hat es im Laufe der Zeit an Bedeutung gewonnen und gilt heute als eines der besten Werke von Faulkner. Es hat dazu beigetragen, dass Faulkner 1949 den Nobelpreis für Literatur gewonnen hat. Dies zeigt, wie wichtig der Roman für die amerikanische Literatur ist und weshalb er immer noch viele Leser interessiert.",
+        "vocabulary": [
+          {
+            "word": "Bewusstseinsstrom",
+            "definition": "Eine Schreibtechnik, die die Gedanken und Gefühle einer Person direkt und ungefiltert darstellt."
+          },
+          {
+            "word": "Vorurteile",
+            "definition": "Negative Meinungen oder Einstellungen, die Menschen oft gegen andere haben, bevor sie sie wirklich kennen."
+          },
+          {
+            "word": "Erzählweise",
+            "definition": "Die Art und Weise, wie eine Geschichte erzählt wird, einschließlich Stil und Struktur."
+          },
+          {
+            "word": "Komplex",
+            "definition": "Schwierig oder vielschichtig; hat viele Teile, die miteinander verbunden sind."
+          },
+          {
+            "word": "Nobelpreis",
+            "definition": "Eine bedeutende internationale Auszeichnung, die für herausragende Leistungen in verschiedenen Bereichen verliehen wird."
+          }
+        ],
+        "questions": [
+          {
+            "question": "In welchem Jahr wurde der Roman veröffentlicht?",
+            "options": [
+              "1928",
+              "1929",
+              "1930"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Familienmitglied hat eine geistige Behinderung?",
+            "options": [
+              "Jason",
+              "Caddy",
+              "Benjy"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Welche Erzähltechnik verwendet Faulkner in 'Der Klang und die Wut'?",
+            "options": [
+              "Rückblenden",
+              "Chronologische Erzählung",
+              "Einfacher Dialog"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Der Klang und die Wut",
+        "text": "In William Faulkners Roman \"Der Klang und die Wut\", der 1929 veröffentlicht wurde, wird das Leben der Familie Compson erzählt. Diese wohlhabende, amerikanische Familie, die in Mississippi lebt, steht im Mittelpunkt einer emotionalen und chaotischen Geschichte. Zu Beginn des Romans erleben wir das Zerbrechen der familiären Strukturen durch die individuellen Probleme der Geschwister: Benjys geistige Behinderung, Caddys promiskuitives Verhalten, Quentins innere Kämpfe und Jasons impulsives Handeln. Faulkners experimenteller Stil, der den Fluss des Bewusstseins nutzt und verschiedene unzuverlässige Erzähler präsentiert, ist prägend für die moderne Literatur. Diese Erzähltechnik, gepaart mit einem düsteren Bild des Südens im frühen 20. Jahrhundert, zeigt die Herausforderungen und Konflikte, die mit dem Verlust von Werten und Identität verbunden sind. Leser, die sich auf diese anspruchsvolle Lektüre einlassen, erwartet eine tiefgründige Auseinandersetzung mit menschlichen Emotionen und familiären Bindungen. Dabei spielt nicht nur die Handlung eine Rolle, sondern auch die Art und Weise, wie diese erzählt wird, was zu einer dichten und bewegenden Leseerfahrung führt.",
+        "vocabulary": [
+          {
+            "word": "Geschwister",
+            "definition": "Brüder und Schwestern in einer Familie."
+          },
+          {
+            "word": "konflikt",
+            "definition": "Ein Streit oder ein Problem zwischen Menschen."
+          },
+          {
+            "word": "düstern",
+            "definition": "Etwas ist traurig oder finster."
+          },
+          {
+            "word": "erzähler",
+            "definition": "Die Person, die eine Geschichte erzählt."
+          },
+          {
+            "word": "emotionen",
+            "definition": "Gefühle wie Freude oder Trauer."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Autor des Buches?",
+            "options": [
+              "Ernest Hemingway",
+              "William Faulkner",
+              "Mark Twain"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "In welchem Jahr wurde das Buch veröffentlicht?",
+            "options": [
+              "1929",
+              "1949",
+              "1939"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche technischen Mittel verwendet der Autor?",
+            "options": [
+              "nur einfache Sprache",
+              "experimenteller Stil",
+              "keine besonderen Techniken"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Der Klang und die Wut: Ein Meisterwerk der Moderne",
+        "text": "William Faulkners \"Der Klang und die Wut\" gilt als eines der bedeutendsten Werke der amerikanischen Literatur und eröffnet einen tiefen Einblick in die menschliche Psyche sowie in die fallende Welt der Familie Compson, deren Schicksal exemplarisch für die soziale und moralische Zerrüttung im frühen 20. Jahrhundert steht. Die Geschichte entfaltet sich durch die Perspektiven der Geschwister Benjy, Quentin, Caddy und Jason, deren individuelle Kämpfe und inneren Konflikte auf erschütternde Weise das Zerfallen einer einst angesehenen Familie verdeutlichen. Faulkners einzigartiger experimenteller Stil, der den Fluss des Bewusstseins umfasst, ermöglicht es, die Komplexität und Vielschichtigkeit menschlicher Emotionen darzustellen. Diese Technik fordert den Leser heraus, sich intensiver mit der Erzählung auseinanderzusetzen, da die Struktur durch nichtlineare Erzählweise und unzuverlässige Erzähler geprägt ist. Inbesondere die thematische Auseinandersetzung mit Identitätsverlust, familiären Spannungen und der melancholischen Realität des Südens zeichnet das Buch aus. Angesichts der Tatsache, dass Faulkner mit diesem Werk einen radikalen Bruch mit den traditionellen Erzählweisen vollzog, wird das Buch heute als Schlüsseldokument der modernen Literatur betrachtet. Zwar fand das Buch anfänglich nicht den erwarteten kommerziellen Erfolg, doch trug seine späte Anerkennung entscheidend dazu bei, dass Faulkner 1949 den Nobelpreis für Literatur erhielt und er als einer der einflussreichsten Autoren des 20. Jahrhunderts gilt. Seine innovativen Erzähltechniken und die scharfsinnige Analyse von sozialen Verhältnissen und existenziellen Fragen eröffnen auch gegenwärtig noch relevante Diskurse über die menschliche Natur und die Konstruktion von Identität.",
+        "vocabulary": [
+          {
+            "word": "Schicksal",
+            "definition": "das zukünftige, vorherbestimmte Ereignis oder die Lage einer Person"
+          },
+          {
+            "word": "Zerrüttung",
+            "definition": "die Zerstörung von Harmonie oder Ordnung in einem Zustand, meist emotional oder sozial"
+          },
+          {
+            "word": "melancholisch",
+            "definition": "von einer nachdenklichen, oft traurigen Stimmung geprägt"
+          },
+          {
+            "word": "exemplarisch",
+            "definition": "als Beispiel dient"
+          },
+          {
+            "word": "Konstruktion",
+            "definition": "Die Art und Weise, wie etwas aufgebaut oder gestaltet ist, besonders in sozialen Kontexten"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches literarische Genre wird mit Faulkners Werk in Verbindung gebracht?",
+            "options": [
+              "Traditionelle Erzählweisen",
+              "Southern Gothic",
+              "Romantische Literatur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "In welchem Jahr wurde \"Der Klang und die Wut\" veröffentlicht?",
+            "options": [
+              "1929",
+              "1949",
+              "1928"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was geschah nach dem Veröffentlichungsdatum des Buches?",
+            "options": [
+              "Es erhielt sofort kommerziellen Erfolg.",
+              "Es wurde erst nach Faulkners Tod anerkannt.",
+              "Es begann nach der Veröffentlichung von \"Sanctuary\" an Popularität zu gewinnen."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Der Klang und die Wut: Ein literarisches Meisterwerk der Moderne",
+        "text": "William Faulkners 1929 erschienenes Werk \"Der Klang und die Wut\" stellt nicht nur eine eindringliche Analyse des Verfalls einer südstaatlichen Familie dar, sondern entfaltet auch die seelischen Abgründe seiner Protagonisten, die in einem strengen sozialen Gefüge gefangen sind. Dabei gelingt es Faulkner, durch innovative narrative Techniken, insbesondere den Fluss des Bewusstseins, unterschiedliche, oft unzuverlässige Perspektiven zu kombinieren, die das gesamte Spektrum menschlicher Emotionen abbilden. Die Komplexität der Geschwisterbeziehungen und ihre individuellen Konflikte – sei es Benjys geistige Behinderung, Quentins tiefgreifende neurotische Zerrissenheit oder Caddys Suche nach Identität und Akzeptanz – illustrieren das zerrüttete Verhältnis zur eigenen Familie und Gesellschaft. Faulkners evocative Sprache und der dichte, oftmals melancholische Erzählton entblößen die Verwundungen und Verkrampfungen, die aus gesellschaftlichen Normen und dem Streben nach einer längst verlorenen Ehre resultieren. In Anbetracht der revidierten Sichtweise auf die moderne Literatur und Identitätskonzeption eröffnet dieser Roman tiefgründige Reflexionen über das Wesen der menschlichen Existenz und die unabdingbaren Fragestellungen des Loslösens von überkommenen Traditionen. Ein Must-Read für jeden, der sich mit den Komplexitäten der menschlichen Psyche und emanzipatorischen Ideen auseinandersetzen möchte.",
+        "vocabulary": [
+          {
+            "word": "eindringlich",
+            "definition": "Intensiv oder berührend, eindrucksvoll."
+          },
+          {
+            "word": "zerrütteten",
+            "definition": "Vernichtet oder stark beschädigt, wackelig."
+          },
+          {
+            "word": "evocative",
+            "definition": "Etwas, das starke Emotionen weckt."
+          },
+          {
+            "word": "verwundungen",
+            "definition": "Wunden oder Verletzungen, physisch oder emotional."
+          },
+          {
+            "word": "emanzipatorischen",
+            "definition": "Befreiend oder zur Freiheit führend."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Jahr wurde als Erscheinungsjahr genannt?",
+            "options": [
+              "1929",
+              "1945",
+              "1914"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist eine zentrale Technik des Autors?",
+            "options": [
+              "der Fluss des Bewusstseins",
+              "die direkte Rede",
+              "die Beschreibungen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Aspekte analysiert Faulkner hauptsächlich?",
+            "options": [
+              "sportliche Wettkämpfe",
+              "Familienbeziehungen und soziale Normen",
+              "Wirtschaft und Handel"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Le Bruit et la Fureur",
+        "text": "Le livre s'appelle Le Bruit et la Fureur. C'est un roman de William Faulkner. Il est écrit en 1929. Faulkner est un écrivain américain célèbre. Il parle d'une famille riche dans le Mississippi. Cette famille s'appelle les Compson. Les Compson ont des problèmes graves. Ils perdent leur richesse et leur honneur. Les personnages principaux sont quatre frères et sœurs. Il y a Quentin, Caddy, Benjy et Jason. Chaque frère et sœur a ses propres soucis. Quentin est triste et anxieux. Caddy a des problèmes avec sa vie amoureuse. Benjy a une difficulté mentale. Jason est impatient et colérique. Le roman montre leur vie difficile et compliquée.",
+        "vocabulary": [
+          {
+            "word": "écrivain",
+            "definition": "personne qui écrit des livres"
+          },
+          {
+            "word": "richesse",
+            "definition": "possessions matérielles, argent"
+          },
+          {
+            "word": "honneur",
+            "definition": "respect et dignité"
+          },
+          {
+            "word": "soucis",
+            "definition": "problèmes ou préoccupations"
+          },
+          {
+            "word": "anxieux",
+            "definition": "qui ressent de l'inquiétude"
+          },
+          {
+            "word": "problèmes",
+            "definition": "situations difficiles à résoudre"
+          },
+          {
+            "word": "impatient",
+            "definition": "qui ne peut pas attendre"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le nom du livre ?",
+            "options": [
+              "Le Bruit et la Fureur",
+              "Les Compson",
+              "William Faulkner"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand le livre est-il écrit ?",
+            "options": [
+              "En 1929",
+              "En 1930",
+              "En 1925"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel personnage a une difficulté mentale ?",
+            "options": [
+              "Caddy",
+              "Quentin",
+              "Benjy"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Le Bruit et la Fureur",
+        "text": "Le Bruit et la Fureur est un roman publié en 1929 par l'auteur américain William Faulkner. L'histoire se passe dans le Mississippi pendant les années 1920. Elle parle d'une famille nommée les Compson, qui a beaucoup de problèmes. La famille est riche, mais elle est en déclin. Il y a quatre personnages principaux : Quentin, Caddy, Benjy, et Jason. Chaque personnage a des difficultés personnelles. Par exemple, Benjy a un handicap mental et Caddy a des problèmes de comportement. L'histoire se déroule sur un week-end en 1928. La narration est très originale. Faulkner utilise des flashbacks pour raconter l'histoire, ce qui rend le livre plus complexe et intéressant. Les thèmes de l'égalité, de la souffrance, et de la désintégration familiale sont très importants dans ce livre. Au départ, le roman n'a pas eu de succès commercial, mais il est maintenant considéré comme un chef-d'œuvre de la littérature américaine.",
+        "vocabulary": [
+          {
+            "word": "déclin",
+            "definition": "la phase de diminution ou de perte de valeur."
+          },
+          {
+            "word": "soudain",
+            "definition": "qui arrive de manière imprévisible."
+          },
+          {
+            "word": "personnel",
+            "definition": "qui concerne une personne ou un individu."
+          },
+          {
+            "word": "chef-d'œuvre",
+            "definition": "une œuvre d'une grande valeur artistique."
+          },
+          {
+            "word": "familial",
+            "definition": "qui a rapport à la famille."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est l'auteur de Le Bruit et la Fureur ?",
+            "options": [
+              "Ernest Hemingway",
+              "William Faulkner",
+              "Mark Twain"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de personnages principaux y a-t-il dans l'histoire ?",
+            "options": [
+              "Deux",
+              "Quatre",
+              "Huit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est un des thèmes importants du roman ?",
+            "options": [
+              "La richesse",
+              "L'égalité",
+              "Les sports"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Le Bruit et la Fureur",
+        "text": "Le Bruit et la Fureur est un roman écrit par William Faulkner en 1929. Ce livre explore la vie de la famille Compson pendant une période difficile dans le Mississippi. Faulkner a une écriture très originale qui utilise des techniques modernes, comme la narration à la première personne. Il raconte l'histoire à travers les perspectives de quatre personnages principaux : Quentin, Caddy, Benjy et Jason, qui ont tous des défis différents. Par exemple, Quentin lutte avec ses émotions complexes et ses pensées obsessionnelles, tandis que Benjy, qui a des problèmes d'apprentissage, voit le monde d'une manière différente. Le roman se déroule principalement pendant un weekend en 1928, mais il utilise beaucoup de flashbacks pour expliquer le passé de la famille Compson et leurs erreurs. Les thèmes de la perte, de la mémoire et du désespoir sont très présents tout au long du livre. Si l'on considère la société du Sud des États-Unis à cette époque, on comprend que Faulkner critique ces valeurs traditionnelles. Ce livre, qui ne a pas eu un grand succès commercial au début, est maintenant considéré comme l'un des romans les plus importants de l'histoire littéraire américaine. L'écriture de Faulkner a ouvert la voie à d'autres écrivains qui ont voulu explorer la complexité de la vie humaine et des relations familiales.",
+        "vocabulary": [
+          {
+            "word": "narration",
+            "definition": "la manière de raconter une histoire."
+          },
+          {
+            "word": "obsessionnelle",
+            "definition": "qui concerne une pensée répétitive ou incontrôlable."
+          },
+          {
+            "word": "complexité",
+            "definition": "l'état de quelque chose qui est compliqué."
+          },
+          {
+            "word": "valeurs",
+            "definition": "les croyances et principes importants pour une société."
+          },
+          {
+            "word": "traditionnelles",
+            "definition": "qui relèvent des habitudes ou croyances anciennes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal du roman ?",
+            "options": [
+              "La perte et le désespoir",
+              "L'amour et la joie",
+              "Le voyage et l'aventure"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand se déroule principalement l'histoire ?",
+            "options": [
+              "En 1929",
+              "Pendant un weekend en 1928",
+              "Dans les années 1940"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi le livre n’a-t-il pas eu un grand succès au début ?",
+            "options": [
+              "Parce que l'écriture est très simple",
+              "Parce que Faulkner a utilisé des techniques modernes",
+              "Parce que les thèmes ne sont pas intéressants"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Le Bruit et la Fureur",
+        "text": "Le Bruit et la Fureur est un roman marquant de William Faulkner, publié en 1929, qui plonge le lecteur dans le monde turbulent de la famille Compson dans le Mississippi. Cette œuvre se démarque par une narration expérimentale qui utilise des techniques comme le flux de conscience. Faulkner y aborde des thèmes profonds tels que la déchéance familiale, le désespoir et l'aliénation. Les membres de la famille Compson, notamment Quentin, Benjy, Caddy et Jason, vivent une crise existentielle, chacun confronté à ses propres démons. Bien que le récit soit centré sur un seul week-end, les flashbacks fréquents révèlent leur passé compliqué. Le roman ne rencontrait pas un succès commercial à sa sortie, mais il est désormais considéré comme une pierre angulaire de la littérature moderne, illustrant la lutte des individus face à une société en mutation. À travers un style poignant et souvent désenchanté, Faulkner invite les lecteurs à réfléchir sur l'identité et la mémoire, faisant de cette œuvre une lecture essentielle pour comprendre les complexités de la condition humaine.",
+        "vocabulary": [
+          {
+            "word": "roman",
+            "definition": "une histoire écrite souvent en prose."
+          },
+          {
+            "word": "familial",
+            "definition": "relatif à la famille."
+          },
+          {
+            "word": "narration",
+            "definition": "la manière de raconter une histoire."
+          },
+          {
+            "word": "décadence",
+            "definition": "déclin, perte de la qualité ou des valeurs."
+          },
+          {
+            "word": "identité",
+            "definition": "qui nous sommes, notre personnalité."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est l'auteur de ce livre?",
+            "options": [
+              "William Faulkner",
+              "Ernest Hemingway",
+              "Mark Twain"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "De quel type de narration le roman fait-il usage?",
+            "options": [
+              "narration linéaire",
+              "flux de conscience",
+              "narration en voix off"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de jours l'histoire se déroule-t-elle?",
+            "options": [
+              "une semaine",
+              "un week-end",
+              "un mois"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Le Bruit et la Fureur",
+        "text": "Le Bruit et la Fureur de William Faulkner, publié en 1929, est une œuvre emblématique du modernisme littéraire, qui explore la dynamique complexe de la famille Compson, dépeinte dans un Mississippi en déclin. À travers une narration novatrice, Faulkner joue avec le temps et la perspective, mêlant des voix multiples et souvent contradictoires. Chaque membre de la fratrie – Quentin, Benjy, Caddy et Jason – représente un aspect distinct de la souffrance humaine, que ce soit l'angoisse, la névrose ou la déchéance morale. Les flashbacks de cette chronique familiale s’infiltrent sans avertissement, ajoutant une profondeur émotive et révélatrice à leur quête d'identité et de sens. Bien que le roman ait initialement été ignoré, ses thèmes intemporels et sa structure audacieuse ont fini par le consacrer comme une des œuvres majeures de Faulkner. Par son approche réaliste et parfois cynique, le texte questionne les notions de mémoire et de responsabilité, tout en posant un regard critique sur le Sud américain. En cela, il continue d'interroger les lecteurs sur la manière dont le passé façonne le présent.",
+        "vocabulary": [
+          {
+            "word": "dynamique",
+            "definition": "l'interaction entre différentes forces ou éléments."
+          },
+          {
+            "word": "évoluer",
+            "definition": "changer ou se développer au fil du temps."
+          },
+          {
+            "word": "émotive",
+            "definition": "quelque chose qui touche les émotions."
+          },
+          {
+            "word": "audacieuse",
+            "definition": "qui prend des risques, qui est créative."
+          },
+          {
+            "word": "consecrate",
+            "definition": "faire reconnaître comme important ou prestigieux."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal du roman?",
+            "options": [
+              "l'amour",
+              "la dynamique familiale",
+              "la science"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel style de narration utilise Faulkner?",
+            "options": [
+              "narration simple",
+              "narration abstraite",
+              "narration multiple"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "En quelle année le roman a-t-il été publié?",
+            "options": [
+              "1929",
+              "1935",
+              "1949"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Le Bruit et la Fureur",
+        "text": "Le Bruit et la Fureur, chef-d'œuvre de William Faulkner publié en 1929, incarne les innovations stylistiques d'une époque littéraire tumultueuse. À travers une structure narrative complexe, Faulkner dresse un portrait cru et impitoyable de la dislocation familiale et du désespoir individuel au sein de la société méridionale. Le roman, centré sur la famille Compson, ne se contente pas de dépeindre leurs luttes internes ; il interroge aussi la nature du temps et la perception de la mémoire, mêlant des monologues intérieurs tourmentés à des souvenirs fragmentés. Quentin, Benjy, Caddy et Jason, chacun avec leur voix singulière, illustrent à quel point les destinées peuvent s'entrelacer et se pervertir au travers d'une quête désespérée de rédemption. Faulkner, en utilisant des techniques telles que le flux de conscience et la multiplicité des points de vue, invite le lecteur à naviguer dans une conscience chaotique et incertaine. L'audace de son style n'est pas seulement une prouesse technique ; elle questionne l'authenticité des récits et, par extension, les normes sociales qui régissent les relations humaines. Cette œuvre, longtemps sous-estimée, est aujourd'hui considérée comme une exploration essentielle de la condition humaine, marquée par les cicatrices d'Histoire et la richesse d'un langage poétique.",
+        "vocabulary": [
+          {
+            "word": "chef-d'œuvre",
+            "definition": "une œuvre de grande valeur artistique."
+          },
+          {
+            "word": "dislocation",
+            "definition": "absence d'harmonie, désordre."
+          },
+          {
+            "word": "éclectique",
+            "definition": "qui combine différents styles ou idées."
+          },
+          {
+            "word": "révélation",
+            "definition": "un fait qui change notre compréhension."
+          },
+          {
+            "word": "exégèse",
+            "definition": "interprétation d'un texte."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le rôle de la narration dans ce roman?",
+            "options": [
+              "simple et linéaire",
+              "complexe et fragmentée",
+              "ouvertement fantastique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Faulkner explore-t-il la mémoire?",
+            "options": [
+              "par des récits simples",
+              "à travers des techniques narratiques innovantes",
+              "en évitant le passé"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel regard critique le roman porte-t-il sur la société?",
+            "options": [
+              "optimiste",
+              "indifférent",
+              "sévère"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "El ruido y la furia",
+        "text": "El ruido y la furia es una novela de William Faulkner. La historia es sobre una familia rica. La familia se llama Compson. Los hermanos son Quentin, Benjy, Jason y Caddy. Cada hermano tiene problemas. El libro es triste y profundo. Faulkner usa un estilo especial. Hay diferentes voces en la historia. A veces, la historia es confusa. Esta novela es importante. Es un ejemplo de la vida en el sur de Estados Unidos. Los lectores pueden sentir las emociones de los personajes.",
+        "vocabulary": [
+          {
+            "word": "historia",
+            "definition": "narración de eventos"
+          },
+          {
+            "word": "familia",
+            "definition": "grupo de personas relacionadas"
+          },
+          {
+            "word": "hermano",
+            "definition": "sibling masculino"
+          },
+          {
+            "word": "triste",
+            "definition": "que no es feliz"
+          },
+          {
+            "word": "importante",
+            "definition": "que tiene valor"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el autor de la novela?",
+            "options": [
+              "Ernest Hemingway",
+              "William Faulkner",
+              "Mark Twain"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se llama la familia en la historia?",
+            "options": [
+              "Smith",
+              "Compson",
+              "Johnson"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos hermanos hay en la familia?",
+            "options": [
+              "Tres",
+              "Cuatro",
+              "Cinco"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "El ruido y la furia",
+        "text": "El ruido y la furia es una novela escrita por William Faulkner en 1929. La historia se centra en la familia Compson, que vive en el sur de Estados Unidos. La familia es rica, pero tiene muchos problemas. Los hermanos son Quentin, Benjy, Caddy y Jason. Cada uno tiene problemas diferentes. Por ejemplo, Benjy tiene una discapacidad mental. La novela tiene un estilo especial. Faulkner usa diferentes narradores y un flujo de conciencia. A veces, los lectores pueden sentirse confundidos. El libro muestra la vida difícil en el sur en el siglo XX. A pesar de que no fue un éxito al principio, ahora se considera una novela muy importante. Esta obra ganó un lugar especial en la literatura.",
+        "vocabulary": [
+          {
+            "word": "centra",
+            "definition": "focaliza, se enfoca en"
+          },
+          {
+            "word": "problemas",
+            "definition": "dificultades o conflictos"
+          },
+          {
+            "word": "discapacidad",
+            "definition": "incapacidad física o mental"
+          },
+          {
+            "word": "especial",
+            "definition": "diferente de lo normal"
+          },
+          {
+            "word": "literatura",
+            "definition": "arte de escribir"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo se publicó El ruido y la furia?",
+            "options": [
+              "1920",
+              "1929",
+              "1935"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué problema tiene el hermano Benjy?",
+            "options": [
+              "Es muy feliz",
+              "Tiene una discapacidad",
+              "Es muy rico"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué estilo usa Faulkner en la novela?",
+            "options": [
+              "Flujo de conciencia",
+              "Narración simple",
+              "Poema"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "El ruido y la furia",
+        "text": "El ruido y la furia es una novela escrita por William Faulkner y publicada en 1929. Este libro cuenta la historia de la familia Compson, que vive en el sur de los Estados Unidos. La familia es rica, pero su vida está llena de problemas y conflictos. Los cuatro hermanos, Quentin, Benjy, Caddy y Jason, enfrentan diferentes crisis personales que afectan a todos. Benjy, por ejemplo, tiene una discapacidad mental, lo que complica su vida y su relación con los demás. Caddy, la hermana, tiene un comportamiento que su familia desaprueba, lo que genera más problemas. Quentin, que lucha contra su salud mental, se siente atrapado y angustiado. La historia utiliza un estilo único que cambia entre diferentes narradores, lo que puede ser difícil de seguir, pero ofrece una visión profunda de la vida. Faulkner emplea el flujo de conciencia, una técnica que permite conocer los pensamientos íntimos de los personajes. Esta novela también refleja el ambiente triste y complejo del sur en el siglo XX. Aunque no fue popular al principio, ahora se considera una de las mejores obras de Faulkner, y muchos críticos dicen que es fundamental para entender la literatura americana del momento. Si un lector busca explorar la profundidad del sufrimiento humano y la familia, esta es una lectura esencial.",
+        "vocabulary": [
+          {
+            "word": "discapacidad",
+            "definition": "una condición física o mental que dificulta el desarrollo normal de una persona."
+          },
+          {
+            "word": "promiscuidad",
+            "definition": "comportamiento sexual considerado inestable o con múltiples parejas."
+          },
+          {
+            "word": "neuroticismo",
+            "definition": "una tendencia a experimentar ansiedad o emociones negativas."
+          },
+          {
+            "word": "caos",
+            "definition": "un estado de confusión total o desorden."
+          },
+          {
+            "word": "conflicto",
+            "definition": "una situación en la que dos o más partes tienen intereses opuestos."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos hermanos tiene la familia Compson?",
+            "options": [
+              "Tres",
+              "Cuatro",
+              "Cinco"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué problema afecta a Benjy?",
+            "options": [
+              "Su comportamiento",
+              "Su salud mental",
+              "Su discapacidad mental"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué estilo narrativo utiliza Faulkner en la novela?",
+            "options": [
+              "Narración lineal",
+              "Flujo de conciencia",
+              "Narrador omnisciente"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "El sonido y la furia",
+        "text": "El sonido y la furia, escrita por William Faulkner en 1929, es una obra maestra que ahonda en la vida de la familia Compson, una prominente familia del sur de Estados Unidos en un momento de decadencia. La novela, que empieza en un fin de semana en 1928, ofrece una perspectiva innovadora gracias a su estilo narrativo experimental, evidente en el uso del flujo de conciencia. A través de los ojos de los hermanos Quentin, Benjy, Jason y Caddy, el lector experimenta una rica exploración de sus conflictos internos y sus relaciones tumultuosas. Aunque en un principio no tuvo éxito comercial, la publicación de su obra posterior, Sanctuary, llevó a una reevaluación crítica y, eventualmente, a Faulkner le fue otorgado el Premio Nobel de Literatura en 1949. El desasosiego característico de la vida sureña y las complejidades de cada personaje invitan a reflexionar sobre aspectos universales como la familia, la identidad y el paso del tiempo. Hoy en día, sigue siendo relevante, invitando a nuevas generaciones a descubrir la profundidad de la experiencia humana.",
+        "vocabulary": [
+          {
+            "word": "decadencia",
+            "definition": "cuando algo pierde su calidad o valor"
+          },
+          {
+            "word": "perspectiva",
+            "definition": "punto de vista, manera de ver algo"
+          },
+          {
+            "word": "conflictos",
+            "definition": "disputas o problemas entre personas"
+          },
+          {
+            "word": "temática",
+            "definition": "tema o asunto que trata una obra"
+          },
+          {
+            "word": "relevante",
+            "definition": "importante o significativo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quiénes son los personajes principales de la novela?",
+            "options": [
+              "La familia Compson",
+              "Los amigos de Faulkner",
+              "Las familias del pueblo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué año fue publicada 'El sonido y la furia'?",
+            "options": [
+              "1929",
+              "1949",
+              "1928"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué estilo narrativo usa Faulkner en la novela?",
+            "options": [
+              "Flujo de conciencia",
+              "Narración tradicional",
+              "Diálogos simples"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "El sonido y la furia: un viaje experimental",
+        "text": "El sonido y la furia, publicado en 1929 por William Faulkner, es una exploración literaria que desafía las convenciones narrativas del momento. A través de la mirada fragmentada de los hermanos Compson –Quentin, Benjy, Jason y Caddy–, Faulkner presenta la descomposición de una familia del sur de Estados Unidos al borde del colapso. La complejidad de los personajes se revela a través de un flujo de conciencia que permite al lector acercarse a sus emociones más íntimas y a la angustia existencial que rodea su existencia. Si bien no obtuvo reconocimiento inmediato, su estilo revolucionario y su representación vívida de la vida sureña influyeron profundamente en el desarrollo de la literatura moderna, colocándolo en una posición central dentro de la historia literaria estadounidense. En consecuencia, se considera que esta obra fue fundamental para que Faulkner ganara el Premio Nobel en 1949. La temática del tiempo, la identidad y la familia resuena con fuerza, invitando a nuevos lectores a reflexionar sobre la naturaleza humana.",
+        "vocabulary": [
+          {
+            "word": "fragmentada",
+            "definition": "dividida o rota en partes"
+          },
+          {
+            "word": "descomposición",
+            "definition": "proceso de degradación o deterioro"
+          },
+          {
+            "word": "anguistia",
+            "definition": "sensación de gran preocupación o sufrimiento"
+          },
+          {
+            "word": "revolucionario",
+            "definition": "que trae o promueve cambios significativos"
+          },
+          {
+            "word": "resuena",
+            "definition": "produce eco o tiene importancia"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué representa la familia Compson en la novela?",
+            "options": [
+              "Una familia en colapso",
+              "Una familia feliz",
+              "Una familia rica"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué estilo literario utiliza Faulkner principalmente?",
+            "options": [
+              "Flujo de conciencia",
+              "Prosa convencional",
+              "Narración en tercera persona"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué año Faulkner ganó el Premio Nobel de Literatura?",
+            "options": [
+              "1949",
+              "1929",
+              "1938"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "El sonido y la furia: Un referente del modernismo estadounidense",
+        "text": "El sonido y la furia, obra condensada de William Faulkner publicada en 1929, se erige como un paradigma del modernismo literario, caracterizado por su narración innovadora y su complejidad estructural. A través de las experiencias de la familia Compson, Faulkner nos sumerge en un ambiente decadente y trágico donde cada personaje lidia con sus propias tormentas interiores: desde el conflicto existencial de Quentin hasta la aparente indiferencia de Jason, cada voz aporta una tonalidad única a la sinfonía de la narrativa. La novela, a menudo considerada inalcanzable en su ambición literaria, se beneficia de una técnica de flashbacks descompuesta que permite un análisis profundo de los traumas familiares y del paso inexorable del tiempo. Faulkner, con su prosa densa y rica en matices, subraya la fragilidad de la condición humana mientras explora temas universales como la desintegración de los valores familiares y la búsqueda de significado. Alcanzó reconocimiento tardío, pero hoy se la considera una de las obras más importantes de la literatura estadounidense, reflejando no solo una época, sino también la psique compleja de sus personajes.",
+        "vocabulary": [
+          {
+            "word": "paradigma",
+            "definition": "modelo o ejemplo que se sigue"
+          },
+          {
+            "word": "tormentas",
+            "definition": "conflictos internos o emocionales"
+          },
+          {
+            "word": "sinfonía",
+            "definition": "combinación armoniosa de elementos"
+          },
+          {
+            "word": "inhóspito",
+            "definition": "poco acogedor o difícil de soportar"
+          },
+          {
+            "word": "psique",
+            "definition": "mente o alma de una persona"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cómo percibimos a los personajes a través de la obra?",
+            "options": [
+              "A través de sus tormentos internos",
+              "Siempre felices",
+              "Nunca tienen conflictos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué técnica narrativa destaca en la novela?",
+            "options": [
+              "Flashbacks descompuestos",
+              "Narración lineal",
+              "Diálogo directo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tema se explora en profundidad en 'El sonido y la furia'?",
+            "options": [
+              "Descomposición de los valores familiares",
+              "El éxito de una familia rica",
+              "Una vida fácil y feliz"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  }
+}
