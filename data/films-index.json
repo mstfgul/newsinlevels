@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-25-the-flower-of-evil-claude-chabrol",
+    "date": "2026-07-25",
+    "director": "Claude Chabrol",
+    "image": "https://image.tmdb.org/t/p/w780/kbOV3t9rQMkLaARTkb4DumTdJdw.jpg",
+    "titles": {
+      "en": "The Flower of Evil: A Deep Look",
+      "de": "Die Blume des Bösen",
+      "fr": "La Fleur du mal",
+      "es": "La Flor del Mal"
+    }
+  },
+  {
     "id": "2026-07-24-the-act-of-killing-joshua-oppenheimer",
     "date": "2026-07-24",
     "director": "Joshua Oppenheimer",
