@@ -30,9 +30,47 @@
   --level-c2: #c03a2b;
 }
 
-/* Dark: the classroom chalkboard. */
+/* Dark: the classroom chalkboard.
+ *
+ * Two ways in: the reader flips the day/night switch (an explicit
+ * data-theme="dark" on <html>), or — with no explicit choice made — the OS
+ * asks for dark. The inline theme script in the layout resolves "follow the
+ * OS" into an explicit data-theme before first paint, so the media query
+ * below is only the no-JS fallback (:root with no data-theme set). Keeping
+ * the palette in one shared selector list means the tokens live in a single
+ * place; data-theme="light" matches neither, so a forced-light choice always
+ * wins, even on an OS set to dark. */
+:root[data-theme="dark"] {
+  --background: #161f1b;
+  --foreground: #e9e5d9;
+  --card: #1d2823;
+  --card-foreground: #e9e5d9;
+  --muted: #242f2a;
+  --muted-foreground: #9aa79e;
+  --border: #2d3b34;
+  --primary: #f2d74e;
+  --on-primary: #1c2620;
+  --margin-red: #d9705f;
+  --rule-blue: #35463d;
+  --hl: rgba(242, 215, 78, 0.22);
+  --hl-strong: rgba(242, 215, 78, 0.38);
+  --tape: rgba(233, 220, 185, 0.3);
+  --grid-line: transparent;
+  --print-paper: #f4f1e7;
+  --postit: #ecd977;
+  --postit-fold: #d3bf5e;
+  --postit-ink: #3a3416;
+
+  --level-a1: #5cbf8a;
+  --level-a2: #4ec2a5;
+  --level-b1: #6fa8e0;
+  --level-b2: #a88bd6;
+  --level-c1: #e07dab;
+  --level-c2: #e07b65;
+}
+
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme]) {
     --background: #161f1b;
     --foreground: #e9e5d9;
     --card: #1d2823;
@@ -185,6 +223,77 @@ mark.vocab:hover {
   .level-swap mark.vocab {
     animation: none;
   }
+}
+
+/* The homepage desk: each pile is tossed onto the board on load, dropping in
+ * from just above with a little settle, staggered so they land one after
+ * another instead of all at once. `backwards` holds the start frame through
+ * the per-pile delay so nothing flashes in early. The inner cards keep their
+ * own tilt — this only animates the outer wrapper, which carries no rotation. */
+@keyframes desk-drop {
+  from {
+    opacity: 0;
+    transform: translateY(-26px) rotate(-3deg);
+  }
+  60% {
+    opacity: 1;
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) rotate(0);
+  }
+}
+
+.desk-drop {
+  /* Two motions on one element: the entrance drop plays once, then a slow
+   * continuous bob keeps the desk quietly alive — the sort of minimal drift a
+   * stack of paper has, never still, never busy. The two use different
+   * properties (transform vs. the individual translate/rotate) so they
+   * compose instead of fighting; --d staggers both, so the piles land AND
+   * then breathe out of sync with one another. */
+  animation:
+    desk-drop 620ms cubic-bezier(0.22, 0.9, 0.24, 1) var(--d, 0ms) backwards,
+    desk-float 9s ease-in-out calc(620ms + var(--f, 0ms)) infinite;
+  transition: transform 200ms ease;
+}
+
+/* A resting pile lifts a touch when the reader points at it (transform, so it
+ * layers on top of the translate/rotate bob rather than replacing it). */
+.desk-drop:hover {
+  transform: translateY(-4px);
+}
+
+@keyframes desk-float {
+  0%,
+  100% {
+    translate: 0 0;
+    rotate: 0deg;
+  }
+  50% {
+    translate: 0 -6px;
+    rotate: 0.5deg;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .desk-drop {
+    animation: none;
+  }
+  .desk-drop:hover {
+    transform: none;
+  }
+}
+
+/* Day/night switch: the icon follows the resolved data-theme so it is right
+ * on first paint. Day shows the sun, night shows the moon. */
+.theme-moon {
+  display: none;
+}
+:root[data-theme="dark"] .theme-sun {
+  display: none;
+}
+:root[data-theme="dark"] .theme-moon {
+  display: block;
 }
 
 /* Vocabulary definitions on a sticky note. */

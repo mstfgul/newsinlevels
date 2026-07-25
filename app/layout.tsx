@@ -9,6 +9,7 @@ import {
 import { PreferencesProvider } from "@/components/Preferences";
 import { RegisterSW } from "@/components/RegisterSW";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import { NavTabs } from "@/components/NavTabs";
 import { PomodoroClock } from "@/components/PomodoroClock";
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from "@/lib/seo";
@@ -39,6 +40,11 @@ const caveat = Caveat({
 
 const DEFAULT_TITLE =
   "Any Text in Levels — daily news, art & stories at your level (CEFR A1–C2)";
+
+// Runs before first paint: resolves the reader's saved day/night choice (or,
+// with none, the OS preference) into an explicit data-theme on <html> so the
+// page never flashes the wrong palette. Kept tiny and inlined for that reason.
+const THEME_INIT = `(function(){try{var t=localStorage.getItem('nil-theme');if(t!=='light'&&t!=='dark'){t=(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';}document.documentElement.dataset.theme=t;}catch(e){}})();`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -90,9 +96,11 @@ export default function RootLayout({
   return (
     <html
       lang="en"
+      suppressHydrationWarning
       className={`${bricolage.variable} ${literata.variable} ${plexMono.variable} ${caveat.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <script dangerouslySetInnerHTML={{ __html: THEME_INIT }} />
         <RegisterSW />
         <PreferencesProvider>
           <header className="border-b border-border print:hidden">
@@ -113,7 +121,10 @@ export default function RootLayout({
                     <span className="relative">Levels</span>
                   </span>
                 </Link>
-                <LanguageSwitch />
+                <div className="flex items-center gap-1">
+                  <LanguageSwitch />
+                  <ThemeToggle />
+                </div>
               </div>
               <div className="mt-3 border-t border-border pt-3">
                 <NavTabs />

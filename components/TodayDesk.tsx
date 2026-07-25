@@ -117,7 +117,10 @@ export function TodayDesk({
           shrinks to the quote's old slot (order-*); lg keeps its hand-placed
           board where order doesn't apply. */}
       {news.length > 0 && (
-        <div className="relative order-4 w-[88%] lg:absolute lg:left-0 lg:top-0 lg:w-[34%]">
+        <div
+          className="desk-drop relative order-4 w-[88%] lg:absolute lg:left-0 lg:top-0 lg:w-[34%]"
+          style={{ "--d": "40ms", "--f": "0s" } as React.CSSProperties}
+        >
           <DeskLabel href="/news/">news</DeskLabel>
           <Pile
             items={news.map((entry) => ({
@@ -151,7 +154,10 @@ export function TodayDesk({
       <div className="order-2 flex gap-2.5 lg:contents">
         {/* The film posters, one pinned over the other like at the cinema door. */}
         {film.length > 0 && (
-          <div className="relative min-w-0 flex-1 lg:absolute lg:left-[38%] lg:top-0 lg:w-[19%] lg:flex-none">
+          <div
+            className="desk-drop relative min-w-0 flex-1 lg:absolute lg:left-[38%] lg:top-0 lg:w-[19%] lg:flex-none"
+            style={{ "--d": "200ms", "--f": "3s" } as React.CSSProperties}
+          >
             <DeskLabel href="/films/">film club</DeskLabel>
             <Pile
               items={film.map((entry) => ({
@@ -180,7 +186,10 @@ export function TodayDesk({
 
         {/* Book covers from the reading pile. */}
         {book.length > 0 && (
-          <div className="relative min-w-0 flex-1 lg:absolute lg:bottom-0 lg:left-[60%] lg:w-[12%] lg:flex-none">
+          <div
+            className="desk-drop relative min-w-0 flex-1 lg:absolute lg:bottom-0 lg:left-[60%] lg:w-[12%] lg:flex-none"
+            style={{ "--d": "320ms", "--f": "2.2s" } as React.CSSProperties}
+          >
             <DeskLabel href="/books/">book club</DeskLabel>
             <Pile
               items={book.map((entry) => ({
@@ -209,7 +218,10 @@ export function TodayDesk({
 
         {/* Museum postcards from the last two days. */}
         {art.length > 0 && (
-          <div className="relative min-w-0 flex-1 lg:absolute lg:right-0 lg:top-[4%] lg:w-[27%] lg:flex-none">
+          <div
+            className="desk-drop relative min-w-0 flex-1 lg:absolute lg:right-0 lg:top-[4%] lg:w-[27%] lg:flex-none"
+            style={{ "--d": "120ms", "--f": "1.5s" } as React.CSSProperties}
+          >
             <DeskLabel href="/art/">daily art</DeskLabel>
             <Pile
               items={art.map((entry) => ({
@@ -238,7 +250,10 @@ export function TodayDesk({
 
       {/* On-this-day facts on ruled index cards. */}
       {history.length > 0 && (
-        <div className="relative order-3 w-[88%] lg:absolute lg:bottom-0 lg:left-[2%] lg:w-[28%]">
+        <div
+          className="desk-drop relative order-3 w-[88%] lg:absolute lg:bottom-0 lg:left-[2%] lg:w-[28%]"
+          style={{ "--d": "260ms", "--f": "4.5s" } as React.CSSProperties}
+        >
           <DeskLabel href="/history/">on this day</DeskLabel>
           <Pile
             items={history.map((entry) => ({
@@ -285,7 +300,10 @@ export function TodayDesk({
 
       {/* Quote cards: the author's portrait pasted beside their words. */}
       {quote.length > 0 && (
-        <div className="relative order-1 lg:absolute lg:bottom-[3%] lg:left-[33%] lg:w-[24%]">
+        <div
+          className="desk-drop relative order-1 lg:absolute lg:bottom-[3%] lg:left-[33%] lg:w-[24%]"
+          style={{ "--d": "380ms", "--f": "5.8s" } as React.CSSProperties}
+        >
           <DeskLabel href="/quotes/">quote of the day</DeskLabel>
           <Pile
             items={quote.map((entry) => ({
