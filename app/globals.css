@@ -225,18 +225,16 @@ mark.vocab:hover {
   }
 }
 
-/* The homepage desk: each pile is tossed onto the board on load, dropping in
- * from just above with a little settle, staggered so they land one after
- * another instead of all at once. `backwards` holds the start frame through
- * the per-pile delay so nothing flashes in early. The inner cards keep their
- * own tilt — this only animates the outer wrapper, which carries no rotation. */
-@keyframes desk-drop {
+/* The homepage as today's contents page. The lead photo is pasted in and
+ * pinned once (lead-in), then keeps a slow idle sway so the page is never
+ * fully still — the one bit of continuous motion, kept to a single element so
+ * it reads as calm, not busy. The base tilt lives on the figure's transform;
+ * the sway uses the individual rotate/translate properties so the two layer
+ * instead of overwriting each other. */
+@keyframes lead-in {
   from {
     opacity: 0;
-    transform: translateY(-26px) rotate(-3deg);
-  }
-  60% {
-    opacity: 1;
+    transform: translateY(-16px) rotate(-3deg);
   }
   to {
     opacity: 1;
@@ -244,43 +242,67 @@ mark.vocab:hover {
   }
 }
 
-.desk-drop {
-  /* Two motions on one element: the entrance drop plays once, then a slow
-   * continuous bob keeps the desk quietly alive — the sort of minimal drift a
-   * stack of paper has, never still, never busy. The two use different
-   * properties (transform vs. the individual translate/rotate) so they
-   * compose instead of fighting; --d staggers both, so the piles land AND
-   * then breathe out of sync with one another. */
-  animation:
-    desk-drop 620ms cubic-bezier(0.22, 0.9, 0.24, 1) var(--d, 0ms) backwards,
-    desk-float 9s ease-in-out calc(620ms + var(--f, 0ms)) infinite;
-  transition: transform 200ms ease;
+.lead-card {
+  animation: lead-in 560ms cubic-bezier(0.22, 0.9, 0.24, 1) backwards;
 }
 
-/* A resting pile lifts a touch when the reader points at it (transform, so it
- * layers on top of the translate/rotate bob rather than replacing it). */
-.desk-drop:hover {
-  transform: translateY(-4px);
+.lead-photo {
+  animation: lead-sway 9s ease-in-out 560ms infinite;
 }
 
-@keyframes desk-float {
+@keyframes lead-sway {
   0%,
   100% {
-    translate: 0 0;
     rotate: 0deg;
+    translate: 0 0;
   }
   50% {
-    translate: 0 -6px;
-    rotate: 0.5deg;
+    rotate: -0.8deg;
+    translate: 0 -4px;
   }
+}
+
+/* The contents list writes itself in, one ruled line after another, like the
+ * index a student pens at the front of a fresh notebook. */
+@keyframes index-write {
+  from {
+    opacity: 0;
+    transform: translateX(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.index-row {
+  animation: index-write 400ms ease-out backwards;
+}
+
+.index-row:nth-child(1) {
+  animation-delay: 160ms;
+}
+.index-row:nth-child(2) {
+  animation-delay: 250ms;
+}
+.index-row:nth-child(3) {
+  animation-delay: 340ms;
+}
+.index-row:nth-child(4) {
+  animation-delay: 430ms;
+}
+.index-row:nth-child(5) {
+  animation-delay: 520ms;
+}
+.index-row:nth-child(6) {
+  animation-delay: 610ms;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .desk-drop {
+  .lead-card,
+  .lead-photo,
+  .index-row {
     animation: none;
-  }
-  .desk-drop:hover {
-    transform: none;
   }
 }
 
