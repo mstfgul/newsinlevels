@@ -3,7 +3,8 @@ import { getHistoryEvent, getHistoryIndex } from "@/lib/data";
 import { HistoryList } from "@/components/HistoryList";
 import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
-import { pageMetadata } from "@/lib/seo";
+import { JsonLd } from "@/components/JsonLd";
+import { collectionJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "On This Day — history told at your level (A1–C2)",
@@ -17,6 +18,9 @@ export default function HistoryPage() {
 
   return (
     <div>
+      {entries.length > 0 && (
+        <JsonLd data={collectionJsonLd("history", entries)} />
+      )}
       <PageIntro title="On This Day">
         one thing that really happened on this date — told{" "}
         <Highlight>at your level</Highlight>, in your language

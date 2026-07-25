@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import { getArtIndex } from "@/lib/data";
 import { GalleryList } from "@/components/GalleryList";
 import { Highlight, PageIntro } from "@/components/PageIntro";
-import { pageMetadata } from "@/lib/seo";
+import { JsonLd } from "@/components/JsonLd";
+import { collectionJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "Daily Art — famous paintings explained at your level (A1–C2)",
@@ -16,6 +17,9 @@ export default function GalleryPage() {
 
   return (
     <div>
+      {entries.length > 0 && (
+        <JsonLd data={collectionJsonLd("art", entries)} />
+      )}
       <PageIntro title="Daily Art">
         one painting a day, read <Highlight>at your level</Highlight> — like a
         museum postcard taped into your notebook

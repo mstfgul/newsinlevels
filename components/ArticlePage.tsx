@@ -5,15 +5,18 @@ import type { Article, Language } from "@/lib/types";
 import { recentWindow } from "@/lib/data";
 import {
   articleJsonLd,
+  articlePath,
   articleMetadata,
   breadcrumbJsonLd,
   isVariantLang,
   SECTIONS,
+  SITE_URL,
   VARIANT_LANGS,
   type Section,
 } from "@/lib/seo";
 import { ArticleReader } from "./ArticleReader";
 import { JsonLd } from "./JsonLd";
+import { ShareQuote } from "./ShareQuote";
 
 /**
  * Shared body for every content detail page: structured data, the back link
@@ -37,12 +40,22 @@ export function ArticlePageBody({
     <div>
       <JsonLd data={articleJsonLd(article, section, lang)} />
       <JsonLd data={breadcrumbJsonLd(article, section, lang)} />
-      <Link
-        href={listPath}
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
-      >
-        ← {section === "article" ? "All articles" : label}
-      </Link>
+      <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
+        <Link
+          href={listPath}
+          className="inline-block text-sm text-muted-foreground hover:text-primary print:hidden"
+        >
+          ← {section === "article" ? "All articles" : label}
+        </Link>
+        {section === "quotes" && (
+          <ShareQuote
+            url={`${SITE_URL}${articlePath(section, article.id, lang)}`}
+            cardUrl={`${SITE_URL}/quotes/${article.id}/opengraph-image`}
+            quote={article.languages[lang]!.B1.title}
+            author={article.quote?.author ?? ""}
+          />
+        )}
+      </div>
       <ArticleReader article={article} fixedLanguage={fixedLanguage} />
     </div>
   );

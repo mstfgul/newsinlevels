@@ -76,6 +76,35 @@ export function articleMetadata(
   const description = truncate(version.text, 160);
   const url = `${SITE_URL}${articlePath(section, article.id, lang)}`;
 
+  // Quote pages generate their own branded share card via the colocated
+  // opengraph-image/twitter-image routes. We must OMIT the images key entirely
+  // (not set it to undefined) so Next merges that colocated card in — an
+  // explicit `images: undefined` suppresses the file-convention image and the
+  // page ends up with no card at all. Every other section previews with its
+  // own real photo.
+  const usesGeneratedCard = section === "quotes";
+  const photo =
+    !usesGeneratedCard && article.image ? [{ url: article.image }] : undefined;
+
+  const openGraph: NonNullable<Metadata["openGraph"]> = {
+    title: version.title,
+    description,
+    url,
+    siteName: SITE_NAME,
+    type: "article",
+    locale: OG_LOCALES[lang],
+    publishedTime: `${article.date}T00:00:00.000Z`,
+  };
+  const twitter: NonNullable<Metadata["twitter"]> = {
+    card: usesGeneratedCard || article.image ? "summary_large_image" : "summary",
+    title: version.title,
+    description,
+  };
+  if (photo) {
+    openGraph.images = photo;
+    twitter.images = photo.map((image) => image.url);
+  }
+
   return {
     title: version.title,
     description,
@@ -83,22 +112,8 @@ export function articleMetadata(
       canonical: url,
       languages: languageAlternates(article, section),
     },
-    openGraph: {
-      title: version.title,
-      description,
-      url,
-      siteName: SITE_NAME,
-      type: "article",
-      locale: OG_LOCALES[lang],
-      publishedTime: `${article.date}T00:00:00.000Z`,
-      images: article.image ? [{ url: article.image }] : undefined,
-    },
-    twitter: {
-      card: article.image ? "summary_large_image" : "summary",
-      title: version.title,
-      description,
-      images: article.image ? [article.image] : undefined,
-    },
+    openGraph,
+    twitter,
   };
 }
 
@@ -230,6 +245,41 @@ export function breadcrumbJsonLd(
         item: `${SITE_URL}${articlePath(section, article.id, lang)}`,
       },
     ],
+  };
+}
+
+/**
+ * CollectionPage + ItemList for a section's list page (/news, /art, …). Gives
+ * search engines an explicit, ordered list of the section's entries — newest
+ * first, English URLs — so the listing is understood as a real collection
+ * rather than an untyped page. Capped at the freshest entries a crawler cares
+ * about; the sitemap still carries the full history.
+ */
+export function collectionJsonLd(
+  section: Section,
+  entries: { id: string; titles: Partial<Record<Language, string>> }[],
+): object {
+  const { label, listPath } = SECTIONS[section];
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `${label} — ${SITE_NAME}`,
+    url: `${SITE_URL}${listPath}`,
+    inLanguage: ["en", "de", "fr", "es"],
+    isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL },
+    isAccessibleForFree: true,
+    publisher: PUBLISHER,
+    mainEntity: {
+      "@type": "ItemList",
+      itemListOrder: "https://schema.org/ItemListOrderDescending",
+      numberOfItems: entries.length,
+      itemListElement: entries.slice(0, 20).map((entry, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: `${SITE_URL}${articlePath(section, entry.id, "en")}`,
+        name: entry.titles.en,
+      })),
+    },
   };
 }
 

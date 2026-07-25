@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import { getArticle, getIndex } from "@/lib/data";
 import { HomeView } from "@/components/HomeView";
 import { Highlight, PageIntro } from "@/components/PageIntro";
-import { pageMetadata } from "@/lib/seo";
+import { JsonLd } from "@/components/JsonLd";
+import { collectionJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "News in easy language — daily stories at your level (A1–C2)",
@@ -38,6 +39,7 @@ export default function NewsPage() {
 
   return (
     <div>
+      <JsonLd data={collectionJsonLd("article", entries)} />
       <PageIntro title="News">
         today&apos;s real stories, rewritten{" "}
         <Highlight>at your level</Highlight> — pick a headline and read

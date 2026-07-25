@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import { getBookIndex } from "@/lib/data";
 import { BookList } from "@/components/BookList";
 import { Highlight, PageIntro } from "@/components/PageIntro";
-import { pageMetadata } from "@/lib/seo";
+import { JsonLd } from "@/components/JsonLd";
+import { collectionJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "Book Club — great books introduced at your level (A1–C2)",
@@ -16,6 +17,9 @@ export default function BooksPage() {
 
   return (
     <div>
+      {entries.length > 0 && (
+        <JsonLd data={collectionJsonLd("books", entries)} />
+      )}
       <PageIntro title="Book Club">
         one great book a day, literature &amp; philosophy introduced{" "}
         <Highlight>at your level</Highlight> — the ideas and the voice, never

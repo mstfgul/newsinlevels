@@ -3,7 +3,8 @@ import { getQuote, getQuoteIndex } from "@/lib/data";
 import { QuotesList } from "@/components/QuotesList";
 import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
-import { pageMetadata } from "@/lib/seo";
+import { JsonLd } from "@/components/JsonLd";
+import { collectionJsonLd, pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "Quotes — famous lines translated & explained at your level (A1–C2)",
@@ -17,6 +18,9 @@ export default function QuotesPage() {
 
   return (
     <div>
+      {entries.length > 0 && (
+        <JsonLd data={collectionJsonLd("quotes", entries)} />
+      )}
       <PageIntro title="Quotes">
         a line worth keeping, from a great author or poet — translated and
         explained <Highlight>at your level</Highlight>
