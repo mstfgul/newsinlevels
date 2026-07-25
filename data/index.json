@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-25-zelensky-tries-to-fix-crisis-over-removal-of-defence-ministe",
+    "date": "2026-07-25",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Ukraine's Political Crisis Over Defence Minister",
+      "de": "Zelensky und die Verteidigungsminister-Krise in der Ukraine",
+      "fr": "La crise politique en Ukraine sous Zelensky",
+      "es": "Zelensky enfrenta crisis política tras despido de ministro"
+    }
+  },
+  {
+    "id": "2026-07-25-ten-killed-in-russian-attack-on-drone-exhibition-near-kyiv",
+    "date": "2026-07-25",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
+    "category": "world",
+    "titles": {
+      "en": "Recent Russian Attacks on Ukraine",
+      "de": "Tödlicher Angriff in der Ukraine",
+      "fr": "Un attentat russe tue dix personnes près de Kyiv",
+      "es": "Ataque ruso cerca de Kyiv deja diez muertos"
+    }
+  },
+  {
+    "id": "2026-07-25-more-than-220-000-evacuated-in-france-and-spain-due-to-wildf",
+    "date": "2026-07-25",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
+    "category": "climate",
+    "titles": {
+      "en": "Wildfires Cause Evacuations in France and Spain",
+      "de": "Große Waldbrände in Frankreich und Spanien",
+      "fr": "Une grande évacuation en France et en Espagne à cause des feux",
+      "es": "Más de 220,000 evacuados en Francia y España por incendios"
+    }
+  },
+  {
     "id": "2026-07-24-indonesian-babies-were-trafficked-to-singapore-what-happens-",
     "date": "2026-07-24",
     "source": "BBC News",
