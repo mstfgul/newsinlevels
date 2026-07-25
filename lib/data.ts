@@ -100,3 +100,15 @@ export function getBook(id: string): Article {
   const file = path.join(DATA_DIR, "books", `${id}.json`);
   return JSON.parse(fs.readFileSync(file, "utf8"));
 }
+
+/**
+ * Local, pre-shrunk WebP thumbnails for the homepage backdrop collage, built
+ * by pipeline/build-collage.mjs (art, films, books and quotes — never news or
+ * history). Returns [] before the script has run; the homepage then falls
+ * back to the remote source images.
+ */
+export function getCollageImages(): string[] {
+  const file = path.join(DATA_DIR, "collage.json");
+  if (!fs.existsSync(file)) return [];
+  return JSON.parse(fs.readFileSync(file, "utf8"));
+}
