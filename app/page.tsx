@@ -43,7 +43,7 @@ export default function Home() {
   }
 
   return (
-    <div className="lg:relative lg:left-1/2 lg:w-[min(calc(100vw-3rem),58rem)] lg:-translate-x-1/2">
+    <>
       <JsonLd data={webSiteJsonLd()} />
       {/* Every page needs one real h1 for SEO/a11y; the hand-note below is
           decorative, so the crawlable title lives here instead, visually hidden. */}
@@ -52,7 +52,7 @@ export default function Home() {
       </h1>
       {/* What this place is, jotted at the top of the page in pencil. */}
       <p
-        className="hand-note mx-auto mb-8 max-w-xl rotate-[-0.6deg] text-center"
+        className="hand-note mx-auto mb-7 max-w-xl rotate-[-0.6deg] text-center"
         style={{ fontSize: "clamp(1.2rem, 0.5rem + 1.1vw, 1.45rem)" }}
       >
         real news, art, film &amp; history — every day, rewritten{" "}
@@ -67,6 +67,6 @@ export default function Home() {
         history={history}
         dateline={news[0] ? formatDateline(news[0].date) : undefined}
       />
-    </div>
+    </>
   );
 }

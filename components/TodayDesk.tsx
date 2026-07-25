@@ -11,6 +11,10 @@ import type {
 } from "@/lib/types";
 import { usePreferences } from "./Preferences";
 
+// Gentle, alternating tilts so the notes look stuck on by hand — small enough
+// to stay tidy in the grid rather than scattered.
+const TILTS = [-2, 1.5, -1.5, 2, -1, 1];
+
 /** One line of today's contents: which section, where it goes, and the day's
  * freshest entry in it. `sub` is the small credit under a title (source,
  * artist, author, year). */
@@ -103,100 +107,56 @@ export function TodayDesk({
     },
   ].filter(Boolean) as Row[];
 
-  // Left: a small wall of today's posters — the film, the book and the day's
-  // painting, pinned overlapping. Right: the full contents index, every
-  // section listed (posters and all). The two read as "the covers" and "the
-  // table of contents" of the same daily edition.
-  const byKey = new Map(rows.map((r) => [r.key, r]));
-  const posters = ["film", "book", "art"]
-    .map((k) => byKey.get(k))
-    .filter((p): p is Row => Boolean(p && p.image));
-
   if (rows.length === 0) return null;
 
   return (
-    <div className="grid items-start gap-10 lg:grid-cols-[minmax(0,44%)_1fr] lg:gap-12">
-      {/* Left: today's posters, pinned overlapping like a corkboard. The whole
-          cluster settles in on load and then keeps a slow idle sway. */}
-      {posters.length > 0 && (
-        <div className="lead-card lead-photo flex items-start justify-center lg:justify-start">
-          {posters.map((poster, i) => (
-            <Link
-              key={poster.key}
-              href={poster.href}
-              aria-label={`${poster.label}: ${poster.title}`}
-              className="clipping-mini group relative block w-[38%] shrink-0 transition-shadow hover:shadow-xl"
-              style={
-                {
-                  transform: `rotate(${[-5, 3, -2][i] ?? 0}deg)`,
-                  marginLeft: i > 0 ? "-8%" : undefined,
-                  zIndex: posters.length - i,
-                } as React.CSSProperties
-              }
-            >
-              <div className="clipping-fill aspect-[2/3] overflow-hidden">
-                <img
-                  src={poster.image}
-                  alt={poster.sub ?? poster.label}
-                  loading="eager"
-                  className="h-full w-full object-cover"
-                />
-              </div>
-            </Link>
-          ))}
-        </div>
-      )}
-
-      {/* Right: the ruled contents index, red margin like the reader. */}
-      <section aria-label="Today's contents">
-        <div className="mb-3 flex items-baseline justify-between gap-3 border-b-2 border-margin-red/70 pb-2">
-          <span
-            className="hand-note rotate-[-1deg] text-foreground"
-            style={{ fontSize: "1.5rem" }}
-          >
-            today&rsquo;s edition
+    <section aria-label="Today's contents">
+      <div className="mb-3 flex items-baseline justify-between gap-3 border-b-2 border-margin-red/70 pb-2">
+        <span
+          className="hand-note rotate-[-1deg] text-foreground"
+          style={{ fontSize: "1.5rem" }}
+        >
+          today&rsquo;s edition
+        </span>
+        {dateline && (
+          <span className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
+            {dateline}
           </span>
-          {dateline && (
-            <span className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
-              {dateline}
-            </span>
-          )}
-        </div>
+        )}
+      </div>
 
-        <ol className="border-l-2 border-margin-red pl-4 sm:pl-5">
-          {rows.map((row) => (
-            <li
-              key={row.key}
-              className="index-row border-b border-rule-blue last:border-b-0"
+      <ol className="grid grid-cols-2 gap-x-5 gap-y-7 sm:grid-cols-3">
+        {rows.map((row, i) => (
+          <li key={row.key} className="index-row">
+            <Link
+              href={row.href}
+              lang={language}
+              style={{ rotate: `${TILTS[i % TILTS.length]}deg` }}
+              className="clipping group block transition-transform duration-200 hover:-translate-y-1"
             >
-              <Link
-                href={row.href}
-                lang={language}
-                className="group flex items-center gap-4 py-3"
-              >
-                <span className="min-w-0 flex-1">
-                  <span className="block font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
-                    {row.label}
-                    {row.sub && <span className="normal-case"> · {row.sub}</span>}
-                  </span>
-                  <span
-                    className="mt-0.5 block truncate text-lg font-semibold leading-snug group-hover:underline group-hover:underline-offset-4"
-                    style={{ fontFamily: "var(--font-literata)" }}
-                  >
-                    {row.title}
-                  </span>
+              {row.image && (
+                <span className="clipping-fill block aspect-[4/3] overflow-hidden">
+                  <img
+                    src={row.image}
+                    alt=""
+                    loading="lazy"
+                    className="h-full w-full object-cover"
+                  />
                 </span>
-                <span
-                  aria-hidden
-                  className="shrink-0 text-margin-red transition-transform group-hover:translate-x-1"
-                >
-                  &rarr;
+              )}
+              <span className="block px-1 pt-1.5">
+                <span className="block truncate font-mono text-[9px] uppercase tracking-widest text-margin-red">
+                  {row.label}
+                  {row.sub && ` · ${row.sub}`}
                 </span>
-              </Link>
-            </li>
-          ))}
-        </ol>
-      </section>
-    </div>
+                <span className="hand-note mt-0.5 block leading-tight line-clamp-2">
+                  {row.title}
+                </span>
+              </span>
+            </Link>
+          </li>
+        ))}
+      </ol>
+    </section>
   );
 }

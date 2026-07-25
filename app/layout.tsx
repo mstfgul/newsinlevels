@@ -12,6 +12,8 @@ import { LanguageSwitch } from "@/components/LanguageSwitch";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { NavTabs } from "@/components/NavTabs";
 import { PomodoroClock } from "@/components/PomodoroClock";
+import { PaperCollage } from "@/components/PaperCollage";
+import { getCollageImages } from "@/lib/data";
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from "@/lib/seo";
 import "./globals.css";
 
@@ -93,6 +95,8 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const collageImages = getCollageImages();
+
   return (
     <html
       lang="en"
@@ -101,6 +105,10 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <script dangerouslySetInnerHTML={{ __html: THEME_INIT }} />
+        {/* Faint collage of the day's art, posters, covers and portraits behind
+            every page — the content column below sits on a paper sheet so it
+            stays readable while the collage shows through the margins. */}
+        <PaperCollage images={collageImages} />
         <RegisterSW />
         <PreferencesProvider>
           <header className="border-b border-border print:hidden">
@@ -131,7 +139,7 @@ export default function RootLayout({
               </div>
             </div>
           </header>
-          <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-10">
+          <main className="relative mx-auto w-full max-w-3xl flex-1 bg-background/85 px-4 py-10 shadow-sm sm:border-x sm:border-border sm:px-8 print:bg-transparent print:shadow-none print:sm:border-none">
             {children}
           </main>
           <PomodoroClock />
