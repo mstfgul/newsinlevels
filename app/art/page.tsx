@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { getArtIndex } from "@/lib/data";
+import { getArtIndex, getArtwork } from "@/lib/data";
 import { GalleryList } from "@/components/GalleryList";
+import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
 import { JsonLd } from "@/components/JsonLd";
 import { collectionJsonLd, pageMetadata } from "@/lib/seo";
@@ -31,7 +32,20 @@ export default function GalleryPage() {
           postcard soon.
         </p>
       ) : (
-        <GalleryList entries={entries} />
+        <>
+          <HomeHero
+            article={getArtwork(entries[0].id)}
+            href={`/art/${entries[0].id}/`}
+          />
+          {entries.length > 1 && (
+            <section className="mt-10">
+              <h2 className="mb-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+                More paintings
+              </h2>
+              <GalleryList entries={entries.slice(1)} />
+            </section>
+          )}
+        </>
       )}
     </div>
   );

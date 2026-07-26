@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { getFilmIndex } from "@/lib/data";
+import { getFilm, getFilmIndex } from "@/lib/data";
 import { FilmList } from "@/components/FilmList";
+import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
 import { JsonLd } from "@/components/JsonLd";
 import { collectionJsonLd, pageMetadata } from "@/lib/seo";
@@ -32,7 +33,20 @@ export default function FilmsPage() {
           soon.
         </p>
       ) : (
-        <FilmList entries={entries} />
+        <>
+          <HomeHero
+            article={getFilm(entries[0].id)}
+            href={`/films/${entries[0].id}/`}
+          />
+          {entries.length > 1 && (
+            <section className="mt-10">
+              <h2 className="mb-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+                More films
+              </h2>
+              <FilmList entries={entries.slice(1)} />
+            </section>
+          )}
+        </>
       )}
     </div>
   );

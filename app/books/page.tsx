@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { getBookIndex } from "@/lib/data";
+import { getBook, getBookIndex } from "@/lib/data";
 import { BookList } from "@/components/BookList";
+import { HomeHero } from "@/components/HomeHero";
 import { Highlight, PageIntro } from "@/components/PageIntro";
 import { JsonLd } from "@/components/JsonLd";
 import { collectionJsonLd, pageMetadata } from "@/lib/seo";
@@ -32,7 +33,20 @@ export default function BooksPage() {
           soon.
         </p>
       ) : (
-        <BookList entries={entries} />
+        <>
+          <HomeHero
+            article={getBook(entries[0].id)}
+            href={`/books/${entries[0].id}/`}
+          />
+          {entries.length > 1 && (
+            <section className="mt-10">
+              <h2 className="mb-2 font-mono text-xs uppercase tracking-widest text-muted-foreground">
+                More books
+              </h2>
+              <BookList entries={entries.slice(1)} />
+            </section>
+          )}
+        </>
       )}
     </div>
   );

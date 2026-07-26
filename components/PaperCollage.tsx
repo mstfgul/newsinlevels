@@ -18,7 +18,7 @@ export function PaperCollage({ images }: { images: string[] }) {
       aria-hidden
       className="pointer-events-none fixed inset-0 -z-10 select-none overflow-hidden"
     >
-      <div className="grid h-full grid-cols-[repeat(auto-fill,minmax(76px,1fr))] gap-1 opacity-[0.26] dark:opacity-[0.17]">
+      <div className="grid h-full grid-cols-[repeat(auto-fill,minmax(76px,1fr))] gap-1 opacity-[0.4] dark:opacity-[0.17]">
         {tiles.map((src, i) => (
           <img
             key={i}
