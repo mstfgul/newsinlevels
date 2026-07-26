@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-26-india-s-cockroach-protest-called-off-after-education-ministe",
+    "date": "2026-07-26",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "India's Cockroach Janta Party Celebrates Minister's Resignation",
+      "de": "Indiens Protest wird nach Rücktritt des Ministers beendet",
+      "fr": "Protestations en Inde après la démission du ministre de l'éducation",
+      "es": "Fin de protesta en India tras renuncia del ministro"
+    }
+  },
+  {
+    "id": "2026-07-26-trump-takes-swipes-at-press-during-white-house-correspondent",
+    "date": "2026-07-26",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump's Remarks at the White House Correspondents' Dinner",
+      "de": "Trump kritisiert Presse beim Korrespondenten-Dinner",
+      "fr": "Trump remet des prix au dîner des correspondants",
+      "es": "Trump critica a los medios en la cena"
+    }
+  },
+  {
+    "id": "2026-07-26-france-battles-fire-whirlwinds-as-another-55-000-evacuated",
+    "date": "2026-07-26",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d055/live/c69c5bb0-88b5-11f1-b7ca-b5f2b9ce39f1.png",
+    "category": "climate",
+    "titles": {
+      "en": "Wildfires Devastate France and Spain",
+      "de": "Wilde Feuer in Frankreich und Spanien",
+      "fr": "Incendies de forêt en France et en Espagne",
+      "es": "Incendios afectan a Francia y España"
+    }
+  },
+  {
     "id": "2026-07-25-zelensky-tries-to-fix-crisis-over-removal-of-defence-ministe",
     "date": "2026-07-25",
     "source": "BBC News",
