@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-26-the-celebration-thomas-vinterberg",
+    "date": "2026-07-26",
+    "director": "Thomas Vinterberg",
+    "image": "https://image.tmdb.org/t/p/w780/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+    "titles": {
+      "en": "The Celebration: A Layered Family Drama",
+      "de": "Die Bedeutung von 'Das Fest'",
+      "fr": "La Fête (Festen) et ses thématiques",
+      "es": "La celebración de Thomas Vinterberg"
+    }
+  },
+  {
     "id": "2026-07-25-the-flower-of-evil-claude-chabrol",
     "date": "2026-07-25",
     "director": "Claude Chabrol",
