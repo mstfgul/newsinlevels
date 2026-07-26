@@ -20,6 +20,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { attachGlossaries } from "./glossary.mjs";
 import { fetchJson, wikipediaIntroExtract, wikipediaAnalysisSection } from "./wikipedia.mjs";
 
 const TMDB_API = "https://api.themoviedb.org/3";
@@ -250,6 +251,7 @@ async function main() {
     );
   }
 
+  await attachGlossaries(openai, film);
   writeJson(path.join(FILMS_DIR, `${id}.json`), film);
   index.unshift({
     id,

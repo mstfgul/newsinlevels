@@ -20,6 +20,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { attachGlossaries } from "./glossary.mjs";
 import { fetchJson, wikipediaIntroExtract } from "./wikipedia.mjs";
 
 const MAX_ATTEMPTS = 5;
@@ -240,6 +241,7 @@ async function main() {
     );
   }
 
+  await attachGlossaries(openai, book);
   writeJson(path.join(BOOKS_DIR, `${id}.json`), book);
   index.unshift({
     id,

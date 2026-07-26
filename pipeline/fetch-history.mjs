@@ -17,6 +17,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { attachGlossaries } from "./glossary.mjs";
 import { wikipediaIntroExtract } from "./wikipedia.mjs";
 
 const ROOT = path.join(import.meta.dirname, "..");
@@ -126,6 +127,7 @@ async function main() {
     );
   }
 
+  await attachGlossaries(openai, capsule);
   writeJson(path.join(HISTORY_DIR, `${id}.json`), capsule);
   index.unshift({
     id,

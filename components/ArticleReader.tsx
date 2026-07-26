@@ -205,6 +205,7 @@ export function ArticleReader({
                   text={version.text}
                   vocabulary={version.vocabulary}
                   lang={lang}
+                  glossary={article.glossary?.[lang]}
                 />
               </div>
             </div>
@@ -259,6 +260,7 @@ export function ArticleReader({
                       text={compareVersion.text}
                       vocabulary={compareVersion.vocabulary}
                       lang={compareLang}
+                      glossary={article.glossary?.[compareLang]}
                     />
                   </div>
                 </div>

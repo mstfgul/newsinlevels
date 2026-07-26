@@ -20,6 +20,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { attachGlossaries } from "./glossary.mjs";
 import { wikipediaIntroExtract } from "./wikipedia.mjs";
 
 /** Classic authors and poets with real Wikiquote pages and free portraits. */
@@ -209,6 +210,7 @@ async function main() {
     entry.languages[langCode] = versions;
   }
 
+  await attachGlossaries(openai, entry);
   writeJson(path.join(QUOTES_DIR, `${id}.json`), entry);
   index.unshift({
     id,

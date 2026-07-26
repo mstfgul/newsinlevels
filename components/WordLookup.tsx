@@ -35,72 +35,69 @@ export function useEdgeShift(
   return shift;
 }
 
-/** Post-it under a tapped word: first meaning + a magnifier to expand. */
+/** A small cloud above the tapped word showing its meaning: the pre-built
+ * translation when we have one (instant, offline), otherwise the first sense
+ * from the live dictionary. The ⤢ opens the full entry. */
 export function WordPopover({
   word,
+  gloss,
   state,
   onExpand,
 }: {
   word: string;
+  /** The pre-built translation for this word, if the article carries one. */
+  gloss: string | null;
   state: LookupState;
   onExpand: () => void;
 }) {
   const result = typeof state === "object" && state !== null ? state : null;
-  const first = result?.entries[0];
   const ref = useRef<HTMLSpanElement>(null);
-  const shift = useEdgeShift(ref, [state]);
+  const shift = useEdgeShift(ref, [state, gloss]);
+
+  // Prefer the pre-built translation (already short). When we fall back to the
+  // dictionary, keep only a short snippet — the first clause of the first
+  // sense — so the cloud reads like a quick translation, not a definition.
+  const meaning = gloss ?? shorten(result?.entries[0]?.senses[0]?.definition);
 
   return (
     <span
       ref={ref}
       role="tooltip"
-      className="postit absolute left-1/2 top-full z-10 mt-2 w-64 -translate-x-1/2 rotate-[-1.5deg] p-3 pb-4 font-sans text-sm leading-snug"
+      className="speech absolute bottom-full left-1/2 z-20 mb-2.5 flex max-w-[14rem] -translate-x-1/2 items-center gap-2 rounded-xl bg-foreground px-3 py-1.5 text-background shadow-lg"
       style={{ fontFamily: "var(--font-bricolage)", marginLeft: shift }}
     >
-      <span className="mb-1 flex items-baseline justify-between gap-2">
-        <span className="font-bold">{result?.term ?? word}</span>
-        {first && (
-          <span className="font-mono text-[10px] uppercase tracking-wide opacity-60">
-            {first.partOfSpeech}
-          </span>
-        )}
-      </span>
-      {state === "loading" && (
-        <span className="block opacity-60">looking it up…</span>
+      {meaning ? (
+        <span className="min-w-0 text-sm font-medium leading-snug line-clamp-2">
+          {meaning}
+        </span>
+      ) : (
+        <span className="min-w-0 text-sm leading-snug opacity-70">
+          {state === "loading"
+            ? "…"
+            : state === "error"
+              ? "unreachable"
+              : "no translation"}
+        </span>
       )}
-      {state === "error" && (
-        <span className="block opacity-60">dictionary unreachable — try again</span>
-      )}
-      {state === null && <span className="block opacity-60">no entry found</span>}
-      {first && (
-        <>
-          {/* Two senses, not just the first — without knowing the sentence's
-              context we can't pick the right one, so give the reader a
-              second candidate before they need to tap through to expand. */}
-          {first.senses.slice(0, 2).map((sense, i) => (
-            <span key={i} className={i === 0 ? "block opacity-80" : "mt-1 block opacity-80"}>
-              {first.senses.length > 1 && <span className="opacity-60">{i + 1}. </span>}
-              {sense.definition}
-            </span>
-          ))}
-          {result?.lemma && (
-            <span className="mt-1 block opacity-80">
-              <span className="font-bold">{result.lemma.term}</span>{" "}
-              {result.lemma.entries[0].senses[0].definition}
-            </span>
-          )}
-          <button
-            type="button"
-            onClick={onExpand}
-            aria-label={`All meanings of ${result!.term}`}
-            className="absolute bottom-0.5 right-1 cursor-pointer p-1.5 text-lg leading-none opacity-60 transition-opacity hover:opacity-100"
-          >
-            ⤢
-          </button>
-        </>
-      )}
+      <button
+        type="button"
+        onClick={onExpand}
+        aria-label={`Full entry for ${result?.term ?? word}`}
+        className="shrink-0 cursor-pointer text-sm leading-none opacity-55 transition-opacity hover:opacity-100"
+      >
+        ⤢
+      </button>
     </span>
   );
+}
+
+/** Trim a dictionary definition down to a short, translation-like snippet:
+ * the first clause only, capped in length. */
+function shorten(definition: string | undefined): string | null {
+  if (!definition) return null;
+  let text = definition.split(/[;(:]|,\s/)[0].trim();
+  if (text.length > 46) text = text.slice(0, 46).trimEnd() + "…";
+  return text || null;
 }
 
 function EntrySections({

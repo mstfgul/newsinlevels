@@ -66,6 +66,12 @@ export interface Article {
   // Older articles may lack recently added languages — resolve with a fallback.
   languages: Partial<Record<Language, LanguageVersions>> &
     Record<"en", LanguageVersions>;
+  // Word → English translation for the tap-to-translate bubble, one map per
+  // language, deduped across levels. Built at build time (pipeline/glossary.mjs)
+  // and absent on older content; the reader falls back to a live Wiktionary
+  // lookup for any word not covered here. English text has no glossary — there
+  // is nothing to translate into English — so those words use the fallback too.
+  glossary?: Partial<Record<Language, Record<string, string>>>;
 }
 
 export interface IndexEntry {

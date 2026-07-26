@@ -335,6 +335,17 @@ mark.vocab:hover {
   background: linear-gradient(315deg, var(--postit-fold) 45%, transparent 46%);
 }
 
+/* The little downward tail on the tap-to-translate cloud, pointing at its word. */
+.speech::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -6px;
+  border: 6px solid transparent;
+  border-top-color: var(--foreground);
+}
+
 /* A news photo pasted into the notebook: white print border, a slight tilt
  * (set per use), and two strips of tape across the top corners. */
 .clipping {

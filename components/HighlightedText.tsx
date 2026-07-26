@@ -87,13 +87,20 @@ export function HighlightedText({
   text,
   vocabulary,
   lang,
+  glossary,
 }: {
   text: string;
   vocabulary: VocabularyItem[];
   lang: Language;
+  /** Pre-built word → translation map for this text's language, if any. */
+  glossary?: Record<string, string>;
 }) {
   const [active, setActive] = useState<string | null>(null);
-  const [lookup, setLookup] = useState<{ key: string; word: string } | null>(null);
+  const [lookup, setLookup] = useState<{
+    key: string;
+    word: string;
+    gloss: string | null;
+  } | null>(null);
   const [lookupState, setLookupState] = useState<LookupState>("loading");
   const [detail, setDetail] = useState<DictResult | null>(null);
   const lookupKeyRef = useRef<string | null>(null);
@@ -129,7 +136,16 @@ export function HighlightedText({
       return;
     }
     lookupKeyRef.current = key;
-    setLookup({ key, word });
+
+    // The pre-built translation shows instantly, offline — no dictionary call.
+    // The full entry is fetched only if the reader taps ⤢ (see onExpand below).
+    const gloss = glossary?.[cleanWord(word).toLocaleLowerCase()] ?? null;
+    setLookup({ key, word, gloss });
+
+    if (gloss) {
+      setLookupState(null);
+      return;
+    }
     setLookupState("loading");
     lookupWord(word, lang).then(
       (result) => {
@@ -139,6 +155,26 @@ export function HighlightedText({
         if (lookupKeyRef.current === key) setLookupState("error");
       },
     );
+  };
+
+  // Opening the full entry: use the already-fetched result if we have one,
+  // otherwise (a glossary hit that never hit the network) fetch it now.
+  const expandLookup = () => {
+    if (typeof lookupState === "object" && lookupState !== null) {
+      setDetail(lookupState);
+      setLookup(null);
+      lookupKeyRef.current = null;
+      return;
+    }
+    const current = lookup;
+    if (!current) return;
+    lookupWord(current.word, lang).then((result) => {
+      if (result) {
+        setDetail(result);
+        setLookup(null);
+        lookupKeyRef.current = null;
+      }
+    });
   };
 
   const renderPlain = (plain: string, keyPrefix: string): ReactNode => {
@@ -161,14 +197,9 @@ export function HighlightedText({
           {isOpen && (
             <WordPopover
               word={cleanWord(token)}
+              gloss={lookup?.gloss ?? null}
               state={lookupState}
-              onExpand={() => {
-                if (typeof lookupState === "object" && lookupState !== null) {
-                  setDetail(lookupState);
-                  setLookup(null);
-                  lookupKeyRef.current = null;
-                }
-              }}
+              onExpand={expandLookup}
             />
           )}
         </span>

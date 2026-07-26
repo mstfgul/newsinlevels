@@ -21,6 +21,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { attachGlossaries } from "./glossary.mjs";
 
 const ARTICLES_PER_RUN = Number(process.env.ARTICLES_PER_RUN ?? 3);
 const FEED_URL = process.env.FEED_URL ?? "https://feeds.bbci.co.uk/news/world/rss.xml";
@@ -111,6 +112,9 @@ async function main() {
         langCode,
       );
     }
+
+    // Tap-to-translate glossaries for the non-English editions.
+    await attachGlossaries(openai, article);
 
     writeJson(path.join(ARTICLES_DIR, `${id}.json`), article);
     index.unshift({

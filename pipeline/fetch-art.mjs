@@ -18,6 +18,7 @@ import {
   readJson,
   writeJson,
 } from "./leveler.mjs";
+import { attachGlossaries } from "./glossary.mjs";
 import { wikipediaIntroExtract } from "./wikipedia.mjs";
 
 const MET_API = "https://collectionapi.metmuseum.org/public/collection/v1";
@@ -127,6 +128,7 @@ async function main() {
     );
   }
 
+  await attachGlossaries(openai, artwork);
   writeJson(path.join(ART_DIR, `${id}.json`), artwork);
   index.unshift({
     id,
