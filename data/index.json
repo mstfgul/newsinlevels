@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-27-this-is-just-the-start-india-s-gen-z-protesters-force-out-a-",
+    "date": "2026-07-27",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/176a/live/52099b90-8901-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "India’s Youth Movement Results in Minister's Resignation",
+      "de": "Indiens Generation Z protestiert gegen das Bildungssystem",
+      "fr": "Les jeunes en Inde protestent pour leurs droits",
+      "es": "Protestas de la Generación Z en India"
+    }
+  },
+  {
+    "id": "2026-07-27-berlin-pride-attack-suspect-shot-and-killed-during-police-op",
+    "date": "2026-07-27",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e91/live/ed7624e0-8983-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Suspect in Berlin Pride Attack Shot and Killed by Police",
+      "de": "Verdächtiger bei Berlin Pride attackiert und erschossen",
+      "fr": "L'attaque de Berlin Pride et le meurtre du suspect",
+      "es": "Sospechoso de ataque en Berlín es abatido"
+    }
+  },
+  {
+    "id": "2026-07-27-netanyahu-accuses-nyc-mayor-mamdani-of-fomenting-hate-after-",
+    "date": "2026-07-27",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Netanyahu and Mayor Mamdani: Tensions in New York City",
+      "de": "Netanjahu plant einen Besuch trotz Drohung",
+      "fr": "Netanyahu accuse le maire de New York",
+      "es": "Tensión entre Netanyahu y el Alcalde de Nueva York"
+    }
+  },
+  {
     "id": "2026-07-26-india-s-cockroach-protest-called-off-after-education-ministe",
     "date": "2026-07-26",
     "source": "BBC News",

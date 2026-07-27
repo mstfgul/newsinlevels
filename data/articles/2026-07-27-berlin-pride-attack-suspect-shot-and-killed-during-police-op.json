@@ -1,0 +1,2576 @@
+{
+  "id": "2026-07-27-berlin-pride-attack-suspect-shot-and-killed-during-police-op",
+  "date": "2026-07-27",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Berlin Pride attack suspect shot and killed during police operation",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e91/live/ed7624e0-8983-11f1-b2ab-0dd01740f9f6.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Suspect Killed in Berlin Pride Attack",
+        "text": "A man attacks people in Berlin. This is at the Berlin Pride event. He has a knife. Police see him and shoot him. The man is 21 years old. He is from Germany. Many people get hurt in the attack. One woman dies. Police say it is a terror attack. After this, police close the area. They want to keep everyone safe. Many people gather at the Brandenburg Gate. They remember the victims. They want peace. They hope this does not happen again.",
+        "vocabulary": [
+          {
+            "word": "attack",
+            "definition": "to hit or use violence against someone"
+          },
+          {
+            "word": "police",
+            "definition": "people who keep us safe and follow laws"
+          },
+          {
+            "word": "knife",
+            "definition": "a sharp tool to cut things"
+          },
+          {
+            "word": "victims",
+            "definition": "people who are hurt by an event"
+          },
+          {
+            "word": "peace",
+            "definition": "no war or violence"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where does the attack happen?",
+            "options": [
+              "Berlin Pride",
+              "New York City",
+              "London"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do police do to the man?",
+            "options": [
+              "They hug him",
+              "They shoot him",
+              "They run away"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What do people do at the Brandenburg Gate?",
+            "options": [
+              "They play games",
+              "They remember the victims",
+              "They leave the city"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Berlin Pride Attack: Suspect Shot by Police",
+        "text": "A man attacked people at Berlin Pride. The attack happened on Saturday evening near Tiergarten park. He drove a van into a crowd of people and hurt many. The police say the man had a knife. They shot the man to stop him. His name is Abdul Ballout, and he is 21 years old. He has a history of crimes and was known to radicalize. There was fear after this attack. Officials said it is a terror attack. Many people gathered at the Brandenburg Gate to remember the victims. They want safety for the LGBT community. Some events were cancelled after the incident. The government is going to review security measures for future events.",
+        "vocabulary": [
+          {
+            "word": "attack",
+            "definition": "to use violence against someone"
+          },
+          {
+            "word": "crowd",
+            "definition": "a large group of people"
+          },
+          {
+            "word": "history",
+            "definition": "the past events of someone or something"
+          },
+          {
+            "word": "government",
+            "definition": "the group that runs a city or country"
+          },
+          {
+            "word": "event",
+            "definition": "a planned public activity"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Abdul Ballout do?",
+            "options": [
+              "He helped an event",
+              "He attacked people",
+              "He danced"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did police do to stop him?",
+            "options": [
+              "They ran away",
+              "They shot him",
+              "They called for help"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why were some events cancelled?",
+            "options": [
+              "Because of the attack",
+              "Because of rain",
+              "Because of a party"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Suspect in Berlin Pride Attack Shot and Killed by Police",
+        "text": "The suspect in the Berlin Pride attack was shot and killed by police on Sunday afternoon. This tragic event occurred shortly after a white van was driven into a crowd of people in Tiergarten park, resulting in one death and causing injuries to at least 29 others. Abdul Ballout, a 21-year-old man with Lebanese heritage, who had a record of criminal offenses, approached officers with a knife. They had no choice but to shoot him to prevent further violence and potential loss of life. Officials believe this incident is likely linked to an Islamist terror attack. People who witnessed the events reported seeing hundreds of joyful participants enjoying the Pride celebration before the horror began. In response, many citizens gathered at the Brandenburg Gate to pay their respects to the victims. The German Interior Minister, Alexander Dobrindt, announced that the threat level would be raised, and there would be stricter security for future public events. He emphasized the need for safety and support for the LGBT community, especially after such a disturbing incident, underlining the importance of community solidarity. In the days following this attack, the city reflected on how such violence impacts not only celebrations but also the social fabric of the community.",
+        "vocabulary": [
+          {
+            "word": "heritage",
+            "definition": "the cultural background or traditions that a person comes from"
+          },
+          {
+            "word": "offenses",
+            "definition": "actions that are against the law"
+          },
+          {
+            "word": "potential",
+            "definition": "possible, but not yet actual"
+          },
+          {
+            "word": "linked",
+            "definition": "connected or related to something"
+          },
+          {
+            "word": "solidarity",
+            "definition": "unity and support among a group of people"
+          },
+          {
+            "word": "impact",
+            "definition": "the effect or influence of one thing on another"
+          },
+          {
+            "word": "celebration",
+            "definition": "a joyful event or activity that honors something special"
+          },
+          {
+            "word": "emphasized",
+            "definition": "stated something in a strong manner to show its importance"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What weapon did Abdul Ballout have when he approached the police?",
+            "options": [
+              "A gun",
+              "A knife",
+              "A bomb"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who announced that the threat level would be raised?",
+            "options": [
+              "The President",
+              "The German Interior Minister",
+              "The Mayor of Berlin"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What was the initial event that Abdul Ballout interrupted with his actions?",
+            "options": [
+              "A political event",
+              "Berlin Pride celebration",
+              "A sports event"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Suspect in Berlin Pride Attack Shot Dead by Police",
+        "text": "The man believed to have committed an \"Islamist terror attack\" during Berlin Pride has been shot and killed by police. Abdul Ballout, a 21-year-old German citizen of Lebanese descent, advanced towards officers with a knife in Spandau, a district of Berlin. This incident concluded a significant manhunt that began after a white van drove into a crowd near Tiergarten park late Saturday night, resulting in one fatality and injuries to at least 29 others. Police further reported that after the vehicle ramming, several individuals were also stabbed. German Interior Minister Alexander Dobrindt stated on Sunday that evidence suggested this was indeed an \"Islamist terror attack\". He mentioned that the suspect had a history of criminal offences and had shown signs of radicalization. According to the Berlin public prosecutor’s office, Ballout had previously tried to join the Islamic State in Syria and had been convicted of various crimes, including robbery and assault. Following the attack, Dobrindt announced that Germany's threat level would be increased. While the injured have improved and are no longer in critical condition, a planned clean-up event and a breakfast market in the park were cancelled. People gathered at Brandenburg Gate later for a vigil to remember the victims and to unite against extremism.",
+        "vocabulary": [
+          {
+            "word": "suspect",
+            "definition": "a person believed to have done something wrong"
+          },
+          {
+            "word": "attack",
+            "definition": "an act of violence against someone"
+          },
+          {
+            "word": "witness",
+            "definition": "someone who sees something happen"
+          },
+          {
+            "word": "criminal",
+            "definition": "a person who breaks the law"
+          },
+          {
+            "word": "radicalization",
+            "definition": "the process of developing extreme beliefs"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happened to Abdul Ballout?",
+            "options": [
+              "He was arrested by the police.",
+              "He was shot and killed by police.",
+              "He escaped to another country."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did the police say happened after the vehicle hit the crowd?",
+            "options": [
+              "Many people were stabbed.",
+              "The crowd dispersed immediately.",
+              "No one else was hurt."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What will happen to Germany's threat level after the attack?",
+            "options": [
+              "It will stay the same.",
+              "It will be raised.",
+              "It will be lowered."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Police Fatality Marks End of Manhunt for Berlin Pride Attack Suspect",
+        "text": "The suspect in what authorities are classifying as an \"Islamist terror attack\" during Berlin Pride has been killed by police operative action. Abdul Ballout, only 21 years old and a German national with Lebanese roots, approached officers brandishing a knife in Spandau, marking a drastic shift in the ongoing manhunt that was sparked after a white van rammed into a bustling crowd near Tiergarten park shortly before 10 PM local time on Saturday. This incident resulted in one death and injuries to at least 29 individuals. Authorities further revealed that after the vehicle incident, there were several stabbing events amongst the panicking crowd. German Interior Minister Alexander Dobrindt articulated on Sunday that available evidence indicated the nature of the attack. He noted that the suspect had previously attracted attention due to a multitude of criminal charges and a clear trajectory of radicalization linked to extremist groups. Notably, the Berlin public prosecution disclosed that Ballout had previously attempted to join the Islamic State group and faced jail time for incitement in Lebanon. Following this alarming event, Dobrindt announced an escalation in Germany's threat level while urging neighboring states to reassess their security protocols. Despite reports suggesting the well-being of the injured, scheduled community activities in Tiergarten park were abruptly cancelled. Nevertheless, a memorial gathering emerged at Brandenburg Gate, where calls against extremism resonated throughout, intertwining grief with demands for governmental support.",
+        "vocabulary": [
+          {
+            "word": "operative",
+            "definition": "related to the functioning or actions of a group"
+          },
+          {
+            "word": "bustling",
+            "definition": "busy and full of activity"
+          },
+          {
+            "word": "trajectory",
+            "definition": "the path followed by a moving object"
+          },
+          {
+            "word": "protocol",
+            "definition": "a system of rules for correct conduct"
+          },
+          {
+            "word": "intertwining",
+            "definition": "mixing or connecting closely"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What prompted the manhunt for Abdul Ballout?",
+            "options": [
+              "He attacked a crowd with a van.",
+              "He was reported missing.",
+              "He was suspected of supporting extremists."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Dobrindt say about Ballout's past?",
+            "options": [
+              "He had no criminal record.",
+              "He attracted attention for criminal acts.",
+              "He was known for helping the community."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where was a memorial gathering held after the attack?",
+            "options": [
+              "At Spandau.",
+              "At Brandenburg Gate.",
+              "At Tiergarten park."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Tragic Conclusion to Manhunt for Berlin Pride Attack Perpetrator",
+        "text": "In a stark escalation of violence, the individual implicated in what authorities have characterized as an \"Islamist terror attack\" during Berlin's Pride festivities was shot dead by police in a decisive operation. Abdul Ballout, a mere 21 years of age and a naturalized German of Lebanese heritage, confronted law enforcement with a knife in Spandau, an act that culminated an extensive manhunt which had commenced after a white van careened into a jubilant crowd near Tiergarten park, claiming one life and leaving no less than 29 individuals injured. Following the vehicular onslaught, reports emerged of a chaotic stabbing spree that further harmed several attendees. In remarks to the press, Interior Minister Alexander Dobrindt explicated that preliminary investigations indicated this was indeed an act of Islamist terror. He noted, with palpable concern, that Ballout had previously signaled his radicalization through numerous prior offenses. Delving deeper, the Berlin public prosecutor’s office revealed a troubling dossier showing that Ballout had sought to affiliate himself with the Islamic State during a trip to Lebanon. After being incarcerated for incitement to sectarian conflict in July, he returned to Germany only to find himself again in legal jeopardy, ultimately receiving a sentence this past May for planning grave attacks. Following the tragedy, Dobrindt announced an increase in the national threat level while advising vigilance among neighboring states, preemptively adjusting their security measures. The incident led to the abrupt cancellation of a planned community cleanup and breakfast event in Tiergarten. However, a spontaneous vigil unfolded at the Brandenburg Gate, where impassioned speakers denounced extremism and implored the government for enhanced support for marginalized communities.",
+        "vocabulary": [
+          {
+            "word": "implicated",
+            "definition": "involved in something, especially a crime"
+          },
+          {
+            "word": "decisive",
+            "definition": "having a strong effect on the result of something"
+          },
+          {
+            "word": "culminated",
+            "definition": "reached a climax or point of highest development"
+          },
+          {
+            "word": "preemptively",
+            "definition": "done to prevent something from happening"
+          },
+          {
+            "word": "impassioned",
+            "definition": "showing strong emotion"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What motivated the police operation that resulted in Ballout's death?",
+            "options": [
+              "He was threatening officers with a knife.",
+              "He was trying to escape.",
+              "He had already been arrested."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What was Alexander Dobrindt's concern about Ballout?",
+            "options": [
+              "He had never committed a crime.",
+              "He was known for his community support.",
+              "He had a history of radicalization."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What kind of event was cancelled in Tiergarten after the attack?",
+            "options": [
+              "A cleanup and breakfast event.",
+              "A musical concert.",
+              "A political rally."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Polizei schießt Angreifer in Berlin",
+        "text": "In Berlin gibt es ein großes Problem. Ein Mann hat viele Leute verletzt. Er fährt mit einem Auto in die Menschenmenge. Viele Leute sind in Gefahr. Die Polizei sucht den Mann. Der Mann hat ein Messer. Die Polizei schießt den Mann. Der Mann ist tot. Viele Menschen sind verletzt. Ein Mensch ist gestorben. Das war ein schlimmes Ereignis. Die Polizei findet den Mann in Spandau. Die Polizei spricht von einem Terrorangriff. Viele Menschen haben Angst. Das ist nicht gut für die Stadt. Die Menschen wollen Sicherheit. Der Bürgermeister sagt, dass die Polizei hart arbeiten muss. Nach dem Angriff kommt es zu vielen Gesprächen. Die Menschen wollen mehr Schutz beim Feiern.",
+        "vocabulary": [
+          {
+            "word": "Angreifer",
+            "definition": "jemand, der gewalttätig ist"
+          },
+          {
+            "word": "Menge",
+            "definition": "eine große Gruppe von Menschen"
+          },
+          {
+            "word": "verletzen",
+            "definition": "schmerzen oder Schaden zufügen"
+          },
+          {
+            "word": "Sicherheit",
+            "definition": "der Schutz vor Gefahr"
+          },
+          {
+            "word": "Angst",
+            "definition": "ein Gefühl der Sorge oder Furcht"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat der Mann getan?",
+            "options": [
+              "Er hat viele Leute verletzt.",
+              "Er hat ein Auto verkauft.",
+              "Er hat ein Haus gebaut."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo findet die Polizei den Mann?",
+            "options": [
+              "In Spandau.",
+              "In Hamburg.",
+              "In München."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie fühlt sich die Stadt nach dem Angriff?",
+            "options": [
+              "Die Menschen haben Angst.",
+              "Die Menschen feiern.",
+              "Die Menschen schlafen."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Angreifer bei Berlin Pride erschossen",
+        "text": "In Berlin gab es einen schlimmen Angriff während der Pride-Parade. Ein junger Mann hat mit einem Auto viele Menschen verletzt. Er hat den Menschen Angst gemacht und viele waren in Panik. Später hat er ein Messer gehabt und die Polizei kam schnell. Die Polizei hat den Mann erschossen, um andere Menschen zu schützen. Der Mann war 21 Jahre alt und hatte eine Verbindung zu extremistischen Gruppen. Nach dem Angriff ist ein Mensch gestorben und viele andere sind verletzt worden. Die Menschen sind sehr traurig und geschockt. Viele gedenken den Opfern und legen Blumen nieder. Der Innenminister sagt, dass der Angriff ein terroristischer Akt sein könnte, weil der Mann eine kriminelle Vorgeschichte hat. Erste Hilfe für die Verletzten ist wichtig, so dass sie schnell gesund werden können. Die Sicherheit für solche wichtigen Veranstaltungen wird jetzt besser überprüft, um solche Angriffe in Zukunft zu verhindern.",
+        "vocabulary": [
+          {
+            "word": "Angriff",
+            "definition": "ein gewalttätiger Überfall auf eine Person oder Gruppe."
+          },
+          {
+            "word": "Parade",
+            "definition": "eine öffentliche Feier mit vielen Menschen, bei der oft eine bestimmte Gruppe geehrt wird."
+          },
+          {
+            "word": "reaktiv",
+            "definition": "schnell auf eine Situation oder ein Ereignis reagieren."
+          },
+          {
+            "word": "Gedenken",
+            "definition": "das Erinnern an jemand oder etwas, oft nach einem schlimmen Ereignis."
+          },
+          {
+            "word": "Verletzte",
+            "definition": "Menschen, die bei einem Vorfall verletzt wurden."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat der junge Mann mit dem Auto gemacht?",
+            "options": [
+              "Er hat einen Blumenladen besucht.",
+              "Er hat viele Menschen verletzt.",
+              "Er hat ein Krankenhaus betreten."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie alt war der Mann, der erschossen wurde?",
+            "options": [
+              "25 Jahre alt.",
+              "21 Jahre alt.",
+              "30 Jahre alt."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist nach dem Angriff passiert?",
+            "options": [
+              "Die Menschen haben Feiern organisiert.",
+              "Die Polizei hat den Mann erschossen.",
+              "Die Kinder haben im Park gespielt."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Verdächtiger bei Berlin Pride attackiert und erschossen",
+        "text": "Während der Berlin Pride Parade kam es zu einem schweren Vorfall, der viele Menschen betroffen hat. Ein 21-jähriger Mann, Abdul Ballout, hat mit einem Auto in eine Menschenmenge gerammt, wodurch er viele Menschen verletzt hat. Es wurden mindestens 29 Personen verletzt, und eine Frau ist leider an ihren Verletzungen gestorben. Nachdem er mit einem Messer auf die Polizei zugerannt ist, haben die Beamten ihn erschossen. Abdul Ballout hatte einen Hintergrund in extremistischen Kreisen und hat zuvor versucht, dem Islamischen Staat beizutreten, was seine Gefährlichkeit zeigt. Viele Menschen in Berlin sind erschüttert und haben ihre Trauer zum Ausdruck gebracht. Der Innenminister Alexander Dobrindt meinte, es ist möglicherweise ein terroristischer Angriff gewesen, der Deutschlands Sicherheitslage verändert. \n\nNach dem Angriff hat die Polizei beschlossen, die Sicherheit für zukünftige Veranstaltungen zu erhöhen, um ähnliche Vorfälle zu verhindern. Viele Menschen, die zum Christopher Street Day gekommen waren, fühlten sich nicht mehr sicher. Bei einer Gedenkveranstaltung am Brandenburger Tor haben die Teilnehmer Kerzen angezündet und für die Opfer gebetet. Die Veranstaltung, die normalerweise voller Freude und Feierlichkeit ist, wurde durch diesen Vorfall stark getrübt. Der Angriff hat nicht nur die LGBT-Community betroffen, sondern alle Menschen, die für Freiheit und Vielfalt kämpfen. Wenn die Gesellschaft in Frieden leben möchte, müssen wir Extremismus und Gewalt gemeinsam bekämpfen. Wir dürfen uns von solchen Taten nicht unterkriegen lassen.",
+        "vocabulary": [
+          {
+            "word": "extremistisch",
+            "definition": "von extremen politischen oder religiösen Ansichten geprägt"
+          },
+          {
+            "word": "Gedenkveranstaltung",
+            "definition": "eine Veranstaltung, um den Opfern zu gedenken"
+          },
+          {
+            "word": "verletzen",
+            "definition": "jemandem körperlichen Schaden zufügen"
+          },
+          {
+            "word": "Sicherheit",
+            "definition": "Zustand, in dem keine Gefahr besteht"
+          },
+          {
+            "word": "Trauer",
+            "definition": "das Gefühl des Bedauerns über den Verlust von jemandem oder etwas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden verletzt?",
+            "options": [
+              "29",
+              "10",
+              "50"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat die Polizei nach dem Vorfall erhöht?",
+            "options": [
+              "Die Sicherheit",
+              "Die Öffnungszeiten",
+              "Die Preise"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was wurde am Brandenburger Tor gemacht?",
+            "options": [
+              "Es gab eine Feier",
+              "Es gab eine Gedenkveranstaltung",
+              "Es fand ein Konzert statt"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Verdächtiger des Berlin Pride-Angriffs von Polizei erschossen",
+        "text": "Der Mann, der verdächtigt wird, einen \"islamistischen Terrorangriff\" beim Berlin Pride begangen zu haben, wurde von der Polizei erschossen. Der 21-jährige Abdul Ballout, ein deutscher Staatsbürger libanesischer Herkunft, rannte mit einem Messer auf die Beamten zu, als diese ihre Waffen zogen. Damit endete eine großangelegte Fahndung, die nach einem Vorfall begann, bei dem ein weißer Transporter in eine Menschenmenge in der Nähe des Tiergartens raste. Dies geschah kurz vor 22:00 Uhr am Samstagabend und führte zum Tod einer Frau sowie zu Verletzungen von mindestens 29 weiteren Personen. Nach dem Vorfall hätten mehrere Menschen durch einen Messerangriff Verletzungen erlitten. Der deutsche Innenminister Alexander Dobrindt erklärte, dass die Hinweise auf einen islamistischen Hintergrund hindeuteten. Er betonte, dass Ballout schon vorher durch zahlreiche Straftaten und seine Radikalisierung aufgefallen sei. Im Jahr 2025 reiste er über die Türkei nach Libanon, um sich dem Islamischen Staat in Syrien anzuschließen. Später wurde er in Libanon verhaftet und für drei Monate inhaftiert. In Deutschland wurde er letztendlich zu einer Gefängnisstrafe von einem Jahr und zehn Monaten verurteilt. Die Sicherheitsmaßnahmen für große Veranstaltungen werden nun erhöht.",
+        "vocabulary": [
+          {
+            "word": "verdächtigen",
+            "definition": "annehmen, dass jemand etwas Schlechtes getan hat"
+          },
+          {
+            "word": "Angriff",
+            "definition": "eine gewalttätige Handlung gegen jemanden"
+          },
+          {
+            "word": "Fahndung",
+            "definition": "Suche nach einer Person, die ein Verbrechen begangen hat"
+          },
+          {
+            "word": "Radikalisierung",
+            "definition": "sich extremen Ideen anschließen"
+          },
+          {
+            "word": "Verletzungen",
+            "definition": "Schäden am Körper"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer wurde von der Polizei erschossen?",
+            "options": [
+              "Ein Beamter.",
+              "Ein Verdächtiger.",
+              "Eine Frau."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wann fand der Vorfall statt?",
+            "options": [
+              "Am Samstagabend.",
+              "Am Sonntagmorgen.",
+              "Am Freitagabend."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Personen wurden verletzt?",
+            "options": [
+              "Weniger als 10.",
+              "29 Personen.",
+              "300 Personen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Abdul Ballout: Verdächtiger des Terrorangriffs beim Berlin Pride erschossen",
+        "text": "In Berlin wurde der Tatverdächtige des mutmaßlichen islamistischen Terrorangriffs während des Pride-Parades, Abdul Ballout, von der Polizei erschossen. Der 21-jährige, der in Spandau lebte, hatte in der Vergangenheit durch eine Vielzahl an kriminellen Handlungen, einschließlich Radikalisierungsansätzen, auf sich aufmerksam gemacht. Der Vorfall ereignete sich, als Ballout mit einem Messer auf die Beamten zustürmte, was zu einem massiven Polizei-Einsatz führte. Zuvor wurde ein Lieferwagen in eine Menschenmenge nahe dem Tiergarten gelenkt, wobei eine Frau starb und mindestens 29 weitere Menschen verletzt wurden. Innenminister Alexander Dobrindt äußerte sich gegenüber Journalisten und betonte, dass der Angriff in Zusammenhang mit extremistischen Strömungen stehe. Ballouts Geschichte ist gekennzeichnet von einem Versuch, sich dem Islamischen Staat anzuschließen, was zu einer Verhaftung und einer Haftstrafe von 10 Monaten in Deutschland führte. Der Angriff hat die Sicherheitslage in Berlin dramatisch verändert, und die Behörden wurden angewiesen, ihre Sicherheitsmaßnahmen bei Großveranstaltungen zu überprüfen. Dobrindt kündigte an, dass die Bedrohungslage in Deutschland angehoben werde. Dies würde nicht nur Berlin betreffen, sondern auch andere Bundesländer, die um Sicherheit besorgt sind.",
+        "vocabulary": [
+          {
+            "word": "Tatverdächtige",
+            "definition": "Person, die eine Straftat begangen haben könnte"
+          },
+          {
+            "word": "radikal",
+            "definition": "extrem, gefährlich im Denken oder Handeln"
+          },
+          {
+            "word": "massiv",
+            "definition": "sehr stark oder bedeutend"
+          },
+          {
+            "word": "Sicherheitslage",
+            "definition": "Zustand der Sicherheit in einem bestimmten Gebiet"
+          },
+          {
+            "word": "Bedrohungslage",
+            "definition": "Risiko oder Gefahr für die Sicherheit"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum wurde Abdul Ballout erschossen?",
+            "options": [
+              "Er hatte ein Messer.",
+              "Er war ein Zeuge.",
+              "Er war nicht gefährlich."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was tat Abdul Ballout vor dem Vorfall?",
+            "options": [
+              "Er reiste nach Deutschland.",
+              "Er versuchte, sich dem IS anzuschließen.",
+              "Er arbeitete in Berlin."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Menschen wurden negativ beeinflusst durch den Vorfall?",
+            "options": [
+              "Nur eine Person.",
+              "29 Personen.",
+              "Über 100 Personen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Berlin Pride: Polizei schießt Verdächtigen nach islamistischem Terrorangriff nieder",
+        "text": "Im Kontext eines vermuteten islamistischen Terrorangriffs während der Berliner Pride-Parade wurde der als Abdul Ballout identifizierte 21-Jährige von der Polizei erschossen. Ballout, der zuvor in der kriminellen Szene aufgefallen war, rannte bewaffnet mit einem Messer auf die Einsatzkräfte zu, was diese zu tödlichem Schusswaffeneinsatz zwang. Der Vorfall fand seinen Ursprung in einem grausamen Ereignis, bei dem ein Lieferwagen in eine Menschenmenge nahe dem Tiergarten raste und das Leben einer Frau forderte, während zusätzlich 29 weitere Personen Verletzungen erlitten. Innenminister Alexander Dobrindt äußerte seine Besorgnis über den Verlauf der Ereignisse und schloss nicht aus, dass der Verdächtige, der sich zuvor mit radikalen Ideen auseinandergesetzt hatte, in einen größeren terroristischen Plan verwickelt war. Die Polizei verfolgt die Spuren seines Aufenthalts in Libanon, wo er mutmaßlich mit Mitgliedern des Islamischen Staates in Kontakt trat. Die deutsche Sicherheitslage wird nun intensiv überprüft, und Dobrindt hat zum Handeln aufgerufen, um eine Verschärfung der Bedrohungslage zu verhindern. Während die Gesellschaft sich von diesem Anschlag erholt, bündeln sich die Stimmen der Solidarität gegen Extremismus, wobei auch bestehende Versäumnisse der Regierung in der Unterstützungsstruktur für queere Organisationen thematisiert werden. Berlins Reaktion auf diesen Vorfall zeigt nicht nur die Dringlichkeit der Sicherheitsfragen, sondern auch die moralische Verantwortung, den Feind des gesellschaftlichen Zusammenhalts entschieden entgegenzutreten.",
+        "vocabulary": [
+          {
+            "word": "vermuten",
+            "definition": "annehmen, dass etwas so ist, ohne es sicher zu wissen"
+          },
+          {
+            "word": "Kollateralschaden",
+            "definition": "unerwünschte Nebeneffekte während eines Angriffs oder einer Operation"
+          },
+          {
+            "word": "Einsatzkräfte",
+            "definition": "Polizisten oder Soldaten, die aktiv in einer Situation handeln"
+          },
+          {
+            "word": "drastisch",
+            "definition": "sehr deutlich und extrem"
+          },
+          {
+            "word": "Solidarität",
+            "definition": "Unterstützung oder Zusammenhalt einer Gruppe"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was passierte während des Anschlags?",
+            "options": [
+              "Eine Frau starb und viele Menschen wurden verletzt.",
+              "Es gab keine Verletzten.",
+              "Der Verdächtige wurde sofort gefasst."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer war Abdul Ballout?",
+            "options": [
+              "Ein Sicherheitsbeamter.",
+              "Der Tatverdächtige.",
+              "Ein Passant."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was wurde nach dem Vorfall angeordnet?",
+            "options": [
+              "Die Sicherheitsmaßnahmen sollten überprüft werden.",
+              "Alle Feierlichkeiten wurden abgesagt.",
+              "Die Polizei wurde aufgelöst."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Un homme est tué à Berlin",
+        "text": "Un homme est suspecté d'une attaque à Berlin. Il a un couteau. La police tire sur lui. Il est tué. L’attaque se passe près d’un parc. Un camion conduit dans une foule de personnes. Une femme est morte. Vingt-neuf personnes sont blessées. La police est très triste. Les gens sont en colère. Ils veulent justice pour les victimes. Un ministre parle aux journalistes. Il dit que c'est un acte terroriste. Les gens se rassemblent devant la porte de Brandebourg. Ils allument des bougies pour les victimes. L’attaque trouble la fête de la fierté à Berlin. Cela fait peur à beaucoup de personnes.",
+        "vocabulary": [
+          {
+            "word": "victime",
+            "definition": "personne qui souffre ou qui meurt dans un événement"
+          },
+          {
+            "word": "rassemblement",
+            "definition": "un groupe de personnes qui se réunit"
+          },
+          {
+            "word": "bougie",
+            "definition": "un objet qui produit de la lumière quand on le brûle"
+          },
+          {
+            "word": "fête",
+            "definition": "un événement festif, une célébration"
+          },
+          {
+            "word": "trouble",
+            "definition": "causer de l'inquiétude ou de l'angoisse"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Où se passe l’attaque ?",
+            "options": [
+              "Au parc",
+              "À l'école",
+              "À la maison"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de personnes sont blessées ?",
+            "options": [
+              "Vingt personnes",
+              "Trente personnes",
+              "Vingt-neuf personnes"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Qu'est-ce que les gens font devant la porte de Brandebourg ?",
+            "options": [
+              "Ils chantent",
+              "Ils allument des bougies",
+              "Ils dansent"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Un homme est tué à Berlin",
+        "text": "Un homme est suspecté d'être responsable d'une attaque à Berlin. Il s'appelle Abdul Ballout. Il a 21 ans et il est un citoyen allemand d'origine libanaise. Il a un couteau et attaque des policiers dans le quartier de Spandau. Les policiers tirent sur lui et il est tué. Avant cela, un camion a frappé des gens près d'un parc à Tiergarten. Une femme est morte et au moins 29 autres personnes sont blessées. La police dit que c'est un acte terroriste. Le ministre de l'Intérieur, Alexander Dobrindt, parle aux journalistes et explique que Ballout a un passé criminel. Il a des connexions avec un groupe dangereux. Ce groupe est lié à l'extrémisme islamiste. Après l'attaque, les gens se rassemblent près de la porte de Brandebourg pour pleurer. Ils veulent que cela ne se reproduise pas. Beaucoup de personnes sont choquées parce qu'il s'agit d'une célébration de la fierté. Ils espèrent que la communauté LGBT se rassemblera à nouveau malgré la peur. Des voix disent que notre société doit rester unie contre l'extrémisme.",
+        "vocabulary": [
+          {
+            "word": "couteau",
+            "definition": "un instrument utilisé pour couper"
+          },
+          {
+            "word": "camion",
+            "definition": "un grand véhicule pour transporter des choses"
+          },
+          {
+            "word": "parc",
+            "definition": "un espace vert où les gens se reposent"
+          },
+          {
+            "word": "policiers",
+            "definition": "des agents qui protègent la loi"
+          },
+          {
+            "word": "célébration",
+            "definition": "un événement festif ou une fête"
+          },
+          {
+            "word": "communauté",
+            "definition": "un groupe de personnes qui partagent des intérêts"
+          },
+          {
+            "word": "extrémisme",
+            "definition": "des idées très radicales et souvent violentes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel âge a Abdul Ballout ?",
+            "options": [
+              "21 ans",
+              "25 ans",
+              "30 ans"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Où se passe l'attaque ?",
+            "options": [
+              "Dans un parc",
+              "À Spandau",
+              "Dans une rue"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est la réaction des gens après l'attaque ?",
+            "options": [
+              "Ils sont contents",
+              "Ils se rassemblent pour pleurer",
+              "Ils s'en vont rapidement"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "L'attaque de Berlin Pride et le meurtre du suspect",
+        "text": "Un homme, connu comme Abdul Ballout, a été tué par la police à Berlin. Il est suspecté d'avoir mené une attaque lors de la célébration de Berlin Pride. Ce moment joyeux a été interrompu lorsque Ballout a attaqué des policiers avec un couteau. Les agents ont réagi rapidement et ont tiré, ce qui a conduit à sa mort. Avant cela, un camion a également été conduit dans une foule près du parc de Tiergarten, causant la mort d'une femme et blessant 29 autres personnes. Les autorités ont déclaré qu'il s'agissait probablement d'un acte terroriste, ce qui a choqué la communauté. Ballout avait un passé criminel. Il avait des connexions avec des groupes islamistes qui ont été signalés pour avoir mené d'autres attaques. Après l'attaque, de nombreuses personnes se sont rassemblées devant la porte de Brandebourg pour honorer les victimes. Elles ont exprimé leur tristesse et leur colère, et ont appelé à une meilleure sécurité. Si le ministre a promis d'augmenter les mesures de sécurité, de nombreux participants craignent que ces événements ne soient plus jamais les mêmes. De plus, le chancelier allemand a visité le site de l'attaque et a promis de défendre la liberté et l'ouverture de leur société. Cela montre l'importance d'unir les communautés contre la haine et le terrorisme. Ainsi, l'espoir d'une célébration continue de vivre malgré la peur persiste.",
+        "vocabulary": [
+          {
+            "word": "célébration",
+            "definition": "un événement pour fêter quelque chose"
+          },
+          {
+            "word": "communauté",
+            "definition": "un groupe de personnes ayant des intérêts communs"
+          },
+          {
+            "word": "mesures",
+            "definition": "actions prises pour atteindre un but"
+          },
+          {
+            "word": "terrorisme",
+            "definition": "l'utilisation de la violence pour des objectifs politiques"
+          },
+          {
+            "word": "unir",
+            "definition": "rassembler des personnes ou des groupes ensemble"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a été tué par la police à Berlin?",
+            "options": [
+              "Un policier",
+              "Une victime",
+              "Abdul Ballout"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel type d'attaque est soupçonné d'avoir eu lieu à Berlin Pride?",
+            "options": [
+              "Une attaque de vandalisme",
+              "Une attaque terroriste",
+              "Une attaque accidentelle"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que s'est-il passé après l'attaque?",
+            "options": [
+              "Les événements ont continué comme prévu",
+              "Un rassemblement a eu lieu pour honorer les victimes",
+              "Le ministre a quitté le pays"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Un suspect de l'attaque de Berlin Pride abattu lors d'une opération policière",
+        "text": "Le suspect de ce qui a été qualifié par les autorités d'un \"attaque terroriste islamiste\" sur Berlin Pride a été abattu par la police. En effet, les agents ont ouvert le feu sur Abdul Ballout, un citoyen allemand de 21 ans d'origine libanaise, qui s'est précipité vers eux avec un couteau dans le quartier de Spandau, à l'ouest de Berlin. Cet incident a mis fin à une vaste chasse à l'homme, lancée après qu'une camionnette blanche ait foncé dans une foule près du parc de Tiergarten samedi soir, tuant une femme et blessant au moins 29 autres personnes. Selon la police, après l'attaque au véhicule, plusieurs personnes ont subi des blessures lors d'une attaque à l'arme blanche. En conférence de presse, le ministre de l'Intérieur allemand, Alexander Dobrindt, a souligné que les preuves indiquaient qu'il s'agissait d'un \"attaque terroriste islamiste\". \"Nous avons affaire à un auteur présumé qui avait déjà attiré l'attention par un grand nombre de délits, sa radicalisation et son affiliation à la scène islamiste\", a déclaré Dobrindt. Une déclaration du bureau du procureur de Berlin a révélé que Ballout avait l'intention de rejoindre le groupe État islamique (EI) en Syrie. Il a été arrêté au Liban, condamné pour incitation et est rentré en Allemagne en novembre 2025. En mai, il a été condamné à 20 mois de prison. Suite à l'attaque, le niveau de menace en Allemagne a été augmenté, et des conseils de sécurité ont été donnés aux autres États en vue de grands événements.",
+        "vocabulary": [
+          {
+            "word": "suspect",
+            "definition": "une personne accusée d'un crime"
+          },
+          {
+            "word": "abattu",
+            "definition": "tué par un tir"
+          },
+          {
+            "word": "attaque",
+            "definition": "un acte violent contre des personnes"
+          },
+          {
+            "word": "police",
+            "definition": "les agents qui protègent la loi"
+          },
+          {
+            "word": "hospitalisé",
+            "definition": "avoir été mis à l'hôpital"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a été tué par la police ?",
+            "options": [
+              "Un citoyen libanais",
+              "Un suspect",
+              "Un ministre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel événement a été attaqué ?",
+            "options": [
+              "Berlin Easter",
+              "Berlin Pride",
+              "Berlin Christmas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que le ministre Alexander Dobrindt a dit ?",
+            "options": [
+              "C'était un événement joyeux",
+              "C'était une attaque islamiste",
+              "C'était une fête"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Un suspect de l'attaque de Berlin Pride abattu par la police",
+        "text": "L'individu soupçonné d'avoir perpétré ce que les autorités considèrent comme une \"attaque terroriste islamiste\" lors de Berlin Pride a été abattu lors d'une opération policière. En effet, Abdul Ballout, un citoyen allemand d'origine libanaise âgé de 21 ans, a été abattu après avoir chargé les agents avec un couteau dans le quartier de Spandau. Cet incident a marqué la fin d'une chasse à l'homme qui s'est intensifiée suite à un tragique incident où une camionnette a percuté une foule près du parc de Tiergarten, tuant une femme et blessant 29 autres personnes. Selon les forces de l'ordre, plusieurs victimes ont également été blessées dans une attaque au couteau après cet événement. Lors d'une conférence de presse où il s'est exprimé, le ministre de l'Intérieur, Alexander Dobrindt, a déclaré que les éléments recueillis indiquaient clairement que cet acte était motivé par l'idéologie islamiste. \"Nous faisons face à un auteur potentiel qui avait déjà été reconnu coupable de nombreux délits“, a-t-il affirmé. D'une déposition du procureur, il a été révélé que Ballout avait tenté de rejoindre le groupe État islamique en Syrie, avant d'être arrêté au Liban. De plus, Dobrindt a annoncé que le niveau de menace serait ajusté en conséquence, conseillant aux autres États d’examiner leurs mesures de sécurité en prévision d'événements majeurs.",
+        "vocabulary": [
+          {
+            "word": "individu",
+            "definition": "une personne"
+          },
+          {
+            "word": "perpétré",
+            "definition": "réalisé un acte criminel"
+          },
+          {
+            "word": "tragique",
+            "definition": "qui cause beaucoup de tristesse"
+          },
+          {
+            "word": "motivé",
+            "definition": "influencé par des raisons"
+          },
+          {
+            "word": "mesures",
+            "definition": "actions prises pour un but"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel âge avait Abdul Ballout ?",
+            "options": [
+              "21 ans",
+              "25 ans",
+              "30 ans"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Que faisait Ballout quand il a été abattu ?",
+            "options": [
+              "Il chargeait la police",
+              "Il se rendait à un événement",
+              "Il était caché"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelles mesures le ministre a-t-il suggérées ?",
+            "options": [
+              "Réduire les budgets",
+              "Augmenter le niveau de menace",
+              "Délivrer des récompenses"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Attaque du Berlin Pride : le suspect abattu par la police",
+        "text": "Dans un développement tragique d'une situation déjà alarmante, le suspect de ce que les autorités qualifient d'une \"attaque terroriste islamiste\" perpétrée lors de Berlin Pride a été abattu par la police. Abdul Ballout, jeune homme de 21 ans, citoyen allemand d'origine libanaise, s'est précipité armé d'un couteau lors d'une opération policière à Spandau, déclenchant une réponse fatale de la part des agents. Cet événement s'inscrit dans le cadre d'une chasse à l'homme ardente, et intervient après qu'une camionnette ait foncé dans la foule à proximité du parc de Tiergarten, causant la mort d'une femme et blessant une trentaine d'autres personnes. Les forces de l'ordre, dont le ministre de l'Intérieur Alexander Dobrindt, ont étayé que les éléments du dossier tendent à indiquer un lien avec l'extrémisme islamiste. \"Nous faisons face à un individu qui n'a pas seulement fait parler de lui à cause d'actes criminels, mais aussi par sa radicalisation\", a-t-il déclaré. Détails croustillants révèlent un parcours criminel complexe, avec un projet avorté de rejoindre l'État islamique en Syrie. L'impact de cette attaque va au-delà de la tragédie immédiate, nécessitant un réexamen approfondi des mesures de sécurité à l'échelle nationale. L'État allemand semble désormais contraint de fortifier sa vigilance face à une menace fluctuante et omniprésente, tout en reflétant une réalité inquiétante qui touche de nombreuses sociétés démocratiques contemporaines.",
+        "vocabulary": [
+          {
+            "word": "développement",
+            "definition": "un avancement dans une affaire"
+          },
+          {
+            "word": "tragique",
+            "definition": "qui provoque une profonde tristesse"
+          },
+          {
+            "word": "extrémisme",
+            "definition": "des idées ou comportements extrêmes et radicaux"
+          },
+          {
+            "word": "étayer",
+            "definition": "fournir des preuves pour soutenir une affirmation"
+          },
+          {
+            "word": "fluctuante",
+            "definition": "qui change fréquemment"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quels étaient les liens de Ballout selon les autorités ?",
+            "options": [
+              "Avec le terrorisme islamiste",
+              "Avec la politique allemande",
+              "Avec d'autres groupes pacifiques"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle a été la conséquence immédiate de l'attaque ?",
+            "options": [
+              "Une chasse à l'homme",
+              "Un concert",
+              "Un festival"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle mesure pourrait être prise après l'attaque ?",
+            "options": [
+              "Réviser les lois sur la sécurité",
+              "Arrêter tous les événements",
+              "Réduire les budgets des polices"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Sospechoso de ataque en Berlín",
+        "text": "Un hombre sospechoso está muerto. La policía dispara. El hombre se llama Abdul. Él tiene 21 años. Él es ciudadano alemán. Él tiene origen libanés. Abdul lleva un cuchillo. La policía está en Spandau. Spandau es un barrio de Berlín. Hay un ataque en Berlín Pride. Una mujer muere. Veintinueve personas están heridas. La policía busca al hombre. La policía encuentra al hombre. Hay un ataque en un evento grande. La gente está triste y asustada. Este ataque afecta a todos en Berlín. Las personas hacen una vigilia en la Puerta de Brandeburgo. Ellos recuerdan a las víctimas y quieren paz. La comunidad LGBT está muy unida ahora. Todos quieren cambiar la situación para mejor.",
+        "vocabulary": [
+          {
+            "word": "vigilia",
+            "definition": "un evento para recordar a personas fallecidas"
+          },
+          {
+            "word": "comunidad",
+            "definition": "un grupo de personas que comparten algo en común"
+          },
+          {
+            "word": "unida",
+            "definition": "junta y en armonía, sin dividirse"
+          },
+          {
+            "word": "situación",
+            "definition": "el estado o las condiciones de algo"
+          },
+          {
+            "word": "paz",
+            "definition": "la ausencia de conflicto y tranquilidad"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cómo se llama el hombre sospechoso?",
+            "options": [
+              "Ahmed",
+              "Ali",
+              "Abdul"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué lleva Abdul en su mano?",
+            "options": [
+              "una pistola",
+              "un cuchillo",
+              "una bomba"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde hay una vigilia?",
+            "options": [
+              "en Spandau",
+              "en la Puerta de Brandeburgo",
+              "en el parque Tiergarten"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ataque en Berlín Pride",
+        "text": "La policía ha matado a un hombre. Este hombre se llama Abdul Ballout. Él tiene 21 años y es alemán. Abdul es de origen libanés. Él llega con un cuchillo a Spandau, un barrio en Berlín. Justo antes, hubo un ataque en Berlín Pride. Una mujer muere y al menos veintinueve personas están heridas en el ataque. Este ataque ocurrió durante la celebración del Día del Orgullo, un evento importante para la comunidad LGBT. Abdul tiene una historia criminal. En el pasado, él intenta unirse al grupo terrorista ISIS, pero no tiene éxito. La policía encuentra a Abdul después del ataque. El ministro de interior dice que es un acto de terrorismo. Esta violencia afecta la celebración del Día del Orgullo en Berlín. Muchos asistentes están tristes y preocupados por su seguridad. Las autoridades deciden aumentar la vigilancia en eventos futuros. Muchas personas vienen a recordar a las víctimas cerca de la Puerta de Brandeburgo.",
+        "vocabulary": [
+          {
+            "word": "puerta",
+            "definition": "una entrada o salida a un lugar, como un edificio"
+          },
+          {
+            "word": "comunidad",
+            "definition": "un grupo de personas que viven juntas o comparten intereses"
+          },
+          {
+            "word": "evento",
+            "definition": "una actividad importante, como una celebración"
+          },
+          {
+            "word": "atacar",
+            "definition": "agredir o hacer daño a alguien"
+          },
+          {
+            "word": "seguridad",
+            "definition": "la condición de estar libre de peligro"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué pasó durante el ataque en Berlín Pride?",
+            "options": [
+              "Una mujer murió y varias personas resultaron heridas",
+              "Todos estaban felices y celebrando",
+              "No ocurrió nada importante"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué fue Abdul Ballout conocido antes del ataque?",
+            "options": [
+              "Porque trabajaba con la policía",
+              "Porque intentó unirse a ISIS en el pasado",
+              "Porque era un artista famoso"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué reacción hubo en la comunidad LGBT después del ataque?",
+            "options": [
+              "Celebraron la victoria",
+              "Estuvieron tristes y preocupados",
+              "Ignoraron el ataque"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Sospechoso de ataque en Berlín es abatido",
+        "text": "El sábado, ocurrió un ataque durante el evento Berlín Pride, que es uno de los festivales más importantes para la comunidad LGBT en Europa. Abdul Ballout, un hombre de 21 años que ha vivido en Alemania, fue el sospechoso del ataque. La policía disparó contra él y él murió durante la operación. El ataque fue grave y causó la muerte de una mujer, así como heridas a al menos veintinueve personas. Este ataque ha sido descrito por las autoridades como un acto de terrorismo islamista, lo que ha aumentado las preocupaciones sobre la seguridad pública.\n\nLa historia de Abdul es también inquietante. En el pasado, él intentó unirse al grupo ISIS, que es conocido por su extremismo y violencia. Fue arrestado en 2025 en Líbano por incitar a la violencia religiosa. Después regresó a Alemania, donde fue detenido nuevamente al llegar y recibió una condena de casi dos años de prisión por preparar un acto violento. En mayo de este año, tras ser liberado, él estuvo bajo supervisión. \n\nLos eventos recientes han dejado a la comunidad LGBT en un estado de shock. Muchas personas han regresado al icónico Puerta de Brandeburgo para recordar a las víctimas y manifestar su rechazo a la violencia. Los asistentes pidieron más apoyo del gobierno y resaltaron la importancia de la unidad frente al miedo, declarando que no dejarán que el terrorismo afecte sus celebraciones y derechos.",
+        "vocabulary": [
+          {
+            "word": "evento",
+            "definition": "una actividad o suceso que tiene lugar en un tiempo y lugar determinados."
+          },
+          {
+            "word": "comunidad",
+            "definition": "un grupo de personas que comparten intereses o características en común."
+          },
+          {
+            "word": "terrorismo",
+            "definition": "uso de la violencia y las intimidaciones para alcanzar objetivos políticos."
+          },
+          {
+            "word": "unirse",
+            "definition": "asociarse o formar parte de un grupo."
+          },
+          {
+            "word": "violencia",
+            "definition": "uso de la fuerza para causar daño o intimidar."
+          },
+          {
+            "word": "apoyo",
+            "definition": "asistencia o ayuda en momentos difíciles."
+          },
+          {
+            "word": "celebraciones",
+            "definition": "actos o eventos en que se festeja algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué ocurrió el sábado durante Berlín Pride?",
+            "options": [
+              "Un ataque",
+              "Un concierto",
+              "Un desfile"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué intención tenía Abdul Ballout al viajar a Líbano?",
+            "options": [
+              "Visitar a la familia",
+              "Unirse a ISIS",
+              "Hacer turismo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué hicieron los asistentes en el Puerta de Brandeburgo tras el ataque?",
+            "options": [
+              "Recogieron firmas",
+              "Recordaron a las víctimas",
+              "Se marcharon rápidamente"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Sospechoso del ataque en el Orgullo de Berlín es abatido durante operación policial",
+        "text": "El hombre sospechoso de llevar a cabo lo que las autoridades consideran un \"ataque terrorista islamista\" en el Orgullo de Berlín fue abatido por la policía. Los agentes abrieron fuego cuando Abdul Ballout, un ciudadano alemán de 21 años de ascendencia libanesa, se lanzó hacia ellos empuñando un cuchillo en Spandau, un distrito del oeste de Berlín. Esto puso fin a una intensa caza del hombre que se había iniciado después de que una furgoneta blanca arrollara a una multitud de gente cerca del parque Tiergarten poco antes de las 22:00 hora local del sábado. El ataque dejó una mujer fallecida y al menos 29 personas heridas. Tras el arrollamiento, algunos de los heridos también fueron atacados con un cuchillo. El Ministro del Interior alemán, Alexander Dobrindt, comentó a los periodistas que los indicios apuntan a un \"ataque terrorista islamista\". Dijo que el sospechoso había sido previamente señalado por una gran cantidad de delitos y por su radicalización. Además, se revelaron detalles de su historial criminal, destacando que había viajado a Líbano y había intentado unirse al grupo Estado Islámico. Después de su regreso a Alemania, fue condenado en varias ocasiones por violencia y robo. Dobrindt anunció que se elevaría el nivel de amenaza en Alemania tras el ataque.",
+        "vocabulary": [
+          {
+            "word": "sospechoso",
+            "definition": "persona que es acusada de hacer algo malo"
+          },
+          {
+            "word": "abrumador",
+            "definition": "algo que causa mucho dolor o sufrimiento"
+          },
+          {
+            "word": "ataque",
+            "definition": "acto violento contra alguien o algo"
+          },
+          {
+            "word": "radicalización",
+            "definition": "el cambio de ideas hacia una visión extrema"
+          },
+          {
+            "word": "condenado",
+            "definition": "ser declarado culpable de un crimen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de ataque se sospecha que ocurrió en Berlín?",
+            "options": [
+              "Un ataque terrorista islamista",
+              "Un ataque de un grupo político",
+              "Un accidente de tráfico"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué hizo la policía cuando Abdul Ballout se acercó con un cuchillo?",
+            "options": [
+              "Le arrestaron",
+              "Le dispararon",
+              "Intentaron hablar con él"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué anunció Dobrindt tras el ataque?",
+            "options": [
+              "Que el nivel de amenaza se elevaría",
+              "Que no había peligro",
+              "Que el ataque fue un accidente"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Dramático desenlace: el sospechoso del ataque del Orgullo de Berlín es abatido por la policía",
+        "text": "El individuo acusado de perpetrar lo que las autoridades definen como un \"ataque terrorista islamista\" durante el evento del Orgullo en Berlín fue abatido por las fuerzas policiales. Abdul Ballout, un joven de 21 años, ciudadano alemán de origen libanés, confrontó violentamente a los agentes armados con un cuchillo en el distrito de Spandau, lo que llevó a una respuesta letal por parte de la policía. Este suceso concluyó una búsqueda masiva que había comenzado tras el ataque de un vehículo que embistió a una multitud en las proximidades del parque Tiergarten, resultando en la muerte de una mujer e hiriendo a al menos 29 personas. En una declaración a los medios, Alexander Dobrindt, Ministro del Interior alemán, indico que todo apunta a que se trata de un \"ataque terrorista islamista\", señalando el historial delictivo de Ballout, quien, según se informó, había intentado unirse al grupo terrorista Estado Islámico. Además, tras su retorno a Alemania, fue condenado por múltiples delitos violentos. Dobrindt también mencionó que se revisarán las medidas de seguridad a nivel nacional, dado el reciente aumento de amenazas. Este ataque ha alterado profundamente la celebración del Orgullo, un evento que conmemora la resistencia de la comunidad LGBT, enfatizando la necesidad urgente de abordar el extremismo en todas sus formas.",
+        "vocabulary": [
+          {
+            "word": "donde",
+            "definition": "lugar o espacio específico"
+          },
+          {
+            "word": "ministro",
+            "definition": "persona que ocupa un alto cargo en el gobierno"
+          },
+          {
+            "word": "perpetrar",
+            "definition": "llevar a cabo un crimen o acción violenta"
+          },
+          {
+            "word": "emergencia",
+            "definition": "situación que requiere atención inmediata"
+          },
+          {
+            "word": "vigilancia",
+            "definition": "observación atenta de una situación o lugar"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Por qué fue abatido Abdul Ballout?",
+            "options": [
+              "Porque se entregó a la policía",
+              "Porque atacó a los policías con un cuchillo",
+              "Porque trató de huir"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué medidas se mencionaron que se revisarán tras el ataque?",
+            "options": [
+              "Las medidas de seguridad",
+              "Las leyes sobre el crimen",
+              "Los derechos de la comunidad LGBT"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es Alexander Dobrindt?",
+            "options": [
+              "Un testigo del ataque",
+              "El Ministro del Interior alemán",
+              "Un ciudadano común"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Un trágico giro en el Orgullo de Berlín: el sospechoso del ataque es abatido en una operación policial",
+        "text": "La jornada del Orgullo en Berlín, que debía ser una celebración de los derechos y valores de la comunidad LGBT, se tornó en tragedia cuando Abdul Ballout, un joven de 21 años de origen libanés, fue abatido por las fuerzas del orden en un enfrentamiento que puso fin a una extensa cacería humana. Las autoridades consideran que el trágico incidente, que dejó a una mujer muerta y a docenas de heridos tras un ataque en un bullicioso evento, representa un \"ataque terrorista islamista\". Todo ocurrió después de que un camión embistiera a una multitud cerca del parque Tiergarten y continuara con un apuñalamiento en el que varias personas fueron atacadas. En declaraciones realizadas, el Ministro del Interior, Alexander Dobrindt, enfatizó que la actitud del sospechoso había atraído la atención de los servicios de seguridad debido a su historial criminal, que incluye intentos de unirse al Estado Islámico y varios delitos graves en el pasado. Dobrindt no vaciló en señalar que la amenaza terrorista en Alemania se intensificará y que se realizarán ajustes en las medidas de seguridad, advirtiendo que \"es imperativo proteger nuestra sociedad del veneno del extremismo\". El ataque, que eclipsó la festividad, llevó a los asistentes a reflexionar sobre la fragilidad de la libertad, mientras que algunos miembros de la comunidad LGBT expresaron su indignación y exigieron una mayor protección y atención por parte del gobierno. Sin embargo, la respuesta a esta crisis se debatirá en muchas otras plataformas, dada la necesidad apremiante de abordar el extremismo en toda su dimensión.",
+        "vocabulary": [
+          {
+            "word": "intensificarse",
+            "definition": "aumentar en fuerza o grado"
+          },
+          {
+            "word": "fragilidad",
+            "definition": "estado de ser débil o frágil"
+          },
+          {
+            "word": "indignación",
+            "definition": "sentimiento de enojo o descontento"
+          },
+          {
+            "word": "atención",
+            "definition": "cuidado o vigilancia hacia algo"
+          },
+          {
+            "word": "redefinir",
+            "definition": "definir de nuevo o de manera diferente"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué implicó el ataque en el Orgullo de Berlín?",
+            "options": [
+              "Un incremento en la seguridad en futuros eventos",
+              "Una celebración de la comunidad LGBT sin incidentes",
+              "El regreso inmediato de Abdul Ballout a Líbano"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo reaccionó Alexander Dobrindt al ataque?",
+            "options": [
+              "Minimizando su impacto",
+              "Reforzando las medidas de seguridad",
+              "Desestimando su relevancia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué aspecto resaltaron algunos miembros de la comunidad LGBT después del ataque?",
+            "options": [
+              "La necesidad de más apoyo gubernamental",
+              "El deseo de cancelar el evento del Orgullo",
+              "La aprobación de medidas más severas"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "polizei": "police",
+      "schießt": "shoots",
+      "angreifer": "attacker",
+      "in": "in",
+      "berlin": "Berlin",
+      "gibt": "gives",
+      "es": "it",
+      "ein": "a",
+      "großes": "large",
+      "problem": "problem",
+      "mann": "man",
+      "hat": "has",
+      "viele": "many",
+      "leute": "people",
+      "verletzt": "injured",
+      "er": "he",
+      "fährt": "drives",
+      "mit": "with",
+      "einem": "a",
+      "auto": "car",
+      "die": "the",
+      "menschenmenge": "crowd",
+      "sind": "are",
+      "gefahr": "danger",
+      "sucht": "seeks",
+      "den": "the",
+      "der": "the",
+      "messer": "knife",
+      "ist": "is",
+      "tot": "dead",
+      "menschen": "people",
+      "mensch": "person",
+      "gestorben": "died",
+      "das": "that",
+      "war": "was",
+      "schlimmes": "bad",
+      "ereignis": "event",
+      "findet": "finds",
+      "spandau": "Spandau",
+      "spricht": "speaks",
+      "von": "from",
+      "terrorangriff": "terror attack",
+      "haben": "to have",
+      "angst": "fear",
+      "nicht": "not",
+      "gut": "well",
+      "für": "for",
+      "stadt": "city",
+      "wollen": "to want",
+      "sicherheit": "security",
+      "bürgermeister": "mayor",
+      "sagt": "says",
+      "dass": "that",
+      "hart": "hard",
+      "arbeiten": "to work",
+      "muss": "must",
+      "nach": "after",
+      "dem": "the",
+      "angriff": "attack",
+      "kommt": "comes",
+      "zu": "to",
+      "vielen": "many",
+      "gesprächen": "talks",
+      "mehr": "more",
+      "schutz": "protection",
+      "beim": "at the",
+      "feiern": "to celebrate",
+      "bei": "at",
+      "pride": "pride",
+      "erschossen": "shot",
+      "gab": "gave",
+      "einen": "a",
+      "schlimmen": "bad",
+      "während": "during",
+      "pride-parade": "pride parade",
+      "junger": "young",
+      "gemacht": "made",
+      "und": "and",
+      "waren": "were",
+      "panik": "panic",
+      "später": "later",
+      "gehabt": "had",
+      "kam": "came",
+      "schnell": "quickly",
+      "um": "around",
+      "andere": "other",
+      "schützen": "to protect",
+      "jahre": "years",
+      "alt": "old",
+      "hatte": "had",
+      "eine": "a",
+      "verbindung": "connection",
+      "extremistischen": "extremist",
+      "gruppen": "groups",
+      "worden": "been",
+      "sehr": "very",
+      "traurig": "sad",
+      "geschockt": "shocked",
+      "gedenken": "commemoration",
+      "opfern": "victims",
+      "legen": "to lay",
+      "blumen": "flowers",
+      "nieder": "down",
+      "innenminister": "interior minister",
+      "terroristischer": "terrorist",
+      "akt": "act",
+      "sein": "his",
+      "könnte": "could",
+      "weil": "because",
+      "kriminelle": "criminal",
+      "vorgeschichte": "background",
+      "erste": "first",
+      "hilfe": "help",
+      "verletzten": "injured",
+      "wichtig": "important",
+      "so": "so",
+      "sie": "they",
+      "gesund": "healthy",
+      "werden": "will",
+      "können": "can",
+      "solche": "such",
+      "wichtigen": "important",
+      "veranstaltungen": "events",
+      "wird": "will",
+      "jetzt": "now",
+      "besser": "better",
+      "überprüft": "checked",
+      "angriffe": "attacks",
+      "zukunft": "future",
+      "verhindern": "to prevent",
+      "verdächtiger": "suspect",
+      "attackiert": "attacked",
+      "parade": "parade",
+      "schweren": "severe",
+      "vorfall": "incident",
+      "betroffen": "affected",
+      "jähriger": "year-old",
+      "abdul": "Abdul",
+      "ballout": "ballout",
+      "gerammt": "rammed",
+      "wodurch": "to which",
+      "wurden": "were",
+      "mindestens": "at least",
+      "personen": "people",
+      "frau": "woman",
+      "leider": "unfortunately",
+      "an": "at",
+      "ihren": "their",
+      "verletzungen": "injuries",
+      "nachdem": "after",
+      "auf": "to",
+      "zugerannt": "rushed",
+      "beamten": "officials",
+      "ihn": "him",
+      "hintergrund": "background",
+      "kreisen": "circles",
+      "zuvor": "previously",
+      "versucht": "attempted",
+      "islamischen": "Islamic",
+      "staat": "state",
+      "beizutreten": "to join",
+      "was": "what",
+      "seine": "his",
+      "gefährlichkeit": "danger",
+      "zeigt": "shows",
+      "erschüttert": "shaken",
+      "ihre": "their",
+      "trauer": "mourning",
+      "zum": "to the",
+      "ausdruck": "expression",
+      "gebracht": "brought",
+      "alexander": "Alexander",
+      "dobrindt": "Dobrindt",
+      "meinte": "meant",
+      "möglicherweise": "possibly",
+      "gewesen": "been",
+      "deutschlands": "Germany's",
+      "sicherheitslage": "security situation",
+      "verändert": "changes",
+      "beschlossen": "decided",
+      "zukünftige": "future",
+      "erhöhen": "to increase",
+      "ähnliche": "similar",
+      "vorfälle": "incidents",
+      "christopher": "Christopher",
+      "street": "street",
+      "day": "day",
+      "gekommen": "come",
+      "fühlten": "felt",
+      "sich": "oneself",
+      "sicher": "safe",
+      "einer": "one",
+      "gedenkveranstaltung": "memorial event",
+      "am": "at the",
+      "brandenburger": "Brandenburg",
+      "tor": "goal",
+      "teilnehmer": "participants",
+      "kerzen": "candles",
+      "angezündet": "lit",
+      "opfer": "victim",
+      "gebetet": "prayed",
+      "veranstaltung": "event",
+      "normalerweise": "normally",
+      "voller": "full",
+      "freude": "joy",
+      "feierlichkeit": "ceremony",
+      "wurde": "was",
+      "durch": "through",
+      "diesen": "these",
+      "stark": "strong",
+      "getrübt": "troubled",
+      "nur": "only",
+      "lgbt-community": "LGBT community",
+      "sondern": "but",
+      "alle": "everyone",
+      "freiheit": "freedom",
+      "vielfalt": "diversity",
+      "kämpfen": "to fight",
+      "wenn": "if",
+      "gesellschaft": "society",
+      "frieden": "peace",
+      "leben": "life",
+      "möchte": "would like",
+      "müssen": "must",
+      "wir": "we",
+      "extremismus": "extremism",
+      "gewalt": "violence",
+      "gemeinsam": "together",
+      "bekämpfen": "to combat",
+      "dürfen": "may",
+      "uns": "us",
+      "solchen": "such",
+      "taten": "acts",
+      "unterkriegen": "defeat",
+      "lassen": "to let",
+      "des": "of the",
+      "pride-angriffs": "pride attack",
+      "verdächtigt": "suspected",
+      "islamistischen": "Islamist",
+      "begangen": "committed",
+      "jährige": "year-old",
+      "deutscher": "german",
+      "staatsbürger": "citizen",
+      "libanesischer": "Lebanese",
+      "herkunft": "origin",
+      "als": "than",
+      "diese": "this",
+      "waffen": "weapons",
+      "zogen": "pulled",
+      "damit": "so that",
+      "endete": "ended",
+      "großangelegte": "large-scale",
+      "fahndung": "manhunt",
+      "begann": "began",
+      "weißer": "white",
+      "transporter": "van",
+      "nähe": "proximity",
+      "tiergartens": "Tiergarten",
+      "raste": "raged",
+      "dies": "this",
+      "geschah": "happened",
+      "kurz": "short",
+      "vor": "before",
+      "uhr": "clock",
+      "samstagabend": "saturday evening",
+      "führte": "led",
+      "tod": "death",
+      "sowie": "as well as",
+      "weiteren": "further",
+      "hätten": "would have",
+      "mehrere": "several",
+      "messerangriff": "knife attack",
+      "erlitten": "suffered",
+      "deutsche": "German",
+      "erklärte": "explained",
+      "hinweise": "clues",
+      "hindeuteten": "suggested",
+      "betonte": "stressed",
+      "schon": "already",
+      "vorher": "before",
+      "zahlreiche": "numerous",
+      "straftaten": "crimes",
+      "radikalisierung": "radicalization",
+      "aufgefallen": "noticed",
+      "sei": "is",
+      "im": "in the",
+      "jahr": "year",
+      "reiste": "traveled",
+      "über": "about",
+      "türkei": "Turkey",
+      "libanon": "Lebanon",
+      "syrien": "Syria",
+      "anzuschließen": "to connect",
+      "verhaftet": "arrested",
+      "drei": "three",
+      "monate": "months",
+      "inhaftiert": "incarcerated",
+      "deutschland": "Germany",
+      "letztendlich": "ultimately",
+      "zehn": "ten",
+      "monaten": "months",
+      "verurteilt": "convicted",
+      "sicherheitsmaßnahmen": "security measures",
+      "große": "large",
+      "nun": "now",
+      "erhöht": "increased",
+      "terrorangriffs": "terror attack's",
+      "tatverdächtige": "suspect",
+      "mutmaßlichen": "alleged",
+      "pride-parades": "pride parades",
+      "lebte": "lived",
+      "vergangenheit": "past",
+      "vielzahl": "variety",
+      "kriminellen": "criminals",
+      "handlungen": "actions",
+      "einschließlich": "including",
+      "radikalisierungsansätzen": "radicalization approaches",
+      "aufmerksam": "attentive",
+      "ereignete": "occurred",
+      "zustürmte": "stormed",
+      "massiven": "massive",
+      "polizei-einsatz": "police operation",
+      "lieferwagen": "delivery van",
+      "nahe": "near",
+      "tiergarten": "Tiergarten",
+      "gelenkt": "directed",
+      "wobei": "whereby",
+      "starb": "died",
+      "weitere": "further",
+      "äußerte": "expressed",
+      "gegenüber": "towards",
+      "journalisten": "journalists",
+      "zusammenhang": "context",
+      "strömungen": "currents",
+      "stehe": "stand",
+      "ballouts": "ballouts",
+      "geschichte": "history",
+      "gekennzeichnet": "marked",
+      "versuch": "attempt",
+      "verhaftung": "arrest",
+      "haftstrafe": "imprisonment",
+      "dramatisch": "dramatic",
+      "behörden": "authorities",
+      "angewiesen": "instructed",
+      "großveranstaltungen": "large events",
+      "überprüfen": "to check",
+      "kündigte": "announced",
+      "bedrohungslage": "threat situation",
+      "angehoben": "raised",
+      "werde": "will",
+      "würde": "would",
+      "betreffen": "to affect",
+      "auch": "also",
+      "bundesländer": "federal states",
+      "besorgt": "worried",
+      "verdächtigen": "to suspect",
+      "islamistischem": "Islamist",
+      "kontext": "context",
+      "eines": "one",
+      "vermuteten": "suspected",
+      "berliner": "Berlin",
+      "identifizierte": "identified",
+      "szene": "scene",
+      "bewaffnet": "armed",
+      "einsatzkräfte": "emergency forces",
+      "tödlichem": "deadly",
+      "schusswaffeneinsatz": "gunfire",
+      "zwang": "force",
+      "fand": "found",
+      "seinen": "his",
+      "ursprung": "origin",
+      "grausamen": "cruel",
+      "forderte": "demanded",
+      "zusätzlich": "additional",
+      "besorgnis": "concern",
+      "verlauf": "course",
+      "ereignisse": "events",
+      "schloss": "castle",
+      "aus": "from",
+      "verdächtige": "suspect",
+      "radikalen": "radical",
+      "ideen": "ideas",
+      "auseinandergesetzt": "dealt with",
+      "größeren": "larger",
+      "terroristischen": "terrorist",
+      "plan": "plan",
+      "verwickelt": "involved",
+      "verfolgt": "pursued",
+      "spuren": "traces",
+      "seines": "his",
+      "aufenthalts": "stay",
+      "wo": "where",
+      "mutmaßlich": "allegedly",
+      "mitgliedern": "members",
+      "staates": "state",
+      "kontakt": "contact",
+      "trat": "stepped",
+      "intensiv": "intensive",
+      "handeln": "to act",
+      "aufgerufen": "called",
+      "verschärfung": "intensification",
+      "diesem": "this",
+      "anschlag": "attack",
+      "erholt": "recovered",
+      "bündeln": "to bundle",
+      "stimmen": "votes",
+      "solidarität": "solidarity",
+      "gegen": "against",
+      "bestehende": "existing",
+      "versäumnisse": "omissions",
+      "regierung": "government",
+      "unterstützungsstruktur": "support structure",
+      "queere": "queer",
+      "organisationen": "organizations",
+      "thematisiert": "thematizes",
+      "berlins": "Berlin's",
+      "reaktion": "reaction",
+      "dringlichkeit": "urgency",
+      "sicherheitsfragen": "security issues",
+      "moralische": "moral",
+      "verantwortung": "responsibility",
+      "feind": "enemy",
+      "gesellschaftlichen": "social",
+      "zusammenhalts": "cohesion",
+      "entschieden": "decided",
+      "entgegenzutreten": "to counter"
+    },
+    "fr": {
+      "un": "a",
+      "homme": "man",
+      "est": "is",
+      "tué": "killed",
+      "berlin": "Berlin",
+      "suspecté": "suspected",
+      "une": "a",
+      "attaque": "attack",
+      "il": "he",
+      "couteau": "knife",
+      "la": "the",
+      "police": "police",
+      "tire": "shot",
+      "sur": "about",
+      "lui": "him",
+      "se": "yourself",
+      "passe": "passes",
+      "près": "near",
+      "parc": "park",
+      "camion": "truck",
+      "conduit": "led",
+      "dans": "in",
+      "foule": "crowd",
+      "de": "of",
+      "personnes": "people",
+      "femme": "woman",
+      "morte": "dead",
+      "vingt-neuf": "twenty-nine",
+      "sont": "are",
+      "blessées": "injured",
+      "très": "very",
+      "triste": "sad",
+      "les": "the",
+      "gens": "people",
+      "en": "in",
+      "colère": "anger",
+      "ils": "they",
+      "veulent": "want",
+      "justice": "justice",
+      "pour": "for",
+      "victimes": "victims",
+      "ministre": "minister",
+      "parle": "speaks",
+      "aux": "to the",
+      "journalistes": "journalists",
+      "dit": "says",
+      "que": "that",
+      "acte": "act",
+      "terroriste": "terrorist",
+      "rassemblent": "gather",
+      "devant": "in front",
+      "porte": "door",
+      "brandebourg": "Brandenburg",
+      "allument": "to light",
+      "des": "some",
+      "bougies": "candles",
+      "trouble": "trouble",
+      "fête": "party",
+      "fierté": "pride",
+      "cela": "that",
+      "fait": "makes",
+      "peur": "fear",
+      "beaucoup": "a lot",
+      "être": "to be",
+      "responsable": "responsible",
+      "appelle": "calls",
+      "abdul": "Abdul",
+      "ballout": "Ballout",
+      "ans": "years",
+      "et": "and",
+      "citoyen": "citizen",
+      "allemand": "German",
+      "origine": "origin",
+      "libanaise": "Lebanese",
+      "policiers": "police",
+      "le": "the",
+      "quartier": "neighborhood",
+      "spandau": "Spandau",
+      "tirent": "pulled",
+      "avant": "before",
+      "frappé": "hit",
+      "tiergarten": "Tiergarten",
+      "au": "at the",
+      "moins": "less",
+      "autres": "others",
+      "intérieur": "interior",
+      "alexander": "alexander",
+      "dobrindt": "Dobrindt",
+      "explique": "explains",
+      "passé": "past",
+      "criminel": "criminal",
+      "connexions": "connections",
+      "avec": "with",
+      "groupe": "group",
+      "dangereux": "dangerous",
+      "ce": "this",
+      "lié": "linked",
+      "extrémisme": "extremism",
+      "islamiste": "Islamist",
+      "après": "after",
+      "pleurer": "to cry",
+      "ne": "not",
+      "reproduise": "reproduce",
+      "pas": "not",
+      "choquées": "shocked",
+      "parce": "because",
+      "agit": "acts",
+      "célébration": "celebration",
+      "espèrent": "hope",
+      "communauté": "community",
+      "lgbt": "LGBT",
+      "rassemblera": "will gather",
+      "nouveau": "new",
+      "malgré": "despite",
+      "voix": "voice",
+      "disent": "say",
+      "notre": "our",
+      "société": "society",
+      "doit": "must",
+      "rester": "to stay",
+      "unie": "united",
+      "contre": "against",
+      "pride": "pride",
+      "meurtre": "murder",
+      "du": "of the",
+      "suspect": "suspect",
+      "connu": "known",
+      "comme": "like",
+      "été": "been",
+      "par": "by",
+      "avoir": "to have",
+      "mené": "led",
+      "lors": "when",
+      "moment": "moment",
+      "joyeux": "joyful",
+      "interrompu": "interrupted",
+      "lorsque": "when",
+      "attaqué": "attacked",
+      "agents": "agents",
+      "ont": "have",
+      "réagi": "reacted",
+      "rapidement": "quickly",
+      "tiré": "shot",
+      "qui": "who",
+      "sa": "its",
+      "mort": "death",
+      "également": "also",
+      "causant": "causing",
+      "blessant": "hurtful",
+      "autorités": "authorities",
+      "déclaré": "stated",
+      "agissait": "acted",
+      "probablement": "probably",
+      "choqué": "shocked",
+      "avait": "had",
+      "groupes": "groups",
+      "islamistes": "Islamists",
+      "signalés": "reported",
+      "attaques": "attacks",
+      "nombreuses": "numerous",
+      "rassemblées": "gathered",
+      "honorer": "honor",
+      "elles": "they",
+      "exprimé": "expressed",
+      "leur": "their",
+      "tristesse": "sadness",
+      "appelé": "called",
+      "meilleure": "better",
+      "sécurité": "security",
+      "si": "if",
+      "promis": "promised",
+      "augmenter": "to increase",
+      "mesures": "measures",
+      "nombreux": "many",
+      "participants": "participants",
+      "craignent": "fear",
+      "ces": "these",
+      "événements": "events",
+      "soient": "are",
+      "plus": "more",
+      "jamais": "never",
+      "mêmes": "same",
+      "chancelier": "chancellor",
+      "visité": "visited",
+      "site": "site",
+      "défendre": "to defend",
+      "liberté": "freedom",
+      "ouverture": "opening",
+      "montre": "shows",
+      "importance": "importance",
+      "unir": "to unite",
+      "communautés": "communities",
+      "haine": "hate",
+      "terrorisme": "terrorism",
+      "ainsi": "thus",
+      "espoir": "hope",
+      "continue": "continues",
+      "vivre": "to live",
+      "persiste": "persists",
+      "abattu": "shot",
+      "opération": "operation",
+      "policière": "policewoman",
+      "qualifié": "qualified",
+      "effet": "effect",
+      "ouvert": "open",
+      "feu": "fire",
+      "précipité": "hurried",
+      "vers": "towards",
+      "eux": "them",
+      "ouest": "west",
+      "cet": "this",
+      "incident": "incident",
+      "mis": "put",
+      "fin": "end",
+      "vaste": "vast",
+      "chasse": "hunt",
+      "lancée": "launched",
+      "camionnette": "van",
+      "blanche": "white",
+      "ait": "has",
+      "foncé": "dark",
+      "samedi": "Saturday",
+      "soir": "evening",
+      "tuant": "killing",
+      "selon": "according",
+      "véhicule": "vehicle",
+      "plusieurs": "several",
+      "subi": "suffered",
+      "blessures": "injuries",
+      "arme": "weapon",
+      "conférence": "conference",
+      "presse": "press",
+      "souligné": "highlighted",
+      "preuves": "evidence",
+      "indiquaient": "indicated",
+      "nous": "we",
+      "avons": "we have",
+      "affaire": "case",
+      "auteur": "author",
+      "présumé": "presumed",
+      "déjà": "already",
+      "attiré": "attracted",
+      "attention": "attention",
+      "grand": "big",
+      "nombre": "number",
+      "délits": "offenses",
+      "radicalisation": "radicalization",
+      "son": "his",
+      "affiliation": "affiliation",
+      "scène": "scene",
+      "déclaration": "declaration",
+      "bureau": "office",
+      "procureur": "prosecutor",
+      "révélé": "revealed",
+      "intention": "intention",
+      "rejoindre": "to join",
+      "état": "state",
+      "islamique": "Islamic",
+      "ei": "EI",
+      "syrie": "Syria",
+      "arrêté": "stopped",
+      "liban": "Lebanon",
+      "condamné": "condemned",
+      "incitation": "incitement",
+      "rentré": "returned",
+      "allemagne": "germany",
+      "novembre": "November",
+      "mai": "may",
+      "mois": "months",
+      "prison": "prison",
+      "suite": "following",
+      "niveau": "level",
+      "menace": "threat",
+      "augmenté": "increased",
+      "conseils": "advice",
+      "donnés": "given",
+      "états": "states",
+      "vue": "view",
+      "grands": "big",
+      "individu": "individual",
+      "soupçonné": "suspected",
+      "perpétré": "perpetrated",
+      "considèrent": "consider",
+      "âgé": "aged",
+      "chargé": "loaded",
+      "marqué": "marked",
+      "intensifiée": "intensified",
+      "tragique": "tragic",
+      "où": "where",
+      "percuté": "hit",
+      "forces": "forces",
+      "ordre": "order",
+      "événement": "event",
+      "éléments": "elements",
+      "recueillis": "collected",
+      "clairement": "clearly",
+      "était": "was",
+      "motivé": "motivated",
+      "idéologie": "ideology",
+      "faisons": "let's do",
+      "face": "face",
+      "potentiel": "potential",
+      "reconnu": "recognized",
+      "coupable": "guilty",
+      "a-t-il": "did he",
+      "affirmé": "stated",
+      "déposition": "testimony",
+      "tenté": "tempted",
+      "annoncé": "announced",
+      "serait": "would be",
+      "ajusté": "adjusted",
+      "conséquence": "consequence",
+      "conseillant": "advising",
+      "examiner": "to examine",
+      "leurs": "their",
+      "prévision": "forecast",
+      "majeurs": "major",
+      "développement": "development",
+      "situation": "situation",
+      "alarmante": "alarming",
+      "qualifient": "qualify",
+      "perpétrée": "perpetrated",
+      "jeune": "young",
+      "armé": "armed",
+      "déclenchant": "triggering",
+      "réponse": "response",
+      "fatale": "fatal",
+      "part": "part",
+      "inscrit": "inscribed",
+      "cadre": "framework",
+      "ardente": "ardent",
+      "intervient": "intervenes",
+      "proximité": "proximity",
+      "trentaine": "thirty",
+      "dont": "whose",
+      "étayé": "supported",
+      "dossier": "file",
+      "tendent": "tend",
+      "indiquer": "to indicate",
+      "lien": "link",
+      "seulement": "only",
+      "parler": "to speak",
+      "cause": "cause",
+      "actes": "acts",
+      "criminels": "criminals",
+      "mais": "but",
+      "aussi": "also",
+      "détails": "details",
+      "croustillants": "crispy",
+      "révèlent": "reveal",
+      "parcours": "route",
+      "complexe": "complex",
+      "projet": "project",
+      "avorté": "aborted",
+      "impact": "impact",
+      "cette": "this",
+      "va": "goes",
+      "au-delà": "beyond",
+      "tragédie": "tragedy",
+      "immédiate": "immediate",
+      "nécessitant": "requiring",
+      "réexamen": "review",
+      "approfondi": "thorough",
+      "échelle": "scale",
+      "nationale": "national",
+      "semble": "seems",
+      "désormais": "now",
+      "contraint": "constrained",
+      "fortifier": "to strengthen",
+      "vigilance": "vigilance",
+      "fluctuante": "fluctuating",
+      "omniprésente": "ubiquitous",
+      "tout": "all",
+      "reflétant": "reflecting",
+      "réalité": "reality",
+      "inquiétante": "worrying",
+      "touche": "affects",
+      "sociétés": "societies",
+      "démocratiques": "democratic",
+      "contemporaines": "contemporary"
+    },
+    "es": {
+      "sospechoso": "suspicious",
+      "de": "of",
+      "ataque": "attack",
+      "en": "in",
+      "berlín": "Berlin",
+      "un": "a",
+      "hombre": "man",
+      "está": "is",
+      "muerto": "dead",
+      "la": "the",
+      "policía": "police",
+      "dispara": "disappears",
+      "el": "the",
+      "se": "oneself",
+      "llama": "call",
+      "abdul": "Abdul",
+      "él": "he",
+      "tiene": "has",
+      "años": "years",
+      "es": "is",
+      "ciudadano": "citizen",
+      "alemán": "German",
+      "origen": "origin",
+      "libanés": "Lebanese",
+      "lleva": "carries",
+      "cuchillo": "knife",
+      "spandau": "Spandau",
+      "barrio": "neighborhood",
+      "hay": "there is",
+      "pride": "pride",
+      "una": "a",
+      "mujer": "woman",
+      "muere": "dies",
+      "veintinueve": "twenty-nine",
+      "personas": "people",
+      "están": "are",
+      "heridas": "wounded",
+      "busca": "seeks",
+      "al": "to the",
+      "encuentra": "finds",
+      "evento": "event",
+      "grande": "large",
+      "gente": "people",
+      "triste": "sad",
+      "asustada": "scared",
+      "este": "this",
+      "afecta": "affects",
+      "todos": "all",
+      "las": "the",
+      "hacen": "do",
+      "vigilia": "vigil",
+      "puerta": "door",
+      "brandeburgo": "Brandenburg",
+      "ellos": "they",
+      "recuerdan": "remember",
+      "víctimas": "victims",
+      "quieren": "they want",
+      "paz": "peace",
+      "comunidad": "community",
+      "lgbt": "lgbt",
+      "muy": "very",
+      "unida": "united",
+      "ahora": "now",
+      "cambiar": "to change",
+      "situación": "situation",
+      "para": "to",
+      "mejor": "better",
+      "ha": "has",
+      "matado": "killed",
+      "ballout": "ballout",
+      "llega": "arrives",
+      "con": "with",
+      "justo": "fair",
+      "antes": "before",
+      "hubo": "there was",
+      "menos": "less",
+      "ocurrió": "occurred",
+      "durante": "during",
+      "celebración": "celebration",
+      "del": "of the",
+      "día": "day",
+      "orgullo": "pride",
+      "importante": "important",
+      "historia": "story",
+      "criminal": "criminal",
+      "pasado": "past",
+      "intenta": "attempts",
+      "unirse": "to join",
+      "grupo": "group",
+      "terrorista": "terrorist",
+      "isis": "ISIS",
+      "pero": "but",
+      "no": "not",
+      "éxito": "success",
+      "después": "after",
+      "ministro": "minister",
+      "interior": "interior",
+      "dice": "says",
+      "que": "that",
+      "acto": "act",
+      "terrorismo": "terrorism",
+      "esta": "this",
+      "violencia": "violence",
+      "muchos": "many",
+      "asistentes": "attendees",
+      "tristes": "sad",
+      "preocupados": "concerned",
+      "por": "for",
+      "su": "his",
+      "seguridad": "security",
+      "autoridades": "authorities",
+      "deciden": "decide",
+      "aumentar": "to increase",
+      "vigilancia": "surveillance",
+      "eventos": "events",
+      "futuros": "futures",
+      "muchas": "many",
+      "vienen": "they come",
+      "recordar": "to remember",
+      "cerca": "near",
+      "abatido": "dejected",
+      "sábado": "Saturday",
+      "uno": "one",
+      "los": "the",
+      "festivales": "festivals",
+      "más": "more",
+      "importantes": "important",
+      "europa": "europe",
+      "vivido": "lived",
+      "alemania": "Germany",
+      "fue": "was",
+      "disparó": "shot",
+      "contra": "against",
+      "murió": "died",
+      "operación": "operation",
+      "grave": "serious",
+      "causó": "caused",
+      "muerte": "death",
+      "así": "thus",
+      "como": "like",
+      "sido": "been",
+      "descrito": "described",
+      "islamista": "Islamist",
+      "lo": "it",
+      "aumentado": "increased",
+      "preocupaciones": "worries",
+      "sobre": "about",
+      "pública": "public",
+      "también": "also",
+      "inquietante": "disturbing",
+      "intentó": "tried",
+      "conocido": "known",
+      "extremismo": "extremism",
+      "arrestado": "arrested",
+      "líbano": "Lebanon",
+      "incitar": "to incite",
+      "religiosa": "religious",
+      "regresó": "returned",
+      "donde": "where",
+      "detenido": "arrested",
+      "nuevamente": "again",
+      "llegar": "to arrive",
+      "recibió": "received",
+      "condena": "sentence",
+      "casi": "almost",
+      "dos": "two",
+      "prisión": "prison",
+      "preparar": "to prepare",
+      "violento": "violent",
+      "mayo": "May",
+      "año": "year",
+      "tras": "after",
+      "ser": "to be",
+      "liberado": "freed",
+      "estuvo": "was",
+      "bajo": "under",
+      "supervisión": "supervision",
+      "recientes": "recent",
+      "han": "they have",
+      "dejado": "left",
+      "estado": "state",
+      "shock": "shock",
+      "regresado": "returned",
+      "icónico": "iconic",
+      "manifestar": "to manifest",
+      "rechazo": "rejection",
+      "pidieron": "asked",
+      "apoyo": "support",
+      "gobierno": "government",
+      "resaltaron": "highlighted",
+      "importancia": "importance",
+      "unidad": "unity",
+      "frente": "front",
+      "miedo": "fear",
+      "declarando": "declaring",
+      "dejarán": "will leave",
+      "afecte": "affect",
+      "sus": "their",
+      "celebraciones": "celebrations",
+      "derechos": "rights",
+      "policial": "police",
+      "llevar": "to carry",
+      "cabo": "cape",
+      "consideran": "consider",
+      "agentes": "agents",
+      "abrieron": "opened",
+      "fuego": "fire",
+      "cuando": "when",
+      "ascendencia": "ancestry",
+      "libanesa": "Lebanese",
+      "lanzó": "he launched",
+      "hacia": "toward",
+      "empuñando": "gripping",
+      "distrito": "district",
+      "oeste": "west",
+      "esto": "this",
+      "puso": "put",
+      "fin": "end",
+      "intensa": "intense",
+      "caza": "hunt",
+      "había": "had",
+      "iniciado": "initiated",
+      "furgoneta": "van",
+      "blanca": "white",
+      "arrollara": "would run over",
+      "multitud": "crowd",
+      "parque": "park",
+      "tiergarten": "Tiergarten",
+      "poco": "little",
+      "hora": "hour",
+      "local": "local",
+      "dejó": "left",
+      "fallecida": "deceased",
+      "arrollamiento": "runover",
+      "algunos": "some",
+      "heridos": "injured",
+      "fueron": "they were",
+      "atacados": "attacked",
+      "alexander": "Alexander",
+      "dobrindt": "Dobrindt",
+      "comentó": "he/she/they commented",
+      "periodistas": "journalists",
+      "indicios": "indications",
+      "apuntan": "point",
+      "dijo": "said",
+      "previamente": "previously",
+      "señalado": "signaled",
+      "gran": "great",
+      "cantidad": "amount",
+      "delitos": "crimes",
+      "radicalización": "radicalization",
+      "además": "furthermore",
+      "revelaron": "revealed",
+      "detalles": "details",
+      "historial": "history",
+      "destacando": "highlighting",
+      "viajado": "traveled",
+      "intentado": "attempted",
+      "islámico": "islamic",
+      "regreso": "return",
+      "condenado": "convicted",
+      "varias": "several",
+      "ocasiones": "occasions",
+      "robo": "robbery",
+      "anunció": "announced",
+      "elevaría": "would elevate",
+      "nivel": "level",
+      "amenaza": "threat",
+      "dramático": "dramatic",
+      "desenlace": "outcome",
+      "individuo": "individual",
+      "acusado": "accused",
+      "perpetrar": "to perpetrate",
+      "definen": "define",
+      "fuerzas": "forces",
+      "policiales": "police",
+      "joven": "young",
+      "confrontó": "confronted",
+      "violentamente": "violently",
+      "armados": "armed",
+      "llevó": "took",
+      "respuesta": "response",
+      "letal": "lethal",
+      "parte": "part",
+      "suceso": "event",
+      "concluyó": "concluded",
+      "búsqueda": "search",
+      "masiva": "massive",
+      "comenzado": "started",
+      "vehículo": "vehicle",
+      "embistió": "charged",
+      "proximidades": "proximities",
+      "resultando": "resulting",
+      "hiriendo": "injuring",
+      "declaración": "statement",
+      "medios": "media",
+      "indico": "indicated",
+      "todo": "everything",
+      "apunta": "points",
+      "trata": "deals",
+      "señalando": "pointing",
+      "delictivo": "criminal",
+      "quien": "who",
+      "según": "according",
+      "informó": "he reported",
+      "retorno": "return",
+      "múltiples": "multiple",
+      "violentos": "violent",
+      "mencionó": "mentioned",
+      "revisarán": "will review",
+      "medidas": "measures",
+      "nacional": "national",
+      "dado": "given",
+      "reciente": "recent",
+      "aumento": "increase",
+      "amenazas": "threats",
+      "alterado": "altered",
+      "profundamente": "deeply",
+      "conmemora": "commemorates",
+      "resistencia": "resistance",
+      "enfatizando": "emphasizing",
+      "necesidad": "necessity",
+      "urgente": "urgent",
+      "abordar": "to address",
+      "todas": "all",
+      "formas": "shapes",
+      "trágico": "tragic",
+      "giro": "turn",
+      "jornada": "day",
+      "debía": "should",
+      "valores": "values",
+      "tornó": "turned",
+      "tragedia": "tragedy",
+      "orden": "order",
+      "enfrentamiento": "confrontation",
+      "extensa": "extensive",
+      "cacería": "hunting",
+      "humana": "human",
+      "incidente": "incident",
+      "muerta": "dead",
+      "docenas": "dozens",
+      "bullicioso": "noisy",
+      "representa": "represents",
+      "camión": "truck",
+      "embistiera": "would charge",
+      "continuara": "would continue",
+      "apuñalamiento": "stabbing",
+      "atacadas": "attacked",
+      "declaraciones": "statements",
+      "realizadas": "carried out",
+      "enfatizó": "emphasized",
+      "actitud": "attitude",
+      "atraído": "attracted",
+      "atención": "attention",
+      "servicios": "services",
+      "debido": "due",
+      "incluye": "includes",
+      "intentos": "attempts",
+      "varios": "several",
+      "graves": "serious",
+      "vaciló": "hesitated",
+      "señalar": "to point out",
+      "intensificará": "will intensify",
+      "realizarán": "will carry out",
+      "ajustes": "adjustments",
+      "advirtiendo": "warning",
+      "imperativo": "imperative",
+      "proteger": "to protect",
+      "nuestra": "our",
+      "sociedad": "society",
+      "veneno": "poison",
+      "eclipsó": "eclipsed",
+      "festividad": "festivity",
+      "reflexionar": "to reflect",
+      "fragilidad": "fragility",
+      "libertad": "freedom",
+      "mientras": "while",
+      "miembros": "members",
+      "expresaron": "expressed",
+      "indignación": "outrage",
+      "exigieron": "demanded",
+      "mayor": "greater",
+      "protección": "protection",
+      "sin": "without",
+      "embargo": "however",
+      "crisis": "crisis",
+      "debatirá": "will debate",
+      "otras": "other",
+      "plataformas": "platforms",
+      "dada": "given",
+      "apremiante": "urgent",
+      "toda": "whole",
+      "dimensión": "dimension"
+    }
+  }
+}
