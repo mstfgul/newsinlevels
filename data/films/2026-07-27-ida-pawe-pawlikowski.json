@@ -1,0 +1,2541 @@
+{
+  "id": "2026-07-27-ida-pawe-pawlikowski",
+  "date": "2026-07-27",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/209274"
+  },
+  "originalTitle": "Ida (2013) — Paweł Pawlikowski",
+  "image": "https://image.tmdb.org/t/p/w780/oFrwnliM6TtAyWo6nIP8YpJbIvi.jpg",
+  "category": "film",
+  "film": {
+    "director": "Paweł Pawlikowski",
+    "title": "Ida",
+    "year": "2013",
+    "genres": "Drama"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Ida",
+        "text": "Ida is a film. It is from Poland. It is about a young woman. She is a nun. She wants to take her vows. One day, she finds something. It is a dark secret. The secret is from her family. Now, she must learn more. She meets her aunt. They go on a trip. They travel in Poland. They look for answers. The film is beautiful and sad. It shows many feelings. The film is about love and loss. It is a great film to watch.",
+        "vocabulary": [
+          {
+            "word": "secret",
+            "definition": "something hidden or not known"
+          },
+          {
+            "word": "trip",
+            "definition": "a journey to another place"
+          },
+          {
+            "word": "aunt",
+            "definition": "the sister of your mother or father"
+          },
+          {
+            "word": "nun",
+            "definition": "a woman who is a member of a religion"
+          },
+          {
+            "word": "family",
+            "definition": "a group of people related to you"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Ida want to do?",
+            "options": [
+              "Take her vows",
+              "Go home",
+              "Find treasure"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who does Ida meet?",
+            "options": [
+              "Her aunt",
+              "Her brother",
+              "Her friend"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Where do they go?",
+            "options": [
+              "To Poland",
+              "To Germany",
+              "To America"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ida",
+        "text": "Ida is a 2013 film from Poland. The director is Paweł Pawlikowski. The film shows the life of a young woman named Anna. She lives in Poland during the 1960s. Anna is a Catholic nun. She is ready to take her vows. Then, she learns a family secret. This secret is about her parents. They were Jewish during World War II. Anna meets her aunt, who is her only family. They go on a road trip together. They travel in the Polish countryside. The film is very beautiful. It has a sad and deep mood. The story talks about love, loss, and truth. Many critics call it a masterpiece. This film won an Oscar for Best Foreign Language Film.",
+        "vocabulary": [
+          {
+            "word": "masterpiece",
+            "definition": "a very great work of art"
+          },
+          {
+            "word": "countryside",
+            "definition": "the land outside of cities"
+          },
+          {
+            "word": "truth",
+            "definition": "what is true or real"
+          },
+          {
+            "word": "parents",
+            "definition": "your mother and father"
+          },
+          {
+            "word": "vows",
+            "definition": "promises made in a religious way"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is Anna ready to take?",
+            "options": [
+              "Her vows",
+              "A trip",
+              "A test"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is Anna's only family?",
+            "options": [
+              "Her aunt",
+              "Her friend",
+              "Her sister"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What award did Ida win?",
+            "options": [
+              "An Oscar",
+              "A Grammy",
+              "A Golden Globe"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ida",
+        "text": "Ida is a profound drama film directed by Paweł Pawlikowski in 2013. Set in 1960s Poland, the story follows a young woman named Anna. She is a novitiate nun who is preparing to take her vows. However, just before this significant moment, she discovers a family secret that forever changes her life. Anna learns that her parents were Jewish during World War II. This revelation leads her to meet her aunt, the only living relative she has. The aunt, a former Communist state prosecutor, shares stories that reveal their family's tragic history. Together, they embark on a journey through the Polish countryside, where they seek to uncover the truth about their relatives' fates. The film is noted for its stunning visuals and emotional depth. The director captures the mood with beautiful black-and-white cinematography, which adds to the film's melancholy atmosphere. Critics have praised Ida for its exploration of complex themes like love, loss, and identity. It highlights the struggles of a country that has experienced trauma. After its release, Ida received various awards, including the Academy Award for Best Foreign Language Film, making it the first Polish film to achieve this honor. Ida is significant in modern cinema, as it evokes strong feelings and represents a complicated chapter in Polish history. Because of its thoughtful storytelling and unique style, it continues to resonate with audiences around the world.",
+        "vocabulary": [
+          {
+            "word": "novitiate",
+            "definition": "a person who is new to a particular job or activity, especially in religion."
+          },
+          {
+            "word": "vows",
+            "definition": "serious promises, often made in a religious context."
+          },
+          {
+            "word": "revelation",
+            "definition": "a surprising and previously unknown fact that has come to light."
+          },
+          {
+            "word": "melancholy",
+            "definition": "a deep, lasting sadness."
+          },
+          {
+            "word": "trauma",
+            "definition": "a deeply distressing or disturbing experience."
+          },
+          {
+            "word": "cinematography",
+            "definition": "the art of making motion pictures, especially regarding the arrangement of visual elements."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Anna discover about her parents?",
+            "options": [
+              "They were Jewish during World War II",
+              "They were Catholic",
+              "They were from a different country"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What type of film is Ida described as?",
+            "options": [
+              "A comedy film",
+              "A musical film",
+              "A drama film"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Why did Ida receive significant recognition?",
+            "options": [
+              "It had the most actors",
+              "It won the Academy Award for Best Foreign Language Film",
+              "It was the longest film of the year"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Unveiling the Past in Ida",
+        "text": "Ida, directed by Paweł Pawlikowski in 2013, captures a poignant moment in 1960s Poland. The film revolves around a young woman named Anna, who is a novice nun nearing her final vows. However, as she prepares for this life-changing commitment, she uncovers a family secret that challenges her understanding of identity and belonging. This revelation compels her to embark on a road trip with her estranged aunt, a former Communist prosecutor, who offers a link to Anna's hidden heritage. The journey they undertake through the Polish countryside evokes deep themes of guilt and loss. Although the film does not overtly reference historical events like the Holocaust or the aftermath of World War II, these shadowy spectres linger in the background, contributing to the film's overwhelming atmosphere. Critically acclaimed, Ida has been described as an \"eerily beautiful road movie\" and a \"compact masterpiece\" that resonates with haunting imagery. Furthermore, it won the Academy Award for Best Foreign Language Film, marking a significant achievement for Polish cinema. Its exploration of personal and collective memory makes it a must-watch for those intrigued by the complexities of history and human nature.",
+        "vocabulary": [
+          {
+            "word": "journey",
+            "definition": "a trip from one place to another."
+          },
+          {
+            "word": "heritage",
+            "definition": "something passed down from previous generations."
+          },
+          {
+            "word": "poignant",
+            "definition": "evoking a strong feeling of sadness or regret."
+          },
+          {
+            "word": "identity",
+            "definition": "who someone is; their personality."
+          },
+          {
+            "word": "revelation",
+            "definition": "a surprising and previously unknown fact."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the main character in the film?",
+            "options": [
+              "A nun named Anna",
+              "An aunt",
+              "A filmmaker"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Anna discover?",
+            "options": [
+              "She is a famous actress",
+              "A family secret",
+              "A lost treasure"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What kind of trip do Anna and her aunt take?",
+            "options": [
+              "A journey through the city",
+              "A road trip in the countryside",
+              "A trip abroad"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Depths of Ida",
+        "text": "In his 2013 film, Ida, director Paweł Pawlikowski masterfully intertwines themes of identity, memory, and the haunting legacies of history. Set in 1960s Poland, the narrative follows Anna, a novice poised to embrace a life of devotion. However, a fortuitous encounter with her aunt, who introduces her to the dark truths of her family's past, complicates this spiritual trajectory. This road trip through the Polish landscape serves as both a literal and metaphorical journey, allowing the exploration of not only personal history but also the broader socio-political context of the era, including the shadows of the Holocaust and Stalinism. Pawlikowski employs an evocative visual language, with stark black-and-white cinematography that enhances the film's melancholy mood. Critics have noted that while the historical events are not explicitly stated, they are felt throughout, creating an atmosphere of collective guilt and unresolved pain. Ida's recognition at prestigious awards, including the Academy Award for Best Foreign Language Film, underscores its significance in cinema, reflecting on how personal and national histories are inexorably linked. The film invites viewers to confront profound questions about identity and the burdens of the past.",
+        "vocabulary": [
+          {
+            "word": "intertwines",
+            "definition": "to connect or twist together."
+          },
+          {
+            "word": "evocative",
+            "definition": "bringing strong images, memories, or feelings to mind."
+          },
+          {
+            "word": "melancholy",
+            "definition": "a deep, persistent sadness."
+          },
+          {
+            "word": "trajectory",
+            "definition": "the path something follows, especially in development."
+          },
+          {
+            "word": "recognition",
+            "definition": "the act of being acknowledged or honored for something."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What themes does the film explore?",
+            "options": [
+              "Identity and memory",
+              "Sports and competition",
+              "Love and romance"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the visual style of the film?",
+            "options": [
+              "Bright colors",
+              "Black-and-white cinematography",
+              "Animation"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What significant award did the film win?",
+            "options": [
+              "Best Animation",
+              "Best Foreign Language Film",
+              "Best Documentary"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ida: Echoes of the Past",
+        "text": "Paweł Pawlikowski's Ida, a remarkable triumph of cinematic artistry, presents an unsettling exploration of memory and identity against the backdrop of post-war Poland. Set in the early 1960s, the film tells the poignant story of Anna, a novice nun whose spiritual path is abruptly diverted after she uncovers a disquieting family secret tied to the historical trauma of the Holocaust. This revelation compels her and her estranged aunt to embark on a road trip, a metaphorical journey echoing the search for lost connections amidst a landscape that seems both familiar and eerily void of life. With its stark black-and-white composition, the film's visual aesthetic heightens the emotional weight of its narrative, inviting viewers into a world where silence and the weight of unspoken histories loom large. Interestingly, while Pawlikowski refrains from overt historical exposition, the intricate layering of personal and collective memory imbues the film with a profound depth that resonates long after the credits roll. The accolades received by Ida—including the prestigious Academy Award for Best Foreign Language Film—underscore its significant contribution to the dialogue surrounding cultural memory and representation in cinema. Ultimately, it stands as a haunting reminder of how the past continually shapes identities in the present, raising essential questions about the nature of knowing and the costs of revelation.",
+        "vocabulary": [
+          {
+            "word": "unsettling",
+            "definition": "causing anxiety or discomfort."
+          },
+          {
+            "word": "triumphed",
+            "definition": "achieved victory or success."
+          },
+          {
+            "word": "poignant",
+            "definition": "evoking a keen sense of sadness or regret."
+          },
+          {
+            "word": "exposition",
+            "definition": "the act of explaining or describing something."
+          },
+          {
+            "word": "accolades",
+            "definition": "an expression of praise or an award."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What exploration is central to the film?",
+            "options": [
+              "Memory and identity",
+              "Adventure and fantasy",
+              "Comedy and friendship"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What style is the film known for?",
+            "options": [
+              "Bright colors",
+              "Stark black-and-white",
+              "Animation"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What important award did Ida win?",
+            "options": [
+              "Best Foreign Language Film",
+              "Best Original Score",
+              "Best Documentary"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Ida",
+        "text": "Ida ist ein Film aus Polen. Der Film spielt in den 1960er Jahren. Die Hauptfigur heißt Anna. Sie will Nonne werden. Anna hat ein Geheimnis. Ihre Eltern sind tot. Sie trifft ihre Tante. Die Tante erzählt, dass Anna jüdisch ist. Die beiden Frauen reisen. Sie suchen die Wahrheit über ihre Familie. Auf ihrer Reise sehen sie viele schöne Landschaften. Sie sprechen über ihre Vergangenheit. Der Film hat ein interessantes Thema. Er handelt von Verlust und Identität. Viele Leute mögen den Film. Ida hat einen wichtigen Preis gewonnen. Der Film ist sehr beliebt auf der ganzen Welt.",
+        "vocabulary": [
+          {
+            "word": "Identität",
+            "definition": "wer oder was jemand ist"
+          },
+          {
+            "word": "Vergangenheit",
+            "definition": "die Zeit vor jetzt"
+          },
+          {
+            "word": "Landschaften",
+            "definition": "große Flächen von Erde mit Bäumen, Bergen usw."
+          },
+          {
+            "word": "Thema",
+            "definition": "das Hauptidee oder das Hauptproblem eines Textes"
+          },
+          {
+            "word": "verlieren",
+            "definition": "nicht mehr haben, nicht mehr können"
+          },
+          {
+            "word": "Familie",
+            "definition": "Menschen, die zusammengehören"
+          },
+          {
+            "word": "schön",
+            "definition": "nicht hässlich, angenehm anzusehen"
+          },
+          {
+            "word": "beliebt",
+            "definition": "von vielen Leuten gemocht"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wo spielt der Film Ida?",
+            "options": [
+              "In Dänemark",
+              "In Polen",
+              "In Deutschland"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was möchte Anna werden?",
+            "options": [
+              "Eine Ärztin",
+              "Eine Nonne",
+              "Eine Lehrerin"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Geheimnis hat Anna?",
+            "options": [
+              "Sie hat keine Familie",
+              "Ihre Eltern sind tot",
+              "Sie ist reich"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ida",
+        "text": "Ida ist ein Drama aus dem Jahr 2013. Der Film kommt aus Polen und Dänemark. Die Geschichte spielt in den 1960er Jahren. Anna ist eine junge Frau. Sie ist nahe daran, Nonne zu werden. Aber Anna entdeckt ein Geheimnis. Ihre Eltern lebten während des Krieges. Sie sind tot. Ihre Tante erzählt ihr etwas Wichtiges. Anna erfährt, dass ihre Eltern jüdisch waren. Diese Neuigkeit verändert alles für Anna. Sie reist mit ihrer Tante. Die beiden Frauen suchen die Geschichte ihrer Familie. Sie besuchen viele Orte, die mit ihrer Vergangenheit verbunden sind. Diese Reise ist emotional und sehr bewegend. Die Bilder im Film sind schwarz-weiß und zeigen die triste Realität dieser Zeit. Der Stil ist sehr schön und unverwechselbar. Viele Zuschauer finden Ida beeindruckend. Der Film hat nicht nur einen wichtigen Preis gewonnen, sondern ist auch international beliebt. Kritiker sagen, dass die Atmosphäre des Films die schwierigen Themen gut zeigt.",
+        "vocabulary": [
+          {
+            "word": "verbergen",
+            "definition": "etwas geheim halten, nicht zeigen."
+          },
+          {
+            "word": "verändern",
+            "definition": "etwas anders machen, anders gestalten."
+          },
+          {
+            "word": "vergangene",
+            "definition": "etwas, das schon passiert ist."
+          },
+          {
+            "word": "verraten",
+            "definition": "ein Geheimnis erzählen."
+          },
+          {
+            "word": "verstecken",
+            "definition": "etwas nicht sichtbar machen."
+          },
+          {
+            "word": "verbinden",
+            "definition": "zwei Dinge zusammenbringen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films?",
+            "options": [
+              "Ein Geheimnis der Familie",
+              "Eine Liebesgeschichte",
+              "Ein Krimi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie sind die Bilder im Film?",
+            "options": [
+              "Bunt und hell",
+              "Schwarz-weiß",
+              "Leuchtend"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer erzählt Anna das Geheimnis?",
+            "options": [
+              "Ihre Tante",
+              "Ihr Bruder",
+              "Ihr Freund"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ida",
+        "text": "Ida ist ein preisgekröntes Drama von 2013, das von Paweł Pawlikowski inszeniert wurde. Der Film spielt in Polen und Dänemark und befindet sich in den 1960er Jahren. Die Hauptfigur, Anna, ist eine junge Novizin, die kurz davor steht, Nonne zu werden. Während sie sich auf die Weihe vorbereitet, erfährt sie ein Familiengeheimnis, das ihr ganzes Leben verändern wird. Ihre Eltern sind während der deutschen Besetzung im Zweiten Weltkrieg gestorben. Ihre Tante, die ihrer Meinung nach eine strenge und geheimnisvolle Frau ist, wird zur einzigen lebenden Verwandten und erzählt Anna, dass sie jüdische Wurzeln hat. Diese Information schockiert Anna, die nie über ihre Herkunft nachgedacht hat. Die beiden Frauen machen eine Reise in die polnische Landschaft, um die Geschichte ihrer Familie zu entdecken. Dort, in den stillen Dörfern, erfährt Anna von den Verbrechen der Vergangenheit und der Kollektion von Erinnerungen, die verloren gingen. Der Film behandelt wichtige Themen wie Identität, Schuld und die Verletzungen der Vergangenheit, die durch den Krieg entstanden sind. Die schwarz-weißen Bilder verstärken die melancholische Atmosphäre und lassen die Zuschauer die Traurigkeit und den Verlust spüren. Ida wurde international gefeiert und erhielt den Oscar für den besten nicht-englischsprachigen Film. Sein Stil und die Tiefe der Geschichten machen ihn einzigartig in der Filmgeschichte, und er gibt uns einen wichtigen Blick auf die polnische Identität nach dem Krieg.",
+        "vocabulary": [
+          {
+            "word": "verändern",
+            "definition": "etwas anders machen, so dass es nicht mehr wie vorher ist."
+          },
+          {
+            "word": "historisch",
+            "definition": "bekannt aus der Geschichte; etwas, das mit der Vergangenheit zu tun hat."
+          },
+          {
+            "word": "geheimnisvoll",
+            "definition": "etwas, das nicht leicht zu verstehen ist oder viele Fragen aufwirft."
+          },
+          {
+            "word": "vergangenheit",
+            "definition": "alle Dinge, die vor jetzt passiert sind."
+          },
+          {
+            "word": "Identität",
+            "definition": "das, was eine Person oder eine Gruppe von anderen unterscheidet."
+          },
+          {
+            "word": "verbrechen",
+            "definition": "eine schlimme Tat, die gegen das Gesetz ist."
+          },
+          {
+            "word": "Verletzung",
+            "definition": "etwas, das schmerzhaft ist oder jemanden verletzt."
+          },
+          {
+            "word": "melancholisch",
+            "definition": "traurig oder nachdenklich, oft mit einem Gefühl von Verlust."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wem erzählt Annas Tante von ihren Wurzeln?",
+            "options": [
+              "Ihrem Freund",
+              "Anna",
+              "Ihrem Bruder"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum ist die Reise in die polnische Landschaft wichtig?",
+            "options": [
+              "Um die Vergangenheit zu vergessen",
+              "Um die Geschichte ihrer Familie zu entdecken",
+              "Um eine neue Stadt zu besichtigen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welchen Oscar gewann Ida?",
+            "options": [
+              "Bester Film",
+              "Bester nicht-englischsprachiger Film",
+              "Bester Hauptdarsteller"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ida – Eine Entdeckung auf der Suche nach Identität",
+        "text": "Der polnische Film \"Ida\", unter der Regie von Paweł Pawlikowski, erzählt die bewegende Geschichte der jungen Novizin Anna, die sich 1960er Jahre in Polen auf der Schwelle zur ewigen Zugehörigkeit zur katholischen Kirche befindet. Zu Beginn des Films entdeckt sie ein schockierendes Familiengeheimnis: Ihre Eltern waren jüdisch, und sie begibt sich auf einen Weg, um mehr über ihre Wurzeln zu erfahren. Der Film ist nicht nur visuell beeindruckend, sondern behandelt auch tiefgehende Themen wie Identität, Verlust und das Erbe von Schmerz und Trauma. Während Anna und ihre Tante, eine ehemalige Kommissarin, durch die polnische Landschaft reisen, wird die düstere Atmosphäre der Vergangenheit spürbar. Die karge Bildsprache, gespielt mit Licht und Schatten, verstärkt die emotionalen Aspekte der Handlung. Der langsame Rhythmus des Films lässt den Zuschauer Zeit zum Nachdenken und Fühlen. \"Ida\" ist sowohl ein persönliches als auch ein kollektives Drama, das nicht nur die Zuschauer des Jahres 2014 fesselte, sondern auch als Meisterwerk im internationalen Kino gefeiert wurde, insbesondere, da es den Oscar für den besten nicht-englischsprachigen Film gewann.",
+        "vocabulary": [
+          {
+            "word": "bewegen",
+            "definition": "etwas emotional machen"
+          },
+          {
+            "word": "Entdeckung",
+            "definition": "etwas Neues finden"
+          },
+          {
+            "word": "Wurzeln",
+            "definition": "Ursprung, Herkunft"
+          },
+          {
+            "word": "düstere",
+            "definition": "dunkel und traurig"
+          },
+          {
+            "word": "meistern",
+            "definition": "etwas sehr gut machen"
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ida – Ein kunstvolles Porträt der Identitätsfindung",
+        "text": "In Pawel Pawlikowskis Meisterwerk \"Ida\" entfaltet sich ein eindringliches Porträt über die Suche nach Identität inmitten einer belasteten Geschichte. An der Schwelle zum Klosterleben entdeckt die junge Novizin Anna, dass ihre jüdischen Wurzeln in der dunklen Zeit der deutschen Besetzung verborgen lagen. Diese Entdeckung ist nicht nur für Anna von zentraler Bedeutung, sondern wirft auch gewichtige Fragen über den Umgang mit Vergangenem auf. Die schleichende Enthüllung ihrer Vergangenheit führt sie und ihre Tante, eine frühere Staatsanwältin der kommunistischen Ära, auf eine emotionale Reise durch die polnische Landschaft. Diese Roadmovie-Elemente verbinden sich subtil mit einer bedrückenden Stimmung, die von der Filmsprache meisterhaft geschaffen wird. Die rigorose Schwarz-Weiß-Ästhetik des Films sowie der gezielte Einsatz von Licht und Schatten illustrieren sowohl innere Konflikte als auch die Leere der Nachkriegszeit, in der die Bevölkerung zu leiden hat. In der Stille und den langsamen Bewegungen wird die Traurigkeit einer durch den Holocaust erschütterten Existenz spürbar, die sich in den Interaktionen der Charaktere offenbart. \"Ida\" stellt somit nicht nur individuelle Fragen zur Identität, sondern reflektiert in gleichem Maße ein kollektives Geschichtsbewusstsein und die erdrückende Last der Erinnerung an Schrecken und Verlust, die die Gesellschaft bis heute prägen. Dies wird auch durch die internationale Anerkennung des Films, einschließlich eines Oscars, verdeutlicht, die die anhaltende Relevanz des Werkes in der zeitgenössischen filmischen Diskussion unterstreicht und seine Fähigkeit, tief verwurzelte Gefühle anzusprechen, bestätigt.",
+        "vocabulary": [
+          {
+            "word": "verbergen",
+            "definition": "etwas nicht offenzeigen oder geheimhalten"
+          },
+          {
+            "word": "belastet",
+            "definition": "schwer oder schwierig, oft aufgrund von Vergangenheit oder Trauma"
+          },
+          {
+            "word": "Schwarz-Weiß-Ästhetik",
+            "definition": "visuelle Gestaltung, die nur schwarze und weiße Töne verwendet"
+          },
+          {
+            "word": "Interaktionen",
+            "definition": "Wechselwirkungen oder Beziehungen zwischen Personen oder Dingen"
+          },
+          {
+            "word": "Geschichtsbewusstsein",
+            "definition": "das Bewusstsein und das Verständnis für die eigene Geschichte oder die Geschichte einer Nation"
+          },
+          {
+            "word": "Schrecken",
+            "definition": "große Angst oder Entsetzen, oft aufgrund abscheulicher Ereignisse"
+          },
+          {
+            "word": "Erinnerung",
+            "definition": "die Fähigkeit, sich an vergangene Ereignisse oder Erfahrungen zu erinnern"
+          },
+          {
+            "word": "kollektiv",
+            "definition": "gemeinsam oder gemeinschaftlich, bezogen auf eine Gruppe von Menschen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches zentrales Thema bearbeitet der Film \"Ida\"?",
+            "options": [
+              "Die Identitätsfindung",
+              "Die Kochkunst",
+              "Die Technologieentwicklung"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie wird die visuelle Gestaltung des Films beschrieben?",
+            "options": [
+              "Lebendig und farbenfroh",
+              "Schwarz-Weiß-Ästhetik",
+              "Nur mit Zeichnungen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer ist Annas einzige überlebende Verwandte?",
+            "options": [
+              "Ihr Bruder",
+              "Ihre Tante",
+              "Ihr Onkel"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ida – Elegie und Stillstand im Schatten der Vergangenheit",
+        "text": "Paweł Pawlikowskis \"Ida\" entpuppt sich als ein faszinierendes, visuell konzipiertes Drama, das nicht nur durch seine ästhetische Meisterschaft besticht, sondern auch durch seine tiefgreifende Reflexion über Identität und das kollektive Trauma einer Nation. Die Protagonistin Anna, auf der Schwelle zum Noviziat, muss sich, konfrontiert mit der Aufdeckung ihrer jüdischen Herkunft, einer Geschichte stellen, die durch die Abwesenheit ihrer Eltern und die Schatten der deutschen Besatzung geprägt ist. Diese Wahl umreißt nicht nur die ergreifende Reise in die polnische Landschaft, sondern fungiert auch als Metapher für die Suche nach Selbsterkenntnis in einer von Schuld und Verdrängung geprägten Gesellschaft. Die bedrückende Stille, die Pawlikowski durch langsame und gleichmäßige Bildfolgen hervorruft, simuliert das Gefühl des Stillstands und der Trauer, während die scharfen Kontraste zwischen Licht und Dunkelheit dazu dienen, innere Gewissenskonflikte aufzuzeigen. Damit erlangt der Film eine universelle Dimension, in der Fragen nach Erinnerung, Identität und dem unvermeidlichen Gewissen einen anhaltenden Nachhall erzeugen, der weit über das individuelle Schicksal hinausreicht. \"Ida\" ist nicht nur ein Film, sondern eine eindringliche Erzählung über das Komplexe der menschlichen Existenz und die Bestätigung des menschlichen Geistes auf der Suche nach Wahrheit.",
+        "vocabulary": [
+          {
+            "word": "entpuppen",
+            "definition": "sich als etwas zeigen"
+          },
+          {
+            "word": "ästhetische",
+            "definition": "die Kunst und Schönheit betreffend"
+          },
+          {
+            "word": "kollektives",
+            "definition": "gemeinsam, alle betreffend"
+          },
+          {
+            "word": "Gelegenheit",
+            "definition": "Chance, Möglichkeit"
+          },
+          {
+            "word": "verdrängen",
+            "definition": "etwas ignorieren oder nicht wahrhaben wollen"
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Ida",
+        "text": "Ida est un film important. Il est polonais et danois. Le film se passe en Pologne dans les années 1960. Anna est une jeune femme. Elle veut devenir nonne dans un couvent. Avant de prendre ses vœux, elle découvre un secret de famille. Ce secret est triste et change tout. Anna parle avec sa tante, qui est une ancienne juge. La tante a une histoire complexe. Elles voyagent ensemble à travers la Pologne. Cette route est belle et pleine de souvenirs. Anna trouve des réponses sur ses parents. Le film est beau et touchant, avec des thèmes de perte et d'identité. Ida est un chef-d'œuvre du cinéma.",
+        "vocabulary": [
+          {
+            "word": "importante",
+            "definition": "de grande valeur ou signification"
+          },
+          {
+            "word": "nonne",
+            "definition": "femme qui suit la vie religieuse"
+          },
+          {
+            "word": "couvent",
+            "definition": "maison religieuse pour les femmes"
+          },
+          {
+            "word": "tante",
+            "definition": "sœur de la mère ou du père"
+          },
+          {
+            "word": "histoire",
+            "definition": "ensemble des événements passés d'une personne"
+          },
+          {
+            "word": "réponses",
+            "definition": "solutions à des questions ou des doutes"
+          },
+          {
+            "word": "sujet",
+            "definition": "thème principal d'une œuvre"
+          },
+          {
+            "word": "cinéma",
+            "definition": "art de faire des films"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Où se passe le film Ida ?",
+            "options": [
+              "En France",
+              "En Pologne",
+              "En Italie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui est la tante d'Anna ?",
+            "options": [
+              "Une nonne",
+              "Une ancienne juge",
+              "Une artiste"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le but d'Anna ?",
+            "options": [
+              "De voyager",
+              "De devenir nonne",
+              "D'acheter une maison"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ida",
+        "text": "Ida est un film réalisé par Paweł Pawlikowski. Le film sort en 2013 et est produit en Pologne et au Danemark. Il se passe en Pologne dans les années 1960. Anna est une jeune femme qui veut être nonne, mais elle découvre un secret de famille important. En effet, elle apprend qu'elle est juive. Anna va voir sa tante, qui est la seule famille qui lui reste. Sa tante était une procureur sous le régime communiste. Elles partent en voyage ensemble dans la campagne polonaise. Ce voyage est important pour elles. Elles cherchent des réponses sur leur passé et sur les parents d'Anna. Le film montre des thèmes comme le secret de famille, la recherche d'identité, et la mémoire de l'histoire. La musique et les images sont très belles. Beaucoup de critiques disent que le film est une œuvre d'art. Il a même gagné un Oscar, ce qui est rare pour un film polonais.",
+        "vocabulary": [
+          {
+            "word": "procureur",
+            "definition": "un avocat de l'État qui représente la loi."
+          },
+          {
+            "word": "campagne",
+            "definition": "une région à la campagne, loin des villes."
+          },
+          {
+            "word": "identité",
+            "definition": "la façon dont une personne se définit."
+          },
+          {
+            "word": "mémoire",
+            "definition": "le souvenir ou la conscience du passé."
+          },
+          {
+            "word": "histoire",
+            "definition": "l'étude des événements passés."
+          },
+          {
+            "word": "Oscar",
+            "definition": "un prix de cinéma très prestigieux."
+          },
+          {
+            "word": "critique",
+            "definition": "une personne qui évalue ou commente des œuvres."
+          },
+          {
+            "word": "œuvre",
+            "definition": "une création artistique ou littéraire."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui réalise le film Ida?",
+            "options": [
+              "Paweł Pawlikowski",
+              "Rebecca Lenkiewicz",
+              "Anna"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le secret qu'Anna découvre?",
+            "options": [
+              "Elle est communiste",
+              "Elle est juive",
+              "Elle est nonne"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi le voyage est-il important pour Anna et sa tante?",
+            "options": [
+              "Pour visiter des amis",
+              "Pour chercher des réponses sur leur passé",
+              "Pour aller à l'école"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ida",
+        "text": "Ida est un film dramatique réalisé par Paweł Pawlikowski en 2013. Ce film se déroule en Pologne dans les années 1960, une période marquée par des souvenirs douloureux liés à la Seconde Guerre mondiale. Anna, qui est une jeune femme sur le point de devenir nonne, vit une vie tranquille dans un couvent catholique. Toutefois, sa vie bascule lorsqu'elle découvre un secret familial important. En effet, sa tante, la seule parente qui lui reste et qui a été procureur pendant l'époque communiste, lui révèle que ses parents étaient juifs. Ce moment crucial change complètement la perspective d'Anna. Elle se rend compte qu'elle a une autre identité à explorer. Elle décide alors de partir en voyage avec sa tante dans la campagne polonaise pour rechercher ses racines. Ce voyage représente non seulement une quête d'identité et de vérité mais fait aussi ressurgir des souvenirs liés à la souffrance et à la mémoire de ceux qui ont été perdus. Le film aborde des thèmes lourds, tels que la culpabilité, la violence et le passé caché de la Pologne. La photographie en noir et blanc crée une ambiance particulière, illustrant la mélancolie de l'époque. De plus, la bande sonore accompagne le récit avec délicatesse, accentuant les émotions des personnages. Ida a reçu de nombreux prix, dont l'Oscar du meilleur film en langue étrangère, et a été salué par la critique pour sa profondeur et sa beauté esthétique.",
+        "vocabulary": [
+          {
+            "word": "quête",
+            "definition": "une recherche ou une exploration."
+          },
+          {
+            "word": "identité",
+            "definition": "la façon dont une personne se définit."
+          },
+          {
+            "word": "mélancolie",
+            "definition": "une tristesse douce ou un sentiment de nostalgie."
+          },
+          {
+            "word": "souffrance",
+            "definition": "une douleur physique ou émotionnelle."
+          },
+          {
+            "word": "procurateur",
+            "definition": "un fonctionnaire qui représente l'État, notamment dans des affaires judiciaires."
+          },
+          {
+            "word": "mémoire",
+            "definition": "la faculté de se souvenir des événements passés."
+          },
+          {
+            "word": "culpabilité",
+            "definition": "le sentiment d'avoir mal agi ou d'avoir commis une faute."
+          },
+          {
+            "word": "esthétique",
+            "definition": "relatif aux beaux-arts et à l'appréciation de la beauté."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal du film Ida ?",
+            "options": [
+              "La cuisine polonaise",
+              "La recherche d'identité",
+              "La musique classique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui est la seule parente d'Anna ?",
+            "options": [
+              "Sa mère",
+              "Sa tante",
+              "Son professeur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix prestigieux a remporté le film Ida ?",
+            "options": [
+              "Le prix du meilleur acteur",
+              "L'Oscar du meilleur film en langue étrangère",
+              "Le prix de la meilleure photographie"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ida : un chef-d'œuvre polonais",
+        "text": "Ida, un film dramatique réalisé par Paweł Pawlikowski en 2013, plonge le spectateur dans la Pologne des années 1960. Au début de l'histoire, la jeune Anna, noviciate, est sur le point de prononcer ses vœux religieux. Cependant, elle découvre un secret familial sombre et mystérieux qui change sa perspective. Bien que la narration semble simple, le film aborde des thèmes profonds comme la mémoire, l'identité et le poids du passé. La photographie en noir et blanc, magnifiquement composée, accentue l'atmosphère de mélancolie et d'angoisse; chaque image semble imprégnée de l'histoire tragique du pays. La relation entre Anna et sa tante, ancienne procureur communiste, est intense et complexe; leur voyage à travers la campagne polonaise symbolise non seulement la recherche de réponses, mais aussi celle de soi. En raison de son approche esthétique et de son discours subtil sur des événements historiques tragiques, Ida est souvent considéré comme un classique moderne, respecté par la critique et reconnu sur la scène internationale, ayant remporté l'Oscar du meilleur film étranger en 2015.",
+        "vocabulary": [
+          {
+            "word": "chef-d'œuvre",
+            "definition": "une très grande œuvre d'art"
+          },
+          {
+            "word": "photographie",
+            "definition": "l'art de prendre des photos"
+          },
+          {
+            "word": "atmosphère",
+            "definition": "l'ambiance d'un lieu"
+          },
+          {
+            "word": "mémoire",
+            "definition": "ce que nous nous rappelons du passé"
+          },
+          {
+            "word": "identité",
+            "definition": "qui nous sommes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur d'Ida?",
+            "options": [
+              "Paweł Pawlikowski",
+              "Anna",
+              "La tante"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel style de film est Ida?",
+            "options": [
+              "Comédie",
+              "Drame",
+              "Action"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix Ida a-t-il remporté?",
+            "options": [
+              "Meilleur film",
+              "Meilleur film étranger",
+              "Meilleure comédie"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ida : un voyage à travers l'identité et le passé",
+        "text": "Ida, film acclamé de Paweł Pawlikowski, est une œuvre qui ne se limite pas à la simple narration d'une quête personnelle. En effet, tandis qu'Anna, future religieuse, s'apprête à entrer dans la vie monastique, elle est confrontée à une révélation déstabilisante concernant ses origines juives. C'est un voyage initiatique marqué par la rencontre entre le passé tragique de la Pologne et le présent d'une jeune femme à la recherche de son identité. Le noir et blanc du film accentue la tristesse et le poids des secrets non révélés, créant ainsi une ambiance à la fois éthérée et pesante. Pawlikowski utilise un rythme contemplatif, laissant le spectateur s'immerger dans la beauté visuelle, où chaque plan est construit avec soin et méticulosité. En abordant des thèmes tels que la culpabilité et l'aliénation, Ida se révèle être une réflexion profonde sur la mémoire collective. Sa reconnaissance internationale, illustrée par l'Oscar du meilleur film étranger, témoigne de son impact durable dans l'histoire du cinéma.",
+        "vocabulary": [
+          {
+            "word": "acclamé",
+            "definition": "très bien reçu par les critiques"
+          },
+          {
+            "word": "déstabilisant",
+            "definition": "qui trouble, qui rend incertain"
+          },
+          {
+            "word": "initiatique",
+            "definition": "qui concerne un voyage de découverte personnelle"
+          },
+          {
+            "word": "contemplatif",
+            "definition": "qui pousse à réfléchir profondément"
+          },
+          {
+            "word": "aliénation",
+            "definition": "sentiment d'être distant de soi-même ou des autres"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal du film Ida?",
+            "options": [
+              "La comédie",
+              "La recherche de l'identité",
+              "La guerre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment le film est-il filmé?",
+            "options": [
+              "En couleur",
+              "En noir et blanc",
+              "Avec des effets spéciaux"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Ida a remporté quel prix important?",
+            "options": [
+              "Meilleur film d'action",
+              "Meilleur film étranger",
+              "Meilleure musique"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ida : Une exploration des profondeurs humaines et historiques",
+        "text": "Ida, œuvre emblématique de Paweł Pawlikowski, transcende la simple trame narrative pour devenir une véritable méditation existentielle sur l'identité, la mémoire et les séquelles des traumatismes historiques. La protagoniste, Anna, qui se prépare à devenir religieuse, se trouve plongée dans un passé sombre imprégné de culpabilité et de violence, révélant un arbre généalogique complexe où la tragédie s'entrelace avec la recherche d'une vérité personnelle. La magnificence esthétique du noir et blanc sert d'écrin à ces réflexions, chaque plan, minutieusement élaboré, capturant la beauté fragile d'un monde en décomposition. Le rythme du film, à la fois élancé et contemplatif, retenu dans une temporalité délibérément étirée, permet au spectateur de ressentir l'angoisse et la nostalgie des personnages. En intégrant des thèmes lourds, tels que la question juive et les répercussions du stalinisme, Pawlikowski réussit à créer un univers où l'invisible se fait tangible, maniant subtilement les silences et les non-dits pour inviter à une introspection profonde. Acclamé par la critique, ce chef-d'œuvre a marqué l'histoire du cinéma en remportant l'Oscar du meilleur film étranger, illustrant ainsi son impact durable sur la scène cinématographique mondiale.",
+        "vocabulary": [
+          {
+            "word": "transcende",
+            "definition": "dépasse ou va au-delà"
+          },
+          {
+            "word": "méditation",
+            "definition": "réflexion profonde"
+          },
+          {
+            "word": "séquelles",
+            "definition": "conséquences durables"
+          },
+          {
+            "word": "écrin",
+            "definition": "contexte qui met en valeur"
+          },
+          {
+            "word": "angoisse",
+            "definition": "sentiment d'inquiétude forte"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le sujet principal du film Ida?",
+            "options": [
+              "L'identité et la mémoire",
+              "Un événement historique",
+              "Une histoire d'amour"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "De quel genre est le film Ida?",
+            "options": [
+              "Une comédie",
+              "Un drame",
+              "Un documentaire"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel prix Ida a-t-il remporté?",
+            "options": [
+              "Meilleur film d'horreur",
+              "Meilleur film étranger",
+              "Meilleure actrice"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Ida",
+        "text": "Ida es una película. La directora es Paweł Pawlikowski. La historia es en Polonia. Es en los años sesenta. Anna es una joven. Ella quiere ser monja. Ella tiene un secreto. Su familia tiene una historia. Ella busca a su tía. La tía es la única familia que tiene. Anna se siente sola y triste. Ellas viajan por la hermosa Polonia. Este viaje es importante para ambas. Ellas descubren el pasado de la familia. La verdad es difícil, pero necesaria. La película es dramática y hermosa. La música también es muy emotiva. Ida gana un premio importante en 2015.",
+        "vocabulary": [
+          {
+            "word": "secreto",
+            "definition": "algo que no se dice a otros"
+          },
+          {
+            "word": "viajar",
+            "definition": "moverse de un lugar a otro"
+          },
+          {
+            "word": "familia",
+            "definition": "grupo de personas relacionadas"
+          },
+          {
+            "word": "triste",
+            "definition": "sentir pena o desánimo"
+          },
+          {
+            "word": "pasado",
+            "definition": "lo que ya ocurrió"
+          },
+          {
+            "word": "hermosa",
+            "definition": "algo muy bonito"
+          },
+          {
+            "word": "verdad",
+            "definition": "lo que es cierto"
+          },
+          {
+            "word": "música",
+            "definition": "sonido organizado por instrumentos o voces"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es la directora de Ida?",
+            "options": [
+              "Paweł Pawlikowski",
+              "Anna",
+              "La tía"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué quiere ser Anna?",
+            "options": [
+              "Monja",
+              "Tía",
+              "Músico"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué país ocurre la película?",
+            "options": [
+              "Polonia",
+              "Dinamarca",
+              "Alemania"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ida",
+        "text": "Ida es una película de drama. Fue dirigida por Paweł Pawlikowski en 2013. La historia es en Polonia en los años sesenta. Anna es una joven que quiere ser monja, pero tiene un secreto sobre su familia que la inquieta. Su tía es su única familia que queda, y la tía era un fiscal en la época del comunismo. Ellas realizan un viaje por el campo polaco donde exploran paisajes hermosos y desolados. Durante este viaje, Anna descubre más sobre sus padres. La película muestra la búsqueda de identidad en un país marcado por el dolor y la culpa del pasado. El ambiente es oscuro y bello, reflejando la tristeza de la historia. Ganó un Óscar y muchos premios por su profunda narrativa y su impresionante cinematografía. La historia habla de temas complejos como la familia, la muerte y el amor perdido. Ida es considerada una obra maestra del cine contemporáneo. Es importante ver esta película para entender mejor el pasado de Polonia.",
+        "vocabulary": [
+          {
+            "word": "monja",
+            "definition": "Mujer que pertenece a una orden religiosa."
+          },
+          {
+            "word": "tía",
+            "definition": "Hermana o hermana de uno de los padres."
+          },
+          {
+            "word": "fiscal",
+            "definition": "Abogado que trabaja para el estado."
+          },
+          {
+            "word": "paisaje",
+            "definition": "Extensión de terreno que se puede ver desde un lugar."
+          },
+          {
+            "word": "culpa",
+            "definition": "Sentimiento de responsabilidad por un mal hecho."
+          },
+          {
+            "word": "bélico",
+            "definition": "Relativo a la guerra."
+          },
+          {
+            "word": "materia",
+            "definition": "Sustancia física de un objeto."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién dirigió la película Ida?",
+            "options": [
+              "Paweł Pawlikowski",
+              "Anna",
+              "La tía"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué año fue estrenada la película Ida?",
+            "options": [
+              "2012",
+              "2013",
+              "2014"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué descubre Anna durante su viaje?",
+            "options": [
+              "Más sobre la historia de Polonia",
+              "Más sobre sus padres",
+              "Más sobre su tía"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ida",
+        "text": "Ida es una película dramática de 2013 dirigida por Paweł Pawlikowski. La historia ocurre en Polonia en los años sesenta, un periodo en el que el país aún se recupera de las secuelas de la Segunda Guerra Mundial. Anna es una joven que se prepara para ser monja, pero descubre un secreto familiar que cambia su vida para siempre. Su tía, que fue fiscal durante el régimen comunista, le revela que sus padres eran judíos, lo que Esther nunca había sabido. Este descubrimiento impulsa a ambas mujeres a emprender un viaje por el campo polaco, donde buscan información sobre sus raíces. Durante el viaje, Anna se enfrenta a su historia, que está llena de dolor y pérdida. La película no solo aborda la culpa y la búsqueda de identidad, sino que también muestra el gran impacto de la guerra en la vida de las personas. Además, la atmósfera es densa y casi mágica, y las imágenes en blanco y negro crean un fuerte impacto visual. Ida ha sido muy bien recibida y ha ganado premios importantes, como un Óscar, convirtiéndose en la primera película polaca en recibir este honor. Es una obra que invita a la reflexión sobre el pasado y la memoria histórica. Muchas personas que han visto la película han cambiado su perspectiva sobre la historia de Polonia y la situación de los judíos. Los críticos la han elogiado por su belleza estética y su profunda narrativa.",
+        "vocabulary": [
+          {
+            "word": "secuela",
+            "definition": "Consecuencia o resultado de un hecho, especialmente si es negativo."
+          },
+          {
+            "word": "regimen",
+            "definition": "Forma de gobierno, especialmente si es opresiva."
+          },
+          {
+            "word": "fiscal",
+            "definition": "Persona que actúa en nombre del Estado en procesos legales."
+          },
+          {
+            "word": "raíz",
+            "definition": "Origen o causa de algo, especialmente en la historia familiar."
+          },
+          {
+            "word": "memoria",
+            "definition": "Capacidad de recordar eventos y experiencias pasadas."
+          },
+          {
+            "word": "narrativa",
+            "definition": "Forma de contar una historia."
+          },
+          {
+            "word": "perspectiva",
+            "definition": "Punto de vista desde el que se considera una situación."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de película es Ida?",
+            "options": [
+              "Dramática",
+              "Comedia",
+              "Acción"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué revela la tía de Anna sobre sus padres?",
+            "options": [
+              "Eran católicos",
+              "Eran judíos",
+              "Eran comunistas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el impacto visual de la película?",
+            "options": [
+              "Es en color",
+              "Es en blanco y negro",
+              "Es animada"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ida: Un viaje hacia el pasado",
+        "text": "En la Polonia de los años 60, Anna es una joven novicia que está a un paso de tomar sus votos como monja. Sin embargo, su vida da un giro inesperado cuando descubre un oscuro secreto familiar que se remonta a la ocupación alemana durante la Segunda Guerra Mundial. La película, dirigida por Paweł Pawlikowski, no solo retrata una búsqueda personal, sino que también invita a la reflexión sobre la identidad, la memoria y el sufrimiento histórico. A lo largo de su metraje, la atmósfera se carga de una sensación de pesadez y melancolía; cada escena está compuesta con una atención al detalle que resalta la belleza y la tristeza de ese tiempo. La cinematografía en blanco y negro, junto con la banda sonora, crea un ambiente casi etéreo que acompaña el viaje físico y emocional de las protagonistas. \"Ida\" ha sido aclamada como una obra maestra compacta, lo que le valió el Óscar a la Mejor Película Extranjera en 2015. La historia, aunque sumida en penumbra, se convierte en una exploración universitaria de la culpa y el dolor, mostrando que el pasado nunca se olvida, sino que moldea nuestra existencia presente.",
+        "vocabulary": [
+          {
+            "word": "novicia",
+            "definition": "una mujer que se prepara para ser monja."
+          },
+          {
+            "word": "secreto",
+            "definition": "algo que se guarda y no se dice."
+          },
+          {
+            "word": "identidad",
+            "definition": "quién o qué es alguien."
+          },
+          {
+            "word": "melancolía",
+            "definition": "tristeza profunda o nostalgia."
+          },
+          {
+            "word": "cinematografía",
+            "definition": "el arte de hacer películas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué descubre Anna antes de tomar sus votos?",
+            "options": [
+              "Un secreto familiar",
+              "Un objeto valioso",
+              "Un nuevo amigo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué época se desarrolla la historia?",
+            "options": [
+              "En los años 60",
+              "En los años 40",
+              "En los años 80"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de película es 'Ida'?",
+            "options": [
+              "Un drama",
+              "Una comedia",
+              "Un documental"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Ida: Una exploración poderosa de la identidad y el pasado",
+        "text": "La película 'Ida', dirigida por Paweł Pawlikowski, se inscribe dentro del contexto de la Polonia de los años 60, donde Anna, una joven en el umbral de convertirse en monja, se ve confrontada con un oscuro secreto familiar que cambia su vida. Esta historia no solo se presenta como un viaje físico a través del campo polaco, sino que también encierra una profunda meditación sobre la memoria, la identidad y el impacto persistente del pasado en el presente. La narrativa se desarrolla en un entorno marcado por la culpa y la violencia de la ocupación alemana, elementos que, aunque no se expresan de manera explícita, se sienten a lo largo del film. La elección del blanco y negro en la cinematografía actúa como un recurso estético que intensifica la atmósfera melancólica y, al mismo tiempo, resalta la belleza de las imágenes. Ganadora del Óscar a la Mejor Película Extranjera en 2015, 'Ida' se erige como un hito en la historia del cine polaco, siendo aclamada no solo por su narrativa visual, sino también por su capacidad para invocar reflexiones sobre el dolor colectivo y la historia compartida. En definitiva, es una obra que invita a los espectadores a confrontar sus propias memorias.",
+        "vocabulary": [
+          {
+            "word": "umbral",
+            "definition": "el límite o inicio de algo."
+          },
+          {
+            "word": "meditación",
+            "definition": "un pensamiento reflexivo y profundo."
+          },
+          {
+            "word": "persistente",
+            "definition": "que sigue presente o no desaparece."
+          },
+          {
+            "word": "intensificar",
+            "definition": "hacer que algo sea más fuerte o marcado."
+          },
+          {
+            "word": "hito",
+            "definition": "un evento o un logro importante."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué habilidad destaca la película en relación a la memoria?",
+            "options": [
+              "Evocar reflexiones",
+              "Crear humor",
+              "Ignorar la historia"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué estilo visual utiliza 'Ida'?",
+            "options": [
+              "Blanco y negro",
+              "Colores brillantes",
+              "Animación"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué premio ganó 'Ida' en 2015?",
+            "options": [
+              "Óscar a la mejor película extranjera",
+              "Premio BAFTA",
+              "César al mejor director"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ida: Una obra maestra de la memoria y la identidad",
+        "text": "Con una narrativa que invita a la introspección, 'Ida' de Paweł Pawlikowski no solo presenta la historia de una joven novicia a punto de tomar sus votos, sino que es un reflejo denso de la identidad polaca post-Segunda Guerra Mundial. La búsqueda de Anna, quien descubre su herencia judía, plantea preguntas provocativas sobre la memoria colectiva, la culpa y la represión de un pasado traumático, elementos subyacentes que, sin ser enunciados explícitamente, impregnan cada fotograma del filme. La utilización del blanco y negro, con una composición visual que se asemeja a la pintura, no solo establece un tono melancólico, sino que también obliga al espectador a contemplar la complejidad de las emociones humanas ante la historia. La cinematografía, junto a una banda sonora envolvente, crea un ambiente casi hipnótico que resuena más allá de su corta duración. Reconocida a nivel mundial, 'Ida' no es simplemente un relato sobre el pasado, sino una exploración profunda de cómo el sufrimiento y la herencia configuran el presente, haciendo eco de la fragilidad de la identidad y del peso del silencio en la historia. En suma, es una obra que trasciende su periodo histórico, convirtiéndose en un referente indispensable para entender la condición humana.",
+        "vocabulary": [
+          {
+            "word": "introspección",
+            "definition": "el examen profundo de los propios pensamientos y sentimientos."
+          },
+          {
+            "word": "herencia",
+            "definition": "lo que se recibe de antepasados."
+          },
+          {
+            "word": "reprimido",
+            "definition": "algo que se mantiene oculto o suprimido."
+          },
+          {
+            "word": "imprentar",
+            "definition": "dar una impresión duradera."
+          },
+          {
+            "word": "trascender",
+            "definition": "ir más allá de algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué representa la búsqueda de Anna en 'Ida'?",
+            "options": [
+              "Una exploración de su herencia",
+              "Un viaje sin significado",
+              "Un documento histórico"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué recurso estético se utiliza en la película?",
+            "options": [
+              "El blanco y negro",
+              "Colores vibrantes",
+              "Animación digital"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué sensación evoca el filme más allá de su duración?",
+            "options": [
+              "Más allá de la historia polaca",
+              "Solo el sufrimiento",
+              "Una comedia ligera"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "ida": "Ida",
+      "ist": "is",
+      "ein": "a",
+      "film": "film",
+      "aus": "from",
+      "polen": "Poland",
+      "der": "the",
+      "spielt": "plays",
+      "in": "in",
+      "den": "the",
+      "er": "he",
+      "jahren": "years",
+      "die": "the",
+      "hauptfigur": "main character",
+      "heißt": "is called",
+      "anna": "Anna",
+      "sie": "they",
+      "will": "wants",
+      "nonne": "nun",
+      "werden": "will",
+      "hat": "has",
+      "geheimnis": "secret",
+      "ihre": "their",
+      "eltern": "parents",
+      "sind": "are",
+      "tot": "dead",
+      "trifft": "meets",
+      "tante": "aunt",
+      "erzählt": "tells",
+      "dass": "that",
+      "jüdisch": "Jewish",
+      "beiden": "both",
+      "frauen": "women",
+      "reisen": "to travel",
+      "suchen": "to search",
+      "wahrheit": "truth",
+      "über": "about",
+      "familie": "family",
+      "auf": "to",
+      "ihrer": "their",
+      "reise": "journey",
+      "sehen": "to see",
+      "viele": "many",
+      "schöne": "beautiful",
+      "landschaften": "landscapes",
+      "sprechen": "to speak",
+      "vergangenheit": "past",
+      "interessantes": "interesting",
+      "thema": "theme",
+      "handelt": "acts",
+      "von": "from",
+      "verlust": "loss",
+      "und": "and",
+      "identität": "identity",
+      "leute": "people",
+      "mögen": "to like",
+      "einen": "a",
+      "wichtigen": "important",
+      "preis": "prize",
+      "gewonnen": "won",
+      "sehr": "very",
+      "beliebt": "popular",
+      "ganzen": "whole",
+      "welt": "world",
+      "drama": "drama",
+      "dem": "the",
+      "jahr": "year",
+      "kommt": "comes",
+      "dänemark": "Denmark",
+      "geschichte": "history",
+      "eine": "a",
+      "junge": "boy",
+      "frau": "woman",
+      "nahe": "near",
+      "daran": "about it",
+      "zu": "to",
+      "aber": "but",
+      "entdeckt": "discovered",
+      "lebten": "lived",
+      "während": "during",
+      "des": "of the",
+      "krieges": "war",
+      "ihr": "your",
+      "etwas": "something",
+      "wichtiges": "important",
+      "erfährt": "experiences",
+      "waren": "were",
+      "diese": "this",
+      "neuigkeit": "news",
+      "verändert": "changes",
+      "alles": "everything",
+      "für": "for",
+      "reist": "travels",
+      "mit": "with",
+      "besuchen": "to visit",
+      "orte": "places",
+      "verbunden": "connected",
+      "emotional": "emotional",
+      "bewegend": "moving",
+      "bilder": "images",
+      "im": "in the",
+      "schwarz-weiß": "black-and-white",
+      "zeigen": "to show",
+      "triste": "sad",
+      "realität": "reality",
+      "dieser": "this",
+      "zeit": "time",
+      "stil": "style",
+      "schön": "beautiful",
+      "unverwechselbar": "distinctive",
+      "zuschauer": "spectators",
+      "finden": "to find",
+      "beeindruckend": "impressive",
+      "nicht": "not",
+      "nur": "only",
+      "sondern": "but",
+      "auch": "also",
+      "international": "international",
+      "kritiker": "critic",
+      "sagen": "say",
+      "atmosphäre": "atmosphere",
+      "films": "films",
+      "schwierigen": "difficult",
+      "themen": "topics",
+      "gut": "well",
+      "zeigt": "shows",
+      "preisgekröntes": "award-winning",
+      "das": "that",
+      "paweł": "Pawel",
+      "pawlikowski": "Pawlikowski",
+      "inszeniert": "staged",
+      "wurde": "was",
+      "befindet": "is located",
+      "sich": "oneself",
+      "novizin": "novice",
+      "kurz": "short",
+      "davor": "against it",
+      "steht": "stands",
+      "weihe": "consecration",
+      "vorbereitet": "prepared",
+      "familiengeheimnis": "family secret",
+      "ganzes": "whole",
+      "leben": "life",
+      "verändern": "to change",
+      "wird": "will",
+      "deutschen": "Germans",
+      "besetzung": "cast",
+      "zweiten": "second",
+      "weltkrieg": "world war",
+      "gestorben": "died",
+      "meinung": "opinion",
+      "nach": "after",
+      "strenge": "strictness",
+      "geheimnisvolle": "mysterious",
+      "zur": "to the",
+      "einzigen": "single",
+      "lebenden": "living",
+      "verwandten": "relatives",
+      "jüdische": "Jewish",
+      "wurzeln": "roots",
+      "information": "information",
+      "schockiert": "shocked",
+      "nie": "never",
+      "herkunft": "origin",
+      "nachgedacht": "thought",
+      "machen": "to make",
+      "polnische": "Polish",
+      "landschaft": "landscape",
+      "um": "around",
+      "entdecken": "to discover",
+      "dort": "there",
+      "stillen": "quiet",
+      "dörfern": "villages",
+      "verbrechen": "crime",
+      "kollektion": "collection",
+      "erinnerungen": "memories",
+      "verloren": "lost",
+      "gingen": "went",
+      "behandelt": "treated",
+      "wichtige": "important",
+      "wie": "like",
+      "schuld": "debt",
+      "verletzungen": "injuries",
+      "durch": "through",
+      "krieg": "war",
+      "entstanden": "arisen",
+      "schwarz-weißen": "black-and-white",
+      "verstärken": "to strengthen",
+      "melancholische": "melancholic",
+      "lassen": "to let",
+      "traurigkeit": "sadness",
+      "spüren": "to feel",
+      "gefeiert": "celebrated",
+      "erhielt": "received",
+      "oscar": "oscar",
+      "besten": "best",
+      "nicht-englischsprachigen": "non-English-speaking",
+      "sein": "his",
+      "tiefe": "deep",
+      "geschichten": "stories",
+      "ihn": "him",
+      "einzigartig": "unique",
+      "filmgeschichte": "film history",
+      "gibt": "gives",
+      "uns": "us",
+      "blick": "glance",
+      "entdeckung": "discovery",
+      "suche": "search",
+      "unter": "under",
+      "regie": "direction",
+      "bewegende": "moving",
+      "jungen": "young",
+      "jahre": "years",
+      "schwelle": "threshold",
+      "ewigen": "eternal",
+      "zugehörigkeit": "affiliation",
+      "katholischen": "Catholic",
+      "kirche": "church",
+      "beginn": "beginning",
+      "schockierendes": "shocking",
+      "begibt": "commits",
+      "weg": "way",
+      "mehr": "more",
+      "erfahren": "experienced",
+      "visuell": "visual",
+      "tiefgehende": "profound",
+      "erbe": "heritage",
+      "schmerz": "pain",
+      "trauma": "trauma",
+      "ehemalige": "former",
+      "kommissarin": "commissioner",
+      "düstere": "gloomy",
+      "spürbar": "noticeable",
+      "karge": "meager",
+      "bildsprache": "imagery",
+      "gespielt": "played",
+      "licht": "light",
+      "schatten": "shadow",
+      "verstärkt": "intensified",
+      "emotionalen": "emotional",
+      "aspekte": "aspects",
+      "handlung": "action",
+      "langsame": "slow",
+      "rhythmus": "rhythm",
+      "lässt": "lets",
+      "zum": "to the",
+      "nachdenken": "to think",
+      "fühlen": "to feel",
+      "sowohl": "both",
+      "persönliches": "personal",
+      "als": "than",
+      "kollektives": "collective",
+      "jahres": "year",
+      "fesselte": "captivated",
+      "meisterwerk": "masterpiece",
+      "internationalen": "international",
+      "kino": "cinema",
+      "insbesondere": "especially",
+      "da": "there",
+      "es": "it",
+      "gewann": "won",
+      "kunstvolles": "artful",
+      "porträt": "portrait",
+      "identitätsfindung": "identity finding",
+      "pawel": "Pawel",
+      "pawlikowskis": "Pawlikowski's",
+      "entfaltet": "unfolds",
+      "eindringliches": "intrusive",
+      "inmitten": "amid",
+      "einer": "one",
+      "belasteten": "burdened",
+      "an": "at",
+      "klosterleben": "monastic life",
+      "jüdischen": "Jewish",
+      "dunklen": "dark",
+      "verborgen": "hidden",
+      "lagen": "situations",
+      "zentraler": "central",
+      "bedeutung": "meaning",
+      "wirft": "raises",
+      "gewichtige": "weighty",
+      "fragen": "questions",
+      "umgang": "handling",
+      "vergangenem": "past",
+      "schleichende": "subtle",
+      "enthüllung": "revelation",
+      "führt": "leads",
+      "frühere": "former",
+      "staatsanwältin": "prosecutor",
+      "kommunistischen": "communist",
+      "ära": "era",
+      "emotionale": "emotional",
+      "roadmovie-elemente": "road movie elements",
+      "verbinden": "to connect",
+      "subtil": "subtle",
+      "bedrückenden": "oppressive",
+      "stimmung": "mood",
+      "filmsprache": "film language",
+      "meisterhaft": "masterful",
+      "geschaffen": "created",
+      "rigorose": "rigorous",
+      "schwarz-weiß-ästhetik": "black-and-white aesthetics",
+      "sowie": "as well as",
+      "gezielte": "targeted",
+      "einsatz": "effort",
+      "illustrieren": "to illustrate",
+      "innere": "inner",
+      "konflikte": "conflicts",
+      "leere": "emptiness",
+      "nachkriegszeit": "post-war period",
+      "bevölkerung": "population",
+      "leiden": "to suffer",
+      "stille": "silence",
+      "langsamen": "slow",
+      "bewegungen": "movements",
+      "holocaust": "Holocaust",
+      "erschütterten": "shook",
+      "existenz": "existence",
+      "interaktionen": "interactions",
+      "charaktere": "characters",
+      "offenbart": "reveals",
+      "stellt": "presents",
+      "somit": "thus",
+      "individuelle": "individual",
+      "reflektiert": "reflected",
+      "gleichem": "same",
+      "maße": "dimensions",
+      "geschichtsbewusstsein": "historical consciousness",
+      "erdrückende": "overwhelming",
+      "last": "burden",
+      "erinnerung": "memory",
+      "schrecken": "terror",
+      "gesellschaft": "society",
+      "bis": "up to",
+      "heute": "today",
+      "prägen": "to shape",
+      "dies": "this",
+      "internationale": "international",
+      "anerkennung": "recognition",
+      "einschließlich": "including",
+      "eines": "one",
+      "oscars": "oscars",
+      "verdeutlicht": "clarifies",
+      "anhaltende": "persistent",
+      "relevanz": "relevance",
+      "werkes": "work",
+      "zeitgenössischen": "contemporary",
+      "filmischen": "filmic",
+      "diskussion": "discussion",
+      "unterstreicht": "emphasizes",
+      "seine": "his",
+      "fähigkeit": "ability",
+      "tief": "deep",
+      "verwurzelte": "rooted",
+      "gefühle": "feelings",
+      "anzusprechen": "to address",
+      "bestätigt": "confirmed",
+      "elegie": "elegy",
+      "stillstand": "standstill",
+      "entpuppt": "turns out",
+      "faszinierendes": "fascinating",
+      "konzipiertes": "designed",
+      "ästhetische": "aesthetic",
+      "meisterschaft": "mastery",
+      "besticht": "enchants",
+      "tiefgreifende": "profound",
+      "reflexion": "reflection",
+      "kollektive": "collective",
+      "nation": "nation",
+      "protagonistin": "protagonist",
+      "noviziat": "novitiate",
+      "muss": "must",
+      "konfrontiert": "confronted",
+      "aufdeckung": "revelation",
+      "stellen": "to provide",
+      "abwesenheit": "absence",
+      "besatzung": "crew",
+      "geprägt": "shaped",
+      "wahl": "election",
+      "umreißt": "outlines",
+      "ergreifende": "moving",
+      "fungiert": "to function",
+      "metapher": "metaphor",
+      "selbsterkenntnis": "self-discovery",
+      "verdrängung": "repression",
+      "geprägten": "shaped",
+      "bedrückende": "oppressive",
+      "gleichmäßige": "uniform",
+      "bildfolgen": "image sequences",
+      "hervorruft": "causes",
+      "simuliert": "simulates",
+      "gefühl": "feeling",
+      "stillstands": "standstill",
+      "trauer": "mourning",
+      "scharfen": "sharp",
+      "kontraste": "contrasts",
+      "zwischen": "between",
+      "dunkelheit": "darkness",
+      "dazu": "additionally",
+      "dienen": "to serve",
+      "gewissenskonflikte": "moral conflicts",
+      "aufzuzeigen": "to show",
+      "damit": "so that",
+      "erlangt": "gained",
+      "universelle": "universal",
+      "dimension": "dimension",
+      "unvermeidlichen": "inevitable",
+      "gewissen": "conscience",
+      "anhaltenden": "prolonged",
+      "nachhall": "resonance",
+      "erzeugen": "to produce",
+      "weit": "far",
+      "schicksal": "fate",
+      "hinausreicht": "extends beyond",
+      "eindringliche": "urgent",
+      "erzählung": "narrative",
+      "komplexe": "complex",
+      "menschlichen": "human",
+      "bestätigung": "confirmation",
+      "geistes": "mind"
+    },
+    "fr": {
+      "ida": "Ida",
+      "est": "is",
+      "un": "a",
+      "film": "film",
+      "important": "important",
+      "il": "he",
+      "polonais": "Polish",
+      "et": "and",
+      "danois": "Danish",
+      "le": "the",
+      "se": "yourself",
+      "passe": "passes",
+      "en": "in",
+      "pologne": "poland",
+      "dans": "in",
+      "les": "the",
+      "années": "years",
+      "anna": "Anna",
+      "une": "a",
+      "jeune": "young",
+      "femme": "woman",
+      "elle": "she",
+      "veut": "wants",
+      "devenir": "to become",
+      "nonne": "nun",
+      "couvent": "convent",
+      "avant": "before",
+      "de": "of",
+      "prendre": "to take",
+      "ses": "his",
+      "vœux": "vows",
+      "découvre": "discovers",
+      "secret": "secret",
+      "famille": "family",
+      "ce": "this",
+      "triste": "sad",
+      "change": "change",
+      "tout": "all",
+      "parle": "speaks",
+      "avec": "with",
+      "sa": "its",
+      "tante": "aunt",
+      "qui": "who",
+      "ancienne": "former",
+      "juge": "judge",
+      "la": "the",
+      "histoire": "history",
+      "complexe": "complex",
+      "elles": "they",
+      "voyagent": "travel",
+      "ensemble": "together",
+      "travers": "crossing",
+      "cette": "this",
+      "route": "road",
+      "belle": "beautiful",
+      "pleine": "full",
+      "souvenirs": "memories",
+      "trouve": "finds",
+      "des": "some",
+      "réponses": "responses",
+      "sur": "about",
+      "parents": "parents",
+      "beau": "handsome",
+      "touchant": "touching",
+      "thèmes": "themes",
+      "perte": "loss",
+      "identité": "identity",
+      "chef-d'œuvre": "masterpiece",
+      "du": "of the",
+      "cinéma": "cinema",
+      "réalisé": "achieved",
+      "par": "by",
+      "paweł": "Paweł",
+      "pawlikowski": "Pawlikowski",
+      "sort": "fate",
+      "produit": "product",
+      "au": "at the",
+      "danemark": "Denmark",
+      "être": "to be",
+      "mais": "but",
+      "effet": "effect",
+      "apprend": "learns",
+      "juive": "Jewish",
+      "va": "goes",
+      "voir": "to see",
+      "seule": "alone",
+      "lui": "him",
+      "reste": "rest",
+      "était": "was",
+      "procureur": "prosecutor",
+      "sous": "under",
+      "régime": "regime",
+      "communiste": "communist",
+      "partent": "leave",
+      "voyage": "trip",
+      "campagne": "campaign",
+      "polonaise": "Polish",
+      "pour": "for",
+      "cherchent": "search",
+      "leur": "their",
+      "passé": "past",
+      "montre": "shows",
+      "comme": "like",
+      "recherche": "research",
+      "mémoire": "memory",
+      "musique": "music",
+      "images": "images",
+      "sont": "are",
+      "très": "very",
+      "belles": "beautiful",
+      "beaucoup": "a lot",
+      "critiques": "criticisms",
+      "disent": "say",
+      "que": "that",
+      "œuvre": "work",
+      "art": "art",
+      "même": "even",
+      "gagné": "won",
+      "oscar": "oscar",
+      "rare": "rare",
+      "dramatique": "dramatic",
+      "déroule": "unfolds",
+      "période": "period",
+      "marquée": "marked",
+      "douloureux": "painful",
+      "liés": "linked",
+      "seconde": "second",
+      "guerre": "war",
+      "mondiale": "global",
+      "point": "point",
+      "vit": "lives",
+      "vie": "life",
+      "tranquille": "calm",
+      "catholique": "catholic",
+      "toutefois": "however",
+      "bascule": "to tip",
+      "lorsqu'elle": "when she",
+      "familial": "family",
+      "parente": "relative",
+      "été": "been",
+      "pendant": "during",
+      "époque": "era",
+      "révèle": "reveals",
+      "étaient": "were",
+      "juifs": "Jews",
+      "moment": "moment",
+      "crucial": "crucial",
+      "complètement": "completely",
+      "perspective": "perspective",
+      "rend": "makes",
+      "compte": "account",
+      "autre": "other",
+      "explorer": "to explore",
+      "décide": "decides",
+      "alors": "then",
+      "partir": "to leave",
+      "rechercher": "to research",
+      "racines": "roots",
+      "représente": "represents",
+      "non": "no",
+      "seulement": "only",
+      "quête": "quest",
+      "vérité": "truth",
+      "fait": "makes",
+      "aussi": "also",
+      "ressurgir": "to resurface",
+      "souffrance": "suffering",
+      "ceux": "those",
+      "ont": "have",
+      "perdus": "lost",
+      "aborde": "addresses",
+      "lourds": "heavy",
+      "tels": "such",
+      "culpabilité": "guilt",
+      "violence": "violence",
+      "caché": "hidden",
+      "photographie": "photography",
+      "noir": "black",
+      "blanc": "white",
+      "crée": "creates",
+      "ambiance": "atmosphere",
+      "particulière": "particular",
+      "illustrant": "illustrating",
+      "mélancolie": "melancholy",
+      "plus": "more",
+      "bande": "band",
+      "sonore": "sound",
+      "accompagne": "accompanies",
+      "récit": "story",
+      "délicatesse": "delicacy",
+      "accentuant": "accentuating",
+      "émotions": "emotions",
+      "personnages": "characters",
+      "reçu": "received",
+      "nombreux": "many",
+      "prix": "prize",
+      "dont": "whose",
+      "meilleur": "better",
+      "langue": "language",
+      "étrangère": "foreign",
+      "salué": "hailed",
+      "critique": "criticism",
+      "profondeur": "depth",
+      "beauté": "beauty",
+      "esthétique": "aesthetic",
+      "plonge": "dives",
+      "spectateur": "spectator",
+      "début": "beginning",
+      "noviciate": "novitiate",
+      "prononcer": "to pronounce",
+      "religieux": "religious",
+      "cependant": "however",
+      "sombre": "dark",
+      "mystérieux": "mysterious",
+      "bien": "well",
+      "narration": "narration",
+      "semble": "seems",
+      "simple": "simple",
+      "profonds": "deep",
+      "poids": "weight",
+      "magnifiquement": "magnificently",
+      "composée": "composed",
+      "accentue": "accentuates",
+      "atmosphère": "atmosphere",
+      "angoisse": "anguish",
+      "chaque": "each",
+      "image": "image",
+      "imprégnée": "imbued",
+      "tragique": "tragic",
+      "pays": "country",
+      "relation": "relation",
+      "entre": "between",
+      "intense": "intense",
+      "symbolise": "symbolizes",
+      "celle": "that one",
+      "soi": "self",
+      "raison": "reason",
+      "son": "his",
+      "approche": "approach",
+      "discours": "speech",
+      "subtil": "subtle",
+      "événements": "events",
+      "historiques": "historical",
+      "tragiques": "tragic",
+      "souvent": "often",
+      "considéré": "considered",
+      "classique": "classic",
+      "moderne": "modern",
+      "respecté": "respected",
+      "reconnu": "recognized",
+      "scène": "scene",
+      "internationale": "international",
+      "ayant": "having",
+      "remporté": "won",
+      "étranger": "foreigner",
+      "acclamé": "acclaimed",
+      "ne": "not",
+      "limite": "limit",
+      "pas": "not",
+      "personnelle": "personal",
+      "tandis": "while",
+      "future": "future",
+      "religieuse": "religious",
+      "apprête": "to prepare",
+      "entrer": "to enter",
+      "monastique": "monastic",
+      "confrontée": "faced",
+      "révélation": "revelation",
+      "déstabilisante": "destabilizing",
+      "concernant": "concerning",
+      "origines": "origins",
+      "juives": "Jewish",
+      "initiatique": "initiatory",
+      "marqué": "marked",
+      "rencontre": "meeting",
+      "présent": "present",
+      "tristesse": "sadness",
+      "secrets": "secrets",
+      "révélés": "revealed",
+      "créant": "creating",
+      "ainsi": "thus",
+      "fois": "times",
+      "éthérée": "ethereal",
+      "pesante": "heavy",
+      "utilise": "uses",
+      "rythme": "rhythm",
+      "contemplatif": "contemplative",
+      "laissant": "leaving",
+      "immerger": "to immerse",
+      "visuelle": "visual",
+      "où": "where",
+      "plan": "plan",
+      "construit": "built",
+      "soin": "care",
+      "méticulosité": "meticulousness",
+      "abordant": "addressing",
+      "aliénation": "alienation",
+      "réflexion": "reflection",
+      "profonde": "deep",
+      "collective": "collective",
+      "reconnaissance": "recognition",
+      "illustrée": "illustrated",
+      "témoigne": "testifies",
+      "impact": "impact",
+      "durable": "sustainable",
+      "exploration": "exploration",
+      "profondeurs": "depths",
+      "humaines": "human",
+      "emblématique": "emblematic",
+      "transcende": "transcends",
+      "trame": "plot",
+      "narrative": "narrative",
+      "véritable": "true",
+      "méditation": "meditation",
+      "existentielle": "existential",
+      "séquelles": "aftereffects",
+      "traumatismes": "traumas",
+      "protagoniste": "protagonist",
+      "prépare": "prepares",
+      "plongée": "dive",
+      "imprégné": "imbued",
+      "révélant": "revealing",
+      "arbre": "tree",
+      "généalogique": "genealogical",
+      "tragédie": "tragedy",
+      "entrelace": "interweaves",
+      "magnificence": "magnificence",
+      "sert": "serves",
+      "écrin": "setting",
+      "ces": "these",
+      "réflexions": "reflections",
+      "minutieusement": "meticulously",
+      "élaboré": "developed",
+      "capturant": "capturing",
+      "fragile": "fragile",
+      "monde": "world",
+      "décomposition": "decomposition",
+      "élancé": "slender",
+      "retenu": "held",
+      "temporalité": "temporality",
+      "délibérément": "deliberately",
+      "étirée": "stretched",
+      "permet": "allows",
+      "ressentir": "to feel",
+      "nostalgie": "nostalgia",
+      "intégrant": "integrating",
+      "question": "question",
+      "répercussions": "repercussions",
+      "stalinisme": "Stalinism",
+      "réussit": "succeeds",
+      "créer": "to create",
+      "univers": "universe",
+      "invisible": "invisible",
+      "tangible": "tangible",
+      "subtilement": "subtly",
+      "silences": "silences",
+      "non-dits": "unsaid",
+      "inviter": "to invite",
+      "introspection": "introspection",
+      "remportant": "winning",
+      "cinématographique": "cinematic"
+    },
+    "es": {
+      "ida": "trip",
+      "es": "is",
+      "una": "a",
+      "película": "movie",
+      "la": "the",
+      "directora": "director",
+      "paweł": "Paweł",
+      "pawlikowski": "Pawlikowski",
+      "historia": "story",
+      "en": "in",
+      "polonia": "Poland",
+      "los": "the",
+      "años": "years",
+      "sesenta": "sixty",
+      "anna": "anna",
+      "joven": "young",
+      "ella": "she",
+      "quiere": "wants",
+      "ser": "to be",
+      "monja": "nun",
+      "tiene": "has",
+      "un": "a",
+      "secreto": "secret",
+      "su": "his",
+      "familia": "family",
+      "busca": "seeks",
+      "tía": "aunt",
+      "única": "unique",
+      "que": "that",
+      "se": "oneself",
+      "siente": "feels",
+      "sola": "alone",
+      "triste": "sad",
+      "ellas": "they",
+      "viajan": "travel",
+      "por": "for",
+      "hermosa": "beautiful",
+      "este": "this",
+      "viaje": "trip",
+      "importante": "important",
+      "para": "to",
+      "ambas": "both",
+      "descubren": "discover",
+      "el": "the",
+      "pasado": "past",
+      "de": "of",
+      "verdad": "truth",
+      "difícil": "difficult",
+      "pero": "but",
+      "necesaria": "necessary",
+      "dramática": "dramatic",
+      "música": "music",
+      "también": "also",
+      "muy": "very",
+      "emotiva": "emotional",
+      "gana": "earnings",
+      "premio": "award",
+      "drama": "drama",
+      "fue": "was",
+      "dirigida": "directed",
+      "sobre": "about",
+      "inquieta": "uneasy",
+      "queda": "remains",
+      "era": "was",
+      "fiscal": "prosecutor",
+      "época": "era",
+      "del": "of the",
+      "comunismo": "communism",
+      "realizan": "carry out",
+      "campo": "field",
+      "polaco": "Polish",
+      "donde": "where",
+      "exploran": "explore",
+      "paisajes": "landscapes",
+      "hermosos": "beautiful",
+      "desolados": "desolate",
+      "durante": "during",
+      "descubre": "discovers",
+      "más": "more",
+      "sus": "their",
+      "padres": "parents",
+      "muestra": "shows",
+      "búsqueda": "search",
+      "identidad": "identity",
+      "país": "country",
+      "marcado": "marked",
+      "dolor": "pain",
+      "culpa": "blame",
+      "ambiente": "environment",
+      "oscuro": "dark",
+      "bello": "beautiful",
+      "reflejando": "reflecting",
+      "tristeza": "sadness",
+      "ganó": "won",
+      "óscar": "Oscar",
+      "muchos": "many",
+      "premios": "awards",
+      "profunda": "profound",
+      "narrativa": "narrative",
+      "impresionante": "impressive",
+      "cinematografía": "cinematography",
+      "habla": "speaks",
+      "temas": "themes",
+      "complejos": "complexes",
+      "como": "like",
+      "muerte": "death",
+      "amor": "love",
+      "perdido": "lost",
+      "considerada": "considered",
+      "obra": "work",
+      "maestra": "master",
+      "cine": "cinema",
+      "contemporáneo": "contemporary",
+      "ver": "see",
+      "esta": "this",
+      "entender": "to understand",
+      "mejor": "better",
+      "ocurre": "occurs",
+      "periodo": "period",
+      "aún": "still",
+      "recupera": "recovers",
+      "las": "the",
+      "secuelas": "aftermath",
+      "segunda": "second",
+      "guerra": "war",
+      "mundial": "global",
+      "prepara": "he/she prepares",
+      "familiar": "relative",
+      "cambia": "change",
+      "vida": "life",
+      "siempre": "always",
+      "régimen": "regime",
+      "comunista": "communist",
+      "le": "the",
+      "revela": "reveals",
+      "eran": "they were",
+      "judíos": "Jews",
+      "lo": "it",
+      "esther": "Esther",
+      "nunca": "never",
+      "había": "had",
+      "sabido": "known",
+      "descubrimiento": "discovery",
+      "impulsa": "it drives",
+      "mujeres": "women",
+      "emprender": "to undertake",
+      "buscan": "search",
+      "información": "information",
+      "raíces": "roots",
+      "enfrenta": "faces",
+      "está": "is",
+      "llena": "full",
+      "pérdida": "loss",
+      "no": "not",
+      "solo": "only",
+      "aborda": "he addresses",
+      "sino": "but",
+      "gran": "great",
+      "impacto": "impact",
+      "personas": "people",
+      "además": "furthermore",
+      "atmósfera": "atmosphere",
+      "densa": "dense",
+      "casi": "almost",
+      "mágica": "magical",
+      "imágenes": "images",
+      "blanco": "white",
+      "negro": "black",
+      "crean": "create",
+      "fuerte": "strong",
+      "visual": "visual",
+      "ha": "has",
+      "sido": "been",
+      "bien": "well",
+      "recibida": "received",
+      "ganado": "cattle",
+      "importantes": "important",
+      "convirtiéndose": "becoming",
+      "primera": "first",
+      "polaca": "Polish",
+      "recibir": "to receive",
+      "honor": "honor",
+      "invita": "invites",
+      "reflexión": "reflection",
+      "memoria": "memory",
+      "histórica": "historic",
+      "muchas": "many",
+      "han": "they have",
+      "visto": "seen",
+      "cambiado": "changed",
+      "perspectiva": "perspective",
+      "situación": "situation",
+      "críticos": "critics",
+      "elogiado": "praised",
+      "belleza": "beauty",
+      "estética": "aesthetic",
+      "hacia": "toward",
+      "novicia": "novice",
+      "paso": "step",
+      "tomar": "take",
+      "votos": "votes",
+      "sin": "without",
+      "embargo": "however",
+      "da": "gives",
+      "giro": "turn",
+      "inesperado": "unexpected",
+      "cuando": "when",
+      "remonta": "to recover",
+      "ocupación": "occupation",
+      "alemana": "german",
+      "retrata": "portrays",
+      "personal": "personal",
+      "sufrimiento": "suffering",
+      "histórico": "historic",
+      "largo": "long",
+      "metraje": "length",
+      "carga": "load",
+      "sensación": "feeling",
+      "pesadez": "weight",
+      "melancolía": "melancholy",
+      "cada": "each",
+      "escena": "scene",
+      "compuesta": "composed",
+      "con": "with",
+      "atención": "attention",
+      "al": "to the",
+      "detalle": "detail",
+      "resalta": "highlights",
+      "ese": "that",
+      "tiempo": "time",
+      "junto": "together",
+      "banda": "band",
+      "sonora": "sound",
+      "crea": "creates",
+      "etéreo": "ethereal",
+      "acompaña": "to accompany",
+      "físico": "physical",
+      "emocional": "emotional",
+      "protagonistas": "protagonists",
+      "aclamada": "acclaimed",
+      "compacta": "compact",
+      "valió": "was worth",
+      "extranjera": "foreign",
+      "aunque": "although",
+      "sumida": "submerged",
+      "penumbra": "twilight",
+      "convierte": "turns",
+      "exploración": "exploration",
+      "universitaria": "university",
+      "mostrando": "showing",
+      "olvida": "forgets",
+      "moldea": "shapes",
+      "nuestra": "our",
+      "existencia": "existence",
+      "presente": "present",
+      "poderosa": "powerful",
+      "inscribe": "inscribes",
+      "dentro": "within",
+      "contexto": "context",
+      "umbral": "threshold",
+      "convertirse": "to become",
+      "ve": "sees",
+      "confrontada": "confronted",
+      "presenta": "presents",
+      "través": "through",
+      "encierra": "encloses",
+      "meditación": "meditation",
+      "persistente": "persistent",
+      "desarrolla": "develops",
+      "entorno": "environment",
+      "violencia": "violence",
+      "elementos": "elements",
+      "expresan": "express",
+      "manera": "way",
+      "explícita": "explicit",
+      "sienten": "feel",
+      "film": "film",
+      "elección": "election",
+      "actúa": "acts",
+      "recurso": "resource",
+      "estético": "aesthetic",
+      "intensifica": "intensifies",
+      "melancólica": "melancholic",
+      "mismo": "same",
+      "ganadora": "winner",
+      "erige": "erects",
+      "hito": "milestone",
+      "siendo": "being",
+      "capacidad": "capacity",
+      "invocar": "to invoke",
+      "reflexiones": "reflections",
+      "colectivo": "collective",
+      "compartida": "shared",
+      "definitiva": "definitive",
+      "espectadores": "viewers",
+      "confrontar": "to confront",
+      "propias": "own",
+      "memorias": "memories",
+      "introspección": "introspection",
+      "punto": "point",
+      "reflejo": "reflection",
+      "denso": "dense",
+      "post-segunda": "post-second",
+      "quien": "who",
+      "herencia": "heritage",
+      "judía": "Jewish",
+      "plantea": "raises",
+      "preguntas": "questions",
+      "provocativas": "provocative",
+      "colectiva": "collective",
+      "represión": "repression",
+      "traumático": "traumatic",
+      "subyacentes": "underlying",
+      "enunciados": "statements",
+      "explícitamente": "explicitly",
+      "impregnan": "impregnate",
+      "fotograma": "frame",
+      "filme": "film",
+      "utilización": "use",
+      "composición": "composition",
+      "asemeja": "resembles",
+      "pintura": "painting",
+      "establece": "establishes",
+      "tono": "tone",
+      "melancólico": "melancholic",
+      "obliga": "to force",
+      "espectador": "viewer",
+      "contemplar": "to contemplate",
+      "complejidad": "complexity",
+      "emociones": "emotions",
+      "humanas": "human",
+      "ante": "in the face of",
+      "envolvente": "immersive",
+      "hipnótico": "hypnotic",
+      "resuena": "resonates",
+      "allá": "there",
+      "corta": "short",
+      "duración": "duration",
+      "reconocida": "recognized",
+      "nivel": "level",
+      "simplemente": "simply",
+      "relato": "story",
+      "cómo": "how",
+      "configuran": "shape",
+      "haciendo": "doing",
+      "eco": "echo",
+      "fragilidad": "fragility",
+      "peso": "weight",
+      "silencio": "silence",
+      "suma": "sum",
+      "trasciende": "transcends",
+      "referente": "referent",
+      "indispensable": "essential",
+      "condición": "condition",
+      "humana": "human"
+    }
+  }
+}

@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-27-ida-pawe-pawlikowski",
+    "date": "2026-07-27",
+    "director": "Paweł Pawlikowski",
+    "image": "https://image.tmdb.org/t/p/w780/oFrwnliM6TtAyWo6nIP8YpJbIvi.jpg",
+    "titles": {
+      "en": "Ida",
+      "de": "Ida",
+      "fr": "Ida",
+      "es": "Ida"
+    }
+  },
+  {
     "id": "2026-07-26-the-celebration-thomas-vinterberg",
     "date": "2026-07-26",
     "director": "Thomas Vinterberg",
