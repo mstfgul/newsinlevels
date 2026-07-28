@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-28-the-last-emperor-bernardo-bertolucci",
+    "date": "2026-07-28",
+    "director": "Bernardo Bertolucci",
+    "image": "https://image.tmdb.org/t/p/w780/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+    "titles": {
+      "en": "The Last Emperor",
+      "de": "Der letzte Kaiser",
+      "fr": "Le Dernier Empereur",
+      "es": "El último emperador"
+    }
+  },
+  {
     "id": "2026-07-27-ida-pawe-pawlikowski",
     "date": "2026-07-27",
     "director": "Paweł Pawlikowski",
