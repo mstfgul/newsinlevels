@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-28-johnson-johnson-offers-up-to-5-5bn-to-settle-baby-powder-law",
+    "date": "2026-07-28",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32ec/live/92eec930-8a52-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "business",
+    "titles": {
+      "en": "Johnson & Johnson Offers Settlement for Baby Powder Lawsuits",
+      "de": "Johnson & Johnson bietet Milliarden für Babypuder-Klagen",
+      "fr": "Johnson & Johnson offre un accord pour les plaintes de poudre pour bébé",
+      "es": "Johnson & Johnson ofrece acuerdo de 5.5 mil millones de dólares"
+    }
+  },
+  {
+    "id": "2026-07-28-trump-says-iran-war-talks-taking-place-during-lull-in-strike",
+    "date": "2026-07-28",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump Talks About Ongoing Negotiations with Iran",
+      "de": "Trump spricht über den Konflikt mit Iran",
+      "fr": "Trump parle des négociations et des frappes avec l'Iran",
+      "es": "Trump afirma que hay negociaciones sobre la guerra con Irán"
+    }
+  },
+  {
+    "id": "2026-07-28-on-the-front-line-of-ecuador-s-drugs-war-police-fight-gangs-",
+    "date": "2026-07-28",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee77/live/c385c6d0-89bb-11f1-965a-d70ca8fc6275.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Ecuador Police Combat Gangs and Drug Problems",
+      "de": "Der Kampf gegen Drogen in Ecuador",
+      "fr": "Le Capitaine Bustamante face aux gangs en Équateur",
+      "es": "Desafíos de la policía en Durán, Ecuador"
+    }
+  },
+  {
     "id": "2026-07-27-this-is-just-the-start-india-s-gen-z-protesters-force-out-a-",
     "date": "2026-07-27",
     "source": "BBC News",
