@@ -1,0 +1,2641 @@
+{
+  "id": "2026-07-28-the-plague-albert-camus",
+  "date": "2026-07-28",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Plague_(novel)"
+  },
+  "originalTitle": "The Plague (1947) — Albert Camus",
+  "image": "https://covers.openlibrary.org/b/id/745331-L.jpg",
+  "category": "book",
+  "book": {
+    "author": "Albert Camus",
+    "title": "The Plague",
+    "year": "1947"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Plague",
+        "text": "The Plague is a story by Albert Camus. It takes place in Oran, a city in Algeria. The city has a big problem. A terrible disease spreads everywhere. People get sick and cannot leave. The story shows how people react. They feel fear, sadness, and hope. Camus writes in a simple way. He asks big questions about life. What happens when we face danger? How do we find meaning? This book helps us think about life and death. It is important to read today.",
+        "vocabulary": [
+          {
+            "word": "disease",
+            "definition": "a sickness that can spread"
+          },
+          {
+            "word": "city",
+            "definition": "a big place where many people live"
+          },
+          {
+            "word": "people",
+            "definition": "human beings, men and women"
+          },
+          {
+            "word": "sick",
+            "definition": "not healthy"
+          },
+          {
+            "word": "hope",
+            "definition": "the feeling of wanting something good"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where does The Plague take place?",
+            "options": [
+              "In a big city",
+              "In a small town",
+              "In the countryside"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who wrote The Plague?",
+            "options": [
+              "Albert Camus",
+              "John Smith",
+              "Mary Jones"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the main problem in the story?",
+            "options": [
+              "A flood",
+              "A disease",
+              "A war"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Plague",
+        "text": "The Plague is a novel written by Albert Camus in 1947. It happens in Oran, Algeria. The city faces a serious problem when a disease, called plague, spreads very fast. The government puts the city in quarantine. This means people cannot leave Oran. Through the eyes of the characters, we see their fears and struggles. Some people fight against the sickness. Others change their lives. Camus wants us to think about life and death, and the meaning of our actions. His writing is direct and clear, making readers feel the emotions of the characters. The themes in this book are still important today, as they help us understand how people deal with crises and change.",
+        "vocabulary": [
+          {
+            "word": "quarantine",
+            "definition": "a time when people stay inside to avoid disease"
+          },
+          {
+            "word": "struggles",
+            "definition": "difficult experiences or fights against problems"
+          },
+          {
+            "word": "sickness",
+            "definition": "a state of being ill"
+          },
+          {
+            "word": "characters",
+            "definition": "the people in a story"
+          },
+          {
+            "word": "themes",
+            "definition": "the main ideas or topics in a story"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happens to the city of Oran?",
+            "options": [
+              "It is attacked",
+              "It faces a disease",
+              "It is destroyed by a flood"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What year was The Plague written?",
+            "options": [
+              "1947",
+              "1950",
+              "1940"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Camus make readers think about?",
+            "options": [
+              "Food and drink",
+              "Life and death",
+              "Movies and books"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Plague",
+        "text": "The Plague, a novel by Albert Camus published in 1947, explores life in the city of Oran, Algeria, during a plague outbreak that threatens to destroy the community. The residents of Oran face a terrifying situation as the disease spreads rapidly, forcing the government to impose a strict quarantine. This isolation leads to feelings of uncertainty and fear. Throughout the story, we see various characters who react differently to the crisis. Some show courage and sacrifice their comfort to help others, while others become selfish and indifferent, trying to escape their responsibilities. Camus skillfully uses simple yet powerful language to express deep emotions and provoke thoughts about human existence. The themes of suffering, isolation, and the search for meaning resonate strongly even today, prompting readers to think about how they would respond if such a crisis arose in their lives. As individuals cope with their emotions, they re-evaluate their values and beliefs when faced with adversity. Camus’s work invites us to reflect on our roles in society, reminding us that every choice matters. The Plague remains relevant, encouraging us to contemplate what it means to be human in difficult times, and how solidarity can lead to strength, even in the darkest situations.",
+        "vocabulary": [
+          {
+            "word": "quarantine",
+            "definition": "a state of isolation to prevent the spread of disease"
+          },
+          {
+            "word": "sacrifice",
+            "definition": "to give up something valuable for the sake of others or a cause"
+          },
+          {
+            "word": "adversity",
+            "definition": "difficult or unpleasant conditions"
+          },
+          {
+            "word": "community",
+            "definition": "a group of people living in the same area or sharing common interests"
+          },
+          {
+            "word": "existence",
+            "definition": "the fact of being real or living"
+          },
+          {
+            "word": "uncertainty",
+            "definition": "a situation where something is not known or is unpredictable"
+          },
+          {
+            "word": "courage",
+            "definition": "the ability to confront fear or difficulties"
+          },
+          {
+            "word": "solidarity",
+            "definition": "unity or agreement among individuals with a common interest"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happens to the city of Oran during the plague outbreak?",
+            "options": [
+              "It is put under a quarantine.",
+              "It becomes a tourist attraction.",
+              "It grows in population."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do the residents of Oran feel due to the quarantine?",
+            "options": [
+              "Excitement and joy.",
+              "Uncertainty and fear.",
+              "Anger and confusion."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Camus encourage readers to reflect on in his novel?",
+            "options": [
+              "Their favorite books.",
+              "Their roles in society during crises.",
+              "Their travel plans."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Plague by Albert Camus",
+        "text": "In \"The Plague,\" Albert Camus transports readers to the Algerian city of Oran, which faces a dangerous outbreak of a deadly disease. As the citizens deal with the growing crisis, the narrative explores themes of isolation, suffering, and the human response to tragedy. Camus vividly describes life in Oran, detailing how people react differently in the face of fear and uncertainty. With a focus on both individual struggle and collective experience, the book examines the limits of human reason in the face of a chaotic world. Not only does this novel delve into the absurdity of existence, but it also raises questions about morality and the responsibilities of individuals within a community. Published in 1947, amidst the aftermath of World War II, \"The Plague\" resonates deeply today, prompting readers to reflect on their own lives and society. It challenges us to consider how we might respond when faced with overwhelming challenges. Camus's unique narrative style, blending the starkness of reality with philosophical inquiry, compels readers to ponder significant issues that remain relevant across different eras.",
+        "vocabulary": [
+          {
+            "word": "outbreak",
+            "definition": "a sudden start of something bad, like a disease"
+          },
+          {
+            "word": "isolation",
+            "definition": "being alone or separated from others"
+          },
+          {
+            "word": "suffering",
+            "definition": "feeling pain or sadness"
+          },
+          {
+            "word": "collective",
+            "definition": "related to a group of people"
+          },
+          {
+            "word": "reflect",
+            "definition": "to think about something carefully"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where does the story take place?",
+            "options": [
+              "In Paris",
+              "In Oran",
+              "In London"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the story focus on?",
+            "options": [
+              "A romantic relationship",
+              "A disease outbreak",
+              "A historical event"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When was the book published?",
+            "options": [
+              "1867",
+              "1947",
+              "1987"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Plague: An Existential Exploration",
+        "text": "Published in 1947, Albert Camus's \"The Plague\" serves as a profound exploration of the human condition through an allegorical tale set in the beleaguered city of Oran during a catastrophic disease outbreak. As the citizens are confined within the city's boundaries, Camus examines how fear, despair, and solidarity manifest in response to a shared crisis. The narrative’s existential themes challenge readers to reflect on the nature of suffering and the way individuals confront their mortality, situating personal struggles within the broader scope of societal dynamics. Written in a style that exudes philosophical inquiry, Camus weaves moments of stark realism with deeply nuanced thoughts on the absurdity of life and the indifference of the universe. The backdrop of a post-World War II world adds heightened relevance, prompting a discourse on human resilience and moral responsibility in times of hardship. By skillfully intertwining individual narratives with overarching existential questions, Camus invites readers to consider their own roles within the collective social fabric, making this novel astutely pertinent for modern audiences.",
+        "vocabulary": [
+          {
+            "word": "allegorical",
+            "definition": "having a symbolic meaning"
+          },
+          {
+            "word": "profound",
+            "definition": "very deep or intense"
+          },
+          {
+            "word": "culminate",
+            "definition": "to reach a climax or point of highest interest"
+          },
+          {
+            "word": "resilience",
+            "definition": "the ability to recover quickly from difficulties"
+          },
+          {
+            "word": "nuanced",
+            "definition": "having subtle differences in meaning or feeling"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Camus examine through the story?",
+            "options": [
+              "A romantic relationship",
+              "The human condition",
+              "A historical event"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What kind of themes are present in the book?",
+            "options": [
+              "Existential and philosophical",
+              "Only romantic",
+              "Only historical"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "In what period is the novel set?",
+            "options": [
+              "19th century",
+              "Post-World War II",
+              "During the French Revolution"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Plague: A Reflection on Existence",
+        "text": "Albert Camus's \"The Plague,\" published in 1947, not only chronicles a harrowing epidemic in Oran but also serves as a rich tapestry of existential inquiry and moral introspection. Through the lens of absurdity, Camus invites readers into a world where human agency crumbles under the weight of an indifferent universe. The city's quarantine illuminates how various characters react to the insidious threat of death, eliciting profound reflections on resilience, duty, and the struggle against the inexplicable chaos of existence. The narrative oscillates between stark realism and philosophical musings, urging us to wrestle with the inherent absurdity of life while simultaneously emphasizing the human capacity for solidarity and compassion amidst despair. Furthermore, as the novel emerges from the shadows of World War II, it assumes a potent relevancy, compelling readers to confront not only societal failings but also their individual responsibilities in facing collective crises. Camus’s artful prose not only captivates with its lyrical beauty but also with its intricate structure and layered meaning, compelling a continual re-examination of the ethical landscape in which we navigate our lives.",
+        "vocabulary": [
+          {
+            "word": "chronicles",
+            "definition": "to record events in detail"
+          },
+          {
+            "word": "harrowing",
+            "definition": "extremely distressing or painful"
+          },
+          {
+            "word": "insidious",
+            "definition": "proceeding in a gradual way but with harmful effects"
+          },
+          {
+            "word": "elevate",
+            "definition": "to lift or raise to a higher position"
+          },
+          {
+            "word": "compassion",
+            "definition": "sympathetic pity and concern for the sufferings of others"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Camus examine through the lens of absurdity?",
+            "options": [
+              "The beauty of life",
+              "Human agency and existence",
+              "The importance of technology"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is the tone of the narrative?",
+            "options": [
+              "Joyful and light-hearted",
+              "Stark realism mixed with philosophical musings",
+              "Fulfilled with fantasy"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What relevance does the novel hold today?",
+            "options": [
+              "Only historical relevance",
+              "Societal and ethical challenges",
+              "Only personal stories"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Die Pest",
+        "text": "Die Pest ist ein Buch von Albert Camus. Es spielt in einer Stadt, die Oran heißt. Die Stadt hat einen Ausbruch von Krankheit. Die Menschen sind krank und in Gefahr. Die Regierung macht die Stadt zu. Viele Menschen haben Angst. Sie wissen nicht, was passiert. Einige Personen helfen anderen. Die Geschichte ist interessant und spannend. Es geht um das Leben in schweren Zeiten. Die Pest ist wichtig, weil sie Fragen über das Leben stellt.",
+        "vocabulary": [
+          {
+            "word": "Pest",
+            "definition": "eine schwere Krankheit"
+          },
+          {
+            "word": "Stadt",
+            "definition": "ein Ort mit vielen Menschen"
+          },
+          {
+            "word": "Angst",
+            "definition": "ein Gefühl von Furcht"
+          },
+          {
+            "word": "Leben",
+            "definition": "die Zeit, die wir haben"
+          },
+          {
+            "word": "helfen",
+            "definition": "etwas Gutes tun für andere"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wo spielt die Geschichte?",
+            "options": [
+              "In Berlin",
+              "In Oran",
+              "In Paris"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was passiert in der Stadt?",
+            "options": [
+              "Die Stadt wird schön",
+              "Die Stadt ist krank",
+              "Die Stadt hat ein Fest"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer hilft anderen?",
+            "options": [
+              "Niemand",
+              "Einige Personen",
+              "Alle"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Die Pest",
+        "text": "Die Pest ist ein Roman von Albert Camus. Er wurde 1947 veröffentlicht. Die Geschichte spielt in der Stadt Oran in Algerien, einer Stadt, die an der Küste liegt. Dort gibt es einen Ausbruch von einer gefährlichen Krankheit, die viele Menschen bedroht. Die Regierung macht die Stadt und die Menschen sicher durch Quarantäne. Viele Menschen haben Angst vor der Krankheit, und sie wissen nicht, was sie tun sollen. Einige Menschen kämpfen gegen die Krankheit und versuchen, Hilfe zu leisten. Sie arbeiten zusammen und helfen sich, weil sie an eine bessere Zukunft glauben. Camus zeigt, wie die Menschen in schweren Zeiten leben und über die Hoffnung nachdenken. Er denkt über das Leben und den Sinn nach, weil er versteht, dass jeder Mensch wertvoll ist. Die Pest ist ein wichtiges Buch für Leser, weil sie Fragen über das Menschsein stellt und die Bedeutung von Gemeinschaft betont. Es ist nicht nur eine Geschichte über Krankheit, sondern auch über Freundschaft und über das Überleben in Krisen.",
+        "vocabulary": [
+          {
+            "word": "Quarantäne",
+            "definition": "Sicherheit durch Isolation während einer Epidemie."
+          },
+          {
+            "word": "Gemeinschaft",
+            "definition": "Eine Gruppe von Menschen, die zusammenarbeiten."
+          },
+          {
+            "word": "Hoffnung",
+            "definition": "Der Wunsch, dass etwas Gutes passiert."
+          },
+          {
+            "word": "Bedrohung",
+            "definition": "Eine Gefahr für Menschen oder Dinge."
+          },
+          {
+            "word": "Krise",
+            "definition": "Eine schwierige und gefährliche Situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde der Roman veröffentlicht?",
+            "options": [
+              "1947",
+              "1945",
+              "1950"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was macht die Regierung in der Stadt?",
+            "options": [
+              "Sie macht die Menschen gesund.",
+              "Sie macht die Stadt sicher.",
+              "Sie gibt allen Menschen Essen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Worum geht es in dem Roman?",
+            "options": [
+              "Um die Freundschaft der Menschen.",
+              "Um eine gefährliche Krankheit.",
+              "Um das Wetter in Oran."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Die Pest",
+        "text": "Die Pest ist ein bedeutender Roman von Albert Camus, der 1947 veröffentlicht wurde. Die Handlung spielt in der Stadt Oran, die in Algerien liegt. Der Roman beschreibt einen Ausbruch von Pest, der die Stadt trifft und das Leben der Einwohner stark verändert. Diese Menschen werden isoliert, und die Regierung verhängt eine strikte Quarantäne. Das bedeutet, dass niemand die Stadt betreten oder verlassen darf. Camus verwendet diesen Rahmen, um tiefere Fragen über das Leben, das Leiden und die menschliche Existenz zu stellen. Die Charaktere in der Geschichte reagieren unterschiedlich auf die Epidemie: Einige zeigen viel Mut und helfen anderen, während andere sich von der Angst treiben lassen und in Panik geraten. Diese Reaktionen zeigen, wie Menschen in Krisensituationen handeln können. Camus' Stil ist klar und direkt, oft ähnlich wie bei Kafka, und es wird deutlich, dass er einen Sinn für das Absurde hat. Wenn wir über die Pest nachdenken, merkt man, dass sie weiterhin relevant bleibt, weil sie uns fragt, wie wir in schwierigen Zeiten leben können. Wir alle stellen uns die Frage, was das Schicksal für uns bereithält und wie wir auf Herausforderungen reagieren. Camus lädt seine Leser ein, über die menschliche Kondition nachzudenken und ihr eigenes Verhalten in Krisenzeiten zu reflektieren. Diese Themen sind zeitlos und betreffen uns auch heute.",
+        "vocabulary": [
+          {
+            "word": "Quarantäne",
+            "definition": "eine Isolierung von Menschen, um die Ausbreitung einer Krankheit zu verhindern"
+          },
+          {
+            "word": "Epidemie",
+            "definition": "ein plötzlicher Anstieg von Krankheiten in einer bestimmten Region"
+          },
+          {
+            "word": "Krise",
+            "definition": "eine schwierige oder gefährliche Situation"
+          },
+          {
+            "word": "Mut",
+            "definition": "die Fähigkeit, ohne Angst zu handeln, auch wenn die Situation gefährlich ist"
+          },
+          {
+            "word": "Absurde",
+            "definition": "etwas, das unvernünftig oder sinnlos erscheint"
+          },
+          {
+            "word": "Existenz",
+            "definition": "das Leben, das Dasein eines Menschen"
+          },
+          {
+            "word": "reaktiv",
+            "definition": "Sich auf eine Situation beziehen oder darauf reagieren"
+          },
+          {
+            "word": "reflektieren",
+            "definition": "über etwas nachdenken, um es besser zu verstehen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Ereignis beschreibt die Handlung des Romans?",
+            "options": [
+              "Einen Krieg",
+              "Einen Ausbruch von Pest",
+              "Ein Erdbeben"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie reagieren die Menschen in der Geschichte auf die Epidemie?",
+            "options": [
+              "Alle zeigen Mut",
+              "Einige zeigen Mut, andere geraten in Panik",
+              "Niemand reagiert"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was regt Camus die Leser dazu an zu tun?",
+            "options": [
+              "Über das Wetter nachzudenken",
+              "Über das Leben und das Leiden nachzudenken",
+              "Die Stadt Oran zu besuchen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Die Peste von Albert Camus",
+        "text": "In \"Die Peste\" von Albert Camus, veröffentlicht im Jahr 1947, erleben die Einwohner der algerischen Stadt Oran einen erschütternden Ausbruch einer tödlichen Seuche, die zahlreiche Leben bedroht und die alltägliche Routine der Menschen abrupt verändert. Die Stadt wird unter Quarantäne gestellt, und die Menschen müssen sich mit der neuen, bedrohlichen Realität auseinandersetzen. Camus vermittelt eindrücklich, wie das Leben in der Stadt durch Angst, Isolation und Hoffnungslosigkeit geprägt wird. Die Figuren, obwohl sie unterschiedliche Beziehungen und Hintergründe haben, zeigen eine gemeinsame Ohnmacht gegenüber der unberechenbaren Natur des Lebens und des Schicksals. In dieser belastenden Situation wird die Solidarität zwischen den Bewohnern auf die Probe gestellt: Einige engagieren sich, um anderen zu helfen, während andere vor Angst erstarren oder egoistisch handeln. Die Erzählung gilt als absurder Kommentar zur menschlichen Existenz und der Suche nach Sinn in einer chaotischen Welt. Themen wie Solidarität, menschliches Leid und die Suche nach Identität unter extremen Bedingungen bleiben auch heute noch relevant. Camus begeistert durch einen klaren, prägnanten Stil und schafft es, komplexe philosophische Ideen in eine packende Handlung zu verweben, die den Leser dazu bringt, über seine eigene Lebenssituation nachzudenken. Darüber hinaus wird deutlich, dass die Suche nach einem Ausweg in einer solch hoffnungslosen Lage oft auch zu einer tiefen inneren Befragung des eigenen Lebens führt.",
+        "vocabulary": [
+          {
+            "word": "Ausbruch",
+            "definition": "Ein plötzliches Auftreten, insbesondere einer Krankheit oder eines Problems."
+          },
+          {
+            "word": "Quarantäne",
+            "definition": "Maßnahme, um die Ausbreitung von ansteckenden Krankheiten zu verhindern."
+          },
+          {
+            "word": "Solidarität",
+            "definition": "Der Zusammenhalt und die Unterstützung unter Menschen in schwierigen Situationen."
+          },
+          {
+            "word": "Schicksal",
+            "definition": "Der Verlauf der Ereignisse im Leben eines Menschen, oft als unabänderlich betrachtet."
+          },
+          {
+            "word": "Existenz",
+            "definition": "Das Sein oder der Zustand, in dem jemand oder etwas existiert."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was passiert mit der Stadt Oran zu Beginn des Romans?",
+            "options": [
+              "Die Stadt wird befreit.",
+              "Die Stadt wird von einer Seuche heimgesucht.",
+              "Die Stadt wächst schnell.",
+              "Die Stadt wird touristisch erschlossen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Thema wird in \"Die Peste\" behandelt?",
+            "options": [
+              "Die Erfindung der Quarantäne.",
+              "Die Bedeutung von Freundschaft.",
+              "Die Suche nach Sinn in einer chaotischen Welt."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wie reagieren einige Charaktere auf die Seuche?",
+            "options": [
+              "Sie ignorieren die Situation.",
+              "Sie engagieren sich, um anderen zu helfen.",
+              "Sie verlassen die Stadt sofort."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Die Bedeutung von 'Die Peste'",
+        "text": "Albert Camus' \"Die Peste\", ein Meisterwerk der absurden Literatur, entführt den Leser in die von einer Seuche heimgesuchte Stadt Oran, wo die Einheimischen mit unerwarteten Herausforderungen und existenziellen Fragen konfrontiert werden. Diese Erzählung fungiert nicht nur als potentielle Allegorie für die Unmöglichkeit, das eigene Schicksal zu kontrollieren, sondern bietet auch tiefgründige Reflexionen über Solidarität und zwischenmenschliche Beziehungen in Krisenzeiten. Camus, dessen Stil häufig mit dem von Franz Kafka verglichen wird, entwickelt einen starken, nüchternen Ton, der die Absurdität der menschlichen Existenz widerspiegelt und gleichzeitig den Leser zur Auseinandersetzung mit den Herausforderungen des Lebens drängt, die oft über das individuelle Verständnis hinausgehen. Der historische Kontext, in dem die choleraartige Epidemie als Inspirationsquelle diente, umreißt die wiederholten Leiden der Stadt Oran, die in der Vergangenheit mehrfach von Seuchen heimgesucht wurde, darunter die Pestepidemien im 16. und 17. Jahrhundert. Trotzt dieser düsteren Kulisse bleibt die Erzählweise sowohl spannend als auch philosophisch angelegt und regt zu einem tiefen Nachdenken über die menschliche Condition an. Die universellen Themen, die Camus angesprochen hat, erweisen sich als durchweg relevant, insbesondere in der heutigen Zeit, in der Gesellschaften erneut mit Krisensituationen konfrontiert werden. Angesichts der pandemiebedingten Herausforderungen erlangt \"Die Peste\" aktuelle Brisanz und verleiht der Erzählung eine zeitlose Qualität, die den Leser nachhaltig zum Nachdenken anregt.",
+        "vocabulary": [
+          {
+            "word": "Allegorie",
+            "definition": "Ein Ausdruck, bei dem abstrakte Ideen durch konkrete Bilder dargestellt werden."
+          },
+          {
+            "word": "existenziell",
+            "definition": "Die menschliche Existenz betreffend, vor allem im Hinblick auf Bedeutung und Sinn."
+          },
+          {
+            "word": "Brisanz",
+            "definition": "Dringlichkeit oder Aktualität eines Themas."
+          },
+          {
+            "word": "phenomenal",
+            "definition": "Die Erscheinungen oder Erfahrungen betreffend, die der menschlichen Wahrnehmung zugrunde liegen."
+          },
+          {
+            "word": "Absurdität",
+            "definition": "Die Eigenschaft, keinen Sinn zu ergeben oder voller Widersprüche zu sein."
+          },
+          {
+            "word": "Krisensituation",
+            "definition": "Eine kritische oder belastende Lage, die oft starke emotionale oder soziale Auswirkungen hat."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das zentrale Thema von 'Die Peste'?",
+            "options": [
+              "Die Kontrolle über das eigene Schicksal",
+              "Solidarität in Krisenzeiten",
+              "Die Geschichte der Stadt Oran"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches literarische Stilmittel verwendet Camus in 'Die Peste'?",
+            "options": [
+              "Lyrik",
+              "Fabel",
+              "Allegorie"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wie wird die Erzählweise von 'Die Peste' beschrieben?",
+            "options": [
+              "Philosophisch und spannend",
+              "Einfach und direkt",
+              "Komplex und verwirrend"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Die Absurdität des menschlichen Daseins in Camus' 'Die Peste'",
+        "text": "Mit seiner bahnbrechenden Erzählung \"Die Peste\" führt Albert Camus uns nicht nur in eine durch Krankheit und Leid gezeichnete Gesellschaft ein, sondern erörtert auch die grundlegenden Fragen nach der menschlichen Existenz und dem von uns erlittenen Schicksal. Orans Dystopie wird zum Spiegelbild einer universellen Wahrheit, die alle Menschen betrifft: unser Verlangen nach Sinn und Ordnung in einer chaotischen Welt. Camus' Verwendung eines kühlen, deskriptiven Duktus in Verbindung mit melancholischem Unterton erzeugt einen eindringlichen, fast hypnotischen Effekt, der die Leser zwingt, sich in die existenziellen Dilemmata der Protagonisten hineinzuversetzen. Letztlich übersetzt sich die Seuche nicht nur in eine physische Bedrohung, sondern fungiert auch als Metapher für die moralischen und emotionalen Kämpfe des Individuums. Camus’ zutiefst humanistische Ansichten finden Ausdruck in der Art und Weise, wie die Charaktere im Angesicht der Ohnmacht zusammenkommen, was die Frage aufwirft, ob im Angesicht von Krankheit und Tod noch Hoffnung bestehen kann. Die philosophischen Fragestellungen, die Camus aufwirft, sind auch Jahrzehnte nach der Veröffentlichung von Relevanz und fordern uns heraus, über die Abgründe unserer eigenen Bedingungen nachzudenken.",
+        "vocabulary": [
+          {
+            "word": "bahnbrechend",
+            "definition": "revolutionär, neuartig"
+          },
+          {
+            "word": "Dystopie",
+            "definition": "eine negative, unrealistische Zukunftsvision"
+          },
+          {
+            "word": "Dilemmata",
+            "definition": "schwierige Entscheidungsprobleme"
+          },
+          {
+            "word": "zutiefst",
+            "definition": "sehr, vollkommen"
+          },
+          {
+            "word": "metaphorisch",
+            "definition": "symbolisch, eine tiefere Bedeutung habend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was spiegelt die Dystopie von Oran wider?",
+            "options": [
+              "Die Schönheit der Natur.",
+              "Eine universelle Wahrheit.",
+              "Die Zukunft der Technologie."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie beschreibt Camus seinen Erzählstil?",
+            "options": [
+              "Kühl und koloriert.",
+              "Kühl und deskriptiv.",
+              "Fantasievoll und reizvoll."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was bezeichnet die Seuche in Camus' Erzählung?",
+            "options": [
+              "Eine physische Bedrohung.",
+              "Ein Abenteuer.",
+              "Eine historische Realität."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "La Peste",
+        "text": "La Peste est un livre important. Albert Camus est l'écrivain célèbre. Ce livre parle d'une maladie grave. La maladie est une peste. Elle touche la ville d'Oran. Les gens doivent rester chez eux. Ils ont peur et sont très tristes. La vie change beaucoup dans cette ville. Les amis se battent ensemble contre la maladie. Les personnages cherchent l'espoir et la liberté. Oran a une histoire avec des épidémies. Il y a eu des maladies ici avant. Camus montre une vie difficile. Il veut que les lecteurs pensent à leur propre vie. La Peste est publié en mil neuf quarante-sept.",
+        "vocabulary": [
+          {
+            "word": "grave",
+            "definition": "sérieux, très important"
+          },
+          {
+            "word": "célèbre",
+            "definition": "bien connu, célèbre"
+          },
+          {
+            "word": "liberté",
+            "definition": "état d'être libre"
+          },
+          {
+            "word": "histoire",
+            "definition": "récit du passé"
+          },
+          {
+            "word": "difficile",
+            "definition": "pas facile, complexe"
+          },
+          {
+            "word": "maladies",
+            "definition": "affections, pathologies"
+          },
+          {
+            "word": "personnages",
+            "definition": "personnes dans une histoire"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est l'écrivain de La Peste ?",
+            "options": [
+              "Albert Camus",
+              "Victor Hugo",
+              "Gustave Flaubert"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de maladie est la peste ?",
+            "options": [
+              "Une maladie grave",
+              "Une maladie légère",
+              "Une maladie joyeuse"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Où se passe l'histoire de La Peste ?",
+            "options": [
+              "À Paris",
+              "À Oran",
+              "À Marseille"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "La Peste",
+        "text": "La Peste est un roman d'Albert Camus. Il est publié en mil neuf quarante-sept. L'histoire se passe dans la ville d'Oran qui fait face à une épidémie de peste. Les habitants découvrent que la maladie tue beaucoup de gens et crée une atmosphère de peur. Oran est mise en quarantaine et les gens ne peuvent pas quitter la ville. Ils doivent rester chez eux, souvent seuls ou avec leur famille. C'est une période très difficile pour tout le monde. Les personnages vivent des moments très tristes et perdent espoir. Pourtant, certains personnages cherchent des solutions pour aider les malades. La Peste parle de l'espoir et de la peur qui habitent les gens. Ce roman montre la vie des gens face à une maladie terrible. Camus écrit d'une manière qui fait réfléchir sur la condition humaine. C'est un livre classique de la littérature qui reste pertinent aujourd'hui. Beaucoup de lecteurs l'apprécient encore.",
+        "vocabulary": [
+          {
+            "word": "quarantaine",
+            "definition": "isolement imposé à une personne ou un groupe pour prévenir la contagion."
+          },
+          {
+            "word": "conditions",
+            "definition": "état ou situation dans laquelle quelque chose existe."
+          },
+          {
+            "word": "épidémie",
+            "definition": "propagation rapide d'une maladie dans une population."
+          },
+          {
+            "word": "personnages",
+            "definition": "individus présents dans une histoire ou un récit."
+          },
+          {
+            "word": "néanmoins",
+            "definition": "en dépit de cela, cependant."
+          },
+          {
+            "word": "réfléchir",
+            "definition": "penser à quelque chose de manière approfondie."
+          },
+          {
+            "word": "lecture",
+            "definition": "l'action de lire un texte."
+          },
+          {
+            "word": "situation",
+            "definition": "état d'une personne ou d'une chose dans un moment donné."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand est-ce que La Peste a été publié ?",
+            "options": [
+              "En 1947",
+              "En 1856",
+              "En 1944"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi la ville d'Oran est-elle en quarantaine ?",
+            "options": [
+              "À cause d'une épidémie",
+              "À cause d'un festival",
+              "À cause d'un événement sportif"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel thème important est abordé dans le roman ?",
+            "options": [
+              "L'amour et la joie",
+              "L'espoir et la peur",
+              "La richesse et le pouvoir"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "La Peste",
+        "text": "La Peste est un roman d'Albert Camus publié en 1947. Ce livre parle d'une épidémie qui touche la ville d'Oran en Algérie dans les années 1940. Cette situation est inspirée par une épidémie de choléra qui a décimé la population en 1849. Les personnages principaux, qui vivent cette crise, doivent faire face à une maladie mortelle qui change leur vie quotidienne. En effet, leur existences, auparavant banales, prennent un tournant dramatique. Camus utilise cette épidémie pour explorer des thèmes importants comme l'absurde et la condition humaine. Au fur et à mesure que l'épidémie se propage, les habitants de la ville sont confinés et ils doivent apprendre à vivre dans la peur et l'incertitude. Si certains cherchent des réponses scientifiques, d'autres plongent dans la foi ou le désespoir, espérant une fin à la maladie. Le style d'écriture de Camus est à la fois réfléchi et puissant. Par des descriptions détaillées, il nous fait réfléchir sur la vie et la mort. Ce livre nous pousse à interroger ce que cela signifie d'être humain dans des circonstances extrêmes. La Peste reste pertinente aujourd'hui car elle évoque des questions sur la souffrance individuelle et collective. Les réflexions sur notre faiblesse face à la fatalité, ainsi que la solidarité entre les personnes, nous rappellent l'importance de l'humanité dans les moments difficiles.",
+        "vocabulary": [
+          {
+            "word": "épidémie",
+            "definition": "une maladie qui se propage rapidement à plusieurs personnes"
+          },
+          {
+            "word": "confiné",
+            "definition": "être forcé de rester à l'intérieur d'un lieu fermé"
+          },
+          {
+            "word": "absurde",
+            "definition": "quelque chose qui n'a pas de sens ou qui semble illogique"
+          },
+          {
+            "word": "incertitude",
+            "definition": "un manque de certitude ou de sécurité"
+          },
+          {
+            "word": "suffering",
+            "definition": "la douleur ou la peine que l'on ressent"
+          },
+          {
+            "word": "solidarité",
+            "definition": "le sentiment d'unité et d'entraide entre les personnes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel événement historique a inspiré le roman La Peste ?",
+            "options": [
+              "Une épidémie de choléra en 1849",
+              "Une guerre en 1944",
+              "Un tremblement de terre en 1556"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel thème est exploré par Camus dans La Peste ?",
+            "options": [
+              "La joie de vivre",
+              "La politique",
+              "L'absurde et la condition humaine"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Comment les habitants de la ville doivent-ils apprendre à vivre ?",
+            "options": [
+              "Dans la sécurité",
+              "Dans la peur et l'incertitude",
+              "Avec beaucoup de joie"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "La Peste d'Albert Camus",
+        "text": "La Peste, publiée en 1947 par Albert Camus, est un roman absurde qui explore la vie dans la ville algérienne d'Oran face à une épidémie fulgurante. Au début de l'histoire, une maladie mystérieuse apparaît, provoquant l'inquiétude et la peur parmi les habitants. Ce roman trouve ses racines dans l'épidémie de choléra qui a décimé une grande partie de la population d'Oran en 1849. De plus, l'histoire se déroule dans un contexte historique marqué par la Seconde Guerre mondiale, ajoutant une couche de complexité aux thèmes qu'il aborde. Camus, en faisant référence à des épidémies précédentes, présente un tableau vivant de la vie quotidienne soumise à l'angoisse collective, tout en mettant en lumière la lutte humaine pour la survie.  Les thèmes principaux incluent la solidarité, la souffrance et le sens de l'existence face au désastre. La voix narrative de Camus, à la fois objective et introspective, incite le lecteur à réfléchir sur le destin humain et notre capacité à trouver un sens dans un monde chaotique. Par ailleurs, les personnages du roman illustrent l'impuissance de l'individu face aux forces oppressives. Ainsi, La Peste demeure une œuvre significative, résonnant encore aujourd'hui avec les défis sociaux et éthiques que nous pouvons rencontrer dans des situations de crise, où notre humanité est mise à l'épreuve.  Les leçons tirées du texte peuvent encourager la réflexion sur la solidarité en temps de crise, tant au niveau individuel que collectif.",
+        "vocabulary": [
+          {
+            "word": "épidémie",
+            "definition": "apparition soudaine d'une maladie infectieuse qui se propage rapidement"
+          },
+          {
+            "word": "solidaire",
+            "definition": "qui agit en unissant ses efforts à ceux des autres"
+          },
+          {
+            "word": "angoisse",
+            "definition": "sentiment d'inquiétude intense"
+          },
+          {
+            "word": "destin",
+            "definition": "cours de la vie ou évolution d'une personne"
+          },
+          {
+            "word": "impuissance",
+            "definition": "absence de pouvoir pour agir ou influencer la situation"
+          },
+          {
+            "word": "survie",
+            "definition": "action de rester en vie face aux dangers ou aux menaces"
+          },
+          {
+            "word": "collectif",
+            "definition": "relatif à un groupe plutôt qu'à un individu"
+          },
+          {
+            "word": "résilience",
+            "definition": "capacité à se remettre d'une difficulté ou d'un choc"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel événement historique a influencé l'écriture de La Peste ?",
+            "options": [
+              "La Seconde Guerre mondiale",
+              "La Révolution française",
+              "La Première Guerre mondiale"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est un des thèmes principaux du roman ?",
+            "options": [
+              "La gloire militaire",
+              "La solidarité",
+              "La richesse"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Camus présente-t-il ses personnages face à l'épidémie ?",
+            "options": [
+              "Ils sont très puissants",
+              "Ils montrent leur impuissance",
+              "Ils fuient la ville"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La Peste d'Albert Camus : Une réflexion sur l'absurde",
+        "text": "Dans La Peste, Albert Camus s'attaque aux thèmes de l'absurde et de la condition humaine tout en plongeant le lecteur dans un contexte historico-social complexe. Situé dans la ville d'Oran, le roman se concentre sur l'épidémie qui frappe brutalement ses habitants, leur imposant un confinement inattendu. Bien que Camus s'inspire de l'épidémie de choléra de 1849, il transpose son récit dans une période marquée par le désespoir et la quête de sens qui caractérisent l'Europe du milieu du XXe siècle, notamment après les horreurs de la Seconde Guerre mondiale. La narration, oscillant entre un ton analytique et une introspection poignante, dépeint avec réalisme les réactions des personnages face à l'inéluctable. Les valeurs de solidarité, souvent mises à mal par l'égoïsme humain, et de confrontation à l'absurde s'entrelacent, illustrant la tension entre l'individu et un destin implacable. Camus, tout en affirmant vouloir s'éloigner du cadre existentialiste, invite néanmoins les lecteurs à explorer les mécanismes de leur propre existence, rendant cette œuvre intemporelle et toujours d'actualité dans le contexte des crises contemporaines. En effet, les questions soulevées par La Peste résonnent encore aujourd'hui, face à des épidémies et des crises sociales qui interrogent notre solidarité et notre capacité à redéfinir notre humanité en tant que collectif.",
+        "vocabulary": [
+          {
+            "word": "absurde",
+            "definition": "Ce qui est dépourvu de sens ou de logique."
+          },
+          {
+            "word": "inhumanité",
+            "definition": "Caractère de ce qui n'est pas humain, cruel."
+          },
+          {
+            "word": "résonner",
+            "definition": "Produire un son ou une signification qui se prolonge."
+          },
+          {
+            "word": "implacable",
+            "definition": "Qui ne peut être apaisé ou modifié."
+          },
+          {
+            "word": "quarantaine",
+            "definition": "Isolement imposé à des personnes ou à des groupes pour prévenir la propagation d'une maladie."
+          },
+          {
+            "word": "entrechoquer",
+            "definition": "Mettre en opposition des idées ou des valeurs."
+          },
+          {
+            "word": "tensions",
+            "definition": "Pressions ou conflits potentiels entre différentes forces ou idées."
+          },
+          {
+            "word": "introspection",
+            "definition": "Examen de ses propres pensées et émotions."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le cadre géographique du roman ?",
+            "options": [
+              "Oran",
+              "Paris",
+              "Alger"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels thèmes principaux sont abordés dans La Peste ?",
+            "options": [
+              "La paix et la prospérité",
+              "L'absurde et la condition humaine",
+              "La guerre et l'injustice sociale"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Camus décrit-il les réactions des personnages face à l'épidémie ?",
+            "options": [
+              "Avec indifférence",
+              "Avec réalisme et introspection",
+              "Avec euphorie"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La Peste : Exploration de l'absurde et de la solidarité humaine",
+        "text": "Albert Camus, dans son roman emblématique La Peste, transcende la simple histoire d'une épidémie pour examiner des vérités fondamentales de la condition humaine. L'œuvre, profondément ancrée dans le contexte socio-historique de la France algérienne des années 1940, utilise le fléau comme un mécanisme allégorique pour réfléchir sur l’angoisse existentielle et le fatalisme que vit l’humanité en période de crise. La narration, infléchie par des échos du choléra de 1849 qui ravagea Oran, s’engouffre dans les méandres de l'absurde, soulignant la fragilité de l’existence humaine. En dépeignant les luttes des habitants d'Oran face à la montée du désespoir, Camus questionne invariablement la nature de la solidarité humaine dans des moments critiques, faisant écho à la lutte continue contre des forces qui nous échappent. Chaque personnage, confronté à l'aberration de la souffrance, incarne une réponse distincte au fléau, d’une résilience admirable à un désespoir déconcertant, témoignant ainsi de la diversité des réactions humaines face à l'adversité. La prose de Camus, à la fois incisive et lyrique, interpelle le lecteur, tout en le poussant à revisiter ses propres croyances face aux aléas de l'humanité. En somme, La Peste demeure un chef-d'œuvre intemporel qui résonne avec une acuité particulière dans le monde contemporain, confronté à ses propres crises sanitaires et sociales, où l'absurde semble toujours se dresser, exigeant de nous une réponse éthique et solidaire.",
+        "vocabulary": [
+          {
+            "word": "fléau",
+            "definition": "Épidémie ou catastrophe qui cause de grandes souffrances."
+          },
+          {
+            "word": "angoisse",
+            "definition": "Sentiment d'inquiétude intense qui peut se manifester de différentes manières."
+          },
+          {
+            "word": "résilience",
+            "definition": "Capacité à surmonter des situations difficiles."
+          },
+          {
+            "word": "aberration",
+            "definition": "Écart de la norme, qui se manifeste souvent dans des choix ou comportements étranges."
+          },
+          {
+            "word": "s'ancrer",
+            "definition": "S'installer profondément, s'établir dans un certain contexte."
+          },
+          {
+            "word": "écho",
+            "definition": "Résonance de pensées, sentiments ou événements passés."
+          },
+          {
+            "word": "diversité",
+            "definition": "Variété, pluralité dans les réactions ou comportements."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel événement historique inspire La Peste?",
+            "options": [
+              "Un fléau ancien ayant touché Oran",
+              "Une guerre mondiale",
+              "Une révolte sociale"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment Camus aborde-t-il la solidarité humaine?",
+            "options": [
+              "En faisant l'éloge de l'individualisme",
+              "En questionnant sa nature dans l'épreuve",
+              "En restant indifférent au sujet"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le ton narratif de La Peste?",
+            "options": [
+              "Léger et comique",
+              "Sombre et existentialiste",
+              "Optimiste et joyeux"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "La Peste",
+        "text": "La Peste es un libro muy famoso. El autor es Albert Camus. La historia ocurre en Orán, una ciudad en Argelia. En esta ciudad, hay una enfermedad muy peligrosa. La gente está enferma y tiene miedo. Muchos mueren por la peste. La ciudad está cerrada y no hay salida. Los amigos ayudan a los otros en esta crisis. Camus escribe sobre la vida con el miedo y la lucha por la esperanza. La historia es triste e interesante. A muchas personas les gusta este libro. Camus usa su experiencia de guerras y enfermedades. Es un libro que habla sobre la vida y la muerte. La Peste es un clásico de la literatura.",
+        "vocabulary": [
+          {
+            "word": "peste",
+            "definition": "enfermedad muy contagiosa"
+          },
+          {
+            "word": "crisis",
+            "definition": "momento difícil en la vida"
+          },
+          {
+            "word": "esperanza",
+            "definition": "sentimiento de desear algo bueno"
+          },
+          {
+            "word": "jouo",
+            "definition": "gran número de personas"
+          },
+          {
+            "word": "clásico",
+            "definition": "obra muy famosa y respetada"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde ocurre la historia de La Peste?",
+            "options": [
+              "En París",
+              "En Orán",
+              "En Argel"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tiene la gente en la ciudad?",
+            "options": [
+              "Fe",
+              "Esperanza",
+              "Miedo"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Quién es el autor del libro?",
+            "options": [
+              "Victor Hugo",
+              "Albert Camus",
+              "Gabriel García Márquez"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "La Peste",
+        "text": "La Peste es una novela de Albert Camus, escrita en 1947. La historia ocurre en Orán, una ciudad en Argelia. En la novela, hay una gran epidemia que afecta a todos. La gente está enferma y la ciudad está cerrada. Los hospitales están llenos y la vida diaria cambia mucho. Los personajes, como Rieux y Rambert, deben ayudar y luchar juntos para sobrevivir. Camus escribió este libro pensando en el miedo y la soledad que siente la humanidad. Es una historia triste y profunda que invita a la reflexión. Muchos lectores piensan en el sentido de la vida después de leerlo. La novela también muestra cómo la comunidad se une ante la adversidad. La epidemia en la novela refleja otras epidemias en la historia de Orán, como la de cólera en 1849. La novela sigue siendo importante hoy en día porque habla sobre la lucha y la esperanza en tiempos difíciles.",
+        "vocabulary": [
+          {
+            "word": "epidemia",
+            "definition": "un brote de una enfermedad que afecta a muchas personas"
+          },
+          {
+            "word": "hospitales",
+            "definition": "edificios donde se trata a personas enfermas"
+          },
+          {
+            "word": "supervivencia",
+            "definition": "el acto de continuar vivo en una situación difícil"
+          },
+          {
+            "word": "comunidad",
+            "definition": "un grupo de personas que viven en un mismo lugar"
+          },
+          {
+            "word": "esperanza",
+            "definition": "la creencia de que algo bueno va a ocurrir"
+          },
+          {
+            "word": "reflexión",
+            "definition": "el acto de pensar profundamente sobre algo"
+          },
+          {
+            "word": "adversidad",
+            "definition": "situaciones difíciles o desfavorables"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿En qué año se publicó La Peste?",
+            "options": [
+              "1945",
+              "1947",
+              "1950"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo afecta la epidemia a los habitantes de Orán?",
+            "options": [
+              "La gente está feliz",
+              "La gente está enferma",
+              "La ciudad está abierta"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué personajes principales se mencionan en la novela?",
+            "options": [
+              "Rieux y Rambert",
+              "Rieux y Camus",
+              "Rambert y Orán"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "La Peste",
+        "text": "La Peste es una novela escrita por Albert Camus y publicada en 1947. La historia se desarrolla en Orán, una ciudad de Argelia que ha enfrentado epidemias en el pasado. En la trama, una epidemia de peste afecta a la población, lo que provoca una reacción intensa entre los habitantes. Estos enfrentan el miedo y la soledad, mientras que sus vidas cambian drásticamente. Durante la epidemia, los personajes deben encontrar formas de sobrevivir, lo que les lleva a una profunda reflexión sobre su existencia. Camus examina temas importantes como la lucha humana contra la adversidad, el sentido de la vida y la inevitabilidad de la muerte. Muchos personajes, que hasta ese momento llevaban vidas cotidianas, se ven obligados a unirse y trabajar juntos para afrontar la crisis. Si no colaboran, es posible que no logren salir adelante. A través de su estilo, Camus invita a los lectores a reflexionar sobre la condición humana y nuestra capacidad de resistencia ante el sufrimiento. Además, la novela se inspira en la epidemia de cólera que mató a una gran parte de la población de Orán en 1849. La obra de Camus, aunque escrita en el contexto de los años 40, sigue siendo relevante hoy en día, pues enfrenta cuestiones eternas sobre la existencia, el destino y la perspectiva de la vida en tiempos difíciles. Si los lectores se sumergen en su lectura, pueden descubrir significados profundos sobre la resiliencia humana y la importancia de la solidaridad. \n",
+        "vocabulary": [
+          {
+            "word": "epidemia",
+            "definition": "una enfermedad que se propaga rápidamente entre las personas."
+          },
+          {
+            "word": "adversidad",
+            "definition": "una situación difícil o desfavorable."
+          },
+          {
+            "word": "reflexión",
+            "definition": "pensar intensamente sobre un tema o cuestión."
+          },
+          {
+            "word": "solidaridad",
+            "definition": "apoyo mutuo entre individuos que comparten intereses."
+          },
+          {
+            "word": "resiliencia",
+            "definition": "capacidad de adaptarse ante situaciones adversas."
+          },
+          {
+            "word": "existencia",
+            "definition": "la condición de estar vivo o de existir."
+          },
+          {
+            "word": "destino",
+            "definition": "el curso de eventos que se cree que están predeterminados."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién escribió La Peste?",
+            "options": [
+              "Albert Camus",
+              "Gabriel García Márquez",
+              "Marcel Proust"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué ciudad se desarrolla la novela?",
+            "options": [
+              "Algiers",
+              "Orán",
+              "Túnez"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué temas importantes examina Camus en la novela?",
+            "options": [
+              "La guerra y la paz",
+              "La lucha humana contra la adversidad",
+              "El amor entre personas"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "La peste",
+        "text": "La novela 'La peste', escrita por Albert Camus y publicada en 1947, se desarrolla en la ciudad argelina de Orán, donde un brote de peste obliga a sus habitantes a enfrentarse a la cuarentena y las consecuencias de la enfermedad. Camus retrata la lucha de las personas cuando sus vidas normales se ven interrumpidas, explorando temas como el sufrimiento, la solidaridad y la lucha contra lo inevitable. Aunque los personajes intentan encontrar sentido y propósito en medio del caos, la narrativa sugiere que a menudo son impotentes ante fuerzas más grandes. 'La peste' también invita al lector a reflexionar sobre la naturaleza humana, la moralidad y el absurdo de la existencia. Además, esta obra se edifica sobre la experiencia histórica del cólera en Orán, proporcionando un contexto real que intensifica su impacto. La prosa de Camus es rica en simbolismo y profundamente reflexiva, lo que convierte a la novela no solo en una obra de ficción, sino en una meditación sobre la vida misma. Es un texto relevante en tiempos de crisis, haciendo eco de las luchas contemporáneas con la enfermedad y la muerte.",
+        "vocabulary": [
+          {
+            "word": "peste",
+            "definition": "Enfermedad muy grave."
+          },
+          {
+            "word": "cuarentena",
+            "definition": "Aislamiento de personas o cosas."
+          },
+          {
+            "word": "solidaridad",
+            "definition": "Apoyo mutuo entre personas."
+          },
+          {
+            "word": "sufrimiento",
+            "definition": "Estado de dolor o angustia."
+          },
+          {
+            "word": "absurdo",
+            "definition": "Sin sentido, irracional."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde ocurre la historia de 'La peste'?",
+            "options": [
+              "En Orán",
+              "En París",
+              "En Túnez"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué provoca la cuarentena en la novela?",
+            "options": [
+              "Un brote de peste",
+              "Una guerra",
+              "Una celebración"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tema se explora en 'La peste'?",
+            "options": [
+              "El sufrimiento humano",
+              "La amistad",
+              "La aventura"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "La peste",
+        "text": "Publicada en 1947, 'La peste' de Albert Camus representa una profunda indagación sobre la condición humana a través de la vivencia de un brote de peste en la ciudad argelina de Orán. Desde el inicio de la obra, los habitantes se ven atrapados en el encierro y la desesperación, lo que les obliga a confrontar sus miedos y el absurdo de su existencia. Aunque los personajes intentan generar sentido en circunstancias tan adversas, la narrativa ilustra cómo el sufrimiento y la solidaridad se entrelazan, sugiriendo que las personas puede que no controlen su destino. Camus, al utilizar la metáfora de la peste, cuestiona la moralidad y el propósito de la vida, temas que resuenan en el contexto contemporáneo, recordarían también a las crisis de salud pública actuales. La prosa de Camus, con su tono reflexivo y a menudo sombrío, se asemeja a la narrativa kafkiana, desafiando al lector a considerar los múltiples significados de las experiencias humanas. Esta novela es así no solo una crónica de la epidemia, sino una meditación profunda sobre el absurdo y nuestra lucha por encontrar significado.",
+        "vocabulary": [
+          {
+            "word": "indagación",
+            "definition": "Investigación o examen profundo."
+          },
+          {
+            "word": "abrumador",
+            "definition": "Que provoca agobio o presión fuerte."
+          },
+          {
+            "word": "entretenido",
+            "definition": "Que causa diversión o interés."
+          },
+          {
+            "word": "resonar",
+            "definition": "Producir eco o repetirse."
+          },
+          {
+            "word": "sombrío",
+            "definition": "Oscuro, triste o pesimista."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué representa la peste en la novela?",
+            "options": [
+              "Una crisis de salud",
+              "Un festival",
+              "Una guerra"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué temas cuestiona Camus en 'La peste'?",
+            "options": [
+              "La moralidad y el absurdo",
+              "Las relaciones familiares",
+              "La vida diaria"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo es la prosa de Camus en la novela?",
+            "options": [
+              "Reflexiva y sombría",
+              "Divertida y alegre",
+              "Sencilla y aburrida"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "La peste",
+        "text": "La obra de Albert Camus, 'La peste', publicada en 1947, se erige como un faro de reflexión filosófica en medio del caos y la incertidumbre que acompaña a las crisis humanas. El conflicto en la narrativa, centrado en un brote de peste que asola la ciudad de Orán, trasciende lo meramente físico al convertirse en una metáfora potente sobre la condición existencial de la humanidad. Camus nos invita a explorar temas tales como la impotencia del individuo ante fuerzas incontrolables, la búsqueda de significado en un mundo que a menudo parece absurdo y la inevitable solidaridad que surge en los momentos de desesperación. A través de una prosa que evoca la angustia de Kafka, el autor presenta personajes emblemáticos cuyas decisiones y dilemas morales reflejan la lucha perenne entre el bien y el mal, así como la búsqueda del propósito en la vida. Es crucial reconocer que, a pesar de que la novela fue fundada en una epidemia histórica, su resonancia se extiende a los conflictos contemporáneos, convirtiéndola en una obra atemporal que examina la esencia misma de la existencia humana. En última instancia, 'La peste' no es solo un relato sobre una plaga, sino una reflexión profunda sobre cómo enfrentamos el sufrimiento y la muerte.",
+        "vocabulary": [
+          {
+            "word": "faro",
+            "definition": "Objeto que emite luz para guiar."
+          },
+          {
+            "word": "trascender",
+            "definition": "Ir más allá de un límite."
+          },
+          {
+            "word": "metáfora",
+            "definition": "Expresión que compara dos cosas diferentes."
+          },
+          {
+            "word": "perenne",
+            "definition": "Que dura indefinidamente, eterno."
+          },
+          {
+            "word": "esencial",
+            "definition": "Fundamental, que constituye lo más importante."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es la función de la peste en la obra de Camus?",
+            "options": [
+              "Es una metáfora de la existencia",
+              "Es una enfermedad sin más",
+              "Es un elemento de diversión"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿A qué conflictos contemporáneos se refiere Camus?",
+            "options": [
+              "A crisis humanas y existenciales",
+              "A la historia de Orán",
+              "A festivales específicos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué lucha interna reflejan los personajes de 'La peste'?",
+            "options": [
+              "Entre bien y mal",
+              "Entre alegría y tristeza",
+              "Entre sueño y realidad"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "die": "the",
+      "pest": "plague",
+      "ist": "is",
+      "ein": "a",
+      "buch": "book",
+      "von": "from",
+      "albert": "Albert",
+      "camus": "Camus",
+      "es": "it",
+      "spielt": "plays",
+      "in": "in",
+      "einer": "one",
+      "stadt": "city",
+      "oran": "Oran",
+      "heißt": "is called",
+      "hat": "has",
+      "einen": "a",
+      "ausbruch": "outbreak",
+      "krankheit": "disease",
+      "menschen": "people",
+      "sind": "are",
+      "krank": "sick",
+      "und": "and",
+      "gefahr": "danger",
+      "regierung": "government",
+      "macht": "makes",
+      "zu": "to",
+      "viele": "many",
+      "haben": "to have",
+      "angst": "fear",
+      "sie": "they",
+      "wissen": "to know",
+      "nicht": "not",
+      "was": "what",
+      "passiert": "happens",
+      "einige": "some",
+      "personen": "people",
+      "helfen": "to help",
+      "anderen": "other",
+      "geschichte": "history",
+      "interessant": "interesting",
+      "spannend": "exciting",
+      "geht": "goes",
+      "um": "around",
+      "das": "that",
+      "leben": "life",
+      "schweren": "severe",
+      "zeiten": "times",
+      "wichtig": "important",
+      "weil": "because",
+      "fragen": "questions",
+      "über": "about",
+      "stellt": "presents",
+      "roman": "novel",
+      "er": "he",
+      "wurde": "was",
+      "veröffentlicht": "published",
+      "der": "the",
+      "algerien": "Algeria",
+      "an": "at",
+      "küste": "coast",
+      "liegt": "lies",
+      "dort": "there",
+      "gibt": "gives",
+      "gefährlichen": "hazardous",
+      "bedroht": "threatened",
+      "sicher": "safe",
+      "durch": "through",
+      "quarantäne": "quarantine",
+      "vor": "before",
+      "tun": "to do",
+      "sollen": "should",
+      "kämpfen": "to fight",
+      "gegen": "against",
+      "versuchen": "to try",
+      "hilfe": "help",
+      "leisten": "to afford",
+      "arbeiten": "to work",
+      "zusammen": "together",
+      "sich": "oneself",
+      "eine": "a",
+      "bessere": "better",
+      "zukunft": "future",
+      "glauben": "believe",
+      "zeigt": "shows",
+      "wie": "like",
+      "hoffnung": "hope",
+      "nachdenken": "to think",
+      "denkt": "thinks",
+      "den": "the",
+      "sinn": "sense",
+      "nach": "after",
+      "versteht": "understands",
+      "dass": "that",
+      "jeder": "every",
+      "mensch": "person",
+      "wertvoll": "valuable",
+      "wichtiges": "important",
+      "für": "for",
+      "leser": "reader",
+      "menschsein": "being human",
+      "bedeutung": "meaning",
+      "gemeinschaft": "community",
+      "betont": "emphasized",
+      "nur": "only",
+      "sondern": "but",
+      "auch": "also",
+      "freundschaft": "friendship",
+      "überleben": "survival",
+      "krisen": "crises",
+      "bedeutender": "significant",
+      "handlung": "action",
+      "beschreibt": "describes",
+      "trifft": "meets",
+      "einwohner": "inhabitant",
+      "stark": "strong",
+      "verändert": "changes",
+      "diese": "this",
+      "werden": "will",
+      "isoliert": "isolated",
+      "verhängt": "imposed",
+      "strikte": "strict",
+      "bedeutet": "means",
+      "niemand": "nobody",
+      "betreten": "to enter",
+      "oder": "or",
+      "verlassen": "to leave",
+      "darf": "may",
+      "verwendet": "used",
+      "diesen": "these",
+      "rahmen": "framework",
+      "tiefere": "deeper",
+      "leiden": "to suffer",
+      "menschliche": "human",
+      "existenz": "existence",
+      "stellen": "to provide",
+      "charaktere": "characters",
+      "reagieren": "to react",
+      "unterschiedlich": "different",
+      "auf": "to",
+      "epidemie": "epidemic",
+      "zeigen": "to show",
+      "viel": "a lot",
+      "mut": "courage",
+      "während": "during",
+      "andere": "other",
+      "treiben": "to drive",
+      "lassen": "to let",
+      "panik": "panic",
+      "geraten": "to get",
+      "reaktionen": "reactions",
+      "krisensituationen": "crisis situations",
+      "handeln": "to act",
+      "können": "can",
+      "stil": "style",
+      "klar": "clear",
+      "direkt": "directly",
+      "oft": "often",
+      "ähnlich": "similar",
+      "bei": "at",
+      "kafka": "kafka",
+      "wird": "will",
+      "deutlich": "clear",
+      "absurde": "absurd",
+      "wenn": "if",
+      "wir": "we",
+      "merkt": "notices",
+      "man": "one",
+      "weiterhin": "still",
+      "relevant": "relevant",
+      "bleibt": "stays",
+      "uns": "us",
+      "fragt": "asks",
+      "schwierigen": "difficult",
+      "alle": "everyone",
+      "frage": "question",
+      "schicksal": "fate",
+      "bereithält": "holds ready",
+      "herausforderungen": "challenges",
+      "lädt": "invites",
+      "seine": "his",
+      "kondition": "condition",
+      "nachzudenken": "to reflect",
+      "ihr": "your",
+      "eigenes": "own",
+      "verhalten": "behavior",
+      "krisenzeiten": "crisis times",
+      "reflektieren": "to reflect",
+      "themen": "topics",
+      "zeitlos": "timeless",
+      "betreffen": "to affect",
+      "heute": "today",
+      "peste": "plague",
+      "im": "in the",
+      "jahr": "year",
+      "erleben": "to experience",
+      "algerischen": "Algerian",
+      "erschütternden": "shocking",
+      "tödlichen": "fatal",
+      "seuche": "scourge",
+      "zahlreiche": "numerous",
+      "alltägliche": "everyday",
+      "routine": "routine",
+      "abrupt": "abrupt",
+      "unter": "under",
+      "gestellt": "placed",
+      "müssen": "must",
+      "mit": "with",
+      "neuen": "new",
+      "bedrohlichen": "threatening",
+      "realität": "reality",
+      "auseinandersetzen": "to deal with",
+      "vermittelt": "mediated",
+      "eindrücklich": "impressive",
+      "isolation": "isolation",
+      "hoffnungslosigkeit": "hopelessness",
+      "geprägt": "shaped",
+      "figuren": "figures",
+      "obwohl": "although",
+      "unterschiedliche": "different",
+      "beziehungen": "relationships",
+      "hintergründe": "backgrounds",
+      "gemeinsame": "joint",
+      "ohnmacht": "fainting",
+      "gegenüber": "towards",
+      "unberechenbaren": "unpredictable",
+      "natur": "nature",
+      "des": "of the",
+      "lebens": "lives",
+      "schicksals": "fate",
+      "dieser": "this",
+      "belastenden": "incriminating",
+      "situation": "situation",
+      "solidarität": "solidarity",
+      "zwischen": "between",
+      "bewohnern": "inhabitants",
+      "probe": "sample",
+      "engagieren": "to engage",
+      "erstarren": "to freeze",
+      "egoistisch": "selfish",
+      "erzählung": "narrative",
+      "gilt": "applies",
+      "als": "than",
+      "absurder": "absurd",
+      "kommentar": "comment",
+      "zur": "to the",
+      "menschlichen": "human",
+      "suche": "search",
+      "chaotischen": "chaotic",
+      "welt": "world",
+      "menschliches": "human",
+      "leid": "sorrow",
+      "identität": "identity",
+      "extremen": "extreme",
+      "bedingungen": "conditions",
+      "bleiben": "to stay",
+      "noch": "still",
+      "begeistert": "enthusiastic",
+      "klaren": "clear",
+      "prägnanten": "concise",
+      "schafft": "creates",
+      "komplexe": "complex",
+      "philosophische": "philosophical",
+      "ideen": "ideas",
+      "packende": "gripping",
+      "verweben": "to weave",
+      "dazu": "additionally",
+      "bringt": "brings",
+      "eigene": "own",
+      "lebenssituation": "life situation",
+      "darüber": "about it",
+      "hinaus": "beyond",
+      "einem": "a",
+      "ausweg": "way out",
+      "solch": "such",
+      "hoffnungslosen": "hopeless",
+      "lage": "situation",
+      "tiefen": "deep",
+      "inneren": "interior",
+      "befragung": "survey",
+      "eigenen": "own",
+      "führt": "leads",
+      "meisterwerk": "masterpiece",
+      "absurden": "absurd",
+      "literatur": "literature",
+      "entführt": "kidnapped",
+      "heimgesuchte": "haunted",
+      "wo": "where",
+      "einheimischen": "locals",
+      "unerwarteten": "unexpected",
+      "existenziellen": "existential",
+      "konfrontiert": "confronted",
+      "fungiert": "to function",
+      "potentielle": "potential",
+      "allegorie": "allegory",
+      "unmöglichkeit": "impossibility",
+      "kontrollieren": "to control",
+      "bietet": "offers",
+      "tiefgründige": "profound",
+      "reflexionen": "reflections",
+      "zwischenmenschliche": "interpersonal",
+      "dessen": "whose",
+      "häufig": "often",
+      "dem": "the",
+      "franz": "franz",
+      "verglichen": "compared",
+      "entwickelt": "developed",
+      "starken": "strong",
+      "nüchternen": "sober",
+      "ton": "tone",
+      "absurdität": "absurdity",
+      "widerspiegelt": "reflects",
+      "gleichzeitig": "simultaneously",
+      "auseinandersetzung": "discussion",
+      "drängt": "presses",
+      "individuelle": "individual",
+      "verständnis": "understanding",
+      "hinausgehen": "to go beyond",
+      "historische": "historical",
+      "kontext": "context",
+      "choleraartige": "cholera-like",
+      "inspirationsquelle": "source of inspiration",
+      "diente": "served",
+      "umreißt": "outlines",
+      "wiederholten": "repeated",
+      "vergangenheit": "past",
+      "mehrfach": "multiple",
+      "seuchen": "epidemics",
+      "heimgesucht": "haunted",
+      "darunter": "including",
+      "pestepidemien": "plague epidemics",
+      "jahrhundert": "century",
+      "trotzt": "despite",
+      "düsteren": "gloomy",
+      "kulisse": "backdrop",
+      "erzählweise": "narrative",
+      "sowohl": "both",
+      "philosophisch": "philosophical",
+      "angelegt": "established",
+      "regt": "to stimulate",
+      "condition": "condition",
+      "universellen": "universal",
+      "angesprochen": "addressed",
+      "erweisen": "to pay (respect)",
+      "durchweg": "throughout",
+      "insbesondere": "especially",
+      "heutigen": "today's",
+      "zeit": "time",
+      "gesellschaften": "societies",
+      "erneut": "again",
+      "angesichts": "in the face of",
+      "pandemiebedingten": "pandemic-related",
+      "erlangt": "gained",
+      "aktuelle": "current",
+      "brisanz": "sensitivity",
+      "verleiht": "gives",
+      "zeitlose": "timeless",
+      "qualität": "quality",
+      "nachhaltig": "sustainable",
+      "zum": "to the",
+      "anregt": "stimulates",
+      "daseins": "existence",
+      "seiner": "his",
+      "bahnbrechenden": "groundbreaking",
+      "gezeichnete": "marked",
+      "gesellschaft": "society",
+      "erörtert": "discussed",
+      "grundlegenden": "fundamental",
+      "erlittenen": "suffered",
+      "orans": "Orans",
+      "dystopie": "dystopia",
+      "spiegelbild": "reflection",
+      "wahrheit": "truth",
+      "betrifft": "concerns",
+      "unser": "our",
+      "verlangen": "demand",
+      "ordnung": "order",
+      "verwendung": "use",
+      "eines": "one",
+      "kühlen": "cool",
+      "deskriptiven": "descriptive",
+      "duktus": "style",
+      "verbindung": "connection",
+      "melancholischem": "melancholic",
+      "unterton": "undertone",
+      "erzeugt": "produced",
+      "eindringlichen": "insistent",
+      "fast": "almost",
+      "hypnotischen": "hypnotic",
+      "effekt": "effect",
+      "zwingt": "forces",
+      "dilemmata": "dilemmas",
+      "protagonisten": "protagonists",
+      "hineinzuversetzen": "to empathize",
+      "letztlich": "ultimately",
+      "übersetzt": "translated",
+      "physische": "physical",
+      "bedrohung": "threat",
+      "metapher": "metaphor",
+      "moralischen": "moral",
+      "emotionalen": "emotional",
+      "kämpfe": "fights",
+      "individuums": "individual",
+      "zutiefst": "deeply",
+      "humanistische": "humanistic",
+      "ansichten": "views",
+      "finden": "to find",
+      "ausdruck": "expression",
+      "art": "kind",
+      "weise": "way",
+      "angesicht": "face",
+      "zusammenkommen": "to come together",
+      "aufwirft": "raises",
+      "ob": "if",
+      "tod": "death",
+      "bestehen": "to consist",
+      "kann": "can",
+      "philosophischen": "philosophical",
+      "fragestellungen": "questions",
+      "jahrzehnte": "decades",
+      "veröffentlichung": "publication",
+      "relevanz": "relevance",
+      "fordern": "demand",
+      "heraus": "out",
+      "abgründe": "abysses",
+      "unserer": "our"
+    },
+    "fr": {
+      "la": "the",
+      "peste": "plague",
+      "est": "is",
+      "un": "a",
+      "livre": "book",
+      "important": "important",
+      "albert": "albert",
+      "camus": "camus",
+      "écrivain": "writer",
+      "célèbre": "famous",
+      "ce": "this",
+      "parle": "speaks",
+      "une": "a",
+      "maladie": "disease",
+      "grave": "serious",
+      "elle": "she",
+      "touche": "affects",
+      "ville": "city",
+      "oran": "Oran",
+      "les": "the",
+      "gens": "people",
+      "doivent": "must",
+      "rester": "to stay",
+      "chez": "at",
+      "eux": "them",
+      "ils": "they",
+      "ont": "have",
+      "peur": "fear",
+      "et": "and",
+      "sont": "are",
+      "très": "very",
+      "tristes": "sad",
+      "vie": "life",
+      "change": "change",
+      "beaucoup": "a lot",
+      "dans": "in",
+      "cette": "this",
+      "amis": "friends",
+      "se": "yourself",
+      "battent": "hit",
+      "ensemble": "together",
+      "contre": "against",
+      "personnages": "characters",
+      "cherchent": "search",
+      "espoir": "hope",
+      "liberté": "freedom",
+      "histoire": "history",
+      "avec": "with",
+      "des": "some",
+      "épidémies": "epidemics",
+      "il": "he",
+      "eu": "had",
+      "maladies": "diseases",
+      "ici": "here",
+      "avant": "before",
+      "montre": "shows",
+      "difficile": "difficult",
+      "veut": "wants",
+      "que": "that",
+      "lecteurs": "readers",
+      "pensent": "think",
+      "leur": "their",
+      "propre": "clean",
+      "publié": "published",
+      "en": "in",
+      "mil": "thousand",
+      "neuf": "nine",
+      "quarante-sept": "forty-seven",
+      "roman": "novel",
+      "passe": "passes",
+      "qui": "who",
+      "fait": "makes",
+      "face": "face",
+      "épidémie": "epidemic",
+      "de": "of",
+      "habitants": "inhabitants",
+      "découvrent": "they discover",
+      "tue": "kills",
+      "crée": "creates",
+      "atmosphère": "atmosphere",
+      "mise": "put",
+      "quarantaine": "quarantine",
+      "ne": "not",
+      "peuvent": "can",
+      "pas": "not",
+      "quitter": "to quit",
+      "souvent": "often",
+      "seuls": "alone",
+      "ou": "or",
+      "famille": "family",
+      "période": "period",
+      "pour": "for",
+      "tout": "all",
+      "le": "the",
+      "monde": "world",
+      "vivent": "live",
+      "moments": "moments",
+      "perdent": "lose",
+      "pourtant": "yet",
+      "certains": "some",
+      "solutions": "solutions",
+      "aider": "to help",
+      "malades": "sick",
+      "habitent": "dwell",
+      "terrible": "terrible",
+      "écrit": "written",
+      "manière": "manner",
+      "réfléchir": "to reflect",
+      "sur": "about",
+      "condition": "condition",
+      "humaine": "human",
+      "classique": "classic",
+      "littérature": "literature",
+      "reste": "rest",
+      "pertinent": "relevant",
+      "aujourd'hui": "today",
+      "apprécient": "appreciate",
+      "encore": "again",
+      "algérie": "algeria",
+      "années": "years",
+      "situation": "situation",
+      "inspirée": "inspired",
+      "par": "by",
+      "choléra": "cholera",
+      "décimé": "decimated",
+      "population": "population",
+      "principaux": "main",
+      "crise": "crisis",
+      "faire": "to do",
+      "mortelle": "deadly",
+      "quotidienne": "daily",
+      "effet": "effect",
+      "existences": "existences",
+      "auparavant": "beforehand",
+      "banales": "trivial",
+      "prennent": "take",
+      "tournant": "turning point",
+      "dramatique": "dramatic",
+      "utilise": "uses",
+      "explorer": "to explore",
+      "thèmes": "themes",
+      "importants": "important",
+      "comme": "like",
+      "absurde": "absurd",
+      "au": "at the",
+      "fur": "was",
+      "mesure": "measure",
+      "propage": "propagates",
+      "confinés": "confined",
+      "apprendre": "to learn",
+      "vivre": "to live",
+      "incertitude": "uncertainty",
+      "si": "if",
+      "réponses": "responses",
+      "scientifiques": "scientific",
+      "autres": "others",
+      "plongent": "dive",
+      "foi": "faith",
+      "désespoir": "despair",
+      "espérant": "hoping",
+      "fin": "end",
+      "style": "style",
+      "écriture": "writing",
+      "fois": "times",
+      "réfléchi": "thoughtful",
+      "puissant": "powerful",
+      "descriptions": "descriptions",
+      "détaillées": "detailed",
+      "nous": "we",
+      "mort": "death",
+      "pousse": "push",
+      "interroger": "to question",
+      "cela": "that",
+      "signifie": "means",
+      "être": "to be",
+      "humain": "human",
+      "circonstances": "circumstances",
+      "extrêmes": "extreme",
+      "pertinente": "relevant",
+      "car": "because",
+      "évoque": "evokes",
+      "questions": "questions",
+      "souffrance": "suffering",
+      "individuelle": "individual",
+      "collective": "collective",
+      "réflexions": "reflections",
+      "notre": "our",
+      "faiblesse": "weakness",
+      "fatalité": "fate",
+      "ainsi": "thus",
+      "solidarité": "solidarity",
+      "entre": "between",
+      "personnes": "people",
+      "rappellent": "remind",
+      "importance": "importance",
+      "humanité": "humanity",
+      "difficiles": "difficult",
+      "publiée": "published",
+      "explore": "explore",
+      "algérienne": "Algerian",
+      "fulgurante": "dazzling",
+      "début": "beginning",
+      "mystérieuse": "mysterious",
+      "apparaît": "appears",
+      "provoquant": "causing",
+      "inquiétude": "concern",
+      "parmi": "among",
+      "trouve": "finds",
+      "ses": "his",
+      "racines": "roots",
+      "grande": "big",
+      "partie": "party",
+      "plus": "more",
+      "déroule": "unfolds",
+      "contexte": "context",
+      "historique": "historic",
+      "marqué": "marked",
+      "seconde": "second",
+      "guerre": "war",
+      "mondiale": "global",
+      "ajoutant": "adding",
+      "couche": "layer",
+      "complexité": "complexity",
+      "aux": "to the",
+      "aborde": "addresses",
+      "faisant": "making",
+      "référence": "reference",
+      "précédentes": "previous",
+      "présente": "presents",
+      "tableau": "table",
+      "vivant": "living",
+      "soumise": "submissive",
+      "angoisse": "anguish",
+      "mettant": "putting",
+      "lumière": "light",
+      "lutte": "struggle",
+      "survie": "survival",
+      "incluent": "include",
+      "sens": "sense",
+      "existence": "existence",
+      "désastre": "disaster",
+      "voix": "voice",
+      "narrative": "narrative",
+      "objective": "objective",
+      "introspective": "introspective",
+      "incite": "encourages",
+      "lecteur": "reader",
+      "destin": "destiny",
+      "capacité": "capacity",
+      "trouver": "to find",
+      "chaotique": "chaotic",
+      "ailleurs": "elsewhere",
+      "du": "of the",
+      "illustrent": "illustrate",
+      "impuissance": "powerlessness",
+      "individu": "individual",
+      "forces": "forces",
+      "oppressives": "oppressive",
+      "demeure": "dwelling",
+      "œuvre": "work",
+      "significative": "significant",
+      "résonnant": "resounding",
+      "défis": "challenges",
+      "sociaux": "social",
+      "éthiques": "ethics",
+      "pouvons": "can",
+      "rencontrer": "to meet",
+      "situations": "situations",
+      "où": "where",
+      "épreuve": "trial",
+      "leçons": "lessons",
+      "tirées": "pulled",
+      "texte": "text",
+      "encourager": "to encourage",
+      "réflexion": "reflection",
+      "temps": "weather",
+      "tant": "so much",
+      "niveau": "level",
+      "individuel": "individual",
+      "collectif": "collective",
+      "attaque": "attack",
+      "plongeant": "diving",
+      "historico-social": "historical-social",
+      "complexe": "complex",
+      "situé": "situated",
+      "concentre": "focuses",
+      "frappe": "strike",
+      "brutalement": "brutally",
+      "imposant": "imposing",
+      "confinement": "lockdown",
+      "inattendu": "unexpected",
+      "bien": "well",
+      "inspire": "inspires",
+      "transpose": "to transpose",
+      "son": "his",
+      "récit": "story",
+      "marquée": "marked",
+      "quête": "quest",
+      "caractérisent": "to characterize",
+      "europe": "Europe",
+      "milieu": "environment",
+      "xxe": "20th",
+      "siècle": "century",
+      "notamment": "notably",
+      "après": "after",
+      "horreurs": "horrors",
+      "narration": "narration",
+      "oscillant": "oscillating",
+      "ton": "tone",
+      "analytique": "analytical",
+      "introspection": "introspection",
+      "poignante": "poignant",
+      "dépeint": "depicts",
+      "réalisme": "realism",
+      "réactions": "reactions",
+      "inéluctable": "inevitable",
+      "valeurs": "values",
+      "mises": "sets",
+      "mal": "bad",
+      "égoïsme": "selfishness",
+      "confrontation": "confrontation",
+      "entrelacent": "intertwine",
+      "illustrant": "illustrating",
+      "tension": "tension",
+      "implacable": "unyielding",
+      "affirmant": "affirming",
+      "vouloir": "to want",
+      "éloigner": "to distance",
+      "cadre": "framework",
+      "existentialiste": "existentialist",
+      "invite": "invites",
+      "néanmoins": "nevertheless",
+      "mécanismes": "mechanisms",
+      "rendant": "making",
+      "intemporelle": "timeless",
+      "toujours": "always",
+      "actualité": "news",
+      "crises": "crises",
+      "contemporaines": "contemporary",
+      "soulevées": "raised",
+      "résonnent": "resonate",
+      "sociales": "social",
+      "interrogent": "question",
+      "redéfinir": "to redefine",
+      "exploration": "exploration",
+      "emblématique": "emblematic",
+      "transcende": "transcends",
+      "simple": "simple",
+      "examiner": "to examine",
+      "vérités": "truths",
+      "fondamentales": "fundamental",
+      "profondément": "deeply",
+      "ancrée": "anchored",
+      "socio-historique": "socio-historical",
+      "france": "France",
+      "fléau": "scourge",
+      "mécanisme": "mechanism",
+      "allégorique": "allegorical",
+      "existentielle": "existential",
+      "fatalisme": "fatalism",
+      "vit": "lives",
+      "infléchie": "bent",
+      "échos": "echoes",
+      "ravagea": "devastated",
+      "engouffre": "to engulf",
+      "méandres": "meanders",
+      "soulignant": "highlighting",
+      "fragilité": "fragility",
+      "dépeignant": "depicting",
+      "luttes": "struggles",
+      "montée": "rise",
+      "questionne": "questions",
+      "invariablement": "invariably",
+      "nature": "nature",
+      "critiques": "criticisms",
+      "écho": "echo",
+      "continue": "continues",
+      "échappent": "escape",
+      "chaque": "each",
+      "personnage": "character",
+      "confronté": "faced",
+      "aberration": "aberration",
+      "incarne": "to embody",
+      "réponse": "response",
+      "distincte": "distinct",
+      "résilience": "resilience",
+      "admirable": "admirable",
+      "déconcertant": "unsettling",
+      "témoignant": "testifying",
+      "diversité": "diversity",
+      "humaines": "human",
+      "adversité": "adversity",
+      "prose": "prose",
+      "incisive": "incisive",
+      "lyrique": "lyric",
+      "interpelle": "addresses",
+      "poussant": "pushing",
+      "revisiter": "to revisit",
+      "propres": "own",
+      "croyances": "beliefs",
+      "aléas": "hazards",
+      "somme": "sum",
+      "chef-d'œuvre": "masterpiece",
+      "intemporel": "timeless",
+      "résonne": "resonates",
+      "acuité": "sharpness",
+      "particulière": "particular",
+      "contemporain": "contemporary",
+      "sanitaires": "sanitary",
+      "semble": "seems",
+      "dresser": "to set up",
+      "exigeant": "demanding",
+      "éthique": "ethics",
+      "solidaire": "solidarity"
+    },
+    "es": {
+      "la": "the",
+      "peste": "plague",
+      "es": "is",
+      "un": "a",
+      "libro": "book",
+      "muy": "very",
+      "famoso": "famous",
+      "el": "the",
+      "autor": "author",
+      "albert": "Albert",
+      "camus": "Camus",
+      "historia": "story",
+      "ocurre": "occurs",
+      "en": "in",
+      "orán": "Oran",
+      "una": "a",
+      "ciudad": "city",
+      "argelia": "algeria",
+      "esta": "this",
+      "hay": "there is",
+      "enfermedad": "disease",
+      "peligrosa": "dangerous",
+      "gente": "people",
+      "está": "is",
+      "enferma": "sick",
+      "tiene": "has",
+      "miedo": "fear",
+      "muchos": "many",
+      "mueren": "die",
+      "por": "for",
+      "cerrada": "closed",
+      "no": "not",
+      "salida": "exit",
+      "los": "the",
+      "amigos": "friends",
+      "ayudan": "help",
+      "otros": "others",
+      "crisis": "crisis",
+      "escribe": "writes",
+      "sobre": "about",
+      "vida": "life",
+      "con": "with",
+      "lucha": "struggle",
+      "esperanza": "hope",
+      "triste": "sad",
+      "interesante": "interesting",
+      "muchas": "many",
+      "personas": "people",
+      "les": "to them",
+      "gusta": "likes",
+      "este": "this",
+      "usa": "usa",
+      "su": "his",
+      "experiencia": "experience",
+      "de": "of",
+      "guerras": "wars",
+      "enfermedades": "diseases",
+      "que": "that",
+      "habla": "speaks",
+      "muerte": "death",
+      "clásico": "classic",
+      "literatura": "literature",
+      "novela": "novel",
+      "escrita": "written",
+      "gran": "great",
+      "epidemia": "epidemic",
+      "afecta": "affects",
+      "todos": "all",
+      "hospitales": "hospitals",
+      "están": "are",
+      "llenos": "full",
+      "diaria": "daily",
+      "cambia": "change",
+      "mucho": "much",
+      "personajes": "characters",
+      "como": "like",
+      "rieux": "Rieux",
+      "rambert": "Rambert",
+      "deben": "must",
+      "ayudar": "to help",
+      "luchar": "to fight",
+      "juntos": "together",
+      "para": "to",
+      "sobrevivir": "to survive",
+      "escribió": "wrote",
+      "pensando": "thinking",
+      "soledad": "solitude",
+      "siente": "feels",
+      "humanidad": "humanity",
+      "profunda": "profound",
+      "invita": "invites",
+      "reflexión": "reflection",
+      "lectores": "readers",
+      "piensan": "think",
+      "sentido": "sense",
+      "después": "after",
+      "leerlo": "to read it",
+      "también": "also",
+      "muestra": "shows",
+      "cómo": "how",
+      "comunidad": "community",
+      "se": "oneself",
+      "une": "joins",
+      "ante": "in the face of",
+      "adversidad": "adversity",
+      "refleja": "reflects",
+      "otras": "other",
+      "epidemias": "epidemics",
+      "cólera": "cholera",
+      "sigue": "follows",
+      "siendo": "being",
+      "importante": "important",
+      "hoy": "today",
+      "día": "day",
+      "porque": "because",
+      "tiempos": "times",
+      "difíciles": "difficult",
+      "publicada": "published",
+      "desarrolla": "develops",
+      "ha": "has",
+      "enfrentado": "faced",
+      "pasado": "past",
+      "trama": "plot",
+      "población": "population",
+      "lo": "it",
+      "provoca": "provokes",
+      "reacción": "reaction",
+      "intensa": "intense",
+      "entre": "between",
+      "habitantes": "inhabitants",
+      "estos": "these",
+      "enfrentan": "they face",
+      "mientras": "while",
+      "sus": "their",
+      "vidas": "lives",
+      "cambian": "change",
+      "drásticamente": "drastically",
+      "durante": "during",
+      "encontrar": "to find",
+      "formas": "shapes",
+      "lleva": "carries",
+      "existencia": "existence",
+      "examina": "examines",
+      "temas": "themes",
+      "importantes": "important",
+      "humana": "human",
+      "contra": "against",
+      "inevitabilidad": "inevitability",
+      "hasta": "until",
+      "ese": "that",
+      "momento": "moment",
+      "llevaban": "carried",
+      "cotidianas": "daily",
+      "ven": "come",
+      "obligados": "obligated",
+      "unirse": "to join",
+      "trabajar": "to work",
+      "afrontar": "to face",
+      "si": "if",
+      "colaboran": "collaborate",
+      "posible": "possible",
+      "logren": "achieve",
+      "salir": "to leave",
+      "adelante": "forward",
+      "través": "through",
+      "estilo": "style",
+      "reflexionar": "to reflect",
+      "condición": "condition",
+      "nuestra": "our",
+      "capacidad": "capacity",
+      "resistencia": "resistance",
+      "sufrimiento": "suffering",
+      "además": "furthermore",
+      "inspira": "inspires",
+      "mató": "killed",
+      "parte": "part",
+      "obra": "work",
+      "aunque": "although",
+      "contexto": "context",
+      "años": "years",
+      "relevante": "relevant",
+      "pues": "since",
+      "enfrenta": "faces",
+      "cuestiones": "issues",
+      "eternas": "eternal",
+      "destino": "destination",
+      "perspectiva": "perspective",
+      "sumergen": "to submerge",
+      "lectura": "reading",
+      "pueden": "can",
+      "descubrir": "to discover",
+      "significados": "meanings",
+      "profundos": "deep",
+      "resiliencia": "resilience",
+      "importancia": "importance",
+      "solidaridad": "solidarity",
+      "argelina": "Algerian",
+      "donde": "where",
+      "brote": "outbreak",
+      "obliga": "to force",
+      "enfrentarse": "to face",
+      "cuarentena": "quarantine",
+      "las": "the",
+      "consecuencias": "consequences",
+      "retrata": "portrays",
+      "cuando": "when",
+      "normales": "normal",
+      "interrumpidas": "interrupted",
+      "explorando": "exploring",
+      "inevitable": "inevitable",
+      "intentan": "attempt",
+      "propósito": "purpose",
+      "medio": "means",
+      "del": "of the",
+      "caos": "chaos",
+      "narrativa": "narrative",
+      "sugiere": "suggests",
+      "menudo": "frequent",
+      "son": "are",
+      "impotentes": "helpless",
+      "fuerzas": "forces",
+      "más": "more",
+      "grandes": "large",
+      "al": "to the",
+      "lector": "reader",
+      "naturaleza": "nature",
+      "moralidad": "morality",
+      "absurdo": "absurd",
+      "edifica": "builds",
+      "histórica": "historic",
+      "proporcionando": "providing",
+      "real": "real",
+      "intensifica": "intensifies",
+      "impacto": "impact",
+      "prosa": "prose",
+      "rica": "rich",
+      "simbolismo": "symbolism",
+      "profundamente": "deeply",
+      "reflexiva": "reflective",
+      "convierte": "turns",
+      "solo": "only",
+      "ficción": "fiction",
+      "sino": "but",
+      "meditación": "meditation",
+      "misma": "same",
+      "texto": "text",
+      "haciendo": "doing",
+      "eco": "echo",
+      "luchas": "struggles",
+      "contemporáneas": "contemporary",
+      "representa": "represents",
+      "indagación": "inquiry",
+      "vivencia": "experience",
+      "desde": "since",
+      "inicio": "beginning",
+      "atrapados": "trapped",
+      "encierro": "lockdown",
+      "desesperación": "desperation",
+      "confrontar": "to confront",
+      "miedos": "fears",
+      "generar": "to generate",
+      "circunstancias": "circumstances",
+      "tan": "so",
+      "adversas": "adverse",
+      "ilustra": "illustrates",
+      "entrelazan": "intertwine",
+      "sugiriendo": "suggesting",
+      "puede": "can",
+      "controlen": "control",
+      "utilizar": "to use",
+      "metáfora": "metaphor",
+      "cuestiona": "questions",
+      "resuenan": "resonate",
+      "contemporáneo": "contemporary",
+      "recordarían": "would remember",
+      "salud": "health",
+      "pública": "public",
+      "actuales": "current",
+      "tono": "tone",
+      "reflexivo": "reflective",
+      "sombrío": "gloomy",
+      "asemeja": "resembles",
+      "kafkiana": "Kafkaesque",
+      "desafiando": "defying",
+      "considerar": "to consider",
+      "múltiples": "multiple",
+      "experiencias": "experiences",
+      "humanas": "human",
+      "así": "thus",
+      "crónica": "chronicle",
+      "significado": "meaning",
+      "erige": "erects",
+      "faro": "lighthouse",
+      "filosófica": "philosophical",
+      "incertidumbre": "uncertainty",
+      "acompaña": "to accompany",
+      "conflicto": "conflict",
+      "centrado": "centered",
+      "asola": "devastates",
+      "trasciende": "transcends",
+      "meramente": "merely",
+      "físico": "physical",
+      "convertirse": "to become",
+      "potente": "powerful",
+      "existencial": "existential",
+      "nos": "us",
+      "explorar": "to explore",
+      "tales": "such",
+      "impotencia": "powerlessness",
+      "individuo": "individual",
+      "incontrolables": "uncontrollable",
+      "búsqueda": "search",
+      "mundo": "world",
+      "parece": "seems",
+      "surge": "emerges",
+      "momentos": "moments",
+      "evoca": "evokes",
+      "angustia": "anguish",
+      "kafka": "kafka",
+      "presenta": "presents",
+      "emblemáticos": "emblematic",
+      "cuyas": "whose",
+      "decisiones": "decisions",
+      "dilemas": "dilemmas",
+      "morales": "moral",
+      "reflejan": "reflect",
+      "perenne": "perennial",
+      "bien": "well",
+      "mal": "bad",
+      "crucial": "crucial",
+      "reconocer": "to recognize",
+      "pesar": "despite",
+      "fue": "was",
+      "fundada": "founded",
+      "resonancia": "resonance",
+      "extiende": "extends",
+      "conflictos": "conflicts",
+      "contemporáneos": "contemporary",
+      "convirtiéndola": "turning it",
+      "atemporal": "timeless",
+      "esencia": "essence",
+      "última": "last",
+      "instancia": "instance",
+      "relato": "story",
+      "plaga": "plague",
+      "enfrentamos": "confront"
+    }
+  }
+}

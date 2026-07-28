@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-28-the-plague-albert-camus",
+    "date": "2026-07-28",
+    "author": "Albert Camus",
+    "image": "https://covers.openlibrary.org/b/id/745331-L.jpg",
+    "titles": {
+      "en": "The Plague",
+      "de": "Die Pest",
+      "fr": "La Peste",
+      "es": "La Peste"
+    }
+  },
+  {
     "id": "2026-07-26-the-recognitions-william-gaddis",
     "date": "2026-07-26",
     "author": "William Gaddis",
