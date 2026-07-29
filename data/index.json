@@ -1,5 +1,43 @@
 [
   {
+    "id": "2026-07-29-how-mexican-drug-cartels-have-outsourced-meth-labs-to-nigeri",
+    "date": "2026-07-29",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c1e/live/5bc42500-87a9-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "world",
+    "titles": {
+      "en": "How Mexican Drug Cartels are Using Nigeria for Meth Production",
+      "de": "Mexikanische Drogenkartelle und Nigeria",
+      "fr": "Affaire des laboratoires de méthamphétamine au Nigeria",
+      "es": "El auge de la metanfetamina en Nigeria"
+    }
+  },
+  {
+    "id": "2026-07-29-saudi-arabia-joins-us-in-strikes-on-iran-backed-militia",
+    "date": "2026-07-29",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Saudi Arabia Joins US Strikes Against Iran-Backed Militia",
+      "de": "Saudi-Arabien unterstützt die USA bei Angriffen auf den Irak",
+      "fr": "L'Arabie Saoudite s'unit aux États-Unis contre l'Iran",
+      "es": "Arabia Saudita y Estados Unidos responden a milicias apoyadas por Irán"
+    }
+  },
+  {
+    "id": "2026-07-29-japan-in-a-race-against-time-to-rescue-people-trapped-beneat",
+    "date": "2026-07-29",
+    "source": "BBC News",
+    "category": "world",
+    "titles": {
+      "en": "Japan is Racing to Rescue People After Earthquake",
+      "de": "Rettung nach dem Erdbeben in Japan",
+      "fr": "Urgence au Japon après un tremblement de terre",
+      "es": "Terremoto en Japón y rescate"
+    }
+  },
+  {
     "id": "2026-07-28-johnson-johnson-offers-up-to-5-5bn-to-settle-baby-powder-law",
     "date": "2026-07-28",
     "source": "BBC News",
