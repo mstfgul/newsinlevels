@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-29-jane-austen-by-the-bye-as-i-must-leave-off",
+    "date": "2026-07-29",
+    "author": "Jane Austen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/330px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
+    "titles": {
+      "en": "By the bye, as I must leave off being young, I find many douceurs in being a sort of chaperon, for I am put on the sofa near the fire and can drink as much wine as I like.",
+      "de": "Übrigens, da ich aufhören muss, jung zu sein, finde ich viele Bequemlichkeiten darin, eine Art Begleiterin zu sein, denn ich werde auf das Sofa nahe dem Feuer gesetzt und kann so viel Wein trinken, wie ich will.",
+      "fr": "By the bye, as I must leave off being young, I find many douceurs in being a sort of chaperon, for I am put on the sofa near the fire and can drink as much wine as I like.",
+      "es": "By the bye, as I must leave off being young, I find many douceurs in being a sort of chaperon, for I am put on the sofa near the fire and can drink as much wine as I like."
+    }
+  },
+  {
     "id": "2026-07-28-albert-camus-outside-of-that-single-fatalit",
     "date": "2026-07-28",
     "author": "Albert Camus",
