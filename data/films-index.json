@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-29-the-last-days-of-disco-whit-stillman",
+    "date": "2026-07-29",
+    "director": "Whit Stillman",
+    "image": "https://image.tmdb.org/t/p/w780/lReaAZCsA0GXvJrxzSMsFxwgh6F.jpg",
+    "titles": {
+      "en": "The Last Days of Disco: A Unique Look at Youth and Relationships",
+      "de": "Die letzten Tage der Disco",
+      "fr": "Les Derniers Jours du Disco",
+      "es": "Los últimos días del disco"
+    }
+  },
+  {
     "id": "2026-07-28-the-last-emperor-bernardo-bertolucci",
     "date": "2026-07-28",
     "director": "Bernardo Bertolucci",

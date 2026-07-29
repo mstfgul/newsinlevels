@@ -1,0 +1,2510 @@
+{
+  "id": "2026-07-29-the-last-days-of-disco-whit-stillman",
+  "date": "2026-07-29",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/16980"
+  },
+  "originalTitle": "The Last Days of Disco (1998) — Whit Stillman",
+  "image": "https://image.tmdb.org/t/p/w780/lReaAZCsA0GXvJrxzSMsFxwgh6F.jpg",
+  "category": "film",
+  "film": {
+    "director": "Whit Stillman",
+    "title": "The Last Days of Disco",
+    "year": "1998",
+    "genres": "Comedy, Drama, Romance"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Last Days of Disco",
+        "text": "This film is about young women. They go to a club. The club is in New York. It is 1980. The women have friends. They dance and talk. They have fun at night. The club is special. People fall in love. The film is funny and smart. It shows friendship and love. The club looks bright. There is music and laughter. The story is happy and sad. People have problems, too. The film is interesting.",
+        "vocabulary": [
+          {
+            "word": "friend",
+            "definition": "a person you like"
+          },
+          {
+            "word": "dance",
+            "definition": "move your body to music"
+          },
+          {
+            "word": "night",
+            "definition": "time when it is dark"
+          },
+          {
+            "word": "club",
+            "definition": "place for music and dancing"
+          },
+          {
+            "word": "music",
+            "definition": "sounds to enjoy"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where do the young women go?",
+            "options": [
+              "to a park",
+              "to a club",
+              "to school"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What time is it in the film?",
+            "options": [
+              "1980",
+              "1990",
+              "2000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do people do in the club?",
+            "options": [
+              "fight",
+              "dance",
+              "eat"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Last Days of Disco",
+        "text": "The Last Days of Disco is a film about young women. They spend time at a disco in New York City during the 1980s. The main characters are friends, and they enjoy dancing and talking together. The disco is bright and lively, with loud music. They meet new people and sometimes fall in love. The film is funny because it shows the characters' relationships in a smart way. It also talks about friendship and love. The story has ups and downs, and it shows how life changes. The director, Whit Stillman, creates a special mood with dialogue and humor. This film is part of Stillman's series about young adults.",
+        "vocabulary": [
+          {
+            "word": "disco",
+            "definition": "a place for dancing at night"
+          },
+          {
+            "word": "friends",
+            "definition": "people you know and like"
+          },
+          {
+            "word": "bright",
+            "definition": "having a lot of light"
+          },
+          {
+            "word": "relationships",
+            "definition": "connections between people"
+          },
+          {
+            "word": "director",
+            "definition": "the person who makes a film"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What city is the film set in?",
+            "options": [
+              "Los Angeles",
+              "New York City",
+              "Chicago"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What do the characters enjoy doing?",
+            "options": [
+              "dancing",
+              "working",
+              "traveling"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the director of the film?",
+            "options": [
+              "Whit Stillman",
+              "Steven Spielberg",
+              "Nora Ephron"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Last Days of Disco: A Unique Look at Youth and Relationships",
+        "text": "The Last Days of Disco is a 1998 comedy-drama film directed by Whit Stillman. It focuses on the lives of a group of young women and their friends who live in New York City during the vibrant disco era of the 1980s. The film captures their excitement as they spend time in an exclusive nightclub, embracing love, friendship, and the chance to mix with different social groups. Stillman uses sharp dialogue and humor to explore themes like social structures and sexual politics, making us think about how these relationships are influenced by their environment. The characters' interactions reveal the complexities of modern relationships filled with love, longing, and sometimes misunderstandings. With its bright visuals and an energetic soundtrack that features classic disco hits, the film creates a lively atmosphere that perfectly reflects the nightlife of that period. If you enjoy character-driven narratives, you will appreciate how Stillman emphasizes the characters' thoughts and emotions rather than focusing solely on a plot. This film is part of his \"Doomed-Bourgeois-in-Love\" series, showcasing how love and friendship play out in a social setting. Overall, it provides a fascinating glimpse into youth and the disco culture, allowing viewers to connect with the characters' joyful yet challenging experiences during a unique time in history.",
+        "vocabulary": [
+          {
+            "word": "disco",
+            "definition": "a style of dance music popular in the 1970s and 1980s, characterized by a strong beat and rhythm."
+          },
+          {
+            "word": "exclusive",
+            "definition": "something that is limited to a specific group of people."
+          },
+          {
+            "word": "underscore",
+            "definition": "to emphasize or highlight something."
+          },
+          {
+            "word": "narrative",
+            "definition": "a spoken or written account of connected events; a story."
+          },
+          {
+            "word": "dynamic",
+            "definition": "characterized by constant change, activity, or progress."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What genre does The Last Days of Disco belong to?",
+            "options": [
+              "Comedy, Drama, Romance",
+              "Action, Adventure, Comedy",
+              "Thriller, Horror, Sci-Fi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What type of music prominently features in the film?",
+            "options": [
+              "Jazz",
+              "Disco",
+              "Classical"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When was The Last Days of Disco released theatrically in the United States?",
+            "options": [
+              "June 12, 1998",
+              "August 25, 2009",
+              "December 4, 2000"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Last Days of Disco",
+        "text": "Set in the vibrant disco scene of 1980s New York, The Last Days of Disco presents a group of young graduates navigating love, ambition, and friendship. The film is a unique blend of comedy and drama, showcasing how social structures and sexual politics interact within an upscale nightclub atmosphere. As the characters explore their identities, they express their feelings through witty dialogue and humorous exchanges. Director Whit Stillman captures the essence of a bygone era with a nostalgic lens, paying homage to the nightlife that defined an entire generation. Although their experiences may seem trivial, they reflect deeper themes about the search for meaning and connection in post-college life. The interplay between the vibrant club scenes and intimate conversations creates a rhythm that keeps viewers engaged. Furthermore, the film's visual style, characterized by its vibrant colors and dynamic camera movements, enhances its exploration of social dynamics. Since it is part of Stillman’s “Doomed-Bourgeois-in-Love series,” it invites viewers to consider the implications of wealth, status, and intimacy. Audiences are sure to enjoy this thoughtful commentary on love and life at the disco, making it an essential watch for fans of character-driven storytelling.",
+        "vocabulary": [
+          {
+            "word": "vibrant",
+            "definition": "full of energy and life"
+          },
+          {
+            "word": "nostalgic",
+            "definition": "having a longing for the past"
+          },
+          {
+            "word": "explore",
+            "definition": "to examine or look into"
+          },
+          {
+            "word": "dynamic",
+            "definition": "full of energy and movement"
+          },
+          {
+            "word": "trivial",
+            "definition": "not important or significant"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What decade is the film set in?",
+            "options": [
+              "1990s",
+              "1980s",
+              "1970s"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who is the director of The Last Days of Disco?",
+            "options": [
+              "Whit Stillman",
+              "Chloë Sevigny",
+              "Kate Beckinsale"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the film explore through its characters?",
+            "options": [
+              "Business deals",
+              "Love and friendship",
+              "Famous actors"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Disco's Golden Era: An Analysis of The Last Days of Disco",
+        "text": "The Last Days of Disco, directed by Whit Stillman, serves as a compelling critique of the social dynamics prevalent in the Manhattan nightclub scene of the early 1980s. As the film unfolds, it intricately weaves together themes of intimacy, ambition, and the complexities of post-collegiate life. The setting, an exclusive disco, acts as both a vibrant backdrop and a microcosm for examining the interactions among a group of privileged graduates. Characters like Charlotte and Josh engage in lengthy dialogues interspersed with Stillman’s distinctive dry humor, which continuously challenges societal norms regarding love and companionship. Given that the film is rooted in the director’s own experiences, it transcends mere entertainment, inviting viewers to ponder deeper existential questions amidst the playful atmosphere. The cinematography, marked by its dynamic camera work and vivid color palette, accentuates the film's exploration of transient relationships. As part of Stillman's 'Doomed-Bourgeois-in-Love series,' it presents an astute reflection on the fleeting nature of youth and desire. Thus, The Last Days of Disco stands as a notable contribution to the landscape of independent cinema, blending comedy and social commentary in an engaging manner.",
+        "vocabulary": [
+          {
+            "word": "critique",
+            "definition": "a detailed analysis and assessment"
+          },
+          {
+            "word": "privileged",
+            "definition": "having special rights or advantages"
+          },
+          {
+            "word": "transcend",
+            "definition": "to go beyond the limits of something"
+          },
+          {
+            "word": "existential",
+            "definition": "related to existence or the way people find meaning"
+          },
+          {
+            "word": "astute",
+            "definition": "being clever and able to make good judgments"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the film critique?",
+            "options": [
+              "Social dynamics",
+              "Fashion trends",
+              "Music styles"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Which aspect of life does the film explore?",
+            "options": [
+              "Post-collegiate life",
+              "Corporate life",
+              "Rural life"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What type of humor does the film feature?",
+            "options": [
+              "Slapstick",
+              "Dry",
+              "Puns"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Whimsical Reflections on The Last Days of Disco",
+        "text": "In Whit Stillman's The Last Days of Disco, an astute examination of the ephemeral nature of youth unfolds within the hallowed confines of a New York City nightclub. This film encapsulates more than mere nostalgia; it serves as a poignant reflection on the complexities of human interaction amidst a backdrop of hedonistic revelry. With its richly layered dialogue, the narrative delves into the intricacies of love, ambition, and the societal expectations that accompany privilege. One cannot overlook Stillman's deft hand in crafting characters whose witty repartee both entertains and provokes thought, allowing viewers to engage deeply with the dilemmas these Ivy League graduates face. Given that the setting is not merely a dance floor but a microcosm of broader societal themes, one inevitably questions the significance of their fleeting relationships. The director's meticulous attention to visual and auditory detail enhances this exploration; the rhythmic pulse of disco music intertwines seamlessly with the vibrant cinematography, creating an immersive experience. Consequently, The Last Days of Disco not only contributes to the genre of independent cinema but also invites critical discourse on the nature of desire and the pursuit of meaning in a world often defined by superficiality.",
+        "vocabulary": [
+          {
+            "word": "ephemeral",
+            "definition": "lasting for a very short time"
+          },
+          {
+            "word": "hallowed",
+            "definition": "regarded as holy or sacred"
+          },
+          {
+            "word": "poignant",
+            "definition": "evoking a strong emotional response"
+          },
+          {
+            "word": "revelry",
+            "definition": "lively and noisy festivities"
+          },
+          {
+            "word": "superficiality",
+            "definition": "the quality of being shallow or lacking depth"
+          },
+          {
+            "word": "meticulous",
+            "definition": "showing great attention to detail"
+          },
+          {
+            "word": "immersive",
+            "definition": "deeply engaging and absorbing"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What aspect of life does the film reflect on?",
+            "options": [
+              "The nature of youth",
+              "The importance of wealth",
+              "The significance of fame"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How are the characters described in the film?",
+            "options": [
+              "Emotionless and dull",
+              "Witty and complex",
+              "Violent and cruel"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What enhances the film's exploration of its themes?",
+            "options": [
+              "Visual and auditory detail",
+              "Special effects",
+              "Action scenes"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Die letzten Tage der Disco",
+        "text": "Der Film heißt „Die letzten Tage der Disco“. Es ist eine Komödie. Zwei junge Frauen gehen oft in einen Club. Der Club ist in New York. Es ist in den 1980er Jahren. Die Frauen haben viele Freunde. Sie lieben das Tanzen. Der Film zeigt das Leben in der Disco. Es gibt viele schöne Lieder. Die Farben im Film sind hell und bunt. Die Stimmung ist fröhlich. Die Zeit im Club ist wichtig. Viele Geschichten passieren dort. Es ist interessant und spannend.",
+        "vocabulary": [
+          {
+            "word": "Film",
+            "definition": "Eine Geschichte in Bildern"
+          },
+          {
+            "word": "Disco",
+            "definition": "Ein Ort zum Tanzen"
+          },
+          {
+            "word": "Freunde",
+            "definition": "Menschen, die man mag"
+          },
+          {
+            "word": "Club",
+            "definition": "Ein spezieller Ort für Partys"
+          },
+          {
+            "word": "Lieder",
+            "definition": "Musikstücke zum Singen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wo gehen die Frauen oft hin?",
+            "options": [
+              "In die Schule",
+              "In einen Club",
+              "In einen Park"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "In welchem Jahr ist die Geschichte?",
+            "options": [
+              "In den 1970er Jahren",
+              "In den 1980er Jahren",
+              "In den 1990er Jahren"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was mögen die Frauen?",
+            "options": [
+              "Das Tanzen",
+              "Das Lesen",
+              "Das Essen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Die letzten Tage der Disco",
+        "text": "Die letzten Tage der Disco ist ein Film von Whit Stillman. Der Film kommt aus den USA und ist 1998 erschienen. Er zeigt das Leben von zwei jungen Frauen in den 1980er Jahren. Diese Frauen und ihre Freunde verbringen viel Zeit in einem exklusiven Nachtclub in New York. Die Discozeit ist wichtig für die Geschichte. Die Charaktere reden viel miteinander und es gibt viel Humor. In diesen Dialogen spricht der Film über Freundschaft, Beziehungen und gesellschaftliche Regeln, die in dieser Zeit gelten. Die Musik und die Lichter in der Disco sind sehr lebhaft. Die Menschen tanzen und suchen Liebe, aber sie haben auch Konflikte. Manchmal sind die Beziehungen kompliziert, weil Erwartungen hoch sind. Die Themen im Film sind auch ernst, denn die Charaktere lernen viel über das Leben und ihre Wünsche. Der Film bleibt bis heute beliebt bei vielen Zuschauern.",
+        "vocabulary": [
+          {
+            "word": "Nachtclub",
+            "definition": "Ein Ort, wo man essen, trinken und tanzen kann."
+          },
+          {
+            "word": "Disko",
+            "definition": "Ein Nachtclub mit viel Musik und Tanz."
+          },
+          {
+            "word": "Gesellschaft",
+            "definition": "Die Menschen in einer Gemeinschaft."
+          },
+          {
+            "word": "Beziehung",
+            "definition": "Eine Verbindung zwischen zwei oder mehreren Personen."
+          },
+          {
+            "word": "Konflikte",
+            "definition": "Auseinandersetzungen oder Streitigkeiten zwischen Personen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde der Film veröffentlicht?",
+            "options": [
+              "1998",
+              "1980",
+              "2000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist ein wichtiges Thema im Film?",
+            "options": [
+              "Technologie",
+              "Freundschaft",
+              "Sport"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "In welcher Stadt spielt der Film?",
+            "options": [
+              "Berlin",
+              "New York",
+              "Los Angeles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Die letzten Tage der Disco",
+        "text": "„Die letzten Tage der Disco“ ist ein Film von Whit Stillman, der 1998 in den USA veröffentlicht wurde. Der Film ist eine Mischung aus Komödie und Drama und hat eine Laufzeit von 113 Minuten. Er spielt in den frühen 1980er Jahren und folgt zwei jungen Frauen, die zusammen mit ihren Freunden oft in einem exklusiven Club in New York ausgehen. Dieser Club, inspiriert von der legendären Disco Studio 54, ist ein Symbol für Freiheit und Spaß in dieser aufregenden Zeit. Die Hauptfiguren erleben nicht nur die Herausforderungen von Freundschaften und Beziehungen, sondern sie lernen auch viel über sich selbst und die Gesellschaft. Die Disco ist nicht nur ein Ort für das Tanzen, sondern auch ein Raum für tiefgehende Gespräche und bedeutende soziale Interaktionen. Stillman zeigt die Dynamik zwischen den verschiedenen Charakteren mit viel Humor und klugem Witz. Die Farben und die Musik im Film bringen die Atmosphäre der Zeit sehr gut zur Geltung. Themen wie die Suche nach Liebe und die gesellschaftlichen Erwartungen, die junge Menschen beeinflussen, werden interessant und einfühlsam behandelt. „Die letzten Tage der Disco“ ist Teil einer Trilogie über amouröse Beziehungen und das Leben der Bourgeoisie. Dieser Film hat eine besondere Bedeutung in der amerikanischen Filmgeschichte. Kritiker loben oft Stillmans Fähigkeit, komplexe soziale Strukturen darzustellen, und der Film bleibt auch im Gedächtnis für seine cleveren Dialoge. Wenn Sie die Zeit des Disco-Fiebers erleben wollen, sollte dieser Film auf jeden Fall auf Ihrer Liste stehen.",
+        "vocabulary": [
+          {
+            "word": "laufzeit",
+            "definition": "die Dauer eines Films, wie lange er dauert."
+          },
+          {
+            "word": "symbol",
+            "definition": "ein Zeichen oder etwas, das für etwas anderes steht."
+          },
+          {
+            "word": "inspirieren",
+            "definition": "jemanden motivieren oder Ideen geben."
+          },
+          {
+            "word": "einfühlsam",
+            "definition": "fühlend und verständnisvoll sein."
+          },
+          {
+            "word": "komplex",
+            "definition": "schwierig zu verstehen oder mit vielen Teilen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "In welchem Jahr wurde der Film veröffentlicht?",
+            "options": [
+              "1996",
+              "1998",
+              "2000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist die Laufzeit des Films?",
+            "options": [
+              "113 Minuten",
+              "120 Minuten",
+              "90 Minuten"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches berühmte Disco wurde als Inspiration für den Club im Film genannt?",
+            "options": [
+              "Studio 54",
+              "The Cotton Club",
+              "Cielo"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Die Letzten Tage des Disco",
+        "text": "„Die Letzten Tage des Disco“ ist ein amüsanter und melancholischer Film, der im New York der 1980er Jahre spielt. Die Handlung folgt zwei jungen Frauen und ihren Freunden, die ihre Freizeit in einem exklusiven Nachtclub verbringen. Whit Stillman, der Regisseur, untersucht vor allem soziale Strukturen, sexuelle Politik und Gruppendynamiken. Obwohl die Protagonisten aus wohlhabenden Verhältnissen stammen, sind sie gleichzeitig mit den Herausforderungen und Unsicherheiten junger Beziehungen konfrontiert. Der Film verwendet lange Dialoge und einen scharfen Sinn für Humor, typischerweise durch die Charaktere Charlotte und Josh. Die visuelle Sprache des Films wird durch nostalgische Bilder und die Klangkulisse des Disco-Zeitalters verstärkt. Diese Elemente tragen zur einzigartigen Atmosphäre bei und verleihen dem Publikum ein Gefühl für die damalige Zeit. Stillmans Werk ist nicht nur eine Hommage an eine vergangene Ära, sondern auch ein tiefgründiger Kommentar zu den menschlichen Beziehungen, die sich im Nachtleben entwickeln. „Die Letzten Tage des Disco“ ist Teil von Stillmans „Doomed-Bourgeois-in-Love“ Trilogie und wird von Kritikern geschätzt. Dieser Film ermutigt die Zuschauer, über das Leben, die Liebe und die Herausforderungen der Jugend nachzudenken.",
+        "vocabulary": [
+          {
+            "word": "Nachtclub",
+            "definition": "Ein Ort, wo man tanzen und Musik hören kann."
+          },
+          {
+            "word": "Protagonisten",
+            "definition": "Die Hauptfiguren in einem Film oder Buch."
+          },
+          {
+            "word": "raum",
+            "definition": "Ein Bereich oder eine Umgebung."
+          },
+          {
+            "word": "Humor",
+            "definition": "Was lustig ist oder zum Lachen bringt."
+          },
+          {
+            "word": "Herausforderungen",
+            "definition": "Schwierige Aufgaben oder Probleme."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wo spielt der Film?",
+            "options": [
+              "In den 1980er Jahren",
+              "In den 1970er Jahren",
+              "In den 1990er Jahren"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was untersucht der Regisseur in dem Film?",
+            "options": [
+              "Soziale Strukturen",
+              "Die Natur",
+              "Die Technologie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Art von Humor verwendet der Film?",
+            "options": [
+              "Trocken",
+              "Slapstick",
+              "Romantisch"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Die Letzten Tage des Disco – Ein Film über Beziehungen und Nostalgie",
+        "text": "„Die Letzten Tage des Disco“, unter der Regie von Whit Stillman, bietet einen tiefen Einblick in die sozialen Strukturen des New Yorker Nachtlebens der 1980er Jahre. Der Film sichtet, wie zwei junge Frauen und ihre sozialen Kreise im Geflecht von Anziehung und Entfremdung agieren. Stillmans trockener Humor verbindet sich mit ausgeklügelten Dialogen, die sowohl die Komplexität der Charakterbeziehungen als auch die exklusive, manchmal vergängliche Natur des Nachtlebens widerspiegeln. Es wird gesehen, dass die Atmosphäre des Films durch stilisierte Bildsprache und die unverwechselbaren Klänge der Disco-Musik geprägt ist. Das Spiel mit Licht und Schatten verstärkt die nostalgische Stimmung und lädt die Zuschauer dazu ein, in die Emotionen der Protagonisten einzutauchen. Zudem ist „Die Letzten Tage des Disco“ in Stillmans „Doomed-Bourgeois-in-Love“ Reihe ein bedeutsames Werk, das sowohl die Vergänglichkeit von Jugend, als auch die Herausforderungen des Erwachsenwerdens thematisiert. Diese filmische Erzählung ist nicht nur eine nostalgische Rückblende, sondern auch eine kritische Reflexion über menschliche Beziehungen und die Dynamiken, die sie formen.",
+        "vocabulary": [
+          {
+            "word": "Einblick",
+            "definition": "Ein tieferer Blick oder eine bessere Sicht auf etwas."
+          },
+          {
+            "word": "Nostalgisch",
+            "definition": "Ein Gefühl, das mit Erinnerungen an die Vergangenheit verbunden ist."
+          },
+          {
+            "word": "Komplexität",
+            "definition": "Die Schwierigkeit oder Vielschichtigkeit von etwas."
+          },
+          {
+            "word": "Atmosphäre",
+            "definition": "Die Stimmung oder das Gefühl in einem Raum oder einem Film."
+          },
+          {
+            "word": "Exklusive",
+            "definition": "Für bestimmte Personen oder Gruppen reserviert."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Regisseur des Films?",
+            "options": [
+              "Whit Stillman",
+              "Martin Scorsese",
+              "Steven Spielberg"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was reflektiert die Atmosphäre des Films?",
+            "options": [
+              "Die Schwierigkeiten der Protagonisten",
+              "Die Natur",
+              "Die Technologieentwicklung"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie werden die Beziehungen im Film dargestellt?",
+            "options": [
+              "Durch ausgeklügelte Dialoge",
+              "Durch viele Action-Szenen",
+              "Durch Stille und Monologe"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Die Letzten Tage des Disco – Eine kritische Betrachtung des Nachtlebens",
+        "text": "„Die Letzten Tage des Disco“ von Whit Stillman bezeichnet nicht nur ein nostalgisches Abbild einer verlorenen Ära, sondern bietet auch eine prägnante Analyse von Beziehungen, die innerhalb des Mikrokosmos eines exklusiven Nachtclubs blühen und welken. Durch das Spiel von Licht und Schatten, kombiniert mit der klanglichen Kulisse der Disco-Musik, wird das Gefühl der Vergänglichkeit und zugleich der Sehnsucht nach dem Vergangenen evoziert. Stillmans prägnante Dialoge, oft spitzfindig und humorvoll, fungieren als Katalysatoren für die Konflikte, die zwischen den Protagonsiten und dem sozialen Gefüge entstehen. Während man den Protagonisten in ihren Erlebnissen folgt, wird eine subtile Kritikanalyse an den gesellschaftlichen Erwartungen und der damit verbundenen sexuellen Politiken der Zeit deutlich. Die filmische Erzählweise, die sich durch einen langsamen Rhythmus und bewusste visuelle Gestaltung auszeichnet, schafft Raum für Reflexionen über Identität und Zugehörigkeit. Letztlich ist der Film nicht nur ein dokumentarischer Blick in eine bestimmte Zeit, sondern auch ein Künstlerbildnis, das die Komplexität menschlicher Beziehungen künstlerisch einfängt und eindringlich darstellt.",
+        "vocabulary": [
+          {
+            "word": "Mikrokosmos",
+            "definition": "Ein kleiner, abgeschlossener Raum, der etwas Größeres repräsentiert."
+          },
+          {
+            "word": "Evoziert",
+            "definition": "Hervorgerufen oder ausgelöst."
+          },
+          {
+            "word": "Subtil",
+            "definition": "Fein und oft nicht sofort erkennbar."
+          },
+          {
+            "word": "Reflexionen",
+            "definition": "Nachdenken über eigene Gedanken oder Erfahrungen."
+          },
+          {
+            "word": "Künstlerbildnis",
+            "definition": "Ein Bild oder eine Darstellung von einem Künstler oder seiner Sichtweise."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist die zentrale Analyse des Films?",
+            "options": [
+              "Gesellschaftliche Erwartungen",
+              "Naturphänomene",
+              "Technologische Entwicklungen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie wird das Gefühl der Vergänglichkeit im Film vermittelt?",
+            "options": [
+              "Durch Licht und Schatten",
+              "Durch ständige Action-Szenen",
+              "Durch schnelle Schnitte"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was charakterisiert die Dialoge in Stillmans Film?",
+            "options": [
+              "Sind spitzfindig und humorvoll",
+              "Sind kurz und einfach",
+              "Sind maximal emotional"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les Derniers Jours du Disco",
+        "text": "C'est un film américain. Le titre est Les Derniers Jours du Disco. Il sort en 1998. Le réalisateur est Whit Stillman. Le film se passe à New York. Deux femmes vont dans une discothèque. Elles s'amusent avec leurs amis. La musique est importante. Les vêtements sont colorés. Les dialogues sont drôles. Les personnages sont universitaires. Ils parlent d'amour et d'amitié. Le film montre la vie nocturne. Les images sont belles et lumineuses. Ce film est très amusant.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "une histoire à l'écran"
+          },
+          {
+            "word": "musique",
+            "definition": "des sons pour danser"
+          },
+          {
+            "word": "discothèque",
+            "definition": "un endroit pour danser"
+          },
+          {
+            "word": "amis",
+            "definition": "des personnes qu'on aime"
+          },
+          {
+            "word": "dialogues",
+            "definition": "des discussions entre personnes"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand sort le film ?",
+            "options": [
+              "En 1998",
+              "En 2005",
+              "En 2000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Où se passe le film ?",
+            "options": [
+              "À Paris",
+              "À New York",
+              "À Londres"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Le film parle de quoi ?",
+            "options": [
+              "De la vie nocturne",
+              "Des animaux",
+              "De la cuisine"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les Derniers Jours du Disco",
+        "text": "Les Derniers Jours du Disco est un film sorti en 1998, réalisé par Whit Stillman. Ce film se déroule dans les années 1980 à New York. Deux jeunes femmes et leurs amis passent beaucoup de temps dans une discothèque exclusive. Ils aiment danser et écouter de la musique. La musique est très importante, car elle crée une ambiance festive. Les dialogues dans le film parlent de la vie, de l'amour et de l'amitié. Les personnages discutent souvent avec humour sur leurs rêves et leurs peurs. Les jeunes viennent de bonnes universités et découvrent la vie nocturne de la ville. Ils se rencontrent et tombent amoureux, mais il y a aussi des moments de tristesse. Ce film montre les relations entre amis et les sentiments complexes qu'ils éprouvent. Les images sont colorées et dynamiques, ce qui attire beaucoup de spectateurs. Les Derniers Jours du Disco est aussi une réflexion sur la jeunesse et ses désirs.",
+        "vocabulary": [
+          {
+            "word": "discothèque",
+            "definition": "un endroit où les gens dansent et écoutent de la musique."
+          },
+          {
+            "word": "ambiance",
+            "definition": "l'atmosphère d'un endroit."
+          },
+          {
+            "word": "dialogue",
+            "definition": "une conversation entre deux personnes ou plus."
+          },
+          {
+            "word": "université",
+            "definition": "une grande école où les gens étudient après le lycée."
+          },
+          {
+            "word": "sentiments",
+            "definition": "les émotions ou les impressions d'une personne."
+          },
+          {
+            "word": "festif",
+            "definition": "qui évoque la fête et la joie."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé Les Derniers Jours du Disco?",
+            "options": [
+              "Whit Stillman",
+              "Chloë Sevigny",
+              "Kate Beckinsale"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Dans quelle ville se déroule le film?",
+            "options": [
+              "Paris",
+              "New York",
+              "Los Angeles"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que montrent les dialogues dans le film?",
+            "options": [
+              "Des discours politiques",
+              "Des discussions sur la musique",
+              "Des réflexions sur l'amour et l'amitié"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les Derniers Jours du Disco",
+        "text": "Les Derniers Jours du Disco est un film de comédie et de drame réalisé par Whit Stillman, qui est sorti en 1998. Ce film explore la vie de deux jeunes femmes, Charlotte et Alice, et de leurs amis dans le monde captivant des discothèques new-yorkaises des années 1980. Dans ces clubs exclusifs, ils passent des nuits à danser, à parler de leurs rêves et à naviguer dans les relations amoureuses. Les thèmes principaux de cette œuvre sont l'amour, l'amitié, et les dynamiques sociales qui influencent leur quotidien. Les dialogues, souvent drôles, montrent comment les personnages se découvrent et se lient les uns aux autres. Si les relations semblent légères, elles cachent parfois des tensions profondes. Les images sont vives et colorées, tandis que la musique crée une atmosphère unique, typique de cette époque. Ce film fait partie de la série sur les relations bourgeoises que Stillman a créée. Il a une sensibilité particulière pour capturer les moments de la vie quotidienne et les interactions humaines. Depuis sa sortie, le film a reçu des critiques positives pour son humour et son authenticité. Les Derniers Jours du Disco est non seulement un regard nostalgique sur une époque révolue, mais également un excellent reflet d'une culture qui a marqué une génération. Pour les spectateurs d'aujourd'hui, ce film peut susciter une réflexion sur l'évolution des relations sociales et des dynamiques de groupe.",
+        "vocabulary": [
+          {
+            "word": "captivant",
+            "definition": "qui attire beaucoup l'attention ou l'intérêt"
+          },
+          {
+            "word": "dynamique sociale",
+            "definition": "comment les personnes interagissent et se comportent en groupe"
+          },
+          {
+            "word": "nostalgique",
+            "definition": "qui ressent un sentiment de regret pour le passé"
+          },
+          {
+            "word": "exclusif",
+            "definition": "qui est réservé à un groupe particulier"
+          },
+          {
+            "word": "authenticité",
+            "definition": "qualité d'être vrai ou réel"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le sujet principal de Les Derniers Jours du Disco ?",
+            "options": [
+              "La vie de deux jeunes femmes et de leurs amis",
+              "L'histoire de New York",
+              "Les discothèques dans le monde entier"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a réalisé le film Les Derniers Jours du Disco ?",
+            "options": [
+              "Whit Stillman",
+              "Chloë Sevigny",
+              "Kate Beckinsale"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel sentiment le film évoque-t-il chez les spectateurs ?",
+            "options": [
+              "L'anxiété pour le futur",
+              "La nostalgie pour le passé",
+              "La peur de l'inconnu"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Les Derniers Jours de Disco",
+        "text": "Les Derniers Jours de Disco, film réalisé par Whit Stillman en 1998, dépeint la vie de deux jeunes femmes dans le milieu vibrant des discothèques new-yorkaises des années 1980. Alors qu'elles explorent l'amour et l'amitié, ce film aborde des thèmes profonds tels que la structure sociale et les dynamiques de groupe. Le début du film nous plonge dans une ambiance nocturne où l'intrigue des personnages se construit autour de dialogues longs et percutants. Bien que le film explore des relations sentimentales et des tensions entre les sexes, il le fait avec une légèreté et un humour sec qui caractérisent le style de Stillman. En dépeignant les soirées passées dans des clubs exclusifs, il illustre à la fois le glamour et les contradictions de cette époque. La luminosité et la musique créent un univers immersif, invitant les spectateurs à réfléchir sur leurs propres expériences de jeunesse. Ce film, étant le dernier de sa trilogie sur les \"bourgeois maudits amoureux\", s'inscrit dans l'histoire du cinéma comme une œuvre unique qui interroge l'expérience sociale tout en divertissant. Il est également reconnu pour la justesse de ses dialogues et sa critique des normes sociales.",
+        "vocabulary": [
+          {
+            "word": "ambiances",
+            "definition": "l'atmosphère ou le sentiment d'un lieu"
+          },
+          {
+            "word": "dynamique",
+            "definition": "la façon dont les gens interagissent et se comportent ensemble"
+          },
+          {
+            "word": "glamour",
+            "definition": "le charme ou l'attrait d'un style de vie luxueux"
+          },
+          {
+            "word": "humour",
+            "definition": "la capacité à faire rire ou à exprimer quelque chose de drôle"
+          },
+          {
+            "word": "réflexion",
+            "definition": "le fait de penser à quelque chose de manière approfondie"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé Les Derniers Jours de Disco ?",
+            "options": [
+              "Whit Stillman",
+              "Chloë Sevigny",
+              "Kate Beckinsale"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Dans quelle ville se déroule le film ?",
+            "options": [
+              "Los Angeles",
+              "New York",
+              "Paris"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel type de film est Les Derniers Jours de Disco ?",
+            "options": [
+              "Comédie",
+              "Action",
+              "Horreur"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Les Derniers Jours de Disco : Une Exploration des Années 1980",
+        "text": "Dans Les Derniers Jours de Disco, Whit Stillman nous transporte au cœur des nuits new-yorkaises des années 80, où deux protagonistes, Charlotte et ses amis, naviguent entre amour et amitié dans un cadre festif. Le film, qui explore la culture du disco, s'interroge sur les réalités sociales et les tensions sexuelles d'une génération. À travers des dialogues ciselés et un humour subtil, Stillman offre une critique pertinente des normes entourant les relations humaines. La musique et la lumière, omniprésentes, créent une atmosphère vibrante, encapsulant l'esprit de l'époque tout en soulignant les idéaux et désillusions d'une jeunesse désireuse de bonheur. La réalisation, élégante et raffinée, permet au spectateur d'apprécier non seulement la beauté visuelle du film mais également les subtilités psychologiques des personnages. Au-delà du simple divertissement, Les Derniers Jours de Disco invite à la réflexion sur l'identité, la quête de l'amour et les dynamiques intra-groupes, ce qui en fait une œuvre mémorable dans le paysage cinématographique américain. En plaçant ces thèmes dans un contexte romantique, le film réussit à résonner avec plusieurs générations, témoignant de sa pertinence.",
+        "vocabulary": [
+          {
+            "word": "protagonistes",
+            "definition": "les personnages principaux d'une histoire"
+          },
+          {
+            "word": "naviguer",
+            "definition": "se déplacer de façon à explorer ou découvrir"
+          },
+          {
+            "word": "ciselés",
+            "definition": "bien définis ou précis, souvent en parlant de mots"
+          },
+          {
+            "word": "réalisation",
+            "definition": "le processus de créer un film"
+          },
+          {
+            "word": "pertinence",
+            "definition": "l'importance ou la signification dans un contexte donné"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est l'objectif du film selon le texte ?",
+            "options": [
+              "Explorer les années 1980",
+              "Créer un suspense",
+              "Parler de l'histoire"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui sont les personnages principaux mentionnés ?",
+            "options": [
+              "Charlotte et ses amis",
+              "Josh et Kate",
+              "Whit et Chloë"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "De quel type de musique traite le film ?",
+            "options": [
+              "Jazz",
+              "Disco",
+              "Classique"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Les Derniers Jours de Disco : Chronique d'une Génération en Quête de Sens",
+        "text": "Les Derniers Jours de Disco, œuvre emblématique de Whit Stillman, s'érige en tant qu'analyse pénétrante des subtilités des rapports sociaux dans le New York des années 80, encapsulant une époque où le mouvement disco symbolisait à la fois un épanouissement culturel et une quête identitaire. Les conversations, d'une densité remarquable, naviguent entre ironie et humour, révélant une profondeur psychologique qui interpelle le spectateur, tout en mettant en lumière les dilemmes existentiels de la jeunesse bourgeoise. Le spectre de la passion amoureuse se mêle à des réflexions sur la superficialité des relations contemporaines, laissant le spectateur contemplatif. L'esthétique visuelle, subtilement orchestrée à travers une ludique utilisation de la lumière et du son, nous plonge dans une dimension sensorielle où chaque scène est une invitation à ressentir l'ivresse des nuits dansantes. Par ailleurs, Stillman, à travers son regard aiguisé, critique les normes sociales de son époque, tout en s'attachant à rendre compte de la complexité humaine. En somme, ce film, non seulement divertissant, mais aussi profondément réfléchi, prend sa place dans le panthéon cinématographique, en tant que témoignage de la manière dont la culture populaire peut véhiculer des interrogations sur la nature même de l'amour et de l'amitié.",
+        "vocabulary": [
+          {
+            "word": "emblématique",
+            "definition": "qui représente ou symbolise quelque chose"
+          },
+          {
+            "word": "épanouissement",
+            "definition": "le développement et la croissance personnelle"
+          },
+          {
+            "word": "dilemmes",
+            "definition": "des situations difficiles où il faut faire un choix"
+          },
+          {
+            "word": "esthétique",
+            "definition": "relatif à la beauté et à la perception artistique"
+          },
+          {
+            "word": "ivresse",
+            "definition": "état de grande excitation ou de plaisir"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur du film ?",
+            "options": [
+              "Whit Stillman",
+              "David Fincher",
+              "Martin Scorsese"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels thèmes principaux sont abordés dans le film ?",
+            "options": [
+              "La science et la technologie",
+              "Les relations et l'identité",
+              "La musique classique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le contexte historique du film ?",
+            "options": [
+              "Le Moyen Âge",
+              "Les années 80",
+              "Le 21ème siècle"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Los últimos días del disco",
+        "text": "Los últimos días del disco es una película. Es una comedia y drama. La historia ocurre en Nueva York. Hay un club exclusivo y dos mujeres jóvenes. Ellas van al club con amigos. La película es de 1998. Whit Stillman es el director. La música es importante en la película. El club tiene muchas luces. Las mujeres bailan y hablan en el club. Ellas buscan amor y diversión. La película muestra la vida nocturna. Es divertida y interesante.",
+        "vocabulary": [
+          {
+            "word": "película",
+            "definition": "una historia en video"
+          },
+          {
+            "word": "comedia",
+            "definition": "una historia divertida"
+          },
+          {
+            "word": "drama",
+            "definition": "una historia seria"
+          },
+          {
+            "word": "club",
+            "definition": "un lugar para bailar"
+          },
+          {
+            "word": "música",
+            "definition": "sonido que se escucha"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde ocurre la historia?",
+            "options": [
+              "En París",
+              "En Nueva York",
+              "En Londres"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de película es?",
+            "options": [
+              "Una película de terror",
+              "Una comedia y drama",
+              "Un documental"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién es el director?",
+            "options": [
+              "Whit Stillman",
+              "James Cameron",
+              "Steven Spielberg"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Los últimos días del disco",
+        "text": "Los últimos días del disco es una película estadounidense de 1998. Whit Stillman es el director y escritor de esta comedia romántica. La película trata sobre dos mujeres jóvenes, Charlotte y Alice, que están en Nueva York. Ellas pasan mucho tiempo en un club exclusivo llamado Discoteca Max. El club era muy popular en los años ochenta, y era el lugar para divertirse. Las mujeres tienen un grupo de amigos que también van al club. Ellos buscan amor y diversión mientras bailan y hacen nuevas conexiones. La atmósfera en el club es especial y mágica. Hay luces brillantes y buena música de la época. Los personajes hablan mucho entre ellos y comparten sus sueños. Los temas de la película incluyen el amor, la amistad y las relaciones en un mundo cambiante. Es una comedia divertida que refleja la vida nocturna de aquella época y su impacto en las relaciones humanas. La historia se desarrolla con humor y encanto, lo que hace que sea un clásico.",
+        "vocabulary": [
+          {
+            "word": "atmosfera",
+            "definition": "El ambiente o el sentimiento que hay en un lugar."
+          },
+          {
+            "word": "música",
+            "definition": "Sonido que crea una melodía y rítmica."
+          },
+          {
+            "word": "noche",
+            "definition": "El período de tiempo entre el atardecer y el amanecer."
+          },
+          {
+            "word": "relaciones",
+            "definition": "Conexiones entre personas, como amistad o amor."
+          },
+          {
+            "word": "encanto",
+            "definition": "La calidad de ser atractivo o interesante."
+          },
+          {
+            "word": "divertida",
+            "definition": "Que hace reír o entretener."
+          },
+          {
+            "word": "sueños",
+            "definition": "Deseos o aspiraciones de una persona."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué año es la película?",
+            "options": [
+              "1998",
+              "1988",
+              "2008"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se llama el club donde pasan tiempo las mujeres?",
+            "options": [
+              "Discoteca Max",
+              "Club de Nueva York",
+              "Fiesta Nueva"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de películas hace Whit Stillman?",
+            "options": [
+              "Comedias románticas",
+              "Dramas tristes",
+              "Documentales"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Los últimos días del disco",
+        "text": "Los últimos días del disco es una película que se estrenó en 1998, escrita y dirigida por Whit Stillman. La historia sigue a dos jóvenes que viven en Nueva York y pasan su tiempo libre en un club exclusivo de la década de 1980. Este club es el lugar donde conocen a varios amigos, pero también enfrentan conflictos emocionales mientras exploran el amor y la amistad. La película tiene un estilo visual muy interesante que refleja la cultura de la época. Las luces brillantes y la música disco crean una atmósfera vibrante y única, la cual fascina a los espectadores. Los diálogos son largos y están llenos de humor característico de Stillman, lo que añade un nivel de profundidad a los personajes y sus relaciones. Además, el film aborda temas como las relaciones interpersonales y la dinámica social dentro del grupo. Es importante mencionar que esta película es parte de una trilogía que examina el amor y la vida urbana, junto con Metropolitan y Barcelona, donde el director también explora temas similares. Si los espectadores están interesados en la sociología de los años 80, esta obra invita a la reflexión sobre la cultura y la interacción en la sociedad moderna, siendo un gran referente del cine independiente americano. La influencia de la música disco también permite comprender mejor la época. En resumen, Los últimos días del disco no es solo una comedia o un drama, sino una profunda reflexión sobre la juventud y sus desafíos.",
+        "vocabulary": [
+          {
+            "word": "atmosfera",
+            "definition": "Conjunto de condiciones que rodean a algo y lo influyen."
+          },
+          {
+            "word": "dándole",
+            "definition": "Gerundio de dar; significa entregar o proporcionar."
+          },
+          {
+            "word": "dinámica",
+            "definition": "Forma en que algo, como un grupo, funciona o se organiza."
+          },
+          {
+            "word": "referente",
+            "definition": "Algo que sirve como ejemplo o modelo a seguir."
+          },
+          {
+            "word": "independiente",
+            "definition": "Que no depende de algo o alguien; autónomo."
+          },
+          {
+            "word": "explorar",
+            "definition": "Investigar o estudiar algo en profundidad."
+          },
+          {
+            "word": "cultura",
+            "definition": "Conjunto de conocimientos, creencias y costumbres de un grupo social."
+          },
+          {
+            "word": "personajes",
+            "definition": "Los individuos, reales o ficticios, que forman parte de una historia."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién escribió y dirigió la película?",
+            "options": [
+              "Whit Stillman",
+              "Chloë Sevigny",
+              "Kate Beckinsale"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿De qué se trata la trama principal de la película?",
+            "options": [
+              "Los personajes exploran el amor y la amistad en un club.",
+              "Los personajes trabajan en un restaurante.",
+              "Los personajes viajan por el mundo."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué representa la trilogía de Whit Stillman?",
+            "options": [
+              "El amor y la vida urbana.",
+              "Las aventuras de un superhéroe.",
+              "Las tradiciones familiares."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Los Últimos Días del Disco: Entre el Amor y la Noche",
+        "text": "Los Últimos Días del Disco es una comedia dramática dirigida por Whit Stillman que se desarrolla en el vibrante ambiente nocturno de Nueva York durante los años 80. La película sigue a un grupo de jóvenes que, tras graduarse, pasan su tiempo libre en un exclusivo club nocturno. A través de las interacciones y relaciones que surgen, la película explora temas como la política sexual, la estructura social y las dinámicas grupales. Aunque la trama se centra en los romances y la diversión de la vida nocturna, se percibe una crítica a la frivolidad de la cultura disco. Además, los diálogos prolongados, característicos de Stillman, resaltan su aguda observación del comportamiento humano. En este sentido, la película es un espejo que refleja tanto la superficialidad como el deseo de conexión genuina entre sus personajes. A pesar de no ser convencional, su humor seco y líneas memorables la convierten en una experiencia filmográfica singular y estimulante, que invita a la reflexión sobre la juventud y las decisiones que moldean nuestra vida. La película es parte de una trilogía que explora relaciones complejas, haciendo de esta obra un viaje nostálgico hacia una época efímera.",
+        "vocabulary": [
+          {
+            "word": "vibrante",
+            "definition": "Que tiene mucha energía o emoción."
+          },
+          {
+            "word": "relaciones",
+            "definition": "Conexiones o vínculos entre personas."
+          },
+          {
+            "word": "frivolidad",
+            "definition": "Falta de seriedad o profundidad."
+          },
+          {
+            "word": "crítica",
+            "definition": "Evaluación o comentario sobre algo."
+          },
+          {
+            "word": "personajes",
+            "definition": "Las personas en una historia o película."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde se desarrolla la película?",
+            "options": [
+              "En Nueva York",
+              "En París",
+              "En Londres"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué temas explora la película?",
+            "options": [
+              "La vida en el campo",
+              "Las relaciones y la cultura disco",
+              "La historia antigua"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién dirigió la película?",
+            "options": [
+              "Chloë Sevigny",
+              "Whit Stillman",
+              "Kate Beckinsale"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Los Últimos Días del Disco: Una Reflexión sobre la Juventud y la Cultura",
+        "text": "Los Últimos Días del Disco, obra de Whit Stillman, se inscribe dentro de un contexto cultural efervescente que caracteriza a la Nueva York de los años 80. A través del prisma de un grupo de graduados de élite que se aventuran en la vida nocturna, la película problematiza cuestiones fundamentales como la búsqueda de identidad y el anhelo de pertenencia. Las interacciones entre los personajes, especialmente las conversaciones prolongadas, sirven no solo como vehículo de comedia, sino también como un medio para explorar las tensiones inherentes de la juventud en un mundo regido por las apariencias. Aunque el ambiente discotequero pueda parecer superficial, es en este trasfondo donde surgen reflexiones sobre la autenticidad y el deseo. Stillman se destaca no solo por su agudo sentido del humor, marcado por diálogos ingeniosos, sino también por su habilidad para revelar la fragilidad de las conexiones humanas. Así, Los Últimos Días del Disco no solo retrata un momento en la historia del cine, sino que también invita a los espectadores a una introspección sobre sus propias experiencias, amores y pérdidas dentro de un ciclo de comidas, música y luces intermitentes. La película, a menudo subestimada, merece un lugar destacado en la cinematografía contemporánea.",
+        "vocabulary": [
+          {
+            "word": "problemática",
+            "definition": "Cuestión o asunto que genera debate."
+          },
+          {
+            "word": "anhelo",
+            "definition": "Deseo profundo de algo."
+          },
+          {
+            "word": "auténtico",
+            "definition": "Genuino, verdadero, sin falsedad."
+          },
+          {
+            "word": "fragilidad",
+            "definition": "Cualidad de ser delicado o inestable."
+          },
+          {
+            "word": "ciclos",
+            "definition": "Secuencias repetitivas de eventos."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué explora la película además de la vida nocturna?",
+            "options": [
+              "La búsqueda de identidad",
+              "La historia antigua",
+              "La política moderna"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se destacan las interacciones entre los personajes?",
+            "options": [
+              "Por ser superficiales",
+              "Por ser profundas",
+              "Por ser variadas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de humor utiliza Stillman en la película?",
+            "options": [
+              "Humor absurdo",
+              "Humor seco e ingenioso",
+              "Humor físico"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Los Últimos Días del Disco: Una Exploración de la Condición Humana en la Era del Brillo",
+        "text": "Los Últimos Días del Disco, concebidos por Whit Stillman, emerge como un análisis incisivo de los matices que definen la juventud contemporánea frente a las demandas de una cultura marcada por el hedonismo. Esta obra maestra retrata, con astucia y sutileza, la vida de un grupo de recién graduados que busca sentido en un mundo donde el tiempo parece estar suspendido entre las luces intermitentes de la pista de baile. La película no solo aborda el paisaje social de una Nueva York vibrante y en constante cambio; también se ocupa de explorar las relaciones interpersonales que, bajo la superficie del glamour, se ven envueltas en dilemas existenciales. A través de un diálogo irónico y recién afilado, los personajes revelan una lucha interna por la autenticidad, cuestionando simultáneamente las convenciones sociales que configuran sus identidades. La atención meticulosa a los detalles visuales, acompañada de una banda sonora nostálgica, ofrece al espectador una experiencia sensorial palpable, convirtiendo cada escena en un microcosmos de complejidades humanas. Así, Los Últimos Días del Disco trasciende su simple narrativa, invitando a una reflexión profunda sobre el amor, la soledad y las decisiones que nos definen, confirmando su estatus como un clásico muchas veces ignorado en la cinematografía contemporánea.",
+        "vocabulary": [
+          {
+            "word": "incisivo",
+            "definition": "Que penetra y atraviesa con claridad."
+          },
+          {
+            "word": "hedonismo",
+            "definition": "Búsqueda del placer como objetivo principal."
+          },
+          {
+            "word": "sutíleza",
+            "definition": "Cualidad de ser delicado o fino."
+          },
+          {
+            "word": "dilemas",
+            "definition": "Decisiones difíciles con consecuencias complicadas."
+          },
+          {
+            "word": "microcosmos",
+            "definition": "Pequeña representación de un todo más amplio."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué refleja la cultura de la película?",
+            "options": [
+              "El hedonismo",
+              "El espíritu empresarial",
+              "La vida rural"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se caracteriza el diálogo en la película?",
+            "options": [
+              "Por ser banal",
+              "Por ser irónico y agudo",
+              "Por ser confuso"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es una de las invitaciones de la película?",
+            "options": [
+              "A reflexionar sobre decisiones personales",
+              "A olvidar el pasado",
+              "A seguir tendencias",
+              "A evitar la introspección"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "die": "the",
+      "letzten": "last",
+      "tage": "days",
+      "der": "the",
+      "disco": "disco",
+      "film": "film",
+      "heißt": "is called",
+      "es": "it",
+      "ist": "is",
+      "eine": "a",
+      "komödie": "comedy",
+      "zwei": "two",
+      "junge": "boy",
+      "frauen": "women",
+      "gehen": "to go",
+      "oft": "often",
+      "in": "in",
+      "einen": "a",
+      "club": "club",
+      "new": "new",
+      "york": "York",
+      "den": "the",
+      "er": "he",
+      "jahren": "years",
+      "haben": "to have",
+      "viele": "many",
+      "freunde": "friends",
+      "sie": "they",
+      "lieben": "to love",
+      "das": "that",
+      "tanzen": "to dance",
+      "zeigt": "shows",
+      "leben": "life",
+      "gibt": "gives",
+      "schöne": "beautiful",
+      "lieder": "songs",
+      "farben": "colors",
+      "im": "in the",
+      "sind": "are",
+      "hell": "bright",
+      "und": "and",
+      "bunt": "colorful",
+      "stimmung": "mood",
+      "fröhlich": "cheerful",
+      "zeit": "time",
+      "wichtig": "important",
+      "geschichten": "stories",
+      "passieren": "to happen",
+      "dort": "there",
+      "interessant": "interesting",
+      "spannend": "exciting",
+      "ein": "a",
+      "von": "from",
+      "whit": "white",
+      "stillman": "Stillman",
+      "kommt": "comes",
+      "aus": "from",
+      "usa": "USA",
+      "erschienen": "appeared",
+      "jungen": "young",
+      "diese": "this",
+      "ihre": "their",
+      "verbringen": "to spend",
+      "viel": "a lot",
+      "einem": "a",
+      "exklusiven": "exclusive",
+      "nachtclub": "nightclub",
+      "discozeit": "disco era",
+      "für": "for",
+      "geschichte": "history",
+      "charaktere": "characters",
+      "reden": "to talk",
+      "miteinander": "with each other",
+      "humor": "humor",
+      "diesen": "these",
+      "dialogen": "dialogues",
+      "spricht": "speaks",
+      "über": "about",
+      "freundschaft": "friendship",
+      "beziehungen": "relationships",
+      "gesellschaftliche": "social",
+      "regeln": "rules",
+      "dieser": "this",
+      "gelten": "to apply",
+      "musik": "music",
+      "lichter": "lights",
+      "sehr": "very",
+      "lebhaft": "vivid",
+      "menschen": "people",
+      "suchen": "to search",
+      "liebe": "love",
+      "aber": "but",
+      "auch": "also",
+      "konflikte": "conflicts",
+      "manchmal": "sometimes",
+      "kompliziert": "complicated",
+      "weil": "because",
+      "erwartungen": "expectations",
+      "hoch": "high",
+      "themen": "topics",
+      "ernst": "serious",
+      "denn": "because",
+      "lernen": "to learn",
+      "wünsche": "wishes",
+      "bleibt": "stays",
+      "bis": "up to",
+      "heute": "today",
+      "beliebt": "popular",
+      "bei": "at",
+      "vielen": "many",
+      "zuschauern": "viewers",
+      "veröffentlicht": "published",
+      "wurde": "was",
+      "mischung": "mixture",
+      "drama": "drama",
+      "hat": "has",
+      "laufzeit": "duration",
+      "minuten": "minutes",
+      "spielt": "plays",
+      "frühen": "early",
+      "folgt": "follows",
+      "zusammen": "together",
+      "mit": "with",
+      "ihren": "their",
+      "freunden": "friends",
+      "ausgehen": "to go out",
+      "inspiriert": "inspired",
+      "legendären": "legendary",
+      "studio": "studio",
+      "symbol": "symbol",
+      "freiheit": "freedom",
+      "spaß": "fun",
+      "aufregenden": "exciting",
+      "hauptfiguren": "main characters",
+      "erleben": "to experience",
+      "nicht": "not",
+      "nur": "only",
+      "herausforderungen": "challenges",
+      "freundschaften": "friendships",
+      "sondern": "but",
+      "sich": "oneself",
+      "selbst": "self",
+      "gesellschaft": "society",
+      "ort": "place",
+      "raum": "space",
+      "tiefgehende": "profound",
+      "gespräche": "talks",
+      "bedeutende": "significant",
+      "soziale": "social",
+      "interaktionen": "interactions",
+      "dynamik": "dynamics",
+      "zwischen": "between",
+      "verschiedenen": "various",
+      "charakteren": "characters",
+      "klugem": "clever",
+      "witz": "joke",
+      "bringen": "to bring",
+      "atmosphäre": "atmosphere",
+      "gut": "well",
+      "zur": "to the",
+      "geltung": "validity",
+      "wie": "like",
+      "suche": "search",
+      "nach": "after",
+      "gesellschaftlichen": "social",
+      "beeinflussen": "to influence",
+      "werden": "will",
+      "einfühlsam": "empathetic",
+      "behandelt": "treated",
+      "teil": "part",
+      "einer": "one",
+      "trilogie": "trilogy",
+      "amouröse": "romantic",
+      "bourgeoisie": "bourgeoisie",
+      "besondere": "special",
+      "bedeutung": "meaning",
+      "amerikanischen": "American",
+      "filmgeschichte": "film history",
+      "kritiker": "critic",
+      "loben": "to praise",
+      "stillmans": "Stillmans",
+      "fähigkeit": "ability",
+      "komplexe": "complex",
+      "strukturen": "structures",
+      "darzustellen": "to represent",
+      "gedächtnis": "memory",
+      "seine": "his",
+      "cleveren": "clever",
+      "dialoge": "dialogues",
+      "wenn": "if",
+      "des": "of the",
+      "disco-fiebers": "disco fever",
+      "wollen": "to want",
+      "sollte": "should",
+      "auf": "to",
+      "jeden": "every",
+      "fall": "case",
+      "ihrer": "their",
+      "liste": "list",
+      "stehen": "to stand",
+      "amüsanter": "entertaining",
+      "melancholischer": "melancholic",
+      "jahre": "years",
+      "handlung": "action",
+      "freizeit": "leisure",
+      "regisseur": "director",
+      "untersucht": "investigated",
+      "vor": "before",
+      "allem": "everything",
+      "sexuelle": "sexual",
+      "politik": "politics",
+      "gruppendynamiken": "group dynamics",
+      "obwohl": "although",
+      "protagonisten": "protagonists",
+      "wohlhabenden": "wealthy",
+      "verhältnissen": "conditions",
+      "stammen": "to originate",
+      "gleichzeitig": "simultaneously",
+      "unsicherheiten": "uncertainties",
+      "junger": "young",
+      "konfrontiert": "confronted",
+      "verwendet": "used",
+      "lange": "long",
+      "scharfen": "sharp",
+      "sinn": "sense",
+      "typischerweise": "typically",
+      "durch": "through",
+      "charlotte": "Charlotte",
+      "josh": "Josh",
+      "visuelle": "visual",
+      "sprache": "language",
+      "films": "films",
+      "wird": "will",
+      "nostalgische": "nostalgic",
+      "bilder": "images",
+      "klangkulisse": "soundscape",
+      "disco-zeitalters": "disco age",
+      "verstärkt": "intensified",
+      "elemente": "elements",
+      "tragen": "to wear",
+      "einzigartigen": "unique",
+      "verleihen": "to confer",
+      "dem": "the",
+      "publikum": "audience",
+      "gefühl": "feeling",
+      "damalige": "previous",
+      "werk": "work",
+      "hommage": "homage",
+      "an": "at",
+      "vergangene": "past",
+      "ära": "era",
+      "tiefgründiger": "profound",
+      "kommentar": "comment",
+      "zu": "to",
+      "menschlichen": "human",
+      "nachtleben": "nightlife",
+      "entwickeln": "to develop",
+      "doomed-bourgeois-in-love": "doomed bourgeois in love",
+      "kritikern": "critics",
+      "geschätzt": "estimated",
+      "ermutigt": "encouraged",
+      "zuschauer": "spectators",
+      "jugend": "youth",
+      "nachzudenken": "to reflect",
+      "nostalgie": "nostalgia",
+      "unter": "under",
+      "regie": "direction",
+      "bietet": "offers",
+      "tiefen": "deep",
+      "einblick": "insight",
+      "sozialen": "social",
+      "yorker": "yorker",
+      "nachtlebens": "nightlife",
+      "sichtet": "to sight",
+      "kreise": "circles",
+      "geflecht": "network",
+      "anziehung": "attraction",
+      "entfremdung": "alienation",
+      "agieren": "to act",
+      "trockener": "drier",
+      "verbindet": "connects",
+      "ausgeklügelten": "sophisticated",
+      "sowohl": "both",
+      "komplexität": "complexity",
+      "charakterbeziehungen": "character relationships",
+      "als": "than",
+      "exklusive": "exclusive",
+      "vergängliche": "ephemeral",
+      "natur": "nature",
+      "widerspiegeln": "to reflect",
+      "gesehen": "seen",
+      "dass": "that",
+      "bildsprache": "imagery",
+      "unverwechselbaren": "distinctive",
+      "klänge": "sounds",
+      "disco-musik": "disco music",
+      "geprägt": "shaped",
+      "spiel": "game",
+      "licht": "light",
+      "schatten": "shadow",
+      "lädt": "invites",
+      "dazu": "additionally",
+      "emotionen": "emotions",
+      "einzutauchen": "to immerse",
+      "zudem": "furthermore",
+      "reihe": "series",
+      "bedeutsames": "meaningful",
+      "vergänglichkeit": "transience",
+      "erwachsenwerdens": "growing up",
+      "thematisiert": "thematizes",
+      "filmische": "cinematic",
+      "erzählung": "narrative",
+      "rückblende": "flashback",
+      "kritische": "critical",
+      "reflexion": "reflection",
+      "menschliche": "human",
+      "dynamiken": "dynamics",
+      "formen": "forms",
+      "betrachtung": "view",
+      "bezeichnet": "designated",
+      "nostalgisches": "nostalgic",
+      "abbild": "image",
+      "verlorenen": "lost",
+      "prägnante": "concise",
+      "analyse": "analysis",
+      "innerhalb": "within",
+      "mikrokosmos": "microcosm",
+      "eines": "one",
+      "nachtclubs": "nightclubs",
+      "blühen": "to bloom",
+      "welken": "to wilt",
+      "kombiniert": "combined",
+      "klanglichen": "sonic",
+      "kulisse": "backdrop",
+      "zugleich": "at the same time",
+      "sehnsucht": "longing",
+      "vergangenen": "past",
+      "evoziert": "evokes",
+      "spitzfindig": "fiddling",
+      "humorvoll": "humorous",
+      "fungieren": "to function",
+      "katalysatoren": "catalysts",
+      "protagonsiten": "protagonists",
+      "gefüge": "structure",
+      "entstehen": "to emerge",
+      "während": "during",
+      "man": "one",
+      "erlebnissen": "experiences",
+      "subtile": "subtle",
+      "kritikanalyse": "criticism analysis",
+      "damit": "so that",
+      "verbundenen": "connected",
+      "sexuellen": "sexual",
+      "politiken": "policies",
+      "deutlich": "clear",
+      "erzählweise": "narrative",
+      "langsamen": "slow",
+      "rhythmus": "rhythm",
+      "bewusste": "conscious",
+      "gestaltung": "design",
+      "auszeichnet": "distinguishes",
+      "schafft": "creates",
+      "reflexionen": "reflections",
+      "identität": "identity",
+      "zugehörigkeit": "affiliation",
+      "letztlich": "ultimately",
+      "dokumentarischer": "documentary",
+      "blick": "glance",
+      "bestimmte": "certain",
+      "künstlerbildnis": "artist portrait",
+      "menschlicher": "human",
+      "künstlerisch": "artistic",
+      "einfängt": "captures",
+      "eindringlich": "urgent",
+      "darstellt": "represents"
+    },
+    "fr": {
+      "les": "the",
+      "derniers": "last",
+      "jours": "days",
+      "du": "of the",
+      "disco": "disco",
+      "est": "is",
+      "un": "a",
+      "film": "film",
+      "américain": "american",
+      "le": "the",
+      "titre": "title",
+      "il": "he",
+      "sort": "fate",
+      "en": "in",
+      "réalisateur": "director",
+      "whit": "bit",
+      "stillman": "stillman",
+      "se": "yourself",
+      "passe": "passes",
+      "new": "new",
+      "york": "York",
+      "deux": "two",
+      "femmes": "women",
+      "vont": "will go",
+      "dans": "in",
+      "une": "a",
+      "discothèque": "nightclub",
+      "elles": "they",
+      "amusent": "entertain",
+      "avec": "with",
+      "leurs": "their",
+      "amis": "friends",
+      "la": "the",
+      "musique": "music",
+      "importante": "important",
+      "vêtements": "clothes",
+      "sont": "are",
+      "colorés": "colored",
+      "dialogues": "dialogues",
+      "drôles": "funny",
+      "personnages": "characters",
+      "universitaires": "academic",
+      "ils": "they",
+      "parlent": "speak",
+      "amour": "love",
+      "et": "and",
+      "amitié": "friendship",
+      "montre": "shows",
+      "vie": "life",
+      "nocturne": "nocturnal",
+      "images": "images",
+      "belles": "beautiful",
+      "lumineuses": "bright",
+      "ce": "this",
+      "très": "very",
+      "amusant": "funny",
+      "sorti": "went out",
+      "réalisé": "achieved",
+      "par": "by",
+      "déroule": "unfolds",
+      "années": "years",
+      "jeunes": "young",
+      "passent": "to pass",
+      "beaucoup": "a lot",
+      "de": "of",
+      "temps": "weather",
+      "exclusive": "exclusive",
+      "aiment": "like",
+      "danser": "to dance",
+      "écouter": "to listen",
+      "car": "because",
+      "elle": "she",
+      "crée": "creates",
+      "ambiance": "atmosphere",
+      "festive": "festive",
+      "discutent": "to discuss",
+      "souvent": "often",
+      "humour": "humor",
+      "sur": "about",
+      "rêves": "dreams",
+      "peurs": "fears",
+      "viennent": "come",
+      "bonnes": "good",
+      "universités": "universities",
+      "découvrent": "they discover",
+      "ville": "city",
+      "rencontrent": "meet",
+      "tombent": "fall",
+      "amoureux": "in love",
+      "mais": "but",
+      "aussi": "also",
+      "des": "some",
+      "moments": "moments",
+      "tristesse": "sadness",
+      "relations": "relations",
+      "entre": "between",
+      "sentiments": "feelings",
+      "complexes": "complexes",
+      "éprouvent": "experience",
+      "colorées": "colored",
+      "dynamiques": "dynamic",
+      "qui": "who",
+      "attire": "attracts",
+      "spectateurs": "spectators",
+      "réflexion": "reflection",
+      "jeunesse": "youth",
+      "ses": "his",
+      "désirs": "desires",
+      "comédie": "comedy",
+      "drame": "drama",
+      "explore": "explore",
+      "charlotte": "charlotte",
+      "alice": "alice",
+      "monde": "world",
+      "captivant": "captivating",
+      "discothèques": "nightclubs",
+      "new-yorkaises": "New York",
+      "ces": "these",
+      "clubs": "clubs",
+      "exclusifs": "exclusive",
+      "nuits": "nights",
+      "parler": "to speak",
+      "naviguer": "to navigate",
+      "amoureuses": "loving",
+      "thèmes": "themes",
+      "principaux": "main",
+      "cette": "this",
+      "œuvre": "work",
+      "sociales": "social",
+      "influencent": "influence",
+      "leur": "their",
+      "quotidien": "daily",
+      "montrent": "show",
+      "comment": "how",
+      "lient": "link",
+      "uns": "ones",
+      "aux": "to the",
+      "autres": "others",
+      "si": "if",
+      "semblent": "seem",
+      "légères": "minor",
+      "cachent": "hide",
+      "parfois": "sometimes",
+      "tensions": "tensions",
+      "profondes": "profound",
+      "vives": "lively",
+      "tandis": "while",
+      "que": "that",
+      "atmosphère": "atmosphere",
+      "unique": "unique",
+      "typique": "typical",
+      "époque": "era",
+      "fait": "makes",
+      "partie": "party",
+      "série": "series",
+      "bourgeoises": "bourgeois",
+      "créée": "created",
+      "sensibilité": "sensitivity",
+      "particulière": "particular",
+      "pour": "for",
+      "capturer": "to capture",
+      "quotidienne": "daily",
+      "interactions": "interactions",
+      "humaines": "human",
+      "depuis": "since",
+      "sa": "its",
+      "sortie": "exit",
+      "reçu": "received",
+      "critiques": "criticisms",
+      "positives": "positive",
+      "son": "his",
+      "authenticité": "authenticity",
+      "non": "no",
+      "seulement": "only",
+      "regard": "look",
+      "nostalgique": "nostalgic",
+      "révolue": "expired",
+      "également": "also",
+      "excellent": "excellent",
+      "reflet": "reflection",
+      "culture": "culture",
+      "marqué": "marked",
+      "génération": "generation",
+      "aujourd'hui": "today",
+      "peut": "can",
+      "susciter": "to evoke",
+      "évolution": "evolution",
+      "groupe": "group",
+      "dépeint": "depicts",
+      "milieu": "environment",
+      "vibrant": "vibrant",
+      "alors": "then",
+      "explorent": "explore",
+      "aborde": "addresses",
+      "profonds": "deep",
+      "tels": "such",
+      "structure": "structure",
+      "sociale": "social",
+      "début": "beginning",
+      "nous": "we",
+      "plonge": "dives",
+      "où": "where",
+      "intrigue": "intrigue",
+      "construit": "built",
+      "autour": "around",
+      "longs": "long",
+      "percutants": "striking",
+      "bien": "well",
+      "sentimentales": "sentimental",
+      "sexes": "genders",
+      "légèreté": "lightness",
+      "sec": "dry",
+      "caractérisent": "to characterize",
+      "style": "style",
+      "dépeignant": "depicting",
+      "soirées": "evenings",
+      "passées": "past",
+      "illustre": "illustrious",
+      "fois": "times",
+      "glamour": "glamour",
+      "contradictions": "contradictions",
+      "luminosité": "brightness",
+      "créent": "create",
+      "univers": "universe",
+      "immersif": "immersive",
+      "invitant": "inviting",
+      "réfléchir": "to reflect",
+      "propres": "own",
+      "expériences": "experiences",
+      "étant": "being",
+      "dernier": "last",
+      "trilogie": "trilogy",
+      "bourgeois": "bourgeois",
+      "maudits": "cursed",
+      "inscrit": "inscribed",
+      "histoire": "history",
+      "cinéma": "cinema",
+      "comme": "like",
+      "interroge": "questions",
+      "expérience": "experience",
+      "tout": "all",
+      "divertissant": "entertaining",
+      "reconnu": "recognized",
+      "justesse": "accuracy",
+      "critique": "criticism",
+      "normes": "standards",
+      "exploration": "exploration",
+      "transporte": "transports",
+      "au": "at the",
+      "cœur": "heart",
+      "protagonistes": "protagonists",
+      "naviguent": "navigate",
+      "cadre": "framework",
+      "festif": "festive",
+      "réalités": "realities",
+      "sexuelles": "sexual",
+      "travers": "crossing",
+      "ciselés": "chiseled",
+      "subtil": "subtle",
+      "offre": "offer",
+      "pertinente": "relevant",
+      "entourant": "surrounding",
+      "lumière": "light",
+      "omniprésentes": "omnipresent",
+      "vibrante": "vibrant",
+      "encapsulant": "encapsulating",
+      "esprit": "mind",
+      "soulignant": "highlighting",
+      "idéaux": "ideals",
+      "désillusions": "disillusionments",
+      "désireuse": "eager",
+      "bonheur": "happiness",
+      "réalisation": "realization",
+      "élégante": "elegant",
+      "raffinée": "refined",
+      "permet": "allows",
+      "spectateur": "spectator",
+      "apprécier": "to appreciate",
+      "beauté": "beauty",
+      "visuelle": "visual",
+      "subtilités": "subtleties",
+      "psychologiques": "psychological",
+      "au-delà": "beyond",
+      "simple": "simple",
+      "divertissement": "entertainment",
+      "invite": "invites",
+      "identité": "identity",
+      "quête": "quest",
+      "intra-groupes": "intra-group",
+      "mémorable": "memorable",
+      "paysage": "landscape",
+      "cinématographique": "cinematic",
+      "plaçant": "placing",
+      "contexte": "context",
+      "romantique": "romantic",
+      "réussit": "succeeds",
+      "résonner": "to resonate",
+      "plusieurs": "several",
+      "générations": "generations",
+      "témoignant": "testifying",
+      "pertinence": "relevance",
+      "chronique": "chronicle",
+      "sens": "sense",
+      "emblématique": "emblematic",
+      "érige": "erects",
+      "tant": "so much",
+      "analyse": "analysis",
+      "pénétrante": "penetrating",
+      "rapports": "reports",
+      "sociaux": "social",
+      "mouvement": "movement",
+      "symbolisait": "symbolized",
+      "épanouissement": "growth",
+      "culturel": "cultural",
+      "identitaire": "identity",
+      "conversations": "conversations",
+      "densité": "density",
+      "remarquable": "remarkable",
+      "ironie": "irony",
+      "révélant": "revealing",
+      "profondeur": "depth",
+      "psychologique": "psychological",
+      "interpelle": "addresses",
+      "mettant": "putting",
+      "dilemmes": "dilemmas",
+      "existentiels": "existential",
+      "bourgeoise": "bourgeois",
+      "spectre": "spectrum",
+      "passion": "passion",
+      "amoureuse": "lover",
+      "mêle": "mixes",
+      "réflexions": "reflections",
+      "superficialité": "superficiality",
+      "contemporaines": "contemporary",
+      "laissant": "leaving",
+      "contemplatif": "contemplative",
+      "esthétique": "aesthetic",
+      "subtilement": "subtly",
+      "orchestrée": "orchestrated",
+      "ludique": "playful",
+      "utilisation": "use",
+      "dimension": "dimension",
+      "sensorielle": "sensory",
+      "chaque": "each",
+      "scène": "scene",
+      "invitation": "invitation",
+      "ressentir": "to feel",
+      "ivresse": "intoxication",
+      "dansantes": "dancing",
+      "ailleurs": "elsewhere",
+      "aiguisé": "sharp",
+      "attachant": "endearing",
+      "rendre": "to give back",
+      "compte": "account",
+      "complexité": "complexity",
+      "humaine": "human",
+      "somme": "sum",
+      "profondément": "deeply",
+      "réfléchi": "thoughtful",
+      "prend": "takes",
+      "place": "place",
+      "panthéon": "pantheon",
+      "témoignage": "testimony",
+      "manière": "manner",
+      "dont": "whose",
+      "populaire": "popular",
+      "véhiculer": "convey",
+      "interrogations": "questions",
+      "nature": "nature",
+      "même": "even"
+    },
+    "es": {
+      "los": "the",
+      "últimos": "latest",
+      "días": "days",
+      "del": "of the",
+      "disco": "disc",
+      "es": "is",
+      "una": "a",
+      "película": "movie",
+      "comedia": "comedy",
+      "drama": "drama",
+      "la": "the",
+      "historia": "story",
+      "ocurre": "occurs",
+      "en": "in",
+      "nueva": "new",
+      "york": "York",
+      "hay": "there is",
+      "un": "a",
+      "club": "club",
+      "exclusivo": "exclusive",
+      "dos": "two",
+      "mujeres": "women",
+      "jóvenes": "young",
+      "ellas": "they",
+      "van": "they go",
+      "al": "to the",
+      "con": "with",
+      "amigos": "friends",
+      "de": "of",
+      "whit": "whit",
+      "stillman": "stillman",
+      "el": "the",
+      "director": "director",
+      "música": "music",
+      "importante": "important",
+      "tiene": "has",
+      "muchas": "many",
+      "luces": "lights",
+      "las": "the",
+      "bailan": "dance",
+      "hablan": "they talk",
+      "buscan": "search",
+      "amor": "love",
+      "diversión": "fun",
+      "muestra": "shows",
+      "vida": "life",
+      "nocturna": "night",
+      "divertida": "fun",
+      "interesante": "interesting",
+      "estadounidense": "American",
+      "escritor": "writer",
+      "esta": "this",
+      "romántica": "romantic",
+      "trata": "deals",
+      "sobre": "about",
+      "charlotte": "charlotte",
+      "alice": "alice",
+      "que": "that",
+      "están": "are",
+      "pasan": "pass",
+      "mucho": "much",
+      "tiempo": "time",
+      "llamado": "call",
+      "discoteca": "nightclub",
+      "max": "max",
+      "era": "was",
+      "muy": "very",
+      "popular": "popular",
+      "años": "years",
+      "ochenta": "eighty",
+      "lugar": "place",
+      "para": "to",
+      "divertirse": "to enjoy oneself",
+      "tienen": "have",
+      "grupo": "group",
+      "también": "also",
+      "ellos": "they",
+      "mientras": "while",
+      "hacen": "do",
+      "nuevas": "new",
+      "conexiones": "connections",
+      "atmósfera": "atmosphere",
+      "especial": "special",
+      "mágica": "magical",
+      "brillantes": "brilliant",
+      "buena": "good",
+      "época": "era",
+      "personajes": "characters",
+      "entre": "between",
+      "comparten": "share",
+      "sus": "their",
+      "sueños": "dreams",
+      "temas": "themes",
+      "incluyen": "include",
+      "amistad": "friendship",
+      "relaciones": "relations",
+      "mundo": "world",
+      "cambiante": "changing",
+      "refleja": "reflects",
+      "aquella": "that",
+      "su": "his",
+      "impacto": "impact",
+      "humanas": "human",
+      "se": "oneself",
+      "desarrolla": "develops",
+      "humor": "humor",
+      "encanto": "charm",
+      "lo": "it",
+      "hace": "ago",
+      "sea": "be",
+      "clásico": "classic",
+      "estrenó": "premiered",
+      "escrita": "written",
+      "dirigida": "directed",
+      "por": "for",
+      "sigue": "follows",
+      "viven": "they live",
+      "libre": "free",
+      "década": "decade",
+      "este": "this",
+      "donde": "where",
+      "conocen": "they know",
+      "varios": "several",
+      "pero": "but",
+      "enfrentan": "they face",
+      "conflictos": "conflicts",
+      "emocionales": "emotional",
+      "exploran": "explore",
+      "estilo": "style",
+      "visual": "visual",
+      "cultura": "culture",
+      "crean": "create",
+      "vibrante": "vibrant",
+      "única": "unique",
+      "cual": "which",
+      "fascina": "fascinates",
+      "espectadores": "viewers",
+      "diálogos": "dialogues",
+      "son": "are",
+      "largos": "long",
+      "llenos": "full",
+      "característico": "characteristic",
+      "añade": "adds",
+      "nivel": "level",
+      "profundidad": "depth",
+      "además": "furthermore",
+      "film": "film",
+      "aborda": "he addresses",
+      "como": "like",
+      "interpersonales": "interpersonal",
+      "dinámica": "dynamic",
+      "social": "social",
+      "dentro": "within",
+      "mencionar": "to mention",
+      "parte": "part",
+      "trilogía": "trilogy",
+      "examina": "examines",
+      "urbana": "urban",
+      "junto": "together",
+      "metropolitan": "metropolitan",
+      "barcelona": "barcelona",
+      "explora": "explores",
+      "similares": "similar",
+      "si": "if",
+      "interesados": "interested",
+      "sociología": "sociology",
+      "obra": "work",
+      "invita": "invites",
+      "reflexión": "reflection",
+      "interacción": "interaction",
+      "sociedad": "society",
+      "moderna": "modern",
+      "siendo": "being",
+      "gran": "great",
+      "referente": "referent",
+      "cine": "cinema",
+      "independiente": "independent",
+      "americano": "American",
+      "influencia": "influence",
+      "permite": "allows",
+      "comprender": "to understand",
+      "mejor": "better",
+      "resumen": "summary",
+      "no": "not",
+      "solo": "only",
+      "sino": "but",
+      "profunda": "profound",
+      "juventud": "youth",
+      "desafíos": "challenges",
+      "noche": "night",
+      "dramática": "dramatic",
+      "ambiente": "environment",
+      "nocturno": "night",
+      "durante": "during",
+      "tras": "after",
+      "graduarse": "to graduate",
+      "través": "through",
+      "interacciones": "interactions",
+      "surgen": "arise",
+      "política": "politics",
+      "sexual": "sexual",
+      "estructura": "structure",
+      "dinámicas": "dynamics",
+      "grupales": "group",
+      "aunque": "although",
+      "trama": "plot",
+      "centra": "centers",
+      "romances": "romances",
+      "percibe": "perceives",
+      "crítica": "criticism",
+      "frivolidad": "frivolity",
+      "prolongados": "prolonged",
+      "característicos": "characteristic",
+      "resaltan": "highlight",
+      "aguda": "sharp",
+      "observación": "observation",
+      "comportamiento": "behavior",
+      "humano": "human",
+      "sentido": "sense",
+      "espejo": "mirror",
+      "tanto": "so much",
+      "superficialidad": "superficiality",
+      "deseo": "wish",
+      "conexión": "connection",
+      "genuina": "genuine",
+      "pesar": "despite",
+      "ser": "to be",
+      "convencional": "conventional",
+      "seco": "dry",
+      "líneas": "lines",
+      "memorables": "memorable",
+      "convierten": "they convert",
+      "experiencia": "experience",
+      "filmográfica": "filmographic",
+      "singular": "singular",
+      "estimulante": "stimulating",
+      "decisiones": "decisions",
+      "moldean": "they shape",
+      "nuestra": "our",
+      "complejas": "complex",
+      "haciendo": "doing",
+      "viaje": "trip",
+      "nostálgico": "nostalgic",
+      "hacia": "toward",
+      "efímera": "ephemeral",
+      "inscribe": "inscribes",
+      "contexto": "context",
+      "cultural": "cultural",
+      "efervescente": "effervescent",
+      "caracteriza": "characterizes",
+      "prisma": "prism",
+      "graduados": "graduates",
+      "élite": "elite",
+      "aventuran": "to venture",
+      "problematiza": "to question",
+      "cuestiones": "issues",
+      "fundamentales": "fundamental",
+      "búsqueda": "search",
+      "identidad": "identity",
+      "anhelo": "yearning",
+      "pertenencia": "belonging",
+      "especialmente": "especially",
+      "conversaciones": "conversations",
+      "prolongadas": "prolonged",
+      "sirven": "they serve",
+      "vehículo": "vehicle",
+      "medio": "means",
+      "explorar": "to explore",
+      "tensiones": "tensions",
+      "inherentes": "inherent",
+      "regido": "governed",
+      "apariencias": "appearances",
+      "discotequero": "clubber",
+      "pueda": "may",
+      "parecer": "to seem",
+      "superficial": "superficial",
+      "trasfondo": "background",
+      "reflexiones": "reflections",
+      "autenticidad": "authenticity",
+      "destaca": "stands out",
+      "agudo": "sharp",
+      "marcado": "marked",
+      "ingeniosos": "ingenious",
+      "habilidad": "skill",
+      "revelar": "to reveal",
+      "fragilidad": "fragility",
+      "así": "thus",
+      "retrata": "portrays",
+      "momento": "moment",
+      "introspección": "introspection",
+      "propias": "own",
+      "experiencias": "experiences",
+      "amores": "loves",
+      "pérdidas": "losses",
+      "ciclo": "cycle",
+      "comidas": "meals",
+      "intermitentes": "intermittent",
+      "menudo": "frequent",
+      "subestimada": "underestimated",
+      "merece": "deserves",
+      "destacado": "prominent",
+      "cinematografía": "cinematography",
+      "contemporánea": "contemporary",
+      "exploración": "exploration",
+      "condición": "condition",
+      "humana": "human",
+      "brillo": "shine",
+      "concebidos": "conceived",
+      "emerge": "to emerge",
+      "análisis": "analysis",
+      "incisivo": "incisive",
+      "matices": "nuances",
+      "definen": "define",
+      "frente": "front",
+      "demandas": "demands",
+      "marcada": "marked",
+      "hedonismo": "hedonism",
+      "maestra": "master",
+      "astucia": "cleverness",
+      "sutileza": "subtlety",
+      "recién": "recently",
+      "busca": "seeks",
+      "parece": "seems",
+      "estar": "to be",
+      "suspendido": "suspended",
+      "pista": "clue",
+      "baile": "dance",
+      "paisaje": "landscape",
+      "constante": "constant",
+      "cambio": "change",
+      "ocupa": "occupies",
+      "bajo": "under",
+      "superficie": "surface",
+      "glamour": "glamour",
+      "ven": "come",
+      "envueltas": "wrapped",
+      "dilemas": "dilemmas",
+      "existenciales": "existential",
+      "diálogo": "dialogue",
+      "irónico": "ironic",
+      "afilado": "sharp",
+      "revelan": "reveal",
+      "lucha": "struggle",
+      "interna": "internal",
+      "cuestionando": "questioning",
+      "simultáneamente": "simultaneously",
+      "convenciones": "conventions",
+      "sociales": "social",
+      "configuran": "shape",
+      "identidades": "identities",
+      "atención": "attention",
+      "meticulosa": "meticulous",
+      "detalles": "details",
+      "visuales": "visual",
+      "acompañada": "accompanied",
+      "banda": "band",
+      "sonora": "sound",
+      "nostálgica": "nostalgic",
+      "ofrece": "offers",
+      "espectador": "viewer",
+      "sensorial": "sensory",
+      "palpable": "palpable",
+      "convirtiendo": "converting",
+      "cada": "each",
+      "escena": "scene",
+      "microcosmos": "microcosm",
+      "complejidades": "complexities",
+      "trasciende": "transcends",
+      "simple": "simple",
+      "narrativa": "narrative",
+      "invitando": "inviting",
+      "soledad": "solitude",
+      "nos": "us",
+      "confirmando": "confirming",
+      "estatus": "status",
+      "veces": "times",
+      "ignorado": "ignored"
+    }
+  }
+}
