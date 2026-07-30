@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-30-confucius-i-am-not-concerned-that-i-have",
+    "date": "2026-07-30",
+    "author": "Confucius",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/330px-Confucius_Tang_Dynasty.jpg",
+    "titles": {
+      "en": "I am not concerned that I have no place; I am concerned how I may fit myself for one. I am not concerned that I am not known; I seek to be worthy to be known.",
+      "de": "Ich bin nicht besorgt, dass ich keinen Platz habe; ich bin besorgt, wie ich mich dafür anpassen kann. Ich bin nicht besorgt, dass ich nicht bekannt bin; ich suche, wert zu sein, bekannt zu werden.",
+      "fr": "Je ne suis pas inquiet de n’avoir pas de place ; je suis inquiet de comment je peux en avoir une. Je ne suis pas inquiet de ne pas être connu ; je cherche à être digne d’être connu.",
+      "es": "No me preocupa no tener un lugar; me preocupa cómo puedo prepararme para uno. No me preocupa no ser conocido; busco ser digno de ser conocido."
+    }
+  },
+  {
     "id": "2026-07-29-jane-austen-by-the-bye-as-i-must-leave-off",
     "date": "2026-07-29",
     "author": "Jane Austen",
