@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-30-three-greek-firefighters-die-as-wildfires-threaten-parts-of-",
+    "date": "2026-07-30",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f48/live/2a7fb530-8bb5-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "climate",
+    "titles": {
+      "en": "Wildfires in Greece and Other Countries",
+      "de": "Drei Feuerwehrleute sterben durch Waldbrände in Griechenland",
+      "fr": "Incendies en Grèce et en Espagne : trois pompiers perdent la vie",
+      "es": "Incendios forestales en Grecia causan la muerte de tres bomberos"
+    }
+  },
+  {
+    "id": "2026-07-30-saudi-arabia-s-dilemma-as-it-tries-to-stay-out-of-us-iran-wa",
+    "date": "2026-07-30",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "The Dilemma Facing Saudi Arabia",
+      "de": "Saudi-Arabien steht vor einer schwierigen Entscheidung",
+      "fr": "L'Arabie Saoudite essaie de rester neutre",
+      "es": "Arabia Saudita y su dilema en la guerra"
+    }
+  },
+  {
+    "id": "2026-07-30-us-launches-heavy-strikes-on-iran-after-attempted-attack-on-",
+    "date": "2026-07-30",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/104e/live/d24da650-8be2-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "US Launches Strikes Against Iran After Missile Attacks",
+      "de": "US und Iran im Konflikt",
+      "fr": "Les États-Unis lancent une série de frappes sur l'Iran",
+      "es": "EE. UU. realiza ataques contundentes en Irán"
+    }
+  },
+  {
     "id": "2026-07-29-how-mexican-drug-cartels-have-outsourced-meth-labs-to-nigeri",
     "date": "2026-07-29",
     "source": "BBC News",

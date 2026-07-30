@@ -1,0 +1,2473 @@
+{
+  "id": "2026-07-30-three-greek-firefighters-die-as-wildfires-threaten-parts-of-",
+  "date": "2026-07-30",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f48/live/2a7fb530-8bb5-11f1-b2ab-0dd01740f9f6.jpg",
+  "category": "climate",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Fires in Greece",
+        "text": "Three firefighters die in Greece. They fight wildfires. Two firefighters die on Crete. They are trapped by flames. One firefighter dies in Peloponnese. Many people leave their homes. Strong winds start the fires. The fires grow very fast. Many people are scared. They see big flames. They must leave to be safe. The wildfires also happen in Turkey. A fire closes a road. Authorities help people who leave. The weather is very hot. Fires are normal in summer. People want to stop the flames.",
+        "vocabulary": [
+          {
+            "word": "firefighter",
+            "definition": "a person who puts out fires"
+          },
+          {
+            "word": "wildfire",
+            "definition": "a big fire in nature"
+          },
+          {
+            "word": "traffic",
+            "definition": "cars moving on a road"
+          },
+          {
+            "word": "flame",
+            "definition": "the hot part of a fire"
+          },
+          {
+            "word": "evacuate",
+            "definition": "to leave a place for safety"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many firefighters died?",
+            "options": [
+              "One",
+              "Two",
+              "Three"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What caused the fires?",
+            "options": [
+              "Rain",
+              "Strong winds",
+              "Snow"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where did one firefighter die?",
+            "options": [
+              "Crete",
+              "Tokyo",
+              "Paris"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Firefighters Killed in Greek Wildfires",
+        "text": "Three firefighters have died in Greece while fighting wildfires. Two firefighters died on the island of Crete. They were trapped in a blaze near Rethymno. The fire spread quickly because of strong winds. Another firefighter died in Peloponnese. Many people had to leave their homes to stay safe. The area is very hot. They see big flames and smoke. Wildfires are now happening in Turkey and Spain too. A fire on the main road in Turkey forced people to evacuate. In Spain, firefighters work hard to stop a big fire near Madrid. They say this summer has many wildfires. People want to help the firefighters. They give food and water to those who help.",
+        "vocabulary": [
+          {
+            "word": "blaze",
+            "definition": "a large fire"
+          },
+          {
+            "word": "heatwave",
+            "definition": "very hot weather for a long time"
+          },
+          {
+            "word": "evacuate",
+            "definition": "to leave a place for safety"
+          },
+          {
+            "word": "flame",
+            "definition": "the burning part of a fire"
+          },
+          {
+            "word": "wildfire",
+            "definition": "a fire that spreads quickly in nature"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happened to the firefighters?",
+            "options": [
+              "They helped people",
+              "They died",
+              "They got lost"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why did people evacuate?",
+            "options": [
+              "To find food",
+              "To stay safe",
+              "To go to a party"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Where did one firefighter die?",
+            "options": [
+              "Spain",
+              "Italy",
+              "Peloponnese"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Wildfires in Greece and Other Countries",
+        "text": "This summer, devastating wildfires have caused tragedy in Greece, where three firefighters have died while battling blazes in Crete and the Peloponnese. These brave firefighters faced extreme danger as fierce, gale-force winds pushed the flames rapidly, creating a chaotic situation. In Crete, the fires forced the evacuation of several villages to protect the residents and tourists who were caught off guard. Two firefighters tragically died after becoming trapped when the blaze swept through the Rethymno region. Another firefighter was found unconscious near the southern town of Gytheio. Meanwhile, wildfires are also burning in Turkey and Spain, leading to major disruptions. In Turkey, a fire in Muğla province caused the closing of an important highway, and part of a hospital had to be evacuated for safety. In Spain, the situation is similarly serious, especially near Madrid, where a massive wildfire has burned more than 43,000 hectares. This year, Spain has already experienced the highest number of wildfires in its history. Experts say that climate change is a significant factor. If temperatures continue to rise, which they have due to climate change, even more intense wildfires may occur in the future. Many local residents are helping firefighters by providing food and water, but the air filled with smoke makes some people anxious, as they worry the fires might spread. The authorities are currently taking all necessary measures to manage the situation and protect lives.",
+        "vocabulary": [
+          {
+            "word": "blazes",
+            "definition": "large and dangerous fires."
+          },
+          {
+            "word": "chaotic",
+            "definition": "in a state of complete disorder and confusion."
+          },
+          {
+            "word": "disruptions",
+            "definition": "interruptions or problems that prevent normal activity."
+          },
+          {
+            "word": "evacuation",
+            "definition": "the process of moving people from a dangerous place to safety."
+          },
+          {
+            "word": "intense",
+            "definition": "very strong or extreme."
+          },
+          {
+            "word": "hazardous",
+            "definition": "dangerous or risky."
+          },
+          {
+            "word": "temperature",
+            "definition": "how hot or cold something is, measured in degrees."
+          },
+          {
+            "word": "residents",
+            "definition": "people who live in a particular area."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What caused the evacuation of villages in Crete?",
+            "options": [
+              "Fierce winds",
+              "Flooding",
+              "Earthquakes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the total area burned in Spain this year?",
+            "options": [
+              "Over 207,000 hectares",
+              "Over 100,000 hectares",
+              "Over 50,000 hectares"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do experts say is affecting the risk of wildfires?",
+            "options": [
+              "Tourism",
+              "Climate change",
+              "New technology"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Wildfires in Southern Europe Lead to Tragic Loss of Life",
+        "text": "Three firefighters tragically lost their lives while battling wildfires in Greece, particularly in Crete and the Peloponnese region. In Crete, intense winds fueled the flames and necessitated the evacuation of numerous villages. Specifically, two firefighters died when they were caught in the Rethymno area, while another was discovered unconscious near Gytheio, a port town in southern Peloponnese. Concurrently, Spain and France faced their fourth heatwave of the summer, with firefighters attempting to control several significant wildfires that had only recently been managed. Eyewitnesses reported that multiple fires erupted on Crete, rapidly spreading across distances of up to 15 kilometers. Locals and tourists were evacuated from Krya Vrysi, the mountain village where the two firefighters lost their lives. One resident expressed her fear, stating, \"The flames were enormous; it was truly frightening.\" In addition, wildfires emerged in other Greek locations, including the islands of Paros and Lesbos. In Turkey, a major highway was closed and part of a hospital was evacuated due to a fire in Muğla province. This catastrophic event has highlighted the growing dangers of wildfires in Southern Europe, especially amid rising temperatures linked to climate change.",
+        "vocabulary": [
+          {
+            "word": "tragedy",
+            "definition": "a very sad event"
+          },
+          {
+            "word": "evacuate",
+            "definition": "to leave a place for safety"
+          },
+          {
+            "word": "witness",
+            "definition": "a person who sees an event happen"
+          },
+          {
+            "word": "necessitate",
+            "definition": "to make something necessary"
+          },
+          {
+            "word": "emerge",
+            "definition": "to come out or start to exist"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many firefighters died in the wildfires in Greece?",
+            "options": [
+              "One firefighter",
+              "Two firefighters",
+              "Three firefighters"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What were people doing in Krya Vrysi?",
+            "options": [
+              "Working in the fields",
+              "Evacuating",
+              "Having a picnic"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which country faced a heatwave along with Greece?",
+            "options": [
+              "Italy",
+              "Spain",
+              "Portugal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Greece Experiences Severe Wildfires Leading to Firefighter Fatalities",
+        "text": "In a heartbreaking development, three firefighters perished while striving to contain wildfires that have ravaged parts of Greece, with particularly severe incidents reported in Crete and the Peloponnese region. The situation escalated in Crete, where powerful winds intensified the flames, forcing the evacuation of numerous villages. Reports indicate that two firefighters tragically succumbed to the flames in the Rethymno area, whereas another was found unconscious in Gytheio, a port town situated in the southern part of Peloponnese. As these events unfolded, Spain and France entered a fourth consecutive heatwave, prompting firefighters to face the daunting task of managing several substantial wildfires that had only just been brought under control. Numerous eyewitnesses recounted how multiple blazes erupted on Crete, spreading rapidly up to 15 kilometers, necessitating the urgent evacuation of residents and tourists from Krya Vrysi, the village where two firefighters tragically lost their lives. One local described the harrowing scene, saying, \"The flames were colossal; it was genuinely terrifying.\" Furthermore, wildfires emerged in other areas of Greece, including the islands of Paros and Lesbos, while in Turkey, a vital highway was closed as a precautionary measure and portions of a hospital were evacuated due to a fire in Muğla province. These incidents starkly illustrate the increasing peril posed by wildfires across Southern Europe, particularly amidst intensifying climate change influences.",
+        "vocabulary": [
+          {
+            "word": "perished",
+            "definition": "died, especially in a sudden or violent way"
+          },
+          {
+            "word": "ravaged",
+            "definition": "caused severe and widespread damage"
+          },
+          {
+            "word": "daunting",
+            "definition": "discouraging or frightening"
+          },
+          {
+            "word": "harrowing",
+            "definition": "extremely distressing or painful"
+          },
+          {
+            "word": "necessitating",
+            "definition": "making something necessary or unavoidable"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is one consequence of the wildfires mentioned in the text?",
+            "options": [
+              "Many houses were built",
+              "Some people died",
+              "People celebrated"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What helped spread the flames in Crete?",
+            "options": [
+              "Strong winds",
+              "Heavy rain",
+              "Cold weather"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did residents of Krya Vrysi do?",
+            "options": [
+              "They evacuated",
+              "They stayed home",
+              "They celebrated"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Catastrophic Wildfires in Greece Result in Firefighter Fatalities Amid Escalating Climate Crisis",
+        "text": "In an alarming manifestation of the climate crisis, three firefighters tragically perished while endeavoring to combat wildfires ravaging the landscapes of Greece, particularly in the island of Crete and the Peloponnese region. The ferocious winds on Crete exacerbated the perilous situation, culminating in the evacuation of numerous villages. According to multiple sources, two brave firefighters succumbed to the inferno in Rethymno, while another was discovered unconscious near Gytheio, a notable port town in the southern Peloponnese. In an unsettling parallel, Spain and France grappled with the onset of their fourth destructive heatwave, burdening firefighting teams as they contended with flames that had only recently been subdued. Eyewitness accounts painted a vivid picture of the catastrophic fires on Crete, with blazes spreading at a disconcerting pace, approximately 15 kilometers in length, thereby necessitating the urgent evacuation of residents and tourists from Krya Vrysi, the village shadowed by the loss of two firefighters. A resident’s chilling account of the unfolding chaos, \"The flames were titanic; it was utterly harrowing,\" resonated with the stark reality of the situation. Furthermore, fires broke out in additional locations across Greece, encompassing the islands of Paros and Lesbos. In the neighboring Turkey, a crucial highway was shuttered, and segments of a hospital were evacuated in response to a fire in Muğla province. These tragic events starkly underscore the intensifying dangers posed by wildfires in Southern Europe, exacerbated by persistent climate change, which imposes alarming challenges that demand immediate and concerted action.",
+        "vocabulary": [
+          {
+            "word": "manifestation",
+            "definition": "an event that shows something clearly"
+          },
+          {
+            "word": "ferocious",
+            "definition": "extremely aggressive or violent"
+          },
+          {
+            "word": "burdening",
+            "definition": "making someone responsible for a difficult task"
+          },
+          {
+            "word": "disconcerting",
+            "definition": "causing a feeling of unease or confusion"
+          },
+          {
+            "word": "exacerbated",
+            "definition": "made a problem worse"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the firefighters die trying to control?",
+            "options": [
+              "Wildfires",
+              "Floods",
+              "Earthquakes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What was one effect of the winds in Greece during the wildfires?",
+            "options": [
+              "They helped put out the fires",
+              "They made the situation worse",
+              "They cooled the temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What area experienced significant wildfires alongside Greece?",
+            "options": [
+              "Italy",
+              "Spain",
+              "Germany"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Drei Feuerwehrleute sterben in Griechenland",
+        "text": "Drei Feuerwehrleute sterben in Griechenland. Sie löschen Feuer. Die Feuer sind in Kreta und im Peloponnes. Starke Winde helfen den Flammen. Zwei Feuerwehrleute sind in Rethymno. Eine Feuerwehrfrau ist in Gytheio gestorben. Menschen müssen ihre Dörfer verlassen. Es gibt auch Feuer in anderen Gegenden. In Spanien ist es sehr heiß. Feuer in Madrid ist gefährlich. Viele Menschen wohnen in Sicherheit. Die Feuerwehr kämpft gegen viele Feuer. Die Lage ist sehr ernst. Die Feuerwehr braucht Hilfe.",
+        "vocabulary": [
+          {
+            "word": "Feuerwehrleute",
+            "definition": "Menschen, die Feuer löschen."
+          },
+          {
+            "word": "stirbt",
+            "definition": "Nicht mehr leben."
+          },
+          {
+            "word": "Dörfer",
+            "definition": "Kleine Orte mit vielen Häusern."
+          },
+          {
+            "word": "hilft",
+            "definition": "Etwas für jemanden tun."
+          },
+          {
+            "word": "Lage",
+            "definition": "Zustand oder Situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Feuerwehrleute sterben?",
+            "options": [
+              "Zwei",
+              "Drei",
+              "Vier"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo gibt es Feuer?",
+            "options": [
+              "In Athen",
+              "In Kreta",
+              "In Rom"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was machen Feuerwehrleute?",
+            "options": [
+              "Sie kochen",
+              "Sie löschen Feuer",
+              "Sie bauen Häuser"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Drei Feuerwehrleute sterben in Griechenland",
+        "text": "In Griechenland sind drei Feuerwehrleute gestorben. Sie haben Feuer in Kreta und im Peloponnes gelöscht. Starke Winde gefährden die Dörfer. In Kreta sind zwei Feuerwehrleute gestorben. Sie waren in der Region Rethymno, wo viele Flammen brennen. Eine andere Feuerwehrfrau starb in Gytheio. Die Feuerwehr kämpft gegen das Feuer, aber die Bedingungen sind sehr schwierig. Viele Menschen müssen ihre Dörfer verlassen, weil die Flammen schnell brennen und die Luft sehr heiß ist. Die Griechenland-Evakuierungen betreffen Dörfer wie Krya Vrysi. In Spanien gibt es auch ein großes Feuer. Die Feuerwehr arbeitet hart und will das Feuer stoppen. In Madrid erwarten die Menschen, dass das Wetter schlimmer wird. Die Feuerwehr braucht mehr Hilfe, weil die Situation ernst ist. Viele Menschen sind in Sicherheit, aber es gibt viele Schäden. Sie bekommen Essen und Hilfe von anderen Menschen. Feuerwehrleute sind mutig und helfen, denn sie retten Leben.",
+        "vocabulary": [
+          {
+            "word": "Feuerwehrleute",
+            "definition": "Personen, die Feuerwehr sind und Leben retten."
+          },
+          {
+            "word": "erwartet",
+            "definition": "mit Vorfreude auf etwas hinsehen, was passieren soll."
+          },
+          {
+            "word": "evakuieren",
+            "definition": "Menschen aus einem gefährlichen Ort bringen."
+          },
+          {
+            "word": "Flammen",
+            "definition": "das brennende Material, das Feuer verursacht."
+          },
+          {
+            "word": "Hilfe",
+            "definition": "Unterstützung für Menschen in Not."
+          },
+          {
+            "word": "Schäden",
+            "definition": "Verluste durch Unfälle oder Katastrophen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Feuerwehrleute sind gestorben?",
+            "options": [
+              "Zwei",
+              "Drei",
+              "Vier"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo ist eine Feuerwehrfrau gestorben?",
+            "options": [
+              "In Gytheio",
+              "In Madrid",
+              "In Barcelona"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was müssen viele Menschen wegen der Flammen machen?",
+            "options": [
+              "Evakuieren",
+              "Helfen",
+              "Schlafen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Drei Feuerwehrleute sterben durch Waldbrände in Griechenland",
+        "text": "Drei Feuerwehrleute sind in Griechenland gestorben, während sie gegen gefährliche Waldbrände kämpften. Diese Brände sind besonders auf der Insel Kreta und im Peloponnes ausgebrochen. Starke Winde sorgen dafür, dass die Flammen sich sehr schnell ausbreiten. In der Region Rethymno sterben zwei Feuerwehrleute, die versuchten, Dörfer zu schützen. Eine andere Feuerwehrfrau ist in Gytheio gefunden worden, wo sich die Lage ebenfalls verschärft hat. Viele Menschen müssen evakuiert werden, weil die Feuer gefährlich nah sind und das Risiko steigt. In Spanien gibt es ebenfalls große Waldbrände. Die Feuerwehr kämpft in Madrid, da das Wetter heißer und trockener wird. Wenn die Temperaturen weiter steigen, wird die Situation noch kritischer. Es gibt immer mehr Berichte über andere Brände, zum Beispiel auf den Inseln Paros und Lesbos. Betroffene Menschen, sowohl Bewohner als auch Touristen, haben die Region verlassen müssen. Die Unterstützung der Feuerwehr ist notwendig, weil viele Gebiete in Gefahr sind. Freiwillige überall helfen, um die Menschen zu unterstützen und die Situation zu überwachen. Der Verlust dieser Feuerwehrleute zeigt, wie ernst die Lage ist. Viele Menschen in den betroffenen Gebieten bekommen jetzt Hilfe und Unterstützung von Freunden, Familie und Organisationen, die in Krisenzeiten helfen. Es ist wichtig, dass wir gemeinsam gegen die Auswirkungen des Klimawandels kämpfen, der die Situation verschärft.",
+        "vocabulary": [
+          {
+            "word": "evakuieren",
+            "definition": "die Menschen aus einem gefährlichen Gebiet bringen"
+          },
+          {
+            "word": "schützen",
+            "definition": "vor Gefahren bewahren"
+          },
+          {
+            "word": "Hilfe",
+            "definition": "Unterstützung in schwierigen Zeiten"
+          },
+          {
+            "word": "unterstützen",
+            "definition": "Hilfe für jemanden leisten"
+          },
+          {
+            "word": "erhöhen",
+            "definition": "größer oder mehr machen"
+          },
+          {
+            "word": "Flamme",
+            "definition": "das Feuer, das brennt"
+          },
+          {
+            "word": "Feuerwehr",
+            "definition": "die Organisation, die für Feuerwehr und Rettung zuständig ist"
+          },
+          {
+            "word": "Krisenzeiten",
+            "definition": "schwierige oder gefährliche Situationen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Feuerwehrleute sind in Griechenland gestorben?",
+            "options": [
+              "Drei",
+              "Vier",
+              "Zwei"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo sind die meisten Brände in Griechenland ausgebrochen?",
+            "options": [
+              "Im Peloponnes und auf Kreta",
+              "In Athen und Thessaloniki",
+              "Auf der Insel Rhodos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was müssen viele Menschen aufgrund der Brände tun?",
+            "options": [
+              "Nach Hause gehen",
+              "Evakuieren",
+              "Arbeiten"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Drei griechische Feuerwehrleute sterben bei Waldbränden in Südeuropa",
+        "text": "Drei Feuerwehrleute in Griechenland sind ums Leben gekommen, während sie versuchten, die Waldbrände in Kreta und der Peloponnes zu bekämpfen. Auf Kreta führte der Sturm zu intensiven Flammen, die die Evakuierung mehrerer Dörfer erforderlich machten. Zwei Feuerwehrleute starben, als sie in der Region Rethymno gefangen wurden, während ein weiterer Löschmann in der Nähe der Hafenstadt Gytheio tot aufgefunden wurde. In der Zwischenzeit hat eine vierte Hitzewelle in diesem Sommer in Spanien und Frankreich begonnen, wo Feuerwehrleute versuchen, ein Aufflackern der Waldbrände zu verhindern, die gerade unter Kontrolle gebracht wurden. Zeugen berichteten von mehreren Bränden auf Kreta, die sich rasch ausbreiteten und die Schlimmste mit einer Front von bis zu 15 Kilometern Länge. Bewohner und Touristen wurden aus Krya Vrysi evakuiert, wo die beiden Feuerwehrleute starben. „Der Wind ist unglaublich, man kann manchmal nicht stehen“, sagte die Anwohnerin Chrissa Gioukaki gegenüber Reuters. Neben Kreta sind auch auf den Ägäischen Inseln Paros und Lesbos sowie in Trifylia, einer Stadt auf dem griechischen Festland, Brände ausgebrochen. In der Türkei musste die Hauptstraße zwischen Fethiye und Antalya wegen eines Feuers in der Provinz Muğla geschlossen werden. Der spanische Premierminister Pedro Sánchez hat gewarnt, dass die nächsten zwölf Stunden entscheidend sein werden, um einen Brand in der Nähe von Madrid zu löschen.",
+        "vocabulary": [
+          {
+            "word": "zwölf Stunden",
+            "definition": "12 Stunden, die Zeitspanne von 12 Stunden."
+          },
+          {
+            "word": "entscheidend",
+            "definition": "sehr wichtig für das Ergebnis oder die Entscheidung."
+          },
+          {
+            "word": "Feuerwehr",
+            "definition": "eine Gruppe von Menschen, die Brände löschen."
+          },
+          {
+            "word": "evakuieren",
+            "definition": "Menschen aus einem gefährlichen Ort bringen."
+          },
+          {
+            "word": "Hitzewelle",
+            "definition": "eine Periode mit sehr hohen Temperaturen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Feuerwehrleute sind in Griechenland gestorben?",
+            "options": [
+              "Drei",
+              "Zwei",
+              "Fünf"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "In welchem Bereich in Kreta gab es die meisten Brände?",
+            "options": [
+              "Rethymno",
+              "Athen",
+              "Heraklion"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat der spanische Premierminister gewarnt?",
+            "options": [
+              "Die nächsten 12 Stunden sind entscheidend",
+              "Die Brände sind gelöscht",
+              "Die Hitze ist vorbei"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Drei Feuerwehrleute verlieren ihr Leben bei den verheerenden Waldbränden in Griechenland",
+        "text": "Drei Feuerwehrleute haben ihr Leben verloren, während sie verzweifelt gegen die Waldbrände auf der Insel Kreta und in der Region Peloponnes kämpften. In Kreta wurden durch heftige Winde die Flammen noch verstärkt, was zur Evakuierung zahlreicher Dörfer führte. Tragischerweise starben zwei Feuerwehrleute, als sie im Feuer der Region Rethymno eingeschlossen wurden, während ein weiterer in der Nähe des Hafens von Gytheio tot aufgefunden wurde. Gleichzeitig startete eine vierte Hitzewelle in diesem Sommer in Spanien und Frankreich, und Feuerwehrleute waren im Einsatz, um das Aufflammen der Brände zu verhindern, die zuvor unter Kontrolle gebracht worden waren. Zeugen berichteten von rasch ausbreitenden Bränden auf Kreta, deren schlimmster Brand eine Front von bis zu 15 Kilometern erreichte. Anwohner und Urlauber mussten aus Krya Vrysi evakuiert werden, wo tragischerweise zwei Feuerwehrleute starben. „Der Wind ist unerträglich, manchmal kann man kaum stehen“, sagte die Bewohnerin Chrissa Gioukaki gegenüber Reuters. In der Türkei musste die Hauptverkehrsstraße zwischen Fethiye und Antalya aufgrund eines Feuers in der Muğla-Provinz gesperrt werden. der spanische Premierminister Pedro Sánchez kündigte an, dass die nächsten zwölf Stunden entscheidend für die Bekämpfung eines Brandes in der Nähe von Madrid sein werden.",
+        "vocabulary": [
+          {
+            "word": "verheerend",
+            "definition": "sehr schädlich oder zerstörerisch."
+          },
+          {
+            "word": "verzweifelt",
+            "definition": "ohne Hoffnung; stark bemüht, etwas zu erreichen."
+          },
+          {
+            "word": "heftige Winde",
+            "definition": "starker Wind, der gefährlich sein kann."
+          },
+          {
+            "word": "tragisch",
+            "definition": "sehr traurig und bedauerlich."
+          },
+          {
+            "word": "Aufflammen",
+            "definition": "wenn ein Feuer plötzlich wieder brennt."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Feuerwehrleute starben auf Kreta?",
+            "options": [
+              "Drei",
+              "Zwei",
+              "Vier"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo wurde ein Feuerwehrmann tot aufgefunden?",
+            "options": [
+              "Gytheio",
+              "Aten",
+              "Santorin"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat der spanische Premierminister über die nächsten Stunden gesagt?",
+            "options": [
+              "Sie sind entscheidend",
+              "Sie sind harmlos",
+              "Sie sind vergangen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Drei Feuerwehrleute in Griechenland während der verheerenden Waldbrände ums Leben gekommen",
+        "text": "In einem tragischen Vorfall während der verheerenden Waldbrände in Griechenland haben drei Feuerwehrleute ihr Leben verloren, während sie tapfer gegen die Flammen auf Kreta und in der Region Peloponnes kämpften. Besonders heftig wütete das Feuer in der Region Rethymno, wo zwei Feuerwehrleute, die sich im Einsatz befanden, leider ums Leben kamen, als sie in den Flammen gefangen wurden. Ein weiterer Einsatzleiter wurde bewusstlos in der Nähe des Hafens von Gytheio gefunden, was die Dramatik der Situation unterstreicht. Währenddessen nahm die umfangreiche Hitzewelle, die Europa heimgesucht hat, in Spanien und Frankreich weiter zu, wodurch die Einsatzkräfte gezwungen sind, noch akribischer gegen das Wiederaufflammen der Brände vorzugehen, die zuvor nur mühsam unter Kontrolle gebracht worden waren. Mehrere Zeugen berichteten von den verheerenden Bedingungen auf Kreta, wo sich die Flammen über eine Front von bis zu 15 Kilometern erstreckten und diverse Dörfer zur Evakuierung zwangen. Anwohnerin Chrissa Gioukaki schilderte im Interview mit Reuters, dass „der Wind so unerträglich war, dass man oft nicht stehen konnte“. In der Türkei sorgten Waldbrände für die Schließung der Hauptverkehrsstraße zwischen Fethiye und Antalya. Der spanische Premierminister Pedro Sánchez warnte, dass die nächsten zwölf Stunden entscheidend sein könnten für die Bekämpfung des Feuers in der Nähe von Madrid; angesichts höherer Temperaturen und labiler Wetterlagen bleibt die Situation äußerst angespannt.",
+        "vocabulary": [
+          {
+            "word": "tragisch",
+            "definition": "von großer Traurigkeit; oft mit Verlust verbunden."
+          },
+          {
+            "word": "verheerend",
+            "definition": "massive und extensive Zerstörung anrichtend."
+          },
+          {
+            "word": "akribisch",
+            "definition": "äußerst sorgfältig; minutiös."
+          },
+          {
+            "word": "unterstreichen",
+            "definition": "die Bedeutung oder Wichtigkeit von etwas hervorheben."
+          },
+          {
+            "word": "labil",
+            "definition": "instabil; nicht sicher; leicht zu ändern oder zu beeinflussen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Feuerwehrleute starben in Rethymno?",
+            "options": [
+              "Einer",
+              "Zwei",
+              "Drei"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie beschrieb Chrissa Gioukaki den Wind?",
+            "options": [
+              "Anerkennend",
+              "Unerträglich",
+              "Harmonisch"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagte Pedro Sánchez über die nächsten zwölf Stunden?",
+            "options": [
+              "Sie sind entscheidend",
+              "Sie sind unbedeutend",
+              "Sie sind vorüber"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Trois pompiers en Grèce",
+        "text": "Trois pompiers meurent en Grèce. Ils combattent des incendies sur les îles grecques. Les incendies sont sur l'île de Crète et dans la Péloponnèse. Il y a beaucoup de vent sur l'île de Crète. Ce vent aide le feu à se propager. Deux pompiers sont piégés dans le feu à Rethymno. Un pompier est trouvé inconscient. Les villages autour de Rethymno sont évacués. Les gens sont très inquiets à cause de la situation. En Espagne, il y a aussi des incendies graves. Beaucoup de gens fuient leurs maisons dans différentes régions. Les pompiers essaient d'arrêter le feu, mais le travail est difficile. La chaleur est forte et le vent souffle fort.",
+        "vocabulary": [
+          {
+            "word": "incendie",
+            "definition": "un feu dangereux"
+          },
+          {
+            "word": "villages",
+            "definition": "des petites villes"
+          },
+          {
+            "word": "piégés",
+            "definition": "bloqués sans sortie"
+          },
+          {
+            "word": "évacués",
+            "definition": "sortis rapidement pour être en sécurité"
+          },
+          {
+            "word": "combattent",
+            "definition": "luttent contre un danger"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui meurt en Grèce ?",
+            "options": [
+              "Des pompiers",
+              "Des villageois",
+              "Des touristes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Où se trouvent les incendies ?",
+            "options": [
+              "En Crète",
+              "À Madrid",
+              "À Paris"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi les gens sont-ils inquiets ?",
+            "options": [
+              "Pour le vent",
+              "Pour le feu",
+              "Pour la pluie"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trois pompiers meurent en Grèce à cause des incendies",
+        "text": "Trois pompiers grecs sont morts à cause de grands incendies. Les incendies se produisent à plusieurs endroits en Grèce, surtout sur l'île de Crète et dans le Péloponnèse. Les vents violents propagent les flammes rapidement. Deux pompiers meurent en devenant piégés dans le feu dans la région de Rethymno. Un autre pompier est trouvé inconscient près de Gytheio, une ville portuaire dans le sud. Cette situation est très triste pour leurs familles et amis. De nombreux villageois doivent fuir leur maison pour protéger leur vie. Les pompiers en Espagne et en France travaillent aussi sur des incendies. Ils veulent éviter de nouveaux feux. En Espagne, le Premier ministre dit que les prochaines heures sont très importantes pour la situation. En été, il y a beaucoup de sécheresse dans cette région, ce qui augmente les risques d'incendies. Les habitants sont inquiets et certains ont été évacués pour leur sécurité.",
+        "vocabulary": [
+          {
+            "word": "incendie",
+            "definition": "Feu qui ravage et détruit des choses."
+          },
+          {
+            "word": "pompier",
+            "definition": "Personne qui protège les gens contre le feu."
+          },
+          {
+            "word": "villageois",
+            "definition": "Habitant d'un village."
+          },
+          {
+            "word": "évacuer",
+            "definition": "Partir d'un endroit dangereux pour sa sécurité."
+          },
+          {
+            "word": "sécheresse",
+            "definition": "Manque d'eau sur une longue période."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Où se produisent les incendies mentionnés dans le texte ?",
+            "options": [
+              "À Crète et au Péloponnèse",
+              "À Madrid et à Paris",
+              "En Espagne et en Italie"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qu'est-ce qui a causé la mort des pompiers ?",
+            "options": [
+              "Un accident de voiture",
+              "Des incendies de forêt",
+              "Une inondation"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que dit le Premier ministre espagnol sur les prochaines heures ?",
+            "options": [
+              "Elles sont importantes",
+              "Elles sont inutiles",
+              "Elles ne comptent pas"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Incendies en Grèce et en Espagne : trois pompiers perdent la vie",
+        "text": "Trois pompiers grecs ont perdu la vie en combattant de terribles incendies sur l'île de Crète et dans le Péloponnèse. Les vents forts ont amplifié les flammes, provoquant l'évacuation de plusieurs villages. En effet, les pompiers ont été engagés dans des efforts désespérés pour maîtriser les incendies, mais deux d'entre eux ont été piégés près de la région de Rethymno. Un autre pompier a été retrouvé inconscient près de Gytheio. Cette situation dramatique a touché de nombreuses familles qui ont dû fuir leurs maisons. De plus, de nombreux touristes se trouvaient également dans ces zones menacées par le feu. En Espagne, le Premier ministre a averti que les prochaines heures seraient cruciales pour éteindre un incendie près de Madrid. Les températures élevées et le faible taux d'humidité compliquent la situation. Au total, l'Espagne a enregistré cette année plus de 207 000 hectares brûlés par des incendies. Si les pompiers continuent à travailler d'arrache-pied pour éviter d'autres feux, il est essentiel d'attendre la pluie pour soulager la chaleur. Les autorités ont également ordonné des évacuations dans plusieurs zones. Les villageois qui ont perdu leur maison doivent maintenant reconstruire leur vie. Ce désastre souligne l'importance de la préparation pour faire face à ces situations d'urgence.",
+        "vocabulary": [
+          {
+            "word": "démarche",
+            "definition": "action que l'on entreprend pour obtenir quelque chose."
+          },
+          {
+            "word": "dramatique",
+            "definition": "qui cause beaucoup de douleur ou d'inquiétude."
+          },
+          {
+            "word": "cruciale",
+            "definition": "très importante, décisive."
+          },
+          {
+            "word": "brûlés",
+            "definition": "détruits par le feu."
+          },
+          {
+            "word": "évacuation",
+            "definition": "action de quitter un lieu pour des raisons de sécurité."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de pompiers grecs ont perdu la vie dans les incendies ?",
+            "options": [
+              "Deux",
+              "Trois",
+              "Un"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est la situation des villageois qui ont perdu leur maison ?",
+            "options": [
+              "Ils sont contents",
+              "Ils doivent reconstruire leur vie",
+              "Ils sont partis en vacances"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le problème avec les températures élevéés en Espagne ?",
+            "options": [
+              "Elles sont agréables",
+              "Elles compliquent la situation des incendies",
+              "Elles aident les pompiers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trois pompiers grecs périssent dans des incendies de forêt en Europe du Sud",
+        "text": "Trois pompiers grecs ont perdu la vie en luttant contre des incendies de forêt en Crète et dans le Péloponnèse. Sur l'île de Crète, des vents violents ont attisé les flammes, entraînant l'évacuation de plusieurs villages. Deux pompiers sont morts après avoir été piégés lorsque le feu a traversé la région de Rethymno, à l'ouest de l'île. Un autre pompier a été retrouvé inconscient près de la ville portuaire de Gytheio, dans le sud du Péloponnèse. Pendant ce temps, une quatrième vague de chaleur a commencé en Espagne et en France, où les pompiers tentent d'éviter un regain d'incendies majeurs qui viennent à peine d'être maîtrisés. Des témoins ont rapporté que plusieurs incendies s'étaient déclenchés à Crète et s'étaient rapidement propagés, le front de feu le plus étendu atteignant jusqu'à 15 km. Les habitants et les touristes de Krya Vrysi, le village de montagne, ont été évacués. \"Le vent est incroyable – on ne peut parfois pas rester debout. Les flammes étaient immenses, c'était vraiment effrayant,\" a déclaré Chrissa Gioukaki. Les incendies se sont également déclarés sur d'autres îles grecques, ainsi qu'à Trifylia sur le continent. En Turquie, une route principale a dû être fermée à cause d'un incendie. Le Premier ministre espagnol a averti que les 12 heures suivantes seront \"décisives\" pour éteindre un incendie près de Madrid.",
+        "vocabulary": [
+          {
+            "word": "pompier",
+            "definition": "Personne qui combat les incendies."
+          },
+          {
+            "word": "incendie",
+            "definition": "Feu qui se propage rapidement."
+          },
+          {
+            "word": "évacuation",
+            "definition": "Action de faire sortir des personnes d'un lieu dangereux."
+          },
+          {
+            "word": "flammes",
+            "definition": "Les feux visibles que produit un incendie."
+          },
+          {
+            "word": "vague de chaleur",
+            "definition": "Période de chaleur excessive."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de pompiers ont perdu la vie en Grèce?",
+            "options": [
+              "Deux",
+              "Trois",
+              "Quatre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel village a été évacué en Crète?",
+            "options": [
+              "Krya Vrysi",
+              "Peloponnèse",
+              "Rethymno"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel pays est mentionné comme ayant également des incendies?",
+            "options": [
+              "France",
+              "Allemagne",
+              "Italie"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Tragédie en Grèce : Incendies de forêt tuent des pompiers",
+        "text": "Trois pompiers grecs ont succombé en combattant des incendies ravageurs à Crète et dans le Péloponnèse, illustrant la gravité de la situation actuelle dans le pays. Dès l'apparition des flammes, attisées par des vents violents, plusieurs villages ont dû être évacués. En effet, deux pompiers ont été pris au piège dans la région plutôt tranquille de Rethymno, où ils ont trouvé une mort tragique. Un autre pompier a été découvert inconscient dans un secteur proche de Gytheio, une ville côtière. Par ailleurs, une nouvelle vague de chaleur a sonné l'alarme en Espagne et en France, où les pompiers sont constamment en alerte pour éviter que des incendies, à peine maîtrisés, ne se réenflamment. Des observateurs ont rapporté la rapidité de la propagation des feux, notamment en Crète, où le front principal du feu a atteint jusqu'à 15 kilomètres. Les résidents et les touristes de Krya Vrysi ont été évacués, et les témoignages soulignent l'ampleur de la tragédie : Chrissa Gioukaki a déclaré que \"les flammes étaient énormes, c'était terrifiant\". Pendant ce temps, des incidents similaires se produisent dans d'autres régions de la Grèce et en Turquie, illustrant la crise sécheresse exacerbée par le changement climatique.",
+        "vocabulary": [
+          {
+            "word": "tragédie",
+            "definition": "Événement très triste, souvent avec des conséquences désastreuses."
+          },
+          {
+            "word": "ravageur",
+            "definition": "Détruit gravement des biens ou des personnes."
+          },
+          {
+            "word": "alarme",
+            "definition": "Signal d'avertissement d'un danger."
+          },
+          {
+            "word": "témoignage",
+            "definition": "Récit d'une expérience personnelle."
+          },
+          {
+            "word": "exacerbé",
+            "definition": "Rendre quelque chose plus intense ou grave."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quels sont les deux endroits où les pompiers ont été victimes d'incendies?",
+            "options": [
+              "Crète et Péloponnèse",
+              "Athènes et Thessalonique",
+              "Madrid et Barcelone"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment se sont propagés les incendies en Crète?",
+            "options": [
+              "Rapidement",
+              "Lentement",
+              "Pas du tout"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel phénomène climatique est mentionné comme cause des incendies?",
+            "options": [
+              "La neige",
+              "La chaleur",
+              "Le vent"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Incendies dévastateurs en Grèce : Un hommage aux pompiers héroïques",
+        "text": "Alors que l'été occidental se transforme en un théâtre d'incendies dévastateurs, la Grèce pleure la perte tragique de trois de ses pompiers, morts en combattant des flammes ingérables sur les fronts de bataille de Crète et du Péloponnèse. Tandis que les rafales de vent ont attisé un brasier inextinguible, les habitants de Krya Vrysi ont été contraints à l'évacuation, leurs vies perturbées par l'imminence des flammes. Deux pompiers ont été tragiquement piégés dans la région de Rethymno, et un troisième a été retrouvé inconscient près de Gytheio, port du sud. Évoquant une quatrième vague de chaleur, l'Espagne et la France se battent aussi contre des incendies quasi incontrôlables, soulevant des inquiétudes quant aux conditions climatiques exacerbées par le changement global. Les témoignages des rescapés, tels que celui de Chrissa Gioukaki, exposent l'angoisse : \"Les flammes étaient immenses, et parfois, on ne pouvait même pas tenir debout à cause du vent\". Bien que les incendies en Crète soient principalement isolés, leur intensité a eu des répercussions sur l'ensemble de la région méditerranéenne, ravivant l'alerte en Turquie et provoquant des incidents similaires ailleurs. L'ironie réside dans le fait que, malgré des efforts désespérés, ces catastrophes rappellent indéniablement l'urgence de combattre le changement climatique.",
+        "vocabulary": [
+          {
+            "word": "théâtre",
+            "definition": "Lieu d'une action dramatique ou tragique."
+          },
+          {
+            "word": "ingérable",
+            "definition": "Impossible à contrôler ou à gérer."
+          },
+          {
+            "word": "constrains",
+            "definition": "Forcer quelqu'un à agir d'une certaine manière."
+          },
+          {
+            "word": "angoisse",
+            "definition": "Sentiment d'inquiétude profonde."
+          },
+          {
+            "word": "répercussions",
+            "definition": "Conséquences d'un événement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel événement tragique a touché la Grèce récemment?",
+            "options": [
+              "Une éruption volcanique",
+              "Des incendies de forêt",
+              "Un tsunami"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle phrase résume les sentiments des témoins des incendies?",
+            "options": [
+              "C'était calme et paisible",
+              "Les flamme étaient immenses, ça faisait peur",
+              "Il faisait frais et agréable"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel défi global est accentué par cette tragédie?",
+            "options": [
+              "L'inégalité économique",
+              "Le changement climatique",
+              "La paix mondiale"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Tres bomberos mueren en Grecia",
+        "text": "Tres bomberos de Grecia son héroes. Ellos luchan contra incendios en Creta y en Peloponeso. En Creta, hay un viento fuerte. Los bomberos ayudan a personas. Dos bomberos mueren en la región de Rethymno. Ellos están atrapados en un fuego. Otro bombero muere en Gytheio. Las llamas son muy grandes. En España, hay otra ola de calor. Los bomberos trabajan en muchos incendios. Ellos tratan de parar el fuego. Las personas evacuadas vuelven a sus casas. Es un tiempo difícil para todos.",
+        "vocabulary": [
+          {
+            "word": "bomberos",
+            "definition": "Personas que apagan fuegos."
+          },
+          {
+            "word": "incendios",
+            "definition": "Fuegos grandes en el campo."
+          },
+          {
+            "word": "rescatar",
+            "definition": "Salvar a personas o animales."
+          },
+          {
+            "word": "viento",
+            "definition": "Aire que sopla."
+          },
+          {
+            "word": "calor",
+            "definition": "Temperatura alta."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos bomberos mueren en Grecia?",
+            "options": [
+              "Dos",
+              "Tres",
+              "Cuatro"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde hay incendios?",
+            "options": [
+              "En Creta",
+              "En Japón",
+              "En Francia"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué ayudan los bomberos?",
+            "options": [
+              "A animales",
+              "A personas",
+              "A cosas"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Tres bomberos mueren en incendios en Grecia",
+        "text": "Tres bomberos de Grecia han muerto en incendios muy peligrosos. Ellos luchan contra fuegos grandes en Creta y Peloponeso. En Creta, hay un viento fuerte que aumenta las llamas, así que los incendios son incontrolables. Dos bomberos mueren en la región de Rethymno porque están atrapados en el fuego. Otro bombero muere en Gytheio cerca del mar mientras trabaja arduamente. Este verano, España también sufre por una ola de calor que lleva semanas. En España, hay muchos incendios y los bomberos trabajan sin parar. Ellos intentan parar las llamas para proteger a las personas. Algunas personas evacuadas pueden volver a sus casas después de un tiempo, pero sus casas están dañadas. Las temperaturas altas y el viento peligroso hacen que la situación sea muy complicada. Este verano ha sido difícil por los incendios y muchos se sienten muy asustados. Es importante ayudar a los bomberos a luchar contra el fuego.",
+        "vocabulary": [
+          {
+            "word": "bombero",
+            "definition": "persona que apaga incendios"
+          },
+          {
+            "word": "incendio",
+            "definition": "fuego grande que destruye algo"
+          },
+          {
+            "word": "evacuación",
+            "definition": "acción de salir de un lugar peligroso"
+          },
+          {
+            "word": "sufrir",
+            "definition": "experimentar dolor o daño"
+          },
+          {
+            "word": "dañado",
+            "definition": "que ha recibido daño o lesión"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos bomberos han muerto en Grecia?",
+            "options": [
+              "Tres",
+              "Cuatro",
+              "Dos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué región de Grecia murió uno de los bomberos?",
+            "options": [
+              "Rethymno",
+              "Athens",
+              "Colonia"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué hay problemas en España?",
+            "options": [
+              "Por frío",
+              "Por alta temperatura",
+              "Por agua"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Incendios forestales en Grecia causan la muerte de tres bomberos",
+        "text": "Tres bomberos griegos han muerto mientras luchan contra incendios en Creta y Peloponeso. La situación ha sido muy grave porque el viento fuerte ha avivado las llamas y ha forzado la evacuación de varias aldeas, como la de Krya Vrysi, donde los evacuados tenían miedo. Dos bomberos han muerto en la región de Rethymno, en la parte oeste de Creta. Ellos se quedaron atrapados en el fuego, lo que es especialmente trágico. Otro bombero se ha encontrado muerto en Gytheio, un pueblo costero en el sur del Peloponeso. Las condiciones han estado empeorando; por ejemplo, también hay una nueva ola de calor en España, lo que complica la tarea de los bomberos. En Granada y otras ciudades han sufrido incendios importantes. En total, en España han ardido más de 207,000 hectáreas este año, lo que demuestra que los incendios forestales están aumentando. Si esto continúa, los daños serán cada vez mayores. Al mismo tiempo, el cambio climático está incrementando la intensidad y la frecuencia de estos eventos en Europa. Existen muchas comunidades que han vivido grandes tragedias a causa de los incendios, y la recuperación es lenta. Es importante que todos tomemos conciencia sobre este problema, ya que si no actuamos rápidamente, el daño puede ser irreversible.",
+        "vocabulary": [
+          {
+            "word": "evacuación",
+            "definition": "la acción de dejar un lugar por seguridad"
+          },
+          {
+            "word": "intensidad",
+            "definition": "la fuerza o gravedad de un fenómeno"
+          },
+          {
+            "word": "consecuencia",
+            "definition": "el resultado de una acción o evento"
+          },
+          {
+            "word": "comunidad",
+            "definition": "un grupo de personas que viven en el mismo lugar"
+          },
+          {
+            "word": "daño",
+            "definition": "una lesión o perdida causada por un evento dañino"
+          },
+          {
+            "word": "recuperación",
+            "definition": "el proceso de volver a un estado normal después de un daño."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿En qué regiones de Grecia han muerto los bomberos?",
+            "options": [
+              "En Tesalónica y Atenas",
+              "En Creta y Peloponeso",
+              "En Rethymno y Gytheio"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántas hectáreas han ardido en España este año?",
+            "options": [
+              "Más de 200,000 hectáreas",
+              "Menos de 100,000 hectáreas",
+              "Más de 150,000 hectáreas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué causa está relacionada con el aumento de incendios forestales?",
+            "options": [
+              "El cambio climático",
+              "La falta de agua",
+              "El monotorización de la naturaleza"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Tres bomberos griegos mueren en incendios forestales en Europa del Sur",
+        "text": "Tres bomberos han fallecido en Grecia mientras combatían incendios intensos en Creta y en la región del Peloponeso. En Creta, los vientos huracanados avivaron las llamas, lo que llevó a la evacuación de varios pueblos; lamentablemente, dos bomberos perdieron la vida al quedar atrapados en el incendio que arrasó la zona de Rethymno. Otro bombero se encontró inconsciente cerca del puerto de Gytheio, en el Peloponeso meridional. En España y Francia, una cuarta ola de calor ha comenzado, complicando los esfuerzos de los bomberos para prevenir la reactivación de grandes incendios forestales recién controlados. Testigos relataron que varios incendios estallaron en Creta y se propagaron rápidamente, con un frente de fuego extendiéndose hasta 15 km. Residentes y turistas fueron evacuados de Krya Vrysi, el pueblo donde perdieron la vida los dos bomberos. \"El viento es increíble, a veces no puedes estar en pie. Las llamas eran enormes, realmente aterrador\", dijo la residente Chrissa Gioukaki a Reuters. Incendios también han surgido en otras islas griegas y en Turquía, donde se cerró un importante autopista. El Primer Ministro español, Pedro Sánchez, advirtió que las próximas 12 horas serán decisivas para extinguir un incendio cercano a Madrid. Hasta ahora, más de 43,000 hectáreas han sido consumidas por el fuego en Burgohondo, considerada la mayor conflagración en la historia de España.",
+        "vocabulary": [
+          {
+            "word": "fallecido",
+            "definition": "cuando alguien muere"
+          },
+          {
+            "word": "intenso",
+            "definition": "muy fuerte o grave"
+          },
+          {
+            "word": "evacuación",
+            "definition": "acción de dejar un lugar por peligro"
+          },
+          {
+            "word": "testigos",
+            "definition": "personas que ven un evento"
+          },
+          {
+            "word": "decisivas",
+            "definition": "muy importantes para el resultado"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos bomberos han fallecido en Grecia?",
+            "options": [
+              "Uno",
+              "Dos",
+              "Tres"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Dónde se produjeron los incendios mencionados?",
+            "options": [
+              "En Creta y Peloponeso",
+              "En Madrid",
+              "En París"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué dijo Pedro Sánchez sobre el incendio?",
+            "options": [
+              "Es un desastre",
+              "Las próximas horas son importantes",
+              "No hay problemas"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Incendios forestales en Grecia: una tragedia para los bomberos y un reto para Europa",
+        "text": "En un trágico suceso reciente, tres valientes bomberos griegos han perdido la vida mientras luchaban contra incendios devastadores en Creta y el Peloponeso. Las feroces ráfagas de viento no solo avivaron las llamas, sino que resultaron ser letales. En particular, dos bomberos fallecieron al quedar atrapados en la vertiginosa propagación del fuego en la región de Rethymno. Otro bombero, hallado inconsciente en Gytheio, representa un telling cruel de la realidad a la que se enfrentan los equipos de emergencia. Paralelamente, España y Francia se enfrentan a una cuarta ola de calor, exacerbando las condiciones de fuego en un contexto ya complicado. Testigos afirmaron que las llamas en Creta se extienden implacablemente, alcanzando hasta 15 km de alcance. Evacuaciones masivas han sido implementadas, afectando tanto a residentes como a turistas en áreas vulnerables como Krya Vrysi. Mientras esto ocurre, el Primer Ministro español, Pedro Sánchez, ha subrayado que las próximas 12 horas son cruciales para controlar un incendio cerca de Madrid, donde ya se han perdido más de 43,000 hectáreas en lo que se considera uno de los mayores desastres ecológicos en la historia reciente del país.",
+        "vocabulary": [
+          {
+            "word": "valientes",
+            "definition": "personas que no tienen miedo"
+          },
+          {
+            "word": "devastadores",
+            "definition": "que causan gran destrucción"
+          },
+          {
+            "word": "extensión",
+            "definition": "la distancia que cubre algo"
+          },
+          {
+            "word": "evacuaciones",
+            "definition": "acciones de hacer salir a personas de un área peligrosa"
+          },
+          {
+            "word": "cruciales",
+            "definition": "muy importantes para el resultado"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué le pasó a los bomberos en Creta?",
+            "options": [
+              "Perdieron la vida",
+              "Controlaron el fuego",
+              "Evacuaron a la gente"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué alerta se menciona sobre un incendio en la Capital de España?",
+            "options": [
+              "Es fácil de controlar",
+              "Las próximas horas son cruciales",
+              "Ya está extinguido"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es una de las consecuencias de la ola de calor?",
+            "options": [
+              "Menos incendios",
+              "Mayor riesgo de incendios",
+              "Mejor clima"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Catástrofe en el Mediterráneo: el sacrificio de los bomberos griegos ante la voracidad del fuego",
+        "text": "La reciente tragedia que ha cobrado la vida de tres bomberos en Grecia, inmersos en un combate feroz contra incendios que devoran Creta y el Peloponeso, es tanto un reflejo del heroísmo inquebrantable como del desafío inminente que enfrenta Europa a medida que el clima se torna cada vez más impredecible. Este episodio, marcado por vientos huracanados y llamas voraces que se expanden a razón de 15 km, no solo ha llevado a la evacuación de residentes y turistas, sino que ha evidenciado la fragilidad de sistemas de respuesta ante desastres naturales. En la península ibérica, la cuarta ola de calor intensifica un panorama ya de por sí sombrío; el Primer Ministro Pedro Sánchez ha calificado las próximas 12 horas como \"decisivas\" en la lucha por controlar un incendio en las cercanías de Madrid, donde más de 43,000 hectáreas han sucumbido a un fuego que resuena en la memoria colectiva como uno de los más devastadores en la historia española reciente. En este contexto, la intersección de la negligencia humana y el cambio climático plantea preguntas urgentes sobre la sostenibilidad y la capacidad de la humanidad para adaptarse a una nueva realidad, donde el fuego se convierte en un adversario constante, eterno e implacable.",
+        "vocabulary": [
+          {
+            "word": "inminente",
+            "definition": "que va a suceder muy pronto"
+          },
+          {
+            "word": "fragilidad",
+            "definition": "debilidad o vulnerabilidad"
+          },
+          {
+            "word": "voces",
+            "definition": "sonidos que expresan opiniones o sentimientos"
+          },
+          {
+            "word": "negligencia",
+            "definition": " falta de atención o cuidado"
+          },
+          {
+            "word": "devastadores",
+            "definition": "que causan daño severo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué han evidenciado los incendios en Grecia sobre los sistemas de respuesta?",
+            "options": [
+              "Son eficaces siempre",
+              "Son frágiles ante desastres",
+              "No existen esos sistemas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo ha sido calificado el incendio cerca de Madrid?",
+            "options": [
+              "Menos grave que otros",
+              "Uno de los más devastadores",
+              "Controlado y seguro"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué plantea el cambio climático según el texto?",
+            "options": [
+              "No hay consecuencias",
+              "Un desafío constante",
+              "Es fácil de manejar"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "drei": "three",
+      "feuerwehrleute": "firefighters",
+      "sterben": "to die",
+      "in": "in",
+      "griechenland": "Greece",
+      "sie": "they",
+      "löschen": "to extinguish",
+      "feuer": "fire",
+      "die": "the",
+      "sind": "are",
+      "kreta": "Crete",
+      "und": "and",
+      "im": "in the",
+      "peloponnes": "Peloponnese",
+      "starke": "strong",
+      "winde": "winds",
+      "helfen": "to help",
+      "den": "the",
+      "flammen": "flames",
+      "zwei": "two",
+      "rethymno": "Rethymno",
+      "eine": "a",
+      "feuerwehrfrau": "firefighter",
+      "ist": "is",
+      "gytheio": "Gytheio",
+      "gestorben": "died",
+      "menschen": "people",
+      "müssen": "must",
+      "ihre": "their",
+      "dörfer": "villages",
+      "verlassen": "to leave",
+      "es": "it",
+      "gibt": "gives",
+      "auch": "also",
+      "anderen": "other",
+      "gegenden": "areas",
+      "spanien": "spain",
+      "sehr": "very",
+      "heiß": "hot",
+      "madrid": "madrid",
+      "gefährlich": "dangerous",
+      "viele": "many",
+      "wohnen": "to live",
+      "sicherheit": "security",
+      "feuerwehr": "fire department",
+      "kämpft": "fights",
+      "gegen": "against",
+      "lage": "situation",
+      "ernst": "serious",
+      "braucht": "needs",
+      "hilfe": "help",
+      "haben": "to have",
+      "gelöscht": "deleted",
+      "gefährden": "endanger",
+      "waren": "were",
+      "der": "the",
+      "region": "region",
+      "wo": "where",
+      "brennen": "to burn",
+      "andere": "other",
+      "starb": "died",
+      "das": "that",
+      "aber": "but",
+      "bedingungen": "conditions",
+      "schwierig": "difficult",
+      "weil": "because",
+      "schnell": "quickly",
+      "luft": "air",
+      "griechenland-evakuierungen": "Greece evacuations",
+      "betreffen": "to affect",
+      "wie": "like",
+      "krya": "Krya",
+      "vrysi": "Vrysi",
+      "ein": "a",
+      "großes": "large",
+      "arbeitet": "works",
+      "hart": "hard",
+      "will": "wants",
+      "stoppen": "to stop",
+      "erwarten": "expect",
+      "dass": "that",
+      "wetter": "weather",
+      "schlimmer": "worse",
+      "wird": "will",
+      "mehr": "more",
+      "situation": "situation",
+      "schäden": "damages",
+      "bekommen": "to get",
+      "essen": "food",
+      "von": "from",
+      "mutig": "brave",
+      "denn": "because",
+      "retten": "to save",
+      "leben": "life",
+      "durch": "through",
+      "waldbrände": "wildfires",
+      "während": "during",
+      "gefährliche": "dangerous",
+      "kämpften": "fought",
+      "diese": "this",
+      "brände": "fires",
+      "besonders": "especially",
+      "auf": "to",
+      "insel": "island",
+      "ausgebrochen": "broke out",
+      "sorgen": "concerns",
+      "dafür": "for that",
+      "sich": "oneself",
+      "ausbreiten": "to spread",
+      "versuchten": "attempted",
+      "zu": "to",
+      "schützen": "to protect",
+      "gefunden": "found",
+      "worden": "been",
+      "ebenfalls": "also",
+      "verschärft": "intensified",
+      "hat": "has",
+      "evakuiert": "evacuated",
+      "werden": "will",
+      "nah": "near",
+      "risiko": "risk",
+      "steigt": "rises",
+      "große": "large",
+      "da": "there",
+      "heißer": "hot",
+      "trockener": "drier",
+      "wenn": "if",
+      "temperaturen": "temperatures",
+      "weiter": "continue",
+      "steigen": "rise",
+      "noch": "still",
+      "kritischer": "critical",
+      "immer": "always",
+      "berichte": "reports",
+      "über": "about",
+      "zum": "to the",
+      "beispiel": "example",
+      "inseln": "islands",
+      "paros": "Paros",
+      "lesbos": "Lesbos",
+      "betroffene": "affected",
+      "sowohl": "both",
+      "bewohner": "inhabitant",
+      "als": "than",
+      "touristen": "tourists",
+      "unterstützung": "support",
+      "notwendig": "necessary",
+      "gebiete": "areas",
+      "gefahr": "danger",
+      "freiwillige": "volunteers",
+      "überall": "everywhere",
+      "um": "around",
+      "unterstützen": "to support",
+      "überwachen": "to monitor",
+      "verlust": "loss",
+      "dieser": "this",
+      "zeigt": "shows",
+      "betroffenen": "affected",
+      "gebieten": "areas",
+      "jetzt": "now",
+      "freunden": "friends",
+      "familie": "family",
+      "organisationen": "organizations",
+      "krisenzeiten": "crisis times",
+      "wichtig": "important",
+      "wir": "we",
+      "gemeinsam": "together",
+      "auswirkungen": "effects",
+      "des": "of the",
+      "klimawandels": "climate change",
+      "kämpfen": "to fight",
+      "griechische": "Greek",
+      "bei": "at",
+      "waldbränden": "wildfires",
+      "südeuropa": "southern europe",
+      "ums": "around",
+      "gekommen": "come",
+      "bekämpfen": "to combat",
+      "führte": "led",
+      "sturm": "storm",
+      "intensiven": "intensive",
+      "evakuierung": "evacuation",
+      "mehrerer": "several",
+      "erforderlich": "necessary",
+      "machten": "made",
+      "starben": "died",
+      "gefangen": "caught",
+      "wurden": "were",
+      "weiterer": "further",
+      "löschmann": "firefighter",
+      "nähe": "proximity",
+      "hafenstadt": "port city",
+      "tot": "dead",
+      "aufgefunden": "found",
+      "wurde": "was",
+      "zwischenzeit": "interim",
+      "vierte": "fourth",
+      "hitzewelle": "heatwave",
+      "diesem": "this",
+      "sommer": "summer",
+      "frankreich": "france",
+      "begonnen": "begun",
+      "versuchen": "to try",
+      "aufflackern": "flicker",
+      "verhindern": "to prevent",
+      "gerade": "just",
+      "unter": "under",
+      "kontrolle": "control",
+      "gebracht": "brought",
+      "zeugen": "witnesses",
+      "berichteten": "reported",
+      "mehreren": "several",
+      "bränden": "fires",
+      "rasch": "quickly",
+      "ausbreiteten": "spread",
+      "schlimmste": "worst",
+      "mit": "with",
+      "einer": "one",
+      "front": "front",
+      "bis": "up to",
+      "kilometern": "kilometers",
+      "länge": "length",
+      "aus": "from",
+      "beiden": "both",
+      "wind": "wind",
+      "unglaublich": "incredible",
+      "man": "one",
+      "kann": "can",
+      "manchmal": "sometimes",
+      "nicht": "not",
+      "stehen": "to stand",
+      "sagte": "said",
+      "anwohnerin": "resident",
+      "chrissa": "Chrissa",
+      "gioukaki": "Gioukaki",
+      "gegenüber": "towards",
+      "reuters": "Reuters",
+      "neben": "besides",
+      "ägäischen": "Aegean",
+      "sowie": "as well as",
+      "trifylia": "Trifylia",
+      "stadt": "city",
+      "dem": "the",
+      "griechischen": "Greek",
+      "festland": "mainland",
+      "türkei": "Turkey",
+      "musste": "had to",
+      "hauptstraße": "main street",
+      "zwischen": "between",
+      "fethiye": "Fethiye",
+      "antalya": "Antalya",
+      "wegen": "because of",
+      "eines": "one",
+      "feuers": "fire's",
+      "provinz": "province",
+      "muğla": "Muğla",
+      "geschlossen": "closed",
+      "spanische": "Spanish",
+      "premierminister": "prime minister",
+      "pedro": "Pedro",
+      "sánchez": "Sánchez",
+      "gewarnt": "warned",
+      "nächsten": "next",
+      "zwölf": "twelve",
+      "stunden": "hours",
+      "entscheidend": "crucial",
+      "sein": "his",
+      "einen": "a",
+      "brand": "fire",
+      "verlieren": "to lose",
+      "ihr": "your",
+      "verheerenden": "devastating",
+      "verloren": "lost",
+      "verzweifelt": "desperate",
+      "heftige": "heavy",
+      "verstärkt": "intensified",
+      "was": "what",
+      "zur": "to the",
+      "zahlreicher": "numerous",
+      "tragischerweise": "tragically",
+      "eingeschlossen": "trapped",
+      "hafens": "port's",
+      "gleichzeitig": "simultaneously",
+      "startete": "launched",
+      "einsatz": "effort",
+      "aufflammen": "flare-up",
+      "zuvor": "previously",
+      "ausbreitenden": "spreading",
+      "deren": "their",
+      "schlimmster": "worst",
+      "erreichte": "achieved",
+      "anwohner": "resident",
+      "urlauber": "holidaymaker",
+      "mussten": "had to",
+      "unerträglich": "intolerable",
+      "kaum": "hardly",
+      "bewohnerin": "inhabitant",
+      "hauptverkehrsstraße": "main road",
+      "aufgrund": "due to",
+      "muğla-provinz": "Muğla province",
+      "gesperrt": "blocked",
+      "kündigte": "announced",
+      "an": "at",
+      "für": "for",
+      "bekämpfung": "combat",
+      "brandes": "fire",
+      "einem": "a",
+      "tragischen": "tragic",
+      "vorfall": "incident",
+      "tapfer": "brave",
+      "heftig": "intense",
+      "wütete": "raged",
+      "befanden": "found",
+      "leider": "unfortunately",
+      "kamen": "came",
+      "einsatzleiter": "incident commander",
+      "bewusstlos": "unconscious",
+      "dramatik": "drama",
+      "unterstreicht": "emphasizes",
+      "währenddessen": "meanwhile",
+      "nahm": "took",
+      "umfangreiche": "extensive",
+      "europa": "europe",
+      "heimgesucht": "haunted",
+      "wodurch": "to which",
+      "einsatzkräfte": "emergency forces",
+      "gezwungen": "forced",
+      "akribischer": "meticulous",
+      "wiederaufflammen": "rekindling",
+      "vorzugehen": "to proceed",
+      "nur": "only",
+      "mühsam": "laborious",
+      "mehrere": "several",
+      "erstreckten": "extended",
+      "diverse": "diverse",
+      "zwangen": "forced",
+      "schilderte": "described",
+      "interview": "interview",
+      "so": "so",
+      "war": "was",
+      "oft": "often",
+      "konnte": "could",
+      "sorgten": "caused",
+      "schließung": "closure",
+      "warnte": "warned",
+      "könnten": "could",
+      "angesichts": "in the face of",
+      "höherer": "higher",
+      "labiler": "unstable",
+      "wetterlagen": "weather conditions",
+      "bleibt": "stays",
+      "äußerst": "extremely",
+      "angespannt": "tense"
+    },
+    "fr": {
+      "trois": "three",
+      "pompiers": "firefighters",
+      "en": "in",
+      "grèce": "greece",
+      "meurent": "die",
+      "ils": "they",
+      "combattent": "fight",
+      "des": "some",
+      "incendies": "fires",
+      "sur": "about",
+      "les": "the",
+      "îles": "islands",
+      "grecques": "greek",
+      "sont": "are",
+      "île": "island",
+      "de": "of",
+      "crète": "crete",
+      "et": "and",
+      "dans": "in",
+      "la": "the",
+      "péloponnèse": "peloponnese",
+      "il": "he",
+      "beaucoup": "a lot",
+      "vent": "wind",
+      "ce": "this",
+      "aide": "help",
+      "le": "the",
+      "feu": "fire",
+      "se": "yourself",
+      "propager": "to spread",
+      "deux": "two",
+      "piégés": "trapped",
+      "rethymno": "rethymno",
+      "un": "a",
+      "pompier": "firefighter",
+      "est": "is",
+      "trouvé": "found",
+      "inconscient": "unconscious",
+      "villages": "villages",
+      "autour": "around",
+      "évacués": "evacuated",
+      "gens": "people",
+      "très": "very",
+      "inquiets": "worried",
+      "cause": "cause",
+      "situation": "situation",
+      "espagne": "Spain",
+      "aussi": "also",
+      "graves": "serious",
+      "fuient": "flee",
+      "leurs": "their",
+      "maisons": "houses",
+      "différentes": "different",
+      "régions": "regions",
+      "essaient": "try",
+      "arrêter": "to stop",
+      "mais": "but",
+      "travail": "work",
+      "difficile": "difficult",
+      "chaleur": "heat",
+      "forte": "strong",
+      "souffle": "breath",
+      "fort": "strong",
+      "grecs": "greeks",
+      "morts": "deaths",
+      "grands": "big",
+      "produisent": "produce",
+      "plusieurs": "several",
+      "endroits": "places",
+      "surtout": "especially",
+      "vents": "winds",
+      "violents": "violent",
+      "propagent": "spread",
+      "flammes": "flames",
+      "rapidement": "quickly",
+      "devenant": "becoming",
+      "région": "region",
+      "autre": "other",
+      "près": "near",
+      "gytheio": "gytheio",
+      "une": "a",
+      "ville": "city",
+      "portuaire": "port",
+      "sud": "south",
+      "cette": "this",
+      "triste": "sad",
+      "pour": "for",
+      "familles": "families",
+      "amis": "friends",
+      "nombreux": "many",
+      "villageois": "villager",
+      "doivent": "must",
+      "fuir": "to flee",
+      "leur": "their",
+      "maison": "house",
+      "protéger": "to protect",
+      "vie": "life",
+      "france": "France",
+      "travaillent": "work",
+      "veulent": "want",
+      "éviter": "avoiding",
+      "nouveaux": "new",
+      "feux": "fires",
+      "premier": "first",
+      "ministre": "minister",
+      "dit": "says",
+      "que": "that",
+      "prochaines": "next",
+      "heures": "hours",
+      "importantes": "important",
+      "été": "been",
+      "sécheresse": "drought",
+      "qui": "who",
+      "augmente": "increases",
+      "risques": "risks",
+      "habitants": "inhabitants",
+      "certains": "some",
+      "ont": "have",
+      "sécurité": "security",
+      "perdent": "lose",
+      "perdu": "lost",
+      "combattant": "fighter",
+      "terribles": "terrible",
+      "forts": "strong",
+      "amplifié": "amplified",
+      "provoquant": "causing",
+      "évacuation": "evacuation",
+      "effet": "effect",
+      "engagés": "engaged",
+      "efforts": "efforts",
+      "désespérés": "desperate",
+      "maîtriser": "to master",
+      "entre": "between",
+      "eux": "them",
+      "retrouvé": "found",
+      "dramatique": "dramatic",
+      "touché": "hit",
+      "nombreuses": "numerous",
+      "dû": "had to",
+      "plus": "more",
+      "touristes": "tourists",
+      "trouvaient": "found",
+      "également": "also",
+      "ces": "these",
+      "zones": "zones",
+      "menacées": "threatened",
+      "par": "by",
+      "averti": "warned",
+      "seraient": "would be",
+      "cruciales": "crucial",
+      "éteindre": "to extinguish",
+      "incendie": "fire",
+      "madrid": "Madrid",
+      "températures": "temperatures",
+      "élevées": "high",
+      "faible": "weak",
+      "taux": "rate",
+      "humidité": "humidity",
+      "compliquent": "complicate",
+      "au": "at the",
+      "total": "total",
+      "enregistré": "recorded",
+      "année": "year",
+      "hectares": "hectares",
+      "brûlés": "burned",
+      "si": "if",
+      "continuent": "continue",
+      "travailler": "to work",
+      "arrache-pied": "hard work",
+      "autres": "others",
+      "essentiel": "essential",
+      "attendre": "to wait",
+      "pluie": "rain",
+      "soulager": "to relieve",
+      "autorités": "authorities",
+      "ordonné": "ordered",
+      "évacuations": "evacuations",
+      "maintenant": "now",
+      "reconstruire": "to rebuild",
+      "désastre": "disaster",
+      "souligne": "highlights",
+      "importance": "importance",
+      "préparation": "preparation",
+      "faire": "to do",
+      "face": "face",
+      "situations": "situations",
+      "urgence": "emergency",
+      "périssent": "perish",
+      "forêt": "forest",
+      "europe": "Europe",
+      "du": "of the",
+      "luttant": "struggling",
+      "contre": "against",
+      "attisé": "stirred",
+      "entraînant": "leading",
+      "après": "after",
+      "avoir": "to have",
+      "lorsque": "when",
+      "traversé": "crossed",
+      "ouest": "west",
+      "pendant": "during",
+      "temps": "weather",
+      "quatrième": "fourth",
+      "vague": "wave",
+      "commencé": "started",
+      "où": "where",
+      "tentent": "attempt",
+      "regain": "regain",
+      "majeurs": "major",
+      "viennent": "come",
+      "peine": "sentence",
+      "être": "to be",
+      "maîtrisés": "controlled",
+      "témoins": "witnesses",
+      "rapporté": "reported",
+      "étaient": "were",
+      "déclenchés": "triggered",
+      "propagés": "spread",
+      "front": "front",
+      "étendu": "extended",
+      "atteignant": "reaching",
+      "jusqu'à": "up to",
+      "km": "km",
+      "krya": "krya",
+      "vrysi": "vrysi",
+      "village": "village",
+      "montagne": "mountain",
+      "incroyable": "incredible",
+      "on": "one",
+      "ne": "not",
+      "peut": "can",
+      "parfois": "sometimes",
+      "pas": "not",
+      "rester": "to stay",
+      "debout": "standing",
+      "immenses": "immense",
+      "était": "was",
+      "vraiment": "really",
+      "effrayant": "frightening",
+      "déclaré": "stated",
+      "chrissa": "chrissa",
+      "gioukaki": "gioukaki",
+      "déclarés": "declared",
+      "ainsi": "thus",
+      "trifylia": "trifylia",
+      "continent": "continent",
+      "turquie": "Turkey",
+      "route": "road",
+      "principale": "main",
+      "fermée": "closed",
+      "espagnol": "Spanish",
+      "suivantes": "following",
+      "seront": "will be",
+      "décisives": "decisive",
+      "tragédie": "tragedy",
+      "tuent": "kill",
+      "succombé": "succumbed",
+      "ravageurs": "pests",
+      "illustrant": "illustrating",
+      "gravité": "seriousness",
+      "actuelle": "current",
+      "pays": "country",
+      "dès": "as soon as",
+      "apparition": "appearance",
+      "attisées": "stoked",
+      "pris": "taken",
+      "piège": "trap",
+      "plutôt": "rather",
+      "tranquille": "calm",
+      "mort": "death",
+      "tragique": "tragic",
+      "découvert": "discovered",
+      "secteur": "sector",
+      "proche": "close",
+      "côtière": "coastal",
+      "ailleurs": "elsewhere",
+      "nouvelle": "new",
+      "sonné": "sounded",
+      "alarme": "alarm",
+      "constamment": "constantly",
+      "alerte": "alert",
+      "réenflamment": "reignite",
+      "observateurs": "observers",
+      "rapidité": "speed",
+      "propagation": "propagation",
+      "notamment": "notably",
+      "principal": "main",
+      "atteint": "reaches",
+      "kilomètres": "kilometers",
+      "résidents": "residents",
+      "témoignages": "testimonies",
+      "soulignent": "underline",
+      "ampleur": "scale",
+      "énormes": "huge",
+      "terrifiant": "terrifying",
+      "incidents": "incidents",
+      "similaires": "similar",
+      "crise": "crisis",
+      "exacerbée": "exacerbated",
+      "changement": "change",
+      "climatique": "climate",
+      "dévastateurs": "devastating",
+      "hommage": "homage",
+      "aux": "to the",
+      "héroïques": "heroic",
+      "alors": "then",
+      "occidental": "western",
+      "transforme": "transforms",
+      "théâtre": "theater",
+      "pleure": "weeps",
+      "perte": "loss",
+      "ses": "his",
+      "ingérables": "unmanageable",
+      "fronts": "fronts",
+      "bataille": "battle",
+      "tandis": "while",
+      "rafales": "gusts",
+      "brasier": "blaze",
+      "inextinguible": "inextinguishable",
+      "contraints": "constrained",
+      "vies": "lives",
+      "perturbées": "disrupted",
+      "imminence": "imminence",
+      "tragiquement": "tragically",
+      "troisième": "third",
+      "port": "port",
+      "évoquant": "evoking",
+      "battent": "hit",
+      "quasi": "almost",
+      "incontrôlables": "uncontrollable",
+      "soulevant": "raising",
+      "inquiétudes": "worries",
+      "quant": "regarding",
+      "conditions": "conditions",
+      "climatiques": "climatic",
+      "exacerbées": "exacerbated",
+      "global": "global",
+      "rescapés": "survivors",
+      "tels": "such",
+      "celui": "the one",
+      "exposent": "expose",
+      "angoisse": "anguish",
+      "pouvait": "could",
+      "même": "even",
+      "tenir": "to hold",
+      "bien": "well",
+      "soient": "are",
+      "principalement": "mainly",
+      "isolés": "isolated",
+      "intensité": "intensity",
+      "eu": "had",
+      "répercussions": "repercussions",
+      "ensemble": "together",
+      "méditerranéenne": "mediterranean",
+      "ravivant": "reviving",
+      "ironie": "irony",
+      "réside": "resides",
+      "fait": "makes",
+      "malgré": "despite",
+      "catastrophes": "disasters",
+      "rappellent": "remind",
+      "indéniablement": "undeniably",
+      "combattre": "to fight"
+    },
+    "es": {
+      "tres": "three",
+      "bomberos": "firefighters",
+      "mueren": "die",
+      "en": "in",
+      "grecia": "greece",
+      "de": "of",
+      "son": "are",
+      "héroes": "heroes",
+      "ellos": "they",
+      "luchan": "fight",
+      "contra": "against",
+      "incendios": "fires",
+      "creta": "crete",
+      "peloponeso": "peloponnese",
+      "hay": "there is",
+      "un": "a",
+      "viento": "wind",
+      "fuerte": "strong",
+      "los": "the",
+      "ayudan": "help",
+      "personas": "people",
+      "dos": "two",
+      "la": "the",
+      "región": "region",
+      "rethymno": "rethymno",
+      "están": "are",
+      "atrapados": "trapped",
+      "fuego": "fire",
+      "otro": "other",
+      "bombero": "firefighter",
+      "muere": "dies",
+      "gytheio": "gytheio",
+      "las": "the",
+      "llamas": "flames",
+      "muy": "very",
+      "grandes": "large",
+      "españa": "spain",
+      "otra": "another",
+      "ola": "wave",
+      "calor": "heat",
+      "trabajan": "work",
+      "muchos": "many",
+      "tratan": "to try",
+      "parar": "to stop",
+      "el": "the",
+      "evacuadas": "evacuated",
+      "vuelven": "come back",
+      "sus": "their",
+      "casas": "houses",
+      "es": "is",
+      "tiempo": "time",
+      "difícil": "difficult",
+      "para": "to",
+      "todos": "all",
+      "han": "they have",
+      "muerto": "dead",
+      "peligrosos": "dangerous",
+      "fuegos": "fires",
+      "que": "that",
+      "aumenta": "increases",
+      "así": "thus",
+      "incontrolables": "uncontrollable",
+      "porque": "because",
+      "cerca": "near",
+      "del": "of the",
+      "mar": "sea",
+      "mientras": "while",
+      "trabaja": "works",
+      "arduamente": "hard",
+      "este": "this",
+      "verano": "summer",
+      "también": "also",
+      "sufre": "suffers",
+      "por": "for",
+      "una": "a",
+      "lleva": "carries",
+      "semanas": "weeks",
+      "sin": "without",
+      "intentan": "attempt",
+      "proteger": "to protect",
+      "algunas": "some",
+      "pueden": "can",
+      "volver": "to return",
+      "después": "after",
+      "pero": "but",
+      "dañadas": "damaged",
+      "temperaturas": "temperatures",
+      "altas": "high",
+      "peligroso": "dangerous",
+      "hacen": "do",
+      "situación": "situation",
+      "sea": "be",
+      "complicada": "complicated",
+      "ha": "has",
+      "sido": "been",
+      "se": "oneself",
+      "sienten": "feel",
+      "asustados": "scared",
+      "importante": "important",
+      "ayudar": "to help",
+      "luchar": "to fight",
+      "forestales": "forest",
+      "causan": "cause",
+      "muerte": "death",
+      "griegos": "greeks",
+      "grave": "serious",
+      "avivado": "revived",
+      "forzado": "forced",
+      "evacuación": "evacuation",
+      "varias": "several",
+      "aldeas": "villages",
+      "como": "like",
+      "krya": "cold",
+      "vrysi": "spring",
+      "donde": "where",
+      "evacuados": "evacuated",
+      "tenían": "had",
+      "miedo": "fear",
+      "parte": "part",
+      "oeste": "west",
+      "quedaron": "remained",
+      "lo": "it",
+      "especialmente": "especially",
+      "trágico": "tragic",
+      "encontrado": "found",
+      "pueblo": "people",
+      "costero": "coastal",
+      "sur": "south",
+      "condiciones": "conditions",
+      "estado": "state",
+      "empeorando": "worsening",
+      "ejemplo": "example",
+      "nueva": "new",
+      "complica": "complicates",
+      "tarea": "task",
+      "granada": "pomegranate",
+      "otras": "other",
+      "ciudades": "cities",
+      "sufrido": "suffered",
+      "importantes": "important",
+      "total": "total",
+      "ardido": "burned",
+      "más": "more",
+      "hectáreas": "hectares",
+      "año": "year",
+      "demuestra": "demonstrates",
+      "aumentando": "increasing",
+      "si": "if",
+      "esto": "this",
+      "continúa": "continues",
+      "daños": "damages",
+      "serán": "will be",
+      "cada": "each",
+      "vez": "time",
+      "mayores": "greater",
+      "al": "to the",
+      "mismo": "same",
+      "cambio": "change",
+      "climático": "climatic",
+      "está": "is",
+      "incrementando": "increasing",
+      "intensidad": "intensity",
+      "frecuencia": "frequency",
+      "estos": "these",
+      "eventos": "events",
+      "europa": "europe",
+      "existen": "exist",
+      "muchas": "many",
+      "comunidades": "communities",
+      "vivido": "lived",
+      "tragedias": "tragedies",
+      "causa": "cause",
+      "recuperación": "recovery",
+      "lenta": "slow",
+      "tomemos": "let's take",
+      "conciencia": "awareness",
+      "sobre": "about",
+      "problema": "problem",
+      "ya": "already",
+      "no": "not",
+      "actuamos": "we act",
+      "rápidamente": "quickly",
+      "daño": "damage",
+      "puede": "can",
+      "ser": "to be",
+      "irreversible": "irreversible",
+      "fallecido": "deceased",
+      "combatían": "fought",
+      "intensos": "intense",
+      "vientos": "winds",
+      "huracanados": "hurricane-force",
+      "avivaron": "rekindled",
+      "llevó": "took",
+      "varios": "several",
+      "pueblos": "towns",
+      "lamentablemente": "unfortunately",
+      "perdieron": "lost",
+      "vida": "life",
+      "quedar": "to remain",
+      "incendio": "fire",
+      "arrasó": "devastated",
+      "zona": "zone",
+      "encontró": "found",
+      "inconsciente": "unconscious",
+      "puerto": "port",
+      "meridional": "southern",
+      "francia": "france",
+      "cuarta": "fourth",
+      "comenzado": "started",
+      "complicando": "complicating",
+      "esfuerzos": "efforts",
+      "prevenir": "to prevent",
+      "reactivación": "reactivation",
+      "recién": "recently",
+      "controlados": "controlled",
+      "testigos": "witnesses",
+      "relataron": "reported",
+      "estallaron": "burst",
+      "propagaron": "spread",
+      "con": "with",
+      "frente": "front",
+      "hasta": "until",
+      "km": "km",
+      "residentes": "residents",
+      "turistas": "tourists",
+      "fueron": "they were",
+      "increíble": "incredible",
+      "veces": "times",
+      "puedes": "you can",
+      "estar": "to be",
+      "pie": "foot",
+      "eran": "they were",
+      "enormes": "huge",
+      "realmente": "really",
+      "aterrador": "terrifying",
+      "dijo": "said",
+      "residente": "resident",
+      "chrissa": "chrissa",
+      "gioukaki": "gioukaki",
+      "reuters": "reuters",
+      "surgido": "arisen",
+      "islas": "islands",
+      "griegas": "greek",
+      "turquía": "Turkey",
+      "cerró": "closed",
+      "autopista": "highway",
+      "primer": "first",
+      "ministro": "minister",
+      "español": "Spanish",
+      "pedro": "peter",
+      "sánchez": "sánchez",
+      "advirtió": "warned",
+      "próximas": "next",
+      "horas": "hours",
+      "decisivas": "decisive",
+      "extinguir": "to extinguish",
+      "cercano": "close",
+      "madrid": "Madrid",
+      "ahora": "now",
+      "consumidas": "consumed",
+      "burgohondo": "Burgohondo",
+      "considerada": "considered",
+      "mayor": "greater",
+      "conflagración": "conflagration",
+      "historia": "story",
+      "tragedia": "tragedy",
+      "reto": "challenge",
+      "suceso": "event",
+      "reciente": "recent",
+      "valientes": "brave",
+      "perdido": "lost",
+      "luchaban": "fought",
+      "devastadores": "devastating",
+      "feroces": "ferocious",
+      "ráfagas": "gusts",
+      "solo": "only",
+      "sino": "but",
+      "resultaron": "resulted",
+      "letales": "lethal",
+      "particular": "particular",
+      "fallecieron": "died",
+      "vertiginosa": "dizzying",
+      "propagación": "spread",
+      "hallado": "found",
+      "representa": "represents",
+      "telling": "telling",
+      "cruel": "cruel",
+      "realidad": "reality",
+      "enfrentan": "they face",
+      "equipos": "teams",
+      "emergencia": "emergency",
+      "paralelamente": "parallelly",
+      "exacerbando": "exacerbating",
+      "contexto": "context",
+      "complicado": "complicated",
+      "afirmaron": "asserted",
+      "extienden": "extend",
+      "implacablemente": "relentlessly",
+      "alcanzando": "reaching",
+      "alcance": "range",
+      "evacuaciones": "evacuations",
+      "masivas": "massive",
+      "implementadas": "implemented",
+      "afectando": "affecting",
+      "tanto": "so much",
+      "áreas": "areas",
+      "vulnerables": "vulnerable",
+      "ocurre": "occurs",
+      "subrayado": "underlined",
+      "cruciales": "crucial",
+      "controlar": "to control",
+      "considera": "considers",
+      "uno": "one",
+      "desastres": "disasters",
+      "ecológicos": "ecological",
+      "país": "country",
+      "catástrofe": "catastrophe",
+      "mediterráneo": "Mediterranean",
+      "sacrificio": "sacrifice",
+      "ante": "in the face of",
+      "voracidad": "greed",
+      "cobrado": "paid",
+      "inmersos": "immersed",
+      "combate": "combat",
+      "feroz": "ferocious",
+      "devoran": "devour",
+      "reflejo": "reflection",
+      "heroísmo": "heroism",
+      "inquebrantable": "unbreakable",
+      "desafío": "challenge",
+      "inminente": "imminent",
+      "enfrenta": "faces",
+      "medida": "measure",
+      "clima": "climate",
+      "torna": "turns",
+      "impredecible": "unpredictable",
+      "episodio": "episode",
+      "marcado": "marked",
+      "voraces": "voracious",
+      "expanden": "expand",
+      "razón": "reason",
+      "llevado": "carried",
+      "evidenciado": "evidenced",
+      "fragilidad": "fragility",
+      "sistemas": "systems",
+      "respuesta": "response",
+      "naturales": "natural",
+      "península": "peninsula",
+      "ibérica": "iberian",
+      "intensifica": "intensifies",
+      "panorama": "outlook",
+      "sí": "yes",
+      "sombrío": "gloomy",
+      "calificado": "qualified",
+      "lucha": "struggle",
+      "cercanías": "surroundings",
+      "sucumbido": "succumbed",
+      "resuena": "resonates",
+      "memoria": "memory",
+      "colectiva": "collective",
+      "española": "spanish",
+      "intersección": "intersection",
+      "negligencia": "negligence",
+      "humana": "human",
+      "plantea": "raises",
+      "preguntas": "questions",
+      "urgentes": "urgent",
+      "sostenibilidad": "sustainability",
+      "capacidad": "capacity",
+      "humanidad": "humanity",
+      "adaptarse": "to adapt",
+      "convierte": "turns",
+      "adversario": "adversary",
+      "constante": "constant",
+      "eterno": "eternal",
+      "implacable": "implacable"
+    }
+  }
+}
