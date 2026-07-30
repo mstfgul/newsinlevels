@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-30-the-image-book-jean-luc-godard",
+    "date": "2026-07-30",
+    "director": "Jean-Luc Godard",
+    "image": "https://image.tmdb.org/t/p/w780/5y1mTTYPVvaPeKIVqy3DymE6osv.jpg",
+    "titles": {
+      "en": "The Image Book",
+      "de": "Das Bildbuch – Ein Film von Jean-Luc Godard",
+      "fr": "Le Livre d'image",
+      "es": "El libro de la imagen"
+    }
+  },
+  {
     "id": "2026-07-29-the-last-days-of-disco-whit-stillman",
     "date": "2026-07-29",
     "director": "Whit Stillman",
