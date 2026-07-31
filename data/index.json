@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-07-31-ac-milan-and-italy-great-baresi-dies-aged-66",
+    "date": "2026-07-31",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a661/live/91ce3570-8cac-11f1-a1f4-f50057266998.jpg",
+    "category": "sport",
+    "titles": {
+      "en": "Franco Baresi, AC Milan Legend, Has Died",
+      "de": "Franco Baresi verstorben: Eine Fußballlegende",
+      "fr": "La vie et la carrière de Franco Baresi",
+      "es": "Franco Baresi fallece a los 66 años"
+    }
+  },
+  {
+    "id": "2026-07-31-if-hamas-disarmament-plan-holds-it-could-mark-first-credible",
+    "date": "2026-07-31",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2db1/live/201701f0-8c7f-11f1-8972-83c327826a89.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Hamas Accepts Disarmament Plan Amid Uncertainty",
+      "de": "Hamas akzeptiert Friedensplan zur Abrüstung",
+      "fr": "Hamas et le plan de désarmement à Gaza",
+      "es": "Hamas acepta un importante plan de desarme"
+    }
+  },
+  {
+    "id": "2026-07-31-hamas-says-it-has-agreed-to-disarm-after-trump-announces-boa",
+    "date": "2026-07-31",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ad1/live/af28c2f0-8c81-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump and Hamas Reach Peace Agreement in Gaza",
+      "de": "Hamas will Abrüstung unter dem Plan von Trump",
+      "fr": "Trump présente un plan de paix avec Hamas",
+      "es": "El acuerdo de paz de Trump y Hamas"
+    }
+  },
+  {
     "id": "2026-07-30-three-greek-firefighters-die-as-wildfires-threaten-parts-of-",
     "date": "2026-07-30",
     "source": "BBC News",
