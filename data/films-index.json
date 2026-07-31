@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-31-the-wind-will-carry-us-abbas-kiarostami",
+    "date": "2026-07-31",
+    "director": "Abbas Kiarostami",
+    "image": "https://image.tmdb.org/t/p/w780/tzrqZungDYA3Djp61NWUm7DtxNI.jpg",
+    "titles": {
+      "en": "The Wind Will Carry Us",
+      "de": "Der Wind wird uns tragen - eine tiefgründige Erzählung",
+      "fr": "Le vent nous portera",
+      "es": "El viento nos llevará: reflexión y comunidad"
+    }
+  },
+  {
     "id": "2026-07-30-the-image-book-jean-luc-godard",
     "date": "2026-07-30",
     "director": "Jean-Luc Godard",
