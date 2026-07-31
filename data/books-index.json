@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-07-31-the-story-of-the-lost-child-elena-ferrante",
+    "date": "2026-07-31",
+    "author": "Elena Ferrante",
+    "image": "https://covers.openlibrary.org/b/id/13518415-L.jpg",
+    "titles": {
+      "en": "The Story of the Lost Child",
+      "de": "Die Geschichte des verlorenen Kindes",
+      "fr": "L'Histoire de l'Enfant Perdu",
+      "es": "La historia de la niña perdida"
+    }
+  },
+  {
     "id": "2026-07-28-the-plague-albert-camus",
     "date": "2026-07-28",
     "author": "Albert Camus",
