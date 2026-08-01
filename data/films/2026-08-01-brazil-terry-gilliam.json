@@ -1,0 +1,2516 @@
+{
+  "id": "2026-08-01-brazil-terry-gilliam",
+  "date": "2026-08-01",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/68"
+  },
+  "originalTitle": "Brazil (1985) — Terry Gilliam",
+  "image": "https://image.tmdb.org/t/p/w780/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+  "category": "film",
+  "film": {
+    "director": "Terry Gilliam",
+    "title": "Brazil",
+    "year": "1985",
+    "genres": "Comedy, Science Fiction"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Brazil",
+        "text": "Brazil is a film. It is about a man. His name is Sam Lowry. He has a boring job. He works in a big city. Sam dreams of being a hero. He sees a woman in his dreams. One day, he meets this woman. They have a strong connection. The film is funny and strange. It talks about the government. It shows how machines can control people. The story is full of lies. People are confused. Brazil is a special film. Many people like it. It is not just about a country.",
+        "vocabulary": [
+          {
+            "word": "hero",
+            "definition": "a person who helps others or does good"
+          },
+          {
+            "word": "dreams",
+            "definition": "thoughts or images while you sleep"
+          },
+          {
+            "word": "job",
+            "definition": "work that a person does"
+          },
+          {
+            "word": "funny",
+            "definition": "something that makes you laugh"
+          },
+          {
+            "word": "machines",
+            "definition": "tools that help people work"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the man's name?",
+            "options": [
+              "Sam Lowry",
+              "Tom",
+              "Bob"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Sam dream of being?",
+            "options": [
+              "A hero",
+              "A villain",
+              "A machine"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Is Brazil a funny film?",
+            "options": [
+              "Yes",
+              "No",
+              "Maybe"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Brazil",
+        "text": "Brazil is a 1985 film directed by Terry Gilliam. It is a mix of comedy and science fiction. The story is about Sam Lowry. He is a low-level worker in an office. He has a boring life and a small flat. Sam dreams of being a hero who saves a woman. One day, he meets this woman in real life. They connect in a special way. The film shows a strange world with funny machines. The people in this world do not have much freedom. Brazil is a satire about government and society. It makes you think about how machines can control our lives. Many people like this film for its unique style.",
+        "vocabulary": [
+          {
+            "word": "office",
+            "definition": "a place where people do work"
+          },
+          {
+            "word": "freedom",
+            "definition": "the state of being free"
+          },
+          {
+            "word": "society",
+            "definition": "a group of people living together"
+          },
+          {
+            "word": "style",
+            "definition": "the way something is made or done"
+          },
+          {
+            "word": "connect",
+            "definition": "to join or link together"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who directed Brazil?",
+            "options": [
+              "Terry Gilliam",
+              "Sam Lowry",
+              "Robert De Niro"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What type of film is Brazil?",
+            "options": [
+              "Comedy and science fiction",
+              "Horror",
+              "Romance"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the film make you think about?",
+            "options": [
+              "How machines control our lives",
+              "Cooking",
+              "Going to school"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Brazil",
+        "text": "Brazil, directed by Terry Gilliam in 1985, is a unique blend of comedy and science fiction. The film centers on Sam Lowry, a low-ranking bureaucrat who feels trapped in a monotonous job that offers him no satisfaction. He lives in a confusing world filled with bizarre technology and whimsical machines that seem to malfunction constantly. Sam often escapes this dull reality through daydreams of being a heroic figure who saves a beautiful woman. One day, he unexpectedly meets her, which changes his life dramatically. This encounter leads him to discover a web of mistaken identities and the absurdity of modern bureaucracy. \nThe film is not only funny but also presents a critical view of a bureaucratic society where individuals often feel lost and powerless. Brazil's themes touch on authority, control, and the surreal nature of everyday life. The director's distinctive visual style, characterized by striking imagery and imaginative storytelling, contributes to its status as a cult classic. Viewers have praised the film for its creativity and depth, which resonate strongly even today. Many people admire Brazil for challenging their perceptions of reality and government. If you enjoy thought-provoking films that make you laugh while questioning society, Brazil is definitely worth watching.",
+        "vocabulary": [
+          {
+            "word": "dystopian",
+            "definition": "a society characterized by human misery, often set in the future."
+          },
+          {
+            "word": "bureaucracy",
+            "definition": "a system of government or management that is run by officials."
+          },
+          {
+            "word": "satire",
+            "definition": "a way of using humor or irony to criticize people or society."
+          },
+          {
+            "word": "surreal",
+            "definition": "having a dreamlike quality, often strange or unrealistic."
+          },
+          {
+            "word": "cult classic",
+            "definition": "a film or book that has developed a loyal fanbase over time."
+          },
+          {
+            "word": "absurdity",
+            "definition": "the quality or state of being ridiculous or unreasonable."
+          },
+          {
+            "word": "technocracy",
+            "definition": "a government or social system controlled by technical experts."
+          },
+          {
+            "word": "Kafkaesque",
+            "definition": "characterized by surreal distortion and a sense of impending danger, deriving from the works of Franz Kafka."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is Brazil about?",
+            "options": [
+              "A low-ranking bureaucrat's daily life",
+              "A heroic adventure in a dystopian world",
+              "A romantic comedy in a futuristic city"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who directed the film Brazil?",
+            "options": [
+              "Jonathan Pryce",
+              "Terry Gilliam",
+              "Robert De Niro"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which theme is NOT mentioned in the text?",
+            "options": [
+              "Control",
+              "Adventure",
+              "Absurdity"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Discovering 'Brazil'",
+        "text": "In Terry Gilliam's 1985 film 'Brazil', the story begins with Sam Lowry, a low-level bureaucrat who dreams of becoming a heroic figure. While working in a boring job, he imagines rescuing a beautiful woman. However, his mundane life takes a turn when he investigates the wrongful arrest of a man which leads him deeper into a confusing world filled with errors and absurdities. This dystopian comedy highlights the dangers of bureaucratic systems and explores themes of identity and freedom. Gilliam uses striking visuals and unique sound to create an atmosphere that is both unsettling and humorous. The film's style is characterized by intricate sets and dark humor, making it a remarkable piece of cinema history. Despite initial challenges at the box office, 'Brazil' has gained recognition as a cult classic and is admired for its satirical take on society's reliance on technology. Overall, the film invites viewers to reflect on their own lives, question the systems around them, and examine the complexities of modern existence.",
+        "vocabulary": [
+          {
+            "word": "bureaucrat",
+            "definition": "a person who works in a government office."
+          },
+          {
+            "word": "dystopian",
+            "definition": "a world that is very bad or scary."
+          },
+          {
+            "word": "absurdities",
+            "definition": "things that are ridiculous or crazy."
+          },
+          {
+            "word": "recognition",
+            "definition": "being known or given attention."
+          },
+          {
+            "word": "reflect",
+            "definition": "to think about something."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is the main character in 'Brazil'?",
+            "options": [
+              "A hero",
+              "A bureaucrat",
+              "A teacher"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What type of film is 'Brazil'?",
+            "options": [
+              "Romantic comedy",
+              "Dystopian comedy",
+              "Action movie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the film invite viewers to do?",
+            "options": [
+              "Ignore their problems",
+              "Reflect on their lives",
+              "Travel the world"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Exploring the Dystopia of 'Brazil'",
+        "text": "'Brazil', directed by Terry Gilliam in 1985, is a compelling dystopian science fiction film that cleverly blends black comedy with a critique of bureaucratic inefficiency. The narrative follows Sam Lowry, a bureaucrat trapped in a monotonous existence, who daydreams of heroism while being ensnared in a labyrinth of red tape and mistaken identities. Gilliam’s film is rich in visual metaphors, employing chaotic sets and a surrealist aesthetic that mirrors the absurdities of the modern world. Further, it engages with deeper themes such as the loss of individuality and the pervasive nature of technology, creating a cinematic experience that resonates with the viewer long after the credits roll. Interestingly, although 'Brazil' encountered challenges upon its release in North America, it has grown to be venerated as a cult classic, lauded for its audacious storytelling and striking imagery. Many deem it a thought-provoking exploration of an over-surveilled society, encouraging audiences to question the implications of a world bound by bureaucratic strictures and technological advances.",
+        "vocabulary": [
+          {
+            "word": "compelling",
+            "definition": "very interesting or attractive."
+          },
+          {
+            "word": "inefficiency",
+            "definition": "doing something in a way that is not effective."
+          },
+          {
+            "word": "labyrinth",
+            "definition": "a complicated path that is hard to escape."
+          },
+          {
+            "word": "pervasive",
+            "definition": "spread widely and affecting many people."
+          },
+          {
+            "word": "venerated",
+            "definition": "deeply respected or honored."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Sam Lowry experience in 'Brazil'?",
+            "options": [
+              "A boring life",
+              "A fun adventure",
+              "A travel journey"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How did the film perform at first in North America?",
+            "options": [
+              "It was very successful",
+              "It faced challenges",
+              "It was ignored"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What themes does 'Brazil' explore?",
+            "options": [
+              "The beauty of nature",
+              "Bureaucracy and individuality",
+              "Sports and competition"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Multi-faceted Satire of 'Brazil'",
+        "text": "Terry Gilliam's 'Brazil' (1985) emerges as a monumental critique of dystopian existence, deftly intertwining elements of absurdism with a scathing evaluation of bureaucratic malaise. The film navigates the journey of Sam Lowry, a low-level bureaucrat whose escapist fantasies starkly contrast with a nightmarish societal framework that blurs the line between reality and illusion. Through meticulously crafted visuals and a frenetic rhythm that underscores the chaos of contemporary life, Gilliam compels audiences to confront the existential absurdities of a hyper-surveilling world. Not merely a narrative about a man lost in the throes of a melancholic dream, 'Brazil' encapsulates the pervasive anxieties regarding identity, freedom, and the mechanization of the human experience. Gilliam’s ironic use of whimsical motifs amidst a backdrop of grim reality offers a profound commentary on the human condition, resonating with audiences across generations. Initially met with ambivalence during its release, 'Brazil' has since ascended to the ranks of cult cinema, prompting scholarly discourse around its rich thematic resonance and aesthetic innovations. Is the truly labyrinthine nature of modern life highlighted or parodied? Gilliam invites viewers to reflect on this question, ensuring that the film's relevance continues unabated.",
+        "vocabulary": [
+          {
+            "word": "monumental",
+            "definition": "very important and impressive."
+          },
+          {
+            "word": "malaise",
+            "definition": "a general feeling of discomfort or illness."
+          },
+          {
+            "word": "intertwining",
+            "definition": "mixing or combining together."
+          },
+          {
+            "word": "melancholic",
+            "definition": "feeling sad and thoughtful."
+          },
+          {
+            "word": "resonating",
+            "definition": "having a strong impact or effect."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does 'Brazil' critique?",
+            "options": [
+              "Positive relationships",
+              "Dystopian existence",
+              "Healthy lifestyles"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How does Gilliam present modern life?",
+            "options": [
+              "As simple and clear",
+              "As chaotic and complex",
+              "As joyful and fun"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the film encourage viewers to do?",
+            "options": [
+              "Ignore reality",
+              "Reflect on existence",
+              "Avoid thinking critically"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Brazil (1985)",
+        "text": "In dem Film \"Brazil\" ist Sam Lowry ein Büroangestellter. Er hat einen langweiligen Job. Sam träumt von einer schönen Frau. Diese Frau ist in seinen Träumen. Er möchte sie finden. Die Welt ist komisch und traurig. Maschinen sind kaputt und schlecht. Menschen haben viele Probleme. Der Film fragt: Was ist Freiheit? Was ist Wahrheit? Die Bilder sind verrückt und bunt. Die Musik ist schön. \"Brazil\" ist besonders und wichtig. Das macht Spaß.",
+        "vocabulary": [
+          {
+            "word": "Büroangestellter",
+            "definition": "Eine Person, die im Büro arbeitet."
+          },
+          {
+            "word": "langweilig",
+            "definition": "Nicht interessant oder aufregend."
+          },
+          {
+            "word": "träumen",
+            "definition": "Im Schlaf Bilder sehen."
+          },
+          {
+            "word": "schön",
+            "definition": "Gut aussehend oder angenehm."
+          },
+          {
+            "word": "Probleme",
+            "definition": "Schwierigkeiten oder Sachen, die schlecht sind."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist Sam Lowry?",
+            "options": [
+              "Ein Künstler",
+              "Ein Büroangestellter",
+              "Ein Lehrer"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was macht Sam in seinen Träumen?",
+            "options": [
+              "Er spielt Sport",
+              "Er reist",
+              "Er sieht eine schöne Frau"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wie ist die Welt im Film?",
+            "options": [
+              "Komisch und traurig",
+              "Schön und bunt",
+              "Hell und freundlich"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Brazil: Eine lustige Dystopie",
+        "text": "\"Brazil\" ist ein Film von Terry Gilliam aus dem Jahr 1985. Die Geschichte beginnt mit Sam Lowry, einem einfachen Büroangestellten. Sam hat einen Routinejob und arbeitet in einem großen Büro. Er ist oft müde und unzufrieden, weil seine Arbeit langweilig ist. Er träumt von einer schönen Frau, die in vielen seiner Träume vorkommt. Diese Frau heißt Jill. Im Film gibt es viele verrückte Maschinen, die nicht gut funktionieren. Menschen leben in einer merkwürdigen Gesellschaft, wo alles geregelt ist. Es gibt viele Regeln und wenig Freiheit. Der Film zeigt, wie Bürokratie das Leben der Menschen beeinflusst und macht viele Leute unglücklich. Das Thema ist wichtig: Was ist Realität? Die Bilder sind kreativ und manchmal lustig, und die Musik ist sehr schön. Der Film geht 143 Minuten. \"Brazil\" ist jetzt ein Kultfilm und wird von vielen geliebt, weil er zum Nachdenken anregt.",
+        "vocabulary": [
+          {
+            "word": "Routinejob",
+            "definition": "ein täglicher, normaler Job"
+          },
+          {
+            "word": "Bürokratie",
+            "definition": "ein System von Regeln und Vorschriften"
+          },
+          {
+            "word": "Maschinen",
+            "definition": "Geräte, die Arbeit für Menschen machen"
+          },
+          {
+            "word": "Gesellschaft",
+            "definition": "eine Gruppe von Menschen, die zusammen leben"
+          },
+          {
+            "word": "Freiheit",
+            "definition": "die Möglichkeit, selbst zu entscheiden"
+          },
+          {
+            "word": "Kultfilm",
+            "definition": "ein Film, der von vielen Fans geliebt wird"
+          },
+          {
+            "word": "Realität",
+            "definition": "das, was wirklich ist"
+          },
+          {
+            "word": "Kreativ",
+            "definition": "eine neue und originelle Idee haben"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie heißt die schöne Frau, von der Sam träumt?",
+            "options": [
+              "Jill",
+              "Sara",
+              "Anna"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie lange dauert der Film \"Brazil\"?",
+            "options": [
+              "120 Minuten",
+              "143 Minuten",
+              "150 Minuten"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was ist ein wichtiges Thema im Film?",
+            "options": [
+              "Freundschaft",
+              "Realität",
+              "Abenteuer"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Die satirische Welt von Brazil",
+        "text": "\"Brazil\", geleitet von Terry Gilliam, ist ein bemerkenswerter Film aus dem Jahr 1985. Er verbindet die Genres Komödie und Science Fiction. Die Handlung folgt Sam Lowry, einem unauffälligen Bürokraten, der von einer schönen Frau träumt. Diese Frau wird sein Ziel in einer seltsamen und tragischen Welt. Sam lebt in einer dystopischen Gesellschaft, die von übermäßiger Überwachung und Bürokratie geprägt ist. Menschen müssen für ihre eigenen Strafen zahlen, was die Absurdität der modernen Gesellschaft zeigt. Der Film kritisiert die Bürokratie und die Abhängigkeit von Technologie, indem er die Folgen dieser Systeme auf das Individuum verdeutlicht. Die visuellen Elemente sind eindrucksvoll: die Farben und die surrealen Bilder, die die verworrene Realität reflektieren. Die Musik, vor allem die wiederkehrende Melodie, trägt zur Atmosphäre bei. Wenn man sich auf die Themen von Freiheit und Identität konzentriert, merkt man, dass sie zentral für die Handlung sind. Sam versucht, die Frau seiner Träume zu retten, doch er wird in ein Netz aus Verwirrung, Bürokratie und Lügen verwickelt. In vielen Ländern hat \"Brazil\" einen Kultstatus erreicht, obwohl der Film bei seiner Veröffentlichung nicht sofort erfolgreich war. Die Botschaft des Films ist zeitlos und hat auch nach vielen Jahren nichts von ihrer Relevanz verloren. \"Brazil\" ist also nicht nur ein Film, sondern ein wichtiger filmischer Kommentar, der viele Filmfans inspiriert hat und dies weiterhin tut.",
+        "vocabulary": [
+          {
+            "word": "Bürokrat",
+            "definition": "Eine Person, die in einer Verwaltung tätig ist und dort viele Regeln und Vorschriften befolgen muss."
+          },
+          {
+            "word": "Dystopie",
+            "definition": "Eine fiktive Gesellschaft, die negativ und meist repressiv ist, häufig dargestellt in Science-Fiction."
+          },
+          {
+            "word": "Satire",
+            "definition": "Eine literarische Form, die menschliches Verhalten kritisiert, oft mit Humor."
+          },
+          {
+            "word": "Überwachung",
+            "definition": "Die Kontrolle oder Beobachtung von Personen oder Aktivitäten, oft von einem Staat oder einer Institution."
+          },
+          {
+            "word": "Absurdität",
+            "definition": "Der Zustand, wo Dinge keinen Sinn ergeben oder sehr irrational erscheinen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Jahr wurde der Film \"Brazil\" veröffentlicht?",
+            "options": [
+              "1985",
+              "1990",
+              "1980"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was für eine Gesellschaft beschreibt der Film?",
+            "options": [
+              "Dystopisch",
+              "Utopisch",
+              "Realistisch"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Themen sind zentral im Film?",
+            "options": [
+              "Freiheit und Identität",
+              "Technologie und Fortschritt",
+              "Krieg und Frieden"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Brazil - Eine satirische Dystopie",
+        "text": "Der Film 'Brazil', unter der Regie von Terry Gilliam, präsentiert eine dystopische Welt, in der Bürokratie und Überwachung das Leben der Menschen dominieren. Der Hauptcharakter, Sam Lowry, ist ein unauffälliger Büroangestellter, der in seinen Tagträumen zu einem tapferen Helden wird. Diese Tagträume spiegeln seine Sehnsucht nach einem besseren Leben wider. Obwohl der Film humorvoll ist, behandelt er ernste Themen wie den Missbrauch von Macht und die Absurditäten einer technokratischen Gesellschaft. Die Bildsprache ist gekennzeichnet durch lebendige Farben und bizarre Maschinen, die die groteske Realität unterstreichen. Die Musik, insbesondere das wiederkehrende Thema 'Aquarela do Brasil', trägt zur surrealen Atmosphäre bei. Gilliam schafft es, durch seinen einzigartigen visuellen Stil und den scharfen Humor die Zuschauer zum Nachdenken über die eigene Realität anzuregen. Trotz anfänglicher kommerzieller Misserfolge hat sich 'Brazil' als Klassiker etabliert und wird häufig als brillante Kritik an der modernen Gesellschaft angesehen. Dieser Film ist sowohl unterhaltsam als auch tiefgründig und spricht Fragen der Identität und des Individuums in einer überwältigenden Systematik an.",
+        "vocabulary": [
+          {
+            "word": "Dystopie",
+            "definition": "Eine schlechte, nicht wünschenswerte Zukunft."
+          },
+          {
+            "word": "Bürokratie",
+            "definition": "Ein System, in dem viele Regeln und Formulare wichtig sind."
+          },
+          {
+            "word": "Satire",
+            "definition": "Eine Art von Humor, der zeigt, wie verrückt etwas ist."
+          },
+          {
+            "word": "Absurditäten",
+            "definition": "Verrückte oder unlogische Dinge."
+          },
+          {
+            "word": "technokratisch",
+            "definition": "Bezogen auf technische Kontrolle in der Gesellschaft."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Hauptcharakter im Film 'Brazil'?",
+            "options": [
+              "Ein Büroangestellter",
+              "Ein Arzt",
+              "Ein Polizist"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Thema behandelt der Film?",
+            "options": [
+              "Die Freude am Leben",
+              "Die Macht der Bürokratie",
+              "Die Natur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie ist die Atmosphäre des Films?",
+            "options": [
+              "Friedlich und ruhig",
+              "Surreal und absurd",
+              "Traurig und dunkel"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Brazil - Ein Meisterwerk der Dystopie",
+        "text": "Terry Gilliams 'Brazil' (1985) repräsentiert eine einzigartige Verbindung von Komödie und Science-Fiction, die nicht nur durch ihren subversiven Humor besticht, sondern auch essentielle gesellschaftliche Fragen auf wirksame Weise thematisiert. In einer dystopischen Welt, in der eine überbordende Bürokratie und technologische Überwachung die Menschen entmenschlichen, entfaltet sich die Geschichte von Sam Lowry, einem Bürokraten, der in Tagträumen nach Freiheit und Liebe strebt. Die visuelle Gestaltung des Films, gekennzeichnet durch surreale, groteske Bilder und einen geschickten Einsatz von Farben, unterstützt die satirische Kritik an einer gesellschaftlichen Struktur, die von Entfremdung und Paranoia geprägt ist. Zudem reflektiert die wiederkehrende Melodie 'Aquarela do Brasil' sowohl eine nostalgische Sehnsucht als auch den Kontrast zur kalten Realität des Protagonisten. Die komplexe Narration und der geschickte Einsatz von Ironie schaffen eine Atmosphäre, die die Zuschauer zu einer Reflexion über ihre eigene Lebensrealität anregt. Trotz der anfänglichen Mängel bei der Veröffentlichung in Nordamerika hat 'Brazil' seinen Status als Kultfilm gefestigt und wird heute für seine zeitlose Relevanz geschätzt.",
+        "vocabulary": [
+          {
+            "word": "subversiv",
+            "definition": "Etwas, das bestehende Regeln oder Systeme herausfordert."
+          },
+          {
+            "word": "Entfremdung",
+            "definition": "Das Gefühl, von anderen oder von sich selbst getrennt zu sein."
+          },
+          {
+            "word": "Ironie",
+            "definition": "Wenn etwas anders ist, als man erwartet, oft humorvoll."
+          },
+          {
+            "word": "Nostalgie",
+            "definition": "Ein Gefühl der Sehnsucht nach der Vergangenheit."
+          },
+          {
+            "word": "Pragmatik",
+            "definition": "Der praktische Umgang mit Situationen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie wird die kritische Botschaft des Films vermittelt?",
+            "options": [
+              "Durch Humor und visuelle Gestaltung",
+              "Durch traurige Musik",
+              "Durch einfache Dialoge"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was strebt Sam Lowry in seinen Tagträumen an?",
+            "options": [
+              "Freiheit und Liebe",
+              "Geld und Macht",
+              "Ruhm und Erfolg"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Element unterstützt die nostalgische Stimmung im Film?",
+            "options": [
+              "Die grafische Animation",
+              "Die wiederkehrende Melodie",
+              "Der düstere Dialog"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Brazil - Terry Gilliams visionäre Satire",
+        "text": "Terry Gilliams 'Brazil' gilt als herausragendes Werk der dystopischen Erzählkunst, in dem sich die Grenzen zwischen Realität und Fiktion auf verblüffende Weise verschieben. Der Film entfaltet sich in einer Welt, die von Absurdität und technokratischer Überwachung geprägt ist, und kritisch die Mechanismen einer Bürokratie ins Visier nimmt, die das Individuum nicht nur entmenschlicht, sondern auch in einen Strudel aus Verwirrung und Identitätsverlust hineinzieht. Im Mittelpunkt steht Sam Lowry, dessen innere Konflikte durch seine Tagträume intensifiziert werden, in denen er sich als Retter seiner Geliebten imaginiert. Diese Flucht aus der tristen Realität deutet auf eine universelle Sehnsucht nach Freiheit und Autonomie hin. Gilliam nutzt einen ikonischen visuellen Stil, dessen bizarre Kompositionen und dynamische Kameraführung sowohl grotesk als auch fesselnd wirken. Die eindringliche Musik, insbesondere das wiederholt präsente 'Aquarela do Brasil', verstärkt die melancholische Stimmung und kontrastiert die bittere Realität der narrativen Welt. 'Brazil' ist nicht nur ein kathartisches Film Erlebnis, sondern auch ein scharfsinniger Kommentar zu den Herausforderungen der modernen Gesellschaft, der mehr Fragen aufwirft, als er beantwortet, und somit den Betrachter in einen Reflexionsprozess zwingt. In der heutigen Zeit, in der Themen wie Überwachung und gesellschaftliche Kontrolle von hoher Relevanz sind, erhält dieser Film eine ungebrochene Aktualität und provoziert nach wie vor eine kritische Auseinandersetzung mit unserem eigenen Alltag.",
+        "vocabulary": [
+          {
+            "word": "Ikonisch",
+            "definition": "Symbolisch oder von großer Bedeutung für einen bestimmten Stil oder eine Episode."
+          },
+          {
+            "word": "Kathartisches",
+            "definition": "Einen befreienden oder reinigenden Effekt auf den Zuschauer."
+          },
+          {
+            "word": "Entität",
+            "definition": "Ein existierendes Wesen oder eine Einheit, oft mit komplexen Eigenschaften."
+          },
+          {
+            "word": "Verwirrung",
+            "definition": "Unklarheit oder Durcheinander in Gedanken oder Situationen."
+          },
+          {
+            "word": "Provoziert",
+            "definition": "Eine Reaktion oder ein Gefühl auslösen, oft absichtlich."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Thema spielt im Film eine zentrale Rolle?",
+            "options": [
+              "Die Suche nach Identität",
+              "Die Schönheit der Natur",
+              "Die Geschichte der Stadt"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie beschreibt der Text die Bildsprache Gilliams?",
+            "options": [
+              "Langweilig und einfach",
+              "Ikonisch und grotesk",
+              "Dunkel und trist"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was wird durch den Film kritisiert?",
+            "options": [
+              "Die Schöne Kunst",
+              "Bürokratie und Überwachung",
+              "Den Alltag der Menschen"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Brazil",
+        "text": "Brazil est un film. Il sort en 1985. Le réalisateur est Terry Gilliam. Le film est une comédie. Il montre la vie de Sam Lowry. Sam est un bureaucrate triste. Il rêve d'une belle femme. Sam travaille dans un bureau. Il vit dans un petit appartement. Le monde est bizarre et sombre. Les machines sont mauvaises. Le film parle de la bureaucratie. Il y a des mensonges et des erreurs. Sam cherche la vérité. Cela rend le film intéressant.",
+        "vocabulary": [
+          {
+            "word": "bureaucrate",
+            "definition": "une personne qui travaille dans un bureau"
+          },
+          {
+            "word": "bizarre",
+            "definition": "quelque chose de strange ou d'inhabituel"
+          },
+          {
+            "word": "petit",
+            "definition": "ce qui n'est pas grand ou énorme"
+          },
+          {
+            "word": "monde",
+            "definition": "ce qui nous entoure, la terre"
+          },
+          {
+            "word": "film",
+            "definition": "une histoire que l'on voit à l'écran"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur du film?",
+            "options": [
+              "Terry Gilliam",
+              "Sam Lowry",
+              "Robert De Niro"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de film est Brazil?",
+            "options": [
+              "Comédie",
+              "Horreur",
+              "Documentaire"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui est Sam Lowry?",
+            "options": [
+              "Un bureaucrate",
+              "Un héros",
+              "Un acteur"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Brazil",
+        "text": "Brazil est un film de Terry Gilliam. Il est sorti en 1985. Ce film mélange comédie et science-fiction. Sam Lowry est un petit bureaucrate qui s'ennuie beaucoup dans son travail. Chaque jour, il doit remplir des papiers et répondre à des téléphones qui ne l'intéressent pas. Sam rêve d'être un héros. Dans ses rêves, il sauve une belle femme et vit des aventures passionnantes. Dans le film, il y a des machines étranges. Ces machines ne fonctionnent pas bien, et elles compliquent la vie des gens. Le film parle de la société et des mensonges. Sam essaie de trouver la vérité et de comprendre son monde. Il y a beaucoup d'erreurs dans le monde de Sam, et les gens subissent des interrogatoires durs et injustes. Cela montre une société compliquée et critique. Brazil est un film culte maintenant car il observe les dangers de la bureaucratie. Il est très important dans l'histoire du cinéma et fait réfléchir sur notre quotidien.",
+        "vocabulary": [
+          {
+            "word": "bureaucrate",
+            "definition": "une personne qui travaille dans l'administration"
+          },
+          {
+            "word": "interrogatoire",
+            "definition": "un questionnement souvent difficile ou stressant"
+          },
+          {
+            "word": "aventures",
+            "definition": "des événements intéressants ou excitants"
+          },
+          {
+            "word": "vérité",
+            "definition": "la réalité ou ce qui est vrai"
+          },
+          {
+            "word": "critique",
+            "definition": "une analyse ou un jugement sur quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le héros du film Brazil ?",
+            "options": [
+              "Sam Lowry",
+              "Terry Gilliam",
+              "Harry Tuttle"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de film est Brazil ?",
+            "options": [
+              "Un film d'amour",
+              "Une comédie et science-fiction",
+              "Un documentaire"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Le film Brazil traite de quel sujet ?",
+            "options": [
+              "La musique",
+              "La bureaucratie et les mensonges",
+              "Les voyages"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Brazil",
+        "text": "Brazil est un film réalisé par Terry Gilliam, sorti en 1985. Ce film est une comédie noire qui aborde des thèmes complexes comme la bureaucratie et la société moderne. Sam Lowry, un bureaucrate insignifiant, rêve d'une belle femme qui apparaît dans ses fantasmes. Cependant, il travaille dans un monde rempli de mensonges et de machines défectueuses. En essayant de trouver la femme de ses rêves, Sam se retrouve face à une réalité absurde où il doit naviguer entre son emploi sans intérêt et ses rêves exaltants. Le film critique la technocratie et le contrôle des individus par l'État, un sujet très pertinent dans notre société moderne. Gilliam utilise une esthétique visuelle très particulière, avec des lumières et des couleurs qui transmettent des émotions contradictoires. Le rythme du film est également unique, ce qui lui donne une atmosphère étrange et captivante. Brazil n’est pas seulement une histoire amusante ; c’est une réflexion sur la condition humaine dans un monde de plus en plus régulé et surveillé. Malgré son échec initial en Amérique du Nord, il est devenu un film culte et a influencé de nombreux réalisateurs. La satire de Gilliam sur la bureaucratie est encore d'actualité aujourd'hui. Si quelqu'un n'a pas encore vu Brazil, il devrait le faire au plus vite !",
+        "vocabulary": [
+          {
+            "word": "bureaucratie",
+            "definition": "système d'organisation administrative complexe"
+          },
+          {
+            "word": "technocratie",
+            "definition": "système où les experts techniques gèrent l'économie et la société"
+          },
+          {
+            "word": "satire",
+            "definition": "forme de critique humoristique ou ironique"
+          },
+          {
+            "word": "absurde",
+            "definition": "situations qui n'ont pas de sens rationnel, qui semblent ridicules"
+          },
+          {
+            "word": "culte",
+            "definition": "film ou livre apprécié par un petit groupe de fans dévoués"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur de Brazil ?",
+            "options": [
+              "Terry Gilliam",
+              "Jonathan Pryce",
+              "Robert De Niro"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le thème principal du film ?",
+            "options": [
+              "L'amour",
+              "La bureaucratie",
+              "L'aventure"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi Brazil est-il devenu un film culte ?",
+            "options": [
+              "À cause de son échec au box-office",
+              "Pour son message sur la société",
+              "Grâce à sa musique"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Brazil : une satire dystopique",
+        "text": "En 1985, le réalisateur Terry Gilliam présente \"Brazil\", une comédie noire de science-fiction qui explore les thèmes de la bureaucratie et de la surveillance. Le film suit Sam Lowry, un bureaucrate peu glorieux qui rêve de héros. Il se retrouve alors impliqué dans une série d'événements compliqués en raison d'une erreur d'identité. Bien que la situation semble banale, le monde dans lequel Sam évolue est une dystopie où la technologie est défaillante et où le gouvernement abuse de ses pouvoirs. La manière dont Gilliam utilise la lumière et la caméra crée une atmosphère à la fois absurde et critique. Il livre ainsi une réflexion sur la société moderne, où la bureaucratie déshumanise les individus et où les rêves peuvent s‘avérer être des échappatoires. Ce film a été reconnu comme une œuvre culte, inspirant des générations de cinéastes. Certains critiques ont comparé son contenu à l'œuvre de George Orwell, soulignant la résonance de ses thèmes face aux problèmes contemporains. En fin de compte, \"Brazil\" nous invite à réfléchir sur la réalité et notre place dans un monde souvent écrasant.",
+        "vocabulary": [
+          {
+            "word": "bureaucratie",
+            "definition": "système administratif compliqué"
+          },
+          {
+            "word": "dystopie",
+            "definition": "société imaginaire très négative"
+          },
+          {
+            "word": "satire",
+            "definition": "critique par l'humour"
+          },
+          {
+            "word": "technologie",
+            "definition": "ensemble de techniques modernes"
+          },
+          {
+            "word": "réflexion",
+            "definition": "pensée profonde sur un sujet"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le personnage principal du film ?",
+            "options": [
+              "Sam Lowry",
+              "Terry Gilliam",
+              "Harry Tuttle"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de film est \"Brazil\" ?",
+            "options": [
+              "Comédie romantique",
+              "Comédie noire de science-fiction",
+              "Film d'horreur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel thème le film explore-t-il principalement ?",
+            "options": [
+              "La liberté",
+              "La bureaucratie",
+              "L'amour"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Brazil : une réflexion sur la société moderne",
+        "text": "\"Brazil\", réalisé par Terry Gilliam en 1985, est une comédie noire et une satire acerbe de la bureaucratie contemporaine. À travers le personnage de Sam Lowry, un bureaucrate lambda dont les rêves l'emmènent vers un monde idyllique, le film questionne les mécanismes de contrôle et de conformité d'une société dystopique. Ce monde, rempli de machines capricieuses et de règles arbitraires, nous confronte à une réalité où même les rêves deviennent des échappatoires fragiles. L'utilisation de la lumière, des contrastes visuels et d’une bande-son mémorable accentue l’atmosphère énergique et déconcertante, plongeant le spectateur dans une réflexion sur l'aliénation. Gilliam parvient à transcender la simple comédie en instillant une critique profonde et préoccupante des systèmes de pouvoir et de surveillance. La réception mitigée du film à son époque n’a nullement diminué son influence, oscillant entre œuvres cinématographiques cultes et références incontournables de la culture pop. \"Brazil\" demeure une œuvre qui interroge notre rapport à l’autorité et à la réalité, résonnant encore avec une force inouïe dans notre époque actuelle.",
+        "vocabulary": [
+          {
+            "word": "acerbe",
+            "definition": "très critique, mordant"
+          },
+          {
+            "word": "mécanismes",
+            "definition": "façons dont quelque chose fonctionne"
+          },
+          {
+            "word": "aliénation",
+            "definition": "sentiment de séparation, d'isolement"
+          },
+          {
+            "word": "transcender",
+            "definition": "dépasser, aller au-delà"
+          },
+          {
+            "word": "résonner",
+            "definition": "avoir de l'impact, influencer"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé le film \"Brazil\" ?",
+            "options": [
+              "Jonathon Pryce",
+              "Terry Gilliam",
+              "Robert De Niro"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel aspect de la société est critiqué dans le film ?",
+            "options": [
+              "Les relations humaines",
+              "La bureaucratie",
+              "Les artistes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment le film est-il décrit par rapport à son influence ?",
+            "options": [
+              "Une œuvre oubliée",
+              "Influent et culte",
+              "Une comédie sans lendemain"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Brazil : une odyssée kafkaïenne au cœur des mécanismes du pouvoir",
+        "text": "\"Brazil\", œuvre emblématique de Terry Gilliam, se distingue par sa capacité à transcender les conventions du récit traditionnel pour offrir une introspection sur les structures bureaucratiques qui gouvernent nos existences. Ce film, issu du croisement subversif entre comédie noire et science-fiction, interroge, par le prisme de l'absurde, la nature même de la réalité face à un système si déshumanisant qu'il en devient kafkaïen. La figure de Sam Lowry, qui oscille entre le héros déchu et l'homme ordinaire, incarne notre lutte contre les ombres d'une société régie par un contrôle omniprésent. Les choix esthétiques de Gilliam, sa mise en scène audacieusement inventive et son utilisation magistrale du son contribuent à instaurer une atmosphère à la fois chaotique et mélancolique. Ce monde dystopique, où les personnages semblent piégés dans un cycle sans fin d'inefficacité, soulève des interrogations sur notre rapport à l'autorité et à l'individu, tout en résonnant avec une critique lucide des dérives technocratiques contemporaines. Ainsi, \"Brazil\" n'est pas seulement un film, mais un véritable manifeste sur la condition humaine, qui, des décennies après sa sortie, continue d’influencer thinkers et cinéastes.",
+        "vocabulary": [
+          {
+            "word": "introspection",
+            "definition": "examen de ses propres pensées ou émotions"
+          },
+          {
+            "word": "subversif",
+            "definition": "qui remet en question l'ordre établi"
+          },
+          {
+            "word": "déshumanisant",
+            "definition": "qui enlève l'humanité ou la dignité"
+          },
+          {
+            "word": "chaotique",
+            "definition": "très désordonné, déroutant"
+          },
+          {
+            "word": "critique lucide",
+            "definition": "analyse claire et sans illusion"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel aspect majeur du film est exploré à travers le personnage de Sam Lowry ?",
+            "options": [
+              "La lutte contre l'autorité",
+              "La recherche de richesse",
+              "Les relations interpersonnelles"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment le film est-il décrit par rapport à la réalité de la société ?",
+            "options": [
+              "Comme un simple divertissement",
+              "Comme un indictment de la bureaucratie",
+              "Comme une romance dramatique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel effet le style visuel a-t-il dans \"Brazil\" ?",
+            "options": [
+              "Il crée une atmosphère joyeuse",
+              "Il contribue à une ambiance chaotique et mélancolique",
+              "Il est paisible et relaxant"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Brazil",
+        "text": "Brazil es una película de comedia y ciencia ficción. El director es Terry Gilliam. La película es del año mil novecientos ochenta y cinco. Sam Lowry es un hombre aburrido y trabaja en una oficina. Él tiene un sueño. En el sueño, él es un héroe valiente. Sam quiere salvar a una mujer hermosa. La mujer está en sus sueños. Sam investiga un caso raro. Este caso es sobre un hombre inocente. Él fue arrestado por un error. La vida de Sam es extraña y monótona. La película tiene temas sobre la burocracia y la tecnología. Es divertida y satírica. A muchas personas les gusta.",
+        "vocabulary": [
+          {
+            "word": "burocracia",
+            "definition": "sistema de reglas y procedimientos en una organización."
+          },
+          {
+            "word": "tecnología",
+            "definition": "conjunto de conocimientos y herramientas."
+          },
+          {
+            "word": "héroe",
+            "definition": "persona valiente que ayuda a otros."
+          },
+          {
+            "word": "monótona",
+            "definition": "que no cambia y es aburrida."
+          },
+          {
+            "word": "hermosa",
+            "definition": "que es muy bonita."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de película es Brazil?",
+            "options": [
+              "Drama",
+              "Comedia",
+              "Documental"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién es el director de Brazil?",
+            "options": [
+              "Terry Gilliam",
+              "Sam Lowry",
+              "Robert De Niro"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo es la vida de Sam Lowry?",
+            "options": [
+              "Interesante",
+              "Monótona",
+              "Feliz"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Brazil",
+        "text": "Brazil es una película que mezcla comedia y ciencia ficción. Fue dirigida por Terry Gilliam y salió en mil novecientos ochenta y cinco. La historia comienza con Sam Lowry, un hombre que trabaja en una oficina aburrida. Sam tiene un sueño donde es un héroe que ayuda a una mujer. Él quiere encontrar a esta mujer en su vida real. En la película, vemos un mundo extraño y distópico. Hay máquinas que no funcionan bien. La gente tiene problemas con el gobierno. La película es una sátira sobre la burocracia y el control. A veces, es divertida y a veces, es triste. Brasil es considerada una película de culto.",
+        "vocabulary": [
+          {
+            "word": "mezcla",
+            "definition": "una combinación de cosas"
+          },
+          {
+            "word": "extraño",
+            "definition": "no es común, raro"
+          },
+          {
+            "word": "máquinas",
+            "definition": "aparatos que ayudan a trabajar"
+          },
+          {
+            "word": "sátira",
+            "definition": "un tipo de crítica con humor"
+          },
+          {
+            "word": "culto",
+            "definition": "cuando muchas personas quieren ver algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de película es Brazil?",
+            "options": [
+              "Ciencia ficción y comedia",
+              "Acción y aventura",
+              "Drama romántico"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué hace Sam Lowry en su trabajo?",
+            "options": [
+              "Trabaja en una oficina",
+              "Es un héroe",
+              "Es un artista"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo es el mundo de la película?",
+            "options": [
+              "Extraño y distópico",
+              "Feliz y colorido",
+              "Normal y tranquilo"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Brazil",
+        "text": "Brazil es una película de comedia y ciencia ficción, dirigida por Terry Gilliam en mil novecientos ochenta y cinco. La historia sigue a Sam Lowry, un burócrata que lleva una vida monótona y aburrida en un mundo distópico donde todo parece estar controlado por una tecnología defectuosa. Para escapar de esta realidad, Sam sueña que es un héroe que rescata a una mujer hermosa de sus fantasías. Sin embargo, su vida real está llena de problemas y confusión, lo que le lleva a cuestionar su propia existencia. La película critica la burocracia y el exceso de control gubernamental, además de generar reflexiones sobre la dependencia de la tecnología en nuestra vida. Se pueden ver máquinas extrañas que a menudo no funcionan bien, lo que refleja la ineficacia del sistema. Aunque tuvo dificultades en su estreno en América del Norte, ha ganado un estatus de culto con el tiempo. Hoy en día, es considerada una obra maestra de la sátira distópica, que cuestiona la realidad de nuestra sociedad actual. Como observamos en el contexto histórico, la película se lanzó en una época en que se sentían los efectos de la Guerra Fría y la vigilancia estatal, haciendo que su mensaje fuera aún más relevante. La combinación de humor oscuro y crítica social mantiene su atractivo, y si las personas la ven, se darán cuenta de la profundidad de sus temas. Así, se ha convertido en un clásico que sigue inspirando debates.",
+        "vocabulary": [
+          {
+            "word": "burócrata",
+            "definition": "persona que trabaja en la administración pública y que gestiona trámites"
+          },
+          {
+            "word": "distópico",
+            "definition": "relativo a una sociedad imaginaria donde hay grandes problemas sociales y políticos"
+          },
+          {
+            "word": "satira",
+            "definition": "crítica humorística sobre algo"
+          },
+          {
+            "word": "tecnología",
+            "definition": "conjunto de conocimientos y técnicas que se aplican para crear herramientas o resolver problemas"
+          },
+          {
+            "word": "vigilancia",
+            "definition": "acción de observar y controlar a las personas o situaciones para garantizar la seguridad"
+          },
+          {
+            "word": "culto",
+            "definition": "gran admiración o devoción hacia algo, a menudo en relación a una obra de arte"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué critica principalmente la película Brazil?",
+            "options": [
+              "La burocracia y el control gubernamental.",
+              "Las relaciones personales.",
+              "La vida en Brasil."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué año se estrenó la película Brazil?",
+            "options": [
+              "1985",
+              "1990",
+              "1980"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se describe la vida del protagonista, Sam Lowry?",
+            "options": [
+              "Llena de aventuras emocionantes.",
+              "Monótona y aburrida.",
+              "Plena de diversión y alegría."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Explorando 'Brazil': Una sátira distópica",
+        "text": "La película 'Brazil', dirigida por Terry Gilliam en 1985, es una comedia negra que explora un mundo distópico y burocrático donde la tecnología y la opresión son omnipresentes. El protagonista, Sam Lowry, es un burócrata que anhela escapar de su monótono trabajo a través de sueños en los que se convierte en un héroe. Aunque tiene una premisa que podría parecer trivial, se profundiza en temas complejos como la alienación, la identidad y la lucha contra un sistema opresor. Gilliam utiliza un estilo visual único, combinando la fantasía con la realidad, a través de maquinarias absurdas que sirven como metáfora de la burocracia ineficiente. A pesar de su tropiezo inicial en América del Norte, 'Brazil' se ha ganado un estatus de culto, siendo considerada una de las mejores películas del cine británico. Su sátira, en muchas formas comparable a '1984' de Orwell, ofrece no solo humor, sino también una crítica penetrante a la deshumanización en las sociedades modernas, lo que la convierte en una obra maestra digna de ser vista.",
+        "vocabulary": [
+          {
+            "word": "burocracia",
+            "definition": "Sistema administrativo que sigue muchas reglas."
+          },
+          {
+            "word": "distópico",
+            "definition": "Un mundo imaginario con condiciones negativas."
+          },
+          {
+            "word": "sátira",
+            "definition": "Crítica humorística de algo o alguien."
+          },
+          {
+            "word": "opresor",
+            "definition": "Que ejerce presión o control sobre otros."
+          },
+          {
+            "word": "maquinaria",
+            "definition": "Conjunto de máquinas o dispositivos."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el protagonista de 'Brazil'?",
+            "options": [
+              "Sam Lowry",
+              "Terry Gilliam",
+              "Harry Tuttle"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de película es 'Brazil'?",
+            "options": [
+              "Comedia negra",
+              "Documental",
+              "Romántica"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál es un tema importante en 'Brazil'?",
+            "options": [
+              "La amistad",
+              "La alienación",
+              "El amor"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La visión de Terry Gilliam en 'Brazil'",
+        "text": "'Brazil' (1985), dirigida por Terry Gilliam, trasciende la mera etiqueta de comedia negra, penetrando en las profundidades de una sociedad distópica encapsulada en la burocracia y la opresión tecnológica. El viaje de Sam Lowry, un burócrata insignificante que sueña con ser héroe, plantea interrogantes sobre la identidad y el sentido del individuo en un mundo donde lo absurdo rige el orden social. Gilliam orquesta con maestría el contraste entre la monotonía del día a día y los arrebatos de fantasía, utilizando una estética visual sobrecogedora. Esta obra no solo enfrenta la despersonalización del ser humano en el contexto de la administración moderna, sino que también es un reflejo de profundas crisis contemporáneas. Aunque su recepción en Norteamérica fue inicialmente fría, su valor se ha reafirmado con el tiempo; de hecho, se ha convertido en un referente cinematográfico que invita a la reflexión sobre la relación entre tecnología y libertad, así como el papel del individuo frente a un sistema omnipresente y deshumanizador.",
+        "vocabulary": [
+          {
+            "word": "trascender",
+            "definition": "Ir más allá de algo; superar límites."
+          },
+          {
+            "word": "interrogante",
+            "definition": "Pregunta o duda sobre un tema."
+          },
+          {
+            "word": "estética",
+            "definition": "Conjunto de principios sobre la belleza."
+          },
+          {
+            "word": "reflejo",
+            "definition": "Representación o imagen de algo."
+          },
+          {
+            "word": "despersonalización",
+            "definition": "Pérdida de la identidad personal."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué cuestiona la historia de Sam Lowry?",
+            "options": [
+              "La identidad",
+              "La aventura",
+              "La amistad"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se describe la sociedad en 'Brazil'?",
+            "options": [
+              "Como una utopía",
+              "Como distópica",
+              "Como una fantasía"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué papel juegan la tecnología y la burocracia?",
+            "options": [
+              "Son irrelevantes",
+              "Son centrales en la crítica",
+              "No se mencionan"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La complejidad crítica de 'Brazil'",
+        "text": "Terry Gilliam, a través de su visión audaz en 'Brazil' (1985), nos transporta a un territorio donde la locura de la burocracia se entrelaza con una irónica y cruda sátira de la condición humana. La narrativa gira en torno a Sam Lowry, un burócrata atrapado en un laberinto de sueños y malentendidos, simbolizando la eterna lucha del individuo contra un sistema deshumanizador. Este filme, que trasciende su etiqueta de comedia negra, incorpora elementos de ciencia ficción para plantear cuestiones existenciales sobre la libertad, la identidad y la alienación en una era dominada por el control y la vigilancia estatal. A través de una estética visual ricamente elaborada, Gilliam no solo crea un mundo fascinante, sino que también invita a la reflexión sobre la naturaleza de la realidad misma. En este sentido, 'Brazil' se erige como un baluarte del cine crítico que, a pesar de su recepción inicial problemática en Norteamérica, ha logrado perdurar como un clásico influyente, resonando profundamente en la historia cinematográfica como un manifiesto contra una cultura tecnocrática que persiste en la actualidad.",
+        "vocabulary": [
+          {
+            "word": "transportar",
+            "definition": "Llevar a alguien a otro lugar mentalmente."
+          },
+          {
+            "word": "entrelaçar",
+            "definition": "Conectar o unir varias cosas entre sí."
+          },
+          {
+            "word": "condición",
+            "definition": "Estado o situación en que algo se encuentra."
+          },
+          {
+            "word": "baluarte",
+            "definition": "Defensa fuerte de algo, en este caso cinematográfico."
+          },
+          {
+            "word": "manifiesto",
+            "definition": "Declaración de intenciones o principios."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué simboliza Sam Lowry en la película?",
+            "options": [
+              "La lucha del individuo",
+              "El poder del estado",
+              "La amistad"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué se critica a través de la sátira en 'Brazil'?",
+            "options": [
+              "La burocracia y el control estatal",
+              "El amor",
+              "El arte"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se describe la estética visual de la película?",
+            "options": [
+              "Simple y sin importancia",
+              "Ricamente elaborada",
+              "Monótona y aburrida"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "brazil": "Brazil",
+      "in": "in",
+      "dem": "the",
+      "film": "film",
+      "ist": "is",
+      "sam": "Sam",
+      "lowry": "Lowry",
+      "ein": "a",
+      "büroangestellter": "office worker",
+      "er": "he",
+      "hat": "has",
+      "einen": "a",
+      "langweiligen": "boring",
+      "job": "job",
+      "träumt": "dreams",
+      "von": "from",
+      "einer": "one",
+      "schönen": "beautiful",
+      "frau": "woman",
+      "diese": "this",
+      "seinen": "his",
+      "träumen": "to dream",
+      "möchte": "would like",
+      "sie": "they",
+      "finden": "to find",
+      "die": "the",
+      "welt": "world",
+      "komisch": "funny",
+      "und": "and",
+      "traurig": "sad",
+      "maschinen": "machines",
+      "sind": "are",
+      "kaputt": "broken",
+      "schlecht": "bad",
+      "menschen": "people",
+      "haben": "to have",
+      "viele": "many",
+      "probleme": "problems",
+      "der": "the",
+      "fragt": "asks",
+      "was": "what",
+      "freiheit": "freedom",
+      "wahrheit": "truth",
+      "bilder": "images",
+      "verrückt": "crazy",
+      "bunt": "colorful",
+      "musik": "music",
+      "schön": "beautiful",
+      "besonders": "especially",
+      "wichtig": "important",
+      "das": "that",
+      "macht": "makes",
+      "spaß": "fun",
+      "eine": "a",
+      "lustige": "funny",
+      "dystopie": "dystopia",
+      "terry": "Terry",
+      "gilliam": "Gilliam",
+      "aus": "from",
+      "jahr": "year",
+      "geschichte": "history",
+      "beginnt": "begins",
+      "mit": "with",
+      "einem": "a",
+      "einfachen": "simple",
+      "büroangestellten": "office workers",
+      "routinejob": "routine job",
+      "arbeitet": "works",
+      "großen": "large",
+      "büro": "office",
+      "oft": "often",
+      "müde": "tired",
+      "unzufrieden": "dissatisfied",
+      "weil": "because",
+      "seine": "his",
+      "arbeit": "work",
+      "langweilig": "boring",
+      "vielen": "many",
+      "seiner": "his",
+      "träume": "dreams",
+      "vorkommt": "occurs",
+      "heißt": "is called",
+      "jill": "Jill",
+      "im": "in the",
+      "gibt": "gives",
+      "es": "it",
+      "verrückte": "crazy person",
+      "nicht": "not",
+      "gut": "well",
+      "funktionieren": "to function",
+      "leben": "life",
+      "merkwürdigen": "strange",
+      "gesellschaft": "society",
+      "wo": "where",
+      "alles": "everything",
+      "geregelt": "regulated",
+      "regeln": "rules",
+      "wenig": "few",
+      "zeigt": "shows",
+      "wie": "like",
+      "bürokratie": "bureaucracy",
+      "beeinflusst": "influenced",
+      "leute": "people",
+      "unglücklich": "unhappy",
+      "thema": "theme",
+      "realität": "reality",
+      "kreativ": "creative",
+      "manchmal": "sometimes",
+      "lustig": "funny",
+      "sehr": "very",
+      "geht": "goes",
+      "minuten": "minutes",
+      "jetzt": "now",
+      "kultfilm": "cult film",
+      "wird": "will",
+      "geliebt": "loved",
+      "zum": "to the",
+      "nachdenken": "to think",
+      "anregt": "stimulates",
+      "satirische": "satirical",
+      "geleitet": "led",
+      "bemerkenswerter": "remarkable",
+      "verbindet": "connects",
+      "genres": "genres",
+      "komödie": "comedy",
+      "science": "science",
+      "fiction": "fiction",
+      "handlung": "action",
+      "folgt": "follows",
+      "unauffälligen": "unobtrusive",
+      "bürokraten": "bureaucrats",
+      "sein": "his",
+      "ziel": "goal",
+      "seltsamen": "strange",
+      "tragischen": "tragic",
+      "lebt": "lives",
+      "dystopischen": "dystopian",
+      "übermäßiger": "excessive",
+      "überwachung": "surveillance",
+      "geprägt": "shaped",
+      "müssen": "must",
+      "für": "for",
+      "ihre": "their",
+      "eigenen": "own",
+      "strafen": "penalties",
+      "zahlen": "to pay",
+      "absurdität": "absurdity",
+      "modernen": "modern",
+      "kritisiert": "criticizes",
+      "abhängigkeit": "dependency",
+      "technologie": "technology",
+      "indem": "by",
+      "folgen": "consequences",
+      "dieser": "this",
+      "systeme": "systems",
+      "auf": "to",
+      "individuum": "individual",
+      "verdeutlicht": "clarifies",
+      "visuellen": "visual",
+      "elemente": "elements",
+      "eindrucksvoll": "impressive",
+      "farben": "colors",
+      "surrealen": "surreal",
+      "verworrene": "confusing",
+      "reflektieren": "to reflect",
+      "vor": "before",
+      "allem": "everything",
+      "wiederkehrende": "recurring",
+      "melodie": "melody",
+      "trägt": "carries",
+      "zur": "to the",
+      "atmosphäre": "atmosphere",
+      "bei": "at",
+      "wenn": "if",
+      "man": "one",
+      "sich": "oneself",
+      "themen": "topics",
+      "identität": "identity",
+      "konzentriert": "concentrated",
+      "merkt": "notices",
+      "dass": "that",
+      "zentral": "central",
+      "versucht": "attempted",
+      "zu": "to",
+      "retten": "to save",
+      "doch": "but",
+      "netz": "net",
+      "verwirrung": "confusion",
+      "lügen": "lies",
+      "verwickelt": "involved",
+      "ländern": "countries",
+      "kultstatus": "cult status",
+      "erreicht": "reached",
+      "obwohl": "although",
+      "veröffentlichung": "publication",
+      "sofort": "immediately",
+      "erfolgreich": "successful",
+      "war": "was",
+      "botschaft": "message",
+      "des": "of the",
+      "films": "films",
+      "zeitlos": "timeless",
+      "auch": "also",
+      "nach": "after",
+      "jahren": "years",
+      "nichts": "nothing",
+      "ihrer": "their",
+      "relevanz": "relevance",
+      "verloren": "lost",
+      "also": "thus",
+      "nur": "only",
+      "sondern": "but",
+      "wichtiger": "more important",
+      "filmischer": "filmic",
+      "kommentar": "comment",
+      "filmfans": "film fans",
+      "inspiriert": "inspired",
+      "dies": "this",
+      "weiterhin": "still",
+      "tut": "does",
+      "unter": "under",
+      "regie": "direction",
+      "präsentiert": "presented",
+      "dystopische": "dystopian",
+      "dominieren": "to dominate",
+      "hauptcharakter": "main character",
+      "unauffälliger": "unobtrusive",
+      "tagträumen": "daydreaming",
+      "tapferen": "brave",
+      "helden": "heroes",
+      "tagträume": "daydreams",
+      "spiegeln": "to reflect",
+      "sehnsucht": "longing",
+      "besseren": "better",
+      "wider": "against",
+      "humorvoll": "humorous",
+      "behandelt": "treated",
+      "ernste": "serious",
+      "den": "the",
+      "missbrauch": "abuse",
+      "absurditäten": "absurdities",
+      "technokratischen": "technocratic",
+      "bildsprache": "imagery",
+      "gekennzeichnet": "marked",
+      "durch": "through",
+      "lebendige": "vivid",
+      "bizarre": "bizarre",
+      "groteske": "grotesque",
+      "unterstreichen": "to underline",
+      "insbesondere": "especially",
+      "aquarela": "watercolor",
+      "do": "to do",
+      "brasil": "Brazil",
+      "schafft": "creates",
+      "einzigartigen": "unique",
+      "stil": "style",
+      "scharfen": "sharp",
+      "humor": "humor",
+      "zuschauer": "spectators",
+      "über": "about",
+      "eigene": "own",
+      "anzuregen": "to stimulate",
+      "trotz": "despite",
+      "anfänglicher": "initial",
+      "kommerzieller": "commercial",
+      "misserfolge": "failures",
+      "als": "than",
+      "klassiker": "classic",
+      "etabliert": "established",
+      "häufig": "often",
+      "brillante": "brilliant",
+      "kritik": "criticism",
+      "an": "at",
+      "angesehen": "respected",
+      "sowohl": "both",
+      "unterhaltsam": "entertaining",
+      "tiefgründig": "profound",
+      "spricht": "speaks",
+      "fragen": "questions",
+      "individuums": "individual",
+      "überwältigenden": "overwhelming",
+      "systematik": "systematics",
+      "meisterwerk": "masterpiece",
+      "gilliams": "Gilliams",
+      "repräsentiert": "represents",
+      "einzigartige": "unique",
+      "verbindung": "connection",
+      "science-fiction": "science fiction",
+      "ihren": "their",
+      "subversiven": "subversive",
+      "besticht": "enchants",
+      "essentielle": "essential",
+      "gesellschaftliche": "social",
+      "wirksame": "effective",
+      "weise": "way",
+      "thematisiert": "thematizes",
+      "überbordende": "overwhelming",
+      "technologische": "technological",
+      "entmenschlichen": "dehumanizing",
+      "entfaltet": "unfolds",
+      "liebe": "love",
+      "strebt": "strives",
+      "visuelle": "visual",
+      "gestaltung": "design",
+      "surreale": "surreal",
+      "geschickten": "skilled",
+      "einsatz": "effort",
+      "unterstützt": "supports",
+      "gesellschaftlichen": "social",
+      "struktur": "structure",
+      "entfremdung": "alienation",
+      "paranoia": "paranoia",
+      "zudem": "furthermore",
+      "reflektiert": "reflected",
+      "nostalgische": "nostalgic",
+      "kontrast": "contrast",
+      "kalten": "cold",
+      "protagonisten": "protagonists",
+      "komplexe": "complex",
+      "narration": "narration",
+      "geschickte": "skilled",
+      "ironie": "irony",
+      "schaffen": "to create",
+      "reflexion": "reflection",
+      "lebensrealität": "life reality",
+      "anfänglichen": "initial",
+      "mängel": "deficiencies",
+      "nordamerika": "north america",
+      "status": "status",
+      "gefestigt": "consolidated",
+      "heute": "today",
+      "zeitlose": "timeless",
+      "geschätzt": "estimated",
+      "visionäre": "visionaries",
+      "satire": "satire",
+      "gilt": "applies",
+      "herausragendes": "outstanding",
+      "werk": "work",
+      "erzählkunst": "narrative art",
+      "grenzen": "borders",
+      "zwischen": "between",
+      "fiktion": "fiction",
+      "verblüffende": "astounding",
+      "verschieben": "to shift",
+      "technokratischer": "technocratic",
+      "kritisch": "critical",
+      "mechanismen": "mechanisms",
+      "ins": "into",
+      "visier": "sight",
+      "nimmt": "takes",
+      "entmenschlicht": "dehumanized",
+      "strudel": "whirlpool",
+      "identitätsverlust": "loss of identity",
+      "hineinzieht": "pulls in",
+      "mittelpunkt": "center",
+      "steht": "stands",
+      "dessen": "whose",
+      "innere": "inner",
+      "konflikte": "conflicts",
+      "intensifiziert": "intensified",
+      "werden": "will",
+      "denen": "those",
+      "retter": "savior",
+      "geliebten": "loved ones",
+      "imaginiert": "imagined",
+      "flucht": "escape",
+      "tristen": "dreary",
+      "deutet": "indicates",
+      "universelle": "universal",
+      "autonomie": "autonomy",
+      "hin": "to",
+      "nutzt": "uses",
+      "ikonischen": "iconic",
+      "kompositionen": "compositions",
+      "dynamische": "dynamic",
+      "kameraführung": "camera work",
+      "grotesk": "grotesque",
+      "fesselnd": "captivating",
+      "wirken": "to work",
+      "eindringliche": "urgent",
+      "wiederholt": "repeated",
+      "präsente": "present",
+      "verstärkt": "intensified",
+      "melancholische": "melancholic",
+      "stimmung": "mood",
+      "kontrastiert": "contrasted",
+      "bittere": "bitter",
+      "narrativen": "narratives",
+      "kathartisches": "cathartic",
+      "erlebnis": "experience",
+      "scharfsinniger": "more insightful",
+      "herausforderungen": "challenges",
+      "mehr": "more",
+      "aufwirft": "raises",
+      "beantwortet": "answered",
+      "somit": "thus",
+      "betrachter": "viewer",
+      "reflexionsprozess": "reflection process",
+      "zwingt": "forces",
+      "heutigen": "today's",
+      "zeit": "time",
+      "kontrolle": "control",
+      "hoher": "high",
+      "erhält": "receives",
+      "ungebrochene": "unbroken",
+      "aktualität": "relevance",
+      "provoziert": "provoked",
+      "kritische": "critical",
+      "auseinandersetzung": "discussion",
+      "unserem": "our",
+      "alltag": "everyday"
+    },
+    "fr": {
+      "brazil": "brazil",
+      "est": "is",
+      "un": "a",
+      "film": "film",
+      "il": "he",
+      "sort": "fate",
+      "en": "in",
+      "le": "the",
+      "réalisateur": "director",
+      "terry": "terry",
+      "gilliam": "gilliam",
+      "une": "a",
+      "comédie": "comedy",
+      "montre": "shows",
+      "la": "the",
+      "vie": "life",
+      "de": "of",
+      "sam": "sam",
+      "lowry": "lowry",
+      "bureaucrate": "bureaucrat",
+      "triste": "sad",
+      "rêve": "dream",
+      "belle": "beautiful",
+      "femme": "woman",
+      "travaille": "works",
+      "dans": "in",
+      "bureau": "office",
+      "vit": "lives",
+      "petit": "small",
+      "appartement": "apartment",
+      "monde": "world",
+      "bizarre": "strange",
+      "et": "and",
+      "sombre": "dark",
+      "les": "the",
+      "machines": "machines",
+      "sont": "are",
+      "mauvaises": "bad",
+      "parle": "speaks",
+      "bureaucratie": "bureaucracy",
+      "des": "some",
+      "mensonges": "lies",
+      "erreurs": "errors",
+      "cherche": "searches",
+      "vérité": "truth",
+      "cela": "that",
+      "rend": "makes",
+      "intéressant": "interesting",
+      "sorti": "went out",
+      "ce": "this",
+      "mélange": "mixture",
+      "science-fiction": "science fiction",
+      "qui": "who",
+      "ennuie": "boredom",
+      "beaucoup": "a lot",
+      "son": "his",
+      "travail": "work",
+      "chaque": "each",
+      "jour": "day",
+      "doit": "must",
+      "remplir": "to fill",
+      "papiers": "papers",
+      "répondre": "to respond",
+      "téléphones": "phones",
+      "ne": "not",
+      "intéressent": "interest",
+      "pas": "not",
+      "être": "to be",
+      "héros": "hero",
+      "ses": "his",
+      "rêves": "dreams",
+      "sauve": "saves",
+      "aventures": "adventures",
+      "passionnantes": "exciting",
+      "étranges": "strange",
+      "ces": "these",
+      "fonctionnent": "to work",
+      "bien": "well",
+      "elles": "they",
+      "compliquent": "complicate",
+      "gens": "people",
+      "société": "society",
+      "essaie": "tries",
+      "trouver": "to find",
+      "comprendre": "to understand",
+      "subissent": "suffer",
+      "interrogatoires": "interrogations",
+      "durs": "hard",
+      "injustes": "unjust",
+      "compliquée": "complicated",
+      "critique": "criticism",
+      "culte": "cult",
+      "maintenant": "now",
+      "car": "because",
+      "observe": "observes",
+      "dangers": "dangers",
+      "très": "very",
+      "important": "important",
+      "histoire": "history",
+      "du": "of the",
+      "cinéma": "cinema",
+      "fait": "makes",
+      "réfléchir": "to reflect",
+      "sur": "about",
+      "notre": "our",
+      "quotidien": "daily",
+      "réalisé": "achieved",
+      "par": "by",
+      "noire": "black",
+      "aborde": "addresses",
+      "thèmes": "themes",
+      "complexes": "complexes",
+      "comme": "like",
+      "moderne": "modern",
+      "insignifiant": "insignificant",
+      "apparaît": "appears",
+      "fantasmes": "fantasies",
+      "cependant": "however",
+      "rempli": "filled",
+      "défectueuses": "defective",
+      "essayant": "trying",
+      "se": "yourself",
+      "retrouve": "finds",
+      "face": "face",
+      "réalité": "reality",
+      "absurde": "absurd",
+      "où": "where",
+      "naviguer": "to navigate",
+      "entre": "between",
+      "emploi": "job",
+      "sans": "without",
+      "intérêt": "interest",
+      "exaltants": "exhilarating",
+      "technocratie": "technocracy",
+      "contrôle": "control",
+      "individus": "individuals",
+      "état": "state",
+      "sujet": "subject",
+      "pertinent": "relevant",
+      "utilise": "uses",
+      "esthétique": "aesthetic",
+      "visuelle": "visual",
+      "particulière": "particular",
+      "avec": "with",
+      "lumières": "lights",
+      "couleurs": "colors",
+      "transmettent": "transmit",
+      "émotions": "emotions",
+      "contradictoires": "contradictory",
+      "rythme": "rhythm",
+      "également": "also",
+      "unique": "unique",
+      "lui": "him",
+      "donne": "gives",
+      "atmosphère": "atmosphere",
+      "étrange": "strange",
+      "captivante": "captivating",
+      "seulement": "only",
+      "amusante": "entertaining",
+      "réflexion": "reflection",
+      "condition": "condition",
+      "humaine": "human",
+      "plus": "more",
+      "régulé": "regulated",
+      "surveillé": "monitored",
+      "malgré": "despite",
+      "échec": "failure",
+      "initial": "initial",
+      "amérique": "America",
+      "nord": "north",
+      "devenu": "become",
+      "influencé": "influenced",
+      "nombreux": "many",
+      "réalisateurs": "directors",
+      "satire": "satire",
+      "encore": "again",
+      "actualité": "news",
+      "aujourd'hui": "today",
+      "si": "if",
+      "quelqu'un": "someone",
+      "vu": "seen",
+      "devrait": "should",
+      "faire": "to do",
+      "au": "at the",
+      "vite": "quickly",
+      "dystopique": "dystopian",
+      "présente": "presents",
+      "explore": "explore",
+      "surveillance": "surveillance",
+      "suit": "follows",
+      "peu": "little",
+      "glorieux": "glorious",
+      "alors": "then",
+      "impliqué": "involved",
+      "série": "series",
+      "événements": "events",
+      "compliqués": "complicated",
+      "raison": "reason",
+      "erreur": "error",
+      "identité": "identity",
+      "que": "that",
+      "situation": "situation",
+      "semble": "seems",
+      "banale": "trivial",
+      "lequel": "which",
+      "évolue": "evolves",
+      "dystopie": "dystopia",
+      "technologie": "technology",
+      "défaillante": "failing",
+      "gouvernement": "government",
+      "abuse": "abuse",
+      "pouvoirs": "powers",
+      "manière": "manner",
+      "dont": "whose",
+      "lumière": "light",
+      "caméra": "camera",
+      "crée": "creates",
+      "fois": "times",
+      "livre": "book",
+      "ainsi": "thus",
+      "déshumanise": "dehumanizes",
+      "peuvent": "can",
+      "avérer": "prove",
+      "échappatoires": "loopholes",
+      "été": "been",
+      "reconnu": "recognized",
+      "œuvre": "work",
+      "inspirant": "inspiring",
+      "générations": "generations",
+      "cinéastes": "filmmakers",
+      "certains": "some",
+      "critiques": "criticisms",
+      "ont": "have",
+      "comparé": "compared",
+      "contenu": "content",
+      "george": "george",
+      "orwell": "orwell",
+      "soulignant": "highlighting",
+      "résonance": "resonance",
+      "aux": "to the",
+      "problèmes": "problems",
+      "contemporains": "contemporary",
+      "fin": "end",
+      "compte": "account",
+      "nous": "we",
+      "invite": "invites",
+      "place": "place",
+      "souvent": "often",
+      "écrasant": "overwhelming",
+      "acerbe": "sharp",
+      "contemporaine": "contemporary",
+      "travers": "crossing",
+      "personnage": "character",
+      "lambda": "lambda",
+      "emmènent": "take",
+      "vers": "towards",
+      "idyllique": "idyllic",
+      "questionne": "questions",
+      "mécanismes": "mechanisms",
+      "conformité": "compliance",
+      "capricieuses": "capricious",
+      "règles": "rules",
+      "arbitraires": "arbitrary",
+      "confronte": "confronts",
+      "même": "even",
+      "fragiles": "fragile",
+      "utilisation": "use",
+      "contrastes": "contrasts",
+      "visuels": "visuals",
+      "bande-son": "soundtrack",
+      "mémorable": "memorable",
+      "accentue": "accentuates",
+      "énergique": "energetic",
+      "déconcertante": "disconcerting",
+      "plongeant": "diving",
+      "spectateur": "spectator",
+      "aliénation": "alienation",
+      "parvient": "reaches",
+      "transcender": "to transcend",
+      "simple": "simple",
+      "instillant": "instilling",
+      "profonde": "deep",
+      "préoccupante": "concerning",
+      "systèmes": "systems",
+      "pouvoir": "power",
+      "réception": "reception",
+      "mitigée": "mitigated",
+      "époque": "era",
+      "nullement": "not at all",
+      "diminué": "decreased",
+      "influence": "influence",
+      "oscillant": "oscillating",
+      "œuvres": "works",
+      "cinématographiques": "cinematographic",
+      "cultes": "cults",
+      "références": "references",
+      "incontournables": "essential",
+      "culture": "culture",
+      "pop": "pop",
+      "demeure": "dwelling",
+      "interroge": "questions",
+      "rapport": "report",
+      "autorité": "authority",
+      "résonnant": "resounding",
+      "force": "force",
+      "inouïe": "unheard",
+      "actuelle": "current",
+      "odyssée": "odyssey",
+      "kafkaïenne": "kafkaesque",
+      "cœur": "heart",
+      "emblématique": "emblematic",
+      "distingue": "distinguishes",
+      "sa": "its",
+      "capacité": "capacity",
+      "conventions": "conventions",
+      "récit": "story",
+      "traditionnel": "traditional",
+      "pour": "for",
+      "offrir": "to offer",
+      "introspection": "introspection",
+      "structures": "structures",
+      "bureaucratiques": "bureaucratic",
+      "gouvernent": "govern",
+      "nos": "our",
+      "existences": "existences",
+      "issu": "issued",
+      "croisement": "crossroad",
+      "subversif": "subversive",
+      "prisme": "prism",
+      "nature": "nature",
+      "système": "system",
+      "déshumanisant": "dehumanizing",
+      "devient": "becomes",
+      "kafkaïen": "kafkaesque",
+      "figure": "figure",
+      "oscille": "oscillates",
+      "déchu": "fallen",
+      "homme": "man",
+      "ordinaire": "ordinary",
+      "incarne": "to embody",
+      "lutte": "struggle",
+      "contre": "against",
+      "ombres": "shadows",
+      "régie": "management",
+      "omniprésent": "omnipresent",
+      "choix": "choice",
+      "esthétiques": "aesthetics",
+      "mise": "put",
+      "scène": "scene",
+      "audacieusement": "boldly",
+      "inventive": "inventive",
+      "magistrale": "masterful",
+      "contribuent": "contribute",
+      "instaurer": "to establish",
+      "chaotique": "chaotic",
+      "mélancolique": "melancholic",
+      "personnages": "characters",
+      "semblent": "seem",
+      "piégés": "trapped",
+      "cycle": "cycle",
+      "inefficacité": "inefficiency",
+      "soulève": "raises",
+      "interrogations": "questions",
+      "individu": "individual",
+      "tout": "all",
+      "lucide": "lucid",
+      "dérives": "drifts",
+      "technocratiques": "technocratic",
+      "contemporaines": "contemporary",
+      "mais": "but",
+      "véritable": "true",
+      "manifeste": "manifest",
+      "décennies": "decades",
+      "après": "after",
+      "sortie": "exit",
+      "continue": "continues",
+      "influencer": "to influence",
+      "thinkers": "thinkers"
+    },
+    "es": {
+      "brazil": "Brazil",
+      "es": "is",
+      "una": "a",
+      "película": "movie",
+      "de": "of",
+      "comedia": "comedy",
+      "ciencia": "science",
+      "ficción": "fiction",
+      "el": "the",
+      "director": "director",
+      "terry": "Terry",
+      "gilliam": "Gilliam",
+      "la": "the",
+      "del": "of the",
+      "año": "year",
+      "mil": "thousand",
+      "novecientos": "nine hundred",
+      "ochenta": "eighty",
+      "cinco": "five",
+      "sam": "Sam",
+      "lowry": "Lowry",
+      "un": "a",
+      "hombre": "man",
+      "aburrido": "bored",
+      "trabaja": "works",
+      "en": "in",
+      "oficina": "office",
+      "él": "he",
+      "tiene": "has",
+      "sueño": "dream",
+      "héroe": "hero",
+      "valiente": "brave",
+      "quiere": "wants",
+      "salvar": "to save",
+      "mujer": "woman",
+      "hermosa": "beautiful",
+      "está": "is",
+      "sus": "their",
+      "sueños": "dreams",
+      "investiga": "investigates",
+      "caso": "case",
+      "raro": "rare",
+      "este": "this",
+      "sobre": "about",
+      "inocente": "innocent",
+      "fue": "was",
+      "arrestado": "arrested",
+      "por": "for",
+      "error": "error",
+      "vida": "life",
+      "extraña": "strange",
+      "monótona": "monotonous",
+      "temas": "themes",
+      "burocracia": "bureaucracy",
+      "tecnología": "technology",
+      "divertida": "fun",
+      "satírica": "satirical",
+      "muchas": "many",
+      "personas": "people",
+      "les": "to them",
+      "gusta": "likes",
+      "que": "that",
+      "mezcla": "mix",
+      "dirigida": "directed",
+      "salió": "left",
+      "historia": "story",
+      "comienza": "begins",
+      "con": "with",
+      "aburrida": "boring",
+      "donde": "where",
+      "ayuda": "helps",
+      "encontrar": "to find",
+      "esta": "this",
+      "su": "his",
+      "real": "real",
+      "vemos": "we see",
+      "mundo": "world",
+      "extraño": "strange",
+      "distópico": "dystopian",
+      "hay": "there is",
+      "máquinas": "machines",
+      "no": "not",
+      "funcionan": "function",
+      "bien": "well",
+      "gente": "people",
+      "problemas": "problems",
+      "gobierno": "government",
+      "sátira": "satire",
+      "control": "control",
+      "veces": "times",
+      "triste": "sad",
+      "brasil": "Brazil",
+      "considerada": "considered",
+      "culto": "cult",
+      "sigue": "follows",
+      "burócrata": "bureaucrat",
+      "lleva": "carries",
+      "todo": "everything",
+      "parece": "seems",
+      "estar": "to be",
+      "controlado": "controlled",
+      "defectuosa": "defective",
+      "para": "to",
+      "escapar": "to escape",
+      "realidad": "reality",
+      "sueña": "dreams",
+      "rescata": "rescues",
+      "fantasías": "fantasies",
+      "sin": "without",
+      "embargo": "however",
+      "llena": "full",
+      "confusión": "confusion",
+      "lo": "it",
+      "le": "the",
+      "cuestionar": "to question",
+      "propia": "own",
+      "existencia": "existence",
+      "critica": "criticizes",
+      "exceso": "excess",
+      "gubernamental": "governmental",
+      "además": "furthermore",
+      "generar": "to generate",
+      "reflexiones": "reflections",
+      "dependencia": "dependence",
+      "nuestra": "our",
+      "se": "oneself",
+      "pueden": "can",
+      "ver": "see",
+      "extrañas": "strange",
+      "menudo": "frequent",
+      "refleja": "reflects",
+      "ineficacia": "ineffectiveness",
+      "sistema": "system",
+      "aunque": "although",
+      "tuvo": "had",
+      "dificultades": "difficulties",
+      "estreno": "premiere",
+      "américa": "America",
+      "norte": "north",
+      "ha": "has",
+      "ganado": "cattle",
+      "estatus": "status",
+      "tiempo": "time",
+      "hoy": "today",
+      "día": "day",
+      "obra": "work",
+      "maestra": "master",
+      "distópica": "dystopian",
+      "cuestiona": "questions",
+      "sociedad": "society",
+      "actual": "current",
+      "como": "like",
+      "observamos": "we observe",
+      "contexto": "context",
+      "histórico": "historic",
+      "lanzó": "he launched",
+      "época": "era",
+      "sentían": "felt",
+      "los": "the",
+      "efectos": "effects",
+      "guerra": "war",
+      "fría": "cold",
+      "vigilancia": "surveillance",
+      "estatal": "state",
+      "haciendo": "doing",
+      "mensaje": "message",
+      "fuera": "outside",
+      "aún": "still",
+      "más": "more",
+      "relevante": "relevant",
+      "combinación": "combination",
+      "humor": "humor",
+      "oscuro": "dark",
+      "crítica": "criticism",
+      "social": "social",
+      "mantiene": "maintains",
+      "atractivo": "attractive",
+      "si": "if",
+      "las": "the",
+      "ven": "come",
+      "darán": "will give",
+      "cuenta": "account",
+      "profundidad": "depth",
+      "así": "thus",
+      "convertido": "converted",
+      "clásico": "classic",
+      "inspirando": "inspiring",
+      "debates": "debates",
+      "explorando": "exploring",
+      "negra": "black",
+      "explora": "explores",
+      "burocrático": "bureaucratic",
+      "opresión": "oppression",
+      "son": "are",
+      "omnipresentes": "omnipresent",
+      "protagonista": "protagonist",
+      "anhela": "yearns",
+      "monótono": "monotonous",
+      "trabajo": "job",
+      "través": "through",
+      "convierte": "turns",
+      "premisa": "premise",
+      "podría": "could",
+      "parecer": "to seem",
+      "trivial": "trivial",
+      "profundiza": "deepens",
+      "complejos": "complexes",
+      "alienación": "alienation",
+      "identidad": "identity",
+      "lucha": "struggle",
+      "contra": "against",
+      "opresor": "oppressor",
+      "utiliza": "uses",
+      "estilo": "style",
+      "visual": "visual",
+      "único": "unique",
+      "combinando": "combining",
+      "fantasía": "fantasy",
+      "maquinarias": "machineries",
+      "absurdas": "absurd",
+      "sirven": "they serve",
+      "metáfora": "metaphor",
+      "ineficiente": "inefficient",
+      "pesar": "despite",
+      "tropiezo": "stumble",
+      "inicial": "initial",
+      "siendo": "being",
+      "mejores": "better",
+      "películas": "movies",
+      "cine": "cinema",
+      "británico": "British",
+      "formas": "shapes",
+      "comparable": "comparable",
+      "orwell": "Orwell",
+      "ofrece": "offers",
+      "solo": "only",
+      "sino": "but",
+      "también": "also",
+      "penetrante": "penetrating",
+      "deshumanización": "dehumanization",
+      "sociedades": "societies",
+      "modernas": "modern",
+      "digna": "worthy",
+      "ser": "to be",
+      "vista": "view",
+      "visión": "vision",
+      "trasciende": "transcends",
+      "mera": "mere",
+      "etiqueta": "label",
+      "penetrando": "penetrating",
+      "profundidades": "depths",
+      "encapsulada": "encapsulated",
+      "tecnológica": "technological",
+      "viaje": "trip",
+      "insignificante": "insignificant",
+      "plantea": "raises",
+      "interrogantes": "questions",
+      "sentido": "sense",
+      "individuo": "individual",
+      "absurdo": "absurd",
+      "rige": "governs",
+      "orden": "order",
+      "orquesta": "orchestra",
+      "maestría": "mastery",
+      "contraste": "contrast",
+      "entre": "between",
+      "monotonía": "monotony",
+      "arrebatos": "outbursts",
+      "utilizando": "using",
+      "estética": "aesthetic",
+      "sobrecogedora": "overwhelming",
+      "enfrenta": "faces",
+      "despersonalización": "depersonalization",
+      "humano": "human",
+      "administración": "administration",
+      "moderna": "modern",
+      "reflejo": "reflection",
+      "profundas": "deep",
+      "crisis": "crisis",
+      "contemporáneas": "contemporary",
+      "recepción": "reception",
+      "norteamérica": "North America",
+      "inicialmente": "initially",
+      "valor": "value",
+      "reafirmado": "reaffirmed",
+      "hecho": "fact",
+      "referente": "referent",
+      "cinematográfico": "cinematographic",
+      "invita": "invites",
+      "reflexión": "reflection",
+      "relación": "relationship",
+      "libertad": "freedom",
+      "papel": "role",
+      "frente": "front",
+      "omnipresente": "omnipresent",
+      "deshumanizador": "dehumanizing",
+      "complejidad": "complexity",
+      "audaz": "bold",
+      "nos": "us",
+      "transporta": "transports",
+      "territorio": "territory",
+      "locura": "madness",
+      "entrelaza": "interweaves",
+      "irónica": "ironic",
+      "cruda": "raw",
+      "condición": "condition",
+      "humana": "human",
+      "narrativa": "narrative",
+      "gira": "tour",
+      "torno": "lathe",
+      "atrapado": "trapped",
+      "laberinto": "labyrinth",
+      "malentendidos": "misunderstandings",
+      "simbolizando": "symbolizing",
+      "eterna": "eternal",
+      "filme": "film",
+      "incorpora": "incorporates",
+      "elementos": "elements",
+      "plantear": "to raise",
+      "cuestiones": "issues",
+      "existenciales": "existential",
+      "era": "was",
+      "dominada": "dominated",
+      "ricamente": "richly",
+      "elaborada": "elaborate",
+      "crea": "creates",
+      "fascinante": "fascinating",
+      "naturaleza": "nature",
+      "misma": "same",
+      "erige": "erects",
+      "baluarte": "stronghold",
+      "crítico": "critical",
+      "problemática": "problematic",
+      "logrado": "achieved",
+      "perdurar": "to endure",
+      "influyente": "influential",
+      "resonando": "resounding",
+      "profundamente": "deeply",
+      "cinematográfica": "cinematic",
+      "manifiesto": "manifesto",
+      "cultura": "culture",
+      "tecnocrática": "technocratic",
+      "persiste": "persists",
+      "actualidad": "relevance"
+    }
+  }
+}

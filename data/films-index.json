@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-01-brazil-terry-gilliam",
+    "date": "2026-08-01",
+    "director": "Terry Gilliam",
+    "image": "https://image.tmdb.org/t/p/w780/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+    "titles": {
+      "en": "Brazil",
+      "de": "Die satirische Welt von Brazil",
+      "fr": "Brazil",
+      "es": "Brazil"
+    }
+  },
+  {
     "id": "2026-07-31-the-wind-will-carry-us-abbas-kiarostami",
     "date": "2026-07-31",
     "director": "Abbas Kiarostami",
