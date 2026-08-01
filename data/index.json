@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-01-israeli-west-bank-settler-tells-bbc-attacks-on-palestinians-",
+    "date": "2026-08-01",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/678b/live/ea29f390-8c56-11f1-b8ee-9b3c26ad07bb.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Settler Attacks and Reactions in the West Bank",
+      "de": "Konflikt und Angriffe in der Westbank",
+      "fr": "Conflit Israël-Palestine à Havat Gilad",
+      "es": "Tensiones y actos de violencia en Cisjordania"
+    }
+  },
+  {
+    "id": "2026-08-01-spain-s-pm-blames-traffickers-after-60-000-migrants-reach-ce",
+    "date": "2026-08-01",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b29/live/f8112010-8d09-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Surge of Migrants in Ceuta from Morocco",
+      "de": "Ein Zustrom von Migranten nach Ceuta",
+      "fr": "Crise des migrants à Ceuta",
+      "es": "Crisis de Migrantes en Ceuta"
+    }
+  },
+  {
+    "id": "2026-08-01-fifa-scraps-controversial-world-cup-investment-plan",
+    "date": "2026-08-01",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "sport",
+    "titles": {
+      "en": "Fifa cancels its investment proposal",
+      "de": "Fifa beendet umstrittenen Investitionsplan für den Weltcup",
+      "fr": "Fifa abandonne son projet d'investissement controversé",
+      "es": "Fifa cancela un plan de inversión muy polémico"
+    }
+  },
+  {
     "id": "2026-07-31-ac-milan-and-italy-great-baresi-dies-aged-66",
     "date": "2026-07-31",
     "source": "BBC News",
