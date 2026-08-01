@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-01-camille-pissarro-rue-de-l-epicerie-rouen-effect-of-sunlight",
+    "date": "2026-08-01",
+    "artist": "Camille Pissarro",
+    "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1139.jpg",
+    "titles": {
+      "en": "Impression of Everyday Life",
+      "de": "Die Bedeutung von Pissarros Werk",
+      "fr": "Interprétation de la Rue de l'Épicerie",
+      "es": "Rue de l'Epicerie, Rouen"
+    }
+  },
+  {
     "id": "2026-07-31-camille-corot-waterfall-at-terni",
     "date": "2026-07-31",
     "artist": "Camille Corot",
