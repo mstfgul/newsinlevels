@@ -1,0 +1,2560 @@
+{
+  "id": "2026-08-02-eu-calls-emergency-meeting-to-discuss-ceuta-migrant-crossing",
+  "date": "2026-08-02",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "EU Talks About Migrants in Ceuta",
+        "text": "The EU has a meeting. This meeting is on Tuesday. They talk about many migrants. Many migrants come to Ceuta. Most migrants come from Morocco. Spain has a problem with this. Spain wants help from other countries. Some countries do not help. These countries want borders. Spain wants to keep the border safe. Many people come without permission. Many people also die. The number of deaths is very high. The meetings are to find solutions. Everyone wants to help make things better.",
+        "vocabulary": [
+          {
+            "word": "migrants",
+            "definition": "people who move to another place"
+          },
+          {
+            "word": "meeting",
+            "definition": "a time when people talk"
+          },
+          {
+            "word": "border",
+            "definition": "the line between two places"
+          },
+          {
+            "word": "safe",
+            "definition": "not dangerous"
+          },
+          {
+            "word": "problem",
+            "definition": "something that is not good"
+          }
+        ],
+        "questions": [
+          {
+            "question": "When is the EU meeting?",
+            "options": [
+              "On Monday",
+              "On Tuesday",
+              "On Sunday"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What place do many migrants come to?",
+            "options": [
+              "Madrid",
+              "Ceuta",
+              "Berlin"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Spain want?",
+            "options": [
+              "Help from other countries",
+              "More migrants",
+              "More borders"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "EU Emergency Meeting About Migrants in Ceuta",
+        "text": "The European Union is having an emergency meeting on Tuesday. They talk about the big number of migrants in Ceuta. Many of these migrants come from Morocco. Around 60,000 people arrive in the Spanish city. Spain is upset because some countries do not help. Spain wants support from other EU countries. Italy wants to close the borders with Spain. The numbers of deaths are increasing too. At least 67 people have died trying to cross the border. Spain wants to make the borders safer. Spain says it controls the border. Spain wants to stop illegal entry into Europe. They ask for unity and help from other member states, to make migration policies better.",
+        "vocabulary": [
+          {
+            "word": "emergency",
+            "definition": "a serious problem that needs quick action"
+          },
+          {
+            "word": "migrants",
+            "definition": "people who leave their home to move to another place"
+          },
+          {
+            "word": "support",
+            "definition": "help or assistance"
+          },
+          {
+            "word": "migration",
+            "definition": "the movement of people from one place to another"
+          },
+          {
+            "word": "entry",
+            "definition": "the act of going into a place"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why is Spain upset?",
+            "options": [
+              "They have too many migrants",
+              "Some countries are not helping",
+              "Italy closed its borders"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many migrants entered Ceuta?",
+            "options": [
+              "Around 30,000",
+              "Around 60,000",
+              "Around 90,000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Spain want to improve?",
+            "options": [
+              "Their borders",
+              "The number of migrants",
+              "Weather conditions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "EU Holds Emergency Meeting to Address Migrant Crisis in Ceuta",
+        "text": "On Tuesday, the European Union will hold an emergency meeting. This meeting is about the migrant crisis in Ceuta. Recently, around 60,000 migrants entered this small Spanish city from Morocco. Spain is upset because some EU countries are not providing support for this situation. Italy has taken a step back on open borders with Spain, and this decision has support from Denmark and Finland. The Spanish government states that they have taken measures to control the border within 48 hours. Tragically, at least 67 people have died while trying to reach Europe. The EU members sent a letter to leaders, calling for a unified approach to manage migration better. The letter emphasizes the need to strengthen the EU's external borders and prevent illegal entries. Spanish Prime Minister Pedro Sánchez expresses concerns about the reaction of some European governments, mentioning issues like prejudice and misinformation. He states that Ceuta is not part of the Schengen area, which permits free movement.",
+        "vocabulary": [
+          {
+            "word": "emergency",
+            "definition": "something important that needs immediate action"
+          },
+          {
+            "word": "crisis",
+            "definition": "a difficult or dangerous situation"
+          },
+          {
+            "word": "migration",
+            "definition": "the movement of people from one place to another"
+          },
+          {
+            "word": "entry",
+            "definition": "the act of going into a place"
+          },
+          {
+            "word": "prejudice",
+            "definition": "an unfair opinion about a person or group"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Why is the EU meeting on Tuesday?",
+            "options": [
+              "To discuss the migrant crisis",
+              "To cancel borders",
+              "To send more migrants"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many migrants entered Ceuta recently?",
+            "options": [
+              "Around 10,000",
+              "Around 50,000",
+              "Around 60,000"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What did Spain say about other European governments?",
+            "options": [
+              "They are very helpful",
+              "They have serious concerns",
+              "They are all supportive"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "EU Holds Emergency Talks on Migrant Crisis in Ceuta",
+        "text": "On Tuesday, the European Union will convene emergency discussions regarding the migration crisis affecting Ceuta, a Spanish enclave surrounded by Morocco. This meeting comes after intense exchanges between Spain and various member states. A joint letter from twenty-two EU countries called for collaborative actions and enhancements to the EU’s external borders. Approximately 60,000 migrants entered Ceuta, which raised alarm among EU leaders. Spain criticized what it labeled as a \"selfish, polarizing, and unlawful\" response to the influx after Italy suspended the Schengen Agreement, which allows free movement, a move supported by Finland and Denmark. Officials reported that nearly all migrants who reached Ceuta on July 30 have returned home, although the death toll resulting from the surge in crossings has tragically increased to at least 67 people. The letter from EU members highlights concerns about \"hybrid threats\" aimed at creating the false notion that illegal immigration into the EU is feasible. This misinformation potentially undermines confidence in shared migration policies and could impact all member nations. Notable signatories include the leaders of the Netherlands, Finland, and Belgium, who addressed their correspondence to EU President Antonio Costa and Commission President Ursula von der Leyen.",
+        "vocabulary": [
+          {
+            "word": "convene",
+            "definition": "to come together for a meeting"
+          },
+          {
+            "word": "enclave",
+            "definition": "a piece of land that is different from the land around it"
+          },
+          {
+            "word": "collaborative",
+            "definition": "working together"
+          },
+          {
+            "word": "influx",
+            "definition": "a large number of people coming in"
+          },
+          {
+            "word": "misinformation",
+            "definition": "incorrect or false information"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What will the EU discuss on Tuesday?",
+            "options": [
+              "The migration crisis in Ceuta",
+              "New trade agreements",
+              "Sports cooperation",
+              "The migration crisis in Ceuta"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many migrants entered Ceuta recently?",
+            "options": [
+              "About 60,000",
+              "Around 30,000",
+              "Over 100,000",
+              "About 60,000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Which country suspended the Schengen Agreement?",
+            "options": [
+              "Spain",
+              "Italy",
+              "France",
+              "Italy"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "EU Convening Emergency Meeting to Address Migrant Surge in Ceuta",
+        "text": "The European Union is set to convene an emergency meeting on Tuesday to deliberate on the escalating migration crisis in Ceuta, sparked by recent tensions between Spain and several member nations. In a proactive response, twenty-two member states have collectively signed a letter urging coordinated action and the reinforcement of the EU's external borders, following the alarming arrival of approximately 60,000 migrants from Morocco. Spain has condemned what it describes as a \"selfish, polarizing, and unlawful\" reaction, particularly after Italy's suspension of the Schengen Agreement—a move that received backing from Denmark and Finland. Officials have indicated that nearly all individuals who crossed into Ceuta on July 30 have since returned, yet the tragic death toll associated with these crossings has risen to at least 67. The letter explicitly addresses fears surrounding \"hybrid threats\" designed to propagate the erroneous belief that illegal entry into the EU is feasible, which, if left unaddressed, could erode confidence in shared migration policies and have far-reaching repercussions for all member states. Among the notable signatories are leaders from the Netherlands, Finland, and Belgium, directing their correspondence to both EU President Antonio Costa and European Commission President Ursula von der Leyen.",
+        "vocabulary": [
+          {
+            "word": "escalating",
+            "definition": "becoming more intense or serious"
+          },
+          {
+            "word": "proactive",
+            "definition": "taking action in advance to solve a problem"
+          },
+          {
+            "word": "reinforcement",
+            "definition": "strengthening something"
+          },
+          {
+            "word": "propagate",
+            "definition": "to spread information or ideas to many people"
+          },
+          {
+            "word": "far-reaching",
+            "definition": "having a significant effect"
+          }
+        ],
+        "questions": [
+          {
+            "question": "When will the EU hold its emergency meeting?",
+            "options": [
+              "On Wednesday",
+              "On Friday",
+              "On Tuesday",
+              "On Tuesday"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What did Spain call the reaction to the crisis?",
+            "options": [
+              "Supportive and helpful",
+              "Selfish and polarizing",
+              "Indifferent and unresponsive",
+              "Selfish and polarizing"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which countries supported Italy's move to suspend the Schengen Agreement?",
+            "options": [
+              "Finland and Denmark",
+              "Ireland and Belgium",
+              "Germany and France",
+              "Finland and Denmark"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "EU Responds to Migration Crisis in Ceuta with Emergency Talks ",
+        "text": "In a decisive move emblematic of the mounting pressures related to migration, the European Union is poised to convene an emergency meeting on Tuesday, centered on the migratory turmoil in Ceuta. Triggered by escalating tensions between Spain and other EU member states, this gathering comes in the wake of a joint letter from twenty-two countries advocating for the reinforcement of the EU's external borders and highlighting the sheer scale of around 60,000 migrants who recently penetrated this Spanish enclave from Morocco. Spain has vocally criticized the reaction it deems \"selfish, polarizing, and unlawful,\" especially ensuing Italy's suspension of the Schengen Agreement—an act that has garnered backing from both Finland and Denmark. Disturbingly, officials indicate that nearly all individuals who arrived during the surge on July 30 have subsequently returned; however, the tragic reality is underscored by at least 67 recorded fatalities connected to these illegal crossings. The letter expresses profound concerns regarding \"hybrid threats\" that may foster the misleading notion that unlawful entry into the EU is attainable, a perspective that, if normalized, could severely undermine trust in collective migration policies, with implications resonating across all member nations. Significantly, among the key signatories are the leaders of the Netherlands, Finland, and Belgium, who have directed their correspondence to EU President Antonio Costa and European Commission President Ursula von der Leyen, signaling the gravity of the situation.",
+        "vocabulary": [
+          {
+            "word": "decisive",
+            "definition": "having the power to make important decisions"
+          },
+          {
+            "word": "turmoil",
+            "definition": "a state of confusion or disorder"
+          },
+          {
+            "word": "disturbingly",
+            "definition": "in a way that causes worry or concern"
+          },
+          {
+            "word": "fatalities",
+            "definition": "deaths resulting from an event"
+          },
+          {
+            "word": "misleading",
+            "definition": "giving the wrong idea or impression"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the purpose of the EU's emergency meeting?",
+            "options": [
+              "To discuss migration issues in Ceuta",
+              "To evaluate trade policies",
+              "To review security protocols",
+              "To discuss migration issues in Ceuta"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many migrants entered Ceuta from Morocco?",
+            "options": [
+              "About 60,000",
+              "Under 30,000",
+              "More than 100,000",
+              "About 60,000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Which agreement did Italy suspend?",
+            "options": [
+              "The Paris Agreement",
+              "The Schengen Agreement",
+              "The NATO Agreement",
+              "The Schengen Agreement"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "EU spricht über Ceuta und Migration",
+        "text": "Die EU hat eine wichtige Sitzung. Die Sitzung ist am Dienstag. Es geht um die Migration in Ceuta. Viele Migranten kommen aus Marokko. Spanien hat ein großes Problem. Über 60.000 Migranten sind dort. Spanien ist nicht glücklich. Italien hat die Grenzen geschlossen. Spanien sagt, das ist nicht fair. Der Ministerpräsident von Spanien spricht darüber. Er sagt auch, dass die Grenze jetzt sicher ist. Viele Migranten gehen zurück nach Marokko. Es gibt auch viele Tote. Die EU möchte die Grenzen stärken.",
+        "vocabulary": [
+          {
+            "word": "EU",
+            "definition": "Die Europäische Union, eine Gruppe von Ländern."
+          },
+          {
+            "word": "Migranten",
+            "definition": "Menschen, die von einem Land in ein anderes gehen."
+          },
+          {
+            "word": "Problem",
+            "definition": "Eine schwierige Situation."
+          },
+          {
+            "word": "Grenzen",
+            "definition": "Die Linien zwischen zwei Ländern."
+          },
+          {
+            "word": "sicher",
+            "definition": "Ohne Gefahr; sicher sein."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann ist die Sitzung der EU?",
+            "options": [
+              "Am Montag",
+              "Am Dienstag",
+              "Am Mittwoch"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo kommen viele Migranten her?",
+            "options": [
+              "Aus Spanien",
+              "Aus Marokko",
+              "Aus Italien"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was will die EU stärken?",
+            "options": [
+              "Die Schulen",
+              "Die Grenzen",
+              "Die Städte"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "EU bespricht Migranten in Ceuta",
+        "text": "Die Europäische Union hat ein Treffen für Dienstag geplant. Es geht um die Migration in Ceuta und die schwierige Lage dort. In den letzten Monaten kamen viele Migranten aus Marokko. Über 60.000 Menschen haben die Grenze überquert. Spanien hat ein großes Problem, weil viele Menschen in Not sind. Italien hat die Grenzen zu Spanien geschlossen und das sorgte für Konflikte zwischen den Ländern. Die spanische Regierung hat gesagt, das ist nicht gerecht, weil sie die Situation kritisch sieht. Der spanische Ministerpräsident Pedro Sánchez hat in einem Brief geschrieben, dass er große Sorgen hat. Er sagt auch, die Grenze ist jetzt sicher, da die Behörden schnell handeln. Viele Migranten sind zurückgekehrt, aber bei den Überschreitungen starben mindestens 67 Menschen. Die EU möchte die Außengrenzen stärker machen, weil sie die Sicherheit erhöhen will. Außerdem haben 22 Mitgliedstaaten einen Brief geschrieben, um schnellere Maßnahmen zu fordern.",
+        "vocabulary": [
+          {
+            "word": "Zahl",
+            "definition": "Nummer oder Menge von etwas."
+          },
+          {
+            "word": "Gefahr",
+            "definition": "Eine Situation, in der man verletzt werden kann."
+          },
+          {
+            "word": "Kooperation",
+            "definition": "Zusammenarbeit zwischen Personen oder Ländern."
+          },
+          {
+            "word": "Regierung",
+            "definition": "Die Gruppe von Personen, die ein Land leitet."
+          },
+          {
+            "word": "Reaktion",
+            "definition": "Die Antwort auf ein Ereignis oder eine Situation."
+          },
+          {
+            "word": "Kontrolle",
+            "definition": "Die Fähigkeit, etwas zu leiten oder zu überwachen."
+          },
+          {
+            "word": "Problem",
+            "definition": "Eine schwierige Situation, die gelöst werden muss."
+          },
+          {
+            "word": "Menschenleben",
+            "definition": "Das Leben von Menschen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Migranten kamen aus Marokko in den letzten Monaten?",
+            "options": [
+              "60.000",
+              "50.000",
+              "70.000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat Italia mit den Grenzen zu Spanien gemacht?",
+            "options": [
+              "Sie haben sie geöffnet.",
+              "Sie haben sie geschlossen.",
+              "Sie haben sie kontrolliert."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Menschen starben bei den Überschreitungen?",
+            "options": [
+              "50",
+              "67",
+              "80"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "EU diskutiert die Migration in Ceuta",
+        "text": "Die Europäische Union wird am Dienstag ein Notfalltreffen abhalten, um die Migration in Ceuta zu besprechen. Dieses Treffen ist wichtig, weil die Spannungen zwischen Spanien und anderen EU-Mitgliedstaaten zugenommen haben. In den letzten Monaten haben etwa 60.000 Migranten aus Marokko die Grenze überwunden. Spanien hat seine Besorgnis über die Situation geäußert und gefordert, dass die EU zusammenarbeitet, um eine Lösung zu finden. Italien hat sogar die Schengen-Regelung mit Spanien ausgesetzt, was bedeutet, dass die offenen Grenzen zwischen diesen Ländern nicht mehr gelten. Spanien sieht diese Maßnahme als unfair an, weil sie den freien Personenverkehr innerhalb der EU einschränkt. Der Ministerpräsident Pedro Sánchez hat in einem Brief an die EU seine ernsthaften Bedenken über die Reaktionen einiger europäischer Regierungen geäußert. Er hat erklärt, dass die spanische Regierung die Kontrolle über die Grenze wiederhergestellt hat, sodass die Sicherheit wieder gewährleistet ist. Sánchez hat festgestellt, dass in weniger als 48 Stunden viele Migranten zurückgeschickt wurden. Dennoch gibt es in diesem Zusammenhang traurige Nachrichten; mindestens 67 Menschen sind bei den Überquerungen gestorben. Die EU möchte die Außengrenzen stärken, um den illegalen Verkehr zu stoppen, und um allen Mitgliedstaaten zu helfen. Dies ist wichtig, weil ein Mangel an Vertrauen in die gemeinsame Migrationspolitik weitreichende Folgen haben könnte, wenn die Öffentlichkeit glaubt, dass illegaler Eintritt möglich ist. Dies könnte weitere Versuche von Migranten fördern und die Zusammenarbeit zwischen den Mitgliedstaaten untergraben.",
+        "vocabulary": [
+          {
+            "word": "Schengen-Regelung",
+            "definition": "Ein Abkommen, das den freien Personenverkehr zwischen den Mitgliedsländern der EU ermöglicht."
+          },
+          {
+            "word": "außerdem",
+            "definition": "auch; darüber hinaus; zusätzlich."
+          },
+          {
+            "word": "Besorgnis",
+            "definition": "Sorge oder Angst über etwas."
+          },
+          {
+            "word": "Mangel",
+            "definition": "Ein Fehler, bei dem etwas nicht vorhanden ist oder nicht genug ist."
+          },
+          {
+            "word": "Konsequenzen",
+            "definition": "Folgen von bestimmten Handlungen oder Entscheidungen."
+          },
+          {
+            "word": "untergraben",
+            "definition": "Schädigen oder schwächen."
+          },
+          {
+            "word": "außengrenzen",
+            "definition": "Grenzen eines Landes, die zu anderen Ländern führen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Migranten haben die Grenze nach Ceuta überquert?",
+            "options": [
+              "30.000",
+              "60.000",
+              "90.000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat Italien mit der Schengen-Regelung getan?",
+            "options": [
+              "Sie haben sie unterstützt.",
+              "Sie haben sie ausgesetzt.",
+              "Sie haben sie geändert."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Todesfälle wurden durch die Überquerungen gemeldet?",
+            "options": [
+              "47",
+              "67",
+              "77"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "EU tritt in akuten Gesprächen zur Migrationskrise in Ceuta zusammen",
+        "text": "Am Dienstag wird die Europäische Union eine Notbesprechung einberufen, um die Migrationskrise in Ceuta zu erörtern, die nach angespannten Gesprächen zwischen Spanien und anderen Mitgliedsstaaten nötig geworden ist. In einem gemeinsamen Schreiben haben 22 Mitgliedsstaaten die Notwendigkeit koordinierten Handelns und die Stärkung der Außengrenzen der EU gefordert, nachdem etwa 60.000 Migranten aus Marokko in die spanische Enklave gelangt sind. Spanien kritisierte die \"egoistische, polarisierende und illegale\" Reaktion auf die Krise, nachdem Italien eine Aussetzung des schengener Abkommens mit Spanien beschlossen hatte – ein Schritt, der von Finnland und Dänemark unterstützt wurde. Berichten zufolge sind fast alle, die am 30. Juli nach Ceuta gelangten, bereits zurückgekehrt. Die Zahl der Todesopfer, die durch den Anstieg der Überquerungen verursacht wurden, stieg auf mindestens 67. In dem Brief der EU-Mitglieder wird auf die Bedenken hinsichtlich \"hybrider Bedrohungen\" hingewiesen, die den Eindruck erwecken, dass ein illegaler Eintritt in die Europäische Union möglich sei. Dies könnte weitere Versuche fördern und das Vertrauen in unsere gemeinsame Migrationspolitik untergraben. Die Führer der Niederlande, Finnlands und Belgiens gehören zu den Unterzeichnern des Schreibens, das an EU-Präsident Antonio Costa und Kommissionspräsidentin Ursula von der Leyen gerichtet ist. In einem separaten Schreiben an von der Leyen äußerte der spanische Premierminister Pedro Sánchez seine \"ernsten Bedenken\" hinsichtlich bestimmter europäischer Regierungen.",
+        "vocabulary": [
+          {
+            "word": "Migrationskrise",
+            "definition": "eine schwierige Situation durch viele Menschen, die aus einem Land fliehen"
+          },
+          {
+            "word": "koordinierte",
+            "definition": "gemeinsam und gut organisiert"
+          },
+          {
+            "word": "Reaktion",
+            "definition": "wie jemand auf etwas antwortet"
+          },
+          {
+            "word": "Unterzeichner",
+            "definition": "jemand, der seinen Namen unter ein Dokument setzt"
+          },
+          {
+            "word": "Bedenken",
+            "definition": "Sorgen oder Zweifel über etwas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum wird die EU eine Notbesprechung abhalten?",
+            "options": [
+              "Um die fossilfreien Energien zu diskutieren.",
+              "Um die Migrationskrise in Ceuta zu besprechen.",
+              "Um die EU-Außengrenzen zu schließen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Mitgliedsstaaten haben den Brief unterzeichnet?",
+            "options": [
+              "Eins.",
+              "Zehn.",
+              "Zweiundzwanzig."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was hat Spanien über die Reaktion anderer Länder gesagt?",
+            "options": [
+              "Spanien hat keine Meinung dazu.",
+              "Spanien fand die Reaktion unterstützend.",
+              "Spanien kritisierte die Reaktion als geheim."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "EU-Länder beraten über Migrationsfrage in Ceuta: Eine kritische Situation",
+        "text": "Am kommenden Dienstag wird die Europäische Union eine Dringlichkeitssitzung einberufen, um die anhaltende Migrationskrise in Ceuta zu analysieren, die durch angespannte diplomatische Auseinandersetzungen zwischen Spanien und weiteren Mitgliedsstaaten ausgelöst wurde. Nach der Einreise von rund 60.000 Migranten aus Marokko in die spanische Enklave zeigen 22 Mitgliedsstaaten durch ein gemeinsames Schreiben, dass ein koordiniertes Vorgehen notwendig ist, um die Außengrenzen der EU zu sichern. Spanien äußert scharfe Kritik an dem, was es als \"egoistische und polarisierende\" Reaktion auf die Krise berichtet, nachdem Italien die Schengen-Regelung mit Spanien ausgesetzt hat – eine Entscheidung, die die Unterstützung von Finnland und Dänemark erhielt. Offizielle Quellen geben an, dass fast alle Migranten, die am 30. Juli Ceuta erreichten, mittlerweile zurückgeführt wurden. Gleichzeitig ist die Zahl der vermissten Personen auf mindestens 67 gestiegen. Der Brief an die EU-Mitglieder thematisiert auch die wahrgenommenen \"hybriden Bedrohungen\", die den Eindruck erwecken, dass eine illegale Einreise in die EU offen steht, was zu weiteren Anstiegen und einem Vertrauensverlust führen könnte. Die führenden Politiker der Niederlande, Finnlands und Belgiens sind unter den 22 Unterzeichnern dieser Mitteilung an den Präsidenten der EU, Antonio Costa, sowie an Ursula von der Leyen. In einem separaten Schreiben äußerte der spanische Premierminister Pedro Sánchez \"ernste Bedenken\" über einige europäische Regierungen, jedoch lobte er die meisten anderen für ihre Unterstützung.",
+        "vocabulary": [
+          {
+            "word": "Dringlichkeitssitzung",
+            "definition": "eine wichtige und schnelle Besprechung"
+          },
+          {
+            "word": "anständig",
+            "definition": "angemessen oder akzeptabel"
+          },
+          {
+            "word": "entschlossen",
+            "definition": "mit starkem Willen"
+          },
+          {
+            "word": "bewerkstelligen",
+            "definition": "etwas erreichen oder umsetzen"
+          },
+          {
+            "word": "aufrütteln",
+            "definition": "jemanden schockieren oder aufmerken lassen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was kritisierte Spanien an der Reaktion anderer Länder?",
+            "options": [
+              "Spanien fand die Reaktion egoistisch und polarisierend.",
+              "Spanien war mit der Reaktion einverstanden.",
+              "Spanien fand die Reaktion hilfreich."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Länder unterstützen Italien?",
+            "options": [
+              "Finnland und Dänemark.",
+              "Frankreich und Deutschland.",
+              "Polen und Ungarn."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was äußerte der spanische Premierminister über die europäischen Regierungen?",
+            "options": [
+              "Er lobte alle Regierungen.",
+              "Er hatte ernste Bedenken über einige Regierungen.",
+              "Er hatte keine Meinung dazu."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Schicksal von Ceuta: EU im Krisengespräch über migrationspolitische Herausforderungen",
+        "text": "Am Dienstag wird die Europäische Union in einer dringend notwendigen Sitzung die komplexen migrationspolitischen Herausforderungen in Ceuta erörtern, die sich aus den angespannten Beziehungen zwischen Spanien und diversifizierten Mitgliedstaaten ableiten. In einem gemeinsamen Appell fordern 22 Mitgliedsnationen ein koordinierteres Vorgehen an den Außengrenzen, nachdem etwa 60.000 Migranten aus Marokko die spanische Enklave erreicht haben und die Reaktionen der Regierungen beunruhigend polarisiert sind. Spanien hat die \"egoistische und illegale\" Reaktion insbesondere Italiens scharf verurteilt, die in der Aussetzung des Schengen-Abkommens mündete – eine Initiative, die Unterstützung durch Finnland und Dänemark fand. Sofern die Berichte zutreffen, sind beinahe alle Migranten, die am 30. Juli Ceuta erreicht haben, inzwischen wieder nach Marokko zurückgekehrt, während die Zahl der Todesfälle aufgrund der Krise mittlerweile mindestens 67 erreicht hat. Der Brief thematisiert auch die problematische Wahrnehmung von \"hybriden Bedrohungen\", die eine vermeintlich legale Einreisemöglichkeit in die EU suggerieren. Diese Wahrnehmung könnte nicht nur zu weiteren Versuchen illegitimen Grenzübertritts beitragen, sondern auch das Vertrauen in die bestehenden migrationspolitischen Regelungen massiv unterminieren. Unter den Unterzeichnern befinden sich prominente Vertreter der Niederlande, Finnlands und Belgiens, die den Brief an den Präsidenten der EU, Antonio Costa, sowie an Ursula von der Leyen adressiert haben. In einem ergänzenden Schreiben äußerte Premierminister Pedro Sánchez seine \"ernsten Bedenken\" über die allgemeine europäische Reaktion und hob hervor, dass Spanien die Kontrolle an der Grenze binnen 48 Stunden vollständig nachvollziehbar wiederhergestellt habe.",
+        "vocabulary": [
+          {
+            "word": "Schicksal",
+            "definition": "die unaufhaltsame Entwicklung eines Ereignisses"
+          },
+          {
+            "word": "migrationspolitische",
+            "definition": "die Politik bezüglich Migranten"
+          },
+          {
+            "word": "diversifiziert",
+            "definition": "vielfältig oder unterschiedlich"
+          },
+          {
+            "word": "unterminieren",
+            "definition": "schädigen oder schwächen"
+          },
+          {
+            "word": "perzeption",
+            "definition": "die Art und Weise, wie man etwas wahrnimmt"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was fordert der gemeinsame Appell von 22 Mitgliedstaaten?",
+            "options": [
+              "Ein stärkeres Angehen an den Außengrenzen.",
+              "Eine Erweiterung des Schengen-Abkommens.",
+              "Einen weitreichenden Rückzug."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Wahrnehmung wird im Brief thematisiert?",
+            "options": [
+              "Die Wahrnehmung als eine legale Einreisemöglichkeit.",
+              "Die Wahrnehmung von mehr Urlaub.",
+              "Die Wahrnehmung als eine positive Entwicklung."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat der spanische Premierminister über die Kontrolle an der Grenze gesagt?",
+            "options": [
+              "Spanien hatte keine Kontrolle.",
+              "Spanien habe die Kontrolle binnen 48 Stunden wiederhergestellt.",
+              "Spanien hat die Kontrolle für immer verloren."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Réunion d'urgence de l'UE",
+        "text": "L'Union Européenne a une réunion d'urgence. La réunion est mardi. Les membres parlent de la crise des migrants. Il y a des tensions entre l'Espagne et d'autres pays. Vingt-deux pays envoient une lettre. Ils veulent une action coordonnée. Beaucoup de migrants viennent de Maroc. Ils entrent dans une petite ville, Ceuta. Soixante mille migrants arrivent. L'Espagne dit que les réactions sont égoïstes. Les migrants retournent chez eux. Les décès sont au moins soixante-sept. Cette situation est très difficile.",
+        "vocabulary": [
+          {
+            "word": "réunion",
+            "definition": "un moment de rencontre"
+          },
+          {
+            "word": "urgence",
+            "definition": "un besoin très important"
+          },
+          {
+            "word": "crise",
+            "definition": "une grande difficulté"
+          },
+          {
+            "word": "migrant",
+            "definition": "une personne qui bouge pour une autre place"
+          },
+          {
+            "word": "lettre",
+            "definition": "un message écrit"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand est la réunion de l'UE?",
+            "options": [
+              "Mardi",
+              "Lundi",
+              "Dimanche"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "D'où viennent les migrants?",
+            "options": [
+              "De Maroc",
+              "D'Italie",
+              "D'Espagne"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de morts il y a au moins?",
+            "options": [
+              "Soixante",
+              "Soixante-dix",
+              "Quarante"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "L'UE discute de la crise des migrants à Ceuta",
+        "text": "L'Union Européenne a une réunion d'urgence mardi prochain. Cette réunion est à cause de la crise des migrants à Ceuta. L'Espagne a des tensions avec d'autres pays d'Europe. Vingt-deux pays écrivent une lettre ensemble pour demander de l'aide. Ils veulent agir rapidement et protéger les frontières de l'Europe. Environ soixante mille migrants arrivent surtout du Maroc. L'Espagne réagit fortement face à cette situation difficile. Le Premier ministre espagnol, Pedro Sánchez, dit que les réactions d'autres pays sont égoïstes et illégales. Beaucoup de migrants retournent chez eux après de longs voyages. Il y a au moins soixante-sept morts pendant ces traversées dangereuses. Les dirigeants de plusieurs pays ont signé la lettre. Ils veulent que l'Europe se protège mieux contre cette crise humanitaire. Les réactions de certains pays créent des tensions, et cela complique la situation en Ceuta. L'Union doit trouver des solutions pour aider tous les pays concernés.",
+        "vocabulary": [
+          {
+            "word": "tensions",
+            "definition": "situations de conflit entre des personnes ou des pays."
+          },
+          {
+            "word": "migrants",
+            "definition": "personnes qui se déplacent d'un pays à un autre pour vivre."
+          },
+          {
+            "word": "frontières",
+            "definition": "limites entre deux pays."
+          },
+          {
+            "word": "crise",
+            "definition": "situation très grave ou difficile."
+          },
+          {
+            "word": "solution",
+            "definition": "réponse à un problème."
+          },
+          {
+            "word": "documents",
+            "definition": "papiers officiels pour voyager."
+          },
+          {
+            "word": "dangeruses",
+            "definition": "qui peuvent causer du mal."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi l'Union Européenne tient-elle une réunion d'urgence ?",
+            "options": [
+              "À cause des migrations à Ceuta",
+              "Pour discuter de la politique intérieure",
+              "Pour célébrer un accord économique"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Que dit Pedro Sánchez des réactions d'autres pays ?",
+            "options": [
+              "Elles sont utiles et nécessaires",
+              "Elles sont égoïstes et illégales",
+              "Elles montrent de la coopération"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de migrants arrivent de Maroc selon le texte ?",
+            "options": [
+              "Environ vingt mille",
+              "Environ soixante mille",
+              "Environ cent mille"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Réunion d'urgence de l'UE à propos de la migration à Ceuta",
+        "text": "L'Union Européenne a décidé de tenir une réunion d'urgence mardi prochain pour discuter de la crise des migrants à Ceuta. Cette réunion est le résultat des tensions croissantes entre l'Espagne et d'autres États membres. Vingt-deux pays ont envoyé une lettre commune exprimant leurs préoccupations. Dans cette lettre, ils demandent une meilleure coordination et un renforcement des frontières extérieures de l'UE, qui est essentielle dans ce contexte. Environ soixante mille migrants ont été enregistrés à Ceuta depuis le Maroc. L'Espagne a dénoncé les réactions jugées égoïstes et illégales de certains pays. Par exemple, l'Italie a suspendu des accords sur les frontières, ce qui a créé des tensions supplémentaires. La situation dramatique a conduit à un retour presque total des migrants, mais a aussi entraîné soixante-sept décès tragiques en mer. Les dirigeants de plusieurs pays veulent prendre des mesures urgentes pour éviter que cette tragédie ne se reproduise à l'avenir. Pedro Sánchez, le Premier ministre espagnol, souligne qu'il a réussi à contrôler la frontière rapidement, mais il a exprimé des inquiétudes concernant les positions d'autres gouvernements européens. Tout cela montre l'importance d'une réponse unie de l'UE face à la crise migratoire, afin de protéger à la fois les droits des migrants et la sécurité des États membres.",
+        "vocabulary": [
+          {
+            "word": "coordination",
+            "definition": "organisation de différentes actions afin d'agir ensemble efficacement."
+          },
+          {
+            "word": "tensions",
+            "definition": "état de conflit ou de stress entre deux ou plusieurs parties."
+          },
+          {
+            "word": "tragique",
+            "definition": "qui cause une grande tristesse à cause d'événements malheureux."
+          },
+          {
+            "word": "préoccupations",
+            "definition": "soucieux ou inquiet au sujet d'un problème."
+          },
+          {
+            "word": "migrants",
+            "definition": "personnes qui se déplacent d'un pays à un autre pour vivre ou travailler."
+          },
+          {
+            "word": "réaction",
+            "definition": "réponse à un événement, souvent émotionnelle."
+          },
+          {
+            "word": "frontières",
+            "definition": "limites géographiques entre deux pays."
+          },
+          {
+            "word": "urgence",
+            "definition": "situation qui nécessite une attention immédiate."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi l'Espagne a-t-elle dénoncé certaines réactions des autres pays de l'UE ?",
+            "options": [
+              "Parce qu'elles étaient jugées égoïstes et illégales.",
+              "Parce qu'elles étaient bien soutenues.",
+              "Parce qu'elles étaient aimables."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel a été le nombre de décès à ce jour dans cette crise ?",
+            "options": [
+              "Trente-sept décès",
+              "Soixante-sept décès",
+              "Quarante-dix décès"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que demande la lettre commune envoyée par vingt-deux pays ?",
+            "options": [
+              "Un renforcement des frontières extérieures de l'UE.",
+              "Une fermeture totale des frontières.",
+              "Une aide humanitaire uniquement."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Réunion d'urgence de l'UE sur les traversées migratoires à Ceuta",
+        "text": "L'Union européenne (UE) va organiser des discussions d'urgence ce mardi afin d'évoquer la crise migratoire affectant Ceuta, suite à des échanges tendus entre l'Espagne et d'autres États membres. Vingt-deux pays membres ont envoyé une lettre conjointe réclamant une action coordonnée et le renforcement des frontières extérieures de l'UE, après que près de 60 000 migrants aient franchi la frontière du Maroc pour entrer dans l'enclave espagnole. L'Espagne a condamné la réaction, qualifiée de \"égoïste, polarisante et illégale\", suite à la suspension par l'Italie de l'accord Schengen sans frontières avec l'Espagne, une mesure soutenue par la Finlande et le Danemark. Les responsables ont annoncé que presque tous ceux qui sont arrivés à Ceuta le 30 juillet sont rentrés, tandis que le nombre de décès lié à cette vague de traversées a atteint au moins 67. La lettre des États membres soulève des inquiétudes concernant les \"menaces hybrides\", suggérant que la perception d'une entrée illégale possible dans l'UE inciterait davantage de tentatives, minerait la confiance dans notre politique migratoire commune et aurait des répercussions pour tous les États membres. Parmi les signataires figurent les dirigeants des Pays-Bas, de la Finlande et de la Belgique, qui ont adressé cette lettre au président de l'UE Antonio Costa et à la présidente de la Commission européenne, Ursula von der Leyen. Dans une lettre séparée, le Premier ministre espagnol Pedro Sánchez a exprimé des \"préoccupations sérieuses\" concernant certains gouvernements européens, affirmant que son gouvernement avait complètement rétabli le contrôle de la frontière en empêchant tout mouvement non autorisé vers l'Europe continentale en moins de 48 heures.",
+        "vocabulary": [
+          {
+            "word": "enclave",
+            "definition": "un territoire entouré par un autre pays"
+          },
+          {
+            "word": "suspension",
+            "definition": "arrêt temporaire d'une action ou d'une règle"
+          },
+          {
+            "word": "réaction",
+            "definition": "réponse face à un événement"
+          },
+          {
+            "word": "préoccupations",
+            "definition": "inquiétudes ou soucis"
+          },
+          {
+            "word": "migratoire",
+            "definition": "relatif au mouvement de personnes d'un endroit à un autre"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi l'Espagne a-t-elle condamné la réaction de certains pays ?",
+            "options": [
+              "Parce qu'ils ont suspendu Schengen.",
+              "Parce qu'ils soutiennent l'entrée des migrants.",
+              "Parce qu'elle est égoïste et illégale."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel événement a remis en question la politique migratoire commune de l'UE ?",
+            "options": [
+              "L'entrée de 60 000 migrants.",
+              "La suspension de Schengen.",
+              "La réunion d'urgence."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a écrit la lettre conjointe ?",
+            "options": [
+              "Vingt-deux États membres.",
+              "Pedro Sánchez.",
+              "Antonio Costa."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "L'UE convoque une réunion d'urgence face à la crise migratoire de Ceuta",
+        "text": "La réunion d'urgence de l'Union européenne (UE) prévue pour ce mardi vise à traiter la crise migratoire à Ceuta, éclipsée par des tensions palpables entre l'Espagne et plusieurs États membres. En effet, vingt-deux États ont signé une lettre demandant une action coordonnée et un renforcement des frontières extérieures de l'UE, après l'arrivée d'environ 60 000 migrants qui ont franchi la frontière du Maroc. L'Espagne, quant à elle, a dénoncé des réactions jugées \"égoïstes et illégales\" face à la situation, à la suite de la décision de l'Italie de suspendre l'accord Schengen avec l'Espagne, une action soutenue par le Danemark et la Finlande. Selon les autorités, presque tous ceux qui sont parvenus à Ceuta le 30 juillet ont été rapatriés, tandis que le nombre de décès engendrés par cette montée en puissance des traversées a atteint au moins 67. La lettre, qui évoque des \"menaces hybrides\", alerte sur la perception d'une entrée illégale facilitée dans l'UE, susceptible d'inciter à des tentatives supplémentaires et d'éroder la confiance dans la politique migratoire européenne. Parmi les signataires se trouvent les dirigeants néerlandais, finlandais et belges, qui ont adressé leur correspondance au président de l'UE, Antonio Costa, ainsi qu'à Ursula von der Leyen et Michael Martin, le Premier ministre irlandais, président actuel du Conseil de l'UE. Dans une autre lettre, Sánchez a fait part de ses \"préoccupations sérieuses\" concernant certains gouvernements européens, affirmant avoir restauré le contrôle sur la frontière espagnole en moins de 48 heures, et précisant que Ceuta ne fait pas partie de l'espace Schengen.",
+        "vocabulary": [
+          {
+            "word": "éclipsée",
+            "definition": "cachée ou rendue moins visible"
+          },
+          {
+            "word": "rapatriés",
+            "definition": "retournés dans leur pays d'origine"
+          },
+          {
+            "word": "correspondance",
+            "definition": "lettre échangée entre personnes ou entités"
+          },
+          {
+            "word": "menaces hybrides",
+            "definition": "risques combinant plusieurs formes d'agression"
+          },
+          {
+            "word": "érosion",
+            "definition": "diminution ou affaiblissement progressif"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel pays a suspendu l'accord Schengen ?",
+            "options": [
+              "L'Espagne.",
+              "L'Italie.",
+              "La Finlande."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels dirigeants ont signé la lettre conjointe ?",
+            "options": [
+              "Les dirigeants des Pays-Bas, de la Finlande et de la Belgique.",
+              "Les dirigeants de l'Espagne et de la France.",
+              "Les dirigeants de l'Italie."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment l'Espagne a-t-elle répondu à la situation migratoire ?",
+            "options": [
+              "Avec une lettre commune.",
+              "En dénonçant les réactions.",
+              "En fermant ses frontières."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Crise migratoire à Ceuta : l'UE en mode d'urgence",
+        "text": "Alors que les tensions s'intensifient autour de la crise migratoire à Ceuta, l'Union européenne (UE) se voit contrainte de convoquer une réunion d'urgence pour le mardi à venir. En effet, vingt-deux États membres ont uni leurs voix dans une lettre commune exigeant non seulement une action concertée, mais également un renforcement palpable des frontières extérieures de l'UE, après que plus de 60 000 migrants ont fait irruption sur le territoire espagnol depuis le Maroc. L'Espagne, dans un élan de frustration et de désespoir, a condamné les réactions \"égoïstes, polarisantes et illégales\", notamment la décision de l'Italie de suspendre l'accord Schengen avec l'Espagne, décision approuvée à l'unisson par le Danemark et la Finlande. Les autorités ont déclaré que presque tous les arrivants de Ceuta le 30 juillet avaient été rapatriés, tandis que le nombre de décès liés à l'afflux a atteint 67. Dans cette lettre, les préoccupations portant sur les \"menaces hybrides\" sont clairement exposées; elles soulignent le danger que représente la perception d'une entrée illégale, susceptible de galvaniser de nouvelles tentatives et d'éroder la confiance en la politique migratoire conjointe. La missive, marquée par des signatures de poids telles que celles des dirigeants néerlandais, finlandais et belges, a été adressée, entre autres, à Antonio Costa, président de l'UE, et à Ursula von der Leyen, présidente de la Commission européenne. Il est à noter qu'un second courrier de Pedro Sánchez, le Premier ministre espagnol, évoque ses \"séries préoccupantes\" à l'égard de certains gouvernements de l'UE, affirmant que l'Espagne a, en moins de 48 heures, rétabli un contrôle rigoureux sur sa frontière, mettant également en avant que Ceuta ne fait pas partie de l'espace Schengen. Dans ce contexte, une question se pose : jusqu'à quel point ces tensions continueront-elles à influencer la politique migratoire européenne ?",
+        "vocabulary": [
+          {
+            "word": "élan",
+            "definition": "impulsion ou mouvement énergique"
+          },
+          {
+            "word": "bonimenteur",
+            "definition": "personne qui cherche à persuader par la parole"
+          },
+          {
+            "word": "galvaniser",
+            "definition": "stimuler ou exciter"
+          },
+          {
+            "word": "séries préoccupantes",
+            "definition": "nombre d'inquiétudes accumulées"
+          },
+          {
+            "word": "missive",
+            "definition": "lettre ou document écrit"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Que revendiquent les États membres dans leur lettre ?",
+            "options": [
+              "Un soutien aux migrants.",
+              "Une action coordonnée et un renforcement des frontières.",
+              "Une suspension de Schengen."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment l'Espagne a-t-elle restauré le contrôle de la frontière ?",
+            "options": [
+              "En moins de 48 heures.",
+              "En envoyant plus de migrants.",
+              "En fermant toutes les frontières."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a écrit une lettre exprimant des préoccupations sérieuses ?",
+            "options": [
+              "Antonio Costa.",
+              "Ursula von der Leyen.",
+              "Pedro Sánchez."
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Crisis de migración en Ceuta",
+        "text": "La Unión Europea tiene una reunión el martes. Ellos hablan de la crisis de migración en Ceuta. Hay problemas entre España y otros países. Muchos migrantes llegan desde Marruecos. Hay 60,000 migrantes en Ceuta. España dice que la reacción es mala y egoísta. La situación es grave porque hay muertes. Algunas personas han muerto al cruzar. El grupo de países quiere cuidar las fronteras. Ellos piensan que la entrada ilegal es un problema. España quiere mejorar la seguridad. Muchos países apoyan a España.",
+        "vocabulary": [
+          {
+            "word": "crisis",
+            "definition": "situación muy complicada"
+          },
+          {
+            "word": "migración",
+            "definition": "movimiento de personas"
+          },
+          {
+            "word": "migrantes",
+            "definition": "personas que se mueven a otro lugar"
+          },
+          {
+            "word": "reacción",
+            "definition": "respuesta a algo"
+          },
+          {
+            "word": "fronteras",
+            "definition": "líneas que separan países"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo tiene lugar la reunión?",
+            "options": [
+              "el martes",
+              "el viernes",
+              "el lunes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿De dónde llegan los migrantes?",
+            "options": [
+              "de España",
+              "de Marruecos",
+              "de Italia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos migrantes hay en Ceuta?",
+            "options": [
+              "30,000",
+              "60,000",
+              "70,000"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Reunión de emergencia de la Unión Europea",
+        "text": "La Unión Europea va a tener una reunión de emergencia el martes. Ellos hablan sobre la crisis de migración en Ceuta. Hay problemas entre España y otros países de la UE. En total, 22 países escribieron una carta. Ellos quieren que se protejan las fronteras externas de la Unión Europea. Muchos migrantes, alrededor de 60,000, llegaron a Ceuta desde Marruecos. España dice que la reacción de algunos países es egoísta y mala. Italia suspendió el acuerdo Schengen con España por esta situación. Además, muchas muertes ocurrieron. Más de 67 personas murieron al cruzar. El primer ministro español dice que él tiene preocupaciones sobre otros gobiernos europeos. España controla la frontera mejor ahora.",
+        "vocabulary": [
+          {
+            "word": "emergencia",
+            "definition": "situación urgente y importante"
+          },
+          {
+            "word": "carta",
+            "definition": "mensaje escrito"
+          },
+          {
+            "word": "fronteras",
+            "definition": "líneas que separan países"
+          },
+          {
+            "word": "suspendió",
+            "definition": "detener una acción"
+          },
+          {
+            "word": "problemas",
+            "definition": "dificultades o situaciones malas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos países escribieron una carta?",
+            "options": [
+              "22",
+              "30",
+              "15"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué país suspendió el acuerdo Schengen?",
+            "options": [
+              "Francia",
+              "Italia",
+              "Alemania"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántas muertes han ocurrido?",
+            "options": [
+              "30",
+              "67",
+              "50"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Crisis Migratoria y Respuestas de la UE",
+        "text": "La Unión Europea va a realizar una reunión de emergencia este martes. Ellos quieren discutir la crisis de migración en Ceuta, donde hay tensiones entre España y otros países miembros. Veintidós países han enviado una carta conjunta para pedir acciones coordinadas. Muchos migrantes, aproximadamente 60,000, han cruzado a Ceuta desde Marruecos en las últimas semanas. España ha criticado las reacciones egoístas e ilegales de otros estados, especialmente después de que Italia suspendió el acuerdo de Schengen con España, un acuerdo que permite la libre circulación entre países europeos. Este movimiento fue apoyado por Finlandia y Dinamarca. Según las autoridades, casi todos los migrantes que llegaron a Ceuta el 30 de julio han regresado a Marruecos, pero la situación ha causado al menos 67 muertes. La carta de los países menciona preocupaciones sobre las amenazas híbridas que incrementan la percepción de que la entrada ilegal a la Unión Europea es posible. Si esto continúa, puede tener consecuencias serias para la estabilidad de la región y podría fomentar más intentos de cruce. Los líderes de los países como los Países Bajos, Finlandia y Bélgica firman la carta, que se dirige al presidente de la UE, Antonio Costa, y a la presidenta de la Comisión Europea, Ursula von der Leyen. En una carta separada, el primer ministro español, Pedro Sánchez, dijo que tenía \"serias preocupaciones\" sobre la reacción de algunos gobiernos europeos. Él afirmó que el gobierno español había restaurado el control sobre la frontera y había prevenido el movimiento no autorizado hacia Europa continental en menos de 48 horas. Aunque muchos países han mostrado \"apoyo y solidaridad\", Sánchez advirtió que algunos han atacado a España debido a prejuicios o desinformación.",
+        "vocabulary": [
+          {
+            "word": "acuerdo",
+            "definition": "un pacto o compromiso entre dos o más partes."
+          },
+          {
+            "word": "suspendió",
+            "definition": "parar temporalmente algo que estaba en curso."
+          },
+          {
+            "word": "prejuicio",
+            "definition": "una opinión negativa sobre algo que no se basa en una experiencia real."
+          },
+          {
+            "word": "comportamiento",
+            "definition": "la manera de actuar de una persona."
+          },
+          {
+            "word": "solidaridad",
+            "definition": "apoyo mutuo entre personas o grupos."
+          },
+          {
+            "word": "híbrido",
+            "definition": "algo que combina elementos de diferentes orígenes o tipos."
+          },
+          {
+            "word": "importante",
+            "definition": "algo que tiene gran valor o significado."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué quieren discutir los países de la Unión Europea en la reunión de emergencia?",
+            "options": [
+              "La crisis económica",
+              "La crisis de migración",
+              "El acuerdo de Schengen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos migrantes han cruzado a Ceuta desde Marruecos recientemente?",
+            "options": [
+              "30,000",
+              "100,000",
+              "60,000"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué dijo el primer ministro español sobre la reacción de otros países europeos?",
+            "options": [
+              "Que fue muy positiva",
+              "Que tenía serias preocupaciones",
+              "Que estaban de acuerdo con España"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "La UE convoca una reunión de emergencia para discutir los cruces migratorios en Ceuta",
+        "text": "La Unión Europea celebrará conversaciones de emergencia el martes para abordar la crisis migratoria en Ceuta, tras los intercambios tensos entre España y otros estados miembros. Veintidós países firmaron una carta conjunta exigiendo una acción coordinada y el fortalecimiento de las fronteras exteriores de la UE. Esto sucede después de que aproximadamente 60,000 migrantes entraran en el enclave español desde Marruecos. España condenó las reacciones \"egoístas, polarizadoras e ilegales\" ante la crisis, particularmente luego de que Italia suspendiera el acuerdo Schengen de libre circulación con España, un gesto respaldado por Finlandia y Dinamarca. Según los funcionarios, casi todos los que llegaron a Ceuta el 30 de julio han sido devueltos, mientras que el número de muertes por el aumento de cruces ha alcanzado al menos 67. La carta de los miembros de la UE aborda las preocupaciones sobre \"amenazas híbridas para crear la percepción de que la entrada ilegal a la Unión Europea es posible,\" a lo que se añade que dicha percepción \"podría fomentar más intentos, socavar la confianza en nuestra política migratoria común y tener repercusiones para todos los Estados miembros\". Entre los firmantes se encuentran los líderes de los Países Bajos, Finlandia y Bélgica. En una carta separada, el Primer Ministro español Pedro Sánchez expresó sus \"serias preocupaciones\" acerca de ciertos gobiernos europeos, afirmando que su gobierno había restaurado el control total sobre la frontera en menos de 48 horas.",
+        "vocabulary": [
+          {
+            "word": "reacción",
+            "definition": "respuesta a un evento o situación"
+          },
+          {
+            "word": "fortalecimiento",
+            "definition": "hacer algo más fuerte o seguro"
+          },
+          {
+            "word": "preocupaciones",
+            "definition": "sentimientos de inquietud o temor sobre algo"
+          },
+          {
+            "word": "suspender",
+            "definition": "detener algo temporalmente"
+          },
+          {
+            "word": "percepción",
+            "definition": "cómo se entiende o se ve algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos países firmaron la carta conjunta?",
+            "options": [
+              "Veintidós",
+              "Cincuenta",
+              "Treinta"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿De dónde entraron los migrantes a Ceuta?",
+            "options": [
+              "Desde España",
+              "Desde Italia",
+              "Desde Marruecos"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué opinión tiene España sobre la reacción a la crisis?",
+            "options": [
+              "Es positiva",
+              "Es neutral",
+              "Es negativa"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "Las discusiones de emergencia de la UE sobre la crisis migratoria en Ceuta",
+        "text": "El próximo martes, la Unión Europea llevará a cabo una reunión de emergencia para tratar la crisis migratoria que afecta a Ceuta, resultado de intercambios tensos entre España y otros estados miembros. En una carta conjunta, veintidós países han solicitado no solo una actuación coordinada, sino también el fortalecimiento de las fronteras exteriores de la UE, dado que cerca de 60,000 migrantes han cruzado a este enclave español desde Marruecos. España ha condenado fuertemente lo que describió como reacciones \"egoístas y polarizadoras\" ante la situación, especialmente cuando Italia ha decidido suspender temporalmente el acuerdo Schengen de libre circulación, una acción que ha contado con el apoyo de países como Finlandia y Dinamarca. Funcionarios europeos han señalado que, por fortuna, casi todos los migrantes llegaron a Ceuta el 30 de julio han sido devueltos rápidamente, aunque, lamentablemente, el número de muertes asociadas a estos cruces ha aumentado a un total de al menos 67. La carta, que ha generado una amplia discusión, también menciona preocupaciones sobre las \"amenazas híbridas\" que podrían crear la percepción errónea de que la entrada ilegal a la UE es viable, lo que incidiría negativamente en la confianza en la política migratoria común. Además, el Primer Ministro español, Pedro Sánchez, expresó sus inquietudes sobre las críticas de ciertos gobiernos europeos, afirmando haber restablecido el control total de la frontera en menos de cuarenta y ocho horas.",
+        "vocabulary": [
+          {
+            "word": "enclave",
+            "definition": "territorio dentro de otro país"
+          },
+          {
+            "word": "indirectamente",
+            "definition": "de una manera que no es directa"
+          },
+          {
+            "word": "emergencia",
+            "definition": "situación de peligro que requiere acción inmediata"
+          },
+          {
+            "word": "incidir",
+            "definition": "tener un efecto o influencia sobre algo"
+          },
+          {
+            "word": "cuestionar",
+            "definition": "dudar o desafiar algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué se pretende fortalecer según la carta de los veintidós países?",
+            "options": [
+              "Los acuerdos de Schengen",
+              "Las fronteras exteriores de la UE",
+              "Las relaciones bilaterales"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo describió España las reacciones a la crisis?",
+            "options": [
+              "Como constructivas",
+              "Como egoístas y polarizadoras",
+              "Como favorables"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué manifestó Pedro Sánchez sobre el control fronterizo?",
+            "options": [
+              "Que fue inadvertido",
+              "Que fue restaurado rápidamente",
+              "Que fue insuficiente"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "La reunión de emergencia de la UE: un análisis de la crisis migratoria en Ceuta",
+        "text": "El próximo martes, la Unión Europea, en respuesta a una crisis migratoria sin precedentes que ha puesto a prueba la cohesión interna del bloque, convocará una reunión de emergencia para tratar la situación en Ceuta; esta decisión se produce en medio de tensiones crecientes entre España y otros estados miembros, donde veintidós países han firmado una carta conjunta apelando a la necesidad urgente de reforzar las fronteras exteriores de la UE. Tras la entrada masiva de aproximadamente 60,000 migrantes desde Marruecos, España ha emitido una férrea condena a lo que considera reacciones \"egoístas y polarizadoras\" que, lejos de ofrecer soluciones, han contribuido a agravar el problema. Italia, al suspender temporalmente el acuerdo Schengen, ha dejado claro que se siente amenazada, un gesto que ha encontrado eco en naciones como Finlandia y Dinamarca. Según reportes, hasta la fecha, la trágica cifra de muertes relacionadas con estos cruces ha llegado a al menos 67, una estadística que refleja la urgencia de revisar las políticas migratorias actuales. En la misiva, también se advierte sobre las \"amenazas híbridas\" que pueden distorsionar la percepción pública sobre la posibilidad de entradas ilegales a la Unión Europea, lo que podría mermar la confianza en nuestra política migratoria común. En paralelo, el Primer Ministro español, Pedro Sánchez, ha expresado sus serias preocupaciones por los ataques a su país, indicando que la administración española ha recuperado el control total de la frontera en menos de 48 horas, mientras sugiere que algunos gobiernos europeos han elegido un camino de ataque basado en prejuicios y desinformación.",
+        "vocabulary": [
+          {
+            "word": "cohesión",
+            "definition": "unión y solidaridad entre miembros de un grupo"
+          },
+          {
+            "word": "agudizar",
+            "definition": "hacer algo más intenso o grave"
+          },
+          {
+            "word": "distorsionar",
+            "definition": "alterar la verdad o la realidad de algo"
+          },
+          {
+            "word": "misiva",
+            "definition": "carta o comunicación escrita"
+          },
+          {
+            "word": "desinformación",
+            "definition": "información incorrecta o engañosa"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué refleja la cifra de muertes de 67 mencionada en el texto?",
+            "options": [
+              "La eficacia de las políticas migratorias",
+              "La urgencia de revisar las políticas migratorias",
+              "El éxito de la cooperación europea"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué argumentó Sánchez respecto al control de la frontera?",
+            "options": [
+              "Fue insuficiente y tardó mucho",
+              "Fue recuperado en menos de 48 horas",
+              "No fue necesario realizar acciones"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se describe la reacción de Italia hacia el acuerdo Schengen?",
+            "options": [
+              "Como solidaria",
+              "Como defensiva y amenazante",
+              "Como indiferente"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "eu": "EU",
+      "spricht": "speaks",
+      "über": "about",
+      "ceuta": "Ceuta",
+      "und": "and",
+      "migration": "migration",
+      "die": "the",
+      "hat": "has",
+      "eine": "a",
+      "wichtige": "important",
+      "sitzung": "session",
+      "ist": "is",
+      "am": "at the",
+      "dienstag": "Tuesday",
+      "es": "it",
+      "geht": "goes",
+      "um": "around",
+      "in": "in",
+      "viele": "many",
+      "migranten": "migrants",
+      "kommen": "come",
+      "aus": "from",
+      "marokko": "Morocco",
+      "spanien": "spain",
+      "ein": "a",
+      "großes": "large",
+      "problem": "problem",
+      "sind": "are",
+      "dort": "there",
+      "nicht": "not",
+      "glücklich": "happy",
+      "italien": "Italy",
+      "grenzen": "borders",
+      "geschlossen": "closed",
+      "sagt": "says",
+      "das": "that",
+      "fair": "fair",
+      "der": "the",
+      "ministerpräsident": "prime minister",
+      "von": "from",
+      "darüber": "about it",
+      "er": "he",
+      "auch": "also",
+      "dass": "that",
+      "grenze": "border",
+      "jetzt": "now",
+      "sicher": "safe",
+      "gehen": "to go",
+      "zurück": "back",
+      "nach": "after",
+      "gibt": "gives",
+      "tote": "dead",
+      "möchte": "would like",
+      "stärken": "to strengthen",
+      "bespricht": "discusses",
+      "europäische": "European",
+      "union": "union",
+      "treffen": "meeting",
+      "für": "for",
+      "geplant": "planned",
+      "schwierige": "difficult",
+      "lage": "situation",
+      "den": "the",
+      "letzten": "last",
+      "monaten": "months",
+      "kamen": "came",
+      "menschen": "people",
+      "haben": "to have",
+      "überquert": "crosses",
+      "weil": "because",
+      "not": "not",
+      "zu": "to",
+      "sorgte": "provided",
+      "konflikte": "conflicts",
+      "zwischen": "between",
+      "ländern": "countries",
+      "spanische": "Spanish",
+      "regierung": "government",
+      "gesagt": "said",
+      "gerecht": "fair",
+      "sie": "they",
+      "situation": "situation",
+      "kritisch": "critical",
+      "sieht": "sees",
+      "pedro": "Pedro",
+      "sánchez": "Sánchez",
+      "einem": "a",
+      "brief": "letter",
+      "geschrieben": "written",
+      "große": "large",
+      "sorgen": "concerns",
+      "da": "there",
+      "behörden": "authorities",
+      "schnell": "quickly",
+      "handeln": "to act",
+      "zurückgekehrt": "returned",
+      "aber": "but",
+      "bei": "at",
+      "überschreitungen": "exceedances",
+      "starben": "died",
+      "mindestens": "at least",
+      "außengrenzen": "external borders",
+      "stärker": "stronger",
+      "machen": "to make",
+      "sicherheit": "security",
+      "erhöhen": "to increase",
+      "will": "wants",
+      "außerdem": "besides",
+      "mitgliedstaaten": "member states",
+      "einen": "a",
+      "schnellere": "faster",
+      "maßnahmen": "measures",
+      "fordern": "demand",
+      "diskutiert": "discussed",
+      "wird": "will",
+      "notfalltreffen": "emergency meeting",
+      "abhalten": "to prevent",
+      "besprechen": "to discuss",
+      "dieses": "this",
+      "wichtig": "important",
+      "spannungen": "tensions",
+      "anderen": "other",
+      "eu-mitgliedstaaten": "EU member states",
+      "zugenommen": "increased",
+      "etwa": "about",
+      "überwunden": "overcome",
+      "seine": "his",
+      "besorgnis": "concern",
+      "geäußert": "expressed",
+      "gefordert": "demanded",
+      "zusammenarbeitet": "cooperates",
+      "lösung": "solution",
+      "finden": "to find",
+      "sogar": "even",
+      "schengen-regelung": "Schengen agreement",
+      "mit": "with",
+      "ausgesetzt": "suspended",
+      "was": "what",
+      "bedeutet": "means",
+      "offenen": "open",
+      "diesen": "these",
+      "mehr": "more",
+      "gelten": "to apply",
+      "diese": "this",
+      "maßnahme": "measure",
+      "als": "than",
+      "unfair": "unfair",
+      "an": "at",
+      "freien": "free",
+      "personenverkehr": "people transport",
+      "innerhalb": "within",
+      "einschränkt": "restricts",
+      "ernsthaften": "serious",
+      "bedenken": "concerns",
+      "reaktionen": "reactions",
+      "einiger": "some",
+      "europäischer": "European",
+      "regierungen": "governments",
+      "erklärt": "explains",
+      "kontrolle": "control",
+      "wiederhergestellt": "restored",
+      "sodass": "so that",
+      "wieder": "again",
+      "gewährleistet": "ensured",
+      "festgestellt": "determined",
+      "weniger": "less",
+      "stunden": "hours",
+      "zurückgeschickt": "returned",
+      "wurden": "were",
+      "dennoch": "nevertheless",
+      "diesem": "this",
+      "zusammenhang": "context",
+      "traurige": "sad",
+      "nachrichten": "news",
+      "überquerungen": "crossings",
+      "gestorben": "died",
+      "illegalen": "illegal",
+      "verkehr": "traffic",
+      "stoppen": "to stop",
+      "allen": "all",
+      "helfen": "to help",
+      "dies": "this",
+      "mangel": "shortage",
+      "vertrauen": "trust",
+      "gemeinsame": "joint",
+      "migrationspolitik": "migration policy",
+      "weitreichende": "far-reaching",
+      "folgen": "consequences",
+      "könnte": "could",
+      "wenn": "if",
+      "öffentlichkeit": "public",
+      "glaubt": "believes",
+      "illegaler": "illegal",
+      "eintritt": "entry",
+      "möglich": "possible",
+      "weitere": "further",
+      "versuche": "attempts",
+      "fördern": "to promote",
+      "zusammenarbeit": "cooperation",
+      "untergraben": "to undermine",
+      "tritt": "step",
+      "akuten": "acute",
+      "gesprächen": "talks",
+      "zur": "to the",
+      "migrationskrise": "migration crisis",
+      "zusammen": "together",
+      "notbesprechung": "emergency discussion",
+      "einberufen": "to convene",
+      "erörtern": "to discuss",
+      "angespannten": "tense",
+      "mitgliedsstaaten": "member states",
+      "nötig": "necessary",
+      "geworden": "become",
+      "gemeinsamen": "joint",
+      "schreiben": "to write",
+      "notwendigkeit": "necessity",
+      "koordinierten": "coordinated",
+      "handelns": "acting",
+      "stärkung": "strengthening",
+      "nachdem": "after",
+      "enklave": "enclave",
+      "gelangt": "reaches",
+      "kritisierte": "criticized",
+      "egoistische": "selfish",
+      "polarisierende": "polarizing",
+      "illegale": "illegal",
+      "reaktion": "reaction",
+      "auf": "to",
+      "krise": "crisis",
+      "aussetzung": "suspension",
+      "des": "of the",
+      "schengener": "Schengen",
+      "abkommens": "agreement",
+      "beschlossen": "decided",
+      "hatte": "had",
+      "schritt": "step",
+      "finnland": "Finland",
+      "dänemark": "Denmark",
+      "unterstützt": "supports",
+      "wurde": "was",
+      "berichten": "to report",
+      "zufolge": "according",
+      "fast": "almost",
+      "alle": "everyone",
+      "juli": "July",
+      "gelangten": "reached",
+      "bereits": "already",
+      "zahl": "number",
+      "todesopfer": "fatalities",
+      "durch": "through",
+      "anstieg": "increase",
+      "verursacht": "caused",
+      "stieg": "rose",
+      "dem": "the",
+      "eu-mitglieder": "EU members",
+      "hinsichtlich": "regarding",
+      "hybrider": "hybrid",
+      "bedrohungen": "threats",
+      "hingewiesen": "pointed out",
+      "eindruck": "impression",
+      "erwecken": "to awaken",
+      "sei": "is",
+      "unsere": "our",
+      "führer": "leader",
+      "niederlande": "Netherlands",
+      "finnlands": "Finland's",
+      "belgiens": "Belgium's",
+      "gehören": "belong",
+      "unterzeichnern": "signatories",
+      "schreibens": "writing",
+      "eu-präsident": "EU president",
+      "antonio": "Antonio",
+      "costa": "Costa",
+      "kommissionspräsidentin": "commission president",
+      "ursula": "Ursula",
+      "leyen": "Leyen",
+      "gerichtet": "directed",
+      "separaten": "separate",
+      "äußerte": "expressed",
+      "premierminister": "prime minister",
+      "ernsten": "serious",
+      "bestimmter": "certain",
+      "eu-länder": "EU countries",
+      "beraten": "advise",
+      "migrationsfrage": "migration issue",
+      "kritische": "critical",
+      "kommenden": "upcoming",
+      "dringlichkeitssitzung": "urgent session",
+      "anhaltende": "persistent",
+      "analysieren": "analyze",
+      "angespannte": "tense",
+      "diplomatische": "diplomatic",
+      "auseinandersetzungen": "conflicts",
+      "weiteren": "further",
+      "ausgelöst": "triggered",
+      "einreise": "entry",
+      "rund": "round",
+      "zeigen": "to show",
+      "gemeinsames": "joint",
+      "koordiniertes": "coordinated",
+      "vorgehen": "approach",
+      "notwendig": "necessary",
+      "sichern": "to secure",
+      "äußert": "expresses",
+      "scharfe": "sharp",
+      "kritik": "criticism",
+      "berichtet": "reports",
+      "entscheidung": "decision",
+      "unterstützung": "support",
+      "erhielt": "received",
+      "offizielle": "official",
+      "quellen": "sources",
+      "geben": "to give",
+      "erreichten": "achieved",
+      "mittlerweile": "meanwhile",
+      "zurückgeführt": "returned",
+      "gleichzeitig": "simultaneously",
+      "vermissten": "missing",
+      "personen": "people",
+      "gestiegen": "increased",
+      "thematisiert": "thematizes",
+      "wahrgenommenen": "perceived",
+      "hybriden": "hybrid",
+      "offen": "open",
+      "steht": "stands",
+      "anstiegen": "increases",
+      "vertrauensverlust": "loss of trust",
+      "führen": "to lead",
+      "führenden": "leading",
+      "politiker": "politician",
+      "unter": "under",
+      "dieser": "this",
+      "mitteilung": "statement",
+      "präsidenten": "presidents",
+      "sowie": "as well as",
+      "ernste": "serious",
+      "einige": "some",
+      "jedoch": "however",
+      "lobte": "praised",
+      "meisten": "most",
+      "ihre": "their",
+      "schicksal": "fate",
+      "im": "in the",
+      "krisengespräch": "crisis talk",
+      "migrationspolitische": "migration policy",
+      "herausforderungen": "challenges",
+      "einer": "one",
+      "dringend": "urgent",
+      "notwendigen": "necessary",
+      "komplexen": "complex",
+      "migrationspolitischen": "migration policy",
+      "sich": "oneself",
+      "beziehungen": "relationships",
+      "diversifizierten": "diversified",
+      "ableiten": "to derive",
+      "appell": "appeal",
+      "mitgliedsnationen": "member nations",
+      "erreicht": "reached",
+      "beunruhigend": "disturbing",
+      "polarisiert": "polarized",
+      "insbesondere": "especially",
+      "italiens": "Italy's",
+      "scharf": "sharp",
+      "verurteilt": "convicted",
+      "schengen-abkommens": "Schengen agreement",
+      "mündete": "culminated",
+      "initiative": "initiative",
+      "fand": "found",
+      "sofern": "provided that",
+      "berichte": "reports",
+      "zutreffen": "apply",
+      "beinahe": "almost",
+      "inzwischen": "meanwhile",
+      "während": "during",
+      "todesfälle": "casualties",
+      "aufgrund": "due to",
+      "problematische": "problematic",
+      "wahrnehmung": "perception",
+      "vermeintlich": "supposed",
+      "legale": "legal",
+      "einreisemöglichkeit": "entry option",
+      "suggerieren": "to suggest",
+      "nur": "only",
+      "versuchen": "to try",
+      "illegitimen": "illegitimate",
+      "grenzübertritts": "border crossing",
+      "beitragen": "to contribute",
+      "sondern": "but",
+      "bestehenden": "existing",
+      "regelungen": "regulations",
+      "massiv": "massive",
+      "unterminieren": "to undermine",
+      "befinden": "to be",
+      "prominente": "prominent",
+      "vertreter": "representative",
+      "adressiert": "addresses",
+      "ergänzenden": "complementary",
+      "allgemeine": "general",
+      "hob": "lifted",
+      "hervor": "out",
+      "binnen": "within",
+      "vollständig": "complete",
+      "nachvollziehbar": "comprehensible",
+      "habe": "have"
+    },
+    "fr": {
+      "réunion": "meeting",
+      "urgence": "emergency",
+      "de": "of",
+      "ue": "EU",
+      "union": "union",
+      "européenne": "European",
+      "une": "a",
+      "la": "the",
+      "est": "is",
+      "mardi": "Tuesday",
+      "les": "the",
+      "membres": "members",
+      "parlent": "speak",
+      "crise": "crisis",
+      "des": "some",
+      "migrants": "migrants",
+      "il": "he",
+      "tensions": "tensions",
+      "entre": "between",
+      "espagne": "Spain",
+      "et": "and",
+      "autres": "others",
+      "pays": "country",
+      "vingt-deux": "twenty-two",
+      "envoient": "to send",
+      "lettre": "letter",
+      "ils": "they",
+      "veulent": "want",
+      "action": "action",
+      "coordonnée": "coordinated",
+      "beaucoup": "a lot",
+      "viennent": "come",
+      "maroc": "Morocco",
+      "entrent": "enter",
+      "dans": "in",
+      "petite": "small",
+      "ville": "city",
+      "ceuta": "Ceuta",
+      "soixante": "sixty",
+      "mille": "thousand",
+      "arrivent": "arrive",
+      "dit": "says",
+      "que": "that",
+      "réactions": "reactions",
+      "sont": "are",
+      "égoïstes": "selfish",
+      "retournent": "return",
+      "chez": "at",
+      "eux": "them",
+      "décès": "deaths",
+      "au": "at the",
+      "moins": "less",
+      "soixante-sept": "sixty-seven",
+      "cette": "this",
+      "situation": "situation",
+      "très": "very",
+      "difficile": "difficult",
+      "discute": "discusses",
+      "prochain": "next",
+      "cause": "cause",
+      "avec": "with",
+      "europe": "Europe",
+      "écrivent": "write",
+      "ensemble": "together",
+      "pour": "for",
+      "demander": "to ask",
+      "aide": "help",
+      "agir": "to act",
+      "rapidement": "quickly",
+      "protéger": "to protect",
+      "frontières": "borders",
+      "environ": "about",
+      "surtout": "especially",
+      "du": "of the",
+      "réagit": "reacts",
+      "fortement": "strongly",
+      "face": "face",
+      "le": "the",
+      "premier": "first",
+      "ministre": "minister",
+      "espagnol": "Spanish",
+      "pedro": "Pedro",
+      "sánchez": "Sánchez",
+      "illégales": "illegal",
+      "après": "after",
+      "longs": "long",
+      "voyages": "travels",
+      "morts": "deaths",
+      "pendant": "during",
+      "ces": "these",
+      "traversées": "crossings",
+      "dangereuses": "dangerous",
+      "dirigeants": "leaders",
+      "plusieurs": "several",
+      "ont": "have",
+      "signé": "signed",
+      "se": "yourself",
+      "protège": "protects",
+      "mieux": "better",
+      "contre": "against",
+      "humanitaire": "humanitarian",
+      "certains": "some",
+      "créent": "create",
+      "cela": "that",
+      "complique": "complicates",
+      "en": "in",
+      "doit": "must",
+      "trouver": "to find",
+      "solutions": "solutions",
+      "aider": "to help",
+      "tous": "all",
+      "concernés": "concerned",
+      "propos": "words",
+      "migration": "migration",
+      "décidé": "decided",
+      "tenir": "to hold",
+      "discuter": "to discuss",
+      "résultat": "result",
+      "croissantes": "growing",
+      "états": "states",
+      "envoyé": "sent",
+      "commune": "common",
+      "exprimant": "expressing",
+      "leurs": "their",
+      "préoccupations": "concerns",
+      "demandent": "ask",
+      "meilleure": "better",
+      "coordination": "coordination",
+      "un": "a",
+      "renforcement": "strengthening",
+      "extérieures": "external",
+      "qui": "who",
+      "essentielle": "essential",
+      "ce": "this",
+      "contexte": "context",
+      "été": "been",
+      "enregistrés": "registered",
+      "depuis": "since",
+      "dénoncé": "denounced",
+      "jugées": "judged",
+      "par": "by",
+      "exemple": "example",
+      "italie": "Italy",
+      "suspendu": "suspended",
+      "accords": "agreements",
+      "sur": "about",
+      "créé": "created",
+      "supplémentaires": "additional",
+      "dramatique": "dramatic",
+      "conduit": "led",
+      "retour": "return",
+      "presque": "almost",
+      "total": "total",
+      "mais": "but",
+      "aussi": "also",
+      "entraîné": "trained",
+      "tragiques": "tragic",
+      "mer": "sea",
+      "prendre": "to take",
+      "mesures": "measures",
+      "urgentes": "urgent",
+      "éviter": "avoiding",
+      "tragédie": "tragedy",
+      "ne": "not",
+      "reproduise": "reproduce",
+      "avenir": "future",
+      "souligne": "highlights",
+      "réussi": "succeeded",
+      "contrôler": "to control",
+      "frontière": "border",
+      "exprimé": "expressed",
+      "inquiétudes": "worries",
+      "concernant": "concerning",
+      "positions": "positions",
+      "gouvernements": "governments",
+      "européens": "Europeans",
+      "tout": "all",
+      "montre": "shows",
+      "importance": "importance",
+      "réponse": "response",
+      "unie": "united",
+      "migratoire": "migratory",
+      "afin": "in order to",
+      "fois": "times",
+      "droits": "rights",
+      "sécurité": "security",
+      "migratoires": "migratory",
+      "va": "goes",
+      "organiser": "to organize",
+      "discussions": "discussions",
+      "évoquer": "to evoke",
+      "affectant": "affecting",
+      "suite": "following",
+      "échanges": "exchanges",
+      "tendus": "tense",
+      "conjointe": "partner",
+      "réclamant": "demanding",
+      "près": "near",
+      "aient": "have",
+      "franchi": "crossed",
+      "entrer": "to enter",
+      "enclave": "enclave",
+      "espagnole": "Spanish",
+      "condamné": "condemned",
+      "réaction": "reaction",
+      "qualifiée": "qualified",
+      "égoïste": "selfish",
+      "polarisante": "polarizing",
+      "illégale": "illegal",
+      "suspension": "suspension",
+      "accord": "agreement",
+      "schengen": "Schengen",
+      "sans": "without",
+      "mesure": "measure",
+      "soutenue": "sustained",
+      "finlande": "finland",
+      "danemark": "Denmark",
+      "responsables": "responsibles",
+      "annoncé": "announced",
+      "ceux": "those",
+      "arrivés": "arrived",
+      "juillet": "July",
+      "rentrés": "returned",
+      "tandis": "while",
+      "nombre": "number",
+      "lié": "linked",
+      "vague": "wave",
+      "atteint": "reaches",
+      "soulève": "raises",
+      "menaces": "threats",
+      "hybrides": "hybrids",
+      "suggérant": "suggesting",
+      "perception": "perception",
+      "entrée": "entry",
+      "possible": "possible",
+      "inciterait": "would incite",
+      "davantage": "more",
+      "tentatives": "attempts",
+      "minerait": "would undermine",
+      "confiance": "trust",
+      "notre": "our",
+      "politique": "politics",
+      "aurait": "would have",
+      "répercussions": "repercussions",
+      "parmi": "among",
+      "signataires": "signatories",
+      "figurent": "featured",
+      "pays-bas": "Netherlands",
+      "belgique": "Belgium",
+      "adressé": "addressed",
+      "président": "president",
+      "antonio": "Antonio",
+      "costa": "cost",
+      "présidente": "president",
+      "commission": "commission",
+      "ursula": "ursula",
+      "von": "of",
+      "der": "the",
+      "leyen": "leyen",
+      "séparée": "separate",
+      "sérieuses": "serious",
+      "affirmant": "affirming",
+      "son": "his",
+      "gouvernement": "government",
+      "avait": "had",
+      "complètement": "completely",
+      "rétabli": "restored",
+      "contrôle": "control",
+      "empêchant": "preventing",
+      "mouvement": "movement",
+      "non": "no",
+      "autorisé": "authorized",
+      "vers": "towards",
+      "continentale": "continental",
+      "heures": "hours",
+      "convoque": "calls",
+      "prévue": "scheduled",
+      "vise": "aims",
+      "traiter": "to deal",
+      "éclipsée": "eclipsed",
+      "palpables": "palpable",
+      "effet": "effect",
+      "demandant": "demanding",
+      "arrivée": "arrival",
+      "quant": "regarding",
+      "elle": "she",
+      "décision": "decision",
+      "suspendre": "to suspend",
+      "selon": "according",
+      "autorités": "authorities",
+      "parvenus": "arrived",
+      "rapatriés": "repatriated",
+      "engendrés": "generated",
+      "montée": "rise",
+      "puissance": "power",
+      "évoque": "evokes",
+      "alerte": "alert",
+      "facilitée": "facilitated",
+      "susceptible": "susceptible",
+      "inciter": "to incite",
+      "éroder": "to erode",
+      "trouvent": "to find",
+      "néerlandais": "Dutch",
+      "finlandais": "finnish",
+      "belges": "Belgians",
+      "leur": "their",
+      "correspondance": "correspondence",
+      "ainsi": "thus",
+      "michael": "michael",
+      "martin": "Martin",
+      "irlandais": "Irish",
+      "actuel": "current",
+      "conseil": "advice",
+      "autre": "other",
+      "fait": "makes",
+      "part": "part",
+      "ses": "his",
+      "avoir": "to have",
+      "restauré": "restored",
+      "précisant": "clarifying",
+      "pas": "not",
+      "partie": "party",
+      "espace": "space",
+      "mode": "fashion",
+      "alors": "then",
+      "intensifient": "intensify",
+      "autour": "around",
+      "voit": "sees",
+      "contrainte": "constraint",
+      "convoquer": "to summon",
+      "venir": "to come",
+      "uni": "united",
+      "voix": "voice",
+      "exigeant": "demanding",
+      "seulement": "only",
+      "concertée": "coordinated",
+      "également": "also",
+      "palpable": "palpable",
+      "plus": "more",
+      "irruption": "irruption",
+      "territoire": "territory",
+      "élan": "momentum",
+      "frustration": "frustration",
+      "désespoir": "despair",
+      "polarisantes": "polarizing",
+      "notamment": "notably",
+      "approuvée": "approved",
+      "unisson": "unison",
+      "déclaré": "stated",
+      "arrivants": "arrivals",
+      "avaient": "had",
+      "liés": "linked",
+      "afflux": "influx",
+      "portant": "bearing",
+      "clairement": "clearly",
+      "exposées": "exposed",
+      "elles": "they",
+      "soulignent": "underline",
+      "danger": "danger",
+      "représente": "represents",
+      "galvaniser": "to galvanize",
+      "nouvelles": "news",
+      "missive": "letter",
+      "marquée": "marked",
+      "signatures": "signatures",
+      "poids": "weight",
+      "telles": "such",
+      "celles": "those",
+      "adressée": "addressed",
+      "noter": "note",
+      "second": "second",
+      "courrier": "mail",
+      "séries": "series",
+      "préoccupantes": "concerning",
+      "égard": "regard",
+      "rigoureux": "rigorous",
+      "sa": "its",
+      "mettant": "putting",
+      "avant": "before",
+      "question": "question",
+      "pose": "poses",
+      "jusqu'à": "up to",
+      "quel": "which",
+      "point": "point",
+      "continueront-elles": "will they continue",
+      "influencer": "to influence"
+    },
+    "es": {
+      "crisis": "crisis",
+      "de": "of",
+      "migración": "migration",
+      "en": "in",
+      "ceuta": "Ceuta",
+      "la": "the",
+      "unión": "union",
+      "europea": "European",
+      "tiene": "has",
+      "una": "a",
+      "reunión": "meeting",
+      "el": "the",
+      "martes": "Tuesday",
+      "ellos": "they",
+      "hablan": "they talk",
+      "hay": "there is",
+      "problemas": "problems",
+      "entre": "between",
+      "españa": "spain",
+      "otros": "others",
+      "países": "countries",
+      "muchos": "many",
+      "migrantes": "migrants",
+      "llegan": "arrive",
+      "desde": "since",
+      "marruecos": "Morocco",
+      "dice": "says",
+      "que": "that",
+      "reacción": "reaction",
+      "es": "is",
+      "mala": "bad",
+      "egoísta": "selfish",
+      "situación": "situation",
+      "grave": "serious",
+      "porque": "because",
+      "muertes": "deaths",
+      "algunas": "some",
+      "personas": "people",
+      "han": "they have",
+      "muerto": "dead",
+      "al": "to the",
+      "cruzar": "to cross",
+      "grupo": "group",
+      "quiere": "wants",
+      "cuidar": "to care",
+      "las": "the",
+      "fronteras": "borders",
+      "piensan": "think",
+      "entrada": "entrance",
+      "ilegal": "illegal",
+      "un": "a",
+      "problema": "problem",
+      "mejorar": "to improve",
+      "seguridad": "security",
+      "apoyan": "support",
+      "emergencia": "emergency",
+      "va": "goes",
+      "tener": "to have",
+      "sobre": "about",
+      "ue": "eu",
+      "total": "total",
+      "escribieron": "wrote",
+      "carta": "letter",
+      "quieren": "they want",
+      "se": "oneself",
+      "protejan": "to protect",
+      "externas": "external",
+      "alrededor": "around",
+      "llegaron": "arrived",
+      "algunos": "some",
+      "italia": "Italy",
+      "suspendió": "suspended",
+      "acuerdo": "agreement",
+      "schengen": "Schengen",
+      "con": "with",
+      "por": "for",
+      "esta": "this",
+      "además": "furthermore",
+      "muchas": "many",
+      "ocurrieron": "they occurred",
+      "más": "more",
+      "murieron": "died",
+      "primer": "first",
+      "ministro": "minister",
+      "español": "Spanish",
+      "él": "he",
+      "preocupaciones": "worries",
+      "gobiernos": "governments",
+      "europeos": "Europeans",
+      "controla": "controls",
+      "frontera": "border",
+      "mejor": "better",
+      "ahora": "now",
+      "migratoria": "migratory",
+      "respuestas": "responses",
+      "realizar": "to carry out",
+      "este": "this",
+      "discutir": "to discuss",
+      "donde": "where",
+      "tensiones": "tensions",
+      "miembros": "members",
+      "veintidós": "twenty-two",
+      "enviado": "sent",
+      "conjunta": "joint",
+      "para": "to",
+      "pedir": "to ask",
+      "acciones": "actions",
+      "coordinadas": "coordinated",
+      "aproximadamente": "approximately",
+      "cruzado": "crossed",
+      "últimas": "latest",
+      "semanas": "weeks",
+      "ha": "has",
+      "criticado": "criticized",
+      "reacciones": "reactions",
+      "egoístas": "selfish",
+      "ilegales": "illegal",
+      "estados": "states",
+      "especialmente": "especially",
+      "después": "after",
+      "permite": "allows",
+      "libre": "free",
+      "circulación": "circulation",
+      "movimiento": "movement",
+      "fue": "was",
+      "apoyado": "supported",
+      "finlandia": "Finland",
+      "dinamarca": "Denmark",
+      "según": "according",
+      "autoridades": "authorities",
+      "casi": "almost",
+      "todos": "all",
+      "los": "the",
+      "julio": "July",
+      "regresado": "returned",
+      "pero": "but",
+      "causado": "caused",
+      "menos": "less",
+      "menciona": "mentions",
+      "amenazas": "threats",
+      "híbridas": "hybrids",
+      "incrementan": "increase",
+      "percepción": "perception",
+      "posible": "possible",
+      "si": "if",
+      "esto": "this",
+      "continúa": "continues",
+      "puede": "can",
+      "consecuencias": "consequences",
+      "serias": "serious",
+      "estabilidad": "stability",
+      "región": "region",
+      "podría": "could",
+      "fomentar": "to promote",
+      "intentos": "attempts",
+      "cruce": "crossing",
+      "líderes": "leaders",
+      "como": "like",
+      "bajos": "low",
+      "bélgica": "belgium",
+      "firman": "sign",
+      "dirige": "directs",
+      "presidente": "president",
+      "antonio": "antonio",
+      "costa": "coast",
+      "presidenta": "president",
+      "comisión": "commission",
+      "ursula": "Ursula",
+      "von": "of",
+      "der": "the",
+      "leyen": "Leyen",
+      "separada": "separated",
+      "pedro": "peter",
+      "sánchez": "sánchez",
+      "dijo": "said",
+      "tenía": "had",
+      "afirmó": "he affirmed",
+      "gobierno": "government",
+      "había": "had",
+      "restaurado": "restored",
+      "control": "control",
+      "prevenido": "preventive",
+      "no": "not",
+      "autorizado": "authorized",
+      "hacia": "toward",
+      "europa": "europe",
+      "continental": "continental",
+      "horas": "hours",
+      "aunque": "although",
+      "mostrado": "shown",
+      "apoyo": "support",
+      "solidaridad": "solidarity",
+      "advirtió": "warned",
+      "atacado": "attacked",
+      "debido": "due",
+      "prejuicios": "prejudices",
+      "desinformación": "disinformation",
+      "convoca": "calls",
+      "cruces": "crosses",
+      "migratorios": "migratory",
+      "celebrará": "will celebrate",
+      "conversaciones": "conversations",
+      "abordar": "to address",
+      "tras": "after",
+      "intercambios": "exchanges",
+      "tensos": "tense",
+      "firmaron": "signed",
+      "exigiendo": "demanding",
+      "acción": "action",
+      "coordinada": "coordinated",
+      "fortalecimiento": "strengthening",
+      "exteriores": "foreign",
+      "sucede": "happens",
+      "entraran": "would enter",
+      "enclave": "enclave",
+      "condenó": "condemned",
+      "polarizadoras": "polarizing",
+      "ante": "in the face of",
+      "particularmente": "particularly",
+      "luego": "later",
+      "suspendiera": "would suspend",
+      "gesto": "gesture",
+      "respaldado": "backed",
+      "funcionarios": "officials",
+      "sido": "been",
+      "devueltos": "returned",
+      "mientras": "while",
+      "número": "number",
+      "aumento": "increase",
+      "alcanzado": "reached",
+      "aborda": "he addresses",
+      "crear": "to create",
+      "lo": "it",
+      "añade": "adds",
+      "dicha": "said",
+      "socavar": "to undermine",
+      "confianza": "trust",
+      "nuestra": "our",
+      "política": "politics",
+      "común": "common",
+      "repercusiones": "repercussions",
+      "firmantes": "signatories",
+      "encuentran": "find",
+      "expresó": "expressed",
+      "sus": "their",
+      "acerca": "about",
+      "ciertos": "certain",
+      "afirmando": "affirming",
+      "su": "his",
+      "discusiones": "discussions",
+      "próximo": "next",
+      "llevará": "will carry",
+      "cabo": "cape",
+      "tratar": "to try",
+      "afecta": "affects",
+      "resultado": "result",
+      "solicitado": "requested",
+      "solo": "only",
+      "actuación": "performance",
+      "sino": "but",
+      "también": "also",
+      "dado": "given",
+      "cerca": "near",
+      "condenado": "convicted",
+      "fuertemente": "strongly",
+      "describió": "described",
+      "cuando": "when",
+      "decidido": "decided",
+      "suspender": "to suspend",
+      "temporalmente": "temporarily",
+      "contado": "counted",
+      "señalado": "signaled",
+      "fortuna": "fortune",
+      "rápidamente": "quickly",
+      "lamentablemente": "unfortunately",
+      "asociadas": "associated",
+      "estos": "these",
+      "aumentado": "increased",
+      "generado": "generated",
+      "amplia": "broad",
+      "discusión": "discussion",
+      "podrían": "could",
+      "errónea": "wrong",
+      "viable": "viable",
+      "incidiría": "would affect",
+      "negativamente": "negatively",
+      "inquietudes": "concerns",
+      "críticas": "criticisms",
+      "haber": "to have",
+      "restablecido": "reestablished",
+      "cuarenta": "forty",
+      "ocho": "eight",
+      "análisis": "analysis",
+      "respuesta": "response",
+      "sin": "without",
+      "precedentes": "precedents",
+      "puesto": "position",
+      "prueba": "test",
+      "cohesión": "cohesion",
+      "interna": "internal",
+      "del": "of the",
+      "bloque": "block",
+      "convocará": "will convene",
+      "decisión": "decision",
+      "produce": "produces",
+      "medio": "means",
+      "crecientes": "growing",
+      "firmado": "signed",
+      "apelando": "appealing",
+      "necesidad": "necessity",
+      "urgente": "urgent",
+      "reforzar": "to reinforce",
+      "masiva": "massive",
+      "emitido": "issued",
+      "férrea": "iron",
+      "condena": "sentence",
+      "considera": "considers",
+      "lejos": "far",
+      "ofrecer": "to offer",
+      "soluciones": "solutions",
+      "contribuido": "contributed",
+      "agravar": "to worsen",
+      "dejado": "left",
+      "claro": "clear",
+      "siente": "feels",
+      "amenazada": "threatened",
+      "encontrado": "found",
+      "eco": "echo",
+      "naciones": "nations",
+      "reportes": "reports",
+      "hasta": "until",
+      "fecha": "date",
+      "trágica": "tragic",
+      "cifra": "figure",
+      "relacionadas": "related",
+      "llegado": "arrival",
+      "estadística": "statistic",
+      "refleja": "reflects",
+      "urgencia": "urgency",
+      "revisar": "to check",
+      "políticas": "political",
+      "migratorias": "migratory",
+      "actuales": "current",
+      "misiva": "letter",
+      "advierte": "warns",
+      "pueden": "can",
+      "distorsionar": "to distort",
+      "pública": "public",
+      "posibilidad": "possibility",
+      "entradas": "entries",
+      "mermar": "to diminish",
+      "paralelo": "parallel",
+      "expresado": "expressed",
+      "ataques": "attacks",
+      "país": "country",
+      "indicando": "indicating",
+      "administración": "administration",
+      "española": "spanish",
+      "recuperado": "recovered",
+      "sugiere": "suggests",
+      "elegido": "elected",
+      "camino": "path",
+      "ataque": "attack",
+      "basado": "based"
+    }
+  }
+}

@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-02-eu-calls-emergency-meeting-to-discuss-ceuta-migrant-crossing",
+    "date": "2026-08-02",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "EU Holds Emergency Meeting to Address Migrant Crisis in Ceuta",
+      "de": "EU diskutiert die Migration in Ceuta",
+      "fr": "Réunion d'urgence de l'UE à propos de la migration à Ceuta",
+      "es": "Crisis Migratoria y Respuestas de la UE"
+    }
+  },
+  {
+    "id": "2026-08-02-how-spain-s-migrant-crisis-created-a-political-storm-whipped",
+    "date": "2026-08-02",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "The Political Storm of Spain's Migrant Crisis",
+      "de": "Die Migrantenkrise in Spanien und die politische Reaktion",
+      "fr": "La crise des migrants en Espagne",
+      "es": "Crisis migratoria en España y la reacción de Europa"
+    }
+  },
+  {
+    "id": "2026-08-02-trump-says-he-is-cancelling-strikes-on-iran-subject-to-deal-",
+    "date": "2026-08-02",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump Cancels Military Strikes Against Iran for a Quick Deal",
+      "de": "Trump annulliert Angriffe auf Iran, wenn ein schneller Deal möglich ist",
+      "fr": "Trump annule les frappes sur l'Iran en attente d'un accord",
+      "es": "Trump cancela ataques a Irán por un nuevo acuerdo"
+    }
+  },
+  {
     "id": "2026-08-01-israeli-west-bank-settler-tells-bbc-attacks-on-palestinians-",
     "date": "2026-08-01",
     "source": "BBC News",
