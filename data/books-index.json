@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-02-the-master-and-the-margarita-mikhail-bulgakov",
+    "date": "2026-08-02",
+    "author": "Mikhail Bulgakov",
+    "image": "https://covers.openlibrary.org/b/id/15013644-L.jpg",
+    "titles": {
+      "en": "The Master and the Margarita",
+      "de": "Der Meister und Margarita",
+      "fr": "Le Maître et Marguerite",
+      "es": "El Maestro y Margarita"
+    }
+  },
+  {
     "id": "2026-07-31-the-story-of-the-lost-child-elena-ferrante",
     "date": "2026-07-31",
     "author": "Elena Ferrante",
