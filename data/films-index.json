@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-02-a-fantastic-woman-sebastian-lelio",
+    "date": "2026-08-02",
+    "director": "Sebastián Lelio",
+    "image": "https://image.tmdb.org/t/p/w780/x2yNruMR8bAJOIQ3wd7HR9qWjW3.jpg",
+    "titles": {
+      "en": "A Fantastic Woman",
+      "de": "Eine fantastische Frau und ihre Stärke",
+      "fr": "Une Femme Fantastique",
+      "es": "Una mujer fantástica: Un viaje emocional"
+    }
+  },
+  {
     "id": "2026-08-01-brazil-terry-gilliam",
     "date": "2026-08-01",
     "director": "Terry Gilliam",
