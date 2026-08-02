@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-02-1973-summerland-disaster",
+    "date": "2026-08-02",
+    "year": 1973,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Summerland_-_the_burnt_out_remains_the_month_after_the_fire%2C_geograph_5858933_by_Stuart_Taylor.jpg/330px-Summerland_-_the_burnt_out_remains_the_month_after_the_fire%2C_geograph_5858933_by_Stuart_Taylor.jpg",
+    "titles": {
+      "en": "The Summerland Fire Tragedy",
+      "de": "Die Tragödie im Sommerland Freizeitcenter",
+      "fr": "L'incendie du centre de loisirs Summerland",
+      "es": "El incendio en el centro de ocio Summerland"
+    }
+  },
+  {
     "id": "2026-08-01-2009-tel-aviv-gay-centre-shooting",
     "date": "2026-08-01",
     "year": 2009,
