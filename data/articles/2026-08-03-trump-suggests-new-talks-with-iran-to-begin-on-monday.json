@@ -1,0 +1,2639 @@
+{
+  "id": "2026-08-03-trump-suggests-new-talks-with-iran-to-begin-on-monday",
+  "date": "2026-08-03",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Trump suggests new talks with Iran to begin on Monday",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84f8/live/c0137640-8f07-11f1-b2ab-0dd01740f9f6.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Trump talks to Iran on Monday",
+        "text": "US President Trump says he talks to Iran. The talks start on Monday. Trump calls off big attacks on Iran. He says Iran sees the attack coming. Trump talks on Air Force One. He says Iran and allies want no attack. Iran's foreign group says no US talks now. Trump says there is a new deal. Oil prices go down after Trump's news. Trump will not say when he wants a deal. Iran says US claims are not true. Iran's leader says they see all threats. Trump has said a lot about Iran before. People worry about the war in America. They want peace not fighting.",
+        "vocabulary": [
+          {
+            "word": "talks",
+            "definition": "discussions between people"
+          },
+          {
+            "word": "attack",
+            "definition": "a strong action against someone"
+          },
+          {
+            "word": "president",
+            "definition": "the leader of a country"
+          },
+          {
+            "word": "news",
+            "definition": "new information about events"
+          },
+          {
+            "word": "deal",
+            "definition": "an agreement between people"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who talks to Iran?",
+            "options": [
+              "Trump",
+              "Biden",
+              "Obama"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "When do the talks start?",
+            "options": [
+              "Saturday",
+              "Monday",
+              "Sunday"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What happens to oil prices?",
+            "options": [
+              "They go up",
+              "They stay the same",
+              "They go down"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump starts talks with Iran on Monday",
+        "text": "US President Donald Trump announced that talks with Iran start on Monday. He had called off large attacks on Iran. Trump said that Iran knew about the attack. He spoke while traveling on Air Force One. Trump explained that Iran and its allies in the Middle East asked him to avoid striking. Iran's foreign office said they do not want to meet a US group now. Trump believes that a new agreement is possible. He did not give a time for the deal. Oil prices dropped after Trump made the announcement. Trump said some leaders in the Middle East do not want violence. They think a new deal can happen. Many people in the US are worried about the ongoing conflict.",
+        "vocabulary": [
+          {
+            "word": "announced",
+            "definition": "told something important"
+          },
+          {
+            "word": "traveling",
+            "definition": "moving from one place to another"
+          },
+          {
+            "word": "possible",
+            "definition": "can happen or be done"
+          },
+          {
+            "word": "ongoing",
+            "definition": "still happening now"
+          },
+          {
+            "word": "conflict",
+            "definition": "a fight or struggle"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Trump announce?",
+            "options": [
+              "New talks with Iran",
+              "New attacks on Iran",
+              "A vacation"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What happened to oil prices?",
+            "options": [
+              "They went up",
+              "They dropped",
+              "They stayed the same"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who asked Trump to avoid strikes?",
+            "options": [
+              "Iran and allies",
+              "Only China",
+              "Russia and Iran"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump Plans New Talks with Iran",
+        "text": "US President Donald Trump has announced that new negotiations with Iran will start on Monday. This important decision comes after Trump previously canceled plans for what he referred to as \"massive\" military strikes against Iran. He reported that Iran was aware of the potential attack, which indicates that communication between the two nations has been ongoing. Both Iran and some of its regional allies in the Middle East requested him to delay those strikes, showing their hope for a peaceful resolution. The Iranian government, however, stated that there are currently no plans to host a US delegation, which suggests that trust remains low. Despite these challenges, Trump expressed optimism about reaching a new agreement. Following his announcement, global oil prices dropped significantly, with Brent Crude oil falling by 4.5%. This indicates that the market reacted quickly to the news, reflecting the relationship between geopolitical events and oil prices. Furthermore, Trump commented that leaders in the Middle East encouraged him to avoid aggressive actions. The ongoing conflict has led to anxiety among many Americans as we approach the elections. Although Trump did not provide a specific timeline for the talks, he hinted at possible future discussions that could help improve relations. The situation remains tense as both sides navigate this complex relationship, with many people watching closely to see what happens next. If negotiations succeed, it could lead to a significant shift in the region's politics and economy.",
+        "vocabulary": [
+          {
+            "word": "negotiate",
+            "definition": "to try to reach an agreement by discussing something with others."
+          },
+          {
+            "word": "escalate",
+            "definition": "to become more intense or serious."
+          },
+          {
+            "word": "delegation",
+            "definition": "a group of people chosen to represent a larger group."
+          },
+          {
+            "word": "optimism",
+            "definition": "a feeling of hopefulness about the future."
+          },
+          {
+            "word": "impact",
+            "definition": "the effect or influence of one person, thing, or action on another."
+          },
+          {
+            "word": "tension",
+            "definition": "a situation in which people feel nervous or worried."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump say about the planned military strikes against Iran?",
+            "options": [
+              "They were canceled.",
+              "They will happen next week.",
+              "They were successful."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How did global oil prices react to Trump's announcement?",
+            "options": [
+              "They rose sharply.",
+              "They fell significantly.",
+              "They remained the same."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Trump indicate about the upcoming negotiations with Iran?",
+            "options": [
+              "They will take place at a specific location.",
+              "He is optimistic about reaching an agreement.",
+              "They will be held without any representatives."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump Announces New Iran Talks to Start on Monday",
+        "text": "President Donald Trump has announced that new negotiations with Iran will commence on Monday, following his decision to cancel what he described as potentially \"massive\" military strikes against the nation. While speaking to reporters aboard Air Force One, Trump stated, \"They knew the extent of the attack because they saw it forming. We're engaging in discussions through negotiation, which will start tomorrow afternoon.\" He had previously indicated on Truth Social that Iran and its allies in the Middle East had urged him to delay any assault, as significant progress in talks was reportedly achieved. However, Iran's foreign ministry denied that they would host a US delegation, or that any Iranian officials would travel to Washington. Although prior negotiations were conducted via mediators, strikes between the US and Iran continued even as Trump asserted that a peaceful resolution to the conflict was approaching. Refusing to specify a timeline for an agreement, Trump remarked, \"We'll just see how it is. We're ready to go anytime... I'm not looking to kill people.\" Despite this, global oil prices fell sharply following Trump's announcement due to concerns over potential disruptions in the Strait of Hormuz, a critical shipping route for oil exports.",
+        "vocabulary": [
+          {
+            "word": "negotiate",
+            "definition": "to discuss something in order to reach an agreement."
+          },
+          {
+            "word": "cancellation",
+            "definition": "the act of ending something."
+          },
+          {
+            "word": "assault",
+            "definition": "a sudden and violent attack."
+          },
+          {
+            "word": "concerning",
+            "definition": "related to; about."
+          },
+          {
+            "word": "strategist",
+            "definition": "a person who plans things carefully."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Trump say about the planned military strikes?",
+            "options": [
+              "They were cancelled because they were too big.",
+              "They would have been successful.",
+              "They were already executed."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who urged Trump to hold off on military action?",
+            "options": [
+              "Iran's foreign ministry.",
+              "Iran and US allies in the Middle East.",
+              "US citizens."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What happened to oil prices after Trump's announcement?",
+            "options": [
+              "Oil prices fell sharply.",
+              "Oil prices increased significantly.",
+              "Oil prices remained the same."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump Initiates New Diplomacy with Iran, Canceling Planned Strikes",
+        "text": "In a significant development regarding US-Iran relations, President Donald Trump declared that fresh negotiations with Iran will commence on Monday, following the cancellation of what he characterized as a potentially \"massive\" military strike against the nation. Addressing reporters aboard Air Force One, Trump remarked, \"They knew the extent of the attack because they saw it forming,\" thereby indicating his awareness of the situation's gravity. In an earlier post on Truth Social, he revealed that both Iran and US allies in the region had implored him to refrain from action, citing progress on certain negotiated terms. However, Iran's foreign ministry denied any intention to welcome a US delegation or send its representatives to Washington. Although previous negotiations have involved intermediaries, tensions have escalated, with exchanges of strikes continuing even as Trump insisted that a resolution might be nearing. He declined to set a specific timeline for a deal, stating, \"We'll just see how it is. We're ready to go anytime... I'm not looking to kill people.\" In the financial markets, oil prices plummeted in response to the uncertainty generated by Trump's announcement regarding the talks, primarily affecting shipping through the crucial Strait of Hormuz.",
+        "vocabulary": [
+          {
+            "word": "diplomacy",
+            "definition": "the management of relationships between countries."
+          },
+          {
+            "word": "characterize",
+            "definition": "to describe the qualities or traits of something."
+          },
+          {
+            "word": "escalated",
+            "definition": "increased in intensity or seriousness."
+          },
+          {
+            "word": "indicate",
+            "definition": "to point out or show something."
+          },
+          {
+            "word": "plummeted",
+            "definition": "fell suddenly and steeply."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What action did Trump cancel?",
+            "options": [
+              "Negotiations with Iran.",
+              "Planned military strikes.",
+              "Trade agreements."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Trump imply about the strike preparation?",
+            "options": [
+              "It was a mistake.",
+              "They were aware of the planned attack.",
+              "It had no consequences."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did oil prices react to Trump's announcement?",
+            "options": [
+              "They increased dramatically.",
+              "They plummeted.",
+              "They remained stable."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump's Shift to Diplomacy Marks a Potential Turning Point in US-Iran Relations",
+        "text": "In a remarkable anomaly within a tumultuous foreign policy landscape, President Donald Trump has ostensibly initiated a new diplomatic dialogue with Iran, a strategic geopolitical shift that was precipitated by his abrupt withdrawal from plans for extensive military airstrikes. While addressing the media on Air Force One, Trump candidly revealed that, \"They knew the extent of the attack because they saw it forming,\" an admission reflecting an acute awareness of the complexities that surround such military decisions. Delving deeper into this intricate web of diplomacy, Trump further elaborated via a post on Truth Social, wherein he disclosed that both Iran and its Middle Eastern allies had earnestly implored him to postpone any aggressive actions, implying substantial progress in negotiations. Contrarily, Iran's foreign ministry publicly repudiated these claims, asserting there were no arrangements to host a US delegation in Tehran or dispatch its officials to Washington. Notably, despite previous attempts at mediation, tensions have escalated, with reciprocal strikes being a common occurrence, illustrating the volatile nature of this conflict. As Trump refrained from articulating a definite timeline for a potential agreement, asserting instead, \"We'll just see how it is. We're ready to go anytime... I'm not looking to kill people,\" one must speculate the implications of this nuanced approach. Consequently, in global markets, oil prices experienced a significant downturn, a direct reaction to this unfolding narrative amidst ongoing concerns regarding maritime security in the critical Strait of Hormuz.",
+        "vocabulary": [
+          {
+            "word": "anomaly",
+            "definition": "an unusual or unexpected situation."
+          },
+          {
+            "word": "precipitated",
+            "definition": "caused something to happen suddenly."
+          },
+          {
+            "word": "repudiated",
+            "definition": "refused to accept or support something."
+          },
+          {
+            "word": "reciprocal",
+            "definition": "involving mutual action."
+          },
+          {
+            "word": "nuanced",
+            "definition": "having subtle differences in meaning or opinion."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What major shift has Trump initiated?",
+            "options": [
+              "An agreement with Iran.",
+              "New diplomatic talks.",
+              "Complete withdrawal from negotiations."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did Iran react to Trump's statements?",
+            "options": [
+              "They agreed to participate in talks.",
+              "They claimed his comments were false.",
+              "They expressed gratitude for his actions."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What was the consequence of the announcement on oil prices?",
+            "options": [
+              "They dramatically increased.",
+              "They underwent a significant fall.",
+              "They remained unchanged."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Trump spricht mit Iran",
+        "text": "Donald Trump ist der Präsident der USA. Er sagt, neue Gespräche mit Iran beginnen am Montag. Trump sagt, er will keine Angriffe auf Iran. Iran sieht die Angriffe kommen. Trump spricht mit Iran über einen Vertrag. Er will Frieden. Trumps Freunde in Saudi-Arabien sagen, das ist gut. Öl kostet weniger nach Trumps Verhandlungen. Iran will nicht, dass die USA angreifen. Sie sagen, das sind Lügen. Die Gespräche sind wichtig. Trump hofft auf Frieden.",
+        "vocabulary": [
+          {
+            "word": "Präsident",
+            "definition": "Eine Person, die ein Land führt."
+          },
+          {
+            "word": "Gespräche",
+            "definition": "Man spricht miteinander."
+          },
+          {
+            "word": "Angriffe",
+            "definition": "Man attackiert etwas oder jemanden."
+          },
+          {
+            "word": "Freunde",
+            "definition": "Menschen, die nett zueinander sind."
+          },
+          {
+            "word": "Frieden",
+            "definition": "Keine Kämpfe oder Kriege mehr."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann beginnen die Gespräche mit Iran?",
+            "options": [
+              "Am Montag",
+              "Am Dienstag",
+              "Am Sonntag"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Will Trump angreifen?",
+            "options": [
+              "Ja",
+              "Nein",
+              "Vielleicht"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer sagt, das ist gut?",
+            "options": [
+              "Trump",
+              "Saudi-Arabien",
+              "Iran"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump und Iran: Neue Gespräche am Montag",
+        "text": "Der US-Präsident Donald Trump hat angekündigt, neue Gespräche mit Iran beginnen am Montag. Dies kommt nach großen Spannungen zwischen den beiden Ländern. Trump hatte vorher sogar massive Angriffe auf Iran abgesagt. Viele Länder, wie Saudi-Arabien, haben ihn gebeten, keine Angriffe zu führen. Iran hat nicht um Gespräche gebeten, sagt das Außenministerium. Es gibt viele Streitigkeiten, wie über das Öl oder das Atomprogramm. Trump will den Krieg beenden und Frieden erreichen. Viele Menschen sind besorgt über die Situation. Nach Trumps Ankündigung sinken die Ölpreise schnell. Das ist wichtig für viele Länder. Trump denkt, dass ein Vertrag über Öl und Frieden wichtig ist. Er hat gesagt, dass es die Möglichkeit für eine Lösung gibt. Die Gespräche könnten in der Woche sehr wichtig sein, und viele Menschen beobachten die Situation. Über die genauen Pläne für die Gespräche hat Trump nicht viel gesagt. Er will aber, dass die Verhandlungen konstruktiv sind und bringt neue Hoffnung für Frieden. Die Weltgemeinschaft hofft auf positive Ergebnisse.",
+        "vocabulary": [
+          {
+            "word": "Gespräche",
+            "definition": "diskursive Interaktionen zwischen Menschen"
+          },
+          {
+            "word": "Angriffe",
+            "definition": "militärische Attacken auf Ziele"
+          },
+          {
+            "word": "Ölpreise",
+            "definition": "Preise für Rohöl auf dem Markt"
+          },
+          {
+            "word": "Verhandlungen",
+            "definition": "diskursive Prozesse zur Einigung"
+          },
+          {
+            "word": "Streitigkeiten",
+            "definition": "Konflikte oder Meinungsverschiedenheiten"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat Trump abgesagt?",
+            "options": [
+              "Massive Angriffe auf Iran",
+              "Neuen Frieden",
+              "Hilfsangebote für Iran"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was denkt Trump über den Krieg?",
+            "options": [
+              "Er möchte den Krieg beenden",
+              "Er will weiter kämpfen",
+              "Er hat keinen Plan"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum sinken die Ölpreise?",
+            "options": [
+              "Weil es Keine neuen Gespräche gibt",
+              "Weil Trump neue Gespräche angekündigt hat",
+              "Weil das Wetter schlecht ist"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump kündigt neue Gespräche mit Iran an",
+        "text": "Der Präsident der Vereinigten Staaten, Donald Trump, hat heute bekanntgegeben, dass neue Gespräche mit Iran am Montag stattfinden werden. Zuvor hatteTrump massive Militärangriffe auf Iran abgesagt. Er erklärte, dass andere Länder, wie zum Beispiel Saudi-Arabien, ihn darum gebeten hätten, von einem Angriff abzusehen. Diese Nationen glauben, dass Verhandlungen möglich sind, um einen Deal zu erreichen. Trump hat zudem betont, dass die \"Rahmenbedingungen\" eines Abkommens bereits besprochen worden seien. \nIrans Außenministerium hingegen hat erklärt, dass es keine Pläne gibt, eine Delegation nach Washington zu schicken. Viele Menschen in der Region sehen die Situation kritisch, weil der Krieg seit Wochen andauert und viele unschuldige Menschen betroffen sind. Nach Trumps Ankündigung sanken die globalen Ölpreise deutlich, was zeigt, dass die Wirtschaftsbeziehungen eng mit der politischen Situation verknüpft sind. Wenn die Gespräche erfolgreich sind, könnte das auch positive Auswirkungen auf die Weltwirtschaft haben. Das US-Außenministerium hat noch keinen offiziellen Ort für die Gespräche angegeben, und es bleibt unklar, wer an den Verhandlungen teilnehmen wird. Analysten beobachten die Entwicklung genau, weil ein erfolgreicher Dialog die Spannungen in der Region verringern könnte, während ein scheiternder Dialog zu weiteren Konflikten führen könnte. Viele hoffen, dass die Gespräche eine friedliche Lösung ermöglichen, wenn Trump weiterhin den Dialog fördert.",
+        "vocabulary": [
+          {
+            "word": "verhandeln",
+            "definition": "Gespräche führen, um eine Einigung zu erreichen."
+          },
+          {
+            "word": "Delegation",
+            "definition": "Eine Gruppe von Personen, die eine bestimmte Aufgabe hat oder ein Treffen vertritt."
+          },
+          {
+            "word": "Unsicherheit",
+            "definition": "Ein Gefühl von Zweifel oder Mangel an Klarheit."
+          },
+          {
+            "word": "Ölpreise",
+            "definition": "Die Kosten für Öl, die auf dem Markt gehandelt werden."
+          },
+          {
+            "word": "wirtschaftlich",
+            "definition": "Die Wirtschaft betreffend oder mit der Wirtschaft verbunden."
+          },
+          {
+            "word": "Analysten",
+            "definition": "Fachleute, die Daten auswerten und Prognosen machen."
+          },
+          {
+            "word": "Krise",
+            "definition": "Ein wichtiger, oft kritischer Zustand oder eine schwierige Situation."
+          },
+          {
+            "word": "Verhandlungen",
+            "definition": "Offizielle Gespräche, um zu einer Vereinbarung zu gelangen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann sollen die Gespräche mit Iran stattfinden?",
+            "options": [
+              "Am Montag",
+              "Am Dienstag",
+              "Nächste Woche"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum hat Trump die Militärangriffe abgesagt?",
+            "options": [
+              "Auf Bitten anderer Länder",
+              "Weil er Angst hatte",
+              "Weil er keine Zeit hatte"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was könnte ein erfolgreicher Dialog bewirken?",
+            "options": [
+              "Er könnte die Spannungen verringern",
+              "Er könnte die Ölpreise erhöhen",
+              "Er könnte neue Kriege auslösen"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump schlägt neue Gespräche mit Iran für Montag vor",
+        "text": "Der US-Präsident Donald Trump hat bekannt gegeben, dass neue Verhandlungen mit Iran am Montag beginnen werden, nachdem er zuvor massive Militärschläge gegen das Land abgesagt hatte. \"Sie wussten von dem Umfang des Angriffs, weil sie ihn sich bildlich vorstellten\", sagte er am Sonntag den Journalisten an Bord von Air Force One. \"Wir sprechen mit ihnen in Form einer Verhandlung. Es beginnt morgen Nachmittag.\" In einem früheren Beitrag auf Truth Social erklärte Trump, dass er von Iran und US-Verbündeten im Nahen Osten gebeten worden sei, jedweden Angriff auszusetzen, da die Rahmenbedingungen eines Abkommens bereits vereinbart worden seien. Das Außenministerium Irans wies jedoch darauf hin, dass es keine Pläne gebe, eine US-Delegation zu empfangen oder iranische Vertreter nach Washington zu senden. Die bisherigen Gespräche fanden über Vermittler statt. Trump hat wiederholt betont, dass ein verhandelter Frieden in naher Zukunft möglich sei, aber oft führten Vergeltungsschläge zu weiteren Kämpfen. Er wollte keinen Termin für einen möglichen Abschluss des Abkommens nennen und fügte hinzu: \"Wir werden sehen, wie es ist. Wir sind jederzeit bereit... Ich will keine Menschen töten.\" Trump erwähnte außerdem, dass der saudi-arabische Kronprinz Mohammed Bin Salman sowie US-Partner wie die Vereinigten Arabischen Emirate und Katar ihn gedrängt hatten, am Wochenende keine Angriffe durchzuführen. \"Wir waren bereit zu gehen\", erklärte Trump. \"Der Grund für ihre Bitte ist, dass sie an ein Abkommen glauben,\" so Trump. \"Es gibt ein Abkommen in Hormuz und es wird auch ein Abkommen über das Atomprogramm geben.\"",
+        "vocabulary": [
+          {
+            "word": "Verhandlungen",
+            "definition": "Gespräche zwischen zwei oder mehr Parteien"
+          },
+          {
+            "word": "Militärschläge",
+            "definition": "Angriffe mit militärischen Mitteln"
+          },
+          {
+            "word": "Abkommen",
+            "definition": "Eine Vereinbarung zwischen zwei Parteien"
+          },
+          {
+            "word": "Vermittler",
+            "definition": "Eine Person, die zwischen Parteien vermittelt"
+          },
+          {
+            "word": "Vergeltungsschläge",
+            "definition": "Angriffe als Antwort auf vorherige Angriffe"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann beginnen die neuen Verhandlungen mit Iran?",
+            "options": [
+              "Am Sonntag",
+              "Am Montag",
+              "Am Dienstag"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer drängte Trump, keine Angriffe durchzuführen?",
+            "options": [
+              "Der iranische Präsident",
+              "Mohammed Bin Salman und andere Partner",
+              "Die US-Armee"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat Trump über das geplante Abkommen gesagt?",
+            "options": [
+              "Es wird kein Abkommen geben",
+              "Er glaubt an ein Abkommen",
+              "Es gibt bereits ein Abkommen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump kündigt neue Gespräche mit dem Iran an",
+        "text": "US-Präsident Donald Trump hat am Sonntag auf einem Rückflug von einer Reise verkündet, dass er ab Montag neue Verhandlungen mit dem Iran anstrebt. Diese Ankündigung erfolgte nach der stornieren eines sogenannten \"massiven\" Militärangriffs auf das Land, den er als beinahe unvermeidlich ansah. \"Sie waren sich des Umfangs des Angriffs bewusst, da sie dessen Entwicklung beobachten konnten\", äußerte er vor Journalisten an Bord von Air Force One. Trump betonte, dass die Gespräche in Form von Verhandlungen stattfinden und morgen Nachmittag beginnen würden. Auf Truth Social hatte Trump zuvor behauptet, dass sowohl Iran als auch US-Verbündete im Nahen Osten ihn gebeten hätten, von einem Angriff abzusehen, da man sich bereits auf die Grundzüge eines Abkommens geeinigt habe. Laut dem iranischen Außenministerium gebe es jedoch keine Pläne, eine Delegation aus den USA zu empfangen oder iranische Vertreter nach Washington zu entsenden. Während frühere Gespräche durch Dritte vermittelt wurden, ließ Trump deutlich werden, dass er keine spezifischen Fristen für einen möglichen Abschluss des Abkommens benennen könne, erklärte jedoch: \"Wir sind jederzeit bereit... Ich bin nicht auf der Suche, Menschen zu töten.\" Seine Äußerungen wurden von iranischer Seite als Beweis für Verhandlungen interpretiert, welche als notwendig erachtet werden, um einen langanhaltenden Frieden im Nahen Osten zu erreichen.",
+        "vocabulary": [
+          {
+            "word": "Ankündigung",
+            "definition": "Die Bekanntgabe von Informationen, die wichtig sind"
+          },
+          {
+            "word": "stornieren",
+            "definition": "Einen Plan oder eine Buchung absagen"
+          },
+          {
+            "word": "Verhandlungen",
+            "definition": "Offizielle Gespräche zur Lösung von Konflikten"
+          },
+          {
+            "word": "Delegation",
+            "definition": "Eine Gruppe von Personen, die für einen bestimmten Zweck reist"
+          },
+          {
+            "word": "Mediatoren",
+            "definition": "Personen, die zwischen anderen vermitteln"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat Trump über die Gespräche mit Iran gesagt?",
+            "options": [
+              "Sie beginnen am Dienstag",
+              "Sie beginnen am Montag",
+              "Sie sind bereits abgeschlossen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wen hat Trump gebeten, ihn von einem Angriff abzuhalten?",
+            "options": [
+              "Iran und seine Verbündeten",
+              "Die US-Armee",
+              "Die NATO"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was wollte Trump über die Fristen für das Abkommen wissen?",
+            "options": [
+              "Er wollte eine Frist nennen",
+              "Er wollte keine Frist nennen",
+              "Er nannte bereits eine Frist"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump impliziert neue Verhandlungen mit dem Iran für Montag",
+        "text": "In einer überraschenden Wende hat US-Präsident Donald Trump am Sonntag während eines Rückflugs eine neuerliche Initiierung von Gesprächen mit dem Iran angekündigt, nachdem er einen als 'massiv' bezeichneten Militärschlag gegen die Islamische Republik in letzter Sekunde abgebrochen hatte. 'Sie waren sich des Angriffs bewußt, da sie dessen Entstehung beobachten konnten', formulierte Trump vor Journalisten an Bord von Air Force One. Das geplante Dialogfeld, so die Worte des Präsidenten, soll morgen Nachmittag eröffnet werden. Auf der sozialen Plattform Truth Social wies Trump darauf hin, dass sowohl Iran als auch seine Verbündeten im Nahen Osten ihn eindringlich gebeten hätten, auf militärische Aktionen zu verzichten, da sie bereits informelle Vereinbarungen über die Grundzüge eines Abkommens getroffen hätten. Das iranische Außenministerium dementierte jedoch vehement diese Aussagen und machte deutlich, dass über einen Empfang einer US-Delegation oder die Entsendung iranischer Vertreter nach Washington keine Überlegungen angestellt würden. Trump, der bereits im Vorfeld eine Reihe von erklärten Friedensabsichten geäußert hatte, stülpte, ohne sich auf Fristen festzulegen, die Aussage über eine ständige Bereitschaft vor: 'Wir sind jederzeit bereit und ich strebe kein Töten von Menschen an.' Diese Ambivalenz seiner Erklärungen, die Reaktionen aus dem Iran hervorgerufen hat, lässt die Glaubwürdigkeit seiner diplomatischen Bemühungen in einem ungünstigen Licht erscheinen.",
+        "vocabulary": [
+          {
+            "word": "überraschend",
+            "definition": "Etwas Unvorhergesehenes oder Unerwartetes"
+          },
+          {
+            "word": "militärische Aktionen",
+            "definition": "Eingriffe oder Einsätze der Armee in einem Konflikt"
+          },
+          {
+            "word": "dementieren",
+            "definition": "Behauptungen oder Vorwürfe zurückweisen"
+          },
+          {
+            "word": "Ambivalenz",
+            "definition": "Gleichzeitiges Vorhandensein von widersprüchlichen Gefühlen oder Ansichten"
+          },
+          {
+            "word": "Glaubwürdigkeit",
+            "definition": "Die Fähigkeit, als vertrauenswürdig wahrgenommen zu werden"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hat Trump abgebrochen?",
+            "options": [
+              "Ein Geschäftsmeeting",
+              "Einen Militärschlag",
+              "Eine Reise"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie reagierte das iranische Außenministerium auf Trumps Aussagen?",
+            "options": [
+              "Sie haben sie bestätigt",
+              "Sie haben sie dementiert",
+              "Sie haben nichts gesagt"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was bedeutet Trumps Aussage, dass er jederzeit bereit ist?",
+            "options": [
+              "Er ist fertig",
+              "Er ist offen für Verhandlungen",
+              "Er plant nicht zu reden"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Nouvelles discussions avec l'Iran",
+        "text": "Le président américain Donald Trump dit que de nouvelles discussions avec l'Iran commencent. Elles commencent lundi. Trump annule une attaque contre l'Iran. Les gens en Iran connaissent l'attaque. Ils la voient venir. Trump parle de négociations. Il parle de paix. Il est prêt pour ces discussions. Trump dit aussi que l'Arabie Saoudite demande d'arrêter l'attaque. Les prix de l'énergie baissent à cause de cette annonce. Les gens ne veulent pas de guerre. Ils veulent des solutions.",
+        "vocabulary": [
+          {
+            "word": "président",
+            "definition": "leader d'un pays"
+          },
+          {
+            "word": "discussions",
+            "definition": "conversations sur un sujet"
+          },
+          {
+            "word": "attaque",
+            "definition": "action offensive contre un pays"
+          },
+          {
+            "word": "Iran",
+            "definition": "pays en Moyen-Orient"
+          },
+          {
+            "word": "paix",
+            "definition": "absence de guerre"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui commence des discussions avec l'Iran?",
+            "options": [
+              "Un ministre",
+              "Donald Trump",
+              "Un soldat"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quand commencent les discussions?",
+            "options": [
+              "Elle commence lundi",
+              "Elle commence dimanche",
+              "Elle commence mardi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Les prix de quoi baissent?",
+            "options": [
+              "Les voitures",
+              "Les énergies",
+              "Les maisons"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump propose de nouvelles discussions avec l'Iran",
+        "text": "Le président des États-Unis, Donald Trump, a annoncé que de nouvelles discussions avec l'Iran vont commencer lundi après-midi. Il a annulé une attaque massive contre ce pays. Trump dit que les gens en Iran savaient de l'attaque, car ils ont vu les préparatifs. Il y a des négociations pour créer la paix et éviter le conflit. Avant cela, l'Iran et des alliés du Moyen-Orient lui ont demandé de ne pas attaquer. Trump a aussi reçu des conseils de l'Arabie Saoudite pour arrêter l'attaque. Après son annonce, les prix du pétrole ont baissé en Asie. L'huile Brent a perdu 4,5% de sa valeur. Les gens dans le monde veulent éviter la guerre. Ils veulent trouver des solutions ensemble pour résoudre ce problème. Les discussions devraient aider à faire avancer la situation. Les décisions sont importantes pour l'avenir de la région et l'économie mondiale. Tout le monde espère que cela va fonctionner et que la paix sera possible. Les tensions sont toujours présentes, mais les dialogues donnent de l'espoir.",
+        "vocabulary": [
+          {
+            "word": "négociations",
+            "definition": "Discussions pour trouver un accord entre deux ou plusieurs parties."
+          },
+          {
+            "word": "préparatifs",
+            "definition": "Actions préalables pour se préparer à quelque chose."
+          },
+          {
+            "word": "conflit",
+            "definition": "Un désaccord ou une lutte entre des parties."
+          },
+          {
+            "word": "situation",
+            "definition": "L'état ou la condition dans un contexte particulier."
+          },
+          {
+            "word": "économie",
+            "definition": "Le système de production et de consommation des biens et services."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand vont commencer les discussions avec l'Iran?",
+            "options": [
+              "Lundi après-midi",
+              "Samedi matin",
+              "Dimanche soir"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a conseillé Trump d'arrêter l'attaque?",
+            "options": [
+              "L'Europe",
+              "L'Arabie Saoudite",
+              "La Russie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'ont fait les prix du pétrole après l'annonce de Trump?",
+            "options": [
+              "Ils ont augmenté",
+              "Ils ont baissé",
+              "Ils sont restés stables"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump propose des négociations avec l'Iran",
+        "text": "Le président américain Donald Trump a déclaré que de nouvelles négociations avec l'Iran devraient commencer lundi. Il a annulé une grande attaque que son gouvernement avait planifiée contre ce pays, une opération qui aurait été la plus massive depuis la Seconde Guerre mondiale. Trump a expliqué que l'Iran était au courant de cette attaque, car ils avaient observé les préparatifs militaires. Avant cette annonce, l'Iran et certains alliés du Moyen-Orient, comme l'Arabie Saoudite, avaient demandé à Trump de ne pas lancer d'attaque, craignant des conséquences dévastatrices. Cela a conduit à une baisse significative des prix du pétrole dans le monde. Après l'annonce de Trump, le prix du pétrole Brent a chuté de 4,5%, signalant l'inquiétude des marchés. Les acteurs du marché veulent éviter un nouveau conflit qui pourrait perturber les exportations de pétrole, car environ 20% du pétrole brut mondial transite par le détroit d'Hormuz. Les discussions pour parvenir à un accord sont essentielles, et Trump a mentionné que les conditions d'un accord étaient en cours de définition. Bien que les pourparlers passés aient été souvent infructueux, de nombreux analystes restent optimistes. Ils espèrent que ces discussions pourraient ouvrir la voie vers une paix durable. Si les négociations réussissent, cela pourrait Stabiliser la région et améliorer les relations diplomatiques entre les États-Unis et l'Iran, mais si elles échouent, une escalade des tensions est toujours possible.",
+        "vocabulary": [
+          {
+            "word": "massive",
+            "definition": "très grande, imposante"
+          },
+          {
+            "word": "préparatifs",
+            "definition": "actions prises pour se préparer à un événement"
+          },
+          {
+            "word": "détroit",
+            "definition": "un passage étroit entre deux grandes étendues d'eau"
+          },
+          {
+            "word": "accord",
+            "definition": "un arrangement ou un traité entre deux parties"
+          },
+          {
+            "word": "optimiste",
+            "definition": "qui est plein d'espoir pour l'avenir"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle action Trump a-t-il annulée ?",
+            "options": [
+              "Une attaque massive",
+              "Une réunion publique",
+              "Un voyage à l'étranger"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel a été l'impact de l'annonce de Trump sur les prix du pétrole ?",
+            "options": [
+              "Ils ont augmenté de 4,5%",
+              "Ils ont chuté de 4,5%",
+              "Ils sont restés les mêmes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel pourcentage de pétrole brut mondial passe par le détroit d'Hormuz ?",
+            "options": [
+              "10%",
+              "20%",
+              "30%"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump suggère de nouveaux pourparlers avec l'Iran pour commencer lundi",
+        "text": "Le président américain Donald Trump a annoncé que de nouvelles discussions avec l'Iran débuteraient lundi, ayant annulé ce qu'il qualifiait d'attaques \"massives\" contre le pays. Il a déclaré aux journalistes à bord de l'Air Force One, dimanche : \"Ils sachant l’ampleur de l’attaque car ils l’avaient vu se former. Nous parlons avec eux sous forme de négociation. Cela commence demain après-midi.\" Dans un message précédent sur Truth Social, Trump a affirmé avoir été sollicité par l'Iran et des alliés américains au Moyen-Orient pour \"freiner\" toute attaque, les \"périmètres\" d'un accord ayant été convenus. Le ministère iranien des Affaires étrangères a cependant déclaré qu'il n'y avait aucun projet de recevoir une délégation américaine ou d'envoyer des Iraniens à Washington. Les négociations antérieures ont été facilitées par des médiateurs. Le président américain a réaffirmé que la fin négociée du conflit était proche, bien que des frappes réciproques reprennent. Trump a refusé de préciser un délai pour parvenir à un accord avec Téhéran, ajoutant : \"Nous verrons. Nous sommes prêts à partir quand nous le voulons... Je ne cherche pas à tuer des gens.\" Il a mentionné que le prince héritier saoudien Mohammed Ben Salmane, ainsi que des partenaires américains tels que les Émirats arabes unis et le Qatar, l'avaient incité à ne pas frapper durant le week-end. \"Nous étions tous prêts...\", a-t-il déclaré. Il a également insinué qu'un accord sur Hormuz était en vue, tout comme un accord concernant le nucléaire.",
+        "vocabulary": [
+          {
+            "word": "négociations",
+            "definition": "discussions entre des personnes pour convenir de quelque chose"
+          },
+          {
+            "word": "incité",
+            "definition": "avoir poussé quelqu'un à faire quelque chose"
+          },
+          {
+            "word": "frappes",
+            "definition": "attaques ou bombardements"
+          },
+          {
+            "word": "accord",
+            "definition": "un arrangement ou une entente entre deux parties"
+          },
+          {
+            "word": "préparer",
+            "definition": "faire des choses nécessaires avant un événement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand commenceront les nouveaux pourparlers avec l'Iran ?",
+            "options": [
+              "demain",
+              "aujourd'hui",
+              "hier"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a demandé à Trump d'annuler les frappes ?",
+            "options": [
+              "l'Iran",
+              "la Russie",
+              "la France"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi Trump a-t-il voulu éviter les frappes ?",
+            "options": [
+              "pour tuer des gens",
+              "pour le bénéfice du monde",
+              "pour satisfaire ses alliés"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump évoque des négociations avec l'Iran pour lundi",
+        "text": "Le président américain Donald Trump a récemment annoncé la tenue de nouvelles discussions avec l'Iran, lesquelles débuteront lundi. Ce nouvel engagement survient après l’annulation, par Trump, d'une opération militaire qu'il avait qualifiée de \"massive\". S'exprimant à bord de l'Air Force One, il a précisé : \"Ils savaient l’ampleur de l’attaque car ils l’avaient vue se former. Nous cherchons à engager une négociation avec eux à partir de demain après-midi\". Sur sa plateforme Truth Social, il a précisé que l'Iran, ainsi que ses alliés au Moyen-Orient, lui avaient demandé de \"mettre en pause\" toute attaque, les contours d'un accord ayant déjà été évoqués. Bien que le ministre des Affaires étrangères iranien ait démenti la réception d'une délégation américaine, il a été observé que les précédentes discussions avaient été facilitées par des intermédiaires. Trump a répété sa conviction que la fin négociée du conflit était imminente, malgré la reprise des frappes réciproques. Refusant d'annoncer un délai précis pour parvenir à un accord avec Téhéran, il a mentionné que le prince héritier saoudien, ainsi que d'autres partenaires stratégiques comme les Émirats arabes unis et le Qatar, lui avaient conseillé de s'abstenir d'actions militaires pendant le week-end. Il a de plus insinué la possibilité d'un accord concernant le détroit d'Hormuz et le programme nucléaire iranien, des éléments cruciaux pour les relations internationales.",
+        "vocabulary": [
+          {
+            "word": "engagement",
+            "definition": "une promesse ou un accord formel de faire quelque chose"
+          },
+          {
+            "word": "imminente",
+            "definition": "quelque chose qui va se produire très bientôt"
+          },
+          {
+            "word": "influencer",
+            "definition": "avoir un effet sur les décisions ou les opinions"
+          },
+          {
+            "word": "intermédiaires",
+            "definition": "personnes qui aident à établir des communications entre deux parties"
+          },
+          {
+            "word": "démenti",
+            "definition": "une déclaration qui dit qu'une chose n'est pas vraie"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi Trump a-t-il annulé l'opération militaire ?",
+            "options": [
+              "à cause d'une demande de l'Iran",
+              "parce qu'il avait peur",
+              "pour montrer sa force"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a conseillé Trump de ne pas attaquer ?",
+            "options": [
+              "le prince héritier saoudien",
+              "le président russe",
+              "le Premier ministre britannique"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est l'un des sujets des négociations ?",
+            "options": [
+              "le détroit d'Hormuz",
+              "la guerre en Ukraine",
+              "la crise climatique"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump propose des pourparlers avec l'Iran à compter de lundi",
+        "text": "En pleine tourmente diplomatique, le président américain Donald Trump a récemment ouvert la porte à de nouvelles négociations avec l'Iran, programmées pour débuter lundi. Cette initiative fait suite à l'annulation, qu'il a lui-même décrite comme impérieuse, d'une opération militaire qu'il avait auparavant qualifiée de \"massive\" et potentiellement dévastatrice pour la dynamique régionale. Sur les marches d'Air Force One, il a révélé : \"Ils savaient déjà que l’attaque se préparait, ce qui démontre leur vigilance. Nous entamons cette négociation dès demain après-midi\". Trump a également signalé, dans une déclaration sur Truth Social, qu’il avait été exhorté par Téhéran et par ses alliés au Moyen-Orient à \"temporiser\" avant d'engager des actions militaires, les contours d'un accord semblant émerger. Cependant, le ministre iranien des Affaires étrangères a rapidement refusé d'accueillir une délégation américaine, tout en reconnaissant que des médiateurs avaient été sollicités pour faciliter les échanges précédents. Le président américain, tout en maintenant que la résolution du conflit était d'une imminence palpable, a esquivé les détails d'un échéancier lié à un éventuel accord avec Téhéran. Il a également noté que des figures influentes, telles que le prince héritier saoudien Mohammed Ben Salmane, ainsi que des alliés tels que les Émirats arabes unis et le Qatar, lui avaient recommandé de s'abstenir d'initiatives militaires durant le week-end. Trump a soulevé l'idée d'un compromis autour du détroit d'Hormuz, et du programme nucléaire iranien, deux enjeux stratégiques au cœur des préoccupations mondiales. Mais dans une tournure inattendue, il a spécifié que retardant son offensive, il visait un \"bénéfice futur pour le monde ainsi qu'une Iran prospère\". Ce retournement de situation soulève des interrogations sur les véritables intentions de l'administration Trump vis-à-vis du régime de Téhéran et son souhait apparent de restaurer des négociations substantielles.",
+        "vocabulary": [
+          {
+            "word": "turbulence",
+            "definition": "état de désordre ou de troubles dans un contexte ou une situation"
+          },
+          {
+            "word": "eschatologique",
+            "definition": "relatif à des prophéties ou des événements futurs d'une grande ampleur"
+          },
+          {
+            "word": "dynamique",
+            "definition": "les forces ou les interactions en jeu dans une situation"
+          },
+          {
+            "word": "exhorté",
+            "definition": "avoir fortement conseillé ou encouragé quelqu'un à agir"
+          },
+          {
+            "word": "litanie",
+            "definition": "une série longue et répétitive d'énoncés ou d'actions, souvent avec une connotation négative"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Que veut dire Trump en annonçant des négociations ?",
+            "options": [
+              "volonté de dialogue",
+              "fin des conflits",
+              "exclusion de l'Iran"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi le ministre iranien a-t-il refusé une délégation américaine ?",
+            "options": [
+              "pour établir un dialogue",
+              "refus d'une agression",
+              "contrer l'influence américaine"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel enjeu est discuté dans ces négociations ?",
+            "options": [
+              "la sécurité régionale",
+              "les droits de l'homme",
+              "le programme nucléaire"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Trump habla de conversaciones con Irán",
+        "text": "Trump es el presidente de Estados Unidos. Él habla con Irán. Las conversaciones son el lunes por la tarde. Trump cancela un ataque grande. Él dice que va a negociar con ellos. Las personas en Irán no saben de un ataque. Irán no quiere hablar con Estados Unidos. La situación es muy difícil. Los precios del petróleo bajan después de las noticias. Esto pasa porque hay tensión. Trump quiere resolver el problema. Las conversaciones son importantes para ambos países. Además, los aliados de Trump piden que no haya más ataques. Todos esperan un acuerdo pronto.",
+        "vocabulary": [
+          {
+            "word": "acuerdo",
+            "definition": "un trato o decisión entre dos partes"
+          },
+          {
+            "word": "tensión",
+            "definition": "una falta de paz o un conflicto"
+          },
+          {
+            "word": "aliados",
+            "definition": "personas o países que ayudan a otros"
+          },
+          {
+            "word": "grande",
+            "definition": "de gran tamaño o importancia"
+          },
+          {
+            "word": "esperar",
+            "definition": "pensar que algo va a pasar"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo son las conversaciones?",
+            "options": [
+              "el lunes por la tarde",
+              "el sábado",
+              "el miércoles"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué cancela Trump?",
+            "options": [
+              "un ataque grande",
+              "una conversación",
+              "un acuerdo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué bajan los precios del petróleo?",
+            "options": [
+              "por las conversaciones",
+              "por la tensión",
+              "por los acuerdos"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Trump propone nuevas conversaciones con Irán",
+        "text": "El presidente de Estados Unidos, Donald Trump, dice que comienzan nuevas conversaciones con Irán el lunes a las tres de la tarde. Él cancela un gran ataque militar que planeaba para este fin de semana. Trump dice que Irán y sus aliados en Medio Oriente piden hablar con él. La situación es difícil porque Irán no tiene planes para recibir a una delegación de Estados Unidos en este momento. Trump quiere negociar la paz y resolver el conflicto, así que espera que haya resultados positivos. Los precios del petróleo bajan después de sus anuncios, así que los mercados reaccionan rápidamente. Hasta ahora, Irán no responde a las propuestas. Trump cree que un acuerdo es posible porque varios países piden calma. Los príncipes de Arabia Saudita están preocupados y también insisten en una solución. Esto es importante para todos, porque al final, el objetivo es evitar más guerra y lograr estabilidad en la región.",
+        "vocabulary": [
+          {
+            "word": "delegación",
+            "definition": "Un grupo de personas que representa a otra y que viaja a otro lugar para negociar o discutir."
+          },
+          {
+            "word": "negociar",
+            "definition": "Hablar con alguien para llegar a un acuerdo."
+          },
+          {
+            "word": "conflicto",
+            "definition": "Una disputa o lucha entre dos o más partes."
+          },
+          {
+            "word": "reacción",
+            "definition": "La respuesta que tienen las personas frente a una situación."
+          },
+          {
+            "word": "estabilidad",
+            "definition": "Condición de estar firmemente establecido y no cambiar."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo comienzan las nuevas conversaciones con Irán?",
+            "options": [
+              "El lunes a las tres de la tarde",
+              "El viernes a las dos de la tarde",
+              "El sábado a las cuatro de la tarde"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué hace Trump con el gran ataque planeado?",
+            "options": [
+              "Lo cancela",
+              "Lo inicia",
+              "Lo planifica más"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué es importante la calma para Arabia Saudita?",
+            "options": [
+              "Porque evita la guerra",
+              "Porque les gusta la guerra",
+              "Porque quieren más negociaciones"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Trump sugiere iniciar nuevos diálogos con Irán el lunes",
+        "text": "El presidente de Estados Unidos, Donald Trump, ha anunciado que comenzarán nuevas conversaciones con Irán el lunes. Esto ocurre después de que él cancelara un ataque que consideraba muy grande y peligroso. Trump ha indicado que Irán y sus aliados en el Medio Oriente, como Arabia Saudita, le pidieron que se abstuviera de llevar a cabo la ofensiva, ya que se había alcanzado un acuerdo inicial entre las partes. Sin embargo, Irán ha afirmado que no tiene planes para recibir una delegación de Estados Unidos en este momento, lo que puede dificultar las negociaciones. \n\nTrump espera que el diálogo permita resolver el conflicto actual y prevenir una escalada de violencia. Si estas charlas tienen éxito, podrían cambiar considerablemente la dinámica de las relaciones entre ambos países que han estado tensas en los últimos años. Por otro lado, los precios del petróleo han disminuido desde su anuncio porque los comerciantes están nerviosos sobre la situación en el Medio Oriente.\n\nEl príncipe Mohammed Bin Salman de Arabia Saudita, junto con otros aliados de Estados Unidos, ha insistido en que no se realicen ataques. Si esto se mantiene, podría traer una paz temporal. La falta de un acuerdo claro hasta ahora refleja las dificultades que existen para llegar a una solución sostenible en este conflicto, que ha causado inestabilidad en la región y preocupaciones a nivel mundial.",
+        "vocabulary": [
+          {
+            "word": "dinámica",
+            "definition": "la manera en que las cosas cambian o se desarrollan en una situación."
+          },
+          {
+            "word": "ofensiva",
+            "definition": "una serie de ataques o acciones agresivas."
+          },
+          {
+            "word": "escala",
+            "definition": "aumentar en intensidad o gravedad."
+          },
+          {
+            "word": "negociación",
+            "definition": "un proceso para llegar a un acuerdo entre dos partes."
+          },
+          {
+            "word": "prevenir",
+            "definition": "tomar medidas para evitar algo."
+          },
+          {
+            "word": "comerciantes",
+            "definition": "personas o empresas que compran y venden bienes."
+          },
+          {
+            "word": "tensar",
+            "definition": "causar estrés o conflicto entre partes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué ha anunciado Trump sobre las conversaciones con Irán?",
+            "options": [
+              "Comenzarán el lunes",
+              "Ya han comenzado",
+              "Serán canceladas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué la situación en el Medio Oriente ha afectado los precios del petróleo?",
+            "options": [
+              "Porque hay paz en la región",
+              "Porque los comerciantes están nerviosos",
+              "Porque Irán ya ha aceptado un acuerdo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quiénes le han pedido a Trump que no ataque a Irán?",
+            "options": [
+              "Otros países europeos",
+              "El príncipe Mohammed Bin Salman y aliados",
+              "El presidente de Irán"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Trump sugiere nuevas conversaciones con Irán a partir del lunes",
+        "text": "El presidente de EE. UU., Donald Trump, anunció que nuevas negociaciones con Irán comenzarán el lunes, tras cancelar lo que afirmó serían ataques \"masivos\" contra el país. \"Ellos conocían la magnitud del ataque porque lo vieron formarse\", declaró a los reporteros a bordo del Air Force One el domingo. \"Estamos hablando con ellos en forma de negociación. Comienza mañana en la tarde\". En una publicación anterior en Truth Social, Trump comentó que Irán y aliados de EE. UU. en Oriente Medio le habían solicitado \"frenar\" cualquier ataque, dado que se habían acordado los \"límites\" de un acuerdo. El ministerio de Relaciones Exteriores de Irán afirmó que no hay planes para recibir a una delegación estadounidense. Conversaciones anteriores se facilitaron a través de mediadores. El presidente ha afirmado repetidamente que un fin negociado para la guerra está cerca, aunque los ataques recíprocos han continuado. Al respecto, Trump no puso un plazo para alcanzar un acuerdo con Teherán, añadiendo: \"Simplemente veremos cómo va. Estamos listos para actuar cuando queramos... No busco matar gente\". Además, el príncipe heredero de Arabia Saudita, Mohammed Bin Salman, junto con socios de EE. UU. como los Emiratos Árabes Unidos y Qatar, le aconsejaron no realizar ataques durante el fin de semana. Las acciones han afectado los precios globales del petróleo, que cayeron tras el anuncio de Trump.",
+        "vocabulary": [
+          {
+            "word": "sugerir",
+            "definition": "proponer algo a alguien"
+          },
+          {
+            "word": "conversaciones",
+            "definition": "charlas entre personas"
+          },
+          {
+            "word": "atacar",
+            "definition": "agredir a alguien o algo"
+          },
+          {
+            "word": "acuerdo",
+            "definition": "decisión que toman varias partes"
+          },
+          {
+            "word": "negociación",
+            "definition": "proceso para llegar a un acuerdo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo comienzan las nuevas conversaciones con Irán?",
+            "options": [
+              "el lunes",
+              "el domingo",
+              "el viernes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué pidió Irán a Trump antes de los ataques?",
+            "options": [
+              "atacar sin aviso",
+              "frenar el ataque",
+              "negociar con otros"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué efecto tuvo el anuncio de Trump en los precios del petróleo?",
+            "options": [
+              "aumentaron",
+              "se mantuvieron iguales",
+              "cayeron"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "Trump propone iniciar nuevas negociaciones con Irán este lunes",
+        "text": "El presidente estadounidense Donald Trump comunicó que las negociaciones con Irán comenzarán el próximo lunes, después de cancelar un ataque que había calificado como \"masivo\". \"Ellos estaban al tanto de la magnitud del ataque porque lo vieron gestarse\", expresó a los medios de comunicación durante su viaje en el Air Force One el domingo. Trump agregó que él había recibido pedidos tanto de Irán como de aliados estadounidenses en Oriente Medio para \"posponer\" cualquier acción militar, dado que ciertos 'perímetros' de un acuerdo ya habían sido convenidos. No obstante, el Ministerio de Relaciones Exteriores de Irán ha declarado que no se prevé la llegada de una delegación estadounidense. Las conversaciones previas habían sido mediadas por distintas partes. Aunque el presidente sigue insistiendo en que un fin negociado del conflicto es inminente, los intercambios de ataques han ido y venido. En sus declaraciones, Trump no precisó ningún plazo para alcanzar un acuerdo con Teherán, simplemente afirmó: \"Veremos cómo evoluciona. Estamos listos para actuar en cualquier momento... No tengo intenciones de causar muertes\". En sus comentarios, el príncipe heredero saudí, Mohammed Bin Salman, junto a otros socios como los Emiratos Árabes Unidos y Qatar, le aconsejaron evitar ataques durante el fin de semana; el impacto en el precio del petróleo ha sido considerable tras el anuncio de Trump.",
+        "vocabulary": [
+          {
+            "word": "comunicar",
+            "definition": "hacer saber algo a alguien"
+          },
+          {
+            "word": "posponer",
+            "definition": "dejar algo para más tarde"
+          },
+          {
+            "word": "intenso",
+            "definition": "muy fuerte o profundo"
+          },
+          {
+            "word": "inminente",
+            "definition": "que va a ocurrir pronto"
+          },
+          {
+            "word": "gestarse",
+            "definition": "empezar a desarrollarse"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué solicitó Irán y sus aliados a Trump?",
+            "options": [
+              "realizar más ataques",
+              "posponer un ataque",
+              "iniciar negociaciones más tarde"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuándo comenzarán las nuevas negociaciones según Trump?",
+            "options": [
+              "el domingo",
+              "el lunes",
+              "el viernes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué dijo Trump sobre el impacto del ataque cancelado?",
+            "options": [
+              "sería menor",
+              "sería el más grande desde la Segunda Guerra Mundial",
+              "no tendría impactos"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Trump plantea la posibilidad de iniciar negociaciones con Irán el lunes",
+        "text": "El presidente Donald Trump ha sugerido que se dará inicio a nuevas negociaciones con Irán a partir del lunes, tras haber cancelado un supuesto ataque masivo que, según declaró, podría haber tenido consecuencias catastróficas. \"Ellos conocían en profundidad la magnitud del ataque, ya que lo vieron gestarse\", comentó Trump a la prensa en Air Force One el pasado domingo, enfatizando que se estaba llevando a cabo una modalidad de diálogo constructivo. En una publicación previa en Truth Social, el presidente norteamericano indicó que tanto Irán como sus aliados regionales habían solicitado encarecidamente una suspensión de la ofensiva, dado que se habían alcanzado ciertas condiciones preliminares para un acuerdo. Sin embargo, el ministerio de Relaciones Exteriores iraní ha desmentido categóricamente que se haya realizado tal solicitud. A pesar de sus continuas afirmaciones de que un eventual acuerdo es inminente, los intercambios de ataques en la región han seguido su curso. Trump, en sus declaraciones, evitó establecer una fecha límite para la consecución de un tratado con Teherán, manifestando: \"Veremos cómo se desarrollan los acontecimientos. Estamos preparados para actuar a nuestro antojo... No tengo la intención de causar bajas\". Fue notable el hecho de que el príncipe heredero saudí, Mohammed Bin Salman, así como otras naciones asociadas, le aconsejaron no proceder con un ataque durante el fin de semana. Esta decisión, como consecuencia, tuvo un efecto inmediato en las cotizaciones del petróleo, que sufrieron una caída tras el anuncio de Trump.",
+        "vocabulary": [
+          {
+            "word": "sugerir",
+            "definition": "proponer una idea o plan"
+          },
+          {
+            "word": "catástrofe",
+            "definition": "desastre o gran tragedia"
+          },
+          {
+            "word": "categóricamente",
+            "definition": "con firmeza, sin duda"
+          },
+          {
+            "word": "consecuencia",
+            "definition": "resultado de una acción"
+          },
+          {
+            "word": "cotización",
+            "definition": "valor de algo en el mercado"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué reacción tuvo el anuncio de Trump en el mercado del petróleo?",
+            "options": [
+              "aumento de precios",
+              "disminución de precios",
+              "sin cambios respectivos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué afirmaciones hace Trump sobre el posible acuerdo con Irán?",
+            "options": [
+              "que es inminente",
+              "que no será efectivo",
+              "que será imposible"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se refirió Trump acerca de sus intenciones de ataque?",
+            "options": [
+              "no desea causar muertes",
+              "quiere hacer un ataque masivo",
+              "necesita castigar a Irán"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "trump": "trump",
+      "spricht": "speaks",
+      "mit": "with",
+      "iran": "Iran",
+      "donald": "Donald",
+      "ist": "is",
+      "der": "the",
+      "präsident": "president",
+      "usa": "USA",
+      "er": "he",
+      "sagt": "says",
+      "neue": "new",
+      "gespräche": "talks",
+      "beginnen": "to begin",
+      "am": "at the",
+      "montag": "Monday",
+      "will": "wants",
+      "keine": "no",
+      "angriffe": "attacks",
+      "auf": "to",
+      "sieht": "sees",
+      "die": "the",
+      "kommen": "come",
+      "über": "about",
+      "einen": "a",
+      "vertrag": "contract",
+      "frieden": "peace",
+      "trumps": "trumps",
+      "freunde": "friends",
+      "in": "in",
+      "saudi-arabien": "Saudi Arabia",
+      "sagen": "say",
+      "das": "that",
+      "gut": "well",
+      "öl": "oil",
+      "kostet": "cost",
+      "weniger": "less",
+      "nach": "after",
+      "verhandlungen": "negotiations",
+      "nicht": "not",
+      "dass": "that",
+      "angreifen": "to attack",
+      "sie": "they",
+      "sind": "are",
+      "lügen": "lies",
+      "wichtig": "important",
+      "hofft": "hopes",
+      "und": "and",
+      "us-präsident": "US president",
+      "hat": "has",
+      "angekündigt": "announced",
+      "dies": "this",
+      "kommt": "comes",
+      "großen": "large",
+      "spannungen": "tensions",
+      "zwischen": "between",
+      "den": "the",
+      "beiden": "both",
+      "ländern": "countries",
+      "hatte": "had",
+      "vorher": "before",
+      "sogar": "even",
+      "massive": "massive",
+      "abgesagt": "canceled",
+      "viele": "many",
+      "länder": "countries",
+      "wie": "like",
+      "haben": "to have",
+      "ihn": "him",
+      "gebeten": "asked",
+      "zu": "to",
+      "führen": "to lead",
+      "um": "around",
+      "außenministerium": "foreign ministry",
+      "es": "it",
+      "gibt": "gives",
+      "streitigkeiten": "disputes",
+      "oder": "or",
+      "atomprogramm": "nuclear program",
+      "krieg": "war",
+      "beenden": "to end",
+      "erreichen": "to reach",
+      "menschen": "people",
+      "besorgt": "worried",
+      "situation": "situation",
+      "ankündigung": "announcement",
+      "sinken": "to sink",
+      "ölpreise": "oil prices",
+      "schnell": "quickly",
+      "für": "for",
+      "denkt": "thinks",
+      "ein": "a",
+      "gesagt": "said",
+      "möglichkeit": "possibility",
+      "eine": "a",
+      "lösung": "solution",
+      "könnten": "could",
+      "woche": "week",
+      "sehr": "very",
+      "sein": "his",
+      "beobachten": "to observe",
+      "genauen": "exact",
+      "pläne": "plans",
+      "viel": "a lot",
+      "aber": "but",
+      "konstruktiv": "constructive",
+      "bringt": "brings",
+      "hoffnung": "hope",
+      "weltgemeinschaft": "world community",
+      "positive": "positive",
+      "ergebnisse": "results",
+      "kündigt": "announces",
+      "an": "at",
+      "vereinigten": "United",
+      "staaten": "states",
+      "heute": "today",
+      "bekanntgegeben": "announced",
+      "stattfinden": "will take place",
+      "werden": "will",
+      "zuvor": "previously",
+      "hattetrump": "had Trump",
+      "militärangriffe": "military attacks",
+      "erklärte": "explained",
+      "andere": "other",
+      "zum": "to the",
+      "beispiel": "example",
+      "darum": "about",
+      "hätten": "would have",
+      "von": "from",
+      "einem": "a",
+      "angriff": "attack",
+      "abzusehen": "to foresee",
+      "diese": "this",
+      "nationen": "nations",
+      "glauben": "believe",
+      "möglich": "possible",
+      "deal": "deal",
+      "zudem": "furthermore",
+      "betont": "emphasized",
+      "rahmenbedingungen": "framework conditions",
+      "eines": "one",
+      "abkommens": "agreement",
+      "bereits": "already",
+      "besprochen": "discussed",
+      "worden": "been",
+      "seien": "are",
+      "irans": "Iran's",
+      "hingegen": "on the other hand",
+      "erklärt": "explains",
+      "delegation": "delegation",
+      "washington": "washington",
+      "schicken": "to send",
+      "region": "region",
+      "sehen": "to see",
+      "kritisch": "critical",
+      "weil": "because",
+      "seit": "since",
+      "wochen": "weeks",
+      "andauert": "lasts",
+      "unschuldige": "innocent",
+      "betroffen": "affected",
+      "sanken": "sank",
+      "globalen": "global",
+      "deutlich": "clear",
+      "was": "what",
+      "zeigt": "shows",
+      "wirtschaftsbeziehungen": "economic relations",
+      "eng": "tight",
+      "politischen": "political",
+      "verknüpft": "linked",
+      "wenn": "if",
+      "erfolgreich": "successful",
+      "könnte": "could",
+      "auch": "also",
+      "auswirkungen": "effects",
+      "weltwirtschaft": "global economy",
+      "us-außenministerium": "U.S. State Department",
+      "noch": "still",
+      "keinen": "no",
+      "offiziellen": "official",
+      "ort": "place",
+      "angegeben": "indicated",
+      "bleibt": "stays",
+      "unklar": "unclear",
+      "wer": "who",
+      "teilnehmen": "to participate",
+      "wird": "will",
+      "analysten": "analysts",
+      "entwicklung": "development",
+      "genau": "exactly",
+      "erfolgreicher": "more successful",
+      "dialog": "dialogue",
+      "verringern": "to reduce",
+      "während": "during",
+      "scheiternder": "failing",
+      "weiteren": "further",
+      "konflikten": "conflicts",
+      "hoffen": "to hope",
+      "friedliche": "peaceful",
+      "ermöglichen": "to enable",
+      "weiterhin": "still",
+      "fördert": "promotes",
+      "schlägt": "hits",
+      "vor": "before",
+      "bekannt": "known",
+      "gegeben": "given",
+      "nachdem": "after",
+      "militärschläge": "military strikes",
+      "gegen": "against",
+      "land": "country",
+      "wussten": "knew",
+      "dem": "the",
+      "umfang": "scope",
+      "des": "of the",
+      "angriffs": "attack",
+      "sich": "oneself",
+      "bildlich": "figuratively",
+      "vorstellten": "imagined",
+      "sagte": "said",
+      "sonntag": "Sunday",
+      "journalisten": "journalists",
+      "bord": "board",
+      "air": "air",
+      "force": "force",
+      "one": "one",
+      "wir": "we",
+      "sprechen": "to speak",
+      "ihnen": "them",
+      "form": "form",
+      "einer": "one",
+      "verhandlung": "negotiation",
+      "beginnt": "begins",
+      "morgen": "morning",
+      "nachmittag": "afternoon",
+      "früheren": "former",
+      "beitrag": "contribution",
+      "truth": "truth",
+      "social": "social",
+      "us-verbündeten": "US allies",
+      "im": "in the",
+      "nahen": "near",
+      "osten": "east",
+      "sei": "is",
+      "jedweden": "any",
+      "auszusetzen": "to suspend",
+      "da": "there",
+      "vereinbart": "agreed",
+      "wies": "pointed",
+      "jedoch": "however",
+      "darauf": "on it",
+      "hin": "to",
+      "gebe": "give",
+      "us-delegation": "U.S. delegation",
+      "empfangen": "to receive",
+      "iranische": "Iranian",
+      "vertreter": "representative",
+      "senden": "to send",
+      "bisherigen": "previous",
+      "fanden": "found",
+      "vermittler": "mediator",
+      "statt": "instead",
+      "wiederholt": "repeated",
+      "verhandelter": "negotiated",
+      "naher": "near",
+      "zukunft": "future",
+      "oft": "often",
+      "führten": "led",
+      "vergeltungsschläge": "retaliatory strikes",
+      "kämpfen": "to fight",
+      "wollte": "wanted",
+      "termin": "appointment",
+      "möglichen": "possible",
+      "abschluss": "completion",
+      "nennen": "to name",
+      "fügte": "added",
+      "hinzu": "to it",
+      "jederzeit": "anytime",
+      "bereit": "ready",
+      "ich": "I",
+      "töten": "to kill",
+      "erwähnte": "mentioned",
+      "außerdem": "besides",
+      "saudi-arabische": "Saudi Arabian",
+      "kronprinz": "crown prince",
+      "mohammed": "Mohammed",
+      "bin": "bin",
+      "salman": "Salman",
+      "sowie": "as well as",
+      "us-partner": "US partner",
+      "arabischen": "Arabian",
+      "emirate": "Emirates",
+      "katar": "Qatar",
+      "gedrängt": "pushed",
+      "hatten": "had",
+      "wochenende": "weekend",
+      "durchzuführen": "to carry out",
+      "waren": "were",
+      "gehen": "to go",
+      "grund": "ground",
+      "ihre": "their",
+      "bitte": "please",
+      "abkommen": "agreement",
+      "so": "so",
+      "hormuz": "Hormuz",
+      "geben": "to give",
+      "rückflug": "return flight",
+      "reise": "journey",
+      "verkündet": "announced",
+      "ab": "from",
+      "anstrebt": "seeks",
+      "erfolgte": "occurred",
+      "stornieren": "to cancel",
+      "sogenannten": "so-called",
+      "massiven": "massive",
+      "militärangriffs": "military attacks",
+      "als": "than",
+      "beinahe": "almost",
+      "unvermeidlich": "inevitable",
+      "ansah": "looked",
+      "umfangs": "scope",
+      "bewusst": "conscious",
+      "dessen": "whose",
+      "konnten": "could",
+      "äußerte": "expressed",
+      "betonte": "stressed",
+      "würden": "would",
+      "behauptet": "claimed",
+      "sowohl": "both",
+      "us-verbündete": "US allies",
+      "man": "one",
+      "grundzüge": "main features",
+      "geeinigt": "agreed",
+      "habe": "have",
+      "laut": "according to",
+      "iranischen": "Iranian",
+      "aus": "from",
+      "entsenden": "to send",
+      "frühere": "former",
+      "durch": "through",
+      "dritte": "third",
+      "vermittelt": "mediated",
+      "wurden": "were",
+      "ließ": "let",
+      "spezifischen": "specific",
+      "fristen": "deadlines",
+      "benennen": "to name",
+      "könne": "could",
+      "suche": "search",
+      "seine": "his",
+      "äußerungen": "statements",
+      "iranischer": "Iranian",
+      "seite": "side",
+      "beweis": "evidence",
+      "interpretiert": "interpreted",
+      "welche": "which",
+      "notwendig": "necessary",
+      "erachtet": "regarded",
+      "langanhaltenden": "long-lasting",
+      "impliziert": "implies",
+      "überraschenden": "surprising",
+      "wende": "turn",
+      "rückflugs": "return flights",
+      "neuerliche": "renewed",
+      "initiierung": "initiation",
+      "gesprächen": "talks",
+      "massiv": "massive",
+      "bezeichneten": "designated",
+      "militärschlag": "military strike",
+      "islamische": "Islamic",
+      "republik": "republic",
+      "letzter": "last",
+      "sekunde": "second",
+      "abgebrochen": "aborted",
+      "bewußt": "aware",
+      "entstehung": "formation",
+      "formulierte": "formulated",
+      "geplante": "planned",
+      "dialogfeld": "dialog box",
+      "worte": "words",
+      "präsidenten": "presidents",
+      "soll": "shall",
+      "eröffnet": "opened",
+      "sozialen": "social",
+      "plattform": "platform",
+      "verbündeten": "allies",
+      "eindringlich": "urgent",
+      "militärische": "military",
+      "aktionen": "actions",
+      "verzichten": "to forgo",
+      "informelle": "informal",
+      "vereinbarungen": "agreements",
+      "getroffen": "hit",
+      "dementierte": "denied",
+      "vehement": "vehemently",
+      "aussagen": "statements",
+      "machte": "made",
+      "empfang": "reception",
+      "entsendung": "dispatch",
+      "überlegungen": "considerations",
+      "angestellt": "employed",
+      "vorfeld": "foreground",
+      "reihe": "series",
+      "erklärten": "explained",
+      "friedensabsichten": "peace intentions",
+      "geäußert": "expressed",
+      "stülpte": "flipped",
+      "ohne": "without",
+      "festzulegen": "to define",
+      "aussage": "statement",
+      "ständige": "constant",
+      "bereitschaft": "readiness",
+      "strebe": "aspiration",
+      "kein": "no",
+      "ambivalenz": "ambivalence",
+      "seiner": "his",
+      "erklärungen": "statements",
+      "reaktionen": "reactions",
+      "hervorgerufen": "caused",
+      "lässt": "lets",
+      "glaubwürdigkeit": "credibility",
+      "diplomatischen": "diplomatic",
+      "bemühungen": "efforts",
+      "ungünstigen": "unfavorable",
+      "licht": "light",
+      "erscheinen": "to appear"
+    },
+    "fr": {
+      "nouvelles": "news",
+      "discussions": "discussions",
+      "avec": "with",
+      "iran": "Iran",
+      "le": "the",
+      "président": "president",
+      "américain": "american",
+      "donald": "donald",
+      "trump": "trump",
+      "dit": "says",
+      "que": "that",
+      "de": "of",
+      "commencent": "begin",
+      "elles": "they",
+      "lundi": "Monday",
+      "annule": "cancels",
+      "une": "a",
+      "attaque": "attack",
+      "contre": "against",
+      "les": "the",
+      "gens": "people",
+      "en": "in",
+      "connaissent": "know",
+      "ils": "they",
+      "la": "the",
+      "voient": "see",
+      "venir": "to come",
+      "parle": "speaks",
+      "négociations": "negotiations",
+      "il": "he",
+      "paix": "peace",
+      "est": "is",
+      "prêt": "ready",
+      "pour": "for",
+      "ces": "these",
+      "aussi": "also",
+      "arabie": "Arabia",
+      "saoudite": "Saudi",
+      "demande": "request",
+      "arrêter": "to stop",
+      "prix": "prize",
+      "énergie": "energy",
+      "baissent": "lower",
+      "cause": "cause",
+      "cette": "this",
+      "annonce": "announcement",
+      "ne": "not",
+      "veulent": "want",
+      "pas": "not",
+      "guerre": "war",
+      "des": "some",
+      "solutions": "solutions",
+      "propose": "proposes",
+      "états-unis": "united states",
+      "annoncé": "announced",
+      "vont": "will go",
+      "commencer": "to start",
+      "après-midi": "afternoon",
+      "annulé": "canceled",
+      "massive": "massive",
+      "ce": "this",
+      "pays": "country",
+      "savaient": "knew",
+      "car": "because",
+      "ont": "have",
+      "vu": "seen",
+      "préparatifs": "preparations",
+      "créer": "to create",
+      "et": "and",
+      "éviter": "avoiding",
+      "conflit": "conflict",
+      "avant": "before",
+      "cela": "that",
+      "alliés": "allies",
+      "du": "of the",
+      "moyen-orient": "Middle East",
+      "lui": "him",
+      "demandé": "requested",
+      "attaquer": "to attack",
+      "reçu": "received",
+      "conseils": "advice",
+      "après": "after",
+      "son": "his",
+      "pétrole": "oil",
+      "baissé": "lowered",
+      "asie": "Asia",
+      "huile": "oil",
+      "brent": "brent",
+      "perdu": "lost",
+      "sa": "its",
+      "valeur": "value",
+      "dans": "in",
+      "monde": "world",
+      "trouver": "to find",
+      "ensemble": "together",
+      "résoudre": "to solve",
+      "problème": "problem",
+      "devraient": "should",
+      "aider": "to help",
+      "faire": "to do",
+      "avancer": "to advance",
+      "situation": "situation",
+      "décisions": "decisions",
+      "sont": "are",
+      "importantes": "important",
+      "avenir": "future",
+      "région": "region",
+      "économie": "economy",
+      "mondiale": "global",
+      "tout": "all",
+      "espère": "hopes",
+      "va": "goes",
+      "fonctionner": "to function",
+      "sera": "will be",
+      "possible": "possible",
+      "tensions": "tensions",
+      "toujours": "always",
+      "présentes": "present",
+      "mais": "but",
+      "dialogues": "dialogues",
+      "donnent": "give",
+      "espoir": "hope",
+      "déclaré": "stated",
+      "grande": "big",
+      "gouvernement": "government",
+      "avait": "had",
+      "planifiée": "planned",
+      "opération": "operation",
+      "qui": "who",
+      "aurait": "would have",
+      "été": "been",
+      "plus": "more",
+      "depuis": "since",
+      "seconde": "second",
+      "expliqué": "explained",
+      "était": "was",
+      "au": "at the",
+      "courant": "current",
+      "avaient": "had",
+      "observé": "observed",
+      "militaires": "military",
+      "certains": "some",
+      "comme": "like",
+      "lancer": "to launch",
+      "craignant": "fearing",
+      "conséquences": "consequences",
+      "dévastatrices": "devastating",
+      "conduit": "led",
+      "baisse": "decrease",
+      "significative": "significant",
+      "chuté": "dropped",
+      "signalant": "indicating",
+      "inquiétude": "concern",
+      "marchés": "markets",
+      "acteurs": "actors",
+      "marché": "market",
+      "un": "a",
+      "nouveau": "new",
+      "pourrait": "could",
+      "perturber": "to disrupt",
+      "exportations": "exports",
+      "environ": "about",
+      "brut": "raw",
+      "mondial": "global",
+      "transite": "transit",
+      "par": "by",
+      "détroit": "strait",
+      "hormuz": "Hormuz",
+      "parvenir": "to reach",
+      "accord": "agreement",
+      "essentielles": "essential",
+      "mentionné": "mentioned",
+      "conditions": "conditions",
+      "étaient": "were",
+      "cours": "course",
+      "définition": "definition",
+      "bien": "well",
+      "pourparlers": "talks",
+      "passés": "past",
+      "aient": "have",
+      "souvent": "often",
+      "infructueux": "fruitless",
+      "nombreux": "many",
+      "analystes": "analysts",
+      "restent": "stay",
+      "optimistes": "optimists",
+      "espèrent": "hope",
+      "pourraient": "could",
+      "ouvrir": "to open",
+      "voie": "way",
+      "vers": "towards",
+      "durable": "sustainable",
+      "si": "if",
+      "réussissent": "to succeed",
+      "stabiliser": "to stabilize",
+      "améliorer": "to improve",
+      "relations": "relations",
+      "diplomatiques": "diplomatic",
+      "entre": "between",
+      "échouent": "fail",
+      "escalade": "escalation",
+      "suggère": "suggests",
+      "nouveaux": "new",
+      "débuteraient": "would start",
+      "ayant": "having",
+      "qualifiait": "qualified",
+      "attaques": "attacks",
+      "massives": "massive",
+      "aux": "to the",
+      "journalistes": "journalists",
+      "bord": "border",
+      "air": "air",
+      "force": "force",
+      "one": "one",
+      "dimanche": "Sunday",
+      "sachant": "knowing",
+      "ampleur": "scale",
+      "se": "yourself",
+      "former": "to form",
+      "nous": "we",
+      "parlons": "let's talk",
+      "eux": "them",
+      "sous": "under",
+      "forme": "form",
+      "négociation": "negotiation",
+      "commence": "starts",
+      "demain": "tomorrow",
+      "message": "message",
+      "précédent": "previous",
+      "sur": "about",
+      "truth": "truth",
+      "social": "social",
+      "affirmé": "stated",
+      "avoir": "to have",
+      "sollicité": "requested",
+      "américains": "Americans",
+      "freiner": "to brake",
+      "toute": "all",
+      "périmètres": "perimeters",
+      "convenus": "agreed",
+      "ministère": "ministry",
+      "iranien": "Iranian",
+      "affaires": "affairs",
+      "étrangères": "foreign",
+      "cependant": "however",
+      "aucun": "none",
+      "projet": "project",
+      "recevoir": "to receive",
+      "délégation": "delegation",
+      "américaine": "American",
+      "ou": "or",
+      "envoyer": "to send",
+      "iraniens": "Iranians",
+      "washington": "washington",
+      "antérieures": "previous",
+      "facilitées": "eased",
+      "médiateurs": "mediators",
+      "réaffirmé": "reaffirmed",
+      "fin": "end",
+      "négociée": "negotiated",
+      "proche": "close",
+      "frappes": "strikes",
+      "réciproques": "reciprocal",
+      "reprennent": "take back",
+      "refusé": "refused",
+      "préciser": "to specify",
+      "délai": "delay",
+      "téhéran": "Tehran",
+      "ajoutant": "adding",
+      "verrons": "we will see",
+      "sommes": "sums",
+      "prêts": "ready",
+      "partir": "to leave",
+      "quand": "when",
+      "voulons": "want",
+      "je": "I",
+      "cherche": "searches",
+      "tuer": "to kill",
+      "prince": "prince",
+      "héritier": "heir",
+      "saoudien": "Saudi",
+      "mohammed": "Mohammed",
+      "ben": "Ben",
+      "salmane": "Salman",
+      "ainsi": "thus",
+      "partenaires": "partners",
+      "tels": "such",
+      "émirats": "Emirates",
+      "arabes": "Arab",
+      "unis": "united",
+      "qatar": "Qatar",
+      "incité": "incited",
+      "frapper": "to strike",
+      "durant": "during",
+      "week-end": "weekend",
+      "étions": "were",
+      "tous": "all",
+      "a-t-il": "did he",
+      "également": "also",
+      "insinué": "insinuated",
+      "vue": "view",
+      "concernant": "concerning",
+      "nucléaire": "nuclear",
+      "évoque": "evokes",
+      "récemment": "recently",
+      "tenue": "held",
+      "lesquelles": "which",
+      "débuteront": "will start",
+      "nouvel": "new",
+      "engagement": "commitment",
+      "survient": "occurs",
+      "annulation": "cancellation",
+      "militaire": "military",
+      "qualifiée": "qualified",
+      "exprimant": "expressing",
+      "précisé": "specified",
+      "cherchons": "are looking for",
+      "engager": "to engage",
+      "plateforme": "platform",
+      "ses": "his",
+      "mettre": "to put",
+      "pause": "pause",
+      "contours": "outlines",
+      "déjà": "already",
+      "évoqués": "mentioned",
+      "ministre": "minister",
+      "ait": "has",
+      "démenti": "denied",
+      "réception": "reception",
+      "précédentes": "previous",
+      "intermédiaires": "intermediaries",
+      "répété": "repeated",
+      "conviction": "conviction",
+      "imminente": "imminent",
+      "malgré": "despite",
+      "reprise": "recovery",
+      "refusant": "refusing",
+      "annoncer": "announce",
+      "précis": "precise",
+      "autres": "others",
+      "stratégiques": "strategic",
+      "conseillé": "advised",
+      "abstenir": "to abstain",
+      "actions": "actions",
+      "pendant": "during",
+      "possibilité": "possibility",
+      "programme": "program",
+      "éléments": "elements",
+      "cruciaux": "crucial",
+      "internationales": "international",
+      "compter": "to count",
+      "pleine": "full",
+      "tourmente": "turmoil",
+      "diplomatique": "diplomatic",
+      "ouvert": "open",
+      "porte": "door",
+      "programmées": "scheduled",
+      "débuter": "to begin",
+      "initiative": "initiative",
+      "fait": "makes",
+      "suite": "following",
+      "lui-même": "himself",
+      "décrite": "described",
+      "impérieuse": "imperious",
+      "auparavant": "beforehand",
+      "potentiellement": "potentially",
+      "dévastatrice": "devastating",
+      "dynamique": "dynamic",
+      "régionale": "regional",
+      "marches": "steps",
+      "révélé": "revealed",
+      "préparait": "was preparing",
+      "démontre": "demonstrates",
+      "leur": "their",
+      "vigilance": "vigilance",
+      "entamons": "let's begin",
+      "dès": "as soon as",
+      "signalé": "reported",
+      "déclaration": "declaration",
+      "exhorté": "urged",
+      "temporiser": "to stall",
+      "semblant": "semblance",
+      "émerger": "to emerge",
+      "rapidement": "quickly",
+      "accueillir": "to welcome",
+      "reconnaissant": "grateful",
+      "sollicités": "solicited",
+      "faciliter": "to facilitate",
+      "échanges": "exchanges",
+      "précédents": "previous",
+      "maintenant": "now",
+      "résolution": "resolution",
+      "imminence": "imminence",
+      "palpable": "palpable",
+      "esquivé": "dodged",
+      "détails": "details",
+      "échéancier": "schedule",
+      "lié": "linked",
+      "éventuel": "potential",
+      "noté": "noted",
+      "figures": "figures",
+      "influentes": "influential",
+      "telles": "such",
+      "recommandé": "recommended",
+      "initiatives": "initiatives",
+      "soulevé": "raised",
+      "idée": "idea",
+      "compromis": "compromise",
+      "autour": "around",
+      "deux": "two",
+      "enjeux": "issues",
+      "cœur": "heart",
+      "préoccupations": "concerns",
+      "mondiales": "global",
+      "tournure": "turn",
+      "inattendue": "unexpected",
+      "spécifié": "specified",
+      "retardant": "delaying",
+      "offensive": "offensive",
+      "visait": "aimed",
+      "bénéfice": "profit",
+      "futur": "future",
+      "prospère": "prosperous",
+      "retournement": "turnaround",
+      "soulève": "raises",
+      "interrogations": "questions",
+      "véritables": "true",
+      "intentions": "intentions",
+      "administration": "administration",
+      "vis-à-vis": "vis-a-vis",
+      "régime": "regime",
+      "souhait": "wish",
+      "apparent": "apparent",
+      "restaurer": "to restore",
+      "substantielles": "substantial"
+    },
+    "es": {
+      "trump": "trump",
+      "habla": "speaks",
+      "de": "of",
+      "conversaciones": "conversations",
+      "con": "with",
+      "irán": "they will go",
+      "es": "is",
+      "el": "the",
+      "presidente": "president",
+      "estados": "states",
+      "unidos": "united",
+      "él": "he",
+      "las": "the",
+      "son": "are",
+      "lunes": "Monday",
+      "por": "for",
+      "la": "the",
+      "tarde": "late",
+      "cancela": "cancels",
+      "un": "a",
+      "ataque": "attack",
+      "grande": "large",
+      "dice": "says",
+      "que": "that",
+      "va": "goes",
+      "negociar": "to negotiate",
+      "ellos": "they",
+      "personas": "people",
+      "en": "in",
+      "no": "not",
+      "saben": "they know",
+      "quiere": "wants",
+      "hablar": "to speak",
+      "situación": "situation",
+      "muy": "very",
+      "difícil": "difficult",
+      "los": "the",
+      "precios": "prices",
+      "del": "of the",
+      "petróleo": "oil",
+      "bajan": "go down",
+      "después": "after",
+      "noticias": "news",
+      "esto": "this",
+      "pasa": "to pass",
+      "porque": "because",
+      "hay": "there is",
+      "tensión": "tension",
+      "resolver": "to resolve",
+      "problema": "problem",
+      "importantes": "important",
+      "para": "to",
+      "ambos": "both",
+      "países": "countries",
+      "además": "furthermore",
+      "aliados": "allies",
+      "piden": "ask",
+      "haya": "there is",
+      "más": "more",
+      "ataques": "attacks",
+      "todos": "all",
+      "esperan": "they hope",
+      "acuerdo": "agreement",
+      "pronto": "soon",
+      "propone": "proposes",
+      "nuevas": "new",
+      "donald": "Donald",
+      "comienzan": "begin",
+      "tres": "three",
+      "gran": "great",
+      "militar": "military",
+      "planeaba": "to plan",
+      "este": "this",
+      "fin": "end",
+      "semana": "week",
+      "sus": "their",
+      "medio": "means",
+      "oriente": "Orient",
+      "tiene": "has",
+      "planes": "plans",
+      "recibir": "to receive",
+      "una": "a",
+      "delegación": "delegation",
+      "momento": "moment",
+      "paz": "peace",
+      "conflicto": "conflict",
+      "así": "thus",
+      "espera": "expects",
+      "resultados": "results",
+      "positivos": "positives",
+      "anuncios": "ads",
+      "mercados": "markets",
+      "reaccionan": "react",
+      "rápidamente": "quickly",
+      "hasta": "until",
+      "ahora": "now",
+      "responde": "responds",
+      "propuestas": "proposals",
+      "cree": "he/she/they believe",
+      "posible": "possible",
+      "varios": "several",
+      "calma": "calm",
+      "príncipes": "princes",
+      "arabia": "Saudi",
+      "saudita": "Arabia",
+      "están": "are",
+      "preocupados": "concerned",
+      "también": "also",
+      "insisten": "insist",
+      "solución": "solution",
+      "importante": "important",
+      "al": "to the",
+      "final": "final",
+      "objetivo": "objective",
+      "evitar": "to avoid",
+      "guerra": "war",
+      "lograr": "to achieve",
+      "estabilidad": "stability",
+      "región": "region",
+      "sugiere": "suggests",
+      "iniciar": "to start",
+      "nuevos": "new",
+      "diálogos": "dialogues",
+      "ha": "has",
+      "anunciado": "announced",
+      "comenzarán": "will start",
+      "ocurre": "occurs",
+      "cancelara": "cancel",
+      "consideraba": "considered",
+      "peligroso": "dangerous",
+      "indicado": "indicated",
+      "como": "like",
+      "le": "the",
+      "pidieron": "asked",
+      "se": "oneself",
+      "abstuviera": "abstain",
+      "llevar": "to carry",
+      "cabo": "cape",
+      "ofensiva": "offensive",
+      "ya": "already",
+      "había": "had",
+      "alcanzado": "reached",
+      "inicial": "initial",
+      "entre": "between",
+      "partes": "parts",
+      "sin": "without",
+      "embargo": "however",
+      "afirmado": "stated",
+      "lo": "it",
+      "puede": "can",
+      "dificultar": "to hinder",
+      "negociaciones": "negotiations",
+      "diálogo": "dialogue",
+      "permita": "allows",
+      "actual": "current",
+      "prevenir": "to prevent",
+      "escalada": "escalation",
+      "violencia": "violence",
+      "si": "if",
+      "estas": "these",
+      "charlas": "talks",
+      "tienen": "have",
+      "éxito": "success",
+      "podrían": "could",
+      "cambiar": "to change",
+      "considerablemente": "considerably",
+      "dinámica": "dynamic",
+      "relaciones": "relations",
+      "han": "they have",
+      "estado": "state",
+      "tensas": "tense",
+      "últimos": "latest",
+      "años": "years",
+      "otro": "other",
+      "lado": "side",
+      "disminuido": "reduced",
+      "desde": "since",
+      "su": "his",
+      "anuncio": "announcement",
+      "comerciantes": "merchants",
+      "nerviosos": "nervous",
+      "sobre": "about",
+      "príncipe": "prince",
+      "mohammed": "mohammed",
+      "bin": "bin",
+      "salman": "Salman",
+      "junto": "together",
+      "otros": "others",
+      "insistido": "insisted",
+      "realicen": "carry out",
+      "mantiene": "maintains",
+      "podría": "could",
+      "traer": "to bring",
+      "temporal": "temporary",
+      "falta": "lack",
+      "claro": "clear",
+      "refleja": "reflects",
+      "dificultades": "difficulties",
+      "existen": "exist",
+      "llegar": "to arrive",
+      "sostenible": "sustainable",
+      "causado": "caused",
+      "inestabilidad": "instability",
+      "preocupaciones": "worries",
+      "nivel": "level",
+      "mundial": "global",
+      "partir": "to leave",
+      "ee": "USA",
+      "uu": "US",
+      "anunció": "announced",
+      "tras": "after",
+      "cancelar": "to cancel",
+      "afirmó": "he affirmed",
+      "serían": "would be",
+      "masivos": "massive",
+      "contra": "against",
+      "país": "country",
+      "conocían": "they knew",
+      "magnitud": "magnitude",
+      "vieron": "they saw",
+      "formarse": "form",
+      "declaró": "declared",
+      "reporteros": "reporters",
+      "bordo": "board",
+      "air": "air",
+      "force": "force",
+      "one": "one",
+      "domingo": "Sunday",
+      "estamos": "we are",
+      "hablando": "talking",
+      "forma": "form",
+      "negociación": "negotiation",
+      "comienza": "begins",
+      "mañana": "tomorrow",
+      "publicación": "publication",
+      "anterior": "previous",
+      "truth": "truth",
+      "social": "social",
+      "comentó": "he/she/they commented",
+      "habían": "they had",
+      "solicitado": "requested",
+      "frenar": "to brake",
+      "cualquier": "any",
+      "dado": "given",
+      "acordado": "agreed",
+      "límites": "limits",
+      "ministerio": "ministry",
+      "exteriores": "foreign",
+      "estadounidense": "American",
+      "anteriores": "previous",
+      "facilitaron": "facilitated",
+      "través": "through",
+      "mediadores": "mediators",
+      "repetidamente": "repeatedly",
+      "negociado": "negotiated",
+      "está": "is",
+      "cerca": "near",
+      "aunque": "although",
+      "recíprocos": "reciprocal",
+      "continuado": "continued",
+      "respecto": "regarding",
+      "puso": "put",
+      "plazo": "term",
+      "alcanzar": "to reach",
+      "teherán": "Tehran",
+      "añadiendo": "adding",
+      "simplemente": "simply",
+      "veremos": "we will see",
+      "cómo": "how",
+      "listos": "ready",
+      "actuar": "to act",
+      "cuando": "when",
+      "queramos": "we want",
+      "busco": "I look for",
+      "matar": "to kill",
+      "gente": "people",
+      "heredero": "heir",
+      "socios": "partners",
+      "emiratos": "Emirates",
+      "árabes": "Arab",
+      "qatar": "Qatar",
+      "aconsejaron": "advised",
+      "realizar": "to carry out",
+      "durante": "during",
+      "acciones": "actions",
+      "afectado": "affected",
+      "globales": "global",
+      "cayeron": "fell",
+      "comunicó": "communicated",
+      "próximo": "next",
+      "calificado": "qualified",
+      "masivo": "massive",
+      "estaban": "were",
+      "tanto": "so much",
+      "gestarse": "develop",
+      "expresó": "expressed",
+      "medios": "media",
+      "comunicación": "communication",
+      "viaje": "trip",
+      "agregó": "added",
+      "recibido": "received",
+      "pedidos": "orders",
+      "estadounidenses": "Americans",
+      "posponer": "postpone",
+      "acción": "action",
+      "ciertos": "certain",
+      "perímetros": "perimeters",
+      "sido": "been",
+      "convenidos": "agreed",
+      "obstante": "however",
+      "declarado": "declared",
+      "prevé": "foresees",
+      "llegada": "arrival",
+      "previas": "previous",
+      "mediadas": "mediated",
+      "distintas": "different",
+      "sigue": "follows",
+      "insistiendo": "insisting",
+      "inminente": "imminent",
+      "intercambios": "exchanges",
+      "ido": "gone",
+      "venido": "come",
+      "declaraciones": "statements",
+      "precisó": "specified",
+      "ningún": "none",
+      "evoluciona": "evolves",
+      "tengo": "I have",
+      "intenciones": "intentions",
+      "causar": "to cause",
+      "muertes": "deaths",
+      "comentarios": "comments",
+      "saudí": "Saudi",
+      "impacto": "impact",
+      "precio": "price",
+      "considerable": "considerable",
+      "plantea": "raises",
+      "posibilidad": "possibility",
+      "sugerido": "suggested",
+      "dará": "will give",
+      "inicio": "beginning",
+      "haber": "to have",
+      "cancelado": "canceled",
+      "supuesto": "supposed",
+      "según": "according",
+      "tenido": "had",
+      "consecuencias": "consequences",
+      "catastróficas": "catastrophic",
+      "profundidad": "depth",
+      "prensa": "press",
+      "pasado": "past",
+      "enfatizando": "emphasizing",
+      "estaba": "he was",
+      "llevando": "carrying",
+      "modalidad": "mode",
+      "constructivo": "constructive",
+      "previa": "previous",
+      "norteamericano": "North American",
+      "indicó": "indicated",
+      "regionales": "regional",
+      "encarecidamente": "strongly",
+      "suspensión": "suspension",
+      "ciertas": "certain",
+      "condiciones": "conditions",
+      "preliminares": "preliminaries",
+      "iraní": "Iranian",
+      "desmentido": "disputed",
+      "categóricamente": "categorically",
+      "realizado": "carried out",
+      "tal": "such",
+      "solicitud": "application",
+      "pesar": "despite",
+      "continuas": "continuous",
+      "afirmaciones": "statements",
+      "eventual": "eventual",
+      "seguido": "followed",
+      "curso": "course",
+      "evitó": "avoided",
+      "establecer": "to establish",
+      "fecha": "date",
+      "límite": "limit",
+      "consecución": "achievement",
+      "tratado": "treaty",
+      "manifestando": "manifesting",
+      "desarrollan": "to develop",
+      "acontecimientos": "events",
+      "preparados": "prepared",
+      "nuestro": "our",
+      "antojo": "craving",
+      "intención": "intention",
+      "bajas": "losses",
+      "fue": "was",
+      "notable": "notable",
+      "hecho": "fact",
+      "otras": "other",
+      "naciones": "nations",
+      "asociadas": "associated",
+      "proceder": "to proceed",
+      "esta": "this",
+      "decisión": "decision",
+      "consecuencia": "consequence",
+      "tuvo": "had",
+      "efecto": "effect",
+      "inmediato": "immediate",
+      "cotizaciones": "quotes",
+      "sufrieron": "suffered",
+      "caída": "fall"
+    }
+  }
+}

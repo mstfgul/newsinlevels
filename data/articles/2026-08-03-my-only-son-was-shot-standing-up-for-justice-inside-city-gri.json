@@ -1,0 +1,2622 @@
+{
+  "id": "2026-08-03-my-only-son-was-shot-standing-up-for-justice-inside-city-gri",
+  "date": "2026-08-03",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b1f/live/54e97760-8efe-11f1-b8ee-9b3c26ad07bb.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Protests in Kashmir",
+        "text": "In Kashmir, there are big protests. People want justice. Many people are hurt. A man is shot. His name is Shafqat. He lies on a bed. There is blood on the sheet. His friend, Ali, is very sad. He wants basic rights. Many young people are injured. The doctors help the hurt people. They do not have enough supplies. Protesters are scared. They do not want to go to the hospital. They fear police arrest them. The police say the protesters are bad. Many families lose loved ones. People only want their rights.",
+        "vocabulary": [
+          {
+            "word": "hurt",
+            "definition": "to be injured or in pain"
+          },
+          {
+            "word": "justice",
+            "definition": "fair treatment"
+          },
+          {
+            "word": "blood",
+            "definition": "red liquid in the body"
+          },
+          {
+            "word": "sad",
+            "definition": "feeling unhappy"
+          },
+          {
+            "word": "rights",
+            "definition": "things people should have"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is on the bed?",
+            "options": [
+              "Shafqat",
+              "Ali",
+              "Dr. Anwar"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why are protesters scared?",
+            "options": [
+              "They fear the police.",
+              "They want food.",
+              "They like the hospital."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do people want?",
+            "options": [
+              "Justice and rights.",
+              "Money and power.",
+              "Fame and success."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Kashmir Protests for Rights",
+        "text": "In Kashmir, people are protesting for their rights. Many are hurt, and some are shot. Shafqat is one of the injured. He lies on a bed in a small clinic. His friend, Ali, is very sad. They want affordable prices for flour and electricity. There are many young people hurt in the protests. The doctors in the clinic help as much as they can, but they do not have enough supplies. Protesters do not want to go to the big hospital because they fear police will arrest them. The police say the protesters are bad people. Families report losing loved ones in these protests. People only want to be treated fairly and live well.",
+        "vocabulary": [
+          {
+            "word": "clinic",
+            "definition": "a small place for medical help"
+          },
+          {
+            "word": "protesting",
+            "definition": "showing strong feelings against something"
+          },
+          {
+            "word": "affordable",
+            "definition": "not too expensive"
+          },
+          {
+            "word": "police",
+            "definition": "people who keep the law"
+          },
+          {
+            "word": "families",
+            "definition": "groups of parents and children"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do protesters want?",
+            "options": [
+              "Affordable flour and electricity.",
+              "More police officers.",
+              "Less hospitals."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why do protesters avoid the hospital?",
+            "options": [
+              "They fear the police.",
+              "They want to be treated.",
+              "They like the clinic better."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who helps the hurt people?",
+            "options": [
+              "Doctors in the clinic.",
+              "Police officers.",
+              "Friends and family."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Clashes in Kashmir Over Basic Rights",
+        "text": "In Kashmir, there are ongoing protests related to basic rights, and the situation has become increasingly violent. Many young people have been injured during these demonstrations, and some have even been shot. Shafqat Hussain lies on a bed in a small clinic after being shot in the chest. His friend, Ali, stands by his side and is crying. They have been protesting for affordable flour and electricity because prices are too high. Unfortunately, these protests have led to many injuries in the region. Doctors like Dr. Anwar are trying their best to help the injured, but they do not have enough medical supplies for the many people who need assistance. Protesters are afraid to go to the main hospital because they believe the police might arrest them; however, the police claim this is not true. Families are losing their loved ones during these protests because they believe in standing up for their rights. They only want to be treated fairly and gain access to basic necessities like food and electricity. The young protesters, many of whom are between 15 and 35 years old, have been vocal about their demands, but the authorities continue to ignore them.  An agreement that was signed with the government last October has not yet been implemented, which has fueled further anger among the community. If the situation does not improve soon, more lives could be lost in the struggle for basic rights.",
+        "vocabulary": [
+          {
+            "word": "demonstration",
+            "definition": "a public meeting or march to show support for a cause"
+          },
+          {
+            "word": "supplies",
+            "definition": "things needed for a particular purpose, like medical needs or food"
+          },
+          {
+            "word": "assistance",
+            "definition": "help or support"
+          },
+          {
+            "word": "necessities",
+            "definition": "things that are essential or very important for life"
+          },
+          {
+            "word": "agreement",
+            "definition": "a mutual decision made between two or more people or parties"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has triggered the protests in Kashmir?",
+            "options": [
+              "High prices for basic rights.",
+              "The lack of medical supplies.",
+              "Government corruption."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is Dr. Anwar?",
+            "options": [
+              "A local politician.",
+              "A doctor treating injured protesters.",
+              "A police officer."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What do families affected by the protests want?",
+            "options": [
+              "More police presence.",
+              "Fair treatment and basic rights.",
+              "More supplies for the clinic."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Violent Protests in Kashmir: A Fight for Justice",
+        "text": "In Rawalakot, Pakistan-administered Kashmir, Dr. Anwar's clinic serves as a critical medical facility during ongoing protests. Located near the main protest site, his makeshift clinic, which includes a bedroom stocked with supplies, has become a refuge for injured protesters. Among them is Shafqat Hussain, who lies dying after being shot in the chest. In the past two months, violent clashes between security forces and protesters from the Joint Awami Action Committee (JAAC) have resulted in numerous fatalities. The region, home to approximately 4.5 million people, is currently experiencing political turmoil alongside ongoing election activities. Dr. Anwar stated, \"We can treat minor wounds, but severe injuries require advanced hospitals.\" Given the fear of arrest or further violence, many injured individuals hesitate to seek help at major hospitals. Protesters, primarily young people, are expressing anger over rising living costs and lack of basic rights. Although an agreement was reached with the government in October, the JAAC asserts that it has not been honored. The local authorities, labeling the JAAC as armed and disruptive, refuse to allow marches to the capital. With escalating violence and a media blackout, the people of Rawalakot continue to fight for justice while trying to survive the increasingly oppressive conditions.",
+        "vocabulary": [
+          {
+            "word": "critical",
+            "definition": "very important"
+          },
+          {
+            "word": "refuge",
+            "definition": "a safe place"
+          },
+          {
+            "word": "fatalities",
+            "definition": "deaths"
+          },
+          {
+            "word": "turmoil",
+            "definition": "confusion and disorder"
+          },
+          {
+            "word": "escalating",
+            "definition": "increasing"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What happened to Shafqat Hussain?",
+            "options": [
+              "He was shot in the chest.",
+              "He helped others.",
+              "He went to the hospital."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why are some protesters afraid to go to hospitals?",
+            "options": [
+              "They fear being arrested.",
+              "They want to stay safe.",
+              "They are not injured."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do JAAC protesters demand?",
+            "options": [
+              "Basic rights and affordable living.",
+              "More political power.",
+              "Government jobs."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Rawalakot Protests: A Struggle for Rights Amid Violence",
+        "text": "In the tumultuous atmosphere of Rawalakot, Pakistan-administered Kashmir, Dr. Anwar has established a makeshift clinic that embodies both a sanctuary and a medical lifeline for injured protesters. Situated close to the heart of the ongoing demonstrations, the clinic has been overwhelmed by patients like Shafqat Hussain, who was shot in the chest during the unrest. The violent altercations between demonstrators, aligned with the Joint Awami Action Committee (JAAC), and security forces have tragically resulted in numerous fatalities over the past two months. Dr. Anwar, while assessing the situation, indicated that although they have sufficient supplies for first aid, patients suffering from severe injuries are often left unattended due to the escalating fear of violence at major hospitals. Young individuals, the primary casualties, are rallying against pressing issues such as rising utility costs and a lack of basic rights. The JAAC claims that a previously signed agreement with the local government has not been implemented, exacerbating their plight. Meanwhile, the authorities brand the JAAC as an armed group seeking to disrupt elections, dismissing allegations of indiscriminate violence. As families grieve their losses, the ongoing media constraints complicate any accurate reporting of the unfolding tragedy.",
+        "vocabulary": [
+          {
+            "word": "tumultuous",
+            "definition": "full of confusion and disorder"
+          },
+          {
+            "word": "sanctuary",
+            "definition": "a safe place"
+          },
+          {
+            "word": "altercations",
+            "definition": "violent disputes"
+          },
+          {
+            "word": "unattended",
+            "definition": "not taken care of"
+          },
+          {
+            "word": "plight",
+            "definition": "a difficult situation"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where is Dr. Anwar's clinic located?",
+            "options": [
+              "Near the main protest site.",
+              "In the capital.",
+              "In a hospital."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Dr. Anwar say about treating severe injuries?",
+            "options": [
+              "They cannot treat them well.",
+              "They can treat them perfectly.",
+              "They treat all injuries equally."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the primary issue protesters are facing?",
+            "options": [
+              "Rising utility costs.",
+              "Poor healthcare.",
+              "Election fraud."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Amidst Tragedy: The Ongoing Protests in Kashmir",
+        "text": "In the beleaguered city of Rawalakot, nestled within Pakistan-administered Kashmir, Dr. Anwar’s makeshift clinic has become an unlikely epicenter of both care and despair, illustrating the profound repercussions of the ongoing protests against governmental indifference. Shafqat Hussain, a young man caught in the maelstrom of civil unrest, lies gravely injured from a gunshot wound to the chest, emblematic of the countless lives irrevocably altered by recent confrontations. As tensions escalate, the region has witnessed a lamentable toll—dozens dead, primarily youths, orchestrating calls for fundamental rights, amidst rising living costs that seem to mock their dignity. When Dr. Anwar acknowledges the limitations of his clinic, stating that severe injuries often exceed its capacity, he inadvertently reveals the tragic irony of a community besieged not only by violence but by the very institutions meant to safeguard it. The JAAC, branded as insurgents by the authorities, insists their struggle is one for justice, their demands for accountability falling on deaf ears amid governmental dismissals and palpable fear. The media blackout further compounds this poignant tragedy, leaving families like those of Hussain and his peers bereft, navigating a landscape of loss in the name of justice—a cause they hold dear, even as oppression intensifies and hope wanes.",
+        "vocabulary": [
+          {
+            "word": "beleaguered",
+            "definition": "troubled and under pressure"
+          },
+          {
+            "word": "epicenter",
+            "definition": "the center of a situation"
+          },
+          {
+            "word": "despair",
+            "definition": "extreme sadness"
+          },
+          {
+            "word": "lamentable",
+            "definition": "sad and regrettable"
+          },
+          {
+            "word": "insurgents",
+            "definition": "rebels fighting against their government"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Dr. Anwar's clinic represent?",
+            "options": [
+              "A source of hope and hurt.",
+              "A luxury hospital.",
+              "A police station."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do protesters seek amidst their struggles?",
+            "options": [
+              "Justice and fundamental rights.",
+              "Government jobs.",
+              "More power for the military."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How do authorities characterize the JAAC?",
+            "options": [
+              "As peaceful protesters.",
+              "As insurgents and rebels.",
+              "As ordinary citizens."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Proteste in Pakistan",
+        "text": "In Rawalakot gibt es Proteste. Viele Menschen sind verletzt. Shafqat Hussain liegt verletzt in einem Bett. Er hat eine Schusswunde. Es gibt einen Arzt namens Anwar. Anwar hat eine kleine Klinik. Die Klinik hat viele verletzte Menschen. Die Menschen protestieren für ihre Rechte. Sie wollen billigere Dinge. Die Polizei ist da. Viele Menschen haben Angst. Sie wollen nicht ins Krankenhaus gehen. Die Polizei könnte sie festnehmen oder verletzen. Die Situation ist gefährlich. Viele Menschen sind traurig und wütend.",
+        "vocabulary": [
+          {
+            "word": "Proteste",
+            "definition": "Wenn Menschen für etwas kämpfen."
+          },
+          {
+            "word": "verletzt",
+            "definition": "Wenn jemand Schmerzen hat."
+          },
+          {
+            "word": "Arzt",
+            "definition": "Eine Person, die bei Krankheiten hilft."
+          },
+          {
+            "word": "Klinik",
+            "definition": "Ein kleiner Ort für medizinische Hilfe."
+          },
+          {
+            "word": "Rechte",
+            "definition": "Das, was Menschen dürfen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wo gibt es Proteste?",
+            "options": [
+              "In Rawalakot",
+              "In Islamabad",
+              "In Lahore"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist der Arzt?",
+            "options": [
+              "Dr. Anwar",
+              "Dr. Ali",
+              "Dr. Salman"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat Shafqat Hussain?",
+            "options": [
+              "Schmerzen",
+              "Eine Schusswunde",
+              "Ein gebrochenes Bein"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Proteste in Rawalakot, Pakistan",
+        "text": "In Rawalakot protestieren viele Menschen. Sie kämpfen für ihre Rechte. Shafqat Hussain ist verletzt. Er hat eine Schusswunde im Brustbereich. Der Arzt Anwar arbeitet in einer kleinen Klinik. Diese Klinik hat viele Verletzte behandelt. Anwar sagt, dass sie genug Material für Erste Hilfe haben. Viele Menschen haben Angst, ins Krankenhaus zu gehen. Sie denken, die Polizei könnte sie festnehmen. In der letzten Zeit sind viele junge Menschen verletzt oder getötet worden. Die Protestierenden wollen billigere Lebensmittel und Strom. Sie sind traurig und wütend. Die Polizei sagt, dass die Protestierenden gewalttätig sind. Aber die Menschen sagen, sie sind friedlich. Die Situation in Rawalakot ist sehr schwer. Die Leute bleiben hungrig und brauchen Hilfe.",
+        "vocabulary": [
+          {
+            "word": "Protestieren",
+            "definition": "Für etwas kämpfen oder sich beschweren."
+          },
+          {
+            "word": "Verletzt",
+            "definition": "Eine Person hat Schmerzen oder eine Wunde."
+          },
+          {
+            "word": "Klinik",
+            "definition": "Ein kleiner Ort für medizinische Behandlung."
+          },
+          {
+            "word": "Ärztliche Hilfe",
+            "definition": "Hilfe von einem Arzt."
+          },
+          {
+            "word": "Situation",
+            "definition": "Wie etwas ist."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was passiert in Rawalakot?",
+            "options": [
+              "Es gibt Proteste.",
+              "Es gibt ein Festival.",
+              "Es gibt einen Markt."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum haben die Leute Angst?",
+            "options": [
+              "Weil die Polizei da ist.",
+              "Weil es regnet.",
+              "Weil sie hungrig sind."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was wollen die Protestierenden?",
+            "options": [
+              "Billigere Lebensmittel.",
+              "Mehr Schulen.",
+              "Weniger Ärzte."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Proteste in Rawalakot, Pakistan: Verletzte und Forderungen",
+        "text": "In Rawalakot, einer Stadt in Pakistan, gibt es viele Proteste. Die Menschen protestieren für ihre Rechte und fordern billigere Lebensmittel und Strom. In den letzten zwei Monaten sind viele Menschen verletzt worden, darunter Shafqat Hussain, der eine schwere Schusswunde hat. Sein Zustand ist kritisch, und er wird in einer provisorischen Klinik behandelt, die von Dr. Anwar geleitet wird. Diese Klinik hat die benötigten Materialien für Erste Hilfe, doch viele Verletzte haben Angst, ins Hauptkrankenhaus zu gehen, weil die Polizei dort ist. Die Polizei könnte sie festnehmen oder sogar schießen, wenn sie dorthin gehen. Laut Dr. Anwar sind die meisten verletzten Personen sehr jung. Sie sind zwischen 15 und 35 Jahren alt. Diese Zahlen sind alarmierend, besonders da in der Region in den letzten Monaten viele Menschen in Zusammenstößen zwischen Sicherheitskräften und Protestierenden getötet wurden. Die Protestierenden fordern grundlegende Menschenrechte, und sie haben mehrmals gesagt, dass sie sich friedlich verhalten. Dennoch hat die Regierung die Demonstrationen als Bedrohung für die öffentliche Sicherheit betrachtet. Der lokale Arzt Anwar sagt, dass der Druck auf die pflegerischen Einrichtungen wächst, da die Verletzten Verletzungen erlitten haben, die eine spezielle Behandlung erfordern. Wenn diese Situation anhält, könnten noch viele weitere Menschen verletzt werden. Es ist wichtig, dass die Protestierenden in der Lage sind, ihre Stimme zu erheben, ohne in Gefahr zu geraten, verletzt oder getötet zu werden. Diese Proteste sind ein Schrei nach Hilfe in einer schwierigen Lage.",
+        "vocabulary": [
+          {
+            "word": "kritisch",
+            "definition": "In einem sehr gefährlichen Zustand, der oft mit dem Leben zu tun hat."
+          },
+          {
+            "word": "provisorisch",
+            "definition": "Temporär; nicht dauerhaft, meist für eine kurze Zeit."
+          },
+          {
+            "word": "Alarmierend",
+            "definition": "Besorgniserregend; etwas, das Sorgen oder Ängste verursacht."
+          },
+          {
+            "word": "Sicherheitskräfte",
+            "definition": "Die Polizei oder das Militär, die die Sicherheit einer Region oder eines Landes gewährleisten."
+          },
+          {
+            "word": "Demonstrationen",
+            "definition": "Öffentliche Versammlungen, bei denen Menschen für eine Sache protestieren oder Forderungen stellen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was fordern die Menschen in Rawalakot?",
+            "options": [
+              "Billigere Lebensmittel und Strom",
+              "Mehr Polizei im Stadtzentrum",
+              "Eine neue Regierung"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer hat die provisorische Klinik in Rawalakot geleitet?",
+            "options": [
+              "Dr. Anwar",
+              "Shafqat Hussain",
+              "Ali"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum haben viele Menschen Angst, ins Hauptkrankenhaus zu gehen?",
+            "options": [
+              "Die Polizei ist dort und könnte sie festnehmen",
+              "Es gibt keine medizinische Versorgung",
+              "Das Krankenhaus hat zu wenig Platz"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Proteste in Pakistan verwüsten die Stadt Rawalakot",
+        "text": "In der Stadt Rawalakot in dem von Pakistan verwalteten Kaschmir hat Dr. Anwar eine Notfallklinik eingerichtet, die sich unweit des Hauptprotestgebiets befindet. Sein zweckentfremdeter Raum dient als Lager für medizinische Vorräte, während im Freien ein Bett unter einem rotspannten Zelt aufgestellt ist. Auf diesem Bett liegt Shafqat Hussain, der in die Brust geschossen wurde. Das Laken ist bereits mit dem Blut vorher verletzter Patienten befleckt. Er stirbt. In den letzten zwei Monaten sind Dutzende von Menschen bei Zusammenstößen zwischen der Polizei und Demonstranten der Joint Awami Action Committee (JAAC) getötet worden. In dieser Region leben etwa 4,5 Millionen Menschen, und derzeit finden Wahlen statt. Die BBC ist das erste Medium, das Zugang zu Rawalakot erhält und mit den Protestierenden sprechen konnte. Dr. Anwar berichtet, dass die Klinik in den letzten Wochen 50 bis 60 schwer verletzte Patienten behandelt hat. Er fügt hinzu: „Wir haben genug Vorräte für die Erstversorgung, aber bei schwerwiegenden Verletzungen sind fortgeschrittene Krankenhäuser nötig.“ Viele Demonstranten meiden es, ins Hauptkrankenhaus zu gehen, weil sie Angst haben, verhaftet zu werden. Trotz der Aussagen der Behörden sehen viele in der Bevölkerung das als nicht zutreffend an. An einem Bett steht Alis Freund und weint. ”Wir wollen einfach nur unsere Grundrechte,” sagt er unter Tränen. Die JAAC hat angekündigt, dass ihre Proteste sich um Brennstoffpreise und Gesundheitsversorgung drehen. Ein Anfang Oktober unterzeichneter Vertrag zwischen der pakistanischen und der PAK-Regierung sollte Abhilfe schaffen, wurde jedoch nicht umgesetzt. Das lokale Regierung argumentiert, die Gruppe sei bewaffnet und gefährde die Wahlen.",
+        "vocabulary": [
+          {
+            "word": "Notfallklinik",
+            "definition": "Ein Ort, wo Menschen mit Verletzungen behandelt werden."
+          },
+          {
+            "word": "Protestgebiets",
+            "definition": "Ein Ort, wo Menschen öffentlich ihre Meinung sagen."
+          },
+          {
+            "word": "sehr",
+            "definition": "Ein Wort, das oft verwendet wird, um etwas stark zu beschreiben."
+          },
+          {
+            "word": "Liegt",
+            "definition": "Wenn etwas auf dem Boden ist."
+          },
+          {
+            "word": "Medizinische",
+            "definition": "Etwas, das hilft, Krankheiten zu behandeln."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist Dr. Anwar?",
+            "options": [
+              "Ein Arzt",
+              "Ein Polizist",
+              "Ein Lehrer"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was ist die JAAC?",
+            "options": [
+              "Eine Polizei",
+              "Eine Protestgruppe",
+              "Eine Schule"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum gehen die Demonstranten nicht ins Hauptkrankenhaus?",
+            "options": [
+              "Weil es zu voll ist",
+              "Weil sie Angst vor Festnahmen haben",
+              "Weil sie kein Geld haben"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Hintergrund der Proteste in Rawalakot: Eine tragische Realität",
+        "text": "In der Stadt Rawalakot, im von Pakistan verwalteten Kaschmir, hat Dr. Anwar eine temporäre Klinik eingerichtet, die sich in der Nähe des Hauptprotestortes befindet. Hier wird ein Zimmer als Lagerraum für medizinische Vorräte genutzt. Etwa im Voraus wurden verletzte Personen behandelt, darunter Shafqat Hussain, der durch Schüsse in der Brust lebensgefährlich verletzt wurde. Anfang Juli kam es vermehrt zu gewalttätigen Konflikten zwischen Sicherheitspersonal und Demonstranten der Joint Awami Action Committee (JAAC), und Dutzende Menschen verloren bereits ihr Leben. Aktuell stehen in dieser Region mit etwa 4,5 Millionen Einwohnern Wahlen bevor, was die Situation zusätzlich aufheizt. Die BBC war das erste ausländische Medium, das Zugang zu Rawalakot erhielt und vor Ort mit den Protestierenden sprechen konnte. Dr. Anwar erwähnt, dass seine Klinik in den letzten Wochen 50 bis 60 schwer Verletzte behandelt hat und warnt: „Die Grundversorgung haben wir, aber ernsthaft Verletzte benötigen größere Krankenhäuser.“ Diese Menschen meiden jedoch das Hauptkrankenhaus aus Angst vor Verhaftungen. Trotz der offiziellen Verlautbarungen betrachten viele Bürger diese Sicherheitsmaßnahmen als problematisch. Ali, ein Freund von Shafqat, äußert unter Tränen: „Wir fordern lediglich faire Preise für Strom und Mehl.“ Laut der JAAC wird für eine Verbesserung ihrer Lebensbedingungen demonstriert. Ein im Oktober unterzeichneter Vertrag mit der pakistanischen Regierung sollte helfen, doch die Vereinbarungen wurden bislang nicht eingehalten, was die Spannungen erhöht hat.",
+        "vocabulary": [
+          {
+            "word": "Temporäre",
+            "definition": "Vorübergehend; nicht dauerhaft."
+          },
+          {
+            "word": "Konflikten",
+            "definition": "Zusammenstöße oder Streit zwischen Gruppen oder Personen."
+          },
+          {
+            "word": "Ernste",
+            "definition": "Schwerwiegend; von großer Wichtigkeit."
+          },
+          {
+            "word": "Verlautbarungen",
+            "definition": "Öffentliche Erklärungen oder Ansagen."
+          },
+          {
+            "word": "Vereinbarungen",
+            "definition": "Abmachungen oder Verträge zwischen Parteien."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Arzt in der Klinik?",
+            "options": [
+              "Dr. Anwar",
+              "Dr. Ali",
+              "Dr. Hussain"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was behandelt die Klinik hauptsächlich?",
+            "options": [
+              "Grippe",
+              "Verletzte",
+              "Krebspatienten"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was fordert Ali im Protest?",
+            "options": [
+              "Günstiges Essen",
+              "Bessere Schulen",
+              "Mehr Parks"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Rawalakot: An einem kritischen Punkt des Protests mit fatalen Konsequenzen",
+        "text": "Die politische Situation in Rawalakot, einer Stadt im von Pakistan verwalteten Kaschmir, ist angespannt wie nie zuvor. Hier trifft die improvisierte Klinik von Dr. Anwar auf die unmittelbaren Auswirkungen der Protestwelle, die infolge brutaler Zusammenstöße zwischen Sicherheitskräften und Demonstranten der Joint Awami Action Committee (JAAC) bereits zahlreiche zivile Opfer gefordert hat. Shafqat Hussain liegt schwer verletzt und blutend in der Klinik, die unter enormem Druck steht, bedürfnisorientierte medizinische Hilfe zu leisten. „Wir können lediglich Erste Hilfe leisten,“ so Dr. Anwar, der hinzufügt: „Patienten mit ernsthaften Verletzungen benötigen spezialisierte Einrichtungen. Viele Menschen fürchten sich, diese aufzusuchen, da sie befürchten, festgenommen oder gar erschossen zu werden.“ Zugleich ist Die JAAC aus Sicht der Regierung als bewaffnete Gruppe eingestuft worden, was die Verhandlungen über bestehende Verträge mit den Behörden erheblich kompliziert. Ein im Oktober geschlossener Vertrag über soziale Hilfeleistungen bleibt unerfüllt, und die Vorwürfe über eine unkontrollierte Gewaltanwendung durch Sicherheitskräfte, die friedliche Demonstranten treffen, lassen die Besorgnis in der Bevölkerung weiterwachsen. „Mein Sohn war nur ein friedlicher Aktivist, er hat niemandem etwas getan,“ klagt eine Mutter und betont, dass es sich hier nicht um einen Terrorakt handelt. Inmitten der Trauer und des Schmerzes sind die Protestierenden fest entschlossen, für ihre legitimen Rechte zu kämpfen, während sie den drohenden Nahrungsmangel in ihrer Stadt, der durch blockierte Straßen und ein stillgelegtes Internet verstärkt wird, ertragen müssen. Diese schockierenden Ereignisse sind nicht nur Tragödien auf individueller Ebene, sondern stellen auch die grundlegenden Werte der Menschlichkeit auf eine harte Probe.",
+        "vocabulary": [
+          {
+            "word": "improvisiert",
+            "definition": "Schnell und ohne Vorbereitung gemacht."
+          },
+          {
+            "word": "brutal",
+            "definition": "Sehr gewalttätig und grausam."
+          },
+          {
+            "word": "zivile",
+            "definition": "Die Zivilbevölkerung betreffend."
+          },
+          {
+            "word": "spezialisierten",
+            "definition": "Auf ein bestimmtes Fachgebiet fokussiert."
+          },
+          {
+            "word": "Besorgnis",
+            "definition": "Sorge oder Angst um etwas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum meiden viele Demonstranten die Klinik?",
+            "options": [
+              "Weil sie sie nicht kennen",
+              "Weil sie Angst vor Verhaftungen haben",
+              "Weil sie nicht krank sind"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was erfährt die Mutter über ihren Sohn?",
+            "options": [
+              "Er ist im Ausland",
+              "Er ist verletzt",
+              "Er ist verstorben"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Haben die Behörden den Vertrag mit der JAAC eingehalten?",
+            "options": [
+              "Ja, vollständig",
+              "Nein, er bleibt unerfüllt",
+              "Nur teilweise"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Des manifestants en colère à Rawalakot",
+        "text": "Dr Anwar a une clinique à Rawalakot. Il traite des blessés. Shafqat Hussain est sur un lit. Il est blessé à la poitrine. Le lit est sous une bâche rouge. Beaucoup de gens sont tués à cause des manifestations. Les manifestants veulent des droits. Ils veulent de la farine et de l'électricité. Les jeunes sont blessés ou tués. Le gouvernement dit que c'est faux. Dr Anwar a soigné cinquante blessés. Certains ont peur d'aller à l'hôpital. L'hôpital est loin. Les routes sont bloquées. Les manifestants sont très tristes. Ils veulent juste des choses simples.",
+        "vocabulary": [
+          {
+            "word": "clinique",
+            "definition": "un endroit pour soigner des malades"
+          },
+          {
+            "word": "blessés",
+            "definition": "personnes qui ont des blessures"
+          },
+          {
+            "word": "manifestation",
+            "definition": "un rassemblement pour exprimer une opinion"
+          },
+          {
+            "word": "droits",
+            "definition": "ce que les gens peuvent demander ou avoir"
+          },
+          {
+            "word": "hôpital",
+            "definition": "un endroit pour soigner les malades graves"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Où est la clinique de Dr Anwar ?",
+            "options": [
+              "À Rawalakot",
+              "À Muzaffarabad",
+              "À Islamabad"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui est blessé sur le lit ?",
+            "options": [
+              "Dr Anwar",
+              "Shafqat Hussain",
+              "Ali"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que demandent les manifestants ?",
+            "options": [
+              "De l’électricité",
+              "Des armes",
+              "Des voitures"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les manifestations à Rawalakot",
+        "text": "À Rawalakot, les manifestations sont très fortes. Dr Anwar a une clinique près des protestations. Il soigne beaucoup de personnes blessées. Shafqat Hussain est sur un lit avec une blessure. Il est très malade et a besoin d'aide. Cela fait deux mois que beaucoup de gens sont morts. Les manifestants demandent des droits comme de l'électricité et de la farine. Ils n'ont rien fait de mal. Ali, un ami de Shafqat, pleure et demande de l'aide. Le gouvernement dit que les manifestants sont violents, mais les gens croient que c'est faux. Les routes sont bloquées et l'hôpital est loin. Les blessés ont peur d'aller là-bas. Dr Anwar dit qu'il faut des hôpitaux meilleurs pour soigner les très blessés.",
+        "vocabulary": [
+          {
+            "word": "protestations",
+            "definition": "manifestations pour exprimer un désaccord"
+          },
+          {
+            "word": "aide",
+            "definition": "ce qui sert à soutenir quelqu'un"
+          },
+          {
+            "word": "gouvernement",
+            "definition": "la personne ou groupe qui dirige un pays"
+          },
+          {
+            "word": "bloquées",
+            "definition": "fermé; pas accessible"
+          },
+          {
+            "word": "meilleurs",
+            "definition": "plus hauts en qualité"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Que demande Ali ?",
+            "options": [
+              "De la farine",
+              "Des armes",
+              "De la musique"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi les blessés ont-ils peur d'aller à l'hôpital ?",
+            "options": [
+              "Il y a trop de personnes",
+              "Ils ont peur d'être arrêtés",
+              "L’hôpital est fermé"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui soigne les blessés dans la clinique ?",
+            "options": [
+              "Dr Anwar",
+              "Ali",
+              "Shafqat"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les manifestations à Rawalakot et leurs conséquences",
+        "text": "À Rawalakot, la tension monte à cause des manifestations qui ont commencé récemment. Plusieurs personnes sont blessées, dont Shafqat Hussain, qui est gravement blessé à la poitrine. Dr Anwar, qui gère une clinique de fortune, a soigné environ cinquante patients blessés depuis deux mois. Sa clinique, située près du principal site de protestation, est un petit espace où il y a un lit sous une bâche rouge. Les manifestants, principalement des jeunes, réclament leurs droits, comme de la farine et de l'électricité. Cependant, la plupart d'entre eux ont peur d'aller à l'hôpital parce qu'ils craignent d'être arrêtés par les forces de sécurité. Dr Anwar a déclaré qu'il a des fournitures pour les premiers secours, mais il a également besoin d'hôpitaux pour traiter les blessures graves. Si les hôpitaux recevaient de nombreux patients en même temps, ils seraient débordés. Les autorités affirment que les protestations sont violentes et soutiennent qu'elles n'ont pas tiré sur des manifestants pacifiques. Les familles de victimes, comme Asma, pleurent leurs proches, tués durant les manifestations. Les routes sont bloquées, et la coupure d'Internet rend la situation encore plus complexe pour obtenir des informations. Cela contribue à une atmosphère de peur et de frustration. Les jeunes disent qu'ils ne cherchent que la justice et la dignité, mais les affrontements se poursuivent et la colère grandit. Les conflits entre les manifestants et les forces de sécurité ne semblent pas près de se calmer, et le besoin de dialogue reste urgent. Cette situation pourrait avoir des conséquences graves pour l'avenir de la région, notamment si les problèmes sous-jacents ne sont pas résolus rapidement.",
+        "vocabulary": [
+          {
+            "word": "urgence",
+            "definition": "situation nécessitant une action immédiate."
+          },
+          {
+            "word": "dignité",
+            "definition": "qualité d'être respectable, de mériter le respect."
+          },
+          {
+            "word": "débordé",
+            "definition": "être submergé, ne pas pouvoir gérer une situation."
+          },
+          {
+            "word": "protestations",
+            "definition": "manifestations ou expressions de désaccord."
+          },
+          {
+            "word": "conflits",
+            "definition": "désaccords, souvent violents, entre deux parties."
+          },
+          {
+            "word": "affrontements",
+            "definition": "tensions ou combats entre groupes opposés."
+          },
+          {
+            "word": "frustration",
+            "definition": "sentiment de ne pas réussir à obtenir ce qu'on veut."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le rôle de Dr Anwar dans la situation actuelle ?",
+            "options": [
+              "Il est le chef de la police.",
+              "Il gère une clinique.",
+              "Il est un manifestant."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les manifestants ont-ils peur d'aller à l'hôpital ?",
+            "options": [
+              "Ils ont peur d'être arrêtés.",
+              "Ils ne veulent pas être soignés.",
+              "Ils n'ont pas de blessures."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels sont les principaux droits réclamés par les manifestants ?",
+            "options": [
+              "Des droits sur les terres.",
+              "De la farine et de l'électricité.",
+              "Plus de liberté d'expression."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Mon fils unique a été abattu en défendant la justice",
+        "text": "Le Dr Anwar a ouvert une clinique de fortune près du principal site de manifestations à Rawalakot, une ville administrée par le Pakistan dans la région du Cachemire. Dans une chambre, il reçoit Shafqat Hussain, touché par une balle. Le lit sur lequel il repose est déjà tâché de sang. Au cours des deux derniers mois, des dizaines de personnes ont été tuées lors de soulèvements entre les forces de sécurité et les manifestants du Joint Awami Action Committee (JAAC). Cette région, peuplée d'environ 4,5 millions d'habitants, est en pleine période électorale. La BBC est la première organisation médiatique à accéder à Rawalakot et à interviewer les personnes au cœur des manifestations. Le Dr Anwar, qui a changé son nom pour protéger les témoins, explique : « Nous disposons de fournitures suffisantes pour prodiguer les premiers soins. Cependant, les patients avec des blessures graves nécessitent des hôpitaux plus avancés. » Les manifestants craignent d'aller à l'hôpital principal car ils risquent d'être arrêtés ou abattus. Les autorités ont déjà qualifié cette accusation de fausse. La plupart des victimes sont de jeunes adultes, et des familles pleurent leurs proches. Les membres du JAAC affirment que leurs manifestations portent sur des préoccupations telles que les prix de l'électricité et les droits fondamentaux. Un accord signé en octobre dernier n'a pas été appliqué selon le JAAC, ce que le gouvernement local conteste. La répression continue de croître dans cette région déjà en crise.",
+        "vocabulary": [
+          {
+            "word": "manifestation",
+            "definition": "un rassemblement de personnes pour exprimer une opinion"
+          },
+          {
+            "word": "blessure",
+            "definition": "dommage fait au corps"
+          },
+          {
+            "word": "électoral",
+            "definition": "relatif aux élections"
+          },
+          {
+            "word": "fourniture",
+            "definition": "chose donnée pour un service"
+          },
+          {
+            "word": "accusé",
+            "definition": "quelqu'un qu'on dit coupable de quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle est la profession de Dr Anwar?",
+            "options": [
+              "Médecin",
+              "Enseignant",
+              "Ingénieur"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi les manifestants évitent-ils l'hôpital principal?",
+            "options": [
+              "Ils ont peur d'être arrêtés",
+              "Il est trop loin",
+              "Il n'y a pas de médecins"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel groupe est impliqué dans les manifestations?",
+            "options": [
+              "Joint Awami Action Committee (JAAC)",
+              "Parti politique",
+              "Organisation de secours"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Un fils tombé en défense de la justice : les tensions à Rawalakot",
+        "text": "Dr Anwar a établi une clinique temporaire à proximité du principal site de manifestations à Rawalakot, une ville située dans le Cachemire administré par le Pakistan. Dans cet espace exigu, il prend soin de Shafqat Hussain, abattu à bout portant. Les draps, déjà imprégnés de sang, témoignent de l'angoisse de la situation. Depuis deux mois, la violence a fait des dizaines de victimes lors d'affrontements entre les forces armées et les militants du Joint Awami Action Committee (JAAC), qui revendiquent leurs droits au sein d'une population de 4,5 millions d'habitants. La BBC a été la première à s'installer à Rawalakot pour rendre compte de cette crise. Le docteur, dont le nom a été modifié par souci de sécurité, affirme : « Bien que nous possédions un stock suffisant pour des soins d'urgence, les cas graves exigent une infrastructure hospitalière adaptée. » La peur d'une arrestation dissuade beaucoup de manifestants d'accéder à l'hôpital central. Les autorités rejettent cette perception, insistant sur le fait que cela relève d'une désinformation. Par ailleurs, les jeunes entre 15 et 35 ans composent la majorité des victimes. Leurs préoccupations – incluant la hausse des prix de l'électricité et des conditions de vie – sont au cœur de ces manifestations, alimentées par des promesses gouvernementales non tenues.",
+        "vocabulary": [
+          {
+            "word": "témoigner",
+            "definition": "donner son avis sur ce qu'on a vu"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "ensemble des installations nécessaires"
+          },
+          {
+            "word": "revendication",
+            "definition": "demande de reconnaissance ou de droits"
+          },
+          {
+            "word": "désinformation",
+            "definition": "propagation d'informations fausses"
+          },
+          {
+            "word": "urgence",
+            "definition": "situation nécessitant une intervention immédiate"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qu'est-ce que Dr Anwar dit sur l'infrastructure nécessaire?",
+            "options": [
+              "Elle est suffisante pour tous les patients",
+              "Elle doit être adaptée pour les cas graves",
+              "Il n'y a pas de problèmes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est le groupe qui fait entendre ses revendications?",
+            "options": [
+              "Joint Awami Action Committee (JAAC)",
+              "Gouvernement local",
+              "Forces de sécurité"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels types de blessures sont traités à la clinique?",
+            "options": [
+              "Blessures mineures",
+              "Cas de coronavirus",
+              "Blessures par balle"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Rawalakot : le prix tragique des aspirations justes",
+        "text": "Dans la ville de Rawalakot, marquée par des manifestations impétueuses, le Dr Anwar a installé une clinique improvisée, à quelques pas du tumulte. Là, il s'emploie à sauver Shafqat Hussain, dont le corps criblé de balles s'étend sur un lit souillé. Au fond de cette tragédie, un constat amer : ces derniers mois, des confrontations entre les agents de sécurité et les membres du Joint Awami Action Committee (JAAC) ont causé des centaines de blessés et des dizaines de morts. L’atmosphère polarisée est d'autant plus préoccupante qu'elle se déroule dans un contexte électoral, aggravant l'angoisse de cette région peuplée de 4,5 millions d'habitants, en quête de justice. Cette situation précaire n’est pas étrangère aux efforts cloisonnés de la BBC, qui a été la première à rapporter des témoignages de familles endeuillées. Les victimes sont souvent de jeunes adultes : témoignent-ils de l'intransigeance des autorités et de l'absence de déclencheur réel de violence de la part des manifestants. Évoquant les promesses non tenues, le Dr Anwar met en lumière le manque d'équipements hospitaliers, soulignant : « Nous sommes capables d'administrer des premiers soins, mais les cas graves fuient nos structures. » Au milieu des cris de désespoir, certains parents, tels qu'Ayub, ancien militaire, blâment les autorités de la région pour avoir convoqué des forces paramilitaires, insistant sur l'injustifiable nature de cette extrême répression. Face à l'impuissance de certaines institutions, les aspirations de ce peuple semblent contournées par la réalité d’une loi des plus brutales.",
+        "vocabulary": [
+          {
+            "word": "improvisé",
+            "definition": "fait sans préparation préalable, sur le moment"
+          },
+          {
+            "word": "angoisse",
+            "definition": "inquiétude profonde et prolongée"
+          },
+          {
+            "word": "témoignage",
+            "definition": "récit de ce qu'on a observé"
+          },
+          {
+            "word": "intransigeance",
+            "definition": "absence de compromis, rigidité"
+          },
+          {
+            "word": "contourné",
+            "definition": "éviter ou échapper à quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle était la cause principale des manifestations à Rawalakot?",
+            "options": [
+              "Une injustice persistante",
+              "Une pénurie alimentaire",
+              "Un événement sportif"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Selon Dr Anwar, quelles sont les capacités de sa clinique?",
+            "options": [
+              "Elle est en mesure de traiter tous les cas",
+              "Elle ne peut traiter que des blessures légères",
+              "Elle ne peut pas gérer les cas graves"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Comment les autorités ont-elles réagi face aux manifestations?",
+            "options": [
+              "Avec compréhension",
+              "Avec répression et violence",
+              "Avec des promesses de dialogue"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Protestas en Pakistán",
+        "text": "En Pakistán hay protestas. La gente quiere justicia. A veces, las protestas son peligrosas. Dr. Anwar trabaja en una clínica. Muchos heridos llegan allí. Uno se llama Shafqat. Shafqat tiene una herida. Él necesita ayuda. Sus amigos lloran. Ellos tienen miedo. Ellos piden comida y derechos. Las autoridades dicen que no es verdad. Algunas personas son jóvenes. Ellos solo quieren paz. El doctor tiene suficiente medicina. Él ayuda a muchos. Pero algunos necesitan más. Es un momento difícil.",
+        "vocabulary": [
+          {
+            "word": "justicia",
+            "definition": "lo que es correcto"
+          },
+          {
+            "word": "clínica",
+            "definition": "lugar para recibir cuidados médicos"
+          },
+          {
+            "word": "herido",
+            "definition": "persona que tiene una lesión"
+          },
+          {
+            "word": "amigos",
+            "definition": "personas con las que se juega o se habla"
+          },
+          {
+            "word": "derechos",
+            "definition": "lo que todos deben tener"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué quiere la gente?",
+            "options": [
+              "Justicia",
+              "Más dinero",
+              "Más tiendas"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde trabaja Dr. Anwar?",
+            "options": [
+              "En una clínica",
+              "En un hospital",
+              "En una tienda"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es Shafqat?",
+            "options": [
+              "Un amigo",
+              "Un herido",
+              "Un doctor"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Protestas en Pakistán-administered Cachemira",
+        "text": "En Pakistán-administered Cachemira hay protestas importantes. Muchas personas se quejan sobre precios altos. Ellos quieren justicia y sus derechos. Dr. Anwar tiene una clínica cerca de las protestas. Muchos heridos van a su clínica. Un herido se llama Shafqat. Él está muy mal. Sus amigos están preocupados. Ellos lloran por él. En los últimos meses, hay muchas muertes en las protestas. Los jóvenes son las principales víctimas. El doctor dice que necesita más ayuda. Los hospitales están llenos. Algunas personas no quieren ir al hospital. Tienen miedo de ser arrestadas. El gobierno dice que eso no es cierto. Ellos afirman que los manifestantes tienen armas y crean problemas. La gente sólo pide comida y electricidad. Es una situación difícil para todos.",
+        "vocabulary": [
+          {
+            "word": "quejas",
+            "definition": "lo que la gente no está feliz"
+          },
+          {
+            "word": "poder",
+            "definition": "tener la capacidad de hacer algo"
+          },
+          {
+            "word": "hospitales",
+            "definition": "lugares con cuidados médicos"
+          },
+          {
+            "word": "situación",
+            "definition": "condiciones de un momento"
+          },
+          {
+            "word": "protestas",
+            "definition": "acciones de personas en contra de algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué quiere la gente en las protestas?",
+            "options": [
+              "Precios bajos",
+              "Más dinero",
+              "Más comida"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es Shafqat?",
+            "options": [
+              "Un doctor",
+              "Un herido",
+              "Un amigo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Por qué la gente no va al hospital?",
+            "options": [
+              "Tienen miedo",
+              "No hay médicos",
+              "Está lejos"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "La situación de las protestas en Pakistán-administered Cachemira",
+        "text": "La ciudad de Rawalakot en Pakistán-administered Cachemira enfrenta una grave situación que ha alarmado a la comunidad. Las protestas han resultado en muchas muertes, especialmente entre los jóvenes. Durante las últimas semanas, algunas familias han perdido a sus seres queridos, lo que ha dejado un vacío inmenso en la sociedad. El Dr. Anwar, un médico dedicado que trabaja en una clínica improvisada, recibe diariamente a muchos heridos en los disturbios. Uno de ellos es Shafqat, quien ha sido herido de bala en el pecho. El doctor menciona que los recursos son limitados. Aunque pueden atender heridas menores, los casos graves necesitan hospitales más avanzados, los cuales están lejanos y a menudo desbordados. Las autoridades afirman que los manifestantes están armados, pero los miembros de la comunidad dicen que solo piden derechos básicos como electricidad y educación. Si la situación no mejora pronto, podría haber más enfrentamientos. La tensión se ha incrementado debido a la falta de información precisa. A pesar de la tragedia, algunos familiares sienten orgullo por aquellos que luchan por sus derechos, diciendo que es un honor luchar por la justicia y los derechos humanos. La situación, que ya era complicada, se ha vuelto aún más crítica",
+        "vocabulary": [
+          {
+            "word": "improvisada",
+            "definition": "realizada de manera temporal, sin preparación previa"
+          },
+          {
+            "word": "desbordados",
+            "definition": "superados en número o capacidad, incapaces de manejar la situación"
+          },
+          {
+            "word": "enfrentamientos",
+            "definition": "conflictos o peleas entre dos o más grupos"
+          },
+          {
+            "word": "vacío",
+            "definition": "la sensación de pérdida que deja la ausencia de alguien querido"
+          },
+          {
+            "word": "derechos humanos",
+            "definition": "los derechos esenciales que tienen todas las personas, como la libertad y la igualdad"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién trabaja en la clínica improvisada?",
+            "options": [
+              "El Dr. Anwar",
+              "Shafqat",
+              "Ali"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué pide la comunidad durante las protestas?",
+            "options": [
+              "Derechos básicos",
+              "Más armas",
+              "Más comida"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué han dicho las autoridades sobre los manifestantes?",
+            "options": [
+              "Están desarmados",
+              "Están armados",
+              "Solo piden ayuda"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Protestas mortales en Cachemira administrativa de Pakistán",
+        "text": "La clínica improvisada del Dr. Anwar se encuentra cerca del principal lugar de protestas en Rawalakot, una ciudad de Cachemira administrada por Pakistán. En una habitación que usa como despensa médica, hay una cama cubierta por una lona roja. En esa cama yace Shafqat Hussain, quien ha sido disparado en el pecho y está muy herido. La sábana sobre la que se encuentra ya está manchada con sangre de otros lesionados. En los últimos dos meses, han muerto decenas de personas en la región debido a enfrentamientos entre las fuerzas de seguridad y los manifestantes del Comité de Acción Popular Conjunto (JAAC). En medio de estos disturbios, Dr. Anwar señala que \"tenemos suficientes suministros para proporcionar primeros auxilios, pero si un paciente llega con heridas graves, necesitamos hospitales avanzados\". La preocupación de los manifestantes por acudir a hospitales principales radica en el miedo a ser arrestados. Ali, un amigo de Hussain, expresa su dolor diciendo: \"Solo pedíamos harina asequible y nuestros derechos básicos, pero ahora nuestros hermanos están siendo asesinados\". A pesar de un acuerdo firmado en octubre entre las autoridades y el JAAC, la implementación sigue siendo un problema, lo que ha intensificado la frustración y el descontento social.",
+        "vocabulary": [
+          {
+            "word": "protestas",
+            "definition": "reuniones de personas para expresar su descontento."
+          },
+          {
+            "word": "hospital",
+            "definition": "lugar donde se cuida a las personas enfermas o heridas."
+          },
+          {
+            "word": "heridas",
+            "definition": "lesiones que ha sufrido alguien."
+          },
+          {
+            "word": "suministros",
+            "definition": "cosas necesarias para ayudar o cuidar a otros."
+          },
+          {
+            "word": "derechos",
+            "definition": "lo que cada persona merece según la ley."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde se encuentra la clínica del Dr. Anwar?",
+            "options": [
+              "En Rawalakot",
+              "En Islamabad",
+              "En Lahore"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué le pasó a Shafqat Hussain?",
+            "options": [
+              "Fue arrestado",
+              "Fue disparado",
+              "Se perdió"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué pedían los manifestantes?",
+            "options": [
+              "Pan y casa",
+              "Harina y derechos básicos",
+              "Una nueva ciudad"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Tensión y pérdida en las protestas de Cachemira administrada por Pakistán",
+        "text": "En Rawalakot, una ciudad en Cachemira que es administrada por Pakistán, el Dr. Anwar ha instalado una clínica informal ubicada a pocos pasos del sitio principal de protestas. La agitación social ha llevado a una crisis humanitaria en la que se han registrado decenas de muertes, principalmente entre jóvenes, y los heridos continúan llegando en masa. Mientras tanto, Ali, un amigo de la víctima Shafqat Hussain, comparte su dolor: \"Solo exigíamos harina asequible y nuestros derechos, pero enfrentamos violencia y pérdidas fatales\". Según Anwar, es crucial que los pacientes con heridas severas sean atendidos en hospitales adecuados, ya que su clínica carece de recursos para casos extremos. Un acuerdo firmado en octubre para abordar estas preocupaciones quedó sin implementar, lo que ha conducido a más protestas y demandas sobre precios de electricidad y acceso a salud y educación. Las autoridades han rechazado las acusaciones de uso excesivo de fuerza, alegando que los protestantes son terroristas armados. Esta situación se ve agravada por la falta de acceso a información debido a cortes de internet y bloqueos de carreteras, lo que dificulta la comunicación y el monitoreo de la emergencia.",
+        "vocabulary": [
+          {
+            "word": "crisis",
+            "definition": "una situación muy difícil que afecta a muchas personas."
+          },
+          {
+            "word": "vulnerables",
+            "definition": "personas que están en riesgo y necesitan protección."
+          },
+          {
+            "word": "reclamaciones",
+            "definition": "demandas o solicitudes de algo que se considera justo."
+          },
+          {
+            "word": "enfrentar",
+            "definition": "hacer frente a un problema o situación difícil."
+          },
+          {
+            "word": "agitación",
+            "definition": "movimiento o actividad intensa relacionada con el descontento."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de crisis se enfrenta en Rawalakot?",
+            "options": [
+              "Crisis económica",
+              "Crisis humanitaria",
+              "Crisis política"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué fue lo que pidió Ali?",
+            "options": [
+              "Más medicinas",
+              "Derechos básicos y harina",
+              "Dinero para todos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Por qué los manifestantes no van a los hospitales principales?",
+            "options": [
+              "Porque están lejos",
+              "Tienen miedo de ser arrestados",
+              "No necesitan atención"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Protestas y tragedias: la feroz lucha por derechos en Rawalakot, Cachemira administrada por Pakistán",
+        "text": "En Rawalakot, una ciudad ubicada en la región de Cachemira administrada por Pakistán, el Dr. Anwar ha establecido una clínica improvisada que refleja la desesperación de una población atrapada entre demandas legítimas y la represión violenta por parte de las fuerzas de seguridad. Entre los pacientes, Shafqat Hussain yace gravemente herido, la mancha de sangre en la sábana indica no solo el dolor físico, sino también el sufrimiento de una comunidad inundada por muertes durante las últimas semanas de protestas. La solicitud de Ali, un amigo de Hussain, resuena con una claridad desgarradora: \"Pedimos por harina y dignidad, pero nuestro grito solo ha encontrado balas en respuesta.\" La situación se complica aún más por la inacción del gobierno en relación con un acuerdo firmado con el Comité de Acción Popular Conjunto (JAAC) el año pasado. A pesar de las afirmaciones de las autoridades sobre la legitimidad de sus acciones, muchas familias han perdido a seres queridos, y sus historias, como las de Asma, quien perdió a su solo hijo, enfatizan la desesperanza de una población que se siente acorralada. La falta de información, amplificada por cortes de internet y bloqueos, ha dificultado la documentación de estos abusos, poniendo en evidencia la absurda premura con la que se manejan los derechos humanos en la región. Mientras las autoridades continúan negando las acusaciones de violencia indiscriminada, los manifestantes insisten en que son ellos las verdaderas víctimas de un sistema injusto que busca silenciar sus voces.",
+        "vocabulary": [
+          {
+            "word": "desesperación",
+            "definition": "falta total de esperanza y tranquilidad."
+          },
+          {
+            "word": "sufrimiento",
+            "definition": "dolor físico o emocional intenso."
+          },
+          {
+            "word": "represión",
+            "definition": "control violento de las protestas o manifestaciones."
+          },
+          {
+            "word": "abuso",
+            "definition": "mal uso o trato injusto hacia alguien."
+          },
+          {
+            "word": "silenciar",
+            "definition": "hacer que alguien no pueda hablar o expresarse."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cómo describe el Dr. Anwar la situación de su clínica?",
+            "options": [
+              "Es adecuada",
+              "Es desesperanzadora",
+              "Es eficiente"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha generado la falta de información en Rawalakot?",
+            "options": [
+              "Un aumento de protestas",
+              "Dificultades para documentar abusos",
+              "Una solución rápida"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es la respuesta oficial a las acusaciones de violencia?",
+            "options": [
+              "Se aceptan las acusaciones",
+              "Se niegan de manera contundente",
+              "Se ignoran por completo"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "proteste": "protests",
+      "in": "in",
+      "pakistan": "Pakistan",
+      "rawalakot": "rawalakot",
+      "gibt": "gives",
+      "es": "it",
+      "viele": "many",
+      "menschen": "people",
+      "sind": "are",
+      "verletzt": "injured",
+      "shafqat": "shafqat",
+      "hussain": "hussain",
+      "liegt": "lies",
+      "einem": "a",
+      "bett": "bed",
+      "er": "he",
+      "hat": "has",
+      "eine": "a",
+      "schusswunde": "gunshot wound",
+      "einen": "a",
+      "arzt": "doctor",
+      "namens": "named",
+      "anwar": "anwar",
+      "kleine": "small",
+      "klinik": "clinic",
+      "die": "the",
+      "verletzte": "injured",
+      "protestieren": "to protest",
+      "für": "for",
+      "ihre": "their",
+      "rechte": "rights",
+      "sie": "they",
+      "wollen": "to want",
+      "billigere": "cheaper",
+      "dinge": "things",
+      "polizei": "police",
+      "ist": "is",
+      "da": "there",
+      "haben": "to have",
+      "angst": "fear",
+      "nicht": "not",
+      "ins": "into",
+      "krankenhaus": "hospital",
+      "gehen": "to go",
+      "könnte": "could",
+      "festnehmen": "to arrest",
+      "oder": "or",
+      "verletzen": "to injure",
+      "situation": "situation",
+      "gefährlich": "dangerous",
+      "traurig": "sad",
+      "und": "and",
+      "wütend": "angry",
+      "kämpfen": "to fight",
+      "im": "in the",
+      "brustbereich": "chest area",
+      "der": "the",
+      "arbeitet": "works",
+      "einer": "one",
+      "kleinen": "small",
+      "diese": "this",
+      "behandelt": "treated",
+      "sagt": "says",
+      "dass": "that",
+      "genug": "enough",
+      "material": "material",
+      "erste": "first",
+      "hilfe": "help",
+      "zu": "to",
+      "denken": "to think",
+      "letzten": "last",
+      "zeit": "time",
+      "junge": "boy",
+      "getötet": "killed",
+      "worden": "been",
+      "protestierenden": "protesters",
+      "lebensmittel": "food",
+      "strom": "power",
+      "gewalttätig": "violent",
+      "aber": "but",
+      "sagen": "say",
+      "friedlich": "peaceful",
+      "sehr": "very",
+      "schwer": "heavy",
+      "leute": "people",
+      "bleiben": "to stay",
+      "hungrig": "hungry",
+      "brauchen": "to need",
+      "forderungen": "demands",
+      "stadt": "city",
+      "fordern": "demand",
+      "den": "the",
+      "zwei": "two",
+      "monaten": "months",
+      "darunter": "including",
+      "schwere": "serious",
+      "sein": "his",
+      "zustand": "condition",
+      "kritisch": "critical",
+      "wird": "will",
+      "provisorischen": "provisional",
+      "von": "from",
+      "dr": "dr",
+      "geleitet": "led",
+      "benötigten": "needed",
+      "materialien": "materials",
+      "doch": "but",
+      "hauptkrankenhaus": "main hospital",
+      "weil": "because",
+      "dort": "there",
+      "sogar": "even",
+      "schießen": "to shoot",
+      "wenn": "if",
+      "dorthin": "there",
+      "laut": "according to",
+      "meisten": "most",
+      "verletzten": "injured",
+      "personen": "people",
+      "jung": "young",
+      "zwischen": "between",
+      "jahren": "years",
+      "alt": "old",
+      "zahlen": "to pay",
+      "alarmierend": "alarming",
+      "besonders": "especially",
+      "region": "region",
+      "zusammenstößen": "clashes",
+      "sicherheitskräften": "security forces",
+      "wurden": "were",
+      "grundlegende": "fundamental",
+      "menschenrechte": "human rights",
+      "mehrmals": "multiple times",
+      "gesagt": "said",
+      "sich": "oneself",
+      "verhalten": "behavior",
+      "dennoch": "nevertheless",
+      "regierung": "government",
+      "demonstrationen": "demonstrations",
+      "als": "than",
+      "bedrohung": "threat",
+      "öffentliche": "public",
+      "sicherheit": "security",
+      "betrachtet": "considered",
+      "lokale": "local",
+      "druck": "emphasis",
+      "auf": "to",
+      "pflegerischen": "nursing",
+      "einrichtungen": "facilities",
+      "wächst": "grows",
+      "verletzungen": "injuries",
+      "erlitten": "suffered",
+      "spezielle": "special",
+      "behandlung": "treatment",
+      "erfordern": "require",
+      "anhält": "continues",
+      "könnten": "could",
+      "noch": "still",
+      "weitere": "further",
+      "werden": "will",
+      "wichtig": "important",
+      "lage": "situation",
+      "stimme": "voice",
+      "erheben": "to raise",
+      "ohne": "without",
+      "gefahr": "danger",
+      "geraten": "to get",
+      "ein": "a",
+      "schrei": "scream",
+      "nach": "after",
+      "schwierigen": "difficult",
+      "verwüsten": "devastate",
+      "dem": "the",
+      "verwalteten": "managed",
+      "kaschmir": "cashmere",
+      "notfallklinik": "emergency clinic",
+      "eingerichtet": "established",
+      "unweit": "nearby",
+      "des": "of the",
+      "hauptprotestgebiets": "main protest area",
+      "befindet": "is located",
+      "zweckentfremdeter": "misappropriated",
+      "raum": "space",
+      "dient": "serves",
+      "lager": "camp",
+      "medizinische": "medical",
+      "vorräte": "supplies",
+      "während": "during",
+      "freien": "free",
+      "unter": "under",
+      "rotspannten": "red",
+      "zelt": "tent",
+      "aufgestellt": "set up",
+      "diesem": "this",
+      "brust": "chest",
+      "geschossen": "shot",
+      "wurde": "was",
+      "das": "that",
+      "laken": "sheet",
+      "bereits": "already",
+      "mit": "with",
+      "blut": "blood",
+      "vorher": "before",
+      "verletzter": "injured",
+      "patienten": "patients",
+      "befleckt": "stained",
+      "stirbt": "dies",
+      "dutzende": "dozens",
+      "bei": "at",
+      "demonstranten": "demonstrators",
+      "joint": "joint",
+      "awami": "awami",
+      "action": "action",
+      "committee": "committee",
+      "jaac": "jaac",
+      "dieser": "this",
+      "leben": "life",
+      "etwa": "about",
+      "millionen": "millions",
+      "derzeit": "currently",
+      "finden": "to find",
+      "wahlen": "elections",
+      "statt": "instead",
+      "bbc": "bbc",
+      "medium": "medium",
+      "zugang": "access",
+      "erhält": "receives",
+      "sprechen": "to speak",
+      "konnte": "could",
+      "berichtet": "reports",
+      "wochen": "weeks",
+      "bis": "up to",
+      "fügt": "adds",
+      "hinzu": "to it",
+      "wir": "we",
+      "erstversorgung": "first aid",
+      "schwerwiegenden": "serious",
+      "fortgeschrittene": "advanced",
+      "krankenhäuser": "hospitals",
+      "nötig": "necessary",
+      "meiden": "to avoid",
+      "verhaftet": "arrested",
+      "trotz": "despite",
+      "aussagen": "statements",
+      "behörden": "authorities",
+      "sehen": "to see",
+      "bevölkerung": "population",
+      "zutreffend": "relevant",
+      "an": "at",
+      "steht": "stands",
+      "alis": "alis",
+      "freund": "friend",
+      "weint": "is crying",
+      "einfach": "simple",
+      "nur": "only",
+      "unsere": "our",
+      "grundrechte": "fundamental rights",
+      "tränen": "tears",
+      "angekündigt": "announced",
+      "um": "around",
+      "brennstoffpreise": "fuel prices",
+      "gesundheitsversorgung": "healthcare",
+      "drehen": "to turn",
+      "anfang": "beginning",
+      "oktober": "October",
+      "unterzeichneter": "signed",
+      "vertrag": "contract",
+      "pakistanischen": "Pakistani",
+      "pak-regierung": "pak-government",
+      "sollte": "should",
+      "abhilfe": "remedy",
+      "schaffen": "to create",
+      "jedoch": "however",
+      "umgesetzt": "implemented",
+      "argumentiert": "argued",
+      "gruppe": "group",
+      "sei": "is",
+      "bewaffnet": "armed",
+      "gefährde": "endanger",
+      "hintergrund": "background",
+      "tragische": "tragic",
+      "realität": "reality",
+      "temporäre": "temporary",
+      "nähe": "proximity",
+      "hauptprotestortes": "main protest site",
+      "hier": "here",
+      "zimmer": "room",
+      "lagerraum": "storage",
+      "genutzt": "used",
+      "voraus": "ahead",
+      "durch": "through",
+      "schüsse": "shots",
+      "lebensgefährlich": "life-threatening",
+      "juli": "July",
+      "kam": "came",
+      "vermehrt": "increased",
+      "gewalttätigen": "violent",
+      "konflikten": "conflicts",
+      "sicherheitspersonal": "security personnel",
+      "verloren": "lost",
+      "ihr": "your",
+      "aktuell": "current",
+      "stehen": "to stand",
+      "einwohnern": "residents",
+      "bevor": "before",
+      "was": "what",
+      "zusätzlich": "additional",
+      "aufheizt": "heats up",
+      "war": "was",
+      "ausländische": "foreign",
+      "erhielt": "received",
+      "vor": "before",
+      "ort": "place",
+      "erwähnt": "mentioned",
+      "seine": "his",
+      "warnt": "warns",
+      "grundversorgung": "basic supply",
+      "ernsthaft": "seriously",
+      "benötigen": "to need",
+      "größere": "larger",
+      "aus": "from",
+      "verhaftungen": "arrests",
+      "offiziellen": "official",
+      "verlautbarungen": "statements",
+      "betrachten": "to consider",
+      "bürger": "citizens",
+      "sicherheitsmaßnahmen": "security measures",
+      "problematisch": "problematic",
+      "ali": "Ali",
+      "äußert": "expresses",
+      "lediglich": "merely",
+      "faire": "fair",
+      "preise": "prices",
+      "mehl": "flour",
+      "verbesserung": "improvement",
+      "ihrer": "their",
+      "lebensbedingungen": "living conditions",
+      "demonstriert": "demonstrated",
+      "helfen": "to help",
+      "vereinbarungen": "agreements",
+      "bislang": "so far",
+      "eingehalten": "observed",
+      "spannungen": "tensions",
+      "erhöht": "increased",
+      "kritischen": "critical",
+      "punkt": "point",
+      "protests": "protests",
+      "fatalen": "fatal",
+      "konsequenzen": "consequences",
+      "politische": "political",
+      "angespannt": "tense",
+      "wie": "like",
+      "nie": "never",
+      "zuvor": "previously",
+      "trifft": "meets",
+      "improvisierte": "improvised",
+      "unmittelbaren": "immediate",
+      "auswirkungen": "effects",
+      "protestwelle": "wave of protests",
+      "infolge": "due to",
+      "brutaler": "brutal",
+      "zusammenstöße": "confrontations",
+      "zahlreiche": "numerous",
+      "zivile": "civil",
+      "opfer": "victim",
+      "gefordert": "demanded",
+      "blutend": "bleeding",
+      "enormem": "enormous",
+      "bedürfnisorientierte": "needs-based",
+      "leisten": "to afford",
+      "können": "can",
+      "so": "so",
+      "hinzufügt": "adds",
+      "ernsthaften": "serious",
+      "spezialisierte": "specialized",
+      "fürchten": "to fear",
+      "aufzusuchen": "to visit",
+      "befürchten": "to fear",
+      "festgenommen": "arrested",
+      "gar": "at all",
+      "erschossen": "shot",
+      "zugleich": "at the same time",
+      "sicht": "view",
+      "bewaffnete": "armed",
+      "eingestuft": "classified",
+      "verhandlungen": "negotiations",
+      "über": "about",
+      "bestehende": "existing",
+      "verträge": "contracts",
+      "erheblich": "significant",
+      "kompliziert": "complicated",
+      "geschlossener": "closed",
+      "soziale": "social",
+      "hilfeleistungen": "aid provisions",
+      "bleibt": "stays",
+      "unerfüllt": "unfulfilled",
+      "vorwürfe": "accusations",
+      "unkontrollierte": "uncontrolled",
+      "gewaltanwendung": "use of violence",
+      "sicherheitskräfte": "security forces",
+      "friedliche": "peaceful",
+      "treffen": "meeting",
+      "lassen": "to let",
+      "besorgnis": "concern",
+      "weiterwachsen": "to continue growing",
+      "mein": "my",
+      "sohn": "son",
+      "friedlicher": "peaceful",
+      "aktivist": "activist",
+      "niemandem": "nobody",
+      "etwas": "something",
+      "getan": "done",
+      "klagt": "sues",
+      "mutter": "mother",
+      "betont": "emphasized",
+      "terrorakt": "terror act",
+      "handelt": "acts",
+      "inmitten": "amid",
+      "trauer": "mourning",
+      "schmerzes": "pain",
+      "fest": "celebration",
+      "entschlossen": "determined",
+      "legitimen": "legitimate",
+      "drohenden": "threatening",
+      "nahrungsmangel": "food shortage",
+      "blockierte": "blocked",
+      "straßen": "streets",
+      "stillgelegtes": "decommissioned",
+      "internet": "internet",
+      "verstärkt": "intensified",
+      "ertragen": "to endure",
+      "müssen": "must",
+      "schockierenden": "shocking",
+      "ereignisse": "events",
+      "tragödien": "tragedies",
+      "individueller": "individual",
+      "ebene": "level",
+      "sondern": "but",
+      "stellen": "to provide",
+      "auch": "also",
+      "grundlegenden": "fundamental",
+      "werte": "values",
+      "menschlichkeit": "humanity",
+      "harte": "hard",
+      "probe": "sample"
+    },
+    "fr": {
+      "des": "some",
+      "manifestants": "protesters",
+      "en": "in",
+      "colère": "anger",
+      "rawalakot": "rawalakot",
+      "dr": "dr",
+      "anwar": "anwar",
+      "une": "a",
+      "clinique": "clinic",
+      "il": "he",
+      "traite": "treaty",
+      "blessés": "injured",
+      "shafqat": "shafqat",
+      "hussain": "hussain",
+      "est": "is",
+      "sur": "about",
+      "un": "a",
+      "lit": "bed",
+      "blessé": "injured",
+      "la": "the",
+      "poitrine": "chest",
+      "le": "the",
+      "sous": "under",
+      "bâche": "tarpaulin",
+      "rouge": "red",
+      "beaucoup": "a lot",
+      "de": "of",
+      "gens": "people",
+      "sont": "are",
+      "tués": "killed",
+      "cause": "cause",
+      "manifestations": "demonstrations",
+      "les": "the",
+      "veulent": "want",
+      "droits": "rights",
+      "ils": "they",
+      "farine": "flour",
+      "et": "and",
+      "électricité": "electricity",
+      "jeunes": "young",
+      "ou": "or",
+      "gouvernement": "government",
+      "dit": "says",
+      "que": "that",
+      "faux": "false",
+      "soigné": "well-groomed",
+      "cinquante": "fifty",
+      "certains": "some",
+      "ont": "have",
+      "peur": "fear",
+      "aller": "to go",
+      "hôpital": "hospital",
+      "loin": "far",
+      "routes": "routes",
+      "bloquées": "blocked",
+      "très": "very",
+      "tristes": "sad",
+      "juste": "just",
+      "choses": "things",
+      "simples": "simple",
+      "fortes": "strong",
+      "près": "near",
+      "protestations": "protests",
+      "soigne": "to care",
+      "personnes": "people",
+      "blessées": "injured",
+      "avec": "with",
+      "blessure": "injury",
+      "malade": "sick",
+      "besoin": "need",
+      "aide": "help",
+      "cela": "that",
+      "fait": "makes",
+      "deux": "two",
+      "mois": "months",
+      "morts": "deaths",
+      "demandent": "ask",
+      "comme": "like",
+      "rien": "nothing",
+      "mal": "bad",
+      "ali": "Ali",
+      "ami": "friend",
+      "pleure": "weeps",
+      "demande": "request",
+      "violents": "violent",
+      "mais": "but",
+      "croient": "believe",
+      "là-bas": "over there",
+      "faut": "must",
+      "hôpitaux": "hospitals",
+      "meilleurs": "best",
+      "pour": "for",
+      "soigner": "to care",
+      "leurs": "their",
+      "conséquences": "consequences",
+      "tension": "tension",
+      "monte": "rises",
+      "qui": "who",
+      "commencé": "started",
+      "récemment": "recently",
+      "plusieurs": "several",
+      "dont": "whose",
+      "gravement": "seriously",
+      "gère": "manages",
+      "fortune": "fortune",
+      "environ": "about",
+      "patients": "patients",
+      "depuis": "since",
+      "sa": "its",
+      "située": "located",
+      "du": "of the",
+      "principal": "main",
+      "site": "site",
+      "protestation": "protest",
+      "petit": "small",
+      "espace": "space",
+      "où": "where",
+      "principalement": "mainly",
+      "réclament": "demand",
+      "cependant": "however",
+      "plupart": "most",
+      "entre": "between",
+      "eux": "them",
+      "parce": "because",
+      "craignent": "fear",
+      "être": "to be",
+      "arrêtés": "stopped",
+      "par": "by",
+      "forces": "forces",
+      "sécurité": "security",
+      "déclaré": "stated",
+      "fournitures": "supplies",
+      "premiers": "first",
+      "secours": "relief",
+      "également": "also",
+      "traiter": "to deal",
+      "blessures": "injuries",
+      "graves": "serious",
+      "si": "if",
+      "recevaient": "received",
+      "nombreux": "many",
+      "même": "even",
+      "temps": "weather",
+      "seraient": "would be",
+      "débordés": "overwhelmed",
+      "autorités": "authorities",
+      "affirment": "affirm",
+      "violentes": "violent",
+      "soutiennent": "support",
+      "elles": "they",
+      "pas": "not",
+      "tiré": "shot",
+      "pacifiques": "peaceful",
+      "familles": "families",
+      "victimes": "victims",
+      "asma": "asma",
+      "pleurent": "cry",
+      "proches": "close",
+      "durant": "during",
+      "coupure": "cut",
+      "internet": "Internet",
+      "rend": "makes",
+      "situation": "situation",
+      "encore": "again",
+      "plus": "more",
+      "complexe": "complex",
+      "obtenir": "to obtain",
+      "informations": "information",
+      "contribue": "contributes",
+      "atmosphère": "atmosphere",
+      "frustration": "frustration",
+      "disent": "say",
+      "ne": "not",
+      "cherchent": "search",
+      "justice": "justice",
+      "dignité": "dignity",
+      "affrontements": "clashes",
+      "se": "yourself",
+      "poursuivent": "pursue",
+      "grandit": "grows",
+      "conflits": "conflicts",
+      "semblent": "seem",
+      "calmer": "to calm",
+      "dialogue": "dialogue",
+      "reste": "rest",
+      "urgent": "urgent",
+      "cette": "this",
+      "pourrait": "could",
+      "avoir": "to have",
+      "avenir": "future",
+      "région": "region",
+      "notamment": "notably",
+      "problèmes": "problems",
+      "sous-jacents": "underlying",
+      "résolus": "resolved",
+      "rapidement": "quickly",
+      "mon": "my",
+      "fils": "son",
+      "unique": "unique",
+      "été": "been",
+      "abattu": "shot",
+      "défendant": "defending",
+      "ouvert": "open",
+      "ville": "city",
+      "administrée": "administered",
+      "pakistan": "Pakistan",
+      "dans": "in",
+      "cachemire": "cashmere",
+      "chambre": "room",
+      "reçoit": "receives",
+      "touché": "hit",
+      "balle": "ball",
+      "lequel": "which",
+      "repose": "rests",
+      "déjà": "already",
+      "tâché": "stained",
+      "sang": "blood",
+      "au": "at the",
+      "cours": "course",
+      "derniers": "last",
+      "dizaines": "dozens",
+      "tuées": "killed",
+      "lors": "when",
+      "soulèvements": "uprisings",
+      "joint": "joint",
+      "awami": "awami",
+      "action": "action",
+      "committee": "committee",
+      "jaac": "jaac",
+      "peuplée": "populated",
+      "millions": "millions",
+      "habitants": "inhabitants",
+      "pleine": "full",
+      "période": "period",
+      "électorale": "electoral",
+      "bbc": "bbc",
+      "première": "first",
+      "organisation": "organization",
+      "médiatique": "media-related",
+      "accéder": "to access",
+      "interviewer": "to interview",
+      "cœur": "heart",
+      "changé": "changed",
+      "son": "his",
+      "nom": "name",
+      "protéger": "to protect",
+      "témoins": "witnesses",
+      "explique": "explains",
+      "nous": "we",
+      "disposons": "we have",
+      "suffisantes": "sufficient",
+      "prodiguer": "to give",
+      "soins": "care",
+      "nécessitent": "require",
+      "avancés": "advanced",
+      "car": "because",
+      "risquent": "risk",
+      "abattus": "downed",
+      "qualifié": "qualified",
+      "accusation": "accusation",
+      "fausse": "false",
+      "adultes": "adults",
+      "membres": "members",
+      "portent": "carry",
+      "préoccupations": "concerns",
+      "telles": "such",
+      "prix": "prize",
+      "fondamentaux": "fundamentals",
+      "accord": "agreement",
+      "signé": "signed",
+      "octobre": "October",
+      "dernier": "last",
+      "appliqué": "applied",
+      "selon": "according",
+      "ce": "this",
+      "local": "local",
+      "conteste": "to contest",
+      "répression": "repression",
+      "continue": "continues",
+      "croître": "to grow",
+      "crise": "crisis",
+      "tombé": "fallen",
+      "défense": "defense",
+      "tensions": "tensions",
+      "établi": "established",
+      "temporaire": "temporary",
+      "proximité": "proximity",
+      "administré": "administered",
+      "cet": "this",
+      "exigu": "cramped",
+      "prend": "takes",
+      "soin": "care",
+      "bout": "end",
+      "portant": "bearing",
+      "draps": "sheets",
+      "imprégnés": "impregnated",
+      "témoignent": "testify",
+      "angoisse": "anguish",
+      "violence": "violence",
+      "armées": "armies",
+      "militants": "activists",
+      "revendiquent": "claim",
+      "sein": "breast",
+      "population": "population",
+      "installer": "to install",
+      "rendre": "to give back",
+      "compte": "account",
+      "docteur": "doctor",
+      "modifié": "modified",
+      "souci": "concern",
+      "affirme": "affirms",
+      "bien": "well",
+      "possédions": "we possessed",
+      "stock": "stock",
+      "suffisant": "sufficient",
+      "urgence": "emergency",
+      "cas": "case",
+      "exigent": "demanding",
+      "infrastructure": "infrastructure",
+      "hospitalière": "hospital",
+      "adaptée": "adapted",
+      "arrestation": "arrest",
+      "dissuade": "to dissuade",
+      "central": "central",
+      "rejettent": "reject",
+      "perception": "perception",
+      "insistant": "insistent",
+      "relève": "revival",
+      "désinformation": "disinformation",
+      "ailleurs": "elsewhere",
+      "ans": "years",
+      "composent": "compose",
+      "majorité": "majority",
+      "incluant": "including",
+      "hausse": "increase",
+      "conditions": "conditions",
+      "vie": "life",
+      "ces": "these",
+      "alimentées": "fed",
+      "promesses": "promises",
+      "gouvernementales": "governmental",
+      "non": "no",
+      "tenues": "held",
+      "tragique": "tragic",
+      "aspirations": "aspirations",
+      "justes": "just",
+      "marquée": "marked",
+      "impétueuses": "impetuous",
+      "installé": "installed",
+      "improvisée": "improvised",
+      "quelques": "a few",
+      "tumulte": "tumult",
+      "là": "there",
+      "emploie": "employs",
+      "sauver": "to save",
+      "corps": "bodies",
+      "criblé": "riddled",
+      "balles": "shots",
+      "étend": "extends",
+      "souillé": "soiled",
+      "fond": "background",
+      "tragédie": "tragedy",
+      "constat": "observation",
+      "amer": "bitter",
+      "confrontations": "confrontations",
+      "agents": "agents",
+      "causé": "caused",
+      "centaines": "hundreds",
+      "polarisée": "polarized",
+      "autant": "as much",
+      "préoccupante": "concerning",
+      "elle": "she",
+      "déroule": "unfolds",
+      "contexte": "context",
+      "électoral": "electoral",
+      "aggravant": "exacerbating",
+      "quête": "quest",
+      "précaire": "precarious",
+      "étrangère": "foreign",
+      "aux": "to the",
+      "efforts": "efforts",
+      "cloisonnés": "partitioned",
+      "rapporter": "to report",
+      "témoignages": "testimonies",
+      "endeuillées": "bereaved",
+      "souvent": "often",
+      "témoignent-ils": "do they testify",
+      "intransigeance": "intransigence",
+      "absence": "absence",
+      "déclencheur": "trigger",
+      "réel": "real",
+      "part": "part",
+      "évoquant": "evoking",
+      "met": "puts",
+      "lumière": "light",
+      "manque": "lack",
+      "équipements": "equipment",
+      "hospitaliers": "hospital",
+      "soulignant": "highlighting",
+      "sommes": "sums",
+      "capables": "capable",
+      "administrer": "to administer",
+      "fuient": "flee",
+      "nos": "our",
+      "structures": "structures",
+      "milieu": "environment",
+      "cris": "cries",
+      "désespoir": "despair",
+      "parents": "parents",
+      "tels": "such",
+      "ayub": "ayub",
+      "ancien": "former",
+      "militaire": "military",
+      "blâment": "blame",
+      "convoqué": "summoned",
+      "paramilitaires": "paramilitaries",
+      "injustifiable": "unjustifiable",
+      "nature": "nature",
+      "extrême": "extreme",
+      "face": "face",
+      "impuissance": "powerlessness",
+      "certaines": "some",
+      "institutions": "institutions",
+      "peuple": "people",
+      "contournées": "bypassed",
+      "réalité": "reality",
+      "loi": "law",
+      "brutales": "brutal"
+    },
+    "es": {
+      "protestas": "protests",
+      "en": "in",
+      "pakistán": "Pakistan",
+      "hay": "there is",
+      "la": "the",
+      "gente": "people",
+      "quiere": "wants",
+      "justicia": "justice",
+      "veces": "times",
+      "las": "the",
+      "son": "are",
+      "peligrosas": "dangerous",
+      "dr": "Dr.",
+      "anwar": "Anwar",
+      "trabaja": "works",
+      "una": "a",
+      "clínica": "clinic",
+      "muchos": "many",
+      "heridos": "injured",
+      "llegan": "arrive",
+      "allí": "there",
+      "uno": "one",
+      "se": "oneself",
+      "llama": "call",
+      "shafqat": "Shafqat",
+      "tiene": "has",
+      "herida": "injury",
+      "él": "he",
+      "necesita": "needs",
+      "ayuda": "helps",
+      "sus": "their",
+      "amigos": "friends",
+      "lloran": "cry",
+      "ellos": "they",
+      "tienen": "have",
+      "miedo": "fear",
+      "piden": "ask",
+      "comida": "food",
+      "derechos": "rights",
+      "autoridades": "authorities",
+      "dicen": "they say",
+      "que": "that",
+      "no": "not",
+      "es": "is",
+      "verdad": "truth",
+      "algunas": "some",
+      "personas": "people",
+      "jóvenes": "young",
+      "solo": "only",
+      "quieren": "they want",
+      "paz": "peace",
+      "el": "the",
+      "doctor": "doctor",
+      "suficiente": "sufficient",
+      "medicina": "medicine",
+      "pero": "but",
+      "algunos": "some",
+      "necesitan": "they need",
+      "más": "more",
+      "un": "a",
+      "momento": "moment",
+      "difícil": "difficult",
+      "pakistán-administered": "Pakistan-administered",
+      "cachemira": "Kashmir",
+      "importantes": "important",
+      "muchas": "many",
+      "quejan": "complain",
+      "sobre": "about",
+      "precios": "prices",
+      "altos": "high",
+      "cerca": "near",
+      "de": "of",
+      "van": "they go",
+      "su": "his",
+      "herido": "injured",
+      "está": "is",
+      "muy": "very",
+      "mal": "bad",
+      "están": "are",
+      "preocupados": "concerned",
+      "por": "for",
+      "los": "the",
+      "últimos": "latest",
+      "meses": "months",
+      "muertes": "deaths",
+      "principales": "main",
+      "víctimas": "victims",
+      "dice": "says",
+      "hospitales": "hospitals",
+      "llenos": "full",
+      "ir": "to go",
+      "al": "to the",
+      "hospital": "hospital",
+      "ser": "to be",
+      "arrestadas": "arrested",
+      "gobierno": "government",
+      "eso": "that",
+      "cierto": "certain",
+      "afirman": "affirm",
+      "manifestantes": "protesters",
+      "armas": "weapons",
+      "crean": "create",
+      "problemas": "problems",
+      "sólo": "only",
+      "pide": "requests",
+      "electricidad": "electricity",
+      "situación": "situation",
+      "para": "to",
+      "todos": "all",
+      "ciudad": "city",
+      "rawalakot": "Rawalakot",
+      "enfrenta": "faces",
+      "grave": "serious",
+      "ha": "has",
+      "alarmado": "alarmed",
+      "comunidad": "community",
+      "han": "they have",
+      "resultado": "result",
+      "especialmente": "especially",
+      "entre": "between",
+      "durante": "during",
+      "últimas": "latest",
+      "semanas": "weeks",
+      "familias": "families",
+      "perdido": "lost",
+      "seres": "beings",
+      "queridos": "loved",
+      "lo": "it",
+      "dejado": "left",
+      "vacío": "empty",
+      "inmenso": "immense",
+      "sociedad": "society",
+      "médico": "doctor",
+      "dedicado": "dedicated",
+      "improvisada": "impromptu",
+      "recibe": "receives",
+      "diariamente": "daily",
+      "disturbios": "disturbances",
+      "quien": "who",
+      "sido": "been",
+      "bala": "bullet",
+      "pecho": "chest",
+      "menciona": "mentions",
+      "recursos": "resources",
+      "limitados": "limited",
+      "aunque": "although",
+      "pueden": "can",
+      "atender": "to attend",
+      "heridas": "wounded",
+      "menores": "minors",
+      "casos": "cases",
+      "graves": "serious",
+      "avanzados": "advanced",
+      "cuales": "which",
+      "lejanos": "distant",
+      "menudo": "frequent",
+      "desbordados": "overwhelmed",
+      "armados": "armed",
+      "miembros": "members",
+      "básicos": "basic",
+      "como": "like",
+      "educación": "education",
+      "si": "if",
+      "mejora": "improvement",
+      "pronto": "soon",
+      "podría": "could",
+      "haber": "to have",
+      "enfrentamientos": "confrontations",
+      "tensión": "tension",
+      "incrementado": "increased",
+      "debido": "due",
+      "falta": "lack",
+      "información": "information",
+      "precisa": "precise",
+      "pesar": "despite",
+      "tragedia": "tragedy",
+      "familiares": "relatives",
+      "sienten": "feel",
+      "orgullo": "pride",
+      "aquellos": "those",
+      "luchan": "fight",
+      "diciendo": "saying",
+      "honor": "honor",
+      "luchar": "to fight",
+      "humanos": "human",
+      "ya": "already",
+      "era": "was",
+      "complicada": "complicated",
+      "vuelto": "returned",
+      "aún": "still",
+      "crítica": "criticism",
+      "mortales": "mortals",
+      "administrativa": "administrative",
+      "del": "of the",
+      "encuentra": "finds",
+      "principal": "main",
+      "lugar": "place",
+      "administrada": "administered",
+      "habitación": "room",
+      "usa": "usa",
+      "despensa": "pantry",
+      "médica": "medical",
+      "cama": "bed",
+      "cubierta": "covered",
+      "lona": "canvas",
+      "roja": "red",
+      "esa": "that",
+      "yace": "lies",
+      "hussain": "Hussain",
+      "disparado": "shot",
+      "sábana": "sheet",
+      "manchada": "stained",
+      "con": "with",
+      "sangre": "blood",
+      "otros": "others",
+      "lesionados": "injured",
+      "dos": "two",
+      "muerto": "dead",
+      "decenas": "tens",
+      "región": "region",
+      "fuerzas": "forces",
+      "seguridad": "security",
+      "comité": "committee",
+      "acción": "action",
+      "popular": "popular",
+      "conjunto": "set",
+      "jaac": "Jaac",
+      "medio": "means",
+      "estos": "these",
+      "señala": "points",
+      "tenemos": "we have",
+      "suficientes": "sufficient",
+      "suministros": "supplies",
+      "proporcionar": "to provide",
+      "primeros": "first",
+      "auxilios": "assistance",
+      "paciente": "patient",
+      "llega": "arrives",
+      "necesitamos": "we need",
+      "preocupación": "concern",
+      "acudir": "to attend",
+      "radica": "lies",
+      "arrestados": "arrested",
+      "ali": "Ali",
+      "amigo": "friend",
+      "expresa": "expresses",
+      "dolor": "pain",
+      "pedíamos": "we asked",
+      "harina": "flour",
+      "asequible": "affordable",
+      "nuestros": "our",
+      "ahora": "now",
+      "hermanos": "brothers",
+      "siendo": "being",
+      "asesinados": "murdered",
+      "acuerdo": "agreement",
+      "firmado": "signed",
+      "octubre": "October",
+      "implementación": "implementation",
+      "sigue": "follows",
+      "problema": "problem",
+      "intensificado": "intensified",
+      "frustración": "frustration",
+      "descontento": "discontent",
+      "social": "social",
+      "pérdida": "loss",
+      "instalado": "installed",
+      "informal": "informal",
+      "ubicada": "located",
+      "pocos": "few",
+      "pasos": "steps",
+      "sitio": "site",
+      "agitación": "agitation",
+      "llevado": "carried",
+      "crisis": "crisis",
+      "humanitaria": "humanitarian",
+      "registrado": "registered",
+      "principalmente": "mainly",
+      "continúan": "they continue",
+      "llegando": "arriving",
+      "masa": "dough",
+      "mientras": "while",
+      "tanto": "so much",
+      "víctima": "victim",
+      "comparte": "shares",
+      "exigíamos": "we demanded",
+      "enfrentamos": "confront",
+      "violencia": "violence",
+      "pérdidas": "losses",
+      "fatales": "fatal",
+      "según": "according",
+      "crucial": "crucial",
+      "pacientes": "patients",
+      "severas": "severe",
+      "sean": "be",
+      "atendidos": "attended",
+      "adecuados": "adequate",
+      "carece": "lacks",
+      "extremos": "extremes",
+      "abordar": "to address",
+      "estas": "these",
+      "preocupaciones": "worries",
+      "quedó": "remained",
+      "sin": "without",
+      "implementar": "to implement",
+      "conducido": "driven",
+      "demandas": "demands",
+      "acceso": "access",
+      "salud": "health",
+      "rechazado": "rejected",
+      "acusaciones": "accusations",
+      "uso": "use",
+      "excesivo": "excessive",
+      "fuerza": "force",
+      "alegando": "alleging",
+      "protestantes": "protesters",
+      "terroristas": "terrorists",
+      "esta": "this",
+      "ve": "sees",
+      "agravada": "worsened",
+      "cortes": "cuts",
+      "internet": "internet",
+      "bloqueos": "blockades",
+      "carreteras": "roads",
+      "dificulta": "hinders",
+      "comunicación": "communication",
+      "monitoreo": "monitoring",
+      "emergencia": "emergency",
+      "tragedias": "tragedies",
+      "feroz": "ferocious",
+      "lucha": "struggle",
+      "establecido": "established",
+      "refleja": "reflects",
+      "desesperación": "desperation",
+      "población": "population",
+      "atrapada": "trapped",
+      "legítimas": "legitimate",
+      "represión": "repression",
+      "violenta": "violent",
+      "parte": "part",
+      "gravemente": "severely",
+      "mancha": "stain",
+      "indica": "indicates",
+      "físico": "physical",
+      "sino": "but",
+      "también": "also",
+      "sufrimiento": "suffering",
+      "inundada": "flooded",
+      "solicitud": "application",
+      "resuena": "resonates",
+      "claridad": "clarity",
+      "desgarradora": "heartbreaking",
+      "pedimos": "we ask",
+      "dignidad": "dignity",
+      "nuestro": "our",
+      "grito": "shout",
+      "encontrado": "found",
+      "balas": "bullets",
+      "respuesta": "response",
+      "complica": "complicates",
+      "inacción": "inaction",
+      "relación": "relationship",
+      "año": "year",
+      "pasado": "past",
+      "afirmaciones": "statements",
+      "legitimidad": "legitimacy",
+      "acciones": "actions",
+      "historias": "stories",
+      "asma": "asthma",
+      "perdió": "lost",
+      "hijo": "son",
+      "enfatizan": "emphasize",
+      "desesperanza": "despair",
+      "siente": "feels",
+      "acorralada": "cornered",
+      "amplificada": "amplified",
+      "dificultado": "hindered",
+      "documentación": "documentation",
+      "abusos": "abuses",
+      "poniendo": "putting",
+      "evidencia": "evidence",
+      "absurda": "absurd",
+      "premura": "haste",
+      "manejan": "manage",
+      "negando": "denying",
+      "indiscriminada": "indiscriminate",
+      "insisten": "insist",
+      "verdaderas": "true",
+      "sistema": "system",
+      "injusto": "unjust",
+      "busca": "seeks",
+      "silenciar": "to silence",
+      "voces": "voices"
+    }
+  }
+}

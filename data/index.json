@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-03-aung-san-suu-kyi-appears-healthy-in-first-confirmed-outside-",
+    "date": "2026-08-03",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Aung San Suu Kyi Holds First Meeting After Years",
+      "de": "Aung San Suu Kyi trifft das Rote Kreuz nach zwei Jahren",
+      "fr": "Aung San Suu Kyi, la leader birmane, rencontre la Croix-Rouge",
+      "es": "Aung San Suu Kyi se reúne con la Cruz Roja después de años"
+    }
+  },
+  {
+    "id": "2026-08-03-my-only-son-was-shot-standing-up-for-justice-inside-city-gri",
+    "date": "2026-08-03",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b1f/live/54e97760-8efe-11f1-b8ee-9b3c26ad07bb.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Clashes in Kashmir Over Basic Rights",
+      "de": "Proteste in Rawalakot, Pakistan: Verletzte und Forderungen",
+      "fr": "Les manifestations à Rawalakot et leurs conséquences",
+      "es": "La situación de las protestas en Pakistán-administered Cachemira"
+    }
+  },
+  {
+    "id": "2026-08-03-trump-suggests-new-talks-with-iran-to-begin-on-monday",
+    "date": "2026-08-03",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84f8/live/c0137640-8f07-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump Plans New Talks with Iran",
+      "de": "Trump kündigt neue Gespräche mit Iran an",
+      "fr": "Trump propose des négociations avec l'Iran",
+      "es": "Trump sugiere iniciar nuevos diálogos con Irán el lunes"
+    }
+  },
+  {
     "id": "2026-08-02-eu-calls-emergency-meeting-to-discuss-ceuta-migrant-crossing",
     "date": "2026-08-02",
     "source": "BBC News",
