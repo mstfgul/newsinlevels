@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-03-persona-ingmar-bergman",
+    "date": "2026-08-03",
+    "director": "Ingmar Bergman",
+    "image": "https://image.tmdb.org/t/p/w780/yPTntWP9Wvew8vHN0jB7Z1EvEUN.jpg",
+    "titles": {
+      "en": "Persona: A Deep Exploration of Identity",
+      "de": "Eine Analyse von Persona",
+      "fr": "Persona",
+      "es": "Persona"
+    }
+  },
+  {
     "id": "2026-08-02-a-fantastic-woman-sebastian-lelio",
     "date": "2026-08-02",
     "director": "Sebastián Lelio",
