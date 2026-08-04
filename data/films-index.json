@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-04-daisies-vera-chytilova",
+    "date": "2026-08-04",
+    "director": "Věra Chytilová",
+    "image": "https://image.tmdb.org/t/p/w780/8sxMhdn3i1Pn8OlGCBBjr9rjP1y.jpg",
+    "titles": {
+      "en": "Daisies",
+      "de": "Daisies – Eine Satire von Věra Chytilová",
+      "fr": "Les Pâquerettes",
+      "es": "Daisies: Una Comedia Satírica"
+    }
+  },
+  {
     "id": "2026-08-03-persona-ingmar-bergman",
     "date": "2026-08-03",
     "director": "Ingmar Bergman",

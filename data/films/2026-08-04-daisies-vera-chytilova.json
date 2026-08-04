@@ -1,0 +1,2649 @@
+{
+  "id": "2026-08-04-daisies-vera-chytilova",
+  "date": "2026-08-04",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/46919"
+  },
+  "originalTitle": "Daisies (1966) — Věra Chytilová",
+  "image": "https://image.tmdb.org/t/p/w780/8sxMhdn3i1Pn8OlGCBBjr9rjP1y.jpg",
+  "category": "film",
+  "film": {
+    "director": "Věra Chytilová",
+    "title": "Daisies",
+    "year": "1966",
+    "genres": "Comedy, Drama"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Daisies",
+        "text": "Daisies is a fun film. The film is from Czechoslovakia. It shows two girls. Their names are both Marie. They play many jokes. The girls break many rules. They make chaos everywhere. The girls enjoy their freedom. They are very funny and strange. The colors in the film are bright. The music is playful and lively. The story is not normal. It is full of surprises. The film makes you think. Daisies is an important movie.",
+        "vocabulary": [
+          {
+            "word": "break",
+            "definition": "to stop something from being whole"
+          },
+          {
+            "word": "chaos",
+            "definition": "a lot of confusion"
+          },
+          {
+            "word": "enjoy",
+            "definition": "to like something"
+          },
+          {
+            "word": "freedom",
+            "definition": "the state of being free"
+          },
+          {
+            "word": "strange",
+            "definition": "unusual or unexpected"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the title of the film?",
+            "options": [
+              "Daisies",
+              "Roses",
+              "Tulips"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many girls are in the film?",
+            "options": [
+              "One",
+              "Two",
+              "Three"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Are the girls normal?",
+            "options": [
+              "Yes",
+              "No",
+              "Maybe"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Daisies",
+        "text": "Daisies is a 1966 film from Czechoslovakia. The film is a funny story about two girls named Marie. They act in strange ways and they make jokes. The girls break rules and cause chaos because they want to enjoy life and their freedom. They use their imagination to create pranks that destroy the world around them. The film shows bright colors and has playful music that makes it feel lively. It tells us about important ideas. For example, it talks about rules and how people act in society. Daisies also shows how women can be free and strong. The film is special because it was not allowed in some places when it first came out. People did not like its message about freedom. Today, it is very important in film history because it critiques societal norms and challenges traditional gender roles. People now see Daisies as a milestone of the Czechoslovak New Wave movement.",
+        "vocabulary": [
+          {
+            "word": "decadence",
+            "definition": "a state of decline or decay in society or morals"
+          },
+          {
+            "word": "anarchic",
+            "definition": "disorderly or chaotic behavior, often rejecting rules"
+          },
+          {
+            "word": "imagination",
+            "definition": "the ability to think of new ideas or images"
+          },
+          {
+            "word": "critique",
+            "definition": "a detailed analysis and assessment of something"
+          },
+          {
+            "word": "milestone",
+            "definition": "an important event or achievement in a process or journey"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who directed the film Daisies?",
+            "options": [
+              "Věra Chytilová",
+              "Jitka Cerhová",
+              "Ivan Karbanová"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What themes does Daisies explore?",
+            "options": [
+              "Adventure and exploration",
+              "Liberty and social rules",
+              "History and tradition"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why was Daisies banned in some places?",
+            "options": [
+              "It was too funny",
+              "It critiqued societal norms",
+              "It had too many colors"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Daisies",
+        "text": "Daisies, originally titled Sedmikrásky, is a significant film made in 1966 in Czechoslovakia. Directed by Věra Chytilová, the movie tells the story of two young women, both named Marie, who engage in a series of unusual pranks that aim to challenge social norms while finding joy in chaos. The film features bright colors and lively music, which create a playful atmosphere that contrasts with its deeper themes. Daisies raises important questions about society, rules, and the nature of freedom. The film critiques tradition and gender roles, allowing its heroines to express themselves without constraints. Through their rebellious actions, Marie and Marie subvert rigid social expectations, promoting anarchy and self-expression. Many viewers have found their antics entertaining, but they also provoke serious thought about conformity and authority. Today, Daisies is celebrated not just as a film but as a symbol of resistance against oppressive systems, including Communism and patriarchy. Although it was banned for its rebellious message during its initial release, it has since gained recognition as an artistic milestone of the Czechoslovak New Wave. Watching Daisies provides a refreshing perspective on freedom and the ongoing struggles against societal expectations, reminding audiences of the importance of questioning norms in a constantly changing world.",
+        "vocabulary": [
+          {
+            "word": "anarchic",
+            "definition": "relating to a state of disorder due to absence or nonrecognition of authority."
+          },
+          {
+            "word": "bourgeois",
+            "definition": "related to the middle class, typically with reference to its perceived materialistic values."
+          },
+          {
+            "word": "decadence",
+            "definition": "moral or cultural decline characterized by excessive indulgence."
+          },
+          {
+            "word": "patriarchy",
+            "definition": "a system in which men hold power and women are largely excluded from it."
+          },
+          {
+            "word": "censorship",
+            "definition": "the suppression or prohibition of speech or writing that is considered objectionable."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the two young women do in the film Daisies?",
+            "options": [
+              "They engage in a series of unusual pranks.",
+              "They study hard for school.",
+              "They work in a factory."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Daisies critique according to the text?",
+            "options": [
+              "Tradition and gender roles.",
+              "Only the youth of their generation.",
+              "Nature and the environment."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why was Daisies banned after its release?",
+            "options": [
+              "For its comedic nature.",
+              "For its rebellious message.",
+              "For its traditional themes."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Daisies: A Rebellious Satire",
+        "text": "In the 1966 film 'Daisies', directed by Věra Chytilová, two teenage girls named Marie challenge societal norms through their anarchic antics. As they embark on a series of destructive pranks, they deliberately consume and waste their surroundings, which highlights the absurdity of a materialistic existence. The film is fundamentally a satire, critiquing bourgeois decadence and the rigid structures of society that often oppress individuality.\n\nThe film's visual language is striking, featuring vibrant colors and unique editing techniques that create an unpredictable rhythm, sometimes disorienting the viewer. This echoes the unpredictability of the characters' actions, reflecting Chytilová’s vision of freedom and rebellion. Furthermore, 'Daisies' audaciously confronts themes of feminism and liberation, using humor as a tool to expose the hypocrisy of traditional gender roles. Although the film was banned in its home country, it remains a crucial piece of cinema history, emblematic of the Czechoslovak New Wave. It invites audiences to reflect on conformity versus freedom, making it a timeless piece that still resonates today.",
+        "vocabulary": [
+          {
+            "word": "anarchic",
+            "definition": "related to avoiding rules or control"
+          },
+          {
+            "word": "decadence",
+            "definition": "a state of culture or society characterized by decline"
+          },
+          {
+            "word": "satire",
+            "definition": "a work that humorously criticizes something, usually society"
+          },
+          {
+            "word": "oppress",
+            "definition": "to keep someone under control in a cruel way"
+          },
+          {
+            "word": "absurdity",
+            "definition": "something that is very silly or unreasonable"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the girls in 'Daisies' do?",
+            "options": [
+              "They travel to other countries.",
+              "They play fun games.",
+              "They perform destructive pranks."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Who directed 'Daisies'?",
+            "options": [
+              "Věra Chytilová",
+              "Jitka Cerhová",
+              "Ivana Karbanová"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What themes does the film explore?",
+            "options": [
+              "Friendship and love.",
+              "Conformity and freedom.",
+              "Animals and nature."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Exploring Daisies: A Defiant Work of Art",
+        "text": "In 'Daisies', the celebrated 1966 film by Věra Chytilová, the exploration of rebellion is evident through the carefree actions of two girls named Marie. These protagonists engage in a medley of anarchic pranks that not only challenge social conventions but also provoke thought about the nature of existence itself. The film serves as a biting satire of bourgeois decadence, employing humor and chaos as instruments to dismantle fixed ideologies and societal expectations.\n\nChytilová's avant-garde approach to filmmaking is notable; the vibrant color palette and erratic editing techniques contribute to a sense of unpredictability that engages the audience viscerally. The juxtaposition of enchanting visuals with subversive narratives critiques the oppressive structures of the time, including patriarchy and authoritarianism, leading to the film's censorship. As the characters navigate their destructive escapades, the narrative raises poignant questions about female empowerment and personal freedom. Despite its initial ban, 'Daisies' has secured its place in the cinematic canon as a transformative piece that invites continual reflection on the balance between individuality and conformity.",
+        "vocabulary": [
+          {
+            "word": "visceral",
+            "definition": "related to deep feelings rather than reason"
+          },
+          {
+            "word": "juxtaposition",
+            "definition": "placing two things together to show the difference"
+          },
+          {
+            "word": "avant-garde",
+            "definition": "innovative, especially in the arts; pushing boundaries"
+          },
+          {
+            "word": "poignant",
+            "definition": "evoking a strong emotional response"
+          },
+          {
+            "word": "censorship",
+            "definition": "the suppression of speech or public communication"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the characters represent in 'Daisies'?",
+            "options": [
+              "Conformity and tradition.",
+              "Rebellion and empowerment.",
+              "Nature and environment."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is the film's visual style characterized by?",
+            "options": [
+              "Black-and-white scenes.",
+              "Bright colors and unusual editing.",
+              "Simple and traditional filming."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did the film critique?",
+            "options": [
+              "Bourgeois decadence and society.",
+              "Romance and love stories.",
+              "Children and family."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Daisies: A Bold Deconstruction of Societal Norms",
+        "text": "'Daisies', directed by the audacious Věra Chytilová in 1966, transcends mere cinematic enjoyment, embedding itself deeply within the realm of sociopolitical critique. The film introduces two rebellious young women, both named Marie, whose whimsy and anarchic spirit catalyze a series of pranks that are as chaotic as they are reflective of a broader existential malaise. Chytilová's intent, as she articulated, was to craft a 'necrologue about a negative way of life', a profound commentary that pushes against the boundaries of artistic expression amid an era stifled by conformity and oppression.\n\nVisually, 'Daisies' is a feast for the senses; its kaleidoscopic imagery and frenetic editing immerse the viewer in a world that is both unsettling and engaging. The film flouts traditional narrative structures, instead prioritizing an experiential journey that interrogates the viewer's comfort with societal norms. At its core, 'Daisies' operates on multiple levels: it challenges patriarchal frameworks, celebrates female agency, and critiques the material excesses of consumer culture. Its eventual ban from screens stands as a testament to its revolutionary spirit, positioning it as a landmark of the Czechoslovak New Wave that fervently resonates with contemporary audiences yearning for authentic voices in cinema.",
+        "vocabulary": [
+          {
+            "word": "transcends",
+            "definition": "goes beyond the usual limits"
+          },
+          {
+            "word": "sociopolitical",
+            "definition": "related to both social and political factors"
+          },
+          {
+            "word": "whimsy",
+            "definition": "playful or fanciful behavior"
+          },
+          {
+            "word": "interrogates",
+            "definition": "examines deeply or critically"
+          },
+          {
+            "word": "revolutionary",
+            "definition": "causing great change or new ideas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Chytilová mean by 'necrologue'?",
+            "options": [
+              "It brings life to new ideas.",
+              "It critiques a negative way of life.",
+              "It describes nature and beauty."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How does 'Daisies' engage the viewer?",
+            "options": [
+              "By using simple storytelling.",
+              "Through its complex narrative structure.",
+              "By removing all visual elements."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What impact did the film have on Czechoslovakia?",
+            "options": [
+              "It was widely accepted and praised.",
+              "It was banned due to its themes.",
+              "It was ignored by the public."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Gänseblümchen",
+        "text": "Der Film Gänseblümchen ist von Věra Chytilová. Zwei Mädchen heißen Marie. Die Mädchen machen viele verrückte Dinge. Sie zerstören Dinge um sich herum, wie Möbel und Essen. Es ist eine Komödie und ein Drama. Die Mädchen sind rebellisch und leben in der Tschechoslowakei. Der Film hat viele Farben und sieht sehr lebendig aus. Die Musik ist lustig und passt gut zu den Bildern. Gänseblümchen ist sehr bekannt. Der Film kritisiert die Gesellschaft sehr direkt. Viele Menschen finden den Film spannend. Er macht Spaß und beschäftigt sich mit Freiheit. Der Film ist von 1966. Die Mädchen sind frei und glücklich.",
+        "vocabulary": [
+          {
+            "word": "Möbel",
+            "definition": "Stühle, Tische und andere Sachen im Zimmer"
+          },
+          {
+            "word": "Essen",
+            "definition": "Lebensmittel, die man zum Essen kauft"
+          },
+          {
+            "word": "lebendig",
+            "definition": "sehr bunt und voller Leben"
+          },
+          {
+            "word": "direkt",
+            "definition": "ohne Umwege oder Ablenkungen"
+          },
+          {
+            "word": "Gesellschaft",
+            "definition": "Menschen, die zusammen leben"
+          },
+          {
+            "word": "spannend",
+            "definition": "sehr interessant und aufregend"
+          },
+          {
+            "word": "kritisieren",
+            "definition": "sagen, dass etwas schlecht ist"
+          },
+          {
+            "word": "Freiheit",
+            "definition": "die Möglichkeit, zu machen, was man will"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat den Film Gänseblümchen gemacht?",
+            "options": [
+              "Ein Mann",
+              "Věra Chytilová",
+              "Zwei Mädchen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was zerstören die Mädchen im Film?",
+            "options": [
+              "Sachen um sich herum",
+              "Blumen im Garten",
+              "Ihre Freunde"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wann ist der Film Gänseblümchen erschienen?",
+            "options": [
+              "1966",
+              "1976",
+              "1986"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Gänseblümchen – Ein besonderer Film",
+        "text": "Der Film Gänseblümchen, nicht nur eine Komödie, ist von Věra Chytilová. Die Geschichte geht um zwei Mädchen, die beide Marie heißen. Sie machen viele verrückte Streiche und zerstören Dinge in ihrer Umgebung. Die Mädchen leben in der Tschechoslowakei im Jahr 1966, was eine spannende Zeit für Kunst war. Der Film zeigt, was passiert, wenn man Regeln bricht und die Gesellschaft herausfordert. Es geht um Freiheit, Rebellion und Selbstbestimmung. Außerdem gibt es viele bunte Bilder und lustige Musik. Die Mädchen erleben viele Abenteuer und lernen, dass ihr Handeln Folgen hat. Der Film kritisiert die Gesellschaft und alte Normen, die die Frauen einschränken. Die Charaktere sind stark und unabhängig und kämpfen gegen Stereotypen. Gänseblümchen ist ein wichtiger Teil der Tschechoslowakischen Filmgeschichte. Viele Menschen finden diesen Film spannend und anders, weil er die Freiheit der Frauen zeigt. Diese Themen sind auch heute noch relevant und inspirierend.",
+        "vocabulary": [
+          {
+            "word": "Regeln",
+            "definition": "Gesetze oder Normen, die man befolgen soll."
+          },
+          {
+            "word": "Einschränkungen",
+            "definition": "Dinge, die man nicht tun darf oder kann."
+          },
+          {
+            "word": "Abenteuer",
+            "definition": "Spannende oder riskante Erlebnisse."
+          },
+          {
+            "word": "Kunst",
+            "definition": "Eine Form der kreativen Ausdrucksweise, wie Musik oder Film."
+          },
+          {
+            "word": "Stereotypen",
+            "definition": "Vorfassungen oder einfache Ideen über Gruppen von Menschen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat den Film Gänseblümchen gemacht?",
+            "options": [
+              "Jitka Cerhová",
+              "Věra Chytilová",
+              "Ivana Karbanová"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was lernen die Mädchen im Film?",
+            "options": [
+              "Wie man Regeln befolgt",
+              "Wie man neue Dinge zerstört",
+              "Dass ihr Handeln Folgen hat"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wann spielt die Geschichte im Film?",
+            "options": [
+              "Im Jahr 1966",
+              "Im Jahr 1976",
+              "Im Jahr 1986"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Daisies – Eine Satire von Věra Chytilová",
+        "text": "Der Film Daisies, im Original Sedmikrásky, ist eine satirische Komödie von Věra Chytilová, die 1966 in der Tschechoslowakei entstand. In der Handlung erleben zwei junge Frauen, die beide Marie heißen, eine Reihe anarchischer Streiche, welche nicht nur unerwartet sind, sondern auch gesellschaftliche Normen brechen. Diese Streiche zeigen die Absurdität der Regeln, die damals in der Gesellschaft herrschten. Die Marschrichtung des Films ist rebellisch und bunt, voller kreativer Ideen und unkonventioneller Darstellungen. Chytilová verwendet starke Bilder und eine lebendige Farbpalette, die die Stimmung auflockern. Der Zuschauer sieht, wie die beiden Hauptfiguren durch ihre Aktionen die Grenzen der Konventionen sprengen.\n\nDaisies kritisiert verschiedene Themen, wie Freiheit, Identität und Geschlechterrollen, vor allem die Einschränkungen, die Frauen oft auferlegt werden. Der Film gilt als ein Meilenstein des tschechoslowakischen Films, da er die Nouvelle Vague repräsentiert, eine Bewegung, die mit neuen Erzähltechniken experimentierte. Chytilová selbst hat den Film als \"ein Nekrolog über eine negative Lebensweise\" beschrieben. Daisies wurde in den sozialen Kontext der 1960er Jahre geschrieben, einer Zeit, in der die Tschechoslowakei unter kommunistischer Herrschaft lebte. Wegen seiner kritischen Haltung gegenüber dem Kommunismus und der Zensur wurde der Film vorübergehend aus den Kinos verbannt.",
+        "vocabulary": [
+          {
+            "word": "anarchisch",
+            "definition": "verrückt oder chaotisch; etwas, das keine Regeln beachtet."
+          },
+          {
+            "word": "konventionell",
+            "definition": "traditionell oder gewöhnlich; etwas, das den üblichen Regeln folgt."
+          },
+          {
+            "word": "Nekrolog",
+            "definition": "ein Text, der das Leben und die Wirkung einer Person beschreibt, oft nach dem Tod."
+          },
+          {
+            "word": "Zensur",
+            "definition": "die Kontrolle oder das Verbot von Informationen durch die Regierung oder andere Behörden."
+          },
+          {
+            "word": "Rebellion",
+            "definition": "der Akt, sich gegen die Autorität oder etablierte Normen aufzulehnen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde der Film Daisies veröffentlicht?",
+            "options": [
+              "1966",
+              "1976",
+              "1986"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was kritisiert der Film Daisies hauptsächlich?",
+            "options": [
+              "Schönheit und Mode",
+              "Kommunismus und Zensur",
+              "Sport und Freizeit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie heißen die beiden Hauptfiguren im Film?",
+            "options": [
+              "Marie und Anna",
+              "Marie und Klara",
+              "Marie und Lisa"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Daisies – Ein Meisterwerk der Anarchie",
+        "text": "Der Film \"Daisies\" von Věra Chytilová, der 1966 im Rahmen der tschechoslowakischen Neuen Welle entstand, präsentiert die Geschichten von zwei jungen Frauen, die die Welt um sich herum in einem anarchischen Akt des Widerstands gegen die Konventionen herausfordern. Zu Beginn des Films lernen wir Marie und Marie kennen, die den Ernst des Lebens mit einer Mischung aus Humor und Rebellion betrachten. Diese Komödie und Drama kombiniert, bietet einen kritischen Blick auf die gesellschaftlichen Normen, die vor allem Frauen oft in spezifische Rollen drängen. Chytilová nutzt eindrucksvolle visuelle Mittel – von lebhaften Farben bis zu surrealen Bildern – um die Absurdität und Dekadenz der Bourgeoisie darzustellen. Obwohl der Film wegen seines radikalen Inhalts in der Tschechoslowakei verboten wurde, bleibt er ein bedeutendes Werk, das die Konventionen von Geschlecht und Autorität hinterfragt. Die daraus resultierende Diskussion über das Wesen von Freiheit und Rebellion regt zum Nachdenken an und macht den Film zu einem faszinierenden Erlebnis für jeden Zuschauer, der an Filmkunst interessiert ist.",
+        "vocabulary": [
+          {
+            "word": "Anarchie",
+            "definition": "Ein Zustand ohne Regeln oder Autorität."
+          },
+          {
+            "word": "Rebellion",
+            "definition": "Der Widerstand gegen Regeln oder Autorität."
+          },
+          {
+            "word": "Dekadenz",
+            "definition": "Ein Zustand von moralischem oder kulturellem Verfall."
+          },
+          {
+            "word": "Normen",
+            "definition": "Regeln oder Standards, die das Verhalten bestimmen."
+          },
+          {
+            "word": "Kritik",
+            "definition": "Die Analyse oder das Hinterfragen von etwas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was machen die beiden Maries im Film?",
+            "options": [
+              "Sie leben in Frieden.",
+              "Sie führen anarchische Streiche aus.",
+              "Sie gehen zur Schule."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wann entstand der Film 'Daisies'?",
+            "options": [
+              "1920",
+              "1966",
+              "1980"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Thema kritisiert der Film?",
+            "options": [
+              "Die Natur.",
+              "Gesellschaftliche Normen.",
+              "Sport."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Daisies – Ein subversives Meisterwerk",
+        "text": "In dem 1966 veröffentlichten Film \"Daisies\", der unter der Regie von Věra Chytilová steht, wird das jenseits konventioneller Moral agierende Duo der beiden jungen Frauen, die beide Marie heißen, zum Inbegriff einer subversiven Betrachtung der gesellschaftlichen Paradigmen ihrer Zeit. Die Handlung entfaltet sich als kaleidoskopisches Spektakel, in dem die beiden Protagonistinnen in einer Vielzahl von anarchistischen Streichen das scheinbar Establishment und die damit verbundenen Regeln in Frage stellen. Chytilová entblößt durch eine Vielzahl experimenteller filmischer Mittel, angefangen von brillanten Farbkompositionen bis hin zu avantgardistischen Bildfolgen, die Absurditäten der etablierten gesellschaftlichen Normen. Zudem lädt der Film den Zuschauer dazu ein, die Eigenheiten der Frau im Patriarchat zu hinterfragen, indem die Maries das traditionelle Frauenbild subversiv ad absurdum führen. In einer Zeit, in der eine rigide Zensur durch das kommunistische Regime vorlag, gelang es Chytilová, die Zuschauer durch eine fantasievolle Erzählweise zu provozieren und zum Nachdenken über Freiheit und Identität anzuregen. Ihr Werk wird häufig als eine Kritik an der bourgeoisen Dekadenz und der starren Sozialordnung aufgefasst und bleibt bis heute ein unverzichtbarer Bestandteil der Filmgeschichte, dessen Einfluss weit über die Grenzen der Tschechoslowakei hinaus spürbar ist. Man könnte sogar sagen, dass \"Daisies\" einen untrennbaren Teil der feministischen Filmgeschichte darstellt, insofern es die traditionellen Geschlechterrollen auf eine für die Zuschauer verunsichernde Weise dekonstruiert.  \n",
+        "vocabulary": [
+          {
+            "word": "Kaleidoskop",
+            "definition": "Ein sich ständig veränderndes Muster von Farben und Formen."
+          },
+          {
+            "word": "subversiv",
+            "definition": "Bestrebungen oder Handlungen, die bestehende Zustände oder Autoritäten hinterfragen oder in Frage stellen."
+          },
+          {
+            "word": "Dekadenz",
+            "definition": "Ein Zustand kultureller oder moralischer Verfall."
+          },
+          {
+            "word": "Patriarchat",
+            "definition": "Eine Gesellschaftsstruktur, in der Männer dominant sind und Frauen untergeordnet."
+          },
+          {
+            "word": "Untrennbar",
+            "definition": "Untrennbar; nicht zu trennen."
+          },
+          {
+            "word": "dekonstruiert",
+            "definition": "Etwas demontiern und seine Strukturen hinterfragen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films \"Daisies\"?",
+            "options": [
+              "Die Rolle von Männern in der Gesellschaft",
+              "Die Subversion von gesellschaftlichen Normen",
+              "Eine einfache Liebesgeschichte"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie wird der Regisseur Věra Chytilová in Bezug auf das kommunistische Regime beschrieben?",
+            "options": [
+              "Er unterstützte das Regime wholeheartedly",
+              "Er stellte die rigide Zensur in Frage",
+              "Er war ein Mitglied der kommunistischen Partei"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches filmische Mittel nutzt Chytilová, um Absurditäten darzustellen?",
+            "options": [
+              "Einfaches Schwarzweiß-Design",
+              "Experimentelle Farbkompositionen und Bildfolgen",
+              "Linearer Erzählstil"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Daisies – Ein monumentales Experiment der Filmkunst",
+        "text": "Věra Chytilovás 'Daisies' aus dem Jahr 1966 repräsentiert nicht nur einen prägnanten Kommentar zur Bourgeoisie, sondern artikuliert auch eine Radikalität, die förmlich nach einer Neubewertung der Geschlechterrollen verlangt. Die beiden Protagonistinnen, beide Marie, fungieren als Repräsentantinnen eines rebellischen Geistes, der sich gänzlich den gesellschaftlichen Konventionen entzieht. Mit einer visuell überwältigenden Bildsprache, geprägt von schockierenden Kontrasten, hinterfragt der Film die Normen einer eingeschränkten Gesellschaft, in der Zensur und Patriarchat alltäglich sind. Chytilovás experimenteller Stil, der mit surrealen Elementen spielt, fungiert nicht nur als kritisches Werkzeug gegen die autoritäre Realität ihrer Zeit, sondern bezweckt auch eine Reflexion über die Freiheit des Individuums und den Preis des Lebens in einer konformen Welt. Der filmische Diskurs, der sich hier entfaltet, beschränkt sich nicht nur auf die zeitgenössische Erfahrung, sondern bleibt als ein zeitloses Werk der Kunst und als feministische Manifestation von Bedeutung. 'Daisies' animiert den Zuschauer, sowohl die eigene Rolle in der Gesellschaft zu hinterfragen als auch die Möglichkeiten der Rebellion gegen vorgegebene Strukturen auszuleuchten.",
+        "vocabulary": [
+          {
+            "word": "prägnant",
+            "definition": "Deutlich und klar."
+          },
+          {
+            "word": "Radikalität",
+            "definition": "Das Verlangen nach tiefgreifenden Veränderungen."
+          },
+          {
+            "word": "Repräsentantin",
+            "definition": "Eine Person, die für eine Gruppe steht."
+          },
+          {
+            "word": "Reflexion",
+            "definition": "Das Nachdenken über etwas."
+          },
+          {
+            "word": "Manifestation",
+            "definition": "Ein deutlicher Ausdruck von Ideen oder Überzeugungen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist ein zentraler Aspekt von 'Daisies'?",
+            "options": [
+              "Die Gesellschaftsnormen.",
+              "Die Essgewohnheiten.",
+              "Die Sportarten."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was fordert der Film heraus?",
+            "options": [
+              "Die Regeln der patriarchalen Gesellschaft.",
+              "Die Mode der Zeit.",
+              "Die Kunstszene."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie wird Chytilovás Filmstil beschrieben?",
+            "options": [
+              "Als klassisch.",
+              "Als experimentell und surreal.",
+              "Als nostalgisch."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Les Pâquerettes",
+        "text": "Les Pâquerettes est un film. Il est de Věra Chytilová. Ce film est sorti en 1966. Le film est intéressant et important. Deux jeunes filles s'appellent Marie. Elles font des blagues et aiment s'amuser. Elles détruisent des choses autour d'elles. Elles mangent beaucoup de nourriture et boivent des boissons. Ce film parle de la liberté et de la révolte. Les filles ne suivent pas les règles. Elles veulent être libres et heureuses. Le film est drôle et bizarre. Les couleurs sont vives. La musique est joyeuse et rythmée. Les personnes aiment souvent ce film unique.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "un long spectacle avec des images"
+          },
+          {
+            "word": "drôle",
+            "definition": "qui fait rire, amusant"
+          },
+          {
+            "word": "liberté",
+            "definition": "le droit de faire ce que l'on veut"
+          },
+          {
+            "word": "jeune",
+            "definition": "une personne qui n'est pas âgée"
+          },
+          {
+            "word": "manger",
+            "definition": "prendre de la nourriture pour la consommer"
+          },
+          {
+            "word": "règle",
+            "definition": "une loi ou un principe"
+          },
+          {
+            "word": "musique",
+            "definition": "des sons organisés qui sont agréables"
+          },
+          {
+            "word": "couleurs",
+            "definition": "les différentes teintes visibles"
+          },
+          {
+            "word": "important",
+            "definition": "qui a beaucoup de valeur ou de signification"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le directeur du film ?",
+            "options": [
+              "Jitka Cerhová",
+              "Věra Chytilová",
+              "Ivana Karbanová"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de jeunes filles sont dans le film ?",
+            "options": [
+              "Une",
+              "Deux",
+              "Trois"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que font les filles dans le film ?",
+            "options": [
+              "Elles ne mangent pas",
+              "Elles suivent des règles",
+              "Elles font des blagues"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les Pâquerettes",
+        "text": "Les Pâquerettes est un film de 1966, très célèbre. Il est écrit et réalisé par Věra Chytilová. Ce film vient de Tchécoslovaquie. Il parle de deux jeunes filles, toutes les deux appelées Marie. Elles font des blagues et elles détruisent des choses autour d'elles. Ces blagues montrent leur liberté et leur rébellion. Elles ne veulent pas suivre les règles. Ce film critique la société et le communisme. C'est une comédie satirique. Les Maries mènent une vie d'anarchie. La musique et les couleurs vives montrent leurs émotions. Les filles sont joyeuses, mais elles sont aussi provocatrices. Ce film a été un jalon dans le cinéma tchécoslovaque. Il a choqué beaucoup de gens à l'époque parce qu'il critique le patriarcat et la censure. Les Pâquerettes a été interdit dans certains pays parce qu'il montre des sujets difficiles. Ce film est toujours important dans l'histoire du cinéma et continue d'inspirer les jeunes réalisateurs aujourd'hui.",
+        "vocabulary": [
+          {
+            "word": "jalon",
+            "definition": "un point important dans l'histoire ou le développement."
+          },
+          {
+            "word": "patriarcat",
+            "definition": "un système social où les hommes ont le pouvoir."
+          },
+          {
+            "word": "censure",
+            "definition": "le contrôle sur ce qui peut être dit ou montré."
+          },
+          {
+            "word": "provocateur",
+            "definition": "quelqu'un qui cherche à provoquer une réaction."
+          },
+          {
+            "word": "vives",
+            "definition": "des couleurs brillantes et lumineuses."
+          },
+          {
+            "word": "anarchie",
+            "definition": "un état sans règles ni lois."
+          },
+          {
+            "word": "rébellion",
+            "definition": "un acte de résistance contre l'autorité."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé le film Les Pâquerettes ?",
+            "options": [
+              "Věra Chytilová",
+              "Jitka Cerhová",
+              "Ivana Karbanová"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi le film a-t-il choqué certaines personnes ?",
+            "options": [
+              "Il montre des blagues",
+              "Il critique le patriarcat",
+              "Il parle de la musique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que les Maries font dans le film ?",
+            "options": [
+              "Elles suivent les règles",
+              "Elles font des blagues",
+              "Elles aident les gens"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les Pâquerettes",
+        "text": "Les Pâquerettes, ou Sedmikrásky, est un film de 1966, réalisé par Věra Chytilová, qui est une figure importante du cinéma tchécoslovaque. Ce film est une comédie satirique qui montre les aventures de deux jeunes femmes, toutes les deux prénommées Marie. Elles sont rebelles et font des blagues étonnantes qui détruisent le monde autour d'elles, ce qui leur permet de critiquer les normes de leur société. En effet, leurs actions remettent en question la liberté et la place des femmes dans un monde dominé par des idées patriarcales. Au début du film, les Maries commencent par des petites farces, mais elles deviennent vite de plus en plus audacieuses. La musique et les couleurs vives créent une ambiance joyeuse mais troublante, mélangeant l’humour et la critique sociale. Věra Chytilová a voulu montrer que les femmes peuvent être des héroïnes de leur propre récit. Le film est donc considéré comme un chef-d'œuvre de la Nouvelle Vague tchécoslovaque, un mouvement qui visait à briser les conventions traditionnelles du cinéma. De plus, Daisies critique le communisme et le patriarcat. À sa sortie, le film a été interdit en raison de son message fort, ce qui a démontré son impact sociopolitique et a suscité des débats sur la liberté d'expression. Aujourd'hui, il est souvent étudié dans les cours de cinéma et il inspire de nombreux réalisateurs novices.",
+        "vocabulary": [
+          {
+            "word": "burgeois",
+            "definition": "relatif à la classe moyenne, souvent associé à des valeurs traditionnelles."
+          },
+          {
+            "word": "société",
+            "definition": "un groupe d'individus vivant ensemble."
+          },
+          {
+            "word": "héroïnes",
+            "definition": "femmes qui font preuve de courage et d'audace dans des situations difficiles."
+          },
+          {
+            "word": "satirique",
+            "definition": "qui critique ou tourne en dérision des mœurs ou des comportements."
+          },
+          {
+            "word": "impact sociopolitique",
+            "definition": "influence sur la société et la politique."
+          },
+          {
+            "word": "interdit",
+            "definition": "qui ne peut pas être fait ou dit."
+          },
+          {
+            "word": "règles établies",
+            "definition": "les lois ou les normes que les gens suivent habituellement."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé le film Les Pâquerettes ?",
+            "options": [
+              "Věra Chytilová",
+              "Jitka Cerhová",
+              "Ivana Karbanová"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi le film a-t-il été interdit à sa sortie ?",
+            "options": [
+              "À cause de son humour",
+              "À cause de sa musique",
+              "À cause de son message politique"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel mouvement cinématographique est associé à Daisies ?",
+            "options": [
+              "La Nouvelle Vague tchécoslovaque",
+              "Le cinéma classique",
+              "Le réalisme magique"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Daisies : une critique de la société",
+        "text": "« Daisies », un film de Věra Chytilová sorti en 1966, est une œuvre emblématique de la Nouvelle Vague tchécoslovaque. Les personnages principaux, deux jeunes filles prénommées Marie, incarnent la jeunesse rebelle à travers une série de farces destructrices. Bien que ces farces semblent innocentes, le film critique en réalité des normes sociales rigides. Cela soulève des questions profondes sur ce qu'est la liberté, tant au niveau personnel que sociétal. Chytilová dépeint un monde où les valeurs bourgeoises sont remises en question, ce qui fait de son film une potentielle réflexion sur la décadence et l'absurdité de la vie quotidienne. \n\nVisuellement, le film est audacieux : les couleurs vives et les techniques de montage non conventions produisent une atmosphère à la fois joyeuse et dérangeante. Le rythme du film varie, ce qui reflète les changements d'humeur des personnages. De plus, il convient de noter que « Daisies » a été interdit dans son pays d'origine en raison de sa critique acerbe du communisme et de la censure. En somme, cette œuvre est à la fois divertissante et profondément significative, incitant les spectateurs à réfléchir sur la condition humaine et les structures de pouvoir.",
+        "vocabulary": [
+          {
+            "word": "farces",
+            "definition": "des blagues ou des actions amusantes"
+          },
+          {
+            "word": "censure",
+            "definition": "le contrôle des idées ou des informations"
+          },
+          {
+            "word": "visuellement",
+            "definition": "concernant l'apparence ou le spectacle"
+          },
+          {
+            "word": "rigides",
+            "definition": "qui ne change pas facilement"
+          },
+          {
+            "word": "décadence",
+            "definition": "la perte de valeurs ou de bonnes qualités"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur de Daisies ?",
+            "options": [
+              "Věra Chytilová",
+              "Jitka Cerhová",
+              "Ivana Karbanová"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de jeunes filles s'appellent Marie dans le film ?",
+            "options": [
+              "Une",
+              "Deux",
+              "Trois"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Le film critique quel système politique ?",
+            "options": [
+              "Le communisme",
+              "La démocratie",
+              "Le socialisme"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Daisies : une satire audacieuse et avant-gardiste",
+        "text": "Sorti en 1966, « Daisies » de Věra Chytilová s’inscrit comme une pierre angulaire de la Nouvelle Vague tchécoslovaque. Focalisant l'attention sur deux jeunes femmes partageant le même prénom, le film explore des thèmes de rébellion et de libération dans un monde emprisonné par des normes patriarcales. Ce faisant, Chytilová interroge les conventions sociales établies. Bien qu’en surface, le film semble proposer un spectacle joyeux et absurde, en réalité, il engendre une réflexion critique sur les tensions entre l’individu et la collectivité, mettant en lumière les comportements anarchiques de ses protagonistes.\n\nLa finesse visuelle et narrative de « Daisies » n’est pas à négliger : les choix chromatiques audacieux et un montage frénétique créent une dynamique qui captive et dérange, comme une danse entre l’enfance insouciante et la dureté du monde adulte. Ce film a non seulement défié les dogmes du cinéma traditionnel mais a également subi les foudres de la censure, illustrant son audace. Loin d'être un simple divertissement, Chytilová offre une critique profonde de la société, faisant de « Daisies » une œuvre incontournable et profanatrice d’une époque révolue.",
+        "vocabulary": [
+          {
+            "word": "avant-gardiste",
+            "definition": "innovant, qui introduit de nouvelles idées"
+          },
+          {
+            "word": "rébellion",
+            "definition": "l'action de s'opposer à des autorités"
+          },
+          {
+            "word": "dynamiques",
+            "definition": "mouvements, interactions actives"
+          },
+          {
+            "word": "comportements",
+            "definition": "les actions ou réactions des personnes"
+          },
+          {
+            "word": "profonde",
+            "definition": "très significatif ou intense"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel genre de film est Daisies ?",
+            "options": [
+              "Action",
+              "Comédie, drame",
+              "Horreur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Le film met l'accent sur quels thèmes selon Chytilová ?",
+            "options": [
+              "L'amour",
+              "La rébellion",
+              "La finance"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Daisies a été soumis à quelle réponse de la part du gouvernement ?",
+            "options": [
+              "Encouragement",
+              "Censure",
+              "Indifférence"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Daisies : une révolte esthétique et intellectuelle",
+        "text": "En 1966, « Daisies », œuvre emblématique de Věra Chytilová, s’impose comme un manifeste audacieux au sein de la Nouvelle Vague tchécoslovaque. Deux protagonistes, toutes deux nommées Marie, s'engagent dans une série de frasques anarchiques qui, sous couvert de légèreté, révèlent une critique acerbe des normes bourgeoises et des structures patriarcales rigides. Le film interroge non seulement les conventions sociales mais aussi notre perception de la liberté et de la conformité. En se permettant d'être à la fois déroutant et réjouissant, il suscite inévitablement une introspection chez le spectateur.\n\nD'un point de vue stylistique, la richesse visuelle de « Daisies » est exemplifiée par son utilisation audacieuse des couleurs vives et un montage innovant qui brise les codes traditionnels du récit. Ce refus des normes s'accompagne d'un rythme frénétique, une danse visuelle de chaos qui accentue le désordre existentiel des personnages. Chytilová, à travers cette œuvre, se situe à la lisière de la satire et du tragique. « Daisies » ne se contente pas de remettre en question les attentes, il incarne également une révolte contre l'oppression culturelle de son temps, une convocation à la résistance créative face aux contraintes étouffantes de la réalité socio-politique. En somme, ce film transcende son époque et demeure, aujourd'hui encore, un cri de ralliement pour les esprits en quête d'émancipation.",
+        "vocabulary": [
+          {
+            "word": "émancipation",
+            "definition": "libération, affranchissement des contraintes"
+          },
+          {
+            "word": "cultural",
+            "definition": "en rapport avec la culture"
+          },
+          {
+            "word": "déroutant",
+            "definition": "qui surprend ou trouble"
+          },
+          {
+            "word": "frénétique",
+            "definition": "très rapide, agité"
+          },
+          {
+            "word": "lisière",
+            "definition": "bord ou limite entre deux choses"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le principal sujet de la critique dans Daisies ?",
+            "options": [
+              "Les valeurs bourgeoises",
+              "La technologie",
+              "L'amour"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment la directrice utilise-t-elle la couleur dans le film ?",
+            "options": [
+              "De manière neutre",
+              "Audacieuse et vive",
+              "Sombre et triste"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel type de révolte le film incarne-t-il ?",
+            "options": [
+              "Culturelle",
+              "Politique",
+              "Scientifique"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Margaritas",
+        "text": "Margaritas es una película de comedia. La directora es Věra Chytilová. La película es de Checoslovaquia y es de los años sesenta. Las dos protagonistas son jóvenes. Se llaman María y María. Ellas hacen travesuras divertidas. Las chicas rompen cosas y hacen ruidos. Ellas comen en la calle. También rompen comida y flores. La película es sobre reglas. Las chicas no siguen las normas. La historia muestra la amistad entre ellas. Es una crítica de la sociedad. La película tiene risas y diversión. Muchas personas disfrutan verlo. Algunas personas no entienden la película. Daisies es una película famosa en el mundo.",
+        "vocabulary": [
+          {
+            "word": "dirección",
+            "definition": "el lugar o la persona que dirige algo"
+          },
+          {
+            "word": "entretenimiento",
+            "definition": "algo que hace que las personas se diviertan"
+          },
+          {
+            "word": "joven",
+            "definition": "una persona que no es mayor"
+          },
+          {
+            "word": "reglas",
+            "definition": "cosas que se deben seguir"
+          },
+          {
+            "word": "amistad",
+            "definition": "una relación cercana entre amigos"
+          },
+          {
+            "word": "sociedad",
+            "definition": "un grupo de personas que viven juntas"
+          },
+          {
+            "word": "película",
+            "definition": "una historia que se muestra en la pantalla"
+          },
+          {
+            "word": "famosa",
+            "definition": "algo o alguien conocido por muchas personas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es la directora de la película?",
+            "options": [
+              "Věra Chytilová",
+              "María",
+              "Checoslovaquia"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántas protagonistas son en la película?",
+            "options": [
+              "Una",
+              "Dos",
+              "Tres"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿La película critica algo?",
+            "options": [
+              "No",
+              "Sí",
+              "Tal vez"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Margaritas: Una Comedia Rebelde",
+        "text": "Margaritas es una película de 1966. Věra Chytilová es la directora de esta obra única. La película habla de dos jóvenes llamadas María. Ellas hacen cosas divertidas y absurdas, como romper objetos en su camino. A veces, tienen comida y comen en la calle, disfrutando de la libertad. La historia muestra un mundo diferente, donde las chicas no siguen las reglas. A menudo, son rebeldes y libres, pero también se enfrentan a las consecuencias de sus actos. La película critica las reglas de la sociedad y resalta la importancia de la amistad entre las chicas. Este filme es importante en la historia del cine por su creatividad. Fue prohibido en Checoslovaquia por sus ideas subversivas, que desafiaban el patriarcado y el comunismo. Věra Chytilová utiliza un estilo visual único para mostrar el espíritu rebelde de las protagonistas. La trama es una sátira de la decadencia burguesa y refleja la lucha por la identidad femenina.",
+        "vocabulary": [
+          {
+            "word": "bromas",
+            "definition": "Acciones divertidas que causan risa."
+          },
+          {
+            "word": "subversiva",
+            "definition": "Que desafía o altera lo establecido."
+          },
+          {
+            "word": "población",
+            "definition": "Grupo de personas que vive en un lugar."
+          },
+          {
+            "word": "crítica",
+            "definition": "Evaluación o juicio sobre algo."
+          },
+          {
+            "word": "protagonistas",
+            "definition": "Personajes principales de una historia."
+          },
+          {
+            "word": "patriarcado",
+            "definition": "Sistema social donde los hombres tienen poder."
+          },
+          {
+            "word": "decadencia",
+            "definition": "Declive o deterioro de una sociedad o situación."
+          },
+          {
+            "word": "consecuencias",
+            "definition": "Resultar de una acción o decisión."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es la directora de Margaritas?",
+            "options": [
+              "Věra Chytilová",
+              "María",
+              "Jitka Cerhová"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué critican las chicas en la película?",
+            "options": [
+              "Las reglas de la sociedad",
+              "La comida",
+              "La ropa"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué fue prohibida la película en Checoslovaquia?",
+            "options": [
+              "Por su duración",
+              "Por sus ideas subversivas",
+              "Por el título"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Daisies: Una Comedia Satírica",
+        "text": "La película Daisies, o Margaritas, es una comedia satírica de 1966 que ha ganado gran reconocimiento. Dirigida por Věra Chytilová, esta obra se enfoca en dos jóvenes, ambas llamadas María, quienes realizan travesuras que son muy extrañas y a veces destructivas. Las protagonistas, interpretadas por Jitka Cerhová e Ivana Karbanová, deciden desafiar las normas de la sociedad en la que viven. Ellas rompen objetos y comen en lugares inusuales, utilizando su imaginación para crear situaciones absurdas. Este filme critica el patriarcado y la rigidez de las normas sociales. Es interesante porque muestra la profunda amistad entre las dos Marías y su deseo de ser libres, lo que resuena con jóvenes de cualquier época. La película se considera un ejemplo de la Nueva Ola Checoslovaca, un movimiento cinematográfico innovador que rompió con las convenciones anteriores. Aunque fue muy creativa, también fue prohibida en su país debido a su crítica al régimen comunista y su subversión de los estereotipos de género. Si las personas ven Daisies hoy, pueden entender mejor las luchas de las mujeres por la libertad y la individualidad. Este filme no solo es divertido, sino que también provoca una reflexión profunda sobre muchos aspectos de la vida. Por estas razones, Daisies se ha convertido en una obra importante en la historia del cine.",
+        "vocabulary": [
+          {
+            "word": "decadencia",
+            "definition": "Un estado de declive o pérdida de calidad y valores."
+          },
+          {
+            "word": "subvertir",
+            "definition": "Destruir o alterar un sistema o regla establecida."
+          },
+          {
+            "word": "absurdo",
+            "definition": "Algo que no tiene sentido o es ilógico."
+          },
+          {
+            "word": "rigidez",
+            "definition": "La falta de flexibilidad o adaptabilidad."
+          },
+          {
+            "word": "individuación",
+            "definition": "El proceso de reconocer y desarrollar la propia individualidad."
+          },
+          {
+            "word": "patriarcado",
+            "definition": "Un sistema social donde los hombres tienen más poder que las mujeres."
+          },
+          {
+            "word": "crítica",
+            "definition": "El análisis o evaluación de algo, especialmente en un contexto moral o estético."
+          },
+          {
+            "word": "reflexión",
+            "definition": "El proceso de pensar cuidadosamente sobre algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quiénes son las protagonistas de la película Daisies?",
+            "options": [
+              "Dos jóvenes llamadas María",
+              "Dos hombres llamados Juan",
+              "Dos ancianas llamadas Ana"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué critica la película Daisies?",
+            "options": [
+              "Las normas de la sociedad",
+              "La tecnología moderna",
+              "La naturaleza"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué consecuencia tuvo la película en su país de origen?",
+            "options": [
+              "Fue aclamada en todo el mundo",
+              "Fue prohibida en Czechoslovakia",
+              "Recibió un premio importante"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Daisies: Un juego de rebeldía",
+        "text": "Daisies, dirigida por Věra Chytilová en 1966, es una película checoslovaca icónica que explora la inutilidad de las convenciones sociales. La historia sigue a dos jóvenes llamadas Marie, quienes, desafiando el orden establecido, realizan una serie de travesuras destructivas que reflejan una crítica profunda hacia la sociedad de su tiempo. Aunque sus acciones parecen ser solo necias y caprichosas, subyace un mensaje más grave sobre la superficialidad del materialismo y la decadencia burguesa. Chytilová utiliza una estética visual innovadora, con colores brillantes y un ritmo frenético que complementan la atmósfera lúdica y anárquica del filme. La narrativa fluye de manera no lineal, lo que permite al espectador experimentar el caos y la libertad que buscan las Maries al interactuar con el mundo circundante. Además, la película critica abiertamente la opresión del régimen comunista y las normas patriarcales, convirtiéndose así en un símbolo de resistencia cultural en una época de censura y control. Sin duda, Daisies invita al espectador a cuestionar no solo los estándares sociales, sino también su propia identidad, incitándolos a la reflexión en un marco de liberación y autodefinición. Al ser prohibida en su momento, sus mensajes subversivos resonaron incluso más en generaciones posteriores que la vieron como un ícono del feminismo y la libertad individual.",
+        "vocabulary": [
+          {
+            "word": "convenciones",
+            "definition": "Normas o reglas que se aceptan y siguen en una sociedad."
+          },
+          {
+            "word": "materialismo",
+            "definition": "Filosofía que prioriza la importancia de los aspectos materiales en la vida."
+          },
+          {
+            "word": "decadencia",
+            "definition": "Progreso hacia un estado de deterioro o deterioro cultural."
+          },
+          {
+            "word": "anárquico",
+            "definition": "Ausencia de gobierno o autoridad; caos."
+          },
+          {
+            "word": "subversivo",
+            "definition": "Que busca derrocar algo establecido, especialmente un régimen político."
+          },
+          {
+            "word": "censura",
+            "definition": "Supresión de información o ideas considerada inapropiada."
+          },
+          {
+            "word": "transgresión",
+            "definition": "Acto de violar una ley o norma."
+          },
+          {
+            "word": "estereotipo",
+            "definition": "Generalización excesiva sobre un grupo o persona."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es un tema central de la película Daisies?",
+            "options": [
+              "La amistad entre jóvenes",
+              "La crítica al materialismo y la opresión",
+              "Las tradiciones familiares"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué técnica visual utiliza Chytilová en Daisies?",
+            "options": [
+              "Colores apagados y cámara estática",
+              "Colores brillantes y ritmo frenético",
+              "Tomas largas y sonidos naturales"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué sucedió con la película después de su estreno?",
+            "options": [
+              "Fue aclamada universalmente",
+              "Fue prohibida en su país",
+              "Sólo se exhibió en festivales"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Daisies: Una subversión del orden establecido",
+        "text": "Daisies, creada en 1966 por la notable cineasta checoslovaca Věra Chytilová, emerge como una obra culmen de la Nueva Ola Checoslovaca, al combinar la comedia con una crítica mordaz a la opulencia burguesa. Las dos jóvenes protagonistas, ambas nombradas Marie, se embarcan en una travesía rebelde, llevando a cabo travesuras absurdas que desafían las convenciones sociales. Esta película se convierte, así, en un espejo de la insatisfacción generacional y de la búsqueda de identidad en un contexto opresor. El estilo visual de Chytilová es fascinante, utilizando una paleta de colores vibrantes y una edición audaz que refleja la energía de la juventud. A su vez, sus temáticas trascienden lo meramente entretenido, ya que abordan cuestiones de género y poder, subvirtiendo los estereotipos tradicionales. Con su narración no lineal, Daisies no solo invita a una reflexión sobre el significado de la libertad, sino que también se erige en un símbolo de resistencia frente a la censura política, convirtiéndose en un hito cinematográfico que continúa resonando en la actualidad.",
+        "vocabulary": [
+          {
+            "word": "culmen",
+            "definition": "punto más alto o mejor de algo"
+          },
+          {
+            "word": "mordaz",
+            "definition": "agudo, crítico, que hiere"
+          },
+          {
+            "word": "opulencia",
+            "definition": "riqueza abundante"
+          },
+          {
+            "word": "temáticas",
+            "definition": "aspectos o temas de discusión"
+          },
+          {
+            "word": "trascienden",
+            "definition": "van más allá de algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo fue creada Daisies?",
+            "options": [
+              "En 1980",
+              "En 1966",
+              "En 1975"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué estilo visual utiliza Chytilová?",
+            "options": [
+              "Colores apagados y espacios vacíos",
+              "Colores vibrantes y edición audaz",
+              "Tonos grisáceos y ritmo lento"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué critica Chytilová en Daisies?",
+            "options": [
+              "La opresión y los estereotipos de género",
+              "El cine contemporáneo",
+              "La tecnología moderna"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Daisies: Una obra maestra de la provocación artística",
+        "text": "La película *Daisies*, bajo la dirección incomparable de Věra Chytilová, no solo se presenta como un producto cinematográfico de la Nueva Ola Checoslovaca, sino que desafía las estructuras narrativas y visuales de su tiempo a través de una sátira radical y juguetona. La dualidad de las protagonistas, ambas Maries, simboliza no solo la juventud sino también la fragmentación de la identidad en un mundo repleto de restricciones. El enfoque deliberado hacia la destrucción como forma de arte provoca cuestionamientos sobre la naturaleza misma del consumismo y la decadencia moral de la sociedad contemporánea. Chytilová utiliza un lenguaje visual audaz, donde la brillantez cromática y la disonancia rítmica funcionan como metáforas de la anarquía interna de sus personajes. De hecho, *Daisies* es, en esencia, un llamado revolucionario que transgrede los confines del cine, sugiriendo que la auténtica libertad reside en la capacidad de actuar sin ataduras. Privada de su exhibición durante años debido a censuras, esta obra maestra se erige ahora como un referente ineludible en el estudio del cine subversivo y la resistencia cultural.",
+        "vocabulary": [
+          {
+            "word": "provocación",
+            "definition": "acción de incitar a una reacción"
+          },
+          {
+            "word": "fragmentación",
+            "definition": "división en partes más pequeñas"
+          },
+          {
+            "word": "deliberado",
+            "definition": "hecho intencionadamente o con propósito"
+          },
+          {
+            "word": "disonancia",
+            "definition": "falta de concordancia o armonía"
+          },
+          {
+            "word": "transgrede",
+            "definition": "romper o violar una norma"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué simbolizan las protagonistas en Daisies?",
+            "options": [
+              "La juventud y la fragmentación de la identidad",
+              "El materialismo y la tradición",
+              "La familia y las normas sociales"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Por qué fue censurada Daisies?",
+            "options": [
+              "Por ser una película de miedo",
+              "Por su crítica radical a la sociedad",
+              "Porque no tenía buena calidad"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué sugiere la película sobre la libertad?",
+            "options": [
+              "Que es un concepto vacío",
+              "Que reside en actuar sin ataduras",
+              "Que solo es posible en la soledad"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "gänseblümchen": "daisy",
+      "der": "the",
+      "film": "film",
+      "ist": "is",
+      "von": "from",
+      "věra": "faith",
+      "chytilová": "Chytilová",
+      "zwei": "two",
+      "mädchen": "girl",
+      "heißen": "to call",
+      "marie": "Marie",
+      "die": "the",
+      "machen": "to make",
+      "viele": "many",
+      "verrückte": "crazy person",
+      "dinge": "things",
+      "sie": "they",
+      "zerstören": "to destroy",
+      "um": "around",
+      "sich": "oneself",
+      "herum": "around",
+      "wie": "like",
+      "möbel": "furniture",
+      "und": "and",
+      "essen": "food",
+      "es": "it",
+      "eine": "a",
+      "komödie": "comedy",
+      "ein": "a",
+      "drama": "drama",
+      "sind": "are",
+      "rebellisch": "rebellious",
+      "leben": "life",
+      "in": "in",
+      "tschechoslowakei": "Czechoslovakia",
+      "hat": "has",
+      "farben": "colors",
+      "sieht": "sees",
+      "sehr": "very",
+      "lebendig": "alive",
+      "aus": "from",
+      "musik": "music",
+      "lustig": "funny",
+      "passt": "fits",
+      "gut": "well",
+      "zu": "to",
+      "den": "the",
+      "bildern": "pictures",
+      "bekannt": "known",
+      "kritisiert": "criticizes",
+      "gesellschaft": "society",
+      "direkt": "directly",
+      "menschen": "people",
+      "finden": "to find",
+      "spannend": "exciting",
+      "er": "he",
+      "macht": "makes",
+      "spaß": "fun",
+      "beschäftigt": "employed",
+      "mit": "with",
+      "freiheit": "freedom",
+      "frei": "free",
+      "glücklich": "happy",
+      "besonderer": "particular",
+      "nicht": "not",
+      "nur": "only",
+      "geschichte": "history",
+      "geht": "goes",
+      "beide": "both",
+      "streiche": "pranks",
+      "ihrer": "their",
+      "umgebung": "surroundings",
+      "im": "in the",
+      "jahr": "year",
+      "was": "what",
+      "spannende": "exciting",
+      "zeit": "time",
+      "für": "for",
+      "kunst": "art",
+      "war": "was",
+      "zeigt": "shows",
+      "passiert": "happens",
+      "wenn": "if",
+      "man": "one",
+      "regeln": "rules",
+      "bricht": "breaks",
+      "herausfordert": "challenges",
+      "rebellion": "rebellion",
+      "selbstbestimmung": "self-determination",
+      "außerdem": "besides",
+      "gibt": "gives",
+      "bunte": "colorful",
+      "bilder": "images",
+      "lustige": "funny",
+      "erleben": "to experience",
+      "abenteuer": "adventure",
+      "lernen": "to learn",
+      "dass": "that",
+      "ihr": "your",
+      "handeln": "to act",
+      "folgen": "consequences",
+      "alte": "old",
+      "normen": "standards",
+      "frauen": "women",
+      "einschränken": "to restrict",
+      "charaktere": "characters",
+      "stark": "strong",
+      "unabhängig": "independent",
+      "kämpfen": "to fight",
+      "gegen": "against",
+      "stereotypen": "stereotypes",
+      "wichtiger": "more important",
+      "teil": "part",
+      "tschechoslowakischen": "Czechoslovak",
+      "filmgeschichte": "film history",
+      "diesen": "these",
+      "anders": "different",
+      "weil": "because",
+      "diese": "this",
+      "themen": "topics",
+      "auch": "also",
+      "heute": "today",
+      "noch": "still",
+      "relevant": "relevant",
+      "inspirierend": "inspiring",
+      "daisies": "daisies",
+      "satire": "satire",
+      "original": "original",
+      "sedmikrásky": "daisies",
+      "satirische": "satirical",
+      "entstand": "arose",
+      "handlung": "action",
+      "junge": "boy",
+      "reihe": "series",
+      "anarchischer": "anarchic",
+      "welche": "which",
+      "unerwartet": "unexpected",
+      "sondern": "but",
+      "gesellschaftliche": "social",
+      "brechen": "to break",
+      "zeigen": "to show",
+      "absurdität": "absurdity",
+      "damals": "at that time",
+      "herrschten": "prevailed",
+      "marschrichtung": "marching direction",
+      "des": "of the",
+      "films": "films",
+      "bunt": "colorful",
+      "voller": "full",
+      "kreativer": "creative",
+      "ideen": "ideas",
+      "unkonventioneller": "unconventional",
+      "darstellungen": "representations",
+      "verwendet": "used",
+      "starke": "strong",
+      "lebendige": "vivid",
+      "farbpalette": "color palette",
+      "stimmung": "mood",
+      "auflockern": "to loosen",
+      "zuschauer": "spectators",
+      "beiden": "both",
+      "hauptfiguren": "main characters",
+      "durch": "through",
+      "ihre": "their",
+      "aktionen": "actions",
+      "grenzen": "borders",
+      "konventionen": "conventions",
+      "sprengen": "to blow up",
+      "verschiedene": "various",
+      "identität": "identity",
+      "geschlechterrollen": "gender roles",
+      "vor": "before",
+      "allem": "everything",
+      "einschränkungen": "restrictions",
+      "oft": "often",
+      "auferlegt": "imposed",
+      "werden": "will",
+      "gilt": "applies",
+      "als": "than",
+      "meilenstein": "milestone",
+      "da": "there",
+      "nouvelle": "new",
+      "vague": "wave",
+      "repräsentiert": "represents",
+      "bewegung": "movement",
+      "neuen": "new",
+      "erzähltechniken": "narrative techniques",
+      "experimentierte": "experimented",
+      "selbst": "self",
+      "nekrolog": "obituary",
+      "über": "about",
+      "negative": "negative",
+      "lebensweise": "lifestyle",
+      "beschrieben": "described",
+      "wurde": "was",
+      "sozialen": "social",
+      "kontext": "context",
+      "jahre": "years",
+      "geschrieben": "written",
+      "einer": "one",
+      "unter": "under",
+      "kommunistischer": "communist",
+      "herrschaft": "dominion",
+      "lebte": "lived",
+      "wegen": "because of",
+      "seiner": "his",
+      "kritischen": "critical",
+      "haltung": "attitude",
+      "gegenüber": "towards",
+      "dem": "the",
+      "kommunismus": "communism",
+      "zensur": "censorship",
+      "vorübergehend": "temporary",
+      "kinos": "cinemas",
+      "verbannt": "banished",
+      "meisterwerk": "masterpiece",
+      "anarchie": "anarchy",
+      "rahmen": "framework",
+      "welle": "wave",
+      "präsentiert": "presented",
+      "geschichten": "stories",
+      "jungen": "young",
+      "welt": "world",
+      "einem": "a",
+      "anarchischen": "anarchic",
+      "akt": "act",
+      "widerstands": "resistance's",
+      "herausfordern": "to challenge",
+      "beginn": "beginning",
+      "wir": "we",
+      "kennen": "to know",
+      "ernst": "serious",
+      "lebens": "lives",
+      "mischung": "mixture",
+      "humor": "humor",
+      "betrachten": "to consider",
+      "kombiniert": "combined",
+      "bietet": "offers",
+      "einen": "a",
+      "blick": "glance",
+      "auf": "to",
+      "gesellschaftlichen": "social",
+      "spezifische": "specific",
+      "rollen": "roles",
+      "drängen": "to urge",
+      "nutzt": "uses",
+      "eindrucksvolle": "impressive",
+      "visuelle": "visual",
+      "mittel": "means",
+      "lebhaften": "lively",
+      "bis": "up to",
+      "surrealen": "surreal",
+      "dekadenz": "decadence",
+      "bourgeoisie": "bourgeoisie",
+      "darzustellen": "to represent",
+      "obwohl": "although",
+      "seines": "his",
+      "radikalen": "radical",
+      "inhalts": "content",
+      "verboten": "forbidden",
+      "bleibt": "stays",
+      "bedeutendes": "significant",
+      "werk": "work",
+      "das": "that",
+      "geschlecht": "gender",
+      "autorität": "authority",
+      "hinterfragt": "questioned",
+      "daraus": "therefrom",
+      "resultierende": "resulting",
+      "diskussion": "discussion",
+      "wesen": "being",
+      "regt": "to stimulate",
+      "zum": "to the",
+      "nachdenken": "to think",
+      "an": "at",
+      "faszinierenden": "fascinating",
+      "erlebnis": "experience",
+      "jeden": "every",
+      "filmkunst": "film art",
+      "interessiert": "interested",
+      "subversives": "subversive",
+      "veröffentlichten": "published",
+      "regie": "direction",
+      "steht": "stands",
+      "wird": "will",
+      "jenseits": "beyond",
+      "konventioneller": "conventional",
+      "moral": "moral",
+      "agierende": "acting",
+      "duo": "duo",
+      "inbegriff": "quintessence",
+      "subversiven": "subversive",
+      "betrachtung": "view",
+      "paradigmen": "paradigms",
+      "entfaltet": "unfolds",
+      "kaleidoskopisches": "kaleidoscopic",
+      "spektakel": "spectacle",
+      "protagonistinnen": "protagonists",
+      "vielzahl": "variety",
+      "anarchistischen": "anarchist",
+      "streichen": "to cancel",
+      "scheinbar": "seemingly",
+      "establishment": "establishment",
+      "damit": "so that",
+      "verbundenen": "connected",
+      "frage": "question",
+      "stellen": "to provide",
+      "entblößt": "exposes",
+      "experimenteller": "experimental",
+      "filmischer": "filmic",
+      "angefangen": "started",
+      "brillanten": "brilliant",
+      "farbkompositionen": "color compositions",
+      "hin": "to",
+      "avantgardistischen": "avant-garde",
+      "bildfolgen": "image sequences",
+      "absurditäten": "absurdities",
+      "etablierten": "established",
+      "zudem": "furthermore",
+      "lädt": "invites",
+      "dazu": "additionally",
+      "eigenheiten": "peculiarities",
+      "frau": "woman",
+      "patriarchat": "patriarchy",
+      "hinterfragen": "to question",
+      "indem": "by",
+      "maries": "Marie",
+      "traditionelle": "traditional",
+      "frauenbild": "image of women",
+      "subversiv": "subversive",
+      "ad": "ad",
+      "absurdum": "absurdum",
+      "führen": "to lead",
+      "rigide": "rigid",
+      "kommunistische": "communist",
+      "regime": "regime",
+      "vorlag": "template",
+      "gelang": "succeeded",
+      "fantasievolle": "imaginative",
+      "erzählweise": "narrative",
+      "provozieren": "to provoke",
+      "anzuregen": "to stimulate",
+      "häufig": "often",
+      "kritik": "criticism",
+      "bourgeoisen": "bourgeois",
+      "starren": "staring",
+      "sozialordnung": "social order",
+      "aufgefasst": "perceived",
+      "unverzichtbarer": "essential",
+      "bestandteil": "component",
+      "dessen": "whose",
+      "einfluss": "influence",
+      "weit": "far",
+      "hinaus": "beyond",
+      "spürbar": "noticeable",
+      "könnte": "could",
+      "sogar": "even",
+      "sagen": "say",
+      "untrennbaren": "inseparable",
+      "feministischen": "feminist",
+      "darstellt": "represents",
+      "insofern": "insofar",
+      "traditionellen": "traditional",
+      "verunsichernde": "unsettling",
+      "weise": "way",
+      "dekonstruiert": "deconstructed",
+      "monumentales": "monumental",
+      "experiment": "experiment",
+      "chytilovás": "Chytilová",
+      "prägnanten": "concise",
+      "kommentar": "comment",
+      "zur": "to the",
+      "artikuliert": "articulates",
+      "radikalität": "radicality",
+      "förmlich": "formal",
+      "nach": "after",
+      "neubewertung": "reassessment",
+      "verlangt": "requires",
+      "fungieren": "to function",
+      "repräsentantinnen": "representatives",
+      "eines": "one",
+      "rebellischen": "rebellious",
+      "geistes": "mind",
+      "gänzlich": "completely",
+      "entzieht": "withdraws",
+      "visuell": "visual",
+      "überwältigenden": "overwhelming",
+      "bildsprache": "imagery",
+      "geprägt": "shaped",
+      "schockierenden": "shocking",
+      "kontrasten": "contrasts",
+      "eingeschränkten": "restricted",
+      "alltäglich": "everyday",
+      "stil": "style",
+      "elementen": "elements",
+      "spielt": "plays",
+      "fungiert": "to function",
+      "kritisches": "critical",
+      "werkzeug": "tool",
+      "autoritäre": "authoritarian",
+      "realität": "reality",
+      "bezweckt": "intended",
+      "reflexion": "reflection",
+      "individuums": "individual",
+      "preis": "prize",
+      "konformen": "conformist",
+      "filmische": "cinematic",
+      "diskurs": "discourse",
+      "hier": "here",
+      "beschränkt": "restricts",
+      "zeitgenössische": "contemporary",
+      "erfahrung": "experience",
+      "zeitloses": "timeless",
+      "feministische": "feminist",
+      "manifestation": "manifestation",
+      "bedeutung": "meaning",
+      "animiert": "animated",
+      "sowohl": "both",
+      "eigene": "own",
+      "rolle": "role",
+      "möglichkeiten": "possibilities",
+      "vorgegebene": "preset",
+      "strukturen": "structures",
+      "auszuleuchten": "to illuminate"
+    },
+    "fr": {
+      "les": "the",
+      "pâquerettes": "daisies",
+      "est": "is",
+      "un": "a",
+      "film": "film",
+      "il": "he",
+      "de": "of",
+      "věra": "faith",
+      "chytilová": "Chytilová",
+      "ce": "this",
+      "sorti": "went out",
+      "en": "in",
+      "le": "the",
+      "intéressant": "interesting",
+      "et": "and",
+      "important": "important",
+      "deux": "two",
+      "jeunes": "young",
+      "filles": "girls",
+      "appellent": "call",
+      "marie": "Mary",
+      "elles": "they",
+      "font": "make",
+      "des": "some",
+      "blagues": "jokes",
+      "aiment": "like",
+      "amuser": "to amuse",
+      "détruisent": "destroy",
+      "choses": "things",
+      "autour": "around",
+      "mangent": "eat",
+      "beaucoup": "a lot",
+      "nourriture": "food",
+      "boivent": "drink",
+      "boissons": "drinks",
+      "parle": "speaks",
+      "la": "the",
+      "liberté": "freedom",
+      "révolte": "revolt",
+      "ne": "not",
+      "suivent": "follow",
+      "pas": "not",
+      "règles": "rules",
+      "veulent": "want",
+      "être": "to be",
+      "libres": "free",
+      "heureuses": "happy",
+      "drôle": "funny",
+      "bizarre": "strange",
+      "couleurs": "colors",
+      "sont": "are",
+      "vives": "lively",
+      "musique": "music",
+      "joyeuse": "joyful",
+      "rythmée": "rhythmic",
+      "personnes": "people",
+      "souvent": "often",
+      "unique": "unique",
+      "très": "very",
+      "célèbre": "famous",
+      "écrit": "written",
+      "réalisé": "achieved",
+      "par": "by",
+      "vient": "comes",
+      "tchécoslovaquie": "Czechoslovakia",
+      "toutes": "all",
+      "appelées": "called",
+      "ces": "these",
+      "montrent": "show",
+      "leur": "their",
+      "rébellion": "rebellion",
+      "suivre": "to follow",
+      "critique": "criticism",
+      "société": "society",
+      "communisme": "communism",
+      "une": "a",
+      "comédie": "comedy",
+      "satirique": "satirical",
+      "maries": "married",
+      "mènent": "lead",
+      "vie": "life",
+      "anarchie": "anarchy",
+      "leurs": "their",
+      "émotions": "emotions",
+      "joyeuses": "joyful",
+      "mais": "but",
+      "aussi": "also",
+      "provocatrices": "provocateurs",
+      "été": "been",
+      "jalon": "milestone",
+      "dans": "in",
+      "cinéma": "cinema",
+      "tchécoslovaque": "Czechoslovak",
+      "choqué": "shocked",
+      "gens": "people",
+      "époque": "era",
+      "parce": "because",
+      "patriarcat": "patriarchy",
+      "censure": "censorship",
+      "interdit": "forbidden",
+      "certains": "some",
+      "pays": "country",
+      "montre": "shows",
+      "sujets": "subjects",
+      "difficiles": "difficult",
+      "toujours": "always",
+      "histoire": "history",
+      "du": "of the",
+      "continue": "continues",
+      "inspirer": "to inspire",
+      "réalisateurs": "directors",
+      "aujourd'hui": "today",
+      "ou": "or",
+      "sedmikrásky": "daisies",
+      "qui": "who",
+      "figure": "figure",
+      "importante": "important",
+      "aventures": "adventures",
+      "femmes": "women",
+      "prénommées": "named",
+      "rebelles": "rebels",
+      "étonnantes": "amazing",
+      "monde": "world",
+      "permet": "allows",
+      "critiquer": "to criticize",
+      "normes": "standards",
+      "effet": "effect",
+      "actions": "actions",
+      "remettent": "to restore",
+      "question": "question",
+      "place": "place",
+      "dominé": "dominated",
+      "idées": "ideas",
+      "patriarcales": "patriarchal",
+      "au": "at the",
+      "début": "beginning",
+      "commencent": "begin",
+      "petites": "small",
+      "farces": "pranks",
+      "vite": "quickly",
+      "plus": "more",
+      "audacieuses": "bold",
+      "créent": "create",
+      "ambiance": "atmosphere",
+      "troublante": "disturbing",
+      "mélangeant": "mixing",
+      "humour": "humor",
+      "sociale": "social",
+      "voulu": "wanted",
+      "montrer": "to show",
+      "que": "that",
+      "peuvent": "can",
+      "héroïnes": "heroines",
+      "propre": "clean",
+      "récit": "story",
+      "donc": "therefore",
+      "considéré": "considered",
+      "comme": "like",
+      "chef-d'œuvre": "masterpiece",
+      "nouvelle": "new",
+      "vague": "wave",
+      "mouvement": "movement",
+      "visait": "aimed",
+      "briser": "to break",
+      "conventions": "conventions",
+      "traditionnelles": "traditional",
+      "sa": "its",
+      "sortie": "exit",
+      "raison": "reason",
+      "son": "his",
+      "message": "message",
+      "fort": "strong",
+      "démontré": "demonstrated",
+      "impact": "impact",
+      "sociopolitique": "sociopolitical",
+      "suscité": "raised",
+      "débats": "debates",
+      "sur": "about",
+      "expression": "expression",
+      "étudié": "studied",
+      "cours": "course",
+      "inspire": "inspires",
+      "nombreux": "many",
+      "novices": "novices",
+      "œuvre": "work",
+      "emblématique": "emblematic",
+      "personnages": "characters",
+      "principaux": "main",
+      "incarnent": "embody",
+      "jeunesse": "youth",
+      "rebelle": "rebel",
+      "travers": "crossing",
+      "série": "series",
+      "destructrices": "destructive",
+      "bien": "well",
+      "semblent": "seem",
+      "innocentes": "innocent",
+      "réalité": "reality",
+      "sociales": "social",
+      "rigides": "rigid",
+      "cela": "that",
+      "soulève": "raises",
+      "questions": "questions",
+      "profondes": "profound",
+      "tant": "so much",
+      "niveau": "level",
+      "personnel": "staff",
+      "sociétal": "societal",
+      "dépeint": "depicts",
+      "où": "where",
+      "valeurs": "values",
+      "bourgeoises": "bourgeois",
+      "remises": "discounts",
+      "fait": "makes",
+      "potentielle": "potential",
+      "réflexion": "reflection",
+      "décadence": "decadence",
+      "absurdité": "absurdity",
+      "quotidienne": "daily",
+      "visuellement": "visually",
+      "audacieux": "bold",
+      "techniques": "techniques",
+      "montage": "editing",
+      "non": "no",
+      "produisent": "produce",
+      "atmosphère": "atmosphere",
+      "fois": "times",
+      "dérangeante": "disturbing",
+      "rythme": "rhythm",
+      "varie": "varies",
+      "reflète": "reflects",
+      "changements": "changes",
+      "humeur": "mood",
+      "convient": "suitable",
+      "noter": "note",
+      "origine": "origin",
+      "acerbe": "sharp",
+      "somme": "sum",
+      "cette": "this",
+      "divertissante": "entertaining",
+      "profondément": "deeply",
+      "significative": "significant",
+      "incitant": "encouraging",
+      "spectateurs": "spectators",
+      "réfléchir": "to reflect",
+      "condition": "condition",
+      "humaine": "human",
+      "structures": "structures",
+      "pouvoir": "power",
+      "satire": "satire",
+      "audacieuse": "daring",
+      "avant-gardiste": "cutting-edge",
+      "inscrit": "inscribed",
+      "pierre": "stone",
+      "angulaire": "angular",
+      "focalisant": "focusing",
+      "attention": "attention",
+      "partageant": "sharing",
+      "même": "even",
+      "prénom": "first name",
+      "explore": "explore",
+      "thèmes": "themes",
+      "libération": "liberation",
+      "emprisonné": "imprisoned",
+      "faisant": "making",
+      "interroge": "questions",
+      "établies": "established",
+      "surface": "surface",
+      "semble": "seems",
+      "proposer": "to propose",
+      "spectacle": "show",
+      "joyeux": "joyful",
+      "absurde": "absurd",
+      "engendre": "generates",
+      "tensions": "tensions",
+      "entre": "between",
+      "individu": "individual",
+      "collectivité": "community",
+      "mettant": "putting",
+      "lumière": "light",
+      "comportements": "behaviors",
+      "anarchiques": "anarchic",
+      "ses": "his",
+      "protagonistes": "protagonists",
+      "finesse": "fineness",
+      "visuelle": "visual",
+      "narrative": "narrative",
+      "négliger": "to neglect",
+      "choix": "choice",
+      "chromatiques": "chromatic",
+      "frénétique": "frenzied",
+      "dynamique": "dynamic",
+      "captive": "captive",
+      "dérange": "disturbs",
+      "danse": "dance",
+      "enfance": "childhood",
+      "insouciante": "carefree",
+      "dureté": "hardness",
+      "adulte": "adult",
+      "seulement": "only",
+      "défié": "defied",
+      "dogmes": "dogmas",
+      "traditionnel": "traditional",
+      "également": "also",
+      "subi": "suffered",
+      "foudres": "thunders",
+      "illustrant": "illustrating",
+      "audace": "audacity",
+      "loin": "far",
+      "simple": "simple",
+      "divertissement": "entertainment",
+      "offre": "offer",
+      "profonde": "deep",
+      "incontournable": "essential",
+      "profanatrice": "profaner",
+      "révolue": "expired",
+      "esthétique": "aesthetic",
+      "intellectuelle": "intellectual",
+      "impose": "imposes",
+      "manifeste": "manifest",
+      "sein": "breast",
+      "nommées": "named",
+      "engagent": "hire",
+      "frasques": "pranks",
+      "sous": "under",
+      "couvert": "cover",
+      "légèreté": "lightness",
+      "révèlent": "reveal",
+      "notre": "our",
+      "perception": "perception",
+      "conformité": "compliance",
+      "se": "yourself",
+      "permettant": "allowing",
+      "déroutant": "confusing",
+      "réjouissant": "delightful",
+      "suscite": "arouses",
+      "inévitablement": "inevitably",
+      "introspection": "introspection",
+      "chez": "at",
+      "spectateur": "spectator",
+      "point": "point",
+      "vue": "view",
+      "stylistique": "stylistic",
+      "richesse": "wealth",
+      "exemplifiée": "exemplified",
+      "utilisation": "use",
+      "innovant": "innovative",
+      "brise": "breeze",
+      "codes": "codes",
+      "traditionnels": "traditional",
+      "refus": "refusal",
+      "accompagne": "accompanies",
+      "chaos": "chaos",
+      "accentue": "accentuates",
+      "désordre": "disorder",
+      "existentiel": "existential",
+      "situe": "situates",
+      "lisière": "margin",
+      "tragique": "tragic",
+      "contente": "happy",
+      "remettre": "to put back",
+      "attentes": "expectations",
+      "incarne": "to embody",
+      "contre": "against",
+      "oppression": "oppression",
+      "culturelle": "cultural",
+      "temps": "weather",
+      "convocation": "summons",
+      "résistance": "resistance",
+      "créative": "creative",
+      "face": "face",
+      "aux": "to the",
+      "contraintes": "constraints",
+      "étouffantes": "suffocating",
+      "socio-politique": "socio-political",
+      "transcende": "transcends",
+      "demeure": "dwelling",
+      "encore": "again",
+      "cri": "cry",
+      "ralliement": "rallying",
+      "pour": "for",
+      "esprits": "minds",
+      "quête": "quest",
+      "émancipation": "emancipation"
+    },
+    "es": {
+      "margaritas": "daisies",
+      "es": "is",
+      "una": "a",
+      "película": "movie",
+      "de": "of",
+      "comedia": "comedy",
+      "la": "the",
+      "directora": "director",
+      "věra": "faith",
+      "chytilová": "Chytilová",
+      "checoslovaquia": "Czechoslovakia",
+      "los": "the",
+      "años": "years",
+      "sesenta": "sixty",
+      "las": "the",
+      "dos": "two",
+      "protagonistas": "protagonists",
+      "son": "are",
+      "jóvenes": "young",
+      "se": "oneself",
+      "llaman": "call",
+      "maría": "Mary",
+      "ellas": "they",
+      "hacen": "do",
+      "travesuras": "mischief",
+      "divertidas": "funny",
+      "chicas": "girls",
+      "rompen": "break",
+      "cosas": "things",
+      "ruidos": "noises",
+      "comen": "they eat",
+      "en": "in",
+      "calle": "street",
+      "también": "also",
+      "comida": "food",
+      "flores": "flowers",
+      "sobre": "about",
+      "reglas": "rules",
+      "no": "not",
+      "siguen": "continue",
+      "normas": "rules",
+      "historia": "story",
+      "muestra": "shows",
+      "amistad": "friendship",
+      "entre": "between",
+      "crítica": "criticism",
+      "sociedad": "society",
+      "tiene": "has",
+      "risas": "laughter",
+      "diversión": "fun",
+      "muchas": "many",
+      "personas": "people",
+      "disfrutan": "they enjoy",
+      "verlo": "see it",
+      "algunas": "some",
+      "entienden": "understand",
+      "daisies": "daisies",
+      "famosa": "famous",
+      "el": "the",
+      "mundo": "world",
+      "rebelde": "rebel",
+      "esta": "this",
+      "obra": "work",
+      "única": "unique",
+      "habla": "speaks",
+      "llamadas": "calls",
+      "absurdas": "absurd",
+      "como": "like",
+      "romper": "to break",
+      "objetos": "objects",
+      "su": "his",
+      "camino": "path",
+      "veces": "times",
+      "tienen": "have",
+      "disfrutando": "enjoying",
+      "libertad": "freedom",
+      "un": "a",
+      "diferente": "different",
+      "donde": "where",
+      "menudo": "frequent",
+      "rebeldes": "rebels",
+      "libres": "free",
+      "pero": "but",
+      "enfrentan": "they face",
+      "consecuencias": "consequences",
+      "sus": "their",
+      "actos": "acts",
+      "critica": "criticizes",
+      "resalta": "highlights",
+      "importancia": "importance",
+      "este": "this",
+      "filme": "film",
+      "importante": "important",
+      "del": "of the",
+      "cine": "cinema",
+      "por": "for",
+      "creatividad": "creativity",
+      "fue": "was",
+      "prohibido": "forbidden",
+      "ideas": "ideas",
+      "subversivas": "subversive",
+      "que": "that",
+      "desafiaban": "challenged",
+      "patriarcado": "patriarchy",
+      "comunismo": "communism",
+      "utiliza": "uses",
+      "estilo": "style",
+      "visual": "visual",
+      "único": "unique",
+      "para": "to",
+      "mostrar": "to show",
+      "espíritu": "spirit",
+      "trama": "plot",
+      "sátira": "satire",
+      "decadencia": "decay",
+      "burguesa": "bourgeois",
+      "refleja": "reflects",
+      "lucha": "struggle",
+      "identidad": "identity",
+      "femenina": "feminine",
+      "satírica": "satirical",
+      "ha": "has",
+      "ganado": "cattle",
+      "gran": "great",
+      "reconocimiento": "recognition",
+      "dirigida": "directed",
+      "enfoca": "focuses",
+      "ambas": "both",
+      "quienes": "those",
+      "realizan": "carry out",
+      "muy": "very",
+      "extrañas": "strange",
+      "destructivas": "destructive",
+      "interpretadas": "interpreted",
+      "jitka": "Jitka",
+      "cerhová": "Cerhová",
+      "ivana": "Ivana",
+      "karbanová": "Karbanová",
+      "deciden": "decide",
+      "desafiar": "to challenge",
+      "viven": "they live",
+      "lugares": "places",
+      "inusuales": "unusual",
+      "utilizando": "using",
+      "imaginación": "imagination",
+      "crear": "to create",
+      "situaciones": "situations",
+      "rigidez": "rigidity",
+      "sociales": "social",
+      "interesante": "interesting",
+      "porque": "because",
+      "profunda": "profound",
+      "marías": "Marys",
+      "deseo": "wish",
+      "ser": "to be",
+      "lo": "it",
+      "resuena": "resonates",
+      "con": "with",
+      "cualquier": "any",
+      "época": "era",
+      "considera": "considers",
+      "ejemplo": "example",
+      "nueva": "new",
+      "ola": "wave",
+      "checoslovaca": "Czechoslovak",
+      "movimiento": "movement",
+      "cinematográfico": "cinematographic",
+      "innovador": "innovative",
+      "rompió": "broke",
+      "convenciones": "conventions",
+      "anteriores": "previous",
+      "aunque": "although",
+      "creativa": "creative",
+      "prohibida": "forbidden",
+      "país": "country",
+      "debido": "due",
+      "al": "to the",
+      "régimen": "regime",
+      "comunista": "communist",
+      "subversión": "subversion",
+      "estereotipos": "stereotypes",
+      "género": "gender",
+      "si": "if",
+      "ven": "come",
+      "hoy": "today",
+      "pueden": "can",
+      "entender": "to understand",
+      "mejor": "better",
+      "luchas": "struggles",
+      "mujeres": "women",
+      "individualidad": "individuality",
+      "solo": "only",
+      "divertido": "funny",
+      "sino": "but",
+      "provoca": "provokes",
+      "reflexión": "reflection",
+      "muchos": "many",
+      "aspectos": "aspects",
+      "vida": "life",
+      "estas": "these",
+      "razones": "reasons",
+      "convertido": "converted",
+      "juego": "game",
+      "rebeldía": "rebellion",
+      "icónica": "iconic",
+      "explora": "explores",
+      "inutilidad": "uselessness",
+      "sigue": "follows",
+      "marie": "Marie",
+      "desafiando": "defying",
+      "orden": "order",
+      "establecido": "established",
+      "serie": "series",
+      "reflejan": "reflect",
+      "hacia": "toward",
+      "tiempo": "time",
+      "acciones": "actions",
+      "parecen": "seem",
+      "necias": "silly",
+      "caprichosas": "whimsical",
+      "subyace": "underlies",
+      "mensaje": "message",
+      "más": "more",
+      "grave": "serious",
+      "superficialidad": "superficiality",
+      "materialismo": "materialism",
+      "estética": "aesthetic",
+      "innovadora": "innovative",
+      "colores": "colors",
+      "brillantes": "brilliant",
+      "ritmo": "rhythm",
+      "frenético": "frantic",
+      "complementan": "they complement",
+      "atmósfera": "atmosphere",
+      "lúdica": "playful",
+      "anárquica": "anarchic",
+      "narrativa": "narrative",
+      "fluye": "flows",
+      "manera": "way",
+      "lineal": "linear",
+      "permite": "allows",
+      "espectador": "viewer",
+      "experimentar": "to experience",
+      "caos": "chaos",
+      "buscan": "search",
+      "maries": "Maries",
+      "interactuar": "to interact",
+      "circundante": "surrounding",
+      "además": "furthermore",
+      "abiertamente": "openly",
+      "opresión": "oppression",
+      "patriarcales": "patriarchal",
+      "convirtiéndose": "becoming",
+      "así": "thus",
+      "símbolo": "symbol",
+      "resistencia": "resistance",
+      "cultural": "cultural",
+      "censura": "censorship",
+      "control": "control",
+      "sin": "without",
+      "duda": "doubt",
+      "invita": "invites",
+      "cuestionar": "to question",
+      "estándares": "standards",
+      "propia": "own",
+      "incitándolos": "inciting them",
+      "marco": "framework",
+      "liberación": "liberation",
+      "autodefinición": "self-definition",
+      "momento": "moment",
+      "mensajes": "messages",
+      "subversivos": "subversive",
+      "resonaron": "resounded",
+      "incluso": "even",
+      "generaciones": "generations",
+      "posteriores": "later",
+      "vieron": "they saw",
+      "ícono": "icon",
+      "feminismo": "feminism",
+      "individual": "individual",
+      "creada": "created",
+      "notable": "notable",
+      "cineasta": "filmmaker",
+      "emerge": "to emerge",
+      "culmen": "pinnacle",
+      "combinar": "to combine",
+      "mordaz": "caustic",
+      "opulencia": "opulence",
+      "nombradas": "named",
+      "embarcan": "embark",
+      "travesía": "journey",
+      "llevando": "carrying",
+      "cabo": "cape",
+      "desafían": "challenge",
+      "convierte": "turns",
+      "espejo": "mirror",
+      "insatisfacción": "dissatisfaction",
+      "generacional": "generational",
+      "búsqueda": "search",
+      "contexto": "context",
+      "opresor": "oppressor",
+      "fascinante": "fascinating",
+      "paleta": "palette",
+      "vibrantes": "vibrant",
+      "edición": "edition",
+      "audaz": "bold",
+      "energía": "energy",
+      "juventud": "youth",
+      "vez": "time",
+      "temáticas": "themes",
+      "trascienden": "they transcend",
+      "meramente": "merely",
+      "entretenido": "entertaining",
+      "ya": "already",
+      "abordan": "they address",
+      "cuestiones": "issues",
+      "poder": "power",
+      "subvirtiendo": "subverting",
+      "tradicionales": "traditional",
+      "narración": "narration",
+      "significado": "meaning",
+      "erige": "erects",
+      "frente": "front",
+      "política": "politics",
+      "hito": "milestone",
+      "continúa": "continues",
+      "resonando": "resounding",
+      "actualidad": "relevance",
+      "maestra": "master",
+      "provocación": "provocation",
+      "artística": "artistic",
+      "bajo": "under",
+      "dirección": "direction",
+      "incomparable": "unmatched",
+      "presenta": "presents",
+      "producto": "product",
+      "desafía": "challenges",
+      "estructuras": "structures",
+      "narrativas": "narratives",
+      "visuales": "visual",
+      "través": "through",
+      "radical": "radical",
+      "juguetona": "playful",
+      "dualidad": "duality",
+      "simboliza": "symbolizes",
+      "fragmentación": "fragmentation",
+      "repleto": "full",
+      "restricciones": "restrictions",
+      "enfoque": "approach",
+      "deliberado": "deliberate",
+      "destrucción": "destruction",
+      "forma": "form",
+      "arte": "art",
+      "cuestionamientos": "questions",
+      "naturaleza": "nature",
+      "misma": "same",
+      "consumismo": "consumerism",
+      "moral": "moral",
+      "contemporánea": "contemporary",
+      "lenguaje": "language",
+      "brillantez": "brightness",
+      "cromática": "chromatic",
+      "disonancia": "dissonance",
+      "rítmica": "rhythmic",
+      "funcionan": "function",
+      "metáforas": "metaphors",
+      "anarquía": "anarchy",
+      "interna": "internal",
+      "personajes": "characters",
+      "hecho": "fact",
+      "esencia": "essence",
+      "llamado": "call",
+      "revolucionario": "revolutionary",
+      "transgrede": "transgresses",
+      "confines": "boundaries",
+      "sugiriendo": "suggesting",
+      "auténtica": "authentic",
+      "reside": "resides",
+      "capacidad": "capacity",
+      "actuar": "to act",
+      "ataduras": "bindings",
+      "privada": "private",
+      "exhibición": "exhibition",
+      "durante": "during",
+      "censuras": "censorship",
+      "ahora": "now",
+      "referente": "referent",
+      "ineludible": "inevitable",
+      "estudio": "study",
+      "subversivo": "subversive"
+    }
+  }
+}
