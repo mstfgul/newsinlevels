@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-04-2020-2020-beirut-explosion",
+    "date": "2026-08-04",
+    "year": 2020,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Damages_after_2020_Beirut_explosions_1.jpg/330px-Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "titles": {
+      "en": "Explosions and Their Impact in Beirut",
+      "de": "Die Explosion im Hafen von Beirut",
+      "fr": "L'explosion de Beyrouth en 2020",
+      "es": "La explosión del puerto de Beirut"
+    }
+  },
+  {
     "id": "2026-08-03-2019-2019-el-paso-walmart-shooting",
     "date": "2026-08-03",
     "year": 2019,
