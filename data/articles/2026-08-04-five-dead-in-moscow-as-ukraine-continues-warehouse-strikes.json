@@ -1,0 +1,2591 @@
+{
+  "id": "2026-08-04-five-dead-in-moscow-as-ukraine-continues-warehouse-strikes",
+  "date": "2026-08-04",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Five dead in Moscow as Ukraine continues warehouse strikes",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/796f/live/bd19eba0-8fd3-11f1-a999-eb18d79411a9.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Five people die in Moscow",
+        "text": "Five people die in Moscow. Ten more people are hurt. A drone hits a warehouse. The warehouse is near Moscow. Ukraine attacks this building. Many people say this warehouse gives help to the Russian army. Russia says this is not true. There are attacks in other places too. Four more people die in Ukraine. Two girls are hurt in Mykolaiv. One woman dies in Sumy. A fire starts at a warehouse. This is very sad.",
+        "vocabulary": [
+          {
+            "word": "drone",
+            "definition": "a small flying machine"
+          },
+          {
+            "word": "warehouse",
+            "definition": "a big building for storing things"
+          },
+          {
+            "word": "attack",
+            "definition": "to hurt or damage someone or something"
+          },
+          {
+            "word": "hurt",
+            "definition": "to feel pain"
+          },
+          {
+            "word": "sad",
+            "definition": "feeling unhappy"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many people die in Moscow?",
+            "options": [
+              "Five",
+              "Ten",
+              "Four"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What hits the warehouse?",
+            "options": [
+              "a rocket",
+              "a drone",
+              "a car"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Are the people in Moscow hurt?",
+            "options": [
+              "Yes",
+              "No",
+              "Not sure"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Five people killed in Moscow drone attack",
+        "text": "At least five people were killed and ten more were injured in a drone strike near Moscow. This drone attack happened late at night on a Tuesday. Ukraine carried out the attack on a warehouse that belongs to a company called Wildberries, which is often called the 'Russian Amazon.' Many people believe this company helps the Russian military, but Russia denies this claim. There have been many attacks like this recently. In other parts of Ukraine, four people died from Russian strikes. These strikes caused great sadness among families. An old woman and two girls were hurt in Mykolaiv. In a city called Sumy, a woman and two different girls lost their lives. Other attacks left several people injured, too. Fire started in the warehouse because of the drone strike, and it damaged much of the facility. The conflict continues to grow, affecting many lives on both sides.",
+        "vocabulary": [
+          {
+            "word": "drone",
+            "definition": "A small aircraft controlled remotely, often used in military actions."
+          },
+          {
+            "word": "warehouse",
+            "definition": "A large building for storing goods or products."
+          },
+          {
+            "word": "strike",
+            "definition": "An attack or raid."
+          },
+          {
+            "word": "target",
+            "definition": "To aim an attack at a specific place or thing."
+          },
+          {
+            "word": "injured",
+            "definition": "Hurt or harmed in an attack or accident."
+          },
+          {
+            "word": "conflict",
+            "definition": "A serious disagreement or fight."
+          },
+          {
+            "word": "facility",
+            "definition": "A place or equipment designed for a specific purpose."
+          },
+          {
+            "word": "damage",
+            "definition": "Physical harm that reduces value or usefulness."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Where did the drone strike happen?",
+            "options": [
+              "Near Moscow",
+              "In Ukraine",
+              "In St Petersburg"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many people were injured in the drone strike?",
+            "options": [
+              "Five",
+              "Ten",
+              "Four"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is Wildberries often referred to as?",
+            "options": [
+              "The Russian Amazon",
+              "A food company",
+              "A military supplier"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Drone strike near Moscow kills five and injures ten",
+        "text": "A drone strike near Moscow killed five people and injured ten more on Tuesday night. The governor of the region said the target was a warehouse operated by Wildberries, a well-known company often called the \"Russian Amazon.\" Ukraine has reportedly been carrying out these drone attacks on Wildberries' facilities, which many believe support the Russian military efforts. However, the Russian government denies any claims that these targets serve military purposes. At the same time, Russian attacks in Ukraine have also resulted in the deaths of four people. Reports indicated that an 89-year-old woman was among those killed, as well as two young girls, aged just two and twelve. Additional attacks in the Ukrainian region of Sumy claimed the lives of three people, including two young girls aged five and ten. The strikes caused significant fires in warehouses, leading to more injuries. Local officials stated that an industrial site in Chekhov was attacked, and seven of the injured were in moderate condition while one is serious. This ongoing violence raises deep concerns for many citizens and escalates tensions further between the two countries. If the situation continues, we may see more attacks and subsequent responses from both sides.",
+        "vocabulary": [
+          {
+            "word": "warehouse",
+            "definition": "A large building where goods or products are stored."
+          },
+          {
+            "word": "escalates",
+            "definition": "Increases in intensity or severity."
+          },
+          {
+            "word": "moderate",
+            "definition": "In the middle range of severity; neither too severe nor too mild."
+          },
+          {
+            "word": "significant",
+            "definition": "Important or noteworthy."
+          },
+          {
+            "word": "facilities",
+            "definition": "Buildings or structures used for a particular purpose."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What was the target of the drone strike near Moscow?",
+            "options": [
+              "A military base",
+              "A warehouse",
+              "A school"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many people did the Russian attacks in Ukraine reportedly kill?",
+            "options": [
+              "At least two",
+              "At least four",
+              "At least six"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What might happen if the violence continues?",
+            "options": [
+              "There could be peaceful negotiations",
+              "More attacks and responses may occur",
+              "Economic growth may increase"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Drone Strikes Result in Casualties Near Moscow",
+        "text": "On Tuesday night, a Ukrainian drone strike on a warehouse near Moscow resulted in the deaths of at least five individuals and injuries to ten others, according to the region's governor. Although the specific target was not disclosed, it is reported that Ukraine has been striking facilities used by Wildberries, a company often referred to as the 'Russian Amazon', claiming these sites support the Russian military efforts, a stance that Russia denies. Additionally, local officials indicated that similar attacks occurred on Wildberries warehouses in St Petersburg and Tver. In retaliation, Russia launched its own strikes across Ukraine, resulting in at least four fatalities and multiple injuries. The Russian defense ministry reported that they intercepted and destroyed 320 drones during the same night. Andrei Vorobyov, the governor of the Moscow region, noted that one industrial site in Novoselki, Chekhov, approximately 69 km south of the Kremlin, had been attacked, which led to a warehouse fire. He shared on Telegram that out of the ten injured, seven were in moderate condition, while one was reported to be in serious condition. Reports from Ukrainian media hint that the Moscow strike may have been connected to Wildberries. The company has not made any public statements regarding these attacks. In a separate incident, Ukraine's State Emergency Service reported that an elderly woman was killed and two girls were injured in a Russian strike hitting the southern port city of Mykolaiv.",
+        "vocabulary": [
+          {
+            "word": "strike",
+            "definition": "a sudden attack"
+          },
+          {
+            "word": "warehouse",
+            "definition": "a large building for storing goods"
+          },
+          {
+            "word": "injury",
+            "definition": "harm or damage to a person's body"
+          },
+          {
+            "word": "confirm",
+            "definition": "to state that something is true"
+          },
+          {
+            "word": "report",
+            "definition": "to give information about something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many people were injured in the drone strike near Moscow?",
+            "options": [
+              "Ten",
+              "Five",
+              "Three"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is Wildberries often referred to as?",
+            "options": [
+              "Russian Amazon",
+              "Russian military",
+              "Ukrainian company"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Where did the Moscow region governor report an industrial site was attacked?",
+            "options": [
+              "Chekhov",
+              "St Petersburg",
+              "Dnipro"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Casualties from Ukrainian Drone Strikes Near Moscow Raise Tensions",
+        "text": "In a significant escalation, a Ukrainian drone strike overnight on Tuesday targeted a warehouse close to Moscow, resulting in the tragic loss of five lives and injuring ten others, as reported by the region’s governor. The authorities have not disclosed the specific objectives of the attack; however, it is widely understood that Ukraine has recently focused its efforts on facilities associated with Wildberries, a company commonly known as the 'Russian Amazon'. Kyiv asserts that these warehouses serve the Russian military, a claim that Moscow categorically denies. Furthermore, local officials have mentioned that similar strikes were executed in the St Petersburg and Tver regions around the same time. In retaliation, the Russian military launched counterstrikes across various parts of Ukraine, leading to at least four deaths and several injuries. According to Russia's defense ministry, they claimed to have intercepted 320 drones the previous night. Andrei Vorobyov, the governor of the Moscow region, stated that the attack on the industrial facility in Novoselki, Chekhov—approximately 69 km from the Kremlin—sparked a significant fire at the warehouse. Vorobyov shared on Telegram that seven of the ten injured were in moderate status, while one was critically injured. Ukrainian media further reported that the strike in Moscow was linked to Wildberries, although the company has yet to issue a public comment. Separately, Ukraine’s State Emergency Service reported casualties in Mykolaiv, where an 89-year-old woman lost her life and two young girls were injured in a Russian strike.",
+        "vocabulary": [
+          {
+            "word": "escalation",
+            "definition": "an increase in intensity or seriousness"
+          },
+          {
+            "word": "disclose",
+            "definition": "to reveal or make known"
+          },
+          {
+            "word": "categorically",
+            "definition": "in a way that is absolute and unqualified"
+          },
+          {
+            "word": "assert",
+            "definition": "to state confidently or forcefully"
+          },
+          {
+            "word": "casualty",
+            "definition": "a person killed or injured in an accident or attack"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the Ukrainian drone strike target near Moscow?",
+            "options": [
+              "A warehouse",
+              "A military base",
+              "A residential area"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How did Russia respond to the drone strikes?",
+            "options": [
+              "By launching counterstrikes",
+              "By sending aid",
+              "By making peace"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Andrei Vorobyov say about the injured individuals?",
+            "options": [
+              "Some were in critical condition",
+              "All were safe",
+              "None were injured"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Tragedy Strikes: Ukrainian Drone Assault Claims Lives Near Moscow",
+        "text": "In a harrowing development amid ongoing hostilities, a Ukrainian drone assault occurred overnight on Tuesday, striking a warehouse in proximity to Moscow and resulting in the deaths of five individuals while injuring another ten, a grim announcement made by the region's governor highlighted. Notably, while the specific targets of the strike remain undisclosed, it has come to light that Ukraine has persistently targeted facilities affiliated with Wildberries, colloquially dubbed the 'Russian Amazon', with the Ukrainian government alleging that these depots play a crucial role in supporting Russian military operations—a claim vehemently denied by Moscow. Concomitantly, local authorities reported that Wildberries facilities were similarly attacked in the St Petersburg and Tver regions. In an apparent display of retaliation, Russian forces executed strikes across multiple locations in Ukraine, resulting in at least four fatalities and numerous injuries. Russia's defense ministry contended that 320 drones were intercepted and destroyed during these nocturnal operations. Andrei Vorobyov, the governor of Moscow's vicinity, stated that the incident in Novoselki, Chekhov—situated roughly 69 kilometers south of the Kremlin—ignited a destructive fire at the warehouse. Acknowledging the severity of the situation, Vorobyov communicated via Telegram that seven of the injured were reported in moderate condition whilst one individual was critically hurt. Ukrainian outlets, citing sources, suggested that the attacked site bore connections to Wildberries, although the company has refrained from any public commentary. In a separate yet equally tragic account, Ukraine's State Emergency Service reported that an 89-year-old woman lost her life and two young girls sustained injuries following a Russian strike in Mykolaiv, underscoring the dire consequences of the ongoing conflict.",
+        "vocabulary": [
+          {
+            "word": "harrowing",
+            "definition": "extremely distressing or painful"
+          },
+          {
+            "word": "proximity",
+            "definition": "nearness in space, time, or relationship"
+          },
+          {
+            "word": "vehemently",
+            "definition": "in a forceful, passionate, or intense manner"
+          },
+          {
+            "word": "contend",
+            "definition": "to assert or argue a position"
+          },
+          {
+            "word": "destructive",
+            "definition": "causing a great and irreparable harm"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What disaster resulted from the Ukrainian drone strike?",
+            "options": [
+              "Five people died",
+              "No one was injured",
+              "The warehouse was empty"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Moscow deny regarding Wildberries?",
+            "options": [
+              "Supporting the military",
+              "Being targeted",
+              "Being involved"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Which age group was involved in the casualty report from Mykolaiv?",
+            "options": [
+              "Elderly and young girls",
+              "Teenagers",
+              "Adults"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Fünf Tote in Moskau",
+        "text": "In Moskau gibt es ein Problem. Fünf Menschen sind gestorben. Zehn Menschen haben Verletzungen. Ein Flugzeug trifft ein Lagerhaus. Das Lagerhaus ist in der Nähe von Moskau. Ein Mann sagt das. Die Ukraine macht die Angriffe. Die Angriffe sind auf Lagerhäuser. Die Lagerhäuser sind von Wildberries. Wildberries ist ein Unternehmen. Die Ukraine sagt, die Lagerhäuser sind für die Armee. Russland sagt, das ist nicht wahr. Fünf Menschen sind in einem Krankenhaus. Die Angriffe sind nachts.",
+        "vocabulary": [
+          {
+            "word": "Problem",
+            "definition": "etwas Schwieriges"
+          },
+          {
+            "word": "gestorben",
+            "definition": "nicht mehr leben"
+          },
+          {
+            "word": "Menschen",
+            "definition": "Leute"
+          },
+          {
+            "word": "Angriff",
+            "definition": "etwas kaputt machen"
+          },
+          {
+            "word": "Krankenhaus",
+            "definition": "ein Ort für kranke Menschen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen sind gestorben?",
+            "options": [
+              "Zehn",
+              "Fünf",
+              "Drei"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer macht die Angriffe?",
+            "options": [
+              "Russland",
+              "Moskau",
+              "Die Ukraine"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was ist Wildberries?",
+            "options": [
+              "Ein Lagerhaus",
+              "Ein Unternehmen",
+              "Ein Flughafen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Fünf Tote nach einem Angriff in Moskau",
+        "text": "In der Nacht gab es einen großen Angriff in der Nähe von Moskau. Fünf Menschen sind tot und zehn Menschen sind verletzt. Die Ukraine hat mit Drohnen ein Lagerhaus angegriffen. Wildberries betreibt diese Lagerhäuser und ist bekannt als das \"russische Amazon\". Die Ukraine sagt, die Lagerhäuser sind für die russische Armee wichtig, aber Russland hat das bestritten. Der Gouverneur von Moskau, Andrei Vorobyov, sagt, ein Unfall passiert in einem Industriegebiet. Dort brennt ein Lagerhaus. Sieben der verletzten Personen sind in einem stabilen Zustand, aber eine Person ist schwer verletzt. In den letzten Wochen hat die Ukraine viele Angriffe auf ähnliche Ziele durchgeführt. Währenddessen hat Russland auch Angriffe auf die Ukraine gestartet und mindestens vier Menschen getötet. In Mykolaiv ist eine alte Frau gestorben. Zwei Mädchen sind verletzt nach einem anderen Angriff. Die Situation bleibt sehr gefährlich für viele Menschen.",
+        "vocabulary": [
+          {
+            "word": "Angriff",
+            "definition": "eine gewaltsame Attacke auf jemanden oder etwas."
+          },
+          {
+            "word": "Lagerhaus",
+            "definition": "ein Gebäude, wo Waren gelagert werden."
+          },
+          {
+            "word": "verwundet",
+            "definition": "jemand, der durch einen Angriff oder Unfall verletzt ist."
+          },
+          {
+            "word": "Industriegebiet",
+            "definition": "ein Bereich, wo viele Fabriken und Lagerhäuser sind."
+          },
+          {
+            "word": "Stabil",
+            "definition": "sicher und nicht in Gefahr."
+          },
+          {
+            "word": "Brennt",
+            "definition": "wenn etwas Feuer hat und brennt."
+          },
+          {
+            "word": "militärisch",
+            "definition": "etwas, das mit dem Militär zu tun hat."
+          },
+          {
+            "word": "gefährlich",
+            "definition": "etwas, das Risiken oder Gefahren hat."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen sind verletzt nach dem Angriff?",
+            "options": [
+              "Fünf",
+              "Zehn",
+              "Drei"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagt die Ukraine über die Lagerhäuser?",
+            "options": [
+              "Sie sind für die Zivilbevölkerung wichtig.",
+              "Sie sind für die russische Armee wichtig.",
+              "Sie sind nicht wichtig."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Menschen starben in Mykolaiv?",
+            "options": [
+              "Eine alte Frau",
+              "Zwei Mädchen",
+              "Ein Junge"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Drohnenangriff in der Nähe von Moskau: Fünf Tote und mehrere Verletzte",
+        "text": "In der Nacht zum Dienstag gab es einen ernsthaften Drohnenangriff in der Nähe von Moskau. Nach Angaben des Gouverneurs von Moskau sind fünf Menschen gestorben und zehn weitere wurden verletzt. Der Angriff traf ein Lagerhaus, das zu Wildberries gehört. Diese Lagerhauskette wird oft als das russische Amazon bezeichnet. Die Ukraine hat in den letzten Wochen immer wieder Angriffe auf solche Einrichtungen durchgeführt, weil sie sagt, dass diese Lager zur Unterstützung der russischen Armee benutzt werden. Russland bestreitet dies jedoch und behauptet, dass die Lagerhäuser nur für zivile Zwecke genutzt werden. Nach dem Angriff berichteten lokale Behörden auch von Angriffen in St. Petersburg und Twer. Dort wurden weitere Lagerhäuser von Wildberries getroffen, was die Besorgnis über die Eskalation des Konflikts vergrößert. Die Zahl der Opfer könnte steigen, da viele Menschen schwer verletzt sind. Der Gouverneur Andrei Vorobyov erklärte, dass sieben der verletzten Personen in einem stabilen, aber moderaten Zustand sind. Ein weiteres ernstes Ereignis war in Mykolaiv. Dort starb eine 89-jährige Frau bei einem Angriff. Zudem wurden zwei Mädchen im Alter von zwei und zwölf Jahren verletzt. Die Situation in der Region bleibt angespannt, da Russland auch wieder Luftangriffe auf verschiedene Teile der Ukraine gestartet hat. In diesem Zusammenhang könnte der Konflikt möglicherweise noch intensiver werden, wenn keine Gespräche über einen Frieden stattfinden.",
+        "vocabulary": [
+          {
+            "word": "ernsthaft",
+            "definition": "in serious or dangerous way"
+          },
+          {
+            "word": "aller Wahrscheinlichkeit nach",
+            "definition": "very likely"
+          },
+          {
+            "word": "eskalieren",
+            "definition": "to get worse and more serious"
+          },
+          {
+            "word": "anstrengend",
+            "definition": "difficult and tiring"
+          },
+          {
+            "word": "Zivilisten",
+            "definition": "people who are not members of the military"
+          },
+          {
+            "word": "Luftangriff",
+            "definition": "air attack conducted from planes"
+          },
+          {
+            "word": "Wagenladung",
+            "definition": "the load or goods carried by a vehicle"
+          },
+          {
+            "word": "Verletzte",
+            "definition": "injured people"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen sind durch den Drohnenangriff gestorben?",
+            "options": [
+              "Fünf",
+              "Zehn",
+              "Acht"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was sagt die Ukraine über die Lagerhäuser von Wildberries?",
+            "options": [
+              "Sie sind für die Zivilbevölkerung",
+              "Sie werden zur Unterstützung der Armee genutzt",
+              "Sie sind nur für den Export bestimmt"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was passierte in Mykolaiv?",
+            "options": [
+              "Eine Frau starb",
+              "Ein Lagerhaus wurde zerstört",
+              "Die Stadt wurde evakuiert"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Fünf Tote in Moskau bei ukrainischem Drohnenangriff",
+        "text": "Mindestens fünf Menschen wurden getötet und zehn weitere verletzt, als ein ukrainischer Drohnenangriff ein Lagerhaus in der Nähe von Moskau traf, wie der Gouverneur der Region mitteilte. Er gab nicht an, was genau das Ziel war, jedoch führt die Ukraine in den letzten Wochen Angriffe auf Einrichtungen von Wildberries durch. Dieses Unternehmen wird oft als \"russisches Amazon\" bezeichnet. Kiew behauptet, dass die Depots zur Versorgung des russischen Militärs genutzt werden, was Moskau jedoch bestreitet. Außerdem berichteten lokale Behörden, dass auch Lagerhäuser von Wildberries in den Regionen St. Petersburg und Twer angegriffen wurden. Russland selbst startete Gegenangriffe auf Teile der Ukraine und tötete dabei mindestens vier Menschen und verletzte mehrere weitere. Das Verteidigungsministerium Russlands gab an, dass 320 Drohnen in der Nacht abgefangen und zerstört wurden. Der Gouverneur der Region Moskau, Andrei Vorobyov, berichtete von einem Angriff auf ein Industriegebiet in Novoselki, Chekhov, etwa 69 km südlich des Kremls. Dabei kam es zu einem Brand in einem Lagerhaus. Er teilte auf Telegram mit, dass sieben der zehn Verletzten in einem stabilen Zustand seien, während sich einer in einem kritischen Zustand befinde. Ukrainische Medien berichteten, dass der Angriff in Moskau mit Wildberries in Verbindung steht. Das Unternehmen hat sich dazu nicht öffentlich geäußert, bestätigte jedoch, dass eine seiner Einrichtungen in St. Petersburg getroffen wurde.",
+        "vocabulary": [
+          {
+            "word": "Drohnenangriff",
+            "definition": "Ein Angriff mit einem unbemannten Flugzeug."
+          },
+          {
+            "word": "Lagerhaus",
+            "definition": "Ein Ort, wo Waren gelagert werden."
+          },
+          {
+            "word": "Gouverneur",
+            "definition": "Der Leiter einer Region oder eines Bundeslandes."
+          },
+          {
+            "word": "Verteidigungsministerium",
+            "definition": "Die Regierungsbehörde, die für die Verteidigung verantwortlich ist."
+          },
+          {
+            "word": "Industriegebiet",
+            "definition": "Ein Ort, wo Fabriken und Unternehmen sind."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden bei dem Drohnenangriff getötet?",
+            "options": [
+              "Drei Personen",
+              "Fünf Personen",
+              "Zehn Personen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer hat den Angriff auf das Lagerhaus bestätigt?",
+            "options": [
+              "Die ukrainische Regierung",
+              "Wildberries",
+              "Die russische Regierung"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo befindet sich das Industriegebiet, das angegriffen wurde?",
+            "options": [
+              "In der Nähe von St. Petersburg",
+              "In der Nähe von Twer",
+              "In der Nähe des Kremls"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "Drohnenangriff in Moskau fordert fünf Todesopfer",
+        "text": "Bei einem nächtlichen Drohnenangriff der Ukraine auf ein Lagerhaus nahe Moskau sind mindestens fünf Personen ums Leben gekommen, während zehn weitere verletzt wurden, wie die regionale Regierung mitteilte. Obwohl die genauen Zielvorgaben des Angriffs nicht spezifiziert wurden, ist bekannt, dass die Ukraine in den letzten Wochen wiederholt Einrichtungen, die von Wildberries betrieben werden, angegriffen hat. Diese amerikanische Plattform wird mittlerweile oft als \"russisches Amazon\" benannt. Kiew hebt hervor, dass die Depots, die von Wildberries verwaltet werden, zur Unterstützung der russischen Streitkräfte dienen sollen, während Moskau diese Behauptungen vehement bestreitet. Lokale Behörden berichteten zudem von ähnlichen Angriffen auf Wildberries-Standorte in St. Petersburg und Twer. In der Zwischenzeit hat Russland in einer weiteren Offensive Teile der Ukraine angegriffen, was mindestens vier zivile Opfer und viele Verletzte zur Folge hatte. Das Verteidigungsministerium Russlands erklärte, 320 feindliche Drohnen seien während der Nacht neutralisiert worden. Laut dem Gouverneur Andrei Vorobyov wurde ein Industriekomplex in Novoselki in Chekhov, etwa 69 km südlich des Kremls, angegriffen, was einen Brand an einem Lagerhaus auslöste. In einem Telegram-Beitrag erwähnte er, dass sich sieben der zehn Verletzten in einem stabilen, jedoch kritischen Gesundheitszustand befinden. Berichten zufolge ist dieser Angriff mit Wildberries assoziiert, wobei das Unternehmen bislang auf Anfragen nicht reagiert hat. Auch eine seiner Einrichtungen in St. Petersburg wurde getroffen.",
+        "vocabulary": [
+          {
+            "word": "Zielvorgabe",
+            "definition": "Die spezifischen Ziele eines Angriffs."
+          },
+          {
+            "word": "Offensive",
+            "definition": "Eine geplante militärische Aktion."
+          },
+          {
+            "word": "neutralisieren",
+            "definition": "Eine Bedrohung unschädlich machen."
+          },
+          {
+            "word": "Berichten zufolge",
+            "definition": "Laut verschiedenen Informationen."
+          },
+          {
+            "word": "Telegram-Beitrag",
+            "definition": "Eine Mitteilung oder Nachricht auf Telegram."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was geschah bei dem Drohnenangriff?",
+            "options": [
+              "Ein Werk wurde rekonstruiert.",
+              "Menschen wurden verletzt und getötet.",
+              "Das Lagerhaus wurde dennoch gerettet."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was behauptet Kiew über die Lagerhäuser?",
+            "options": [
+              "Sie sind sicher.",
+              "Sie versorgen das Militär.",
+              "Sie sind nicht wichtig."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer war der Gouverneur der Region Moskau?",
+            "options": [
+              "Andrei Vorobyov",
+              "Vladimir Putin",
+              "Oleksandr Makarov"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Moskau unter beschleunigter Bedrohung: Fünf Menschenleben gefordert durch ukrainischen Drohnenangriff",
+        "text": "In der Nacht zum Dienstag kam es zu einem verheerenden Drohnenangriff der Ukraine auf ein Lagerhaus in unmittelbarer Nähe von Moskau, bei dem, wie der Gouverneur der Region ausdrücklich anmerkte, mindestens fünf Menschen getötet und zehn weitere verletzt wurden. Die genauen Zielobjekte wurden von den Behörden nicht deliniert, jedoch ist zu bemerken, dass seit Wochen die Ukraine gezielt Einrichtungen der Wildberries GmbH ins Visier nimmt – oftmals als das \"russische Amazon\" bezeichnet. Kiew unterstreicht, dass diese Depots in Wirklichkeit zur logistischen Unterstützung der russischen Streitkräfte dienen sollen, was Moscows offizielle Stellen vehement bestreiten. Gleichzeitig berichteten lokale Akteure über Angriffe auf Wildberries-Lagerhäuser in den Regionen St. Petersburg und Twer. Im selben Atemzug bombardierte Russland andere Teile der Ukraine, was zu mindestens vier Toten und zahlreichen Verletzten führte. Das Verteidigungsministerium der Russischen Föderation verkündete die Abfangung und Zerschlagung von 320 feindlichen Drohnen in der vergangenen Nacht. Andrei Vorobyov, der Gouverneur des Moskauer Gebiets, berichtete von einem Angriff auf ein Industrieareal in Novoselki, Chekhov, etwa 69 km südlich des Kremls, wo ein Lagerhaus Feuer fing. Unter den Verletzten, die vor allem durch den Brand betroffen waren, befanden sich laut Vorobyov sieben in einem stabilen und einer in einem kritischen Gesundheitszustand. Ukrainische Medien postulierten, dass der angegriffene Standort in Verbindung zu Wildberries steht. Während das Unternehmen bis dato keine öffentliche Stellungnahme abgab, bestätigte es jedoch den Angriff auf seine St. Petersburger Einrichtung. Parallel dazu gab die ukrainische Notfalldienstagentur bekannt, dass eine 89-jährige Frau in Mykolaiv getötet wurde und unter den sieben Verletzten zwei Mädchen im Alter von zwei und zwölf Jahren sind. Zudem starben in Sumy eine Frau und zwei Mädchen im Alter von fünf und zehn Jahren durch einen weiteren russischen Angriff, während in Bilhorod-Dnistrovskyi zwei Menschen Verletzungen erlitten und in Dnipro ein Lebensmittel-Lagerhaus in Flammen aufging.",
+        "vocabulary": [
+          {
+            "word": "verheerend",
+            "definition": "Sehr schädlich oder dramatisch."
+          },
+          {
+            "word": "delinieren",
+            "definition": "Genau angeben oder definieren."
+          },
+          {
+            "word": "logistisch",
+            "definition": "Die Planung und Durchführung von Warenbewegungen betreffend."
+          },
+          {
+            "word": "Bombardierung",
+            "definition": "Ein gezielter Angriff mit Bomben."
+          },
+          {
+            "word": "postulieren",
+            "definition": "Eine Behauptung aufstellen oder vortragen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden verletzt?",
+            "options": [
+              "Zehn Menschen",
+              "Drei Menschen",
+              "Hundert Menschen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was geschah mit den Lagerhäusern von Wildberries?",
+            "options": [
+              "Sie wurden nicht angegriffen.",
+              "Sie wurden ebenfalls attackiert.",
+              "Sie wurden rekonstruiert."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Stadt wurde als Ort des Angriffs auf eine Frau erwähnt?",
+            "options": [
+              "Mykolaiv",
+              "Kiew",
+              "Charkiw"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Cinq morts à Moscou",
+        "text": "Il y a cinq morts à Moscou. Dix personnes sont blessées. Une attaque vient d'Ukraine. Les drones attaquent des dépôts. Ces dépôts sont près de Moscou. Les dépôts appartiennent à Wildberries. C'est une grande entreprise en Russie. Les autorités disent que l'armée russe utilise ces dépôts. Moscou dit que ce n'est pas vrai. Les attaques se passent aussi à Mykolaiv. Une femme de 89 ans est morte là-bas. Deux petites filles sont blessées. Les frappes continuent en Ukraine.",
+        "vocabulary": [
+          {
+            "word": "mort",
+            "definition": "une personne qui ne vit plus"
+          },
+          {
+            "word": "blesse",
+            "definition": "une personne qui a une blessure"
+          },
+          {
+            "word": "attaque",
+            "definition": "un acte de violence"
+          },
+          {
+            "word": "entreprise",
+            "definition": "une société ou un commerce"
+          },
+          {
+            "word": "dépôts",
+            "definition": "des lieux pour stocker des choses"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de personnes sont mortes ?",
+            "options": [
+              "Cinq",
+              "Dix",
+              "Vingt"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui attaque les dépôts ?",
+            "options": [
+              "L'armée russe",
+              "Ukraine",
+              "Les États-Unis"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wildberries est une grande ?",
+            "options": [
+              "entreprise",
+              "école",
+              "ville"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Cinq personnes tuées à Moscou",
+        "text": "Cinq personnes sont mortes après une attaque avec des drones. Cette attaque vient d'Ukraine et a eu lieu près de Moscou. Dix autres personnes sont blessées. Le gouverneur de la région dit que l'attaque a touché un dépôt de Wildberries. Wildberries est une grande société connue en Russie, souvent comparée à Amazon. Les autorités affirment que des dépôts de Wildberries servent l'armée russe, mais Moscou dit que ce n'est pas vrai. Pendant ce temps, en Ukraine, une femme de 89 ans a été tuée à Mykolaiv. Ses deux petites filles sont blessées. En tout, sept personnes sont blessées dans cette ville. Les frappes continuent en Ukraine. Un autre groupe de personnes a souffert à Sumy, où une femme et deux jeunes filles ont été tuées. La situation est très grave et il y a beaucoup de victimes. Les conflits entre la Russie et l'Ukraine causent beaucoup de souffrances.",
+        "vocabulary": [
+          {
+            "word": "drones",
+            "definition": "Appareils volants sans pilote souvent utilisés pour des attaques."
+          },
+          {
+            "word": "dépot",
+            "definition": "Un endroit où l'on stocke des marchandises."
+          },
+          {
+            "word": "victimes",
+            "definition": "Personnes qui souffrent à cause d'un événement violent."
+          },
+          {
+            "word": "situation",
+            "definition": "L'état des choses ou des éléments dans un contexte."
+          },
+          {
+            "word": "frappes",
+            "definition": "Attaques souvent aériennes contre des cibles."
+          },
+          {
+            "word": "blessées",
+            "definition": "Personnes qui ont subi des blessures."
+          },
+          {
+            "word": "gouverneur",
+            "definition": "Personne qui dirige une région ou une province."
+          },
+          {
+            "word": "armée",
+            "definition": "Force militaire d'un pays."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de personnes sont mortes à Moscou ?",
+            "options": [
+              "Cinq",
+              "Dix",
+              "Sept"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle société est touchée par l'attaque ?",
+            "options": [
+              "Amazon",
+              "Wildberries",
+              "Moscou"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Où une femme de 89 ans a-t-elle été tuée ?",
+            "options": [
+              "À Moscou",
+              "À Mykolaiv",
+              "À Sumy"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Cinq morts et plusieurs blessés à Moscou",
+        "text": "Une attaque au drone ukrainien a causé la mort de cinq personnes à Moscou, dans la nuit de mardi dernier. Cette attaque a eu lieu près d'un dépôt de Wildberries, une entreprise qui est souvent comparée à l'Amazon russe. De plus, dix autres personnes ont été blessées lors de cette frappe. Selon certains témoins, cette région est devenue une cible principale pour les frappes ukrainiennes, car Kyiv affirme que ces dépôts sont utilisés pour approvisionner l'armée russe, une information que Moscou continue de nier. \n\nDes attaques similaires ont eu lieu dans d'autres villes, comme Mykolaiv, où une femme de 89 ans a tragiquement perdu la vie. En fait, il y a eu aussi des victimes à Sumy, où une mère et ses deux jeunes filles ont été tuées. C'est une situation très préoccupante pour les autorités locales, qui disent que ces frappes mettent en danger de nombreuses vies. Dans la réponse de la Russie, la défense aérienne a déclaré avoir intercepté et détruit plus de 320 drones en quelques heures. \n\nCes événements illustrent l'intensification du conflit entre la Russie et l'Ukraine. Si cette violence continue, cela pourrait mener à une escalade des tensions dans toute la région. La population commence à craindre pour sa sécurité, face à des frappes qui se multiplient. La situation provient de décennies de tensions politiques entre les deux pays, qui semblent s'aggraver chaque jour.",
+        "vocabulary": [
+          {
+            "word": "approvisionner",
+            "definition": "fournir des biens ou des services à quelqu'un, en particulier en ce qui concerne la nourriture ou le matériel."
+          },
+          {
+            "word": "tragiquement",
+            "definition": "d'une manière qui cause de la tristesse ou de la douleur."
+          },
+          {
+            "word": "escalader",
+            "definition": "augmenter ou intensifier, souvent en référence à une situation conflictuelle."
+          },
+          {
+            "word": "témoins",
+            "definition": "des personnes qui ont vu un événement se produire."
+          },
+          {
+            "word": "préoccupante",
+            "definition": "qui cause de l'inquiétude ou de l'angoisse."
+          },
+          {
+            "word": "intercepter",
+            "definition": "attraper ou empêcher quelque chose d'atteindre une destination."
+          },
+          {
+            "word": "dépôt",
+            "definition": "un endroit où des marchandises sont stockées."
+          },
+          {
+            "word": "population",
+            "definition": "le groupe de personnes vivant dans une zone particulière."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel événement tragique a eu lieu à Moscou ?",
+            "options": [
+              "Une victoire militaire de la Russie",
+              "Une attaque au drone ukrainien",
+              "Une célébration nationale"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui a été la cible de l'attaque ukrainienne selon Kyiv ?",
+            "options": [
+              "Les dépôts de nourriture",
+              "Les installations de Wildberries",
+              "Les maisons des habitants"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle a été la réaction de la défense aérienne de la Russie ?",
+            "options": [
+              "Ils ont ignoré l'attaque.",
+              "Ils ont intercepté des drones.",
+              "Ils ont attaqué Kyiv."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Cinq morts à Moscou après des frappes ukrainiennes sur un entrepôt",
+        "text": "Au moins cinq personnes ont perdu la vie et dix autres ont été blessées suite à une frappe de drone ukrainien sur un entrepôt situé près de Moscou, survenue dans la nuit de mardi, selon le gouverneur de la région. Bien que l'officiel n’ait pas précisé ce qui avait été ciblé, l'Ukraine a mené des attaques sur des installations gérées par Wildberries ces dernières semaines, souvent considéré comme l'« Amazon russe ». Kyiv soutient que ces dépôts sont utilisés pour approvisionner l'armée russe, accusation que Moscou dément. Des responsables locaux ont également signalé que les entrepôts de Wildberries avaient été frappés dans les régions de Saint-Pétersbourg et de Tver durant la nuit. Parallèlement, la Russie a lancé des frappes contre certaines zones de l'Ukraine, causant la mort d'au moins quatre personnes et blessant plusieurs autres. Le ministère de la Défense russe a déclaré avoir intercepté et détruit 320 drones au cours de la nuit. Le gouverneur de la région de Moscou, Andrei Vorobyov, a rapporté qu'un site industriel à Novoselki, Chekhov – situé à environ 69 km au sud du Kremlin – avait été attaqué, ce qui a déclenché un incendie dans l'entrepôt. Il a noté sur Telegram que sept des dix blessés se trouvaient dans un état modéré, tandis qu'une personne était dans un état grave. Les médias ukrainiens ont fait état d'un lien entre le site de la frappe moscovite et Wildberries. Bien que l'entreprise n'ait pas commenté publiquement, elle a confirmé que ses installations à Saint-Pétersbourg avaient été touchées. En outre, la Service d'Urgence d'État d'Ukraine a signalé qu'une femme de 89 ans avait été tuée et que deux filles, âgées de deux et douze ans, figuraient parmi les blessés d'une attaque russe sur la ville portuaire de Mykolaïv durant la nuit.",
+        "vocabulary": [
+          {
+            "word": "frappe",
+            "definition": "attaque avec des missiles ou des bombes."
+          },
+          {
+            "word": "entrepôt",
+            "definition": "grand bâtiment utilisé pour stocker des marchandises."
+          },
+          {
+            "word": "bilan",
+            "definition": "nombre de personnes touchées ou affectées par un événement."
+          },
+          {
+            "word": "aider",
+            "definition": "fournir un soutien ou de l'assistance à quelqu'un."
+          },
+          {
+            "word": "témoignage",
+            "definition": "déclaration d'une personne qui a vu ou vécu quelque chose."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de personnes ont été tuées suite à la frappe de drone?",
+            "options": [
+              "Trois",
+              "Cinq",
+              "Dix"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel site a été ciblé par l'Ukraine près de Moscou?",
+            "options": [
+              "Un centre commercial",
+              "Un entrepôt Wildberries",
+              "Un bâtiment gouvernemental"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels étaient les âges des deux filles blessées à Mykolaïv?",
+            "options": [
+              "Cinq et dix ans",
+              "Deux et douze ans",
+              "Huit et onze ans"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Cinq victimes à Moscou : frappes ukrainiennes sur un entrepôt",
+        "text": "Au cours de la nuit de mardi, un drone ukrainien a frappé un entrepôt aux abords de Moscou, causant la mort d’au moins cinq individus et blessant une dizaine d’autres, d’après les déclarations du gouverneur de cette région. Même si la cible exacte n’a pas été précisée, les tensions entre l’Ukraine et la Russie se sont exacerbées récemment, les autorités ukrainiennes affirmant que des installations de Wildberries, surnommée l'« Amazon russe », seraient utilisées pour soutenir les efforts militaires russes, ce que Moscou conteste fermement. En outre, il a été rapporté que des entrepôts de Wildberries ont également été touchés dans les régions de Saint-Pétersbourg et de Tver durant cette même nuit. En réponse, la Russie a mené des frappes contre divers objectifs en Ukraine, faisant au moins quatre victimes et des blessés dans plusieurs villes. Le ministère russe de la Défense a transmis avoir intercepté et neutralisé 320 drones pendant la nuit. Andrei Vorobyov, gouverneur de la région de Moscou, a indiqué qu’un site industriel à Novoselki, situé à environ 69 km au sud du Kremlin, avait été attaqué, ce qui a entraîné un incendie dans l’entrepôt. D’après ses déclarations sur la plateforme Telegram, sept des dix blessés étaient dans un état modéré, tandis qu'un se trouvait dans une condition grave. Les médias ukrainiens évoquent un lien entre le site frappé et Wildberries, bien que cette dernière ait confirmé seulement son impact à Saint-Pétersbourg. Enfin, en parallèle, la Service d’Urgence d’État ukrainienne a rapporté qu’une femme de 89 ans avait été tuée à Mykolaïv, où deux filles, âgées de deux et douze ans, faisaient également partie des blessés.",
+        "vocabulary": [
+          {
+            "word": "exacerber",
+            "definition": "rendre une situation plus intense ou plus difficile."
+          },
+          {
+            "word": "neutraliser",
+            "definition": "empêcher quelque chose de nuire ou de faire effet."
+          },
+          {
+            "word": "témoigner",
+            "definition": "donner une déclaration à propos de ce que l’on a vu ou vécu."
+          },
+          {
+            "word": "indiqué",
+            "definition": "mentionné ou signalé comme étant important."
+          },
+          {
+            "word": "plateforme",
+            "definition": "espace numérique pour partager des informations ou discuter."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type d'attaque a eu lieu près de Moscou?",
+            "options": [
+              "Une attaque aérienne",
+              "Une frappe de drone",
+              "Un bombardement terrestre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle région se trouve à 69 km au sud du Kremlin?",
+            "options": [
+              "Novoselki",
+              "Saint-Pétersbourg",
+              "Tver"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui a déclaré avoir intercepté des drones?",
+            "options": [
+              "Le gouverneur",
+              "Le ministère de la Défense russe",
+              "La Service d’Urgence d'État"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Cinq morts à Moscou : un nouveau chapitre des frappes ukrainiennes",
+        "text": "Moscou s’est réveillée ce mercredi dans le tumulte après qu’au moins cinq personnes aient été déclarées mortes à la suite d’une frappe nocturne de drone menée par l’Ukraine sur un entrepôt situé en périphérie de la capitale. Les autorités régionales, avec à leur tête le gouverneur Andrei Vorobyov, ont confirmé que dix autres individus avaient également été blessés, tandis que le motif de cette attaque reste sujet à débat. L’Ukraine, justifiant ses actions par la présumée utilisation militaire des dépôts de Wildberries – souvent désigné en termes élogieux comme l'« Amazon russe » – a intensifié ses frappes ces dernières semaines, espérant ainsi affaiblir l'approvisionnement de l'armement russe. Ce que conteste la Russie avec véhémence, insistant sur le fait que ces installations sont purement commerciales. Cette nouvelle escalade des violences est survenue alors que la Russie met en œuvre des représailles en bombardant diverses localités ukrainiennes, causant au moins quatre morts dans ce pays. Le ministère de la Défense russe a d’ailleurs déclaré avoir abattu 320 drones au cours de la nuit, référence à un engagement militaire qui se durcit. Les médias ukrainiens, rapportant les événements, ont établi un lien entre ce site moscovite et Wildberries, tandis que l'entreprise s’est limitée à confirmer l'attaque à Saint-Pétersbourg. Dans un contexte tragique, la Service d'Urgence d'État d'Ukraine a noté, entre autres, le décès d'une octogénaire à Mykolaïv et plusieurs blessés, notamment deux jeunes filles de deux et douze ans. Ce panorama de désolation questionne les controverses géopolitiques sous-jacentes qui motivent ces actes de guerre contemporaine.",
+        "vocabulary": [
+          {
+            "word": "tumulte",
+            "definition": "désordre ou agitation intense dans une situation donnée."
+          },
+          {
+            "word": "justifier",
+            "definition": "expliquer les raisons d'une action ou d'une décision."
+          },
+          {
+            "word": "représailles",
+            "definition": "actions de vengeance prises en réponse à un acte considéré comme agressif."
+          },
+          {
+            "word": "octogénaire",
+            "definition": "personne âgée de quatre-vingts ans ou plus."
+          },
+          {
+            "word": "panorama",
+            "definition": "vue d'ensemble ou aperçu global d'une situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Comment les autorités russes ont-elles réagi à la frappe en termes de pertes?",
+            "options": [
+              "Elles ont nié tout décès.",
+              "Elles ont confirmé plusieurs victimes.",
+              "Elles ont annoncé une riposte imminente."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel était le motif présumé des frappes ukrainiennes?",
+            "options": [
+              "Affaiblir l'approvisionnement militaire russe.",
+              "Protéger les civils ukrainiens.",
+              "Attaquer des cibles non militaires."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quels conseils a émis la Service d'Urgence d'État d'Ukraine?",
+            "options": [
+              "Ils ont demandé aux habitants de fuir.",
+              "Ils ont noté les décès dans la population.",
+              "Ils ont conseillé de rester à l'intérieur."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Atentado en Moscú",
+        "text": "Cinco personas están muertas. Diez personas tienen heridas. Un drone de Ucrania ataca. El ataque es en un almacén. El almacén está cerca de Moscú. El gobernador habla de esto. Dicen que son ataques a los militares rusos. Hay incendios en el almacén. La guerra sigue. También hay ataques en Ucrania. Cuatro personas están muertas en Ucrania. Muchas personas tienen heridas. En un puerto, una mujer es muerta. Dos niñas están heridas. La violencia no para. Hay mucha tensión en la región. Estos ataques son parte del conflicto. Nadie quiere una guerra larga. Las personas quieren paz y seguridad.",
+        "vocabulary": [
+          {
+            "word": "almacén",
+            "definition": "lugar donde guardan cosas"
+          },
+          {
+            "word": "incendio",
+            "definition": "fuego grande que destruye"
+          },
+          {
+            "word": "tensión",
+            "definition": "situación de estrés o conflicto"
+          },
+          {
+            "word": "región",
+            "definition": "zona o área específica"
+          },
+          {
+            "word": "conflicto",
+            "definition": "situación de lucha o disputa"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas están heridas en el ataque?",
+            "options": [
+              "Cinco",
+              "Diez",
+              "Cuatro"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde está el almacén?",
+            "options": [
+              "Cerca de Moscú",
+              "En Ucrania",
+              "En St. Petersburg"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué quieren las personas en la región?",
+            "options": [
+              "Más guerras",
+              "Paz y seguridad",
+              "Más incendios"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ataque en un almacén cerca de Moscú",
+        "text": "Cinco personas mueren en un ataque con drone de Ucrania. El ataque ocurre cerca de Moscú en la noche del martes. Hay diez personas con heridas, y algunas están en estado grave. El almacén atacado es de una empresa llamada Wildberries, que es famosa en Rusia. Hace unas semanas, Ucrania ataca depósitos de Wildberries porque cree que son usados por el ejército ruso. El gobernador de la región habla sobre la situación y dice que este ataque es muy preocupante. En Ucrania, también hay ataques rusos que causan muertes. Cuatro personas mueren en un ataque en la ciudad de Mykolaiv. Dos niñas están heridas en el puerto de esa ciudad. El servicio de emergencias ayuda a las víctimas. La violencia continúa en esta guerra, y la gente está muy preocupada porque hay muchos heridos. La situación es tensa y la tristeza se siente en las calles.",
+        "vocabulary": [
+          {
+            "word": "almacén",
+            "definition": "un lugar donde se guardan productos o mercancías."
+          },
+          {
+            "word": "herido",
+            "definition": "una persona que ha sufrido una lesión."
+          },
+          {
+            "word": "atacar",
+            "definition": "agredir a alguien o algo."
+          },
+          {
+            "word": "emergencias",
+            "definition": "situaciones críticas en las que se necesita ayuda inmediata."
+          },
+          {
+            "word": "víctimas",
+            "definition": "personas que sufren daño o afectan por un evento."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas mueren en el ataque en el almacén?",
+            "options": [
+              "Cinco",
+              "Ocho",
+              "Diez"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué empresa está relacionada con el ataque?",
+            "options": [
+              "Wildberries",
+              "Amazon",
+              "Mykolaiv"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde hubo un ataque que mató a cuatro personas?",
+            "options": [
+              "Cerca de Moscú",
+              "En Mykolaiv",
+              "En el puerto"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ataque ucraniano en un almacén cerca de Moscú",
+        "text": "En la noche del martes, cinco personas fueron asesinadas en un ataque con drone de Ucrania en un almacén que se encuentra a las afueras de Moscú. Este incidente ha aumentado la tensión en la región, donde el gobernador confirmó que diez personas estaban heridas, y algunas de ellas se encuentran en estado grave. El ataque fue dirigido contra el almacén de Wildberries, que se considera el 'Amazon ruso'. Según Ucrania, estos almacenes apoyan a las fuerzas armadas rusas, pero el gobierno de Moscú lo ha negado rotundamente. Además, hubo un incendio significativo en el sitio del ataque, lo que complicó las labores de rescate y el control de daños.\n\nA su vez, en la ciudad portuaria de Mykolaiv, otro ataque ruso resultó en la muerte de una mujer de 89 años y dejó a dos niñas heridas. La guerra en Ucrania ha incrementado la violencia, afectando tanto a militares como a civiles, y cada día se reportan más ataques. Si la situación continúa así, es probable que más personas inocentes sufran. Además, se han lanzado ataques rusos contra áreas civiles, ensombreciendo aún más el panorama. En este contexto, la comunidad internacional observa con preocupación la escalada de violencia, y muchos piden que ambas partes busquen soluciones pacíficas. Sin duda, la situación es muy tensa en todas las regiones afectadas y se necesita un alto al fuego urgente.",
+        "vocabulary": [
+          {
+            "word": "almacén",
+            "definition": "Un lugar donde se guardan o almacenan cosas, como mercancías o productos."
+          },
+          {
+            "word": "incendio",
+            "definition": "Fuego grande que puede causar destrucción."
+          },
+          {
+            "word": "tensión",
+            "definition": "El estado de incomodidad o conflicto entre dos partes."
+          },
+          {
+            "word": "incidente",
+            "definition": "Un evento o situación que ocurre, a menudo de forma inesperada."
+          },
+          {
+            "word": "rescate",
+            "definition": "La acción de salvar a alguien o algo de una situación peligrosa."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas murieron en el ataque con drone en Moscú?",
+            "options": [
+              "Cinco",
+              "Diez",
+              "Ocho"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién confirmó que diez personas estaban heridas?",
+            "options": [
+              "El presidente",
+              "El gobernador",
+              "Un periodista"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ciudad sufrió otro ataque ruso que resultó en muertes?",
+            "options": [
+              "St. Petersburgo",
+              "Mykolaiv",
+              "Sumy"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Cinco muertos en Moscú tras ataques a almacenes de Ucrania",
+        "text": "Al menos cinco personas murieron y diez más resultaron heridas en un ataque con drones ucranianos a un almacén cercano a Moscú, según informó el gobernador de la región. Aunque no especificó qué instalaciones habían sido atacadas, se ha sabido que en las últimas semanas Ucrania realizó operaciones contra centros operados por Wildberries, a menudo denominado el \"Amazonas ruso\". Kyiv afirma que estos depósitos se utilizan para abastecer al ejército ruso, algo que Moscú niega. Además, autoridades locales detallaron que los almacenes de Wildberries también fueron objeto de ataques en regiones como San Petersburgo y Tver. Por su parte, Rusia lanzó ataques contra partes de Ucrania, provocando la muerte de al menos cuatro personas y lesiones en varias más. El Ministerio de Defensa ruso comunicó que interceptó y destruyó 320 drones durante la noche. Andrei Vorobyov, gobernador de la región de Moscú, señaló que un sitio industrial en Novoselki, Chekhov, aproximadamente a 69 km al sur del Kremlin, fue atacado, lo que generó un incendio en el almacén. Escribió en Telegram que siete de los diez heridos estaban en estado moderado, mientras uno se encontraba grave. Medios ucranianos reportaron que el sitio atacado en Moscú estaba vinculado a Wildberries. La empresa no ha hecho comentarios públicos, pero confirmó que su instalación en San Petersburgo fue afectada. Mientras tanto, el Servicio Estatal de Emergencias de Ucrania informó que una mujer de 89 años murió y dos niñas, de dos y doce años, fueron parte de siete heridas en un ataque ruso en la ciudad portuaria de Mykolaiv. Además, otra mujer y dos niñas, de cinco y diez años, perdieron la vida en un ataque a una zona residencial en Sumy, con otras cuatro personas lesionadas. Al mismo tiempo, los ataques rusos también hirieron a dos personas en Bilhorod-Dnistrovskyi, mientras que un almacén de alimentos fue incendiado en Dnipro, de acuerdo con el Servicio Estatal de Emergencias.",
+        "vocabulary": [
+          {
+            "word": "almacén",
+            "definition": "lugar donde se guardan cosas"
+          },
+          {
+            "word": "atacar",
+            "definition": "hacer daño a alguien o algo"
+          },
+          {
+            "word": "dron",
+            "definition": "aparato volador sin piloto"
+          },
+          {
+            "word": "incendio",
+            "definition": "fuego que causa daño"
+          },
+          {
+            "word": "notificar",
+            "definition": "informar a alguien sobre algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas murieron en el ataque en Moscú?",
+            "options": [
+              "Cinco",
+              "Diez",
+              "Cuatro"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de ataque se realizó cerca de Moscú?",
+            "options": [
+              "Ataque aéreo",
+              "Ataque con drones",
+              "Ataque terrestre"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué empresa fue mencionada en relación a los ataques?",
+            "options": [
+              "Amazon",
+              "Wildberries",
+              "IKEA"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Moscú: Un ataque con drones ucranianos deja cinco muertos y varios heridos",
+        "text": "En una noche marcada por la violencia, al menos cinco individuos perdieron la vida y diez resultaron heridos a causa de una incursión de drones procedentes de Ucrania en un almacén cercano a Moscú, según declaraciones del gobernador de la región. Aunque no se precisaron los objetivos exactos del ataque, se ha documentado que, en las últimas semanas, Ucrania ha intensificado sus ataques en instalaciones operadas por Wildberries, una compañía que ha sido apodada el \"Amazonas ruso\". Las autoridades de Kyiv sostienen que estos depósitos sirven para abastecer al ejército ruso, una afirmación que Moscú rechaza rotundamente. En paralelo, se mencionó que otros almacenes de Wildberries en San Petersburgo y Tver también han sido atacados. Rusia, por su parte, llevó a cabo ataques aéreos en distintas partes de Ucrania, arrebatando vidas y causando lesiones en al menos cuatro personas. El Ministerio de Defensa ruso comunicó que durante la noche interceptó y destruyó hasta 320 drones. Andrei Vorobyov, gobernador de la región de Moscú, indicó que un área industrial en Novoselki, Chekhov —situada a aproximadamente 69 km al sur del Kremlin— fue el blanco del ataque, generando un incendio en el almacén. De acuerdo con un mensaje difundido por él en Telegram, siete de los heridos presentan un estado moderado, mientras que uno se encuentra en condición grave. Medios en Ucrania también han señalado que el lugar del ataque en Moscú estaba estrechamente vinculado a Wildberries, a pesar de que la empresa no ha emitido un comentario oficial sobre este incidente, aunque sí confirmó que su instalación en San Petersburgo fue afectada. Además, el Servicio Estatal de Emergencias de Ucrania reportó la muerte de una mujer de 89 años y que dos niñas, de dos y doce años, figuraban entre los siete heridos en un ataque ruso que tuvo lugar en la ciudad portuaria de Mykolaiv. En otro evento trágico, una mujer y dos niñas, de cinco y diez años, fallecieron en un ataque a una zona residencial en Sumy, y otras cuatro personas resultaron heridas, mientras que se reportaron lesiones en dos víctimas más en Bilhorod-Dnistrovskyi. Paralelamente, un almacén de alimentos fue incendiado en Dnipro, según lo informado por el Servicio Estatal de Emergencias.",
+        "vocabulary": [
+          {
+            "word": "incursión",
+            "definition": "entrada violenta en un lugar"
+          },
+          {
+            "word": "apodar",
+            "definition": "dar un nombre a algo o a alguien"
+          },
+          {
+            "word": "abastecer",
+            "definition": "suministrar lo que se necesita"
+          },
+          {
+            "word": "rechazar",
+            "definition": "no aceptar o negar algo"
+          },
+          {
+            "word": "vincular",
+            "definition": "establecer relación entre cosas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué impacto tuvo el ataque en la región de Moscú?",
+            "options": [
+              "Dejó cinco muertos",
+              "No hubo heridos",
+              "Afectó solo a un almacén"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué afirmó Kyiv sobre el uso de los depósitos de Wildberries?",
+            "options": [
+              "Se usan para el ejército",
+              "Son solo para almacenar comida",
+              "No se utilizan para nada"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es el gobernador de la región de Moscú?",
+            "options": [
+              "Andrei Vorobyov",
+              "Vladimir Putin",
+              "Sergei Lavrov"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "La intervención ucraniana en Moscú: un torbellino de muertos y heridas",
+        "text": "En un despliegue de estrategia militar arriesgada y audaz, al menos cinco vidas se extinguieron y diez personas sufrieron heridas en un ataque de drones ucranianos que sacudió un almacén adyacente a Moscú, como consta en el informe del gobernador regional. Sin especificar el blanco del ataque, es evidente que en semanas recientes, Ucrania ha intensificado sus operaciones sobre instalaciones afines a Wildberries, ese gigante del comercio electrónico ruso, frecuentemente considerado el \"Amazonas de la Federación\". La narrativa oficial de Kyiv sugiere que estos almacenes suministran recursos vitales al ejército ruso, un argumento que el Kremlin refuta enérgicamente. Además, se denuncia que los depósitos de Wildberries también han sido blanco de ataques en las regiones de San Petersburgo y Tver, mientras que Rusia, alterada por esta serie de provocaciones, contraatacó en distintas localidades de Ucrania, dejando un saldo de al menos cuatro cadáveres y varios lesionados. El Ministerio de Defensa de Rusia alegó haber interceptado y destruido un total de 320 drones durante la noche. Andrei Vorobyov, gobernador de la región de Moscú, reveló que un sitio industrial en Novoselki, Chekhov —localizado a unos 69 km al sur del Kremlin— fue gravemente afectado, produciendo un incendio devastador en el almacén. En su cuenta de Telegram, notificó que siete de los diez heridos se hallaban en estado moderado, mientras que uno presenta lesiones graves. Aunque la empresa Wildberries ha permanecido en silencio, se ha corroborado que su instalación en San Petersburgo fue impactada. Como corolario a la escalofriante situación, el Servicio Estatal de Emergencias de Ucrania reportó la muerte de una anciana de 89 años, junto a la inclusión de dos niñitas, de dos y doce años, entre los siete heridos en un ataque ruso en la ciudad portuaria de Mykolaiv. Paralelamente, una mujer y dos niñas de cinco y diez años perdieron la vida en un ataque a una zona residencial en Sumy, añadiéndose a este triste recuento otros cuatro heridos. La ola de agresiones también dejó dos heridos en Bilhorod-Dnistrovskyi, mientras se registró un ígneo en un almacén de alimentos en Dnipro, según el informe del Servicio Estatal de Emergencias, lo que plantea inquietantes preguntas sobre la escalada del conflicto.",
+        "vocabulary": [
+          {
+            "word": "torbellino",
+            "definition": "movimiento rápido y violento"
+          },
+          {
+            "word": "despliegue",
+            "definition": "extensión o movimiento de fuerzas"
+          },
+          {
+            "word": "narrativa",
+            "definition": "relato o historia que se cuenta"
+          },
+          {
+            "word": "corolario",
+            "definition": "resultado o consecuencia natural de algo"
+          },
+          {
+            "word": "ígneo",
+            "definition": "relativo al fuego, incendiario"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de ataque ocurrió en Moscú?",
+            "options": [
+              "Ataque químico",
+              "Ataque con drones",
+              "Ataque con misiles"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es la relación de Wildberries con el ejército ruso?",
+            "options": [
+              "Suministran alimentos",
+              "No tienen relación",
+              "Suministran recursos estratégicos"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué informó el Servicio Estatal de Emergencias respecto a las víctimas?",
+            "options": [
+              "Todos estaban bien",
+              "Una anciana y dos niñas fallecieron",
+              "No hubo fallecidos"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "fünf": "five",
+      "tote": "dead",
+      "in": "in",
+      "moskau": "Moscow",
+      "gibt": "gives",
+      "es": "it",
+      "ein": "a",
+      "problem": "problem",
+      "menschen": "people",
+      "sind": "are",
+      "gestorben": "died",
+      "zehn": "ten",
+      "haben": "to have",
+      "verletzungen": "injuries",
+      "flugzeug": "airplane",
+      "trifft": "meets",
+      "lagerhaus": "warehouse",
+      "das": "that",
+      "ist": "is",
+      "der": "the",
+      "nähe": "proximity",
+      "von": "from",
+      "mann": "man",
+      "sagt": "says",
+      "die": "the",
+      "ukraine": "Ukraine",
+      "macht": "makes",
+      "angriffe": "attacks",
+      "auf": "to",
+      "lagerhäuser": "warehouses",
+      "wildberries": "wildberries",
+      "unternehmen": "to undertake",
+      "für": "for",
+      "armee": "army",
+      "russland": "Russia",
+      "nicht": "not",
+      "wahr": "true",
+      "einem": "a",
+      "krankenhaus": "hospital",
+      "nachts": "at night",
+      "nach": "after",
+      "angriff": "attack",
+      "nacht": "night",
+      "gab": "gave",
+      "einen": "a",
+      "großen": "large",
+      "tot": "dead",
+      "und": "and",
+      "verletzt": "injured",
+      "hat": "has",
+      "mit": "with",
+      "drohnen": "drones",
+      "angegriffen": "attacked",
+      "betreibt": "operates",
+      "diese": "this",
+      "bekannt": "known",
+      "als": "than",
+      "russische": "Russian",
+      "amazon": "amazon",
+      "wichtig": "important",
+      "aber": "but",
+      "bestritten": "contested",
+      "gouverneur": "governor",
+      "andrei": "Andrei",
+      "vorobyov": "Vorobyov",
+      "unfall": "accident",
+      "passiert": "happens",
+      "industriegebiet": "industrial area",
+      "dort": "there",
+      "brennt": "burns",
+      "sieben": "seven",
+      "verletzten": "injured",
+      "personen": "people",
+      "stabilen": "stable",
+      "zustand": "condition",
+      "eine": "a",
+      "person": "person",
+      "schwer": "heavy",
+      "den": "the",
+      "letzten": "last",
+      "wochen": "weeks",
+      "viele": "many",
+      "ähnliche": "similar",
+      "ziele": "goals",
+      "durchgeführt": "carried out",
+      "währenddessen": "meanwhile",
+      "auch": "also",
+      "gestartet": "started",
+      "mindestens": "at least",
+      "vier": "four",
+      "getötet": "killed",
+      "mykolaiv": "Mykolaiv",
+      "alte": "old",
+      "frau": "woman",
+      "zwei": "two",
+      "mädchen": "girl",
+      "anderen": "other",
+      "situation": "situation",
+      "bleibt": "stays",
+      "sehr": "very",
+      "gefährlich": "dangerous",
+      "drohnenangriff": "drone attack",
+      "mehrere": "several",
+      "verletzte": "injured",
+      "zum": "to the",
+      "dienstag": "Tuesday",
+      "ernsthaften": "serious",
+      "angaben": "data",
+      "des": "of the",
+      "gouverneurs": "governors",
+      "weitere": "further",
+      "wurden": "were",
+      "traf": "met",
+      "zu": "to",
+      "gehört": "heard",
+      "lagerhauskette": "warehouse chain",
+      "wird": "will",
+      "oft": "often",
+      "bezeichnet": "designated",
+      "immer": "always",
+      "wieder": "again",
+      "solche": "such",
+      "einrichtungen": "facilities",
+      "weil": "because",
+      "sie": "they",
+      "dass": "that",
+      "lager": "camp",
+      "zur": "to the",
+      "unterstützung": "support",
+      "russischen": "Russian",
+      "benutzt": "used",
+      "werden": "will",
+      "bestreitet": "denies",
+      "dies": "this",
+      "jedoch": "however",
+      "behauptet": "claimed",
+      "nur": "only",
+      "zivile": "civil",
+      "zwecke": "purposes",
+      "genutzt": "used",
+      "dem": "the",
+      "berichteten": "reported",
+      "lokale": "local",
+      "behörden": "authorities",
+      "angriffen": "attacks",
+      "st": "St.",
+      "petersburg": "St. Petersburg",
+      "twer": "Tver",
+      "getroffen": "hit",
+      "was": "what",
+      "besorgnis": "concern",
+      "über": "about",
+      "eskalation": "escalation",
+      "konflikts": "conflict",
+      "vergrößert": "expanded",
+      "zahl": "number",
+      "opfer": "victim",
+      "könnte": "could",
+      "steigen": "rise",
+      "da": "there",
+      "erklärte": "explained",
+      "moderaten": "moderate",
+      "weiteres": "further",
+      "ernstes": "serious",
+      "ereignis": "event",
+      "war": "was",
+      "starb": "died",
+      "jährige": "year-old",
+      "bei": "at",
+      "zudem": "furthermore",
+      "im": "in the",
+      "alter": "age",
+      "zwölf": "twelve",
+      "jahren": "years",
+      "region": "region",
+      "angespannt": "tense",
+      "luftangriffe": "airstrikes",
+      "verschiedene": "various",
+      "teile": "parts",
+      "diesem": "this",
+      "zusammenhang": "context",
+      "konflikt": "conflict",
+      "möglicherweise": "possibly",
+      "noch": "still",
+      "intensiver": "more intense",
+      "wenn": "if",
+      "keine": "no",
+      "gespräche": "talks",
+      "frieden": "peace",
+      "stattfinden": "will take place",
+      "ukrainischem": "Ukrainian",
+      "ukrainischer": "Ukrainian",
+      "wie": "like",
+      "mitteilte": "communicated",
+      "er": "he",
+      "an": "at",
+      "genau": "exactly",
+      "ziel": "goal",
+      "führt": "leads",
+      "durch": "through",
+      "dieses": "this",
+      "kiew": "Kyiv",
+      "depots": "depots",
+      "versorgung": "supply",
+      "militärs": "military",
+      "außerdem": "besides",
+      "regionen": "regions",
+      "selbst": "self",
+      "startete": "launched",
+      "gegenangriffe": "counterattacks",
+      "tötete": "killed",
+      "dabei": "thereby",
+      "verteidigungsministerium": "ministry of defense",
+      "russlands": "Russia's",
+      "abgefangen": "intercepted",
+      "zerstört": "destroyed",
+      "berichtete": "reported",
+      "novoselki": "Novoselki",
+      "chekhov": "Chekhov",
+      "etwa": "about",
+      "km": "km",
+      "südlich": "southern",
+      "kremls": "Kremlin's",
+      "kam": "came",
+      "brand": "fire",
+      "teilte": "shared",
+      "telegram": "telegram",
+      "seien": "are",
+      "während": "during",
+      "sich": "oneself",
+      "einer": "one",
+      "kritischen": "critical",
+      "befinde": "to be",
+      "ukrainische": "Ukrainian",
+      "medien": "media",
+      "verbindung": "connection",
+      "steht": "stands",
+      "dazu": "additionally",
+      "öffentlich": "public",
+      "geäußert": "expressed",
+      "bestätigte": "confirmed",
+      "seiner": "his",
+      "wurde": "was",
+      "fordert": "demands",
+      "todesopfer": "fatalities",
+      "nächtlichen": "nightly",
+      "nahe": "near",
+      "ums": "around",
+      "leben": "life",
+      "gekommen": "come",
+      "regionale": "regional",
+      "regierung": "government",
+      "obwohl": "although",
+      "genauen": "exact",
+      "zielvorgaben": "objectives",
+      "angriffs": "attack",
+      "spezifiziert": "specified",
+      "wiederholt": "repeated",
+      "betrieben": "operated",
+      "amerikanische": "American",
+      "plattform": "platform",
+      "mittlerweile": "meanwhile",
+      "benannt": "named",
+      "hebt": "to lift",
+      "hervor": "out",
+      "verwaltet": "manages",
+      "streitkräfte": "armed forces",
+      "dienen": "to serve",
+      "sollen": "should",
+      "behauptungen": "claims",
+      "vehement": "vehemently",
+      "ähnlichen": "similar",
+      "wildberries-standorte": "Wildberries locations",
+      "zwischenzeit": "interim",
+      "weiteren": "further",
+      "offensive": "offensive",
+      "folge": "consequence",
+      "hatte": "had",
+      "feindliche": "hostile",
+      "neutralisiert": "neutralized",
+      "worden": "been",
+      "laut": "according to",
+      "industriekomplex": "industrial complex",
+      "auslöste": "triggered",
+      "telegram-beitrag": "Telegram post",
+      "erwähnte": "mentioned",
+      "gesundheitszustand": "health condition",
+      "befinden": "to be",
+      "berichten": "to report",
+      "zufolge": "according",
+      "dieser": "this",
+      "assoziiert": "associated",
+      "wobei": "whereby",
+      "bislang": "so far",
+      "anfragen": "to inquire",
+      "reagiert": "reacted",
+      "unter": "under",
+      "beschleunigter": "accelerated",
+      "bedrohung": "threat",
+      "menschenleben": "lives",
+      "gefordert": "demanded",
+      "ukrainischen": "Ukrainian",
+      "verheerenden": "devastating",
+      "unmittelbarer": "immediate",
+      "ausdrücklich": "explicitly",
+      "anmerkte": "noted",
+      "zielobjekte": "target objects",
+      "deliniert": "delimited",
+      "bemerken": "to notice",
+      "seit": "since",
+      "gezielt": "targeted",
+      "gmbh": "limited liability company",
+      "ins": "into",
+      "visier": "sight",
+      "nimmt": "takes",
+      "oftmals": "often",
+      "unterstreicht": "emphasizes",
+      "wirklichkeit": "reality",
+      "logistischen": "logistical",
+      "moscows": "Moscow's",
+      "offizielle": "official",
+      "stellen": "to provide",
+      "bestreiten": "to dispute",
+      "gleichzeitig": "simultaneously",
+      "akteure": "actors",
+      "wildberries-lagerhäuser": "Wildberries warehouses",
+      "selben": "same",
+      "atemzug": "breath",
+      "bombardierte": "bombarded",
+      "andere": "other",
+      "toten": "dead",
+      "zahlreichen": "numerous",
+      "führte": "led",
+      "föderation": "federation",
+      "verkündete": "announced",
+      "abfangung": "interception",
+      "zerschlagung": "smashing",
+      "feindlichen": "hostile",
+      "vergangenen": "past",
+      "moskauer": "Moscow",
+      "gebiets": "territorial",
+      "industrieareal": "industrial site",
+      "wo": "where",
+      "feuer": "fire",
+      "fing": "to pretend",
+      "vor": "before",
+      "allem": "everything",
+      "betroffen": "affected",
+      "waren": "were",
+      "befanden": "found",
+      "postulierten": "postulated",
+      "angegriffene": "attacked",
+      "standort": "location",
+      "bis": "up to",
+      "dato": "date",
+      "öffentliche": "public",
+      "stellungnahme": "statement",
+      "abgab": "delivery",
+      "seine": "his",
+      "petersburger": "St. Petersburg's",
+      "einrichtung": "facility",
+      "parallel": "parallel",
+      "notfalldienstagentur": "emergency service agency",
+      "starben": "died",
+      "sumy": "Sumy",
+      "bilhorod-dnistrovskyi": "Bilhorod-Dnistrovskyi",
+      "erlitten": "suffered",
+      "dnipro": "Dnipro",
+      "lebensmittel-lagerhaus": "food warehouse",
+      "flammen": "flames",
+      "aufging": "opened"
+    },
+    "fr": {
+      "cinq": "five",
+      "morts": "deaths",
+      "moscou": "Moscow",
+      "il": "he",
+      "dix": "ten",
+      "personnes": "people",
+      "sont": "are",
+      "blessées": "injured",
+      "une": "a",
+      "attaque": "attack",
+      "vient": "comes",
+      "ukraine": "Ukraine",
+      "les": "the",
+      "drones": "drones",
+      "attaquent": "attack",
+      "des": "some",
+      "dépôts": "deposits",
+      "ces": "these",
+      "près": "near",
+      "de": "of",
+      "appartiennent": "belong",
+      "wildberries": "wildberries",
+      "est": "is",
+      "grande": "big",
+      "entreprise": "business",
+      "en": "in",
+      "russie": "Russia",
+      "autorités": "authorities",
+      "disent": "say",
+      "que": "that",
+      "armée": "army",
+      "russe": "Russian",
+      "utilise": "uses",
+      "dit": "says",
+      "ce": "this",
+      "pas": "not",
+      "vrai": "true",
+      "attaques": "attacks",
+      "se": "yourself",
+      "passent": "to pass",
+      "aussi": "also",
+      "mykolaiv": "Mykolaiv",
+      "femme": "woman",
+      "ans": "years",
+      "morte": "dead",
+      "là-bas": "over there",
+      "deux": "two",
+      "petites": "small",
+      "filles": "girls",
+      "frappes": "strikes",
+      "continuent": "continue",
+      "tuées": "killed",
+      "mortes": "deaths",
+      "après": "after",
+      "avec": "with",
+      "cette": "this",
+      "et": "and",
+      "eu": "had",
+      "lieu": "place",
+      "autres": "others",
+      "le": "the",
+      "gouverneur": "governor",
+      "la": "the",
+      "région": "region",
+      "touché": "hit",
+      "un": "a",
+      "dépôt": "deposit",
+      "société": "society",
+      "connue": "known",
+      "souvent": "often",
+      "comparée": "compared",
+      "amazon": "Amazon",
+      "affirment": "affirm",
+      "servent": "serve",
+      "mais": "but",
+      "pendant": "during",
+      "temps": "weather",
+      "été": "been",
+      "tuée": "killed",
+      "ses": "his",
+      "tout": "all",
+      "sept": "seven",
+      "dans": "in",
+      "ville": "city",
+      "autre": "other",
+      "groupe": "group",
+      "souffert": "suffered",
+      "sumy": "Sumy",
+      "où": "where",
+      "jeunes": "young",
+      "ont": "have",
+      "situation": "situation",
+      "très": "very",
+      "grave": "serious",
+      "beaucoup": "a lot",
+      "victimes": "victims",
+      "conflits": "conflicts",
+      "entre": "between",
+      "causent": "cause",
+      "souffrances": "suffering",
+      "plusieurs": "several",
+      "blessés": "injured",
+      "au": "at the",
+      "drone": "drone",
+      "ukrainien": "Ukrainian",
+      "causé": "caused",
+      "mort": "death",
+      "nuit": "night",
+      "mardi": "Tuesday",
+      "dernier": "last",
+      "qui": "who",
+      "plus": "more",
+      "lors": "when",
+      "frappe": "strike",
+      "selon": "according",
+      "certains": "some",
+      "témoins": "witnesses",
+      "devenue": "become",
+      "cible": "target",
+      "principale": "main",
+      "pour": "for",
+      "ukrainiennes": "Ukrainian",
+      "car": "because",
+      "kyiv": "Kyiv",
+      "affirme": "affirms",
+      "utilisés": "used",
+      "approvisionner": "supply",
+      "information": "information",
+      "continue": "continues",
+      "nier": "deny",
+      "similaires": "similar",
+      "villes": "cities",
+      "comme": "like",
+      "tragiquement": "tragically",
+      "perdu": "lost",
+      "vie": "life",
+      "fait": "makes",
+      "mère": "mother",
+      "préoccupante": "concerning",
+      "locales": "local",
+      "mettent": "put",
+      "danger": "danger",
+      "nombreuses": "numerous",
+      "vies": "lives",
+      "réponse": "response",
+      "défense": "defense",
+      "aérienne": "air",
+      "déclaré": "stated",
+      "avoir": "to have",
+      "intercepté": "intercepted",
+      "détruit": "destroyed",
+      "quelques": "a few",
+      "heures": "hours",
+      "événements": "events",
+      "illustrent": "illustrate",
+      "intensification": "intensification",
+      "du": "of the",
+      "conflit": "conflict",
+      "si": "if",
+      "violence": "violence",
+      "cela": "that",
+      "pourrait": "could",
+      "mener": "to lead",
+      "escalade": "escalation",
+      "tensions": "tensions",
+      "toute": "all",
+      "population": "population",
+      "commence": "starts",
+      "craindre": "to fear",
+      "sa": "its",
+      "sécurité": "security",
+      "face": "face",
+      "multiplient": "multiply",
+      "provient": "comes",
+      "décennies": "decades",
+      "politiques": "political",
+      "pays": "country",
+      "semblent": "seem",
+      "aggraver": "to worsen",
+      "chaque": "each",
+      "jour": "day",
+      "sur": "about",
+      "entrepôt": "warehouse",
+      "moins": "less",
+      "suite": "following",
+      "situé": "situated",
+      "survenue": "occurred",
+      "bien": "well",
+      "officiel": "official",
+      "ait": "has",
+      "précisé": "specified",
+      "avait": "had",
+      "ciblé": "targeted",
+      "mené": "led",
+      "installations": "facilities",
+      "gérées": "managed",
+      "par": "by",
+      "dernières": "latest",
+      "semaines": "weeks",
+      "considéré": "considered",
+      "soutient": "supports",
+      "accusation": "accusation",
+      "dément": "denies",
+      "responsables": "responsibles",
+      "locaux": "local",
+      "également": "also",
+      "signalé": "reported",
+      "entrepôts": "warehouses",
+      "avaient": "had",
+      "frappés": "struck",
+      "régions": "regions",
+      "saint-pétersbourg": "Saint Petersburg",
+      "tver": "Tver",
+      "durant": "during",
+      "parallèlement": "concurrently",
+      "lancé": "launched",
+      "contre": "against",
+      "certaines": "some",
+      "zones": "zones",
+      "causant": "causing",
+      "quatre": "four",
+      "blessant": "hurtful",
+      "ministère": "ministry",
+      "cours": "course",
+      "andrei": "andrei",
+      "vorobyov": "Vorobyov",
+      "rapporté": "reported",
+      "site": "site",
+      "industriel": "industrial",
+      "novoselki": "Novoselki",
+      "chekhov": "Chekhov",
+      "environ": "about",
+      "km": "km",
+      "sud": "south",
+      "kremlin": "Kremlin",
+      "attaqué": "attacked",
+      "déclenché": "triggered",
+      "incendie": "fire",
+      "noté": "noted",
+      "telegram": "telegram",
+      "trouvaient": "found",
+      "état": "state",
+      "modéré": "moderate",
+      "tandis": "while",
+      "personne": "person",
+      "était": "was",
+      "médias": "media",
+      "ukrainiens": "Ukrainians",
+      "lien": "link",
+      "moscovite": "Muscovite",
+      "commenté": "commented",
+      "publiquement": "publicly",
+      "elle": "she",
+      "confirmé": "confirmed",
+      "touchées": "affected",
+      "outre": "beyond",
+      "service": "service",
+      "urgence": "emergency",
+      "âgées": "aged",
+      "douze": "twelve",
+      "figuraient": "featured",
+      "parmi": "among",
+      "portuaire": "port",
+      "mykolaïv": "Mykolaiv",
+      "frappé": "hit",
+      "aux": "to the",
+      "abords": "surroundings",
+      "individus": "individuals",
+      "dizaine": "ten",
+      "déclarations": "statements",
+      "même": "even",
+      "exacte": "exact",
+      "précisée": "specified",
+      "exacerbées": "exacerbated",
+      "récemment": "recently",
+      "affirmant": "affirming",
+      "surnommée": "nicknamed",
+      "seraient": "would be",
+      "utilisées": "used",
+      "soutenir": "to support",
+      "efforts": "efforts",
+      "militaires": "military",
+      "russes": "Russians",
+      "conteste": "to contest",
+      "fermement": "firmly",
+      "touchés": "affected",
+      "divers": "various",
+      "objectifs": "objectives",
+      "faisant": "making",
+      "transmis": "transmitted",
+      "neutralisé": "neutralized",
+      "indiqué": "indicated",
+      "entraîné": "trained",
+      "plateforme": "platform",
+      "étaient": "were",
+      "trouvait": "found",
+      "condition": "condition",
+      "évoquent": "evoke",
+      "dernière": "latest",
+      "seulement": "only",
+      "son": "his",
+      "impact": "impact",
+      "enfin": "finally",
+      "parallèle": "parallel",
+      "ukrainienne": "Ukrainian",
+      "faisaient": "were doing",
+      "partie": "party",
+      "nouveau": "new",
+      "chapitre": "chapter",
+      "réveillée": "awakened",
+      "mercredi": "Wednesday",
+      "tumulte": "tumult",
+      "aient": "have",
+      "déclarées": "declared",
+      "nocturne": "nocturnal",
+      "menée": "conducted",
+      "périphérie": "periphery",
+      "capitale": "capital",
+      "régionales": "regional",
+      "leur": "their",
+      "tête": "head",
+      "motif": "motive",
+      "reste": "rest",
+      "sujet": "subject",
+      "débat": "debate",
+      "justifiant": "justifying",
+      "actions": "actions",
+      "présumée": "presumed",
+      "utilisation": "use",
+      "militaire": "military",
+      "désigné": "designated",
+      "termes": "terms",
+      "élogieux": "laudatory",
+      "intensifié": "intensified",
+      "espérant": "hoping",
+      "ainsi": "thus",
+      "affaiblir": "to weaken",
+      "approvisionnement": "supply",
+      "armement": "armament",
+      "véhémence": "vehemence",
+      "insistant": "insistent",
+      "purement": "purely",
+      "commerciales": "commercial",
+      "nouvelle": "new",
+      "violences": "violence",
+      "alors": "then",
+      "met": "puts",
+      "œuvre": "work",
+      "représailles": "reprisals",
+      "bombardant": "bombarding",
+      "diverses": "various",
+      "localités": "localities",
+      "ailleurs": "elsewhere",
+      "abattu": "shot",
+      "référence": "reference",
+      "engagement": "commitment",
+      "durcit": "hardens",
+      "rapportant": "reporting",
+      "établi": "established",
+      "limitée": "limited",
+      "confirmer": "to confirm",
+      "contexte": "context",
+      "tragique": "tragic",
+      "décès": "deaths",
+      "octogénaire": "octogenarian",
+      "notamment": "notably",
+      "panorama": "panorama",
+      "désolation": "desolation",
+      "questionne": "questions",
+      "controverses": "controversies",
+      "géopolitiques": "geopolitical",
+      "sous-jacentes": "underlying",
+      "actes": "acts",
+      "guerre": "war",
+      "contemporaine": "contemporary"
+    },
+    "es": {
+      "atentado": "attack",
+      "en": "in",
+      "moscú": "Moscow",
+      "cinco": "five",
+      "personas": "people",
+      "están": "are",
+      "muertas": "dead",
+      "diez": "ten",
+      "tienen": "have",
+      "heridas": "wounded",
+      "un": "a",
+      "drone": "drone",
+      "de": "of",
+      "ucrania": "Ukraine",
+      "ataca": "attacks",
+      "el": "the",
+      "ataque": "attack",
+      "es": "is",
+      "almacén": "warehouse",
+      "está": "is",
+      "cerca": "near",
+      "gobernador": "governor",
+      "habla": "speaks",
+      "esto": "this",
+      "dicen": "they say",
+      "que": "that",
+      "son": "are",
+      "ataques": "attacks",
+      "los": "the",
+      "militares": "military",
+      "rusos": "Russian",
+      "hay": "there is",
+      "incendios": "fires",
+      "la": "the",
+      "guerra": "war",
+      "sigue": "follows",
+      "también": "also",
+      "cuatro": "four",
+      "muchas": "many",
+      "puerto": "port",
+      "una": "a",
+      "mujer": "woman",
+      "muerta": "dead",
+      "dos": "two",
+      "niñas": "girls",
+      "violencia": "violence",
+      "no": "not",
+      "para": "to",
+      "mucha": "much",
+      "tensión": "tension",
+      "región": "region",
+      "estos": "these",
+      "parte": "part",
+      "del": "of the",
+      "conflicto": "conflict",
+      "nadie": "nobody",
+      "quiere": "wants",
+      "larga": "long",
+      "las": "the",
+      "quieren": "they want",
+      "paz": "peace",
+      "seguridad": "security",
+      "mueren": "die",
+      "con": "with",
+      "ocurre": "occurs",
+      "noche": "night",
+      "martes": "Tuesday",
+      "algunas": "some",
+      "estado": "state",
+      "grave": "serious",
+      "atacado": "attacked",
+      "empresa": "company",
+      "llamada": "call",
+      "wildberries": "wildberries",
+      "famosa": "famous",
+      "rusia": "Russia",
+      "hace": "ago",
+      "unas": "some",
+      "semanas": "weeks",
+      "depósitos": "deposits",
+      "porque": "because",
+      "cree": "he/she/they believe",
+      "usados": "used",
+      "por": "for",
+      "ejército": "army",
+      "ruso": "Russian",
+      "sobre": "about",
+      "situación": "situation",
+      "dice": "says",
+      "este": "this",
+      "muy": "very",
+      "preocupante": "worrying",
+      "causan": "cause",
+      "muertes": "deaths",
+      "ciudad": "city",
+      "mykolaiv": "Mykolaiv",
+      "esa": "that",
+      "servicio": "service",
+      "emergencias": "emergencies",
+      "ayuda": "helps",
+      "víctimas": "victims",
+      "continúa": "continues",
+      "esta": "this",
+      "gente": "people",
+      "preocupada": "worried",
+      "muchos": "many",
+      "heridos": "injured",
+      "tensa": "tense",
+      "tristeza": "sadness",
+      "se": "oneself",
+      "siente": "feels",
+      "calles": "streets",
+      "ucraniano": "Ukrainian",
+      "fueron": "they were",
+      "asesinadas": "murdered",
+      "encuentra": "finds",
+      "afueras": "outskirts",
+      "incidente": "incident",
+      "ha": "has",
+      "aumentado": "increased",
+      "donde": "where",
+      "confirmó": "confirmed",
+      "estaban": "were",
+      "ellas": "they",
+      "encuentran": "find",
+      "fue": "was",
+      "dirigido": "directed",
+      "contra": "against",
+      "considera": "considers",
+      "amazon": "amazon",
+      "según": "according",
+      "almacenes": "warehouses",
+      "apoyan": "support",
+      "fuerzas": "forces",
+      "armadas": "armed",
+      "rusas": "Russian",
+      "pero": "but",
+      "gobierno": "government",
+      "lo": "it",
+      "negado": "denied",
+      "rotundamente": "categorically",
+      "además": "furthermore",
+      "hubo": "there was",
+      "incendio": "fire",
+      "significativo": "significant",
+      "sitio": "site",
+      "complicó": "complicated",
+      "labores": "efforts",
+      "rescate": "rescue",
+      "control": "control",
+      "daños": "damages",
+      "su": "his",
+      "vez": "time",
+      "portuaria": "port",
+      "otro": "other",
+      "resultó": "resulted",
+      "muerte": "death",
+      "años": "years",
+      "dejó": "left",
+      "incrementado": "increased",
+      "afectando": "affecting",
+      "tanto": "so much",
+      "como": "like",
+      "civiles": "civilians",
+      "cada": "each",
+      "día": "day",
+      "reportan": "report",
+      "más": "more",
+      "si": "if",
+      "así": "thus",
+      "probable": "likely",
+      "inocentes": "innocent",
+      "sufran": "suffer",
+      "han": "they have",
+      "lanzado": "launched",
+      "áreas": "areas",
+      "ensombreciendo": "darkening",
+      "aún": "still",
+      "panorama": "outlook",
+      "contexto": "context",
+      "comunidad": "community",
+      "internacional": "international",
+      "observa": "observes",
+      "preocupación": "concern",
+      "escalada": "escalation",
+      "piden": "ask",
+      "ambas": "both",
+      "partes": "parts",
+      "busquen": "look for",
+      "soluciones": "solutions",
+      "pacíficas": "peaceful",
+      "sin": "without",
+      "duda": "doubt",
+      "todas": "all",
+      "regiones": "regions",
+      "afectadas": "affected",
+      "necesita": "needs",
+      "alto": "high",
+      "al": "to the",
+      "fuego": "fire",
+      "urgente": "urgent",
+      "muertos": "dead",
+      "tras": "after",
+      "menos": "less",
+      "murieron": "died",
+      "resultaron": "resulted",
+      "drones": "drones",
+      "ucranianos": "Ukrainians",
+      "cercano": "close",
+      "informó": "he reported",
+      "aunque": "although",
+      "especificó": "specified",
+      "qué": "what",
+      "instalaciones": "facilities",
+      "habían": "they had",
+      "sido": "been",
+      "atacadas": "attacked",
+      "sabido": "known",
+      "últimas": "latest",
+      "realizó": "carried out",
+      "operaciones": "operations",
+      "centros": "centers",
+      "operados": "operated",
+      "menudo": "frequent",
+      "denominado": "named",
+      "amazonas": "amazon",
+      "kyiv": "Kyiv",
+      "afirma": "affirms",
+      "utilizan": "use",
+      "abastecer": "to supply",
+      "algo": "something",
+      "niega": "denies",
+      "autoridades": "authorities",
+      "locales": "locals",
+      "detallaron": "detailed",
+      "objeto": "object",
+      "san": "saint",
+      "petersburgo": "St. Petersburg",
+      "tver": "Tver",
+      "lanzó": "he launched",
+      "provocando": "causing",
+      "lesiones": "injuries",
+      "varias": "several",
+      "ministerio": "ministry",
+      "defensa": "defense",
+      "comunicó": "communicated",
+      "interceptó": "intercepted",
+      "destruyó": "destroyed",
+      "durante": "during",
+      "andrei": "Andrei",
+      "vorobyov": "Vorobyov",
+      "señaló": "pointed",
+      "industrial": "industrial",
+      "novoselki": "Novoselki",
+      "chekhov": "Chekhov",
+      "aproximadamente": "approximately",
+      "km": "km",
+      "sur": "south",
+      "kremlin": "Kremlin",
+      "generó": "generated",
+      "escribió": "wrote",
+      "telegram": "Telegram",
+      "siete": "seven",
+      "moderado": "moderate",
+      "mientras": "while",
+      "uno": "one",
+      "encontraba": "found",
+      "medios": "media",
+      "reportaron": "they reported",
+      "estaba": "he was",
+      "vinculado": "linked",
+      "hecho": "fact",
+      "comentarios": "comments",
+      "públicos": "public",
+      "instalación": "installation",
+      "afectada": "affected",
+      "estatal": "state",
+      "murió": "died",
+      "doce": "twelve",
+      "otra": "another",
+      "perdieron": "lost",
+      "vida": "life",
+      "zona": "zone",
+      "residencial": "residential",
+      "sumy": "Sumy",
+      "otras": "other",
+      "lesionadas": "injured",
+      "mismo": "same",
+      "tiempo": "time",
+      "hirieron": "wounded",
+      "bilhorod-dnistrovskyi": "Bilhorod-Dnistrovskyi",
+      "alimentos": "food",
+      "incendiado": "burned",
+      "dnipro": "Dnipro",
+      "acuerdo": "agreement",
+      "deja": "lets",
+      "varios": "several",
+      "marcada": "marked",
+      "individuos": "individuals",
+      "causa": "cause",
+      "incursión": "incursion",
+      "procedentes": "from",
+      "declaraciones": "statements",
+      "precisaron": "specified",
+      "objetivos": "goals",
+      "exactos": "exact",
+      "documentado": "documented",
+      "intensificado": "intensified",
+      "sus": "their",
+      "operadas": "operated",
+      "compañía": "company",
+      "apodada": "nicknamed",
+      "sostienen": "hold",
+      "sirven": "they serve",
+      "afirmación": "affirmation",
+      "rechaza": "he rejects",
+      "paralelo": "parallel",
+      "mencionó": "mentioned",
+      "otros": "others",
+      "atacados": "attacked",
+      "llevó": "took",
+      "cabo": "cape",
+      "aéreos": "aerial",
+      "distintas": "different",
+      "arrebatando": "seizing",
+      "vidas": "lives",
+      "causando": "causing",
+      "hasta": "until",
+      "indicó": "indicated",
+      "área": "area",
+      "situada": "situated",
+      "blanco": "white",
+      "generando": "generating",
+      "mensaje": "message",
+      "difundido": "spread",
+      "él": "he",
+      "presentan": "they present",
+      "condición": "condition",
+      "señalado": "signaled",
+      "lugar": "place",
+      "estrechamente": "closely",
+      "pesar": "despite",
+      "emitido": "issued",
+      "comentario": "comment",
+      "oficial": "official",
+      "sí": "yes",
+      "reportó": "reported",
+      "figuraban": "appeared",
+      "entre": "between",
+      "tuvo": "had",
+      "evento": "event",
+      "trágico": "tragic",
+      "fallecieron": "died",
+      "paralelamente": "parallelly",
+      "informado": "informed",
+      "intervención": "intervention",
+      "ucraniana": "Ukrainian",
+      "torbellino": "whirlwind",
+      "despliegue": "unfolding",
+      "estrategia": "strategy",
+      "militar": "military",
+      "arriesgada": "risky",
+      "audaz": "bold",
+      "extinguieron": "extinguished",
+      "sufrieron": "suffered",
+      "sacudió": "shook",
+      "adyacente": "adjacent",
+      "consta": "consists",
+      "informe": "report",
+      "regional": "regional",
+      "especificar": "to specify",
+      "evidente": "evident",
+      "recientes": "recent",
+      "afines": "related",
+      "ese": "that",
+      "gigante": "giant",
+      "comercio": "trade",
+      "electrónico": "electronic",
+      "frecuentemente": "frequently",
+      "considerado": "considered",
+      "federación": "federation",
+      "narrativa": "narrative",
+      "sugiere": "suggests",
+      "suministran": "supply",
+      "recursos": "resources",
+      "vitales": "vital",
+      "argumento": "argument",
+      "refuta": "refutes",
+      "enérgicamente": "energetically",
+      "denuncia": "denunciation",
+      "alterada": "altered",
+      "serie": "series",
+      "provocaciones": "provocations",
+      "contraatacó": "counterattacked",
+      "localidades": "localities",
+      "dejando": "leaving",
+      "saldo": "balance",
+      "cadáveres": "bodies",
+      "lesionados": "injured",
+      "alegó": "alleged",
+      "haber": "to have",
+      "interceptado": "intercepted",
+      "destruido": "destroyed",
+      "total": "total",
+      "reveló": "revealed",
+      "localizado": "located",
+      "unos": "some",
+      "gravemente": "severely",
+      "afectado": "affected",
+      "produciendo": "producing",
+      "devastador": "devastating",
+      "cuenta": "account",
+      "notificó": "notified",
+      "hallaban": "found",
+      "presenta": "presents",
+      "graves": "serious",
+      "permanecido": "remained",
+      "silencio": "silence",
+      "corroborado": "confirmed",
+      "impactada": "impacted",
+      "corolario": "corollary",
+      "escalofriante": "creepy",
+      "anciana": "elderly",
+      "junto": "together",
+      "inclusión": "inclusion",
+      "niñitas": "little girls",
+      "añadiéndose": "adding",
+      "triste": "sad",
+      "recuento": "count",
+      "ola": "wave",
+      "agresiones": "aggressions",
+      "registró": "registered",
+      "ígneo": "fiery",
+      "plantea": "raises",
+      "inquietantes": "disturbing",
+      "preguntas": "questions"
+    }
+  }
+}

@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-04-five-dead-in-moscow-as-ukraine-continues-warehouse-strikes",
+    "date": "2026-08-04",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/796f/live/bd19eba0-8fd3-11f1-a999-eb18d79411a9.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Drone strike near Moscow kills five and injures ten",
+      "de": "Drohnenangriff in der Nähe von Moskau: Fünf Tote und mehrere Verletzte",
+      "fr": "Cinq morts et plusieurs blessés à Moscou",
+      "es": "Ataque ucraniano en un almacén cerca de Moscú"
+    }
+  },
+  {
+    "id": "2026-08-04-russia-says-seven-killed-and-40-injured-by-ukrainian-drone-h",
+    "date": "2026-08-04",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45c0/live/aa0a0bd0-8f65-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "world",
+    "titles": {
+      "en": "Drone Strikes Busy Beach in Southern Russia",
+      "de": "Drohnenangriff am Strand in Russland",
+      "fr": "Un drone attaque une plage en Russie et fait plusieurs victimes",
+      "es": "Ataque de dron en una playa rusa"
+    }
+  },
+  {
+    "id": "2026-08-04-eu-calls-for-stronger-borders-after-ceuta-migrant-crossings",
+    "date": "2026-08-04",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e59/live/b7f89ce0-8fcc-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "EU Urges Stronger Border Measures After Migrant Crossings",
+      "de": "EU rückt Grenzschutz nach Migrantenwelle in Ceuta ins Visier",
+      "fr": "Renforcement des frontières de l'UE après la crise de Ceuta",
+      "es": "Desafíos sobre la migración en Ceuta"
+    }
+  },
+  {
     "id": "2026-08-03-aung-san-suu-kyi-appears-healthy-in-first-confirmed-outside-",
     "date": "2026-08-03",
     "source": "BBC News",
