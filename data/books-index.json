@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-05-zorba-the-greek-nikos-kazantzakis",
+    "date": "2026-08-05",
+    "author": "Nikos Kazantzakis",
+    "image": "https://covers.openlibrary.org/b/id/14567040-L.jpg",
+    "titles": {
+      "en": "Zorba the Greek",
+      "de": "Zorba der Grieche",
+      "fr": "Zorba le grec",
+      "es": "Zorba el griego"
+    }
+  },
+  {
     "id": "2026-08-02-the-master-and-the-margarita-mikhail-bulgakov",
     "date": "2026-08-02",
     "author": "Mikhail Bulgakov",
