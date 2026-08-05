@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-05-wen-zhi-plum-blossoms",
+    "date": "2026-08-05",
+    "artist": "Wen Zhi",
+    "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP153824.jpg",
+    "titles": {
+      "en": "Interpretation of Plum Blossoms",
+      "de": "Die Bedeutung der Pflaumenblüten",
+      "fr": "Analyse des Fleurs de Prunier par Wen Zhi",
+      "es": "Flores de ciruelo de Wen Zhi"
+    }
+  },
+  {
     "id": "2026-08-03-edgar-degas-the-dance-class",
     "date": "2026-08-03",
     "artist": "Edgar Degas",
