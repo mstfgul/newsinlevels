@@ -1,0 +1,2398 @@
+{
+  "id": "2026-08-05-russian-ballistic-missile-strike-on-kyiv-kills-at-least-17",
+  "date": "2026-08-05",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Russian ballistic missile strike on Kyiv kills at least 17",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
+  "category": "world",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Russia Attacks Ukraine",
+        "text": "Russia attacks Ukraine with missiles and drones. Seventeen people die in Kyiv. Many other people are hurt. The president of Ukraine says this news. The attacks start after midnight. Air alerts happen for a long time. The military says buildings get damaged. Ukraine wants help for more missile protectors. Russia says it hits supply places. They also hit boats with weapons. The mayor of Kyiv says some people are trapped in the city. Four hurt people are in serious condition now. Russia sends many drones to attack. Ukraine stops some drones. Both sides say they do not want to hurt civilians.",
+        "vocabulary": [
+          {
+            "word": "building",
+            "definition": "a place with walls and a roof"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many people died in Kyiv?",
+            "options": [
+              "10",
+              "17",
+              "20"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Ukraine want?",
+            "options": [
+              "More food",
+              "More missile protectors",
+              "More soldiers"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the mayor say?",
+            "options": [
+              "People are safe",
+              "Some people are trapped",
+              "All people are dead"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Russia Attacks Ukraine's Capital",
+        "text": "Russia launched a missile and drone attack on Ukraine. Seventeen people died in Kyiv. More than forty people were injured. President Volodymyr Zelensky told this news. The attack started after midnight on Wednesday. The air raid alarms sounded for over one hour. The military said many buildings were damaged. Ukraine asked for more US-made Patriot missile systems. Russia said it targeted supply centers in Kyiv. They also hit three boats carrying weapons. The mayor of Kyiv, Vitali Klitschko, is worried about trapped people. Four injured people are in serious condition now. Russia sent twenty-four missiles and many drones. Ukraine shot down many drones but not all. There are fears about civilian safety in both countries.",
+        "vocabulary": [
+          {
+            "word": "concern",
+            "definition": "a worry about something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Russia use to attack Ukraine?",
+            "options": [
+              "Missiles and drones",
+              "Tanks and planes",
+              "Only drones"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How many people were injured?",
+            "options": [
+              "44",
+              "17",
+              "100"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is Vitali Klitschko?",
+            "options": [
+              "The president of Russia",
+              "The mayor of Kyiv",
+              "A soldier"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Deadly Missile Strikes Hit Kyiv",
+        "text": "On Wednesday, Russia aggressively attacked Ukraine with ballistic missiles and drones. This deadly strike has killed at least seventeen people and injured over forty others. Ukraine's President, Volodymyr Zelensky, confirmed the news shortly after the attack. The violence began shortly after midnight, and air raid warnings lasted for more than an hour. Kyiv's military administration has reported significant damage to residential buildings and warehouses, which has left many families without homes. Ukraine has been asking its allies for more US-made Patriot missiles to improve their defense against such brutal attacks. Meanwhile, Russia claimed to have targeted logistics centers in Kyiv, which were involved in the storage and delivery of weapons. They also hit three cargo vessels near Odesa, which were transporting military supplies. The mayor of Kyiv, Vitali Klitschko, expressed fears that some people might be trapped under the rubble of destroyed buildings. He also mentioned that four injured people are currently in serious condition at the hospital. The situation remains tense, and both countries are accusing each other of deliberately targeting civilians. If the attacks continue, it could lead to further escalation in the conflict, endangering more lives. The international community is watching closely, and there have been calls for stronger responses to Russia’s actions. As violence increases, civilians might suffer the most, highlighting the urgent need for a diplomatic solution to end this devastating conflict.",
+        "vocabulary": [
+          {
+            "word": "ballistic",
+            "definition": "related to weapons that are launched through the air and follow a specific path before hitting a target."
+          },
+          {
+            "word": "logistics",
+            "definition": "the detailed organization and movement of resources, including supplies and equipment."
+          },
+          {
+            "word": "escalation",
+            "definition": "an increase in intensity or seriousness, often referring to conflict."
+          },
+          {
+            "word": "diplomatic",
+            "definition": "related to managing relationships between countries."
+          },
+          {
+            "word": "infrastructure",
+            "definition": "the physical structures and facilities needed for the functioning of a society, such as buildings, roads, and bridges."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has happened as a result of the missile strikes?",
+            "options": [
+              "At least 17 deaths and over 40 injuries",
+              "Only property damage",
+              "No reported consequences"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What has Kyiv's military administration reported?",
+            "options": [
+              "Significant damage to infrastructure",
+              "No damage at all",
+              "All missile attacks were intercepted"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What are the consequences if attacks continue?",
+            "options": [
+              "It could lead to more civilian suffering",
+              "Russia might withdraw its forces",
+              "The conflict will end soon"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Deadly Missile Attack in Kyiv",
+        "text": "Russia has launched a severe attack on Ukraine using ballistic missiles and drones, resulting in the deaths of at least 17 individuals and injuring approximately 44 others, according to statements made by President Volodymyr Zelensky. This incident, which occurred shortly after midnight on Wednesday, marks one of the deadliest strikes in Kyiv this year. Timur Tkachenko, the head of the city's military administration, reported that the 'enemy is once again massively attacking.' For over an hour, air raid alerts were sounded as officials indicated that the assault caused damage to residential buildings and warehouses. Ukraine is requesting support from its allies for US-made Patriot missile interceptors to enhance its defense against such relentless offensives. The Russian defense ministry claimed responsibility for targeting logistics hubs and supply centers in Kyiv, asserting that these locations were involved in weapon storage and production of drones. Furthermore, they reported hitting three cargo vessels in the Black Sea, which were allegedly transporting military equipment. Kyiv's Mayor, Vitali Klitschko, expressed concerns that individuals could be trapped under the rubble of destroyed buildings. The military administration condemned the attack, accusing Russia of deliberately targeting civilians and civilian infrastructure.",
+        "vocabulary": [
+          {
+            "word": "launched",
+            "definition": "started or sent out"
+          },
+          {
+            "word": "assault",
+            "definition": "an attack"
+          },
+          {
+            "word": "condemned",
+            "definition": "strongly criticized"
+          },
+          {
+            "word": "targeting",
+            "definition": "aiming at something or someone to harm"
+          },
+          {
+            "word": "defense",
+            "definition": "protection from attack"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How many people died in the missile attack?",
+            "options": [
+              "17",
+              "44",
+              "24"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did Ukraine request from its allies?",
+            "options": [
+              "Food",
+              "Patriot missile interceptors",
+              "Money"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who reported that people might be trapped under rubble?",
+            "options": [
+              "President Zelensky",
+              "Kyiv Mayor Vitali Klitschko",
+              "Timur Tkachenko"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Kyiv Struck by Russian Missile Assault: A Human Tragedy",
+        "text": "In a harrowing incident marking a significant escalation in the conflict, Russia launched a vicious assault on Ukraine employing ballistic missiles and drones, leading, tragically, to at least 17 fatalities and leaving around 44 individuals injured, as reported by President Volodymyr Zelensky. This strike, occurring shortly after midnight on Wednesday, stands out as one of the most lethal attacks in Kyiv within the current year. The city's military chief, Timur Tkachenko, described the situation, stating that the 'enemy is once again massively attacking,' as air alerts rang for over an hour. Reports indicated that the barrage inflicted significant damage on residential structures and warehouses, highlighting the severity of the onslaught. Subsequently, Ukraine has appealed to its international partners for advanced US-made Patriot missile interceptors, vital for enhancing defensive measures against ongoing Russian attacks. The Russian defense ministry asserted that its operations targeted logistical hubs and supply points in Kyiv, emphasizing their involvement in weapon storage and drone production. Moreover, they claimed to have struck three vessels in the Black Sea associated with military supply routes. Kyiv's Mayor, Vitali Klitschko, expressed grave concerns over potential casualties hidden beneath debris, condemning Russia’s actions as deliberate assaults on civilians, underscoring the inhumanity of the ongoing conflict.",
+        "vocabulary": [
+          {
+            "word": "harrowing",
+            "definition": "extremely distressing or upsetting"
+          },
+          {
+            "word": "escalation",
+            "definition": "a rise in intensity or seriousness"
+          },
+          {
+            "word": "barrage",
+            "definition": "a concentrated bombardment"
+          },
+          {
+            "word": "appealed",
+            "definition": "made a serious request or plea"
+          },
+          {
+            "word": "emphasizing",
+            "definition": "making something clear or important"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the military chief say about the enemy?",
+            "options": [
+              "They are helping civilians",
+              "They are massively attacking again",
+              "They have retreated"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What type of weapons does Ukraine want from its allies?",
+            "options": [
+              "Patriot missile interceptors",
+              "Drones",
+              "Tanks"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What did the Russian defense ministry say they targeted?",
+            "options": [
+              "Civil buildings",
+              "Logistics hubs",
+              "Civilians"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "A Stark Wake-Up Call: Russia’s Missile Assault on Kyiv Claims Lives",
+        "text": "In a stark demonstration of the ongoing hostilities, Russia's recent missile assault on Ukraine resulted in a mournful tally of at least 17 confirmed deaths and around 44 injuries, an ominous reminder of the persistent perils that civilians face amid this unyielding conflict, as articulated by President Volodymyr Zelensky. This attack, which unfolded in the early hours of Wednesday, has been characterized as one of the most devastating strikes the capital has experienced this year. Timur Tkachenko, the head of Kyiv's military administration, conveyed a sobering reality, proclaiming that the 'enemy is once again massively attacking,' all while air raid alerts reverberated across the city for over an hour. Reports emanating from local authorities revealed extensive damage to residential buildings and warehouses, underlining the gravity of this predation. In a bid to fortify its defense against these relentless offenses, Ukraine has urgently sought the assistance of its allies for sophisticated US-made Patriot missile systems. The Russian defense ministry, in its continued justification of its military operations, asserted that its strikes had intentionally targeted logistics centers in Kyiv, purportedly engaged in the storage and dissemination of various weaponry. Moreover, they boasted of successfully striking three cargo vessels transporting military supplies in the Black Sea. Vitali Klitschko, the Mayor of Kyiv, expressed palpable concern over the potential of individuals being trapped beneath the rubble, emphasizing the horrific nature of these civilian-targeted strikes. Both sides have circulated narratives contravening the principle of non-combatant immunity, denying outright allegations of intentionally attacking non-military personnel.",
+        "vocabulary": [
+          {
+            "word": "demonstration",
+            "definition": "an act or process of showing something clearly"
+          },
+          {
+            "word": "unyielding",
+            "definition": "not giving way under pressure; firm"
+          },
+          {
+            "word": "sobering",
+            "definition": "making one feel serious; thought-provoking"
+          },
+          {
+            "word": "predation",
+            "definition": "the act of attacking or harming others"
+          },
+          {
+            "word": "non-combatant",
+            "definition": "someone who is not in the military"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did President Zelensky say about the attack?",
+            "options": [
+              "It was successful",
+              "It was devastating",
+              "It was a joke"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What are Ukraine's allies asked for?",
+            "options": [
+              "Food",
+              "US-made Patriot missiles",
+              "Tanks"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What did Klitschko express concern about?",
+            "options": [
+              "People being trapped under rubble",
+              "More attacks on military bases",
+              "Helping the injured"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Russischer Angriff auf Kiew",
+        "text": "Russland greift die Ukraine an. Sie nutzen Raketen und Drohnen. Es gibt viele Tote. Mindestens siebzehn Menschen sterben. Mindestens vierundvierzig Menschen sind verletzt. Die Angriffe sind sehr gefährlich. Die Menschen in Kiew fühlen sich nicht sicher. Die Luftalarme sind laut. Die Menschen müssen sich verstecken. Viele Häuser sind kaputt. Auch Lagerhäuser sind betroffen. Der Bürgermeister von Kiew spricht über die Verletzten. Die Zivilisten sind in Gefahr. Der Präsident von Ukraine, Wolodymyr Selenskyj, fragt nach Hilfe. Er will mit mehr Waffen schützen. Der Krieg geht weiter.",
+        "vocabulary": [
+          {
+            "word": "Angriff",
+            "definition": "Ein Angriff ist eine Attacke."
+          },
+          {
+            "word": "Ukraine",
+            "definition": "Die Ukraine ist ein Land."
+          },
+          {
+            "word": "Tote",
+            "definition": "Tote sind Menschen, die gestorben sind."
+          },
+          {
+            "word": "verletzen",
+            "definition": "Verletzen bedeutet, dass jemand Schmerzen hat."
+          },
+          {
+            "word": "Krieg",
+            "definition": "Ein Krieg ist eine große Auseinandersetzung."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer greift die Ukraine an?",
+            "options": [
+              "Russland",
+              "USA",
+              "Kiew"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Menschen sind verletzt?",
+            "options": [
+              "sechzehn",
+              "vierundvierzig",
+              "dreißig"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wann gibt es Angriffe?",
+            "options": [
+              "nachts",
+              "tagsüber",
+              "immer"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Russischer Angriff auf Kiew mit Raketen",
+        "text": "Russland hat die Ukraine mit Raketen und Drohnen angegriffen. Es gibt mindestens siebzehn Tote und viele Verletzte. Präsident Wolodymyr Selenskyj sagt, dass die Lage sehr ernst ist. Die Angriffe passieren oft nach Mitternacht. In Kiew sind die Menschen in Gefahr. Die Stadt hat Luftalarme, weil die Raketen kommen. Viele Gebäude und Lager sind kaputt. Der Bürgermeister von Kiew, Vitali Klitschko, spricht über die Verletzten. Er sagt, dass viele Zivilisten betroffen sind. Die Ukraine fragt ihre Freunde nach mehr Waffen. Diese Waffen sind wichtig, um sich zu verteidigen. Russlands Militär sagt, dass es wichtige Ziele getroffen hat. Sie nennen Lagerhäuser und die Lieferung von Waffen. Der Krieg dauert an und wird möglicherweise schlimmer.",
+        "vocabulary": [
+          {
+            "word": "Rakete",
+            "definition": "Eine Rakete ist ein Projektil."
+          },
+          {
+            "word": "Angriff",
+            "definition": "Ein Angriff ist eine Attacke."
+          },
+          {
+            "word": "Waffen",
+            "definition": "Waffen sind Hilfsmittel im Krieg."
+          },
+          {
+            "word": "Zivilisten",
+            "definition": "Zivilisten sind normale Menschen im Krieg."
+          },
+          {
+            "word": "Kriegsführung",
+            "definition": "Kriegsführung bedeutet, wie man im Krieg kämpft."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Tote gibt es?",
+            "options": [
+              "fünf",
+              "siebzehn",
+              "dreißig"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagt der Bürgermeister?",
+            "options": [
+              "Er fragt nach Schutzhund.",
+              "Er spricht über Verletzte.",
+              "Er kündigt eine Feier an."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was fragt die Ukraine nach?",
+            "options": [
+              "Truppen",
+              "Hilfe",
+              "Waffen"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Russischer Raketenangriff auf Kiew fordert viele Opfer",
+        "text": "Russland hat am Mittwoch die Ukraine mit Raketen und Drohnen angegriffen. Mindestens siebzehn Menschen sind dabei gestorben und über vierzig verletzt worden. Präsident Wolodymyr Selenskyj hat erklärt, dass dies einer der schlimmsten Angriffe auf Kiew in diesem Jahr war. Die Angriffe begannen nach Mitternacht und dauerten über eine Stunde. Während der Angriffe gab es Luftalarm, und viele Zivilisten mussten in Schutzräume gehen, um sich in Sicherheit zu bringen. Die Stadtverwaltung hat gemeldet, dass viele Wohnhäuser und Lagergebäude beschädigt wurden. Der Bürgermeister Vitali Klitschko hat große Besorgnis über die Lage der verletzten Menschen geäußert, von denen einige in einem ernsthaften Zustand sind. Wenn die Ukraine nicht mehr US-amerikanische Patriot-Raketen fordert, wird es schwierig sein, sich vor weiteren Angriffen zu schützen. Russland hingegen behauptet, gezielte Militärziele getroffen zu haben, darunter Lagerhäuser für Waffen. Trotz der Angriffe halten die Kämpfe zwischen beiden Ländern weiter an, und die Situation wird immer schwieriger. Außerdem hat die Ukraine in den letzten Wochen auch verstärkt Angriffe auf russische Infrastruktur durchgeführt, was zu einer Eskalation des Konflikts geführt hat. Dies zeigt, dass der Krieg nicht nur in der Ukraine, sondern auch in Russland spürbare Folgen hat.",
+        "vocabulary": [
+          {
+            "word": "eskalieren",
+            "definition": "sich verschärfen oder zuspitzen, vor allem in Konflikten."
+          },
+          {
+            "word": "Zivileinrichtungen",
+            "definition": "Gebäude oder Infrastrukturen, die für das tägliche Leben der Zivilbevölkerung wichtig sind."
+          },
+          {
+            "word": "auslösen",
+            "definition": "etwas bewirken oder verursachen."
+          },
+          {
+            "word": "verwundbar",
+            "definition": "angreifbar oder gefährdet."
+          },
+          {
+            "word": "militärisch",
+            "definition": "etwas, das das Militär oder die Armee betrifft."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann hat der Angriff auf Kiew begonnen?",
+            "options": [
+              "Nach Mitternacht",
+              "Am Vormittag",
+              "Am Abend"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Menschen sind bei dem Angriff gestorben?",
+            "options": [
+              "Mindestens 10",
+              "Mindestens 17",
+              "Mindestens 25"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat die Ukraine angefordert, um sich besser zu schützen?",
+            "options": [
+              "Mehr Waffen aus Russland",
+              "Mehr US-amerikanische Patriot-Raketen",
+              "Weniger Angriffe aus der Luft"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ballistische Raketenangriffe auf Kiew töten mindestens 17 Menschen",
+        "text": "Russland hat die Ukraine mit ballistischen Raketen und Drohnen angegriffen, wodurch mindestens 17 Personen getötet und 44 verletzt wurden, erklärte der ukrainische Präsident Wolodymyr Selenskyj. Dieser Angriff, einer der verheerendsten in Kiew in diesem Jahr, begann nach Mitternacht am Mittwoch. Der Leiter der militärischen Verwaltung der Stadt, Timur Tkatschenko, berichtete, dass \"der Feind wieder massiv angreift\". Über eine Stunde lang gab es Luftangriffe-Alarm, während die militärische Verwaltung der Hauptstadt mitteilte, dass der Beschuss Wohngebäude und Lagerhäuser beschädigt hatte. Die Ukraine hat ihre Verbündeten aufgerufen, mehr US-amerikanische Patriot-Raketenabwehrsysteme bereitzustellen, um sich gegen die russischen Angriffe zu schützen. Das russische Verteidigungsministerium meldete, dass Einrichtungen für Logistik und Versorgung um Kiew getroffen wurden. \"Diese Zentren waren am Lager und an der Lieferung verschiedener Waffen beteiligt\", erklärte es weiter. Auch drei Frachtschiffe, die \"Waffen und militärische Ausrüstung\" transportierten, wurden in der Nähe des Schwarzmeerhafens von Odessa getroffen. Der Bürgermeister von Kiew, Vitali Klitschko, äußerte die Befürchtung, dass Menschen unter den Trümmern gefangen sein könnten. Er berichtete auf Telegram, dass vier der Verletzten schwer verletzt seien. \"Der Feind greift erneut gezielt Zivilisten an\", fügten die militärische Verwaltung Kiews hinzu.",
+        "vocabulary": [
+          {
+            "word": "Raketenangriffe",
+            "definition": "Angriffe mit Raketen"
+          },
+          {
+            "word": "Verteidigungsministerium",
+            "definition": "Behörde, die für die Sicherheit des Landes zuständig ist"
+          },
+          {
+            "word": "beschädigt",
+            "definition": "kaputt oder nicht mehr ganz"
+          },
+          {
+            "word": "Zivileinrichtungen",
+            "definition": "Gebäude oder Orte, die für das Leben der Bürger wichtig sind"
+          },
+          {
+            "word": "Luftangriffe",
+            "definition": "Angriffe aus der Luft"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden mindestens getötet?",
+            "options": [
+              "17",
+              "44",
+              "24"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer gab die Informationen über den Angriff bekannt?",
+            "options": [
+              "Der Bürgermeister",
+              "Wolodymyr Selenskyj",
+              "Timur Tkatschenko"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was wurde in der Nähe des Hafens von Odessa getroffen?",
+            "options": [
+              "Schiffe",
+              "Flugzeuge",
+              "Bauwerke"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Raketenangriffe auf Kiew: Mindestens 17 Tote nach russischem Angriff",
+        "text": "Russland setzte seine Intensivierung der militärischen Aktivitäten fort und zielte mit ballistischen Raketen und Drohnen gezielt auf die ukrainische Hauptstadt Kiew. Präsident Wolodymyr Selenskyj berichtete, dass mindestens 17 Menschen ums Leben kamen und 44 weitere verletzt wurden. Der Angriff, der sich als einer der brutalsten in Kiew in diesem Jahr herausgestellt hat, begann nach Mitternacht am Mittwoch. Timur Tkatschenko, der Leiter der militärischen Verwaltung, äußerte, dass \"der Feind erneut massiv angreift\". Während mehr als einer Stunde galten in der Stadt Luftangriffe-Alarm. Die militärische Verwaltung meldete Schäden an Wohngebäuden und Lagerhäusern, was die Dringlichkeit der Situation unterstrich. Die ukrainische Regierung appellierte an ihre westlichen Verbündeten, um zusätzliche US-amerikanische Patriot-Raketenabwehrsysteme nachzusuchen, um sich gegen die russischen Angriffe zu wappnen. Das russische Verteidigungsministerium behauptete, logistische Zentren und Versorgungsdepots in der Region getroffen zu haben. Diese Einrichtungen, so fügte es hinzu, seien an Lagerung und Lieferung von Waffen beteiligt. Bürgermeister Vitali Klitschko warnte, dass unter den Trümmern der beschädigten Gebäude möglicherweise Menschen eingeschlossen sein könnten. Schwerverletzte wurden ebenfalls gemeldet. Die militärische Administration betonte, dass Zivilisten erneut ins Visier genommen wurden, während die ukrainische Luftwaffe berichtet, dass 24 ballistische Raketen und vier Anti-Schiffs-Raketen abgefeuert wurden.",
+        "vocabulary": [
+          {
+            "word": "Intensivierung",
+            "definition": "Verstärkung oder Steigerung von Aktivitäten"
+          },
+          {
+            "word": "dringlich",
+            "definition": "mit hoher Wichtigkeit"
+          },
+          {
+            "word": "logistisch",
+            "definition": "mit der Planung und Durchführung von Transporte verbunden"
+          },
+          {
+            "word": "appellieren",
+            "definition": "einen dringenden Aufruf machen"
+          },
+          {
+            "word": "verletzen",
+            "definition": "physischen oder psychischen Schaden zuzufügen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Menschen wurden verletzt?",
+            "options": [
+              "44",
+              "24",
+              "17"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist der Leiter der militärischen Verwaltung?",
+            "options": [
+              "Wolodymyr Selenskyj",
+              "Vitaly Klitschko",
+              "Timur Tkatschenko"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was sollen die Verbündeten der Ukraine bereitstellen?",
+            "options": [
+              "Flugzeuge",
+              "Patriot-Raketenabwehrsysteme",
+              "Panzer"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Kiew unter Beschuss: Ein russischer Angriff fordert zahlreiche Todesopfer",
+        "text": "In einem verheerenden militärischen Übergriff hat Russland Kiew mit ballistischen Raketen und Drohnen ins Visier genommen, was zu mindestens 17 Todesopfern und 44 Verletzten führte, wie Präsident Wolodymyr Selenskyj meldete. Dieser Anschlag, einer der brutalen vermeintlichen Höhepunkte der aggressiven Taktiken Russlands in diesem Jahr, begann kurz nach Mitternacht am Mittwoch. Timur Tkatschenko, der die militärische Verwaltung leitet, bezeichnete den Vorgehensweise als erneuten massiven Angriff des Feindes. Über eine Stunde lang erklangen die Sirenen und die Luftangriffwarnungen überdeckten die Stadt, während die Konsequenzen des Angriffs – Schäden an Wohngebäuden und Lagerhäusern – in den sozialen Medien dokumentiert wurden. Der ukrainische Appell an westliche Verbündete, insbesondere an die Vereinigten Staaten, um zusätzliche Patriot-Raketenabwehrsysteme zu erhalten, verdeutlicht das dringende Bedürfnis, sich gegen die militärischen Übergriffe zu verteidigen. Im Kontrast dazu behauptete das russische Verteidigungsministerium, logistische Zentren und Vorratslager getroffen zu haben, in denen Waffen gelagert wurden. Bürgermeister Vitali Klitschko warnte eindringlich davor, dass unter den Trümmern der zerstörten Gebäude möglicherweise noch Zivilisten gefangen sein könnten. Die militärische Administration betonte, dass die Angriffe gezielt gegen die Zivilbevölkerung gerichtet sind, während die ukrainische Luftwaffe mitteilt, dass während des Angriffs 24 Raketen sowie vier Anti-Schiffs-Raketen abgefeuert wurden.",
+        "vocabulary": [
+          {
+            "word": "übergriff",
+            "definition": "eine aggressive Handlung oder Attacke"
+          },
+          {
+            "word": "verheerend",
+            "definition": "extrem schädlich oder katastrophal"
+          },
+          {
+            "word": "eindringlich",
+            "definition": "mit großem Nachdruck oder Dringlichkeit"
+          },
+          {
+            "word": "versteckt",
+            "definition": "nicht sichtbar oder verborgen"
+          },
+          {
+            "word": "kontrastieren",
+            "definition": "gegenüberstellen oder vergleichen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Tote gab es nach dem Angriff?",
+            "options": [
+              "46",
+              "17",
+              "27"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was behauptete das russische Verteidigungsministerium?",
+            "options": [
+              "Sie haben zivile Gebäude getroffen.",
+              "Logistikzentren wurden angegriffen.",
+              "Sie haben Waffen zerstört."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer warnte vor möglichen Zivilisten unter den Trümmern?",
+            "options": [
+              "Der Bürgermeister von Odessa",
+              "Timur Tkatschenko",
+              "Vitali Klitschko"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Attaque en Ukraine",
+        "text": "La Russie attaque l'Ukraine avec des missiles. Cette attaque commence après minuit. Les missiles font beaucoup de dégâts. Au moins 17 personnes sont mortes et 44 sont blessées. Les autorités disent que la situation est grave. À Kyiv, le président ukrainien est Zelensky. Il parle de l'attaque sur les réseaux sociaux. Il y a des alertes dans toute la ville. Plusieurs bâtiments sont touchés. Les gens ont peur et ils se cachent. Les secours partent pour aider les blessés. Les habitants espèrent une fin rapide de cette violence. Les pays alliés de l'Ukraine regardent la situation et aident comme ils peuvent. Les militaires ukrainiens se préparent pour défendre la ville.",
+        "vocabulary": [
+          {
+            "word": "attaque",
+            "definition": "action d'attaquer, d'agresser"
+          },
+          {
+            "word": "missiles",
+            "definition": "projectiles lancés par des systèmes de lancement"
+          },
+          {
+            "word": "bâtiments",
+            "definition": "structures où les gens vivent ou travaillent"
+          },
+          {
+            "word": "blessés",
+            "definition": "personnes qui ont subi des blessures"
+          },
+          {
+            "word": "alertes",
+            "definition": "notifications de danger ou de souci"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le président ukrainien ?",
+            "options": [
+              "Zelensky",
+              "Klitschko",
+              "Milyaev"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de personnes sont blessées ?",
+            "options": [
+              "17",
+              "44",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "À quelle heure commence l'attaque ?",
+            "options": [
+              "Après midi",
+              "Après minuit",
+              "Avant l'aube"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Attaque de missiles en Ukraine",
+        "text": "La Russie a attaqué l'Ukraine avec des missiles et des drones. Au moins 17 personnes sont mortes et 44 autres ont été blessées. L'attaque a commencé après minuit dans la ville de Kyiv. Le président Zelensky a évoqué cet événement tragique pendant une conférence de presse. Les alertes aériennes étaient présentes pendant plus d'une heure, et cela a causé beaucoup d'angoisse pour les habitants. Les bâtiments résidentiels, ainsi que des entrepôts, ont été endommagés. Les autorités militaires ont déclaré que l'ennemi attaque parfois très fort. L'Ukraine demande plus de missiles Patriot des États-Unis pour se défendre. La Russie a frappé des centres logistiques à Kyiv, des lieux où les armes sont stockées. Ils ont également attaqué des navires transportant des armes près du port d'Odesa. Les gens ont peur et la situation est très difficile. Le maire de Kyiv, Vitali Klitschko, a dit qu'il y avait des inquiétudes. Certains blessés sont dans un état grave. L’Ukraine continue de lutter, mais les attaques s’intensifient.",
+        "vocabulary": [
+          {
+            "word": "missiles",
+            "definition": "projectiles que l'on tire pour attaquer"
+          },
+          {
+            "word": "drones",
+            "definition": "appareils volants sans pilote"
+          },
+          {
+            "word": "alertes",
+            "definition": "signaux d'alerte pour prévenir un danger"
+          },
+          {
+            "word": "centres",
+            "definition": "endroits où se font des activités spécifiques"
+          },
+          {
+            "word": "logistique",
+            "definition": "organisation et gestion des ressources"
+          },
+          {
+            "word": "entrepôts",
+            "definition": "grandes constructions pour stocker des marchandises"
+          },
+          {
+            "word": "situation",
+            "definition": "état d'une chose ou d'un évènement"
+          },
+          {
+            "word": "blessés",
+            "definition": "personnes ayant subi des blessures"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Combien de personnes sont mortes lors de l'attaque?",
+            "options": [
+              "17",
+              "44",
+              "100"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de missiles a été utilisé dans l'attaque?",
+            "options": [
+              "Missiles de croisière",
+              "Missiles balistiques",
+              "Missiles anti-aériens"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Où la Russie a-t-elle attaqué des navires?",
+            "options": [
+              "Au port de Kyiv",
+              "Au port d'Odesa",
+              "Au port de Moscou"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Attaque de missiles sur Kyiv par la Russie",
+        "text": "La Russie a récemment attaqué l'Ukraine avec des missiles balistiques et des drones, causant la mort d'au moins 17 personnes et laissant au moins 44 blessés, selon le président Zelensky. Cette attaque est l'une des plus meurtrières de l'année à Kyiv et a commencé après minuit mercredi. Les alertes de raid aérien ont été en cours pendant plus d'une heure, révélant l'urgence de la situation. Les autorités militaires de Kyiv, dont le chef est Timur Tkachenko, ont signalé que ce bombardement a causé des dégâts considérables aux bâtiments résidentiels et aux entrepôts, qui sont des lieux où les armes sont stockées. L'Ukraine a donc demandé à ses alliés d'envoyer des interceptors de missiles Patriot pour mieux se défendre à l'avenir. La Russie affirme avoir touché des centres de logistique dans la région de Kyiv, où les fournitures militaires sont préparées. Le maire de Kyiv, Vitali Klitschko, a exprimé ses craintes que des gens soient piégés sous les débris des bâtiments écroulés. Ce conflit a également provoqué une intensification d'autres attaques en Ukraine contre des infrastructures russes ces dernières semaines. Si cela continue, la situation pourrait encore s'aggraver, rendant la paix plus difficile à atteindre pour les deux pays.,",
+        "vocabulary": [
+          {
+            "word": "ballistique",
+            "definition": "relatif aux missiles ou aux projectiles qui suivent une trajectoire balistique, c'est-à-dire influencée par la gravité et la résistance de l'air."
+          },
+          {
+            "word": "infrastructure",
+            "definition": "ensembles de constructions et d'installations nécessaires à un pays, comme les routes, ponts, et réseaux de communication."
+          },
+          {
+            "word": "s'approvisionner",
+            "definition": "obtenir des fournitures ou des ressources nécessaires."
+          },
+          {
+            "word": "débri",
+            "definition": "des morceaux de matériaux, souvent après un destruction."
+          },
+          {
+            "word": "intensifier",
+            "definition": "devenir plus fort ou plus fréquent."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type de missiles la Russie a utilisé pour attaquer Kyiv ?",
+            "options": [
+              "Des missiles balistiques",
+              "Des missiles nucléaires",
+              "Des missiles de croisière"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui est le maire de Kyiv ?",
+            "options": [
+              "Vitali Klitschko",
+              "Volodymyr Zelensky",
+              "Timur Tkachenko"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Combien de personnes ont été blessées lors de l'attaque ?",
+            "options": [
+              "44",
+              "17",
+              "58"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Une attaque de missiles russes sur Kyiv fait au moins 17 morts",
+        "text": "Le président ukrainien, Volodymyr Zelensky, a annoncé qu’une attaque de missiles balistiques et de drones lancée par la Russie avait tué au moins 17 personnes et blessé 44 autres. Cette frappe, l'une des plus meurtrières à Kyiv cette année, a commencé mercredi après minuit. D’après Timur Tkachenko, le chef de l’administration militaire de la ville, l’ennemi a une fois de plus intensifié ses attaques. Des alertes aériennes ont été activées pendant plus d’une heure, alors que l'administration militaire rapportait des dommages aux bâtiments résidentiels et aux entrepôts. L’Ukraine a demandé à ses alliés d’envoyer davantage d'intercepteurs de missiles Patriot fabriqués aux États-Unis pour se défendre contre les attaques balistiques russes. Le ministère russe de la Défense a déclaré avoir frappé des hubs logistiques et des centres d’approvisionnement à Kyiv et dans la région environnante, impliqués dans le stockage et la livraison de différentes armes. De plus, des navires transportant des armes et de l’équipement militaire près du port d'Odesa ont également été touchés. Le maire de Kyiv, Vitali Klitschko, a exprimé ses craintes que des personnes ne soient piégées sous les décombres, notant que quatre blessés étaient dans un état grave. 'L’ennemi frappe délibérément les civils et les infrastructures civiles', a déclaré l'administration militaire de Kyiv. Pendant l'attaque, l'aviation ukrainienne n'a pas signalé d'interception de missiles russes, indiquant que 24 missiles balistiques et quatre missiles antinavires avaient été lancés.",
+        "vocabulary": [
+          {
+            "word": "attaque",
+            "definition": "un assault ou un coup dirigé contre quelque chose"
+          },
+          {
+            "word": "ennemi",
+            "definition": "un adversaire ou un opposant"
+          },
+          {
+            "word": "administration",
+            "definition": "l'organe de gestion d'une ville ou d'une région"
+          },
+          {
+            "word": "frapper",
+            "definition": "toucher ou toucher violemment"
+          },
+          {
+            "word": "alerte",
+            "definition": "un avertissement sur un danger"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a annoncé l'attaque?",
+            "options": [
+              "Le ministre de la Défense",
+              "Volodymyr Zelensky",
+              "Le maire de Kyiv"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de personnes ont été blessées?",
+            "options": [
+              "17",
+              "44",
+              "24"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que l'Ukraine a demandé à ses alliés?",
+            "options": [
+              "Des armes",
+              "Des intercepteurs de missiles",
+              "Des troupes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Londres face à une nouvelle offensive russe : 17 pertes dans la capitale ukrainienne",
+        "text": "Dans une déclaration troublante, le président ukrainien Volodymyr Zelensky a révélé qu'une offensive menée par la Russie à l’aide de missiles balistiques et de drones avait entraîné la mort d’au moins 17 individus, laissant 44 autres blessés. Cette attaque, survenue dans la nuit de mercredi, est considérée comme l'une des plus meurtrières en ce qui concerne les frappes sur Kyiv cette année. Le chef de l'administration militaire de la ville, Timur Tkachenko, a affirmé que 'l'ennemi intensifiait à nouveau ses assauts' contre la capitale. Pendant plus d'une heure, des alertes aériennes ont retenti, alors que l'administration militaire rapportait des dommages importants à des infrastructures résidentielles et des entrepôts. En réponse, l'Ukraine a multiplié ses demandes d'intercepteurs de missiles Patriot, conçus aux États-Unis, pour contrer les attaques balistiques russes. Le ministère russe de la Défense a vanté l'efficacité de ses frappes sur des centres logistiques et des installations d'approvisionnement dans la région de Kyiv, en affirmant qu'ils étaient impliqués dans la gestion d'armements divers. Kyiv, par la voix de son maire Vitali Klitschko, a aussi exprimé ses inquiétudes quant au sort de potentiels survivants coincés sous les débris, tout en faisant état de la gravité des blessures de plusieurs victimes. 'Nous subissons de plein fouet une attaque ciblée sur des civils', a souligné l'administration militaire de Kyiv.",
+        "vocabulary": [
+          {
+            "word": "offensive",
+            "definition": "une attaque ou un mouvement pour prendre l'initiative"
+          },
+          {
+            "word": "assaut",
+            "definition": "une attaque violente ou soudaine"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "les structures de base d'une ville ou d'une région"
+          },
+          {
+            "word": "manoeuvre",
+            "definition": "un mouvement stratégique dans un contexte militaire"
+          },
+          {
+            "word": "souligner",
+            "definition": "mettre en avant, accentuer ou insister sur un point"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type d'attaque a eu lieu à Kyiv?",
+            "options": [
+              "Une attaque par drones et missiles",
+              "Une attaque terrestre",
+              "Une attaque maritime"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle est la préoccupation exprimée par Vitali Klitschko?",
+            "options": [
+              "Les dommages aux bâtiments",
+              "Des personnes sous les décombres",
+              "L'impact sur l'économie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel est l'objectif de la demande d'intercepteurs de missiles par l'Ukraine?",
+            "options": [
+              "Attaquer la Russie",
+              "Défendre le pays",
+              "Augmenter les stocks d'armes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Une nouvelle tragédie à Kyiv : l'ombre persistante des frappes russes",
+        "text": "Au crépuscule de la nuit, les alarmes s'élevaient et l'angoisse planait sur Kyiv alors que le président ukrainien, Volodymyr Zelensky, révélait le terrible bilan d'une offensive militaire lancée par la Russie : au moins 17 morts et 44 blessés. Ces frappes, qualifiées parmi les plus meurtrières de l'année, ont débuté peu après minuit et ont été décrites par Timur Tkachenko, responsable de l'administration militaire de la ville, comme un nouvel 'assaut massivement orchestré' contre des cibles civiles. En effet, des alertes aériennes ont retenti pendant plus d'une heure, le bombardement endommageant gravement des bâtiments résidentiels et des infrastructures essentielles. Alors que le pays appelait à un renforcement de ses défenses, notamment par l'acquisition de systèmes de missiles Patriot, le ministère de la Défense russe a justifié ses frappes sur des hubs logistiques en affirmant leur implication dans des activités non seulement militaires, mais aussi de livraison d'équipements divers. La municipalité, par la voix de Vitali Klitschko, a exprimé des craintes quant à d'éventuels survivants coincés sous les débris. 'Les civils sont une fois de plus les victimes de ces atrocités dirigées', a déclaré l'administration militaire, tandis que l'aviation ukrainienne, dans un communiqué, a signalé l'absence d'interceptions réussies durant l'attaque. Ce cycle tragique de violence continue de frapper cruellement tant l'Ukraine que la Russie, engendrant désolation et souffrance des deux côtés.",
+        "vocabulary": [
+          {
+            "word": "crépuscule",
+            "definition": "la période de temps entre le jour et la nuit"
+          },
+          {
+            "word": "angoisse",
+            "definition": "un état de grande inquiétude ou de peur"
+          },
+          {
+            "word": "orchestrer",
+            "definition": "planifier et organiser une opération complexe"
+          },
+          {
+            "word": "atrocités",
+            "definition": "des actions extrêmement cruelles ou inhumaines"
+          },
+          {
+            "word": "désolation",
+            "definition": "un état de destruction ou de tristesse extrême"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le bilan de l'attaque annoncée par Zelensky?",
+            "options": [
+              "17 morts et 44 blessés",
+              "24 morts et 17 blessés",
+              "44 morts et 24 blessés"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Comment l'administration militaire a-t-elle décrit l'assaut?",
+            "options": [
+              "Comme une attaque surprise",
+              "Comme un assaut massivement orchestré",
+              "Comme une riposte diplomatique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel sentiment domine la déclaration de l'administration de Kyiv?",
+            "options": [
+              "La célébration",
+              "La désolation",
+              "L'indifférence"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Ataque en Ucrania",
+        "text": "Rusia ataca Ucrania con misiles. Hay al menos 17 muertos. También hay al menos 44 heridos. El presidente de Ucrania es Volodymyr Zelensky. El ataque ocurre en Kyiv. Hay alertas de ataques aéreos. El enemigo ataca de nuevo mucho. Hay daños en edificios residenciales. Ucrania pide ayuda a otros países. Necesita misiles para defenderse. El enemigo ataca a gente civil. Nadie detiene los misiles en el aire. Hay miedo en la ciudad. La gente está preocupada. La guerra continúa.",
+        "vocabulary": [
+          {
+            "word": "atacar",
+            "definition": "agredir a otra persona o país"
+          },
+          {
+            "word": "muerte",
+            "definition": "cuando una persona deja de vivir"
+          },
+          {
+            "word": "herido",
+            "definition": "persona que tiene una herida"
+          },
+          {
+            "word": "ciudad",
+            "definition": "lugar grande donde vive mucha gente"
+          },
+          {
+            "word": "guerra",
+            "definition": "conflicto entre países o grupos"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde ataca Rusia?",
+            "options": [
+              "En Nueva York",
+              "En Kyiv",
+              "En Madrid"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos muertos hay?",
+            "options": [
+              "Diecinueve",
+              "Catorce",
+              "Diecisiete"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Quién es el presidente de Ucrania?",
+            "options": [
+              "Volodymyr Zelensky",
+              "Vitali Klitschko",
+              "Timur Tkachenko"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ataque misilístico en Ucrania",
+        "text": "Rusia ha lanzado misiles y drones en Ucrania. El presidente Volodymyr Zelensky dice que hay al menos 17 muertos. También hay 44 heridos. Este ataque es uno de los más peligrosos en Kyiv este año. El ataque comenzó después de la medianoche. Timur Tkachenko, el jefe de la administración militar de la ciudad, dice que el enemigo ataca de nuevo. Hay alertas de ataques aéreos por más de una hora. El ataque daña edificios y almacenes. Ucrania pide misiles a sus aliados para defenderse. Rusia dice que golpeó centros de logística en Kyiv. Estos centros colaboran con armas y suministros. La ciudad tiene miedo porque hay personas atrapadas. Cuatro heridos están en estado grave. La guerra sigue y hay mucha preocupación.",
+        "vocabulary": [
+          {
+            "word": "lanzar",
+            "definition": "tirar algo al aire"
+          },
+          {
+            "word": "peligroso",
+            "definition": "que puede causar daño"
+          },
+          {
+            "word": "almacén",
+            "definition": "edificio donde se guardan cosas"
+          },
+          {
+            "word": "suministros",
+            "definition": "cosas necesarias para vivir o trabajar"
+          },
+          {
+            "word": "preocupación",
+            "definition": "sentir miedo o ansiedad"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántos heridos hay en el ataque?",
+            "options": [
+              "44",
+              "30",
+              "17"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién dice que hay 17 muertos?",
+            "options": [
+              "Timur Tkachenko",
+              "Volodymyr Zelensky",
+              "Vitali Klitschko"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué piden a otros países?",
+            "options": [
+              "Ayuda",
+              "Comida",
+              "Ropa"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Ataque con misiles en Kyiv deja 17 muertos",
+        "text": "Recientemente, Rusia ha atacado Ucrania con misiles y drones. El presidente de Ucrania, Volodymyr Zelensky, ha informado que al menos 17 personas han muerto y 44 están heridas. Este ataque es uno de los más mortales en Kyiv este año. Comenzó después de la medianoche. Según Timur Tkachenko, el jefe de la administración militar de la ciudad, el enemigo está atacando de nuevo de manera masiva. La población recibió alertas de ataques aéreos que duraron más de una hora. Los daños son significativos; se han afectado edificios residenciales y almacenes. Además, Ucrania ha solicitado más misiles interceptores Patriot a sus aliados para que les ayuden a defenderse de los ataques rusos. El ministerio de defensa de Rusia ha declarado que sus ataques afectan centros logísticos en Kyiv. Estos lugares están relacionados con el almacenamiento de armas y suministros. También han golpeado a barcos que transportaban armas cerca del puerto de Odesa. Las autoridades locales han expresado preocupación porque muchas personas podrían estar atrapadas entre los escombros. Algunos heridos se encuentran en estado grave, lo que aumenta el miedo en la población.",
+        "vocabulary": [
+          {
+            "word": "recentemente",
+            "definition": "hace poco tiempo"
+          },
+          {
+            "word": "mortal",
+            "definition": "que causa la muerte"
+          },
+          {
+            "word": "significativo",
+            "definition": "importante o grande"
+          },
+          {
+            "word": "relacionar",
+            "definition": "conectar dos o más cosas"
+          },
+          {
+            "word": "escombros",
+            "definition": "restos de algo que se ha destruido"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué informaron las autoridades sobre los muertos?",
+            "options": [
+              "Diez muertes",
+              "Quince muertes",
+              "Diecisiete muertas"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Dónde se han visto ataques recientemente?",
+            "options": [
+              "En Moscú",
+              "En Kyiv",
+              "En Odesa"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha solicitado Ucrania a sus aliados?",
+            "options": [
+              "Comida",
+              "Misiles interceptores",
+              "Soldados"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ataque de misiles balísticos rusos en Kiev causa al menos 17 muertes",
+        "text": "Rusia ha llevado a cabo un ataque contra Ucrania utilizando misiles balísticos y drones, resultando en al menos 17 personas fallecidas y 44 heridas, según informó el presidente ucraniano Volodymyr Zelensky. Este ataque, uno de los más mortales en Kiev en lo que va del año, ocurrió poco después de la medianoche del miércoles. Timur Tkachenko, jefe de la administración militar de Kiev, declaró que \"el enemigo está atacando masivamente una vez más\". Durante más de una hora estuvieron activas las alertas de ataque aéreo, mientras que la administración militar de la capital comunicaba que el bombardeo había causado daños en edificios residenciales y almacenes. Ucrania ha solicitado a sus aliados más interceptores de misiles Patriot fabricados en EE.UU. para defenderse de los ataques balísticos rusos. El Ministerio de Defensa ruso afirmó que había atacado centros logísticos y de suministro en Kiev y sus alrededores. Según su declaración, estos centros estaban involucrados en el almacenamiento y entrega de diversas armas y suministros, así como en la producción y distribución de drones. Además, se mencionó que se habían atacado tres buques de carga que transportaban armas cerca del puerto de Odesa. El alcalde de Kiev, Vitali Klitschko, expresó que había temores de que personas estuvieran atrapadas entre los escombros tras los ataques en el centro de la ciudad. La administración militar de Kiev aseguró que \"el enemigo ataca deliberadamente a civiles e infraestructura civil\". Durante el ataque, la fuerza aérea ucraniana no interceptó ningún misil, informando que Rusia lanzó 24 misiles balísticos y cuatro misiles antibuque. Se añadió que se dispararon 115 drones rusos durante el ataque y que los sistemas de defensa aérea lograron interceptar 98 de ellos. Las autoridades rusas han intensificado los ataques en Kiev recientemente, mientras que Ucrania también ha aumentado sus ataques contra instalaciones rusas, incluyendo las de energía.",
+        "vocabulary": [
+          {
+            "word": "balísticos",
+            "definition": "relacionado con misiles que viajan en una trayectoria balística."
+          },
+          {
+            "word": "atacando",
+            "definition": "agrediendo o asaltando a alguien o algo."
+          },
+          {
+            "word": "daños",
+            "definition": "perjuicios o destrucción en algo."
+          },
+          {
+            "word": "suministros",
+            "definition": "cosas necesarias para el funcionamiento de algo."
+          },
+          {
+            "word": "alertas",
+            "definition": "avisos sobre posibles peligros."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuántas personas murieron en el ataque?",
+            "options": [
+              "17",
+              "44",
+              "24"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué pidió Ucrania a sus aliados?",
+            "options": [
+              "más misiles",
+              "más soldados",
+              "más aviones"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde se atacaron los buques de carga?",
+            "options": [
+              "en el río",
+              "cerca de Odesa",
+              "en Moscú"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "El ataque con misiles de Rusia en Kiev cobra la vida de al menos 17 personas",
+        "text": "Rusia ha llevado a cabo un ataque masivo contra Ucrania, utilizando misiles balísticos y drones, que ha resultado en la muerte de al menos 17 individuos y ha dejado a 44 heridos, según lo confirmado por el presidente ucraniano Volodymyr Zelensky. Esta acción, considerada una de las más letales en Kiev durante este año, tuvo lugar poco después de la medianoche del miércoles. Timur Tkachenko, jefe de la administración militar de la ciudad, aseguró que \"el enemigo está atacando de forma masiva nuevamente\". Las alertas de ataque aéreo estuvieron activas durante más de una hora, mientras que las autoridades locales informaban que el bombardeo había causado daños significativos en edificios residenciales y en instalaciones de almacenamiento. Ucrania, en un intento de reforzar su defensa frente a estos ataques rusos, ha solicitado a sus aliados más interceptores de misiles Patriot de fabricación estadounidense. Por su parte, el Ministerio de Defensa de Rusia declaró que sus objetivos incluían centros logísticos en Kiev, utilizados para el almacenamiento y distribución de armas. Además, se mencionó que habían realizado ataques sobre buques de carga que transportaban armamento cerca del puerto de Odesa. Vitali Klitschko, el alcalde de Kiev, manifestó su preocupación por la posibilidad de que personas se encontraran atrapadas entre los escombros tras los ataques en el centro de la ciudad, añadiendo que entre los heridos, cuatro se hallaban en estado crítico. La administración militar local advirtió que \"el enemigo vuelve a atacar de forma deliberada a la población civil y a su infraestructura\". Ucrania no reportó la interceptación de misiles, informando que Rusia había lanzado 24 misiles balísticos y cuatro misiles antibuque, mientras que los sistemas de defensa aérea lograron neutralizar 98 de los 115 drones lanzados durante la ofensiva. La intensidad de los ataques rusos sobre Kiev ha aumentado en las semanas recientes, coincidiendo con un incremento en los ataques ucranianos dirigidos a la infraestructura civil en territorio ruso.",
+        "vocabulary": [
+          {
+            "word": "letal",
+            "definition": "que causa la muerte."
+          },
+          {
+            "word": "reforzar",
+            "definition": "hacer algo más fuerte o efectivo."
+          },
+          {
+            "word": "logísticos",
+            "definition": "relacionado con la organización y movimiento de recursos."
+          },
+          {
+            "word": "interceptación",
+            "definition": "acción de detener algo en su camino."
+          },
+          {
+            "word": "ofensiva",
+            "definition": "una serie de ataques o acciones en guerra."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de misiles usó Rusia en el ataque?",
+            "options": [
+              "misiles antibuque",
+              "misiles balísticos",
+              "misiles de crucero"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos heridos reportó el ataque?",
+            "options": [
+              "44",
+              "27",
+              "50"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué preocupación expresó Vitali Klitschko?",
+            "options": [
+              "que no había heridos",
+              "que había civiles atrapados",
+              "que los ataques terminarían"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "El impacto devastador del ataque balístico ruso en Kiev: al menos 17 muertos y múltiples heridos",
+        "text": "En una manifestación escalofriante de conflictos en curso, Rusia llevó a cabo un ataque fulminante sobre Ucrania usando misiles balísticos y drones, resultando en la trágica pérdida de al menos 17 vidas humanas y dejando a 44 heridos, conforme a la declaración del presidente ucraniano, Volodymyr Zelensky. Este asalto, que se posiciona entre los más mortales de los que han azotado Kiev durante el presente año, tuvo lugar después de la medianoche del miércoles, cuando, como expresó Timur Tkachenko, jefe de la administración militar de la capital, \"el enemigo está atacando masivamente otra vez\". Las sirenas de alerta se activaron durante más de una hora, mientras la administración militar de la ciudad informaba que el bombardeo había causado daños en numerosos edificios residenciales y en instalaciones logísticas. Ucrania, tratando de preservar su soberanía y proteger a sus ciudadanos, ha instado a sus aliados a suministrar más interceptores de misiles Patriot, elaborados en Estados Unidos, para hacer frente a la agresión rusa. Del lado ruso, el Ministerio de Defensa argumentó que sus ataques estaban dirigidos a centros logísticos involucrados en el suministro y almacenamiento de armamento, además de mencionar que se habían neutralizado tres embarcaciones de carga relacionadas con operaciones militares, en las cercanías del puerto de Odesa. Vitali Klitschko, el alcalde de Kiev, expresó su profunda preocupación por las posibles víctimas atrapadas bajo los escombros en el corazón de la ciudad, destacando que cuatro de los heridos se encontraban en condiciones críticas. Declaró que \"el enemigo está de nuevo atacando deliberadamente a civiles y a infraestructuras esenciales\". Cabe mencionar que la fuerza aérea ucraniana no reportó interceptaciones durante este ataque, informando que Rusia lanzó 24 misiles balísticos junto a cuatro misiles antibuque, mientras que sus sistemas de defensa pudieron interceptar 98 de los 115 drones utilizados durante el ataque. En el contexto más amplio del conflicto, los ataques rusos en Kiev han mostrado un incremento considerable en las semanas recientes, mientras que Ucrania ha intensificado sus incursiones en la infraestructura civil de Rusia.",
+        "vocabulary": [
+          {
+            "word": "fulminante",
+            "definition": "súbito y extremadamente violento."
+          },
+          {
+            "word": "soberanía",
+            "definition": "autoridad suprema sobre un territorio."
+          },
+          {
+            "word": "neutralizado",
+            "definition": "detener o anular la efectividad de algo."
+          },
+          {
+            "word": "escombros",
+            "definition": "restos de una construcción derrumbada."
+          },
+          {
+            "word": "incursiones",
+            "definition": "ataques breves y sorpresivos."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué capacidad de ataque tuvo Rusia en el asalto a Ucrania?",
+            "options": [
+              "misiles antibuque",
+              "drones y misiles balísticos",
+              "solo drones"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué declaró el alcalde sobre los heridos?",
+            "options": [
+              "todos estaban bien",
+              "cuatro estaban en estado crítico",
+              "no hubo heridas reportadas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el impacto de los recientes ataques de Rusia en Kiev?",
+            "options": [
+              "han disminuido",
+              "han incrementado",
+              "no han cambiado"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "russischer": "Russian",
+      "angriff": "attack",
+      "auf": "to",
+      "kiew": "Kyiv",
+      "russland": "Russia",
+      "greift": "attacks",
+      "die": "the",
+      "ukraine": "Ukraine",
+      "an": "at",
+      "sie": "they",
+      "nutzen": "use",
+      "raketen": "rockets",
+      "und": "and",
+      "drohnen": "drones",
+      "es": "it",
+      "gibt": "gives",
+      "viele": "many",
+      "tote": "dead",
+      "mindestens": "at least",
+      "siebzehn": "seventeen",
+      "menschen": "people",
+      "sterben": "to die",
+      "vierundvierzig": "forty-four",
+      "sind": "are",
+      "verletzt": "injured",
+      "angriffe": "attacks",
+      "sehr": "very",
+      "gefährlich": "dangerous",
+      "in": "in",
+      "fühlen": "to feel",
+      "sich": "oneself",
+      "nicht": "not",
+      "sicher": "safe",
+      "luftalarme": "air alarms",
+      "laut": "according to",
+      "müssen": "must",
+      "verstecken": "to hide",
+      "häuser": "houses",
+      "kaputt": "broken",
+      "auch": "also",
+      "lagerhäuser": "warehouses",
+      "betroffen": "affected",
+      "der": "the",
+      "bürgermeister": "mayor",
+      "von": "from",
+      "spricht": "speaks",
+      "über": "about",
+      "verletzten": "injured",
+      "zivilisten": "civilians",
+      "gefahr": "danger",
+      "präsident": "president",
+      "wolodymyr": "Volodymyr",
+      "selenskyj": "Zelensky",
+      "fragt": "asks",
+      "nach": "after",
+      "hilfe": "help",
+      "er": "he",
+      "will": "wants",
+      "mit": "with",
+      "mehr": "more",
+      "waffen": "weapons",
+      "schützen": "to protect",
+      "krieg": "war",
+      "geht": "goes",
+      "weiter": "continue",
+      "hat": "has",
+      "angegriffen": "attacked",
+      "verletzte": "injured",
+      "sagt": "says",
+      "dass": "that",
+      "lage": "situation",
+      "ernst": "serious",
+      "ist": "is",
+      "passieren": "to happen",
+      "oft": "often",
+      "mitternacht": "midnight",
+      "stadt": "city",
+      "weil": "because",
+      "kommen": "come",
+      "gebäude": "buildings",
+      "lager": "camp",
+      "vitali": "Vitali",
+      "klitschko": "Klitschko",
+      "ihre": "their",
+      "freunde": "friends",
+      "diese": "this",
+      "wichtig": "important",
+      "um": "around",
+      "zu": "to",
+      "verteidigen": "to defend",
+      "russlands": "Russia's",
+      "militär": "military",
+      "wichtige": "important",
+      "ziele": "goals",
+      "getroffen": "hit",
+      "nennen": "to name",
+      "lieferung": "delivery",
+      "dauert": "lasts",
+      "wird": "will",
+      "möglicherweise": "possibly",
+      "schlimmer": "worse",
+      "raketenangriff": "rocket attack",
+      "fordert": "demands",
+      "opfer": "victim",
+      "am": "at the",
+      "mittwoch": "Wednesday",
+      "dabei": "thereby",
+      "gestorben": "died",
+      "vierzig": "forty",
+      "worden": "been",
+      "erklärt": "explains",
+      "dies": "this",
+      "einer": "one",
+      "schlimmsten": "worst",
+      "diesem": "this",
+      "jahr": "year",
+      "war": "was",
+      "begannen": "began",
+      "dauerten": "lasted",
+      "eine": "a",
+      "stunde": "hour",
+      "während": "during",
+      "gab": "gave",
+      "luftalarm": "air alarm",
+      "mussten": "had to",
+      "schutzräume": "shelters",
+      "gehen": "to go",
+      "sicherheit": "security",
+      "bringen": "to bring",
+      "stadtverwaltung": "city administration",
+      "gemeldet": "reported",
+      "wohnhäuser": "residential buildings",
+      "lagergebäude": "storage building",
+      "beschädigt": "damaged",
+      "wurden": "were",
+      "große": "large",
+      "besorgnis": "concern",
+      "geäußert": "expressed",
+      "denen": "those",
+      "einige": "some",
+      "einem": "a",
+      "ernsthaften": "serious",
+      "zustand": "condition",
+      "wenn": "if",
+      "us-amerikanische": "us-american",
+      "patriot-raketen": "Patriot missiles",
+      "schwierig": "difficult",
+      "sein": "his",
+      "vor": "before",
+      "weiteren": "further",
+      "angriffen": "attacks",
+      "hingegen": "on the other hand",
+      "behauptet": "claimed",
+      "gezielte": "targeted",
+      "militärziele": "military targets",
+      "haben": "to have",
+      "darunter": "including",
+      "für": "for",
+      "trotz": "despite",
+      "halten": "to hold",
+      "kämpfe": "fights",
+      "zwischen": "between",
+      "beiden": "both",
+      "ländern": "countries",
+      "situation": "situation",
+      "immer": "always",
+      "schwieriger": "more difficult",
+      "außerdem": "besides",
+      "den": "the",
+      "letzten": "last",
+      "wochen": "weeks",
+      "verstärkt": "intensified",
+      "russische": "Russian",
+      "infrastruktur": "infrastructure",
+      "durchgeführt": "carried out",
+      "was": "what",
+      "eskalation": "escalation",
+      "des": "of the",
+      "konflikts": "conflict",
+      "geführt": "led",
+      "zeigt": "shows",
+      "nur": "only",
+      "sondern": "but",
+      "spürbare": "noticeable",
+      "folgen": "consequences",
+      "ballistische": "ballistic",
+      "raketenangriffe": "rocket attacks",
+      "töten": "to kill",
+      "ballistischen": "ballistic",
+      "wodurch": "to which",
+      "personen": "people",
+      "getötet": "killed",
+      "erklärte": "explained",
+      "ukrainische": "Ukrainian",
+      "dieser": "this",
+      "verheerendsten": "devastating",
+      "begann": "began",
+      "leiter": "leader",
+      "militärischen": "military",
+      "verwaltung": "administration",
+      "timur": "Timur",
+      "tkatschenko": "Tkachenko",
+      "berichtete": "reported",
+      "feind": "enemy",
+      "wieder": "again",
+      "massiv": "massive",
+      "angreift": "attacks",
+      "lang": "long",
+      "luftangriffe-alarm": "airstrike alarm",
+      "militärische": "military",
+      "hauptstadt": "capital",
+      "mitteilte": "communicated",
+      "beschuss": "fire",
+      "wohngebäude": "residential building",
+      "hatte": "had",
+      "verbündeten": "allies",
+      "aufgerufen": "called",
+      "patriot-raketenabwehrsysteme": "Patriot missile defense systems",
+      "bereitzustellen": "to provide",
+      "gegen": "against",
+      "russischen": "Russian",
+      "das": "that",
+      "verteidigungsministerium": "ministry of defense",
+      "meldete": "reported",
+      "einrichtungen": "facilities",
+      "logistik": "logistics",
+      "versorgung": "supply",
+      "zentren": "centers",
+      "waren": "were",
+      "verschiedener": "different",
+      "beteiligt": "involved",
+      "drei": "three",
+      "frachtschiffe": "cargo ships",
+      "ausrüstung": "equipment",
+      "transportierten": "transported",
+      "nähe": "proximity",
+      "schwarzmeerhafens": "Black Sea ports",
+      "odessa": "Odessa",
+      "äußerte": "expressed",
+      "befürchtung": "fear",
+      "unter": "under",
+      "trümmern": "debris",
+      "gefangen": "caught",
+      "könnten": "could",
+      "telegram": "telegram",
+      "vier": "four",
+      "schwer": "heavy",
+      "seien": "are",
+      "erneut": "again",
+      "gezielt": "targeted",
+      "fügten": "added",
+      "kiews": "of Kyiv",
+      "hinzu": "to it",
+      "russischem": "Russian",
+      "setzte": "set",
+      "seine": "his",
+      "intensivierung": "intensification",
+      "aktivitäten": "activities",
+      "fort": "on",
+      "zielte": "targeted",
+      "ums": "around",
+      "leben": "life",
+      "kamen": "came",
+      "weitere": "further",
+      "als": "than",
+      "brutalsten": "brutal",
+      "herausgestellt": "showed",
+      "galten": "were valid",
+      "schäden": "damages",
+      "wohngebäuden": "residential buildings",
+      "lagerhäusern": "warehouses",
+      "dringlichkeit": "urgency",
+      "unterstrich": "underscored",
+      "regierung": "government",
+      "appellierte": "appealed",
+      "westlichen": "western",
+      "zusätzliche": "additional",
+      "nachzusuchen": "to seek",
+      "wappnen": "to arm",
+      "behauptete": "claimed",
+      "logistische": "logistical",
+      "versorgungsdepots": "supply depots",
+      "region": "region",
+      "so": "so",
+      "fügte": "added",
+      "lagerung": "storage",
+      "warnte": "warned",
+      "beschädigten": "damaged",
+      "eingeschlossen": "trapped",
+      "schwerverletzte": "seriously injured",
+      "ebenfalls": "also",
+      "administration": "administration",
+      "betonte": "stressed",
+      "ins": "into",
+      "visier": "sight",
+      "genommen": "taken",
+      "luftwaffe": "air force",
+      "berichtet": "reports",
+      "anti-schiffs-raketen": "anti-ship missiles",
+      "abgefeuert": "fired",
+      "ein": "a",
+      "zahlreiche": "numerous",
+      "todesopfer": "fatalities",
+      "verheerenden": "devastating",
+      "übergriff": "assault",
+      "todesopfern": "fatalities",
+      "führte": "led",
+      "wie": "like",
+      "anschlag": "attack",
+      "brutalen": "brutal",
+      "vermeintlichen": "alleged",
+      "höhepunkte": "highlights",
+      "aggressiven": "aggressive",
+      "taktiken": "tactics",
+      "kurz": "short",
+      "leitet": "leads",
+      "bezeichnete": "designated",
+      "vorgehensweise": "approach",
+      "erneuten": "renewed",
+      "massiven": "massive",
+      "feindes": "enemy's",
+      "erklangen": "sounded",
+      "sirenen": "sirens",
+      "luftangriffwarnungen": "airstrike warnings",
+      "überdeckten": "covered",
+      "konsequenzen": "consequences",
+      "angriffs": "attack",
+      "sozialen": "social",
+      "medien": "media",
+      "dokumentiert": "documented",
+      "appell": "appeal",
+      "westliche": "western",
+      "verbündete": "allies",
+      "insbesondere": "especially",
+      "vereinigten": "United",
+      "staaten": "states",
+      "erhalten": "to receive",
+      "verdeutlicht": "clarifies",
+      "dringende": "urgent",
+      "bedürfnis": "need",
+      "übergriffe": "assaults",
+      "im": "in the",
+      "kontrast": "contrast",
+      "dazu": "additionally",
+      "vorratslager": "storage",
+      "gelagert": "stored",
+      "eindringlich": "urgent",
+      "davor": "against it",
+      "zerstörten": "destroyed",
+      "noch": "still",
+      "zivilbevölkerung": "civilian population",
+      "gerichtet": "directed",
+      "mitteilt": "communicates",
+      "sowie": "as well as"
+    },
+    "fr": {
+      "attaque": "attack",
+      "en": "in",
+      "ukraine": "Ukraine",
+      "la": "the",
+      "russie": "Russia",
+      "avec": "with",
+      "des": "some",
+      "missiles": "missiles",
+      "cette": "this",
+      "commence": "starts",
+      "après": "after",
+      "minuit": "midnight",
+      "les": "the",
+      "font": "make",
+      "beaucoup": "a lot",
+      "de": "of",
+      "dégâts": "damage",
+      "au": "at the",
+      "moins": "less",
+      "personnes": "people",
+      "sont": "are",
+      "mortes": "deaths",
+      "et": "and",
+      "blessées": "injured",
+      "autorités": "authorities",
+      "disent": "say",
+      "que": "that",
+      "situation": "situation",
+      "est": "is",
+      "grave": "serious",
+      "kyiv": "Kyiv",
+      "le": "the",
+      "président": "president",
+      "ukrainien": "Ukrainian",
+      "zelensky": "Zelensky",
+      "il": "he",
+      "parle": "speaks",
+      "sur": "about",
+      "réseaux": "networks",
+      "sociaux": "social",
+      "alertes": "alerts",
+      "dans": "in",
+      "toute": "all",
+      "ville": "city",
+      "plusieurs": "several",
+      "bâtiments": "buildings",
+      "touchés": "affected",
+      "gens": "people",
+      "ont": "have",
+      "peur": "fear",
+      "ils": "they",
+      "se": "yourself",
+      "cachent": "hide",
+      "secours": "relief",
+      "partent": "leave",
+      "pour": "for",
+      "aider": "to help",
+      "blessés": "injured",
+      "habitants": "inhabitants",
+      "espèrent": "hope",
+      "une": "a",
+      "fin": "end",
+      "rapide": "quick",
+      "violence": "violence",
+      "pays": "country",
+      "alliés": "allies",
+      "regardent": "watch",
+      "aident": "help",
+      "comme": "like",
+      "peuvent": "can",
+      "militaires": "military",
+      "ukrainiens": "Ukrainians",
+      "préparent": "prepare",
+      "défendre": "to defend",
+      "attaqué": "attacked",
+      "drones": "drones",
+      "autres": "others",
+      "été": "been",
+      "commencé": "started",
+      "évoqué": "mentioned",
+      "cet": "this",
+      "événement": "event",
+      "tragique": "tragic",
+      "pendant": "during",
+      "conférence": "conference",
+      "presse": "press",
+      "aériennes": "air",
+      "étaient": "were",
+      "présentes": "present",
+      "plus": "more",
+      "heure": "hour",
+      "cela": "that",
+      "causé": "caused",
+      "angoisse": "anguish",
+      "résidentiels": "residential",
+      "ainsi": "thus",
+      "entrepôts": "warehouses",
+      "endommagés": "damaged",
+      "déclaré": "stated",
+      "ennemi": "enemy",
+      "parfois": "sometimes",
+      "très": "very",
+      "fort": "strong",
+      "demande": "request",
+      "patriot": "patriot",
+      "états-unis": "united states",
+      "frappé": "hit",
+      "centres": "centers",
+      "logistiques": "logistical",
+      "lieux": "places",
+      "où": "where",
+      "armes": "arms",
+      "stockées": "stored",
+      "également": "also",
+      "navires": "ships",
+      "transportant": "carrying",
+      "près": "near",
+      "du": "of the",
+      "port": "port",
+      "odesa": "Odesa",
+      "difficile": "difficult",
+      "maire": "mayor",
+      "vitali": "Vitali",
+      "klitschko": "Klitschko",
+      "dit": "says",
+      "avait": "had",
+      "inquiétudes": "worries",
+      "certains": "some",
+      "un": "a",
+      "état": "state",
+      "continue": "continues",
+      "lutter": "to fight",
+      "mais": "but",
+      "attaques": "attacks",
+      "intensifient": "intensify",
+      "par": "by",
+      "récemment": "recently",
+      "balistiques": "ballistic",
+      "causant": "causing",
+      "mort": "death",
+      "laissant": "leaving",
+      "selon": "according",
+      "meurtrières": "murderous",
+      "année": "year",
+      "mercredi": "Wednesday",
+      "raid": "raid",
+      "aérien": "air",
+      "cours": "course",
+      "révélant": "revealing",
+      "urgence": "emergency",
+      "dont": "whose",
+      "chef": "chief",
+      "timur": "Timur",
+      "tkachenko": "Tkachenko",
+      "signalé": "reported",
+      "ce": "this",
+      "bombardement": "bombing",
+      "considérables": "considerable",
+      "aux": "to the",
+      "qui": "who",
+      "donc": "therefore",
+      "demandé": "requested",
+      "ses": "his",
+      "envoyer": "to send",
+      "interceptors": "interceptors",
+      "mieux": "better",
+      "avenir": "future",
+      "affirme": "affirms",
+      "avoir": "to have",
+      "touché": "hit",
+      "logistique": "logistics",
+      "région": "region",
+      "fournitures": "supplies",
+      "préparées": "prepared",
+      "exprimé": "expressed",
+      "craintes": "fears",
+      "soient": "are",
+      "piégés": "trapped",
+      "sous": "under",
+      "débris": "debris",
+      "écroulés": "collapsed",
+      "conflit": "conflict",
+      "provoqué": "provoked",
+      "intensification": "intensification",
+      "contre": "against",
+      "infrastructures": "infrastructures",
+      "russes": "Russians",
+      "ces": "these",
+      "dernières": "latest",
+      "semaines": "weeks",
+      "si": "if",
+      "pourrait": "could",
+      "encore": "again",
+      "aggraver": "to worsen",
+      "rendant": "making",
+      "paix": "peace",
+      "atteindre": "to reach",
+      "deux": "two",
+      "fait": "makes",
+      "morts": "deaths",
+      "volodymyr": "Volodymyr",
+      "annoncé": "announced",
+      "lancée": "launched",
+      "tué": "killed",
+      "blessé": "injured",
+      "frappe": "strike",
+      "administration": "administration",
+      "militaire": "military",
+      "fois": "times",
+      "intensifié": "intensified",
+      "activées": "activated",
+      "alors": "then",
+      "rapportait": "reported",
+      "dommages": "damage",
+      "davantage": "more",
+      "intercepteurs": "interceptors",
+      "fabriqués": "made",
+      "ministère": "ministry",
+      "russe": "Russian",
+      "défense": "defense",
+      "hubs": "hubs",
+      "approvisionnement": "supply",
+      "environnante": "surrounding",
+      "impliqués": "involved",
+      "stockage": "storage",
+      "livraison": "delivery",
+      "différentes": "different",
+      "équipement": "equipment",
+      "ne": "not",
+      "piégées": "trapped",
+      "décombres": "rubble",
+      "notant": "noting",
+      "quatre": "four",
+      "délibérément": "deliberately",
+      "civils": "civilians",
+      "civiles": "civil",
+      "aviation": "aviation",
+      "ukrainienne": "Ukrainian",
+      "pas": "not",
+      "interception": "interception",
+      "indiquant": "indicating",
+      "antinavires": "anti-ship",
+      "avaient": "had",
+      "lancés": "launched",
+      "londres": "London",
+      "face": "face",
+      "nouvelle": "new",
+      "offensive": "offensive",
+      "pertes": "losses",
+      "capitale": "capital",
+      "déclaration": "declaration",
+      "troublante": "disturbing",
+      "révélé": "revealed",
+      "menée": "conducted",
+      "aide": "help",
+      "entraîné": "trained",
+      "individus": "individuals",
+      "survenue": "occurred",
+      "nuit": "night",
+      "considérée": "considered",
+      "concerne": "concerns",
+      "frappes": "strikes",
+      "affirmé": "stated",
+      "intensifiait": "intensified",
+      "nouveau": "new",
+      "assauts": "assaults",
+      "retenti": "resounded",
+      "importants": "important",
+      "résidentielles": "residential",
+      "réponse": "response",
+      "multiplié": "multiplied",
+      "demandes": "requests",
+      "conçus": "designed",
+      "contrer": "to counter",
+      "vanté": "boasted",
+      "efficacité": "efficiency",
+      "installations": "facilities",
+      "affirmant": "affirming",
+      "gestion": "management",
+      "armements": "armaments",
+      "divers": "various",
+      "voix": "voice",
+      "son": "his",
+      "aussi": "also",
+      "quant": "regarding",
+      "sort": "fate",
+      "potentiels": "potential",
+      "survivants": "survivors",
+      "coincés": "stuck",
+      "tout": "all",
+      "faisant": "making",
+      "gravité": "seriousness",
+      "blessures": "injuries",
+      "victimes": "victims",
+      "nous": "we",
+      "subissons": "suffer",
+      "plein": "full",
+      "fouet": "whip",
+      "ciblée": "targeted",
+      "souligné": "highlighted",
+      "tragédie": "tragedy",
+      "ombre": "shadow",
+      "persistante": "persistent",
+      "crépuscule": "twilight",
+      "alarmes": "alarms",
+      "élevaient": "raised",
+      "planait": "hovered",
+      "révélait": "revealed",
+      "terrible": "terrible",
+      "bilan": "toll",
+      "qualifiées": "qualified",
+      "parmi": "among",
+      "débuté": "started",
+      "peu": "little",
+      "décrites": "described",
+      "responsable": "responsible",
+      "nouvel": "new",
+      "assaut": "assault",
+      "massivement": "massively",
+      "orchestré": "orchestrated",
+      "cibles": "targets",
+      "effet": "effect",
+      "endommageant": "damaging",
+      "gravement": "seriously",
+      "essentielles": "essential",
+      "appelait": "called",
+      "renforcement": "strengthening",
+      "défenses": "defenses",
+      "notamment": "notably",
+      "acquisition": "acquisition",
+      "systèmes": "systems",
+      "justifié": "justified",
+      "leur": "their",
+      "implication": "implication",
+      "activités": "activities",
+      "non": "no",
+      "seulement": "only",
+      "équipements": "equipment",
+      "municipalité": "municipality",
+      "éventuels": "potential",
+      "atrocités": "atrocities",
+      "dirigées": "led",
+      "tandis": "while",
+      "communiqué": "statement",
+      "absence": "absence",
+      "interceptions": "interceptions",
+      "réussies": "successful",
+      "durant": "during",
+      "cycle": "cycle",
+      "frapper": "to strike",
+      "cruellement": "cruelly",
+      "tant": "so much",
+      "engendrant": "generating",
+      "désolation": "desolation",
+      "souffrance": "suffering",
+      "côtés": "sides"
+    },
+    "es": {
+      "ataque": "attack",
+      "en": "in",
+      "ucrania": "Ukraine",
+      "rusia": "Russia",
+      "ataca": "attacks",
+      "con": "with",
+      "misiles": "missiles",
+      "hay": "there is",
+      "al": "to the",
+      "menos": "less",
+      "muertos": "dead",
+      "también": "also",
+      "heridos": "injured",
+      "el": "the",
+      "presidente": "president",
+      "de": "of",
+      "es": "is",
+      "volodymyr": "Volodymyr",
+      "zelensky": "Zelensky",
+      "ocurre": "occurs",
+      "kyiv": "Kyiv",
+      "alertas": "alerts",
+      "ataques": "attacks",
+      "aéreos": "aerial",
+      "enemigo": "enemy",
+      "nuevo": "new",
+      "mucho": "much",
+      "daños": "damages",
+      "edificios": "buildings",
+      "residenciales": "residential",
+      "pide": "requests",
+      "ayuda": "helps",
+      "otros": "others",
+      "países": "countries",
+      "necesita": "needs",
+      "para": "to",
+      "defenderse": "to defend oneself",
+      "gente": "people",
+      "civil": "civil",
+      "nadie": "nobody",
+      "detiene": "stops",
+      "los": "the",
+      "aire": "air",
+      "miedo": "fear",
+      "la": "the",
+      "ciudad": "city",
+      "está": "is",
+      "preocupada": "worried",
+      "guerra": "war",
+      "continúa": "continues",
+      "misilístico": "missile",
+      "ha": "has",
+      "lanzado": "launched",
+      "drones": "drones",
+      "dice": "says",
+      "que": "that",
+      "este": "this",
+      "uno": "one",
+      "más": "more",
+      "peligrosos": "dangerous",
+      "año": "year",
+      "comenzó": "began",
+      "después": "after",
+      "medianoche": "midnight",
+      "timur": "Timur",
+      "tkachenko": "Tkachenko",
+      "jefe": "chief",
+      "administración": "administration",
+      "militar": "military",
+      "por": "for",
+      "una": "a",
+      "hora": "hour",
+      "daña": "damages",
+      "almacenes": "warehouses",
+      "sus": "their",
+      "aliados": "allies",
+      "golpeó": "hit",
+      "centros": "centers",
+      "logística": "logistics",
+      "estos": "these",
+      "colaboran": "collaborate",
+      "armas": "weapons",
+      "suministros": "supplies",
+      "tiene": "has",
+      "porque": "because",
+      "personas": "people",
+      "atrapadas": "trapped",
+      "cuatro": "four",
+      "están": "are",
+      "estado": "state",
+      "grave": "serious",
+      "sigue": "follows",
+      "mucha": "much",
+      "preocupación": "concern",
+      "deja": "lets",
+      "recientemente": "recently",
+      "atacado": "attacked",
+      "informado": "informed",
+      "han": "they have",
+      "muerto": "dead",
+      "heridas": "wounded",
+      "mortales": "mortals",
+      "según": "according",
+      "atacando": "attacking",
+      "manera": "way",
+      "masiva": "massive",
+      "población": "population",
+      "recibió": "received",
+      "duraron": "lasted",
+      "son": "are",
+      "significativos": "significant",
+      "se": "oneself",
+      "afectado": "affected",
+      "además": "furthermore",
+      "solicitado": "requested",
+      "interceptores": "interceptors",
+      "patriot": "Patriot",
+      "les": "to them",
+      "ayuden": "help",
+      "rusos": "Russian",
+      "ministerio": "ministry",
+      "defensa": "defense",
+      "declarado": "declared",
+      "afectan": "affect",
+      "logísticos": "logistics",
+      "lugares": "places",
+      "relacionados": "related",
+      "almacenamiento": "storage",
+      "golpeado": "beaten",
+      "barcos": "ships",
+      "transportaban": "were transporting",
+      "cerca": "near",
+      "del": "of the",
+      "puerto": "port",
+      "odesa": "Odesa",
+      "las": "the",
+      "autoridades": "authorities",
+      "locales": "locals",
+      "expresado": "expressed",
+      "muchas": "many",
+      "podrían": "could",
+      "estar": "to be",
+      "entre": "between",
+      "escombros": "rubble",
+      "algunos": "some",
+      "encuentran": "find",
+      "lo": "it",
+      "aumenta": "increases",
+      "balísticos": "ballistic",
+      "kiev": "Kiev",
+      "causa": "cause",
+      "muertes": "deaths",
+      "llevado": "carried",
+      "cabo": "cape",
+      "un": "a",
+      "contra": "against",
+      "utilizando": "using",
+      "resultando": "resulting",
+      "fallecidas": "deceased",
+      "informó": "he reported",
+      "ucraniano": "Ukrainian",
+      "va": "goes",
+      "ocurrió": "occurred",
+      "poco": "little",
+      "miércoles": "Wednesday",
+      "declaró": "declared",
+      "masivamente": "massively",
+      "vez": "time",
+      "durante": "during",
+      "estuvieron": "were",
+      "activas": "active",
+      "aéreo": "air",
+      "mientras": "while",
+      "capital": "capital",
+      "comunicaba": "communicated",
+      "bombardeo": "bombardment",
+      "había": "had",
+      "causado": "caused",
+      "fabricados": "manufactured",
+      "ee": "USA",
+      "uu": "US",
+      "ruso": "Russian",
+      "afirmó": "he affirmed",
+      "suministro": "supply",
+      "alrededores": "surroundings",
+      "su": "his",
+      "declaración": "statement",
+      "estaban": "were",
+      "involucrados": "involved",
+      "entrega": "delivery",
+      "diversas": "various",
+      "así": "thus",
+      "como": "like",
+      "producción": "production",
+      "distribución": "distribution",
+      "mencionó": "mentioned",
+      "habían": "they had",
+      "tres": "three",
+      "buques": "ships",
+      "carga": "load",
+      "alcalde": "mayor",
+      "vitali": "Vitali",
+      "klitschko": "Klitschko",
+      "expresó": "expressed",
+      "temores": "fears",
+      "estuvieran": "were",
+      "tras": "after",
+      "centro": "center",
+      "aseguró": "ensured",
+      "deliberadamente": "deliberately",
+      "civiles": "civilians",
+      "infraestructura": "infrastructure",
+      "fuerza": "force",
+      "aérea": "air",
+      "ucraniana": "Ukrainian",
+      "no": "not",
+      "interceptó": "intercepted",
+      "ningún": "none",
+      "misil": "missile",
+      "informando": "reporting",
+      "lanzó": "he launched",
+      "antibuque": "anti-ship",
+      "añadió": "added",
+      "dispararon": "shot",
+      "sistemas": "systems",
+      "lograron": "achieved",
+      "interceptar": "to intercept",
+      "ellos": "they",
+      "rusas": "Russian",
+      "intensificado": "intensified",
+      "aumentado": "increased",
+      "instalaciones": "facilities",
+      "incluyendo": "including",
+      "energía": "energy",
+      "cobra": "charges",
+      "vida": "life",
+      "masivo": "massive",
+      "resultado": "result",
+      "muerte": "death",
+      "individuos": "individuals",
+      "dejado": "left",
+      "confirmado": "confirmed",
+      "esta": "this",
+      "acción": "action",
+      "considerada": "considered",
+      "letales": "lethal",
+      "tuvo": "had",
+      "lugar": "place",
+      "forma": "form",
+      "nuevamente": "again",
+      "informaban": "reported",
+      "intento": "attempt",
+      "reforzar": "to reinforce",
+      "frente": "front",
+      "fabricación": "manufacturing",
+      "estadounidense": "American",
+      "parte": "part",
+      "objetivos": "goals",
+      "incluían": "included",
+      "utilizados": "used",
+      "realizado": "carried out",
+      "sobre": "about",
+      "armamento": "armament",
+      "manifestó": "stated",
+      "posibilidad": "possibility",
+      "encontraran": "found",
+      "añadiendo": "adding",
+      "hallaban": "found",
+      "crítico": "critical",
+      "local": "local",
+      "advirtió": "warned",
+      "vuelve": "returns",
+      "atacar": "to attack",
+      "deliberada": "deliberate",
+      "reportó": "reported",
+      "interceptación": "interception",
+      "neutralizar": "to neutralize",
+      "lanzados": "launched",
+      "ofensiva": "offensive",
+      "intensidad": "intensity",
+      "semanas": "weeks",
+      "recientes": "recent",
+      "coincidiendo": "coinciding",
+      "incremento": "increase",
+      "ucranianos": "Ukrainians",
+      "dirigidos": "directed",
+      "territorio": "territory",
+      "impacto": "impact",
+      "devastador": "devastating",
+      "balístico": "ballistic",
+      "múltiples": "multiple",
+      "manifestación": "demonstration",
+      "escalofriante": "creepy",
+      "conflictos": "conflicts",
+      "curso": "course",
+      "llevó": "took",
+      "fulminante": "fulminant",
+      "usando": "using",
+      "trágica": "tragic",
+      "pérdida": "loss",
+      "vidas": "lives",
+      "humanas": "human",
+      "dejando": "leaving",
+      "conforme": "as",
+      "asalto": "assault",
+      "posiciona": "positions",
+      "azotado": "hit",
+      "presente": "present",
+      "cuando": "when",
+      "otra": "another",
+      "sirenas": "sirens",
+      "alerta": "alert",
+      "activaron": "activated",
+      "informaba": "informed",
+      "numerosos": "numerous",
+      "logísticas": "logistics",
+      "tratando": "trying",
+      "preservar": "to preserve",
+      "soberanía": "sovereignty",
+      "proteger": "to protect",
+      "ciudadanos": "citizens",
+      "instado": "urged",
+      "suministrar": "to supply",
+      "elaborados": "elaborate",
+      "estados": "states",
+      "unidos": "united",
+      "hacer": "to do",
+      "agresión": "assault",
+      "rusa": "Russian",
+      "lado": "side",
+      "argumentó": "argued",
+      "mencionar": "to mention",
+      "neutralizado": "neutralized",
+      "embarcaciones": "boats",
+      "relacionadas": "related",
+      "operaciones": "operations",
+      "militares": "military",
+      "cercanías": "surroundings",
+      "profunda": "profound",
+      "posibles": "possible",
+      "víctimas": "victims",
+      "bajo": "under",
+      "corazón": "heart",
+      "destacando": "highlighting",
+      "encontraban": "they found",
+      "condiciones": "conditions",
+      "críticas": "criticisms",
+      "infraestructuras": "infrastructure",
+      "esenciales": "essential",
+      "cabe": "fits",
+      "interceptaciones": "interceptions",
+      "junto": "together",
+      "pudieron": "could",
+      "contexto": "context",
+      "amplio": "broad",
+      "conflicto": "conflict",
+      "mostrado": "shown",
+      "considerable": "considerable",
+      "incursiones": "incursions"
+    }
+  }
+}

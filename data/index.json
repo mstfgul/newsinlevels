@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-05-armed-man-arrested-near-trump-s-golf-course-ahead-of-preside",
+    "date": "2026-08-05",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9a2/live/214cc2e0-909d-11f1-b8ee-9b3c26ad07bb.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Armed Man Arrested Near Trump's Golf Course Ahead of Fundraising Dinner",
+      "de": "Festnahme eines bewaffneten Mannes in Kalifornien",
+      "fr": "Homme armé arrêté près du golf de Trump avant sa visite",
+      "es": "Hombre Arrestado Cerca del Campo de Golf de Trump Antes de Su Visita"
+    }
+  },
+  {
+    "id": "2026-08-05-russian-ballistic-missile-strike-on-kyiv-kills-at-least-17",
+    "date": "2026-08-05",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
+    "category": "world",
+    "titles": {
+      "en": "Deadly Missile Strikes Hit Kyiv",
+      "de": "Russischer Raketenangriff auf Kiew fordert viele Opfer",
+      "fr": "Attaque de missiles sur Kyiv par la Russie",
+      "es": "Ataque con misiles en Kyiv deja 17 muertos"
+    }
+  },
+  {
+    "id": "2026-08-05-trump-says-iran-will-be-hit-very-hard-if-hormuz-strait-not-o",
+    "date": "2026-08-05",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1518/live/b0431a30-907f-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump Issues Warnings as Oil Prices Fall",
+      "de": "Trump droht Iran mit Konsequenzen",
+      "fr": "Conflit au détroit d'Hormuz : Trump souligne l'importance des négociations",
+      "es": "Trump: Irán será golpeado si no abre Ormuz"
+    }
+  },
+  {
     "id": "2026-08-04-five-dead-in-moscow-as-ukraine-continues-warehouse-strikes",
     "date": "2026-08-04",
     "source": "BBC News",
