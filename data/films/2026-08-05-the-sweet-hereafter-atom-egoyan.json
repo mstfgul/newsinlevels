@@ -1,0 +1,2536 @@
+{
+  "id": "2026-08-05-the-sweet-hereafter-atom-egoyan",
+  "date": "2026-08-05",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/10217"
+  },
+  "originalTitle": "The Sweet Hereafter (1997) — Atom Egoyan",
+  "image": "https://image.tmdb.org/t/p/w780/gJy7LMq4b5qO5fsSUSoBgm24BHf.jpg",
+  "category": "film",
+  "film": {
+    "director": "Atom Egoyan",
+    "title": "The Sweet Hereafter",
+    "year": "1997",
+    "genres": "Drama"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter is a film. It tells a sad story. A bus crash happens. Many children die in the crash. A lawyer comes to help. He wants to help families. The lawyer has a plan. He wants to file a class action. The town feels sad and angry. The people do not agree. They have different feelings. This film shows loss and pain. The music is interesting and helps the story. The film has good acting. It looks beautiful. The Sweet Hereafter is important in film history.",
+        "vocabulary": [
+          {
+            "word": "sad",
+            "definition": "not happy"
+          },
+          {
+            "word": "crash",
+            "definition": "a loud noise when two things hit"
+          },
+          {
+            "word": "help",
+            "definition": "to make something better"
+          },
+          {
+            "word": "lawyer",
+            "definition": "a person who knows the law"
+          },
+          {
+            "word": "plan",
+            "definition": "a way to do something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who comes to help?",
+            "options": [
+              "A lawyer.",
+              "A doctor.",
+              "A teacher."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the film about?",
+            "options": [
+              "Loss and pain.",
+              "Happiness in life.",
+              "Wonders of nature."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter is a drama film from 1997. It is about a small town in Canada. A terrible bus accident happens. Fourteen children die in this crash. The community feels grief and anger. A city lawyer arrives and wants to help them. He plans to file a class-action lawsuit. However, his actions create division among the people. Some people want justice, and others do not. The film shows pain and loss. It asks questions about truth and the effects of tragedy. The music in the film is special. It has influences from medieval music. The film is critically important. It has won many awards and is seen as one of the top Canadian films.",
+        "vocabulary": [
+          {
+            "word": "drama",
+            "definition": "a serious story or play"
+          },
+          {
+            "word": "community",
+            "definition": "a group of people in one place"
+          },
+          {
+            "word": "accident",
+            "definition": "an event that happens by chance"
+          },
+          {
+            "word": "lawsuit",
+            "definition": "a case in court"
+          },
+          {
+            "word": "division",
+            "definition": "a separation or disagreement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What kind of film is The Sweet Hereafter?",
+            "options": [
+              "A drama film.",
+              "A comedy film.",
+              "A horror film."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What happens to the children?",
+            "options": [
+              "They die in a crash.",
+              "They win a prize.",
+              "They leave the town."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why does the lawyer come to the town?",
+            "options": [
+              "To help families.",
+              "To start a party.",
+              "To buy a house."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter is a 1997 Canadian drama film directed by Atom Egoyan. It begins with a heartbreaking bus accident that kills fourteen children in a small mountain town. This tragic event leaves the entire community grappling with immense sorrow and pain. The film explores how individuals cope with loss, revealing the complex and personal ways grief affects each person. When a big-city lawyer arrives with hopes of helping the families, he intends to file a class-action lawsuit against those responsible for the bus accident. However, his presence also creates tension and division among the townspeople. Different families have different feelings about the accident and its aftermath. Some villagers view the lawsuit as a chance for justice, while others worry that it might destroy their sense of community. The film beautifully captures themes of grief, the search for truth, and the long-reaching consequences of tragedy on people's lives. The director uses stunning visuals to illustrate the story's emotional depth, and the haunting music adds to the feelings of loss. The Sweet Hereafter is not only important in Canadian cinema history; it also won three awards at the 1997 Cannes Film Festival and received two Academy Award nominations. Many critics consider it a top Canadian film that profoundly impacts audiences, leading them to reflect on justice, loss, and community.",
+        "vocabulary": [
+          {
+            "word": "devastated",
+            "definition": "extremely upset or shocked due to loss or damage."
+          },
+          {
+            "word": "heartbreaking",
+            "definition": "causing great sadness or emotional pain."
+          },
+          {
+            "word": "lawsuit",
+            "definition": "a legal case that one person brings against another in a court."
+          },
+          {
+            "word": "ensemble",
+            "definition": "a group of artists who perform together."
+          },
+          {
+            "word": "acclaimed",
+            "definition": "widely praised or regarded highly."
+          },
+          {
+            "word": "sorrow",
+            "definition": "a feeling of deep sadness."
+          },
+          {
+            "word": "innocence",
+            "definition": "the state of being free from guilt or wrongdoing."
+          },
+          {
+            "word": "consequences",
+            "definition": "the results or effects of an action or decision."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What event does the film begin with?",
+            "options": [
+              "A class-action lawsuit",
+              "A bus accident",
+              "A community celebration"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who brings a class-action lawsuit in the film?",
+            "options": [
+              "A local teacher",
+              "A big-city lawyer",
+              "A grieving parent"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did the community react to the bus accident?",
+            "options": [
+              "They ignored it",
+              "They were devastated",
+              "They celebrated it"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "The Sweet Hereafter: A Journey Through Grief",
+        "text": "The Sweet Hereafter, directed by Atom Egoyan in 1997, delves into the profound impact of tragedy on a small Canadian community. The film opens with a devastating accident in which a school bus falls into a ravine, resulting in the loss of many children. This tragic event serves as a catalyst for exploration of themes like loss, innocence, and the search for truth. As a big-city lawyer arrives, his intention is to assist the survivors and the grieving families in a class-action lawsuit. However, his presence complicates matters further, as various underlying tensions within this tight-knit community begin to surface. The film's visual style is striking, utilizing muted colors and contemplative pacing to convey the somber mood. The choice of music, influenced by medieval sounds, enhances the sense of melancholy while connecting to deeper narratives, such as the Pied Piper tale. Viewers find the film not only a meditation on individual and communal grief but also a compelling commentary on the complexities of truth itself, as it pushes characters to confront uncomfortable realities and their deepest vulnerabilities.",
+        "vocabulary": [
+          {
+            "word": "tragedy",
+            "definition": "a very sad event or situation"
+          },
+          {
+            "word": "innocence",
+            "definition": "the state of not being guilty or not having done anything wrong"
+          },
+          {
+            "word": "complexities",
+            "definition": "the difficulties and details of a situation"
+          },
+          {
+            "word": "somber",
+            "definition": "dark and serious in mood or appearance"
+          },
+          {
+            "word": "catalyst",
+            "definition": "an event that causes a change or starts something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What event starts the story in The Sweet Hereafter?",
+            "options": [
+              "A school bus accident",
+              "A wedding",
+              "A festival"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who comes to help the community?",
+            "options": [
+              "A big-city lawyer",
+              "A teacher",
+              "A doctor"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What theme does the film explore?",
+            "options": [
+              "Loss and truth",
+              "Friendship",
+              "Adventure"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Sweet Hereafter: Navigating Grief and Truth",
+        "text": "Released in 1997 and directed by Atom Egoyan, The Sweet Hereafter is a poignant examination of grief, community, and the murkiness of truth following a catastrophic school bus accident that claims many young lives. Set in a small Canadian town, the film begins with this haunting tragedy, which sets in motion a class-action lawsuit spearheaded by a seasoned attorney. However, rather than uniting the townspeople, his attempts seem to exacerbate existing fractures within the community. Egoyan employs a distinctive visual language characterized by somber tones and meticulously composed frames that echo the profound sorrow of the narrative. Interwoven with a musical score evoking medieval influences, the film establishes a reflective and melancholic atmosphere. As characters confront their pain and the cascading effects of loss, viewers are invited to consider the nature of truth itself. The film raises essential questions about collective versus personal grief and the implications of seeking justice in the face of unimaginable sorrow. Its critical acclaim, including awards at the Cannes Film Festival, underscores the film's significant place in Canadian cinema and its lasting impact on global film discourse.",
+        "vocabulary": [
+          {
+            "word": "poignant",
+            "definition": "causing a strong feeling of sadness or regret"
+          },
+          {
+            "word": "murkiness",
+            "definition": "the state of being unclear or difficult to understand"
+          },
+          {
+            "word": "spearheaded",
+            "definition": "led or guided an effort or initiative"
+          },
+          {
+            "word": "fractures",
+            "definition": "breaks or divisions in something that was once whole"
+          },
+          {
+            "word": "melancholic",
+            "definition": "feeling or showing deep sadness"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the film explore through its tragic event?",
+            "options": [
+              "Grief and truth",
+              "Love and happiness",
+              "Adventure and fun"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How does the lawyer's arrival affect the community?",
+            "options": [
+              "It unites them",
+              "It complicates relationships",
+              "It brings joy"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What type of atmosphere does the music create?",
+            "options": [
+              "Cheerful",
+              "Reflective and melancholic",
+              "Energetic"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Sweet Hereafter: A Complex Tapestry of Grief and Truth",
+        "text": "In Atom Egoyan's meticulously crafted film, The Sweet Hereafter (1997), the duality of collective grief and the quest for personal truth unfurls against the backdrop of a small Canadian town reeling from an unimaginable loss. The narrative commences with the catastrophic bus accident, which serves not merely as a plot device but rather as a profound catalyst for exploring the intricate emotional landscapes of the surviving characters. The arrival of a city lawyer, while ostensibly aimed at facilitating justice through a class-action lawsuit, inadvertently exacerbates the community’s divisions and lays bare their deep-seated issues. Egoyan’s directorial sensibility is evident in his command of visual storytelling; the interplay of subdued lighting and contemplative pacing immerses viewers in a somber atmosphere, undulating between memory and reality. The score, marked by haunting medieval influences, further encapsulates the melancholic essence of the narrative while alluding to timeless allegories, such as the Pied Piper. Engaging with existential inquiries about the nature of truth and the implications of loss, The Sweet Hereafter emerges not only as a significant work in Canadian cinema but as a universal discourse on human vulnerability and the often elusive pursuit of closure.",
+        "vocabulary": [
+          {
+            "word": "duality",
+            "definition": "the quality of having two different aspects"
+          },
+          {
+            "word": "unfurls",
+            "definition": "opens up or reveals gradually"
+          },
+          {
+            "word": "catalyst",
+            "definition": "something that causes change or action"
+          },
+          {
+            "word": "lay bare",
+            "definition": "to reveal or expose clearly"
+          },
+          {
+            "word": "existential inquiries",
+            "definition": "deep questions about existence and life"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the community face after the tragedy?",
+            "options": [
+              "A joyous celebration",
+              "An unimaginable loss",
+              "A fun event"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How does the arrival of the lawyer affect the town?",
+            "options": [
+              "It brings everyone together",
+              "It reveals hidden issues",
+              "It causes celebrations"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What themes does the film explore?",
+            "options": [
+              "Family fun",
+              "Grief and truth",
+              "Romance and adventure"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Die süße Lüge",
+        "text": "Ein kleiner Ort in Kanada hat ein großes Problem. Ein Schulbus hat viele Kinder getötet. Die Dorfbewohner sind sehr traurig. Die Trauer ist tief. Alle Menschen fühlen sich verloren. Ein Anwalt kommt in die Stadt. Er möchte helfen. Die Leute sind skeptisch, denn sie streiten viel. Viele Menschen sind wütend und verletzt. Sie erinnern sich an die glücklichen Zeiten mit den Kindern. Es gibt viele Fragen und keine einfachen Antworten. Die Bilder im Film sind schön. Die Musik ist emotional und traurig. Der Film erzählt von Verlust und Gemeinschaft. Er zeigt, dass die Wahrheit oft kompliziert ist.",
+        "vocabulary": [
+          {
+            "word": "traurig",
+            "definition": "unhappy; makes you feel sad"
+          },
+          {
+            "word": "verletzen",
+            "definition": "to hurt; to cause pain"
+          },
+          {
+            "word": "schön",
+            "definition": "pleasant to look at; attractive"
+          },
+          {
+            "word": "gemeinsam",
+            "definition": "together; with others"
+          },
+          {
+            "word": "erinnern",
+            "definition": "to recall; to think of the past"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welche Emotion haben die Dorfbewohner?",
+            "options": [
+              "Sie sind glücklich.",
+              "Sie sind traurig.",
+              "Sie sind wütend."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was möchte der Anwalt machen?",
+            "options": [
+              "Er möchte gehen.",
+              "Er möchte helfen.",
+              "Er möchte streiten."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was zeigt der Film über die Wahrheit?",
+            "options": [
+              "Die Wahrheit ist einfach.",
+              "Die Wahrheit ist kompliziert.",
+              "Die Wahrheit ist langweilig."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Die süße Lüge",
+        "text": "Der Film „Die süße Lüge“ spielt in Kanada, in einem kleinen Dorf. In diesem Dorf gibt es eine große Tragödie. Ein Schulbus hat viele Kinder getötet und die Verwüstung ist unvorstellbar. Die Dorfbewohner sind sehr traurig und die Menschen sind wütend, weil die Kinder verloren sind. Ein Anwalt kommt aus der Stadt. Er möchte den Familien helfen, eine Klage zu machen. Doch die Menschen streiten sich über die Klage, weil sie unterschiedliche Meinungen haben. Der Anwalt muss die Dorfbewohner verstehen, denn ihre Trauer ist tief und ihre Gefühle sind kompliziert. Der Film zeigt die Probleme in der Gemeinschaft und die Schwierigkeiten der Menschen. Die Bilder sind schön und die Musik hat einen besonderen Klang, der die Stimmung verstärkt. Geplante Veränderungen sind für alle schwer, weil der Verlust stark ist. Die Dorfbewohner müssen ihr Leben neu denken und der Verlust verändert alles.",
+        "vocabulary": [
+          {
+            "word": "Tragödie",
+            "definition": "eine sehr traurige oder schlimme Situation"
+          },
+          {
+            "word": "Anwalt",
+            "definition": "eine Person, die im Recht hilft und vertritt"
+          },
+          {
+            "word": "Klage",
+            "definition": "eine offizielle Bitte an ein Gericht, um rechtlichen Schutz zu erhalten"
+          },
+          {
+            "word": "Gemeinschaft",
+            "definition": "alle Menschen, die in einem bestimmten Gebiet leben und zusammengehören"
+          },
+          {
+            "word": "Verlust",
+            "definition": "etwas, das man verloren hat und traurig darüber ist"
+          },
+          {
+            "word": "Verwüstung",
+            "definition": "eine große Zerstörung von etwas"
+          },
+          {
+            "word": "gefühlsvoll",
+            "definition": "sehr emotional oder mit starken Gefühlen"
+          },
+          {
+            "word": "Stimmung",
+            "definition": "das Gefühl, das in einem bestimmten Moment oder Ort herrscht"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was passiert mit den Kindern im Dorf?",
+            "options": [
+              "Sie werden verletzt.",
+              "Sie haben ein Fest.",
+              "Sie sterben bei einem Unfall."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Was möchte der Anwalt für die Familien tun?",
+            "options": [
+              "Er möchte ihnen helfen.",
+              "Er möchte weggehen.",
+              "Er möchte ein neues Dorf bauen."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie reagieren die Dorfbewohner auf die Klage?",
+            "options": [
+              "Sie freuen sich.",
+              "Sie schweigen.",
+              "Sie streiten sich."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Die süße Lüge – Ein bewegendes Drama",
+        "text": "Der kanadische Film „Die süße Lüge“ von Atom Egoyan erzählt eine tragische Geschichte. Eine kleine Gemeinde leidet, als ein Schulbusunfall viele Kinderleben kostet. In diesem schockierenden Ereignis sterben insgesamt 14 Kinder, was die gesamte Gemeinschaft in eine tiefe Trauer stürzt. Die Angehörigen erleben nicht nur den Verlust ihrer Kinder, sondern auch den Verlust von Hoffnung. Dieser Film zeigt nicht nur die Trauer der Familien, sondern auch die Spannungen in der Gemeinschaft, die durch diesen Vorfall entstehen. Ein Anwalt aus der Stadt kommt, um den Überlebenden zu helfen, eine Klage einzureichen. Er möchte den Familien Gerechtigkeit bringen, aber statt Einheit zu bringen, führt dies zu Konflikten zwischen den Dorfbewohnern. Einige glauben, dass das Klagen unangebracht ist, während andere die Chance auf Entschädigung nutzen möchten. Die Themen des Films sind tief: Verlust, die Wahrheit und die Herausforderung, mit Trauer umzugehen. Die Bilder sind beeindruckend, und die Musik, die sogar mittelalterliche Klänge verwendet, hat großen Einfluss auf die Stimmung. Das einzigartige Erzähltempo bleibt im Gedächtnis. „Die süße Lüge“ hat viele Preise gewonnen, darunter beim Filmfestival in Cannes. Er zeigt uns, dass die Wahrheit oft kompliziert ist und nicht einfach zu finden ist. Diese komplexen Themen machen den Film auch nach vielen Jahren weiterhin relevant.",
+        "vocabulary": [
+          {
+            "word": "Gerechtigkeit",
+            "definition": "Fairness und das Recht auf eine angemessene Behandlung."
+          },
+          {
+            "word": "Entschädigung",
+            "definition": "Ausgleich für einen erlittenen Schaden oder Verlust."
+          },
+          {
+            "word": "Trauer",
+            "definition": "Der Zustand des tiefen Kummers, oft nach dem Verlust eines geliebten Menschen."
+          },
+          {
+            "word": "Komplexität",
+            "definition": "Die Eigenschaft, dass etwas kompliziert und vielschichtig ist."
+          },
+          {
+            "word": "stürzen",
+            "definition": "Schnell und plötzlich fallen oder sehr negativ betroffen sein."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Kinder sterben bei dem Schulbusunfall?",
+            "options": [
+              "14",
+              "10",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was will der Anwalt aus der Stadt tun?",
+            "options": [
+              "Die Dorfbewohner trennen",
+              "Den Überlebenden helfen",
+              "Die Gemeinde unterstützen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Art von Musik hat Einflüsse im Film?",
+            "options": [
+              "Moderne Popmusik",
+              "Rockmusik",
+              "Mittelalterliche Klänge"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Die Zerbrechlichkeit der Wahrheit",
+        "text": "„The Sweet Hereafter“ ist ein eindrucksvolles Drama, das 1997 unter der Regie von Atom Egoyan entstand. Die Handlung beginnt in einer kleinen kanadischen Gemeinde, die von einem tragischen Schulbusunfall erschüttert wird, bei dem viele Kinder ums Leben kommen. Ein Anwalt, der aus der Großstadt kommt, versucht, den Überlebenden und Hinterbliebenen zu helfen, doch seine Bemühungen führen zu weiteren Spannungen innerhalb der Gemeinschaft. Der Film thematisiert zentrale Fragen wie Trauer, Schuld und den Zerfall von Gemeinschaften. Obwohl der Anwalt Gutes will, zeigen sich die komplexen Beziehungen der Menschen untereinander in einem neuen Licht. Dabei spielt die Musik eine wesentliche Rolle, da sie den emotionalen Gehalt der Szenen verstärkt. Visuell besticht der Film durch melancholische Bilder und eine ruhige Erzählweise, die den Zuschauer dazu einlädt, über die Natur von Wahrheit und Gerechtigkeit nachzudenken. „The Sweet Hereafter“ wurde international hochgelobt und erhielt mehrere bedeutende Auszeichnungen, unter anderem beim Cannes Film Festival. Diese filmische Erzählung regt dazu an, über die Zwischentöne des Lebens und die damit verbundenen menschlichen Erfahrungen nachzudenken.",
+        "vocabulary": [
+          {
+            "word": "Gemeinde",
+            "definition": "eine Gruppe von Menschen, die zusammen leben"
+          },
+          {
+            "word": "überleben",
+            "definition": "nicht sterben, weiterleben"
+          },
+          {
+            "word": "Schuld",
+            "definition": "die Verantwortung für etwas, was negativ ist"
+          },
+          {
+            "word": "Emotionen",
+            "definition": "Gefühle"
+          },
+          {
+            "word": "Trauer",
+            "definition": "das Gefühl, wenn jemand gestorben ist"
+          },
+          {
+            "word": "Anwalt",
+            "definition": "eine Person, die rechtlichen Beistand bietet"
+          },
+          {
+            "word": "Auszeichnung",
+            "definition": "etwas, das gibt, um Leistung zu würdigen"
+          },
+          {
+            "word": "Erzählweise",
+            "definition": "die Methode, wie eine Geschichte erzählt wird"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was passiert in der Gemeinde?",
+            "options": [
+              "Ein Unfall geschieht.",
+              "Eine Geburt findet statt.",
+              "Ein Fest wird gefeiert."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer versucht zu helfen?",
+            "options": [
+              "Ein Lehrer.",
+              "Ein Anwalt.",
+              "Ein Arzt."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie ist die Erzählweise des Films?",
+            "options": [
+              "Schnell und laut.",
+              "Ruhig und melancholisch.",
+              "Komisch und lustig."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Eine Reflexion über Verlust und Wahrheit",
+        "text": "„The Sweet Hereafter“, unter der meisterhaften Regie von Atom Egoyan, stellt den Verlust von Unschuld und die komplexen zwischenmenschlichen Beziehungen in den Vordergrund. Der Film beginnt mit einem verheerenden Schulbusunfall, der das Leben von mehreren Kindern und deren Familien dramatisch verändert. In folgender Auseinandersetzung kommen die verschiedenen Perspektiven und Emotionen der Dorfbewohner zur Geltung, wobei die Suche nach Gerechtigkeit oft mit persönlichen Konflikten verbunden ist. Egoyan nutzt dabei die meditative Bildsprache, um die melancholische Stimmung zu transportieren, während die filigrane Musik den emotionalen Kern der Geschichte unterstreicht. Unter dem Tagline „Es gibt keine einfache Wahrheit“ thematisiert der Film, wie unterschiedliche Wahrheiten innerhalb einer Gemeinschaft entstehen können. Die Eigenarten der Charaktere werden durch einfühlsame Darstellungen von Ian Holm und Sarah Polley intensiviert. „The Sweet Hereafter“ erregte international Aufmerksamkeit und wurde mit zahlreichen Preisen ausgezeichnet, darunter die begehrte Goldene Palme beim Cannes Film Festival. Dadurch hat der Film nicht nur seine Stellung im kanadischen Kino gefestigt, sondern auch das internationale Publikum nachhaltig beeindruckt. Die stilistische Raffinesse und die tiefgründigen Fragen machen diesen Film zu einem zeitlosen Kunstwerk, das zum Nachdenken anregt.",
+        "vocabulary": [
+          {
+            "word": "Unschuld",
+            "definition": "der Zustand, nichts Schlechtes getan zu haben"
+          },
+          {
+            "word": "Auseinandersetzung",
+            "definition": "ein intensives Gespräch oder Streit über ein Thema"
+          },
+          {
+            "word": "persönlich",
+            "definition": "etwas, das sich auf eine Einzelperson bezieht"
+          },
+          {
+            "word": "Eigenart",
+            "definition": "besonderes Merkmal oder Charakteristik"
+          },
+          {
+            "word": "Raffinesse",
+            "definition": "Feinheit und Eleganz in der Ausführung"
+          },
+          {
+            "word": "aufmerksam",
+            "definition": "Interesse und Konzentration auf etwas haben"
+          },
+          {
+            "word": "betonen",
+            "definition": "etwas stärker hervorheben"
+          },
+          {
+            "word": "Blickwinkel",
+            "definition": "Perspektive oder Sichtweise auf etwas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Thema wird im Film behandelt?",
+            "options": [
+              "Die Freude am Leben.",
+              "Der Verlust von Unschuld.",
+              "Die Schönheit der Natur."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer erregte internationale Aufmerksamkeit für den Film?",
+            "options": [
+              "Atom Egoyan.",
+              "Ian Holm.",
+              "Sarah Polley."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was transportiert die Bildsprache im Film?",
+            "options": [
+              "Eine fröhliche Stimmung.",
+              "Eine melancholische Stimmung.",
+              "Eine aufregende Handlung."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Kino als Spiegel menschlichen Schmerzes und Wahrheitsfindung",
+        "text": "„The Sweet Hereafter“ von Atom Egoyan ist nicht nur ein Film über einen tragischen Schulbusunfall, sondern vielmehr eine tiefgreifende Mediation über die Komplexität von Wahrnehmungen und die Fragilität der Wahrheit. Der Film entfaltet sich in einer postulierten kanadischen Kleinstadt, deren Idyll von einem verheerenden Ereignis brutal zerstört wird. Egoyan gelingt es, die psychologischen Narben der Beteiligten in eindringlichen Bildern festzuhalten. Die meditative Erzählweise, gepaart mit einer melancholischen musikalischen Untermalung, verstärkt die Wirkung des Gezeigten und lädt das Publikum ein, sich mit der Ambivalenz von Schuld und kritiklosen Wahrheiten auseinanderzusetzen. Auch die Futurtheorien über Gerechtigkeit und den Preis der Wahrheit werden hierbei relevant. Insbesondere die Beziehungen der Dorfbewohner zueinander offenbaren unter der Oberfläche eine Vielzahl von Konflikten, die durch den Anwaltsbesuch ans Licht kommen. „The Sweet Hereafter“ ist zudem ein herausragendes Beispiel kanadischer Filmkunst, gekrönt von bedeutenden Auszeichnungen, darunter die Goldene Palme beim Cannes Film Festival. Dieser Film stellt nicht nur einen zeitgenössischen Kommentar zur menschlichen Natur und ihrem Streben nach Wahrheit dar, sondern sieht sich auch in einen breiteren Kontext von Verlust, Trauer und der Suche nach Gerechtigkeit eingeordnet, was ihn zu einem bemerkenswerten Werk in der Geschichte des Kinos erhebt.",
+        "vocabulary": [
+          {
+            "word": "Meditation",
+            "definition": "tiefe Überlegung oder Betrachtung zu einem bestimmten Thema"
+          },
+          {
+            "word": "postuliert",
+            "definition": "als gegeben angenommen, oft ohne Beweise"
+          },
+          {
+            "word": "Futurotheorien",
+            "definition": "Theorien, die sich mit zukünftigen Entwicklungen beschäftigen"
+          },
+          {
+            "word": "Ambivalenz",
+            "definition": "Gegensätzliche Auffassungen oder Gefühle zu einem Thema"
+          },
+          {
+            "word": "ausgezeichnet",
+            "definition": "mit Preisen oder Ehrungen bedacht"
+          },
+          {
+            "word": "zeitgenössisch",
+            "definition": "etwas, das zur heutigen Zeit gehört oder passt"
+          },
+          {
+            "word": "kontextualisieren",
+            "definition": "etwas in einen größeren Zusammenhang stellen"
+          },
+          {
+            "word": "fortdauernd",
+            "definition": "dauerhaft oder immer wiederkehrend"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches zentrale Thema behandelt der Film?",
+            "options": [
+              "Die Freude an der Natur.",
+              "Komplexität von Wahrnehmungen.",
+              "Einfachheit der Wahrheit."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Form von künstlerischer Ehrung erhielt der Film?",
+            "options": [
+              "Die Goldene Palme.",
+              "Einen Oscar.",
+              "Ein Theaterpreis."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie wird die psychologische Verfassung der Charaktere dargestellt?",
+            "options": [
+              "Durch eindringliche Bilder.",
+              "Durch eine fröhliche Erzählweise.",
+              "Durch schnelle Schnitte."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter est un film canadien. Il est réalisé par Atom Egoyan. Le film parle d'un tragique accident. Des enfants meurent dans un bus scolaire. Cette histoire se passe dans une petite ville. Les gens sont tristes et en colère après la perte. Un avocat arrive de la grande ville. Il veut aider les familles des victimes. Les familles veulent justice pour leurs enfants. Mais les gens se divisent à cause de l'avocat. Le film a des musiques tristement belles. Il est touchant et émouvant. C'est une histoire sur la vérité et la douleur.",
+        "vocabulary": [
+          {
+            "word": "tragique",
+            "definition": "malheureux, pleins de chagrin"
+          },
+          {
+            "word": "avocat",
+            "definition": "une personne qui aide en justice"
+          },
+          {
+            "word": "victimes",
+            "definition": "les personnes qui souffrent d'un accident"
+          },
+          {
+            "word": "belle",
+            "definition": "qui est jolie"
+          },
+          {
+            "word": "émouvant",
+            "definition": "qui fait pleurer ou ressentir des émotions"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui réalise le film The Sweet Hereafter ?",
+            "options": [
+              "Atom Egoyan",
+              "Russell Banks",
+              "Ian Holm"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel type de film est The Sweet Hereafter ?",
+            "options": [
+              "Un film d'action",
+              "Un film dramatique",
+              "Un film d'horreur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les gens se divisent-ils dans le film ?",
+            "options": [
+              "À cause de l'avocat",
+              "À cause des enfants",
+              "À cause de la musique"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter est un film de drame canadien. Le film sort en 1997 et est réalisé par Atom Egoyan. Il commence avec un accident de bus. Des enfants meurent et la ville est en deuil. Les familles touchées sont très tristes. Un avocat arrive pour aider les gens. Il veut préparer un procès pour les victimes. Mais son arrivée ne rend pas tout le monde heureux. Les habitants de la ville commencent à se diviser. Certains veulent parler et d'autres non. Ce film parle de la douleur et de la recherche de la vérité. Les musiques et l'ambiance rendent le film profond et émouvant. Il a reçu de nombreux prix et est très apprécié.",
+        "vocabulary": [
+          {
+            "word": "deuil",
+            "definition": "une période de tristesse après une perte"
+          },
+          {
+            "word": "procès",
+            "definition": "un examen légal d'une affaire"
+          },
+          {
+            "word": "victimes",
+            "definition": "des personnes touchées par un malheur"
+          },
+          {
+            "word": "profound",
+            "definition": "très sérieux ou avec beaucoup de sens"
+          },
+          {
+            "word": "profond",
+            "definition": "qui a beaucoup de profondeur ou d'émotion"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur du film?",
+            "options": [
+              "Russell Banks",
+              "Atom Egoyan",
+              "Martin Scorsese"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les familles sont-elles tristes?",
+            "options": [
+              "À cause d'un accident",
+              "À cause d'une fête",
+              "À cause d'un mariage"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Que veut faire l'avocat?",
+            "options": [
+              "Aider les familles",
+              "Visiter la ville",
+              "Construire une maison"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter est un film dramatique sorti en 1997, dirigé par Atom Egoyan. L'histoire commence dans une petite ville canadienne dévastée après un terrible accident de bus qui a eu lieu dans le froid de l'hiver. Quatorze enfants perdent la vie, provoquant un profond chagrin dans la communauté, qui est très soudée. Au milieu de cette douleur, un avocat de la ville arrive, motivé par un désir d'aider les familles des victimes à obtenir justice. Cependant, son arrivée complique les relations entre les habitants, qui se retrouvent divisés entre ceux qui veulent poursuivre en justice et ceux qui préfèrent pleurer ensemble sans rancœur. Le film aborde des thèmes tels que la perte, la justice et la vérité, et le réalisateur a habilement utilisé la lumière et la musique pour créer une atmosphère réfléchie et mélancolique. Si les émotions sont souvent intenses, elles révèlent aussi la fragilité des liens humains dans des moments difficiles. Bien que le film n'ait pas eu un grand succès commercial, il a été acclamé par la critique et a remporté plusieurs prix prestigieux, dont le Grand Prix au Festival de Cannes. The Sweet Hereafter est aujourd'hui considéré comme un film important du cinéma canadien, car il soulève des questions sur la responsabilité et le deuil, des thèmes universels que beaucoup de gens peuvent comprendre. Le film reste une œuvre poignante qui résonne encore aujourd'hui.",
+        "vocabulary": [
+          {
+            "word": "tragique",
+            "definition": "qui est très triste ou choquant, souvent à cause de la mort ou d'un accident."
+          },
+          {
+            "word": "communauté",
+            "definition": "un groupe de personnes qui vivent ensemble dans la même zone ou qui partagent des intérêts communs."
+          },
+          {
+            "word": "lien",
+            "definition": "une connexion ou une relation entre deux ou plusieurs personnes."
+          },
+          {
+            "word": "justicia",
+            "definition": "le principe de traiter les gens de manière équitable et juste."
+          },
+          {
+            "word": "divisé",
+            "definition": "séparé en parties ou groupes qui ne s'accordent pas."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le principal événement tragique du film ?",
+            "options": [
+              "Un incendie dans une école",
+              "Un accident de bus",
+              "Une inondation"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui arrive dans la ville après l'accident ?",
+            "options": [
+              "Un médecin",
+              "Un avocat",
+              "Un journaliste"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel festival a récompensé le film avec le Grand Prix ?",
+            "options": [
+              "Festival de Toronto",
+              "Festival de Cannes",
+              "Festival de Montréal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "La douceur du moment",
+        "text": "Le film \"The Sweet Hereafter\", réalisé par Atom Egoyan en 1997, explore les conséquences d'un tragique accident de bus scolaire dans une petite communauté canadienne. Après la perte de quatorze enfants, l'arrivée d'un avocat d'une grande ville ne fait qu'accroître les tensions au sein des habitants. Bien que sa mission soit d'aider les familles à obtenir justice par le biais d'un procès collectif, il semble que ses efforts ne fassent qu'approfondir les fractures relationnelles. En parallèle, un adolescent survivant commence à comprendre les complexités de l'innocence perdue. Ce drame aborde des thèmes profonds tels que le chagrin, la culpabilité et les divisions communautaires. La structure narrative non linéaire et la musique médiévale, inspirée de la légende du joueur de flûte de Hamelin, enrichissent l'expérience du spectateur. Par ailleurs, il est important de noter que ce film, bien que n'ayant pas connu un grand succès commercial, a remporté plusieurs prix, dont le prestigieux Grand Prix à Cannes. Ainsi, \"The Sweet Hereafter\" se distingue comme une œuvre majeure du cinéma canadien, invitant le public à réfléchir sur la nature de la vérité et de la mémoire.",
+        "vocabulary": [
+          {
+            "word": "accident",
+            "definition": "un événement malheureux ou imprévu"
+          },
+          {
+            "word": "communauté",
+            "definition": "un groupe de personnes vivant ensemble"
+          },
+          {
+            "word": "justice",
+            "definition": "le principe de donner ce qui est dû"
+          },
+          {
+            "word": "traumatisme",
+            "definition": "un choc émotionnel causé par une expérience douloureuse"
+          },
+          {
+            "word": "narratif",
+            "definition": "relatif à un récit ou une histoire"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le réalisateur du film ?",
+            "options": [
+              "Atom Egoyan",
+              "Russell Banks",
+              "Ian Holm"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel genre de film est \"The Sweet Hereafter\" ?",
+            "options": [
+              "Comédie",
+              "Drame",
+              "Action"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien d'enfants sont morts dans l'accident ?",
+            "options": [
+              "14",
+              "10",
+              "20"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "L'héritage de la douleur",
+        "text": "Dans \"The Sweet Hereafter\", Atom Egoyan nous confronte à un drame poignant, où une petite communauté canadienne est brutalement dévastée par un accident de bus scolaire. Bien que les protagonistes cherchent à obtenir justice par l'intermédiaire d'un avocat, leur quête de réparation ne fait que creuser davantage les blessures émotionnelles. En même temps, le film explore des thématiques universelles telles que le deuil, la culpabilité et les luttes internes des survivants. La narration non linéaire, entrecoupée de flashbacks, permet au spectateur de saisir la complexité des relations humaines et la manière dont le traumatisme s'inscrit dans la mémoire collective. La musique, avec des influences médiévales, accompagne magistralement les images, créant ainsi une ambiance mélancolique qui touche profondément. En dépit de son accueil mitigé au box-office, ce film a été reconnu par le grand jury du Festival de Cannes, où il a remporté le Grand Prix. Par conséquent, \"The Sweet Hereafter\" émerge comme une œuvre incontournable du cinéma indépendant, posant la question suivante : qu'est-ce que la vérité dans un monde où la douleur et la perte façonnent les vies ?",
+        "vocabulary": [
+          {
+            "word": "poignant",
+            "definition": "très touchant, qui provoque une forte émotion"
+          },
+          {
+            "word": "réparation",
+            "definition": "le fait de corriger une injustice ou un tort"
+          },
+          {
+            "word": "mélancolie",
+            "definition": "un sentiment de tristesse profonde"
+          },
+          {
+            "word": "incontournable",
+            "definition": "qu'on ne peut pas éviter ou ignorer"
+          },
+          {
+            "word": "traumatisme",
+            "definition": "une blessure émotionnelle profonde causée par une expérience douloureuse"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel type de musique est présent dans le film ?",
+            "options": [
+              "Jazz",
+              "Médiévale",
+              "Rock"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que l'avocat essaie d'obtenir pour les familles ?",
+            "options": [
+              "Justice",
+              "De l'argent",
+              "Un jugement"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel prix a remporté le film à Cannes ?",
+            "options": [
+              "César",
+              "Grand Prix",
+              "Oscar"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "L'interrogation de la vérité",
+        "text": "Dans \"The Sweet Hereafter\", le réalisateur Atom Egoyan interroge, avec une acuité rare, la notion même de vérité au sein d'une communauté dont l'unité est pulvérisée par un tragique accident de bus scolaire, entraînant la perte de quatorze enfants. Il s'agit moins d'une simple représentation d'un fait divers que d'une exploration profonde des cicatrices psychologiques laissées par la tragédie. Chaque personnage, distinct mais indissociable du collectif, illustre la complexité du deuil et ces luttes internes qu'il suscite. La narration, désarticulée et non linéaire, déploie un langage visuel riche, où la lumière, la couleur et la musique s'entrelacent librement pour suggérer l'ineffable. Sur le plan musical, les choix médiévaux, évoquant à la fois la mélancolie et la nostalgie, deviennent des éléments narratifs à part entière. Bien que la réception au box-office ait été mitigée, les distinctions remportées, notamment le Grand Prix à Cannes, témoignent du statut prééminent que ce film a acquis dans le panthéon du cinéma canadien. Au-delà de la tragédie, \"The Sweet Hereafter\" ouvre une réflexion sur la façon dont les vérités, multiples et parfois contradictoires, s'entrechoquent au sein d'une même communauté face à l'absurde de la perte.",
+        "vocabulary": [
+          {
+            "word": "acuité",
+            "definition": "perspicacité, précision dans l'analyse"
+          },
+          {
+            "word": "pulvériser",
+            "definition": "réduire à l'état de poussière, détruire complètement"
+          },
+          {
+            "word": "indissociable",
+            "definition": "qui ne peut pas être séparé"
+          },
+          {
+            "word": "ineffable",
+            "definition": "qui ne peut pas être exprimé par des mots"
+          },
+          {
+            "word": "prééminent",
+            "definition": "qui se distingue par son excellence"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal du film ?",
+            "options": [
+              "La comédie",
+              "La vérité",
+              "Le voyage"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment est décrite la narration ?",
+            "options": [
+              "Linéaire",
+              "Désarticulée",
+              "Répétitive"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle distinction importante le film a-t-il reçue ?",
+            "options": [
+              "Prix Goncourt",
+              "Grand Prix à Cannes",
+              "Palme d'Or"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter es una película de drama. Es de Canadá. El director es Atom Egoyan. La historia está en un pueblo pequeño. Un accidente afecta a este pueblo. Un autobús escolar se cae. Muchos niños mueren en el accidente. La historia empieza con este evento. Un abogado llega al pueblo. Él quiere ayudar a las familias. La población está triste y enojada. La película es sobre el dolor y la verdad. Es importante ver esta película.",
+        "vocabulary": [
+          {
+            "word": "drama",
+            "definition": "un tipo de película seria"
+          },
+          {
+            "word": "accidente",
+            "definition": "un evento malo que pasa"
+          },
+          {
+            "word": "pueblo",
+            "definition": "un lugar donde vive la gente"
+          },
+          {
+            "word": "niños",
+            "definition": "las personas pequeñas"
+          },
+          {
+            "word": "familias",
+            "definition": "grupos de personas que viven juntas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Dónde está la historia?",
+            "options": [
+              "En una ciudad grande",
+              "En un pueblo pequeño",
+              "En una isla"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué evento malo pasa?",
+            "options": [
+              "Un terremoto",
+              "Un accidente de autobús",
+              "Una fiesta"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién llega al pueblo?",
+            "options": [
+              "Un maestro",
+              "Un abogado",
+              "Un niño"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter es una película que habla sobre la tragedia. Es de 1997 y dirigida por Atom Egoyan. La historia comienza con un accidente en un autobús escolar. Este accidente afecta a un pueblo en Canadá. Muchos niños mueren y las familias están muy tristes. Un abogado de la ciudad llega para ayudar y quiere iniciar un juicio. Pero la llegada del abogado divide a la comunidad. La gente discute por el dolor y la verdad. La música de la película tiene un estilo medieval. Es una historia profunda sobre la pérdida y la lucha. La película no fue un gran éxito, pero recibió muchos premios importantes.",
+        "vocabulary": [
+          {
+            "word": "tragedia",
+            "definition": "un evento muy triste"
+          },
+          {
+            "word": "comunidad",
+            "definition": "un grupo de personas que viven juntas"
+          },
+          {
+            "word": "juicio",
+            "definition": "un proceso legal en la corte"
+          },
+          {
+            "word": "dividir",
+            "definition": "separar en partes"
+          },
+          {
+            "word": "premios",
+            "definition": "reconocimientos por el trabajo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué evento comienza la historia?",
+            "options": [
+              "Una fiesta",
+              "Un accidente de autobús",
+              "Una boda"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿De dónde es el abogado?",
+            "options": [
+              "Del pueblo",
+              "De la ciudad",
+              "Del campo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de música tiene la película?",
+            "options": [
+              "Moderna",
+              "Tradicional",
+              "Medieval"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Sweet Hereafter",
+        "text": "The Sweet Hereafter es una película dramática dirigida por Atom Egoyan en 1997. La historia se centra en un pequeño pueblo canadiense que sufre un terrible accidente con un autobús escolar. Este trágico evento causa la muerte de catorce niños, lo cual provoca un profundo dolor en la comunidad y transforma su vida cotidiana. Tras el accidente, muchos padres tienen que enfrentar el duelo y la pérdida de sus hijos. Un abogado que llega de la ciudad quiere ayudar a las familias afectadas mediante una demanda colectiva que podría ofrecer un poco de justicia. Sin embargo, si las familias continúan unidas en su dolor, sus esfuerzos podrían generar más división entre los habitantes, que ya están muy heridos emocionalmente. La película aborda temas complejos como el dolor, la pérdida de inocencia y la búsqueda de la verdad. La música medieval que acompaña esta historia crea un ambiente melancólico y reflexivo. Aunque no fue un éxito en taquilla, ganó prestigiosos premios, incluyendo el Grand Prix en el Festival de Cannes, lo cual ha destacado su calidad artística. Su narrativa filmográfica ha resonado en críticos y espectadores, haciéndola una obra significativa en el cine canadiense. Muchos la consideran una ruptura en la forma de contar historias sobre el duelo y las tragedias comunitarias, y su impacto perdura hasta el día de hoy.",
+        "vocabulary": [
+          {
+            "word": "duelo",
+            "definition": "El proceso emocional que se atraviesa tras la pérdida de un ser querido."
+          },
+          {
+            "word": "melancólico",
+            "definition": "Un sentimiento de tristeza profunda y reflexiva."
+          },
+          {
+            "word": "justicia",
+            "definition": "El principio moral que aboga por el respeto a los derechos y el tratamiento equitativo."
+          },
+          {
+            "word": "comunitarios",
+            "definition": "Relativo a una comunidad, que involucra a un grupo de personas."
+          },
+          {
+            "word": "narrativa",
+            "definition": "La forma en que se cuenta una historia."
+          },
+          {
+            "word": "tragedia",
+            "definition": "Un evento muy malo y doloroso que causa sufrimiento."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el director de la película The Sweet Hereafter?",
+            "options": [
+              "Sarah Polley",
+              "Atom Egoyan",
+              "Bruce Greenwood"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué evento trágico ocurre en el pueblo?",
+            "options": [
+              "Una inundación",
+              "Un accidente de autobús escolar",
+              "Un incendio en la escuela"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es uno de los temas principales de la película?",
+            "options": [
+              "La tecnología",
+              "El dolor y la pérdida",
+              "La ciencia ficción"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "La dulce aquí y ahora",
+        "text": "La dulce aquí y ahora, dirigida por Atom Egoyan en 1997, se centra en una pequeña comunidad montañosa en Canadá, donde un trágico accidente de autobús escolar acaba con la vida de 14 niños. Este evento devastador plantea cuestiones profundas sobre la pérdida, la verdad y el dolor colectivo. La llegada de un abogado de la ciudad parece ofrecer esperanza a los supervivientes y a las familias de las víctimas, pero sus esfuerzos para iniciar una demanda colectiva solo acentúan las divisiones en la comunidad. Temas como la búsqueda de la verdad y el impacto del trauma son fundamentales. La cinematografía es cautivadora, utilizando la luz y el sonido para reflejar el estado emocional de los personajes. La música, que tiene influencias medievales, agrega una capa adicional de introspección. Aunque la película no fue un gran éxito comercial, recibió el reconocimiento crítico, ganando varios premios en Cannes y en los Genies. La dulce aquí y ahora es considerado uno de los mejores filmes canadienses, evidenciando la capacidad del cine para abordar cuestiones complejas de la condición humana.",
+        "vocabulary": [
+          {
+            "word": "comunidad",
+            "definition": "grupo de personas que viven juntas"
+          },
+          {
+            "word": "verdad",
+            "definition": "lo que es cierto o real"
+          },
+          {
+            "word": "divisiones",
+            "definition": "separaciones entre personas o grupos"
+          },
+          {
+            "word": "cinematografía",
+            "definition": "el arte de hacer películas"
+          },
+          {
+            "word": "influencias",
+            "definition": "factores que afectan algo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué trágico evento ocurre en la película?",
+            "options": [
+              "Un accidente de autobús escolar.",
+              "Una tormenta de nieve.",
+              "Una fiesta en la comunidad."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién llega a ayudar a la comunidad?",
+            "options": [
+              "Un abogado de la ciudad.",
+              "Un médico del pueblo.",
+              "Un maestro de escuela."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tema es importante en la película?",
+            "options": [
+              "La búsqueda de la verdad.",
+              "La competencia deportiva.",
+              "La vida de los animales."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "La búsqueda de la verdad en La dulce aquí y ahora",
+        "text": "La dulce aquí y ahora, una obra de Atom Egoyan estrenada en 1997, refleja la complejidad del dolor y la búsqueda de verdad en una comunidad que enfrenta la tragedia tras un accidente de autobús escolar que cobra la vida de 14 niños. Este suceso, devastador en su naturaleza, plantea interrogantes sobre la resiliencia humana y las divisiones que surgen en tiempos de crisis. A pesar de la llegada de un abogado que intenta ayudar a los sobrevivientes, su intervención parece enrarecer aún más las relaciones dentro de la comunidad, lo que plantea la pregunta: ¿es la justicia un concepto absoluto? La fotografía y el uso del sonido en la película son fundamentales para crear una atmósfera de melancolía y reflexión. Las influencias medievales en la banda sonora enriquecen el discurso visual, conectando a los personajes con un sentido de historia y legado. La aclamación crítica que recibió, incluidos premios en Cannes y varios Genies, subraya su relevancia en la cinematografía canadiense, así como su capacidad para abordar cuestiones universales en un marco íntimo y conmovedor.",
+        "vocabulary": [
+          {
+            "word": "resiliencia",
+            "definition": "capacidad de recuperarse de situaciones difíciles"
+          },
+          {
+            "word": "intervención",
+            "definition": "acción de intervenir en una situación"
+          },
+          {
+            "word": "melancolía",
+            "definition": "sentimiento de tristeza profunda"
+          },
+          {
+            "word": "legado",
+            "definition": "lo que se deja a las futuras generaciones"
+          },
+          {
+            "word": "conmovedor",
+            "definition": "que emociona o toca el corazón"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es el evento trágico de la película?",
+            "options": [
+              "Un accidente de autobús escolar.",
+              "Una fiesta en la comunidad.",
+              "Un incendio en la escuela."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué intenta hacer el abogado en la comunidad?",
+            "options": [
+              "Ayudar a los sobrevivientes.",
+              "Organizar un festival.",
+              "Escribir un libro."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué sentimiento predomina en la atmósfera de la película?",
+            "options": [
+              "Melancolía.",
+              "Alegría.",
+              "Confusión."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "La dulzura amarga de La dulce aquí y ahora",
+        "text": "La dulce aquí y ahora, una obra maestra de Atom Egoyan que data de 1997, se presenta como un profundo estudio del sufrimiento humano y la intrincada red de relaciones que surgen en el contexto de una tragedia. El filme explora no solo la devastación provocada por un infausto accidente de autobús escolar que arrebata la vida de 14 niños, sino que también desentraña la lucha de una comunidad atrapada entre la búsqueda de consuelo y la verdad. Es intrigante notar cómo, a pesar de la llegada del abogado que intenta ofrecer esperanza mediante una demanda colectiva, sus esfuerzos parecen exacerbar las fracturas y malentendidos preexistentes. La cinematografía de Egoyan se caracteriza por su uso meticuloso de la luz y la oscuridad, y su banda sonora, impregnada de ecos medievales, no hace más que amplificar el aire fúnebre y nostálgico del relato. La película no solo obtuvo múltiples galardones en festivales internacionales, sino que se consolidó cono un referente del cine canadiense contemporáneo, interrogando, con maestría, aspectos universales como la justicia y la memoria colectiva. En un mundo donde la verdad se presenta como un concepto elusivo, Egoyan nos invita a cuestionar nuestras propias percepciones y a reflexionar sobre el dolor compartido.",
+        "vocabulary": [
+          {
+            "word": "infausto",
+            "definition": "que causa desgracia o mala suerte"
+          },
+          {
+            "word": "desentrañar",
+            "definition": "sacar a la luz algo que está oculto"
+          },
+          {
+            "word": "exacerbar",
+            "definition": "hacer que algo empeore o se intensifique"
+          },
+          {
+            "word": "meticuloso",
+            "definition": "que presta atención a los detalles"
+          },
+          {
+            "word": "elusivo",
+            "definition": "que se escapa o es difícil de alcanzar"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué estudia La dulce aquí y ahora?",
+            "options": [
+              "El sufrimiento humano.",
+              "Las aventuras de un héroe.",
+              "Las relaciones familiares."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué provoca el accidente en la película?",
+            "options": [
+              "La muerte de 14 niños.",
+              "Un conflicto bélico.",
+              "Una catástrofe natural."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué influencia tiene la banda sonora en la película?",
+            "options": [
+              "Amplifica el aire fúnebre.",
+              "Es alegre y festiva.",
+              "No tiene influencia."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "die": "the",
+      "süße": "sweetness",
+      "lüge": "lie",
+      "ein": "a",
+      "kleiner": "smaller",
+      "ort": "place",
+      "in": "in",
+      "kanada": "canada",
+      "hat": "has",
+      "großes": "large",
+      "problem": "problem",
+      "schulbus": "school bus",
+      "viele": "many",
+      "kinder": "children",
+      "getötet": "killed",
+      "dorfbewohner": "villager",
+      "sind": "are",
+      "sehr": "very",
+      "traurig": "sad",
+      "trauer": "mourning",
+      "ist": "is",
+      "tief": "deep",
+      "alle": "everyone",
+      "menschen": "people",
+      "fühlen": "to feel",
+      "sich": "oneself",
+      "verloren": "lost",
+      "anwalt": "lawyer",
+      "kommt": "comes",
+      "stadt": "city",
+      "er": "he",
+      "möchte": "would like",
+      "helfen": "to help",
+      "leute": "people",
+      "skeptisch": "skeptical",
+      "denn": "because",
+      "sie": "they",
+      "streiten": "to argue",
+      "viel": "a lot",
+      "wütend": "angry",
+      "und": "and",
+      "verletzt": "injured",
+      "erinnern": "to remember",
+      "an": "at",
+      "glücklichen": "happy",
+      "zeiten": "times",
+      "mit": "with",
+      "den": "the",
+      "kindern": "children",
+      "es": "it",
+      "gibt": "gives",
+      "fragen": "questions",
+      "keine": "no",
+      "einfachen": "simple",
+      "antworten": "to respond",
+      "bilder": "images",
+      "im": "in the",
+      "film": "film",
+      "schön": "beautiful",
+      "musik": "music",
+      "emotional": "emotional",
+      "der": "the",
+      "erzählt": "tells",
+      "von": "from",
+      "verlust": "loss",
+      "gemeinschaft": "community",
+      "zeigt": "shows",
+      "dass": "that",
+      "wahrheit": "truth",
+      "oft": "often",
+      "kompliziert": "complicated",
+      "spielt": "plays",
+      "einem": "a",
+      "kleinen": "small",
+      "dorf": "village",
+      "diesem": "this",
+      "eine": "a",
+      "große": "large",
+      "tragödie": "tragedy",
+      "verwüstung": "devastation",
+      "unvorstellbar": "unimaginable",
+      "weil": "because",
+      "aus": "from",
+      "familien": "families",
+      "klage": "lawsuit",
+      "zu": "to",
+      "machen": "to make",
+      "doch": "but",
+      "über": "about",
+      "unterschiedliche": "different",
+      "meinungen": "opinions",
+      "haben": "to have",
+      "muss": "must",
+      "verstehen": "to understand",
+      "ihre": "their",
+      "gefühle": "feelings",
+      "probleme": "problems",
+      "schwierigkeiten": "difficulties",
+      "einen": "a",
+      "besonderen": "special",
+      "klang": "sound",
+      "stimmung": "mood",
+      "verstärkt": "intensified",
+      "geplante": "planned",
+      "veränderungen": "changes",
+      "für": "for",
+      "schwer": "heavy",
+      "stark": "strong",
+      "müssen": "must",
+      "ihr": "your",
+      "leben": "life",
+      "neu": "new",
+      "denken": "to think",
+      "verändert": "changes",
+      "alles": "everything",
+      "bewegendes": "moving",
+      "drama": "drama",
+      "kanadische": "canadian",
+      "atom": "atom",
+      "egoyan": "Egoyan",
+      "tragische": "tragic",
+      "geschichte": "history",
+      "kleine": "small",
+      "gemeinde": "community",
+      "leidet": "suffers",
+      "als": "than",
+      "schulbusunfall": "school bus accident",
+      "kinderleben": "child life",
+      "kostet": "cost",
+      "schockierenden": "shocking",
+      "ereignis": "event",
+      "sterben": "to die",
+      "insgesamt": "overall",
+      "was": "what",
+      "gesamte": "entire",
+      "tiefe": "deep",
+      "stürzt": "falls",
+      "angehörigen": "relatives",
+      "erleben": "to experience",
+      "nicht": "not",
+      "nur": "only",
+      "ihrer": "their",
+      "sondern": "but",
+      "auch": "also",
+      "hoffnung": "hope",
+      "dieser": "this",
+      "spannungen": "tensions",
+      "durch": "through",
+      "diesen": "these",
+      "vorfall": "incident",
+      "entstehen": "to emerge",
+      "um": "around",
+      "überlebenden": "survivors",
+      "einzureichen": "to submit",
+      "gerechtigkeit": "justice",
+      "bringen": "to bring",
+      "aber": "but",
+      "statt": "instead",
+      "einheit": "unity",
+      "führt": "leads",
+      "dies": "this",
+      "konflikten": "conflicts",
+      "zwischen": "between",
+      "dorfbewohnern": "villagers",
+      "einige": "some",
+      "glauben": "believe",
+      "das": "that",
+      "klagen": "to sue",
+      "unangebracht": "inappropriate",
+      "während": "during",
+      "andere": "other",
+      "chance": "chance",
+      "auf": "to",
+      "entschädigung": "compensation",
+      "nutzen": "use",
+      "möchten": "would like",
+      "themen": "topics",
+      "des": "of the",
+      "films": "films",
+      "herausforderung": "challenge",
+      "umzugehen": "to deal",
+      "beeindruckend": "impressive",
+      "sogar": "even",
+      "mittelalterliche": "medieval",
+      "klänge": "sounds",
+      "verwendet": "used",
+      "großen": "large",
+      "einfluss": "influence",
+      "einzigartige": "unique",
+      "erzähltempo": "narrative pace",
+      "bleibt": "stays",
+      "gedächtnis": "memory",
+      "preise": "prices",
+      "gewonnen": "won",
+      "darunter": "including",
+      "beim": "at the",
+      "filmfestival": "film festival",
+      "cannes": "Cannes",
+      "uns": "us",
+      "einfach": "simple",
+      "finden": "to find",
+      "diese": "this",
+      "komplexen": "complex",
+      "nach": "after",
+      "vielen": "many",
+      "jahren": "years",
+      "weiterhin": "still",
+      "relevant": "relevant",
+      "zerbrechlichkeit": "fragility",
+      "the": "the",
+      "sweet": "sweet",
+      "hereafter": "hereafter",
+      "eindrucksvolles": "impressive",
+      "unter": "under",
+      "regie": "direction",
+      "entstand": "arose",
+      "handlung": "action",
+      "beginnt": "begins",
+      "einer": "one",
+      "kanadischen": "canadian",
+      "tragischen": "tragic",
+      "erschüttert": "shaken",
+      "wird": "will",
+      "bei": "at",
+      "dem": "the",
+      "ums": "around",
+      "kommen": "come",
+      "großstadt": "big city",
+      "versucht": "attempted",
+      "hinterbliebenen": "survivors",
+      "seine": "his",
+      "bemühungen": "efforts",
+      "führen": "to lead",
+      "weiteren": "further",
+      "innerhalb": "within",
+      "thematisiert": "thematizes",
+      "zentrale": "central",
+      "wie": "like",
+      "schuld": "debt",
+      "zerfall": "decay",
+      "gemeinschaften": "communities",
+      "obwohl": "although",
+      "gutes": "good",
+      "will": "wants",
+      "zeigen": "to show",
+      "beziehungen": "relationships",
+      "untereinander": "among each other",
+      "neuen": "new",
+      "licht": "light",
+      "dabei": "thereby",
+      "wesentliche": "essential",
+      "rolle": "role",
+      "da": "there",
+      "emotionalen": "emotional",
+      "gehalt": "content",
+      "szenen": "scenes",
+      "visuell": "visual",
+      "besticht": "enchants",
+      "melancholische": "melancholic",
+      "ruhige": "quiet",
+      "erzählweise": "narrative",
+      "zuschauer": "spectators",
+      "dazu": "additionally",
+      "einlädt": "invites",
+      "natur": "nature",
+      "nachzudenken": "to reflect",
+      "wurde": "was",
+      "international": "international",
+      "hochgelobt": "highly praised",
+      "erhielt": "received",
+      "mehrere": "several",
+      "bedeutende": "significant",
+      "auszeichnungen": "awards",
+      "anderem": "other",
+      "festival": "festival",
+      "filmische": "cinematic",
+      "erzählung": "narrative",
+      "regt": "to stimulate",
+      "zwischentöne": "nuances",
+      "lebens": "lives",
+      "damit": "so that",
+      "verbundenen": "connected",
+      "menschlichen": "human",
+      "erfahrungen": "experiences",
+      "reflexion": "reflection",
+      "meisterhaften": "masterly",
+      "stellt": "presents",
+      "unschuld": "innocence",
+      "zwischenmenschlichen": "interpersonal",
+      "vordergrund": "foreground",
+      "verheerenden": "devastating",
+      "mehreren": "several",
+      "deren": "their",
+      "dramatisch": "dramatic",
+      "folgender": "following",
+      "auseinandersetzung": "discussion",
+      "verschiedenen": "various",
+      "perspektiven": "perspectives",
+      "emotionen": "emotions",
+      "zur": "to the",
+      "geltung": "validity",
+      "wobei": "whereby",
+      "suche": "search",
+      "persönlichen": "personal",
+      "verbunden": "connected",
+      "nutzt": "uses",
+      "meditative": "meditative",
+      "bildsprache": "imagery",
+      "transportieren": "to transport",
+      "filigrane": "delicate",
+      "kern": "core",
+      "unterstreicht": "emphasizes",
+      "tagline": "tagline",
+      "einfache": "simple",
+      "wahrheiten": "truths",
+      "können": "can",
+      "eigenarten": "peculiarities",
+      "charaktere": "characters",
+      "werden": "will",
+      "einfühlsame": "empathetic",
+      "darstellungen": "representations",
+      "ian": "Ian",
+      "holm": "beam",
+      "sarah": "Sarah",
+      "polley": "Polley",
+      "intensiviert": "intensified",
+      "erregte": "excited",
+      "aufmerksamkeit": "attention",
+      "zahlreichen": "numerous",
+      "preisen": "prices",
+      "ausgezeichnet": "awarded",
+      "begehrte": "desired",
+      "goldene": "golden",
+      "palme": "palm",
+      "dadurch": "thereby",
+      "stellung": "position",
+      "kino": "cinema",
+      "gefestigt": "consolidated",
+      "internationale": "international",
+      "publikum": "audience",
+      "nachhaltig": "sustainable",
+      "beeindruckt": "impressed",
+      "stilistische": "stylistic",
+      "raffinesse": "refinement",
+      "tiefgründigen": "profound",
+      "zeitlosen": "timeless",
+      "kunstwerk": "artwork",
+      "zum": "to the",
+      "nachdenken": "to think",
+      "anregt": "stimulates",
+      "spiegel": "mirror",
+      "schmerzes": "pain",
+      "wahrheitsfindung": "truth finding",
+      "vielmehr": "rather",
+      "tiefgreifende": "profound",
+      "mediation": "mediation",
+      "komplexität": "complexity",
+      "wahrnehmungen": "perceptions",
+      "fragilität": "fragility",
+      "entfaltet": "unfolds",
+      "postulierten": "postulated",
+      "kleinstadt": "small town",
+      "idyll": "idyll",
+      "brutal": "brutal",
+      "zerstört": "destroyed",
+      "gelingt": "succeeds",
+      "psychologischen": "psychological",
+      "narben": "scars",
+      "beteiligten": "involved",
+      "eindringlichen": "insistent",
+      "bildern": "pictures",
+      "festzuhalten": "to capture",
+      "gepaart": "paired",
+      "melancholischen": "melancholic",
+      "musikalischen": "musical",
+      "untermalung": "underscore",
+      "wirkung": "effect",
+      "gezeigten": "shown",
+      "lädt": "invites",
+      "ambivalenz": "ambivalence",
+      "kritiklosen": "uncritical",
+      "auseinanderzusetzen": "to grapple",
+      "futurtheorien": "future theories",
+      "preis": "prize",
+      "hierbei": "thereby",
+      "insbesondere": "especially",
+      "zueinander": "to each other",
+      "offenbaren": "to reveal",
+      "oberfläche": "surface",
+      "vielzahl": "variety",
+      "anwaltsbesuch": "lawyer visit",
+      "ans": "to",
+      "zudem": "furthermore",
+      "herausragendes": "outstanding",
+      "beispiel": "example",
+      "kanadischer": "canadian",
+      "filmkunst": "film art",
+      "gekrönt": "crowned",
+      "bedeutenden": "significant",
+      "zeitgenössischen": "contemporary",
+      "kommentar": "comment",
+      "ihrem": "their",
+      "streben": "aspiration",
+      "dar": "there",
+      "sieht": "sees",
+      "breiteren": "broader",
+      "kontext": "context",
+      "eingeordnet": "classified",
+      "ihn": "him",
+      "bemerkenswerten": "noteworthy",
+      "werk": "work",
+      "kinos": "cinemas",
+      "erhebt": "raises"
+    },
+    "fr": {
+      "the": "the",
+      "sweet": "sweet",
+      "hereafter": "hereafter",
+      "est": "is",
+      "un": "a",
+      "film": "film",
+      "canadien": "Canadian",
+      "il": "he",
+      "réalisé": "achieved",
+      "par": "by",
+      "atom": "atom",
+      "egoyan": "Egoyan",
+      "le": "the",
+      "parle": "speaks",
+      "tragique": "tragic",
+      "accident": "accident",
+      "des": "some",
+      "enfants": "children",
+      "meurent": "die",
+      "dans": "in",
+      "bus": "bus",
+      "scolaire": "school",
+      "cette": "this",
+      "histoire": "history",
+      "se": "yourself",
+      "passe": "passes",
+      "une": "a",
+      "petite": "small",
+      "ville": "city",
+      "les": "the",
+      "gens": "people",
+      "sont": "are",
+      "tristes": "sad",
+      "et": "and",
+      "en": "in",
+      "colère": "anger",
+      "après": "after",
+      "la": "the",
+      "perte": "loss",
+      "avocat": "lawyer",
+      "arrive": "to arrive",
+      "de": "of",
+      "grande": "big",
+      "veut": "wants",
+      "aider": "to help",
+      "familles": "families",
+      "victimes": "victims",
+      "veulent": "want",
+      "justice": "justice",
+      "pour": "for",
+      "leurs": "their",
+      "mais": "but",
+      "divisent": "divide",
+      "cause": "cause",
+      "musiques": "music",
+      "tristement": "sadly",
+      "belles": "beautiful",
+      "touchant": "touching",
+      "émouvant": "moving",
+      "sur": "about",
+      "vérité": "truth",
+      "douleur": "pain",
+      "drame": "drama",
+      "sort": "fate",
+      "commence": "starts",
+      "avec": "with",
+      "deuil": "mourning",
+      "touchées": "affected",
+      "très": "very",
+      "préparer": "to prepare",
+      "procès": "trial",
+      "son": "his",
+      "arrivée": "arrival",
+      "ne": "not",
+      "rend": "makes",
+      "pas": "not",
+      "tout": "all",
+      "monde": "world",
+      "heureux": "happy",
+      "habitants": "inhabitants",
+      "commencent": "begin",
+      "diviser": "to divide",
+      "certains": "some",
+      "parler": "to speak",
+      "autres": "others",
+      "non": "no",
+      "ce": "this",
+      "recherche": "research",
+      "ambiance": "atmosphere",
+      "rendent": "make",
+      "profond": "deep",
+      "reçu": "received",
+      "nombreux": "many",
+      "prix": "prize",
+      "apprécié": "appreciated",
+      "dramatique": "dramatic",
+      "sorti": "went out",
+      "dirigé": "led",
+      "canadienne": "Canadian",
+      "dévastée": "devastated",
+      "terrible": "terrible",
+      "qui": "who",
+      "eu": "had",
+      "lieu": "place",
+      "froid": "cold",
+      "hiver": "winter",
+      "quatorze": "fourteen",
+      "perdent": "lose",
+      "vie": "life",
+      "provoquant": "causing",
+      "chagrin": "sorrow",
+      "communauté": "community",
+      "soudée": "welded",
+      "au": "at the",
+      "milieu": "environment",
+      "motivé": "motivated",
+      "désir": "desire",
+      "obtenir": "to obtain",
+      "cependant": "however",
+      "complique": "complicates",
+      "relations": "relations",
+      "entre": "between",
+      "retrouvent": "find again",
+      "divisés": "divided",
+      "ceux": "those",
+      "poursuivre": "to pursue",
+      "préfèrent": "prefer",
+      "pleurer": "to cry",
+      "ensemble": "together",
+      "sans": "without",
+      "rancœur": "resentment",
+      "aborde": "addresses",
+      "thèmes": "themes",
+      "tels": "such",
+      "que": "that",
+      "réalisateur": "director",
+      "habilement": "skillfully",
+      "utilisé": "used",
+      "lumière": "light",
+      "musique": "music",
+      "créer": "to create",
+      "atmosphère": "atmosphere",
+      "réfléchie": "thoughtful",
+      "mélancolique": "melancholic",
+      "si": "if",
+      "émotions": "emotions",
+      "souvent": "often",
+      "intenses": "intense",
+      "elles": "they",
+      "révèlent": "reveal",
+      "aussi": "also",
+      "fragilité": "fragility",
+      "liens": "links",
+      "humains": "human",
+      "moments": "moments",
+      "difficiles": "difficult",
+      "bien": "well",
+      "ait": "has",
+      "grand": "big",
+      "succès": "success",
+      "commercial": "commercial",
+      "été": "been",
+      "acclamé": "acclaimed",
+      "critique": "criticism",
+      "remporté": "won",
+      "plusieurs": "several",
+      "prestigieux": "prestigious",
+      "dont": "whose",
+      "festival": "festival",
+      "cannes": "cannes",
+      "aujourd'hui": "today",
+      "considéré": "considered",
+      "comme": "like",
+      "important": "important",
+      "du": "of the",
+      "cinéma": "cinema",
+      "car": "because",
+      "soulève": "raises",
+      "questions": "questions",
+      "responsabilité": "responsibility",
+      "universels": "universal",
+      "beaucoup": "a lot",
+      "peuvent": "can",
+      "comprendre": "to understand",
+      "reste": "rest",
+      "œuvre": "work",
+      "poignante": "poignant",
+      "résonne": "resonates",
+      "encore": "again",
+      "douceur": "gentleness",
+      "moment": "moment",
+      "explore": "explore",
+      "conséquences": "consequences",
+      "fait": "makes",
+      "accroître": "to increase",
+      "tensions": "tensions",
+      "sein": "breast",
+      "sa": "its",
+      "mission": "mission",
+      "soit": "be",
+      "biais": "bias",
+      "collectif": "collective",
+      "semble": "seems",
+      "ses": "his",
+      "efforts": "efforts",
+      "fassent": "do",
+      "approfondir": "to deepen",
+      "fractures": "fractures",
+      "relationnelles": "relational",
+      "parallèle": "parallel",
+      "adolescent": "teenager",
+      "survivant": "survivor",
+      "complexités": "complexities",
+      "innocence": "innocence",
+      "perdue": "lost",
+      "profonds": "deep",
+      "culpabilité": "guilt",
+      "divisions": "divisions",
+      "communautaires": "community",
+      "structure": "structure",
+      "narrative": "narrative",
+      "linéaire": "linear",
+      "médiévale": "medieval",
+      "inspirée": "inspired",
+      "légende": "legend",
+      "joueur": "player",
+      "flûte": "flute",
+      "hamelin": "Hamelin",
+      "enrichissent": "enrich",
+      "expérience": "experience",
+      "spectateur": "spectator",
+      "ailleurs": "elsewhere",
+      "noter": "note",
+      "ayant": "having",
+      "connu": "known",
+      "ainsi": "thus",
+      "distingue": "distinguishes",
+      "majeure": "major",
+      "invitant": "inviting",
+      "public": "public",
+      "réfléchir": "to reflect",
+      "nature": "nature",
+      "mémoire": "memory",
+      "héritage": "heritage",
+      "nous": "we",
+      "confronte": "confronts",
+      "poignant": "poignant",
+      "où": "where",
+      "brutalement": "brutally",
+      "protagonistes": "protagonists",
+      "cherchent": "search",
+      "intermédiaire": "intermediary",
+      "leur": "their",
+      "quête": "quest",
+      "réparation": "repair",
+      "creuser": "to dig",
+      "davantage": "more",
+      "blessures": "injuries",
+      "émotionnelles": "emotional",
+      "même": "even",
+      "temps": "weather",
+      "thématiques": "thematic",
+      "universelles": "universal",
+      "telles": "such",
+      "luttes": "struggles",
+      "internes": "internal",
+      "survivants": "survivors",
+      "narration": "narration",
+      "entrecoupée": "interrupted",
+      "flashbacks": "flashbacks",
+      "permet": "allows",
+      "saisir": "to seize",
+      "complexité": "complexity",
+      "humaines": "human",
+      "manière": "manner",
+      "traumatisme": "trauma",
+      "inscrit": "inscribed",
+      "collective": "collective",
+      "influences": "influences",
+      "médiévales": "medieval",
+      "accompagne": "accompanies",
+      "magistralement": "masterfully",
+      "images": "images",
+      "créant": "creating",
+      "touche": "affects",
+      "profondément": "deeply",
+      "dépit": "spite",
+      "accueil": "welcome",
+      "mitigé": "mixed",
+      "box-office": "box office",
+      "reconnu": "recognized",
+      "jury": "jury",
+      "conséquent": "consequent",
+      "émerge": "emerges",
+      "incontournable": "essential",
+      "indépendant": "independent",
+      "posant": "posing",
+      "question": "question",
+      "suivante": "next",
+      "est-ce": "is it",
+      "façonnent": "shape",
+      "vies": "lives",
+      "interrogation": "questioning",
+      "interroge": "questions",
+      "acuité": "sharpness",
+      "rare": "rare",
+      "notion": "notion",
+      "unité": "unity",
+      "pulvérisée": "pulverized",
+      "entraînant": "leading",
+      "agit": "acts",
+      "moins": "less",
+      "simple": "simple",
+      "représentation": "representation",
+      "divers": "various",
+      "exploration": "exploration",
+      "profonde": "deep",
+      "cicatrices": "scars",
+      "psychologiques": "psychological",
+      "laissées": "left",
+      "tragédie": "tragedy",
+      "chaque": "each",
+      "personnage": "character",
+      "distinct": "distinct",
+      "indissociable": "inseparable",
+      "illustre": "illustrious",
+      "ces": "these",
+      "suscite": "arouses",
+      "désarticulée": "disarticulated",
+      "déploie": "unfolds",
+      "langage": "language",
+      "visuel": "visual",
+      "riche": "rich",
+      "couleur": "color",
+      "entrelacent": "intertwine",
+      "librement": "freely",
+      "suggérer": "to suggest",
+      "ineffable": "ineffable",
+      "plan": "plan",
+      "musical": "musical",
+      "choix": "choice",
+      "médiévaux": "medieval",
+      "évoquant": "evoking",
+      "fois": "times",
+      "mélancolie": "melancholy",
+      "nostalgie": "nostalgia",
+      "éléments": "elements",
+      "narratifs": "narrative",
+      "part": "part",
+      "entière": "whole",
+      "réception": "reception",
+      "mitigée": "mitigated",
+      "distinctions": "distinctions",
+      "remportées": "won",
+      "notamment": "notably",
+      "témoignent": "testify",
+      "statut": "status",
+      "prééminent": "foremost",
+      "acquis": "gains",
+      "panthéon": "pantheon",
+      "au-delà": "beyond",
+      "ouvre": "opens",
+      "réflexion": "reflection",
+      "façon": "way",
+      "vérités": "truths",
+      "multiples": "multiple",
+      "parfois": "sometimes",
+      "contradictoires": "contradictory",
+      "entrechoquent": "clash",
+      "face": "face",
+      "absurde": "absurd"
+    },
+    "es": {
+      "the": "the",
+      "sweet": "sweet",
+      "hereafter": "hereafter",
+      "es": "is",
+      "una": "a",
+      "película": "movie",
+      "de": "of",
+      "drama": "drama",
+      "canadá": "canada",
+      "el": "the",
+      "director": "director",
+      "atom": "atom",
+      "egoyan": "Egoyan",
+      "la": "the",
+      "historia": "story",
+      "está": "is",
+      "en": "in",
+      "un": "a",
+      "pueblo": "people",
+      "pequeño": "small",
+      "accidente": "accident",
+      "afecta": "affects",
+      "este": "this",
+      "autobús": "bus",
+      "escolar": "school",
+      "se": "oneself",
+      "cae": "falls",
+      "muchos": "many",
+      "niños": "children",
+      "mueren": "die",
+      "empieza": "begins",
+      "con": "with",
+      "evento": "event",
+      "abogado": "lawyer",
+      "llega": "arrives",
+      "al": "to the",
+      "él": "he",
+      "quiere": "wants",
+      "ayudar": "to help",
+      "las": "the",
+      "familias": "families",
+      "población": "population",
+      "triste": "sad",
+      "enojada": "angry",
+      "sobre": "about",
+      "dolor": "pain",
+      "verdad": "truth",
+      "importante": "important",
+      "ver": "see",
+      "esta": "this",
+      "que": "that",
+      "habla": "speaks",
+      "tragedia": "tragedy",
+      "dirigida": "directed",
+      "por": "for",
+      "comienza": "begins",
+      "están": "are",
+      "muy": "very",
+      "tristes": "sad",
+      "ciudad": "city",
+      "para": "to",
+      "iniciar": "to start",
+      "juicio": "trial",
+      "pero": "but",
+      "llegada": "arrival",
+      "del": "of the",
+      "divide": "to divide",
+      "comunidad": "community",
+      "gente": "people",
+      "discute": "argues",
+      "música": "music",
+      "tiene": "has",
+      "estilo": "style",
+      "medieval": "medieval",
+      "profunda": "profound",
+      "pérdida": "loss",
+      "lucha": "struggle",
+      "no": "not",
+      "fue": "was",
+      "gran": "great",
+      "éxito": "success",
+      "recibió": "received",
+      "premios": "awards",
+      "importantes": "important",
+      "dramática": "dramatic",
+      "centra": "centers",
+      "canadiense": "canadian",
+      "sufre": "suffers",
+      "terrible": "terrible",
+      "trágico": "tragic",
+      "causa": "cause",
+      "muerte": "death",
+      "catorce": "fourteen",
+      "lo": "it",
+      "cual": "which",
+      "provoca": "provokes",
+      "profundo": "profound",
+      "transforma": "transforms",
+      "su": "his",
+      "vida": "life",
+      "cotidiana": "daily",
+      "tras": "after",
+      "padres": "parents",
+      "tienen": "have",
+      "enfrentar": "to face",
+      "duelo": "mourning",
+      "sus": "their",
+      "hijos": "children",
+      "afectadas": "affected",
+      "mediante": "by means of",
+      "demanda": "demand",
+      "colectiva": "collective",
+      "podría": "could",
+      "ofrecer": "to offer",
+      "poco": "little",
+      "justicia": "justice",
+      "sin": "without",
+      "embargo": "however",
+      "si": "if",
+      "continúan": "they continue",
+      "unidas": "united",
+      "esfuerzos": "efforts",
+      "podrían": "could",
+      "generar": "to generate",
+      "más": "more",
+      "división": "division",
+      "entre": "between",
+      "los": "the",
+      "habitantes": "inhabitants",
+      "ya": "already",
+      "heridos": "injured",
+      "emocionalmente": "emotionally",
+      "aborda": "he addresses",
+      "temas": "themes",
+      "complejos": "complexes",
+      "como": "like",
+      "inocencia": "innocence",
+      "búsqueda": "search",
+      "acompaña": "to accompany",
+      "crea": "creates",
+      "ambiente": "environment",
+      "melancólico": "melancholic",
+      "reflexivo": "reflective",
+      "aunque": "although",
+      "taquilla": "ticket",
+      "ganó": "won",
+      "prestigiosos": "prestigious",
+      "incluyendo": "including",
+      "grand": "grand",
+      "prix": "prize",
+      "festival": "festival",
+      "cannes": "cannes",
+      "ha": "has",
+      "destacado": "prominent",
+      "calidad": "quality",
+      "artística": "artistic",
+      "narrativa": "narrative",
+      "filmográfica": "filmographic",
+      "resonado": "resounded",
+      "críticos": "critics",
+      "espectadores": "viewers",
+      "haciéndola": "making it",
+      "obra": "work",
+      "significativa": "significant",
+      "cine": "cinema",
+      "consideran": "consider",
+      "ruptura": "break",
+      "forma": "form",
+      "contar": "to count",
+      "historias": "stories",
+      "tragedias": "tragedies",
+      "comunitarias": "community",
+      "impacto": "impact",
+      "perdura": "endures",
+      "hasta": "until",
+      "día": "day",
+      "hoy": "today",
+      "dulce": "sweet",
+      "aquí": "here",
+      "ahora": "now",
+      "pequeña": "small",
+      "montañosa": "mountainous",
+      "donde": "where",
+      "acaba": "finishes",
+      "devastador": "devastating",
+      "plantea": "raises",
+      "cuestiones": "issues",
+      "profundas": "deep",
+      "colectivo": "collective",
+      "parece": "seems",
+      "esperanza": "hope",
+      "supervivientes": "survivors",
+      "víctimas": "victims",
+      "solo": "only",
+      "acentúan": "accentuate",
+      "divisiones": "divisions",
+      "trauma": "trauma",
+      "son": "are",
+      "fundamentales": "fundamental",
+      "cinematografía": "cinematography",
+      "cautivadora": "captivating",
+      "utilizando": "using",
+      "luz": "light",
+      "sonido": "sound",
+      "reflejar": "to reflect",
+      "estado": "state",
+      "emocional": "emotional",
+      "personajes": "characters",
+      "influencias": "influences",
+      "medievales": "medieval",
+      "agrega": "adds",
+      "capa": "layer",
+      "adicional": "additional",
+      "introspección": "introspection",
+      "comercial": "commercial",
+      "reconocimiento": "recognition",
+      "crítico": "critical",
+      "ganando": "winning",
+      "varios": "several",
+      "genies": "genies",
+      "considerado": "considered",
+      "uno": "one",
+      "mejores": "better",
+      "filmes": "films",
+      "canadienses": "canadians",
+      "evidenciando": "evidencing",
+      "capacidad": "capacity",
+      "abordar": "to address",
+      "complejas": "complex",
+      "condición": "condition",
+      "humana": "human",
+      "estrenada": "premiered",
+      "refleja": "reflects",
+      "complejidad": "complexity",
+      "enfrenta": "faces",
+      "cobra": "charges",
+      "suceso": "event",
+      "naturaleza": "nature",
+      "interrogantes": "questions",
+      "resiliencia": "resilience",
+      "surgen": "arise",
+      "tiempos": "times",
+      "crisis": "crisis",
+      "pesar": "despite",
+      "intenta": "attempts",
+      "sobrevivientes": "survivors",
+      "intervención": "intervention",
+      "enrarecer": "rarefy",
+      "aún": "still",
+      "relaciones": "relations",
+      "dentro": "within",
+      "pregunta": "question",
+      "concepto": "concept",
+      "absoluto": "absolute",
+      "fotografía": "photograph",
+      "uso": "use",
+      "crear": "to create",
+      "atmósfera": "atmosphere",
+      "melancolía": "melancholy",
+      "reflexión": "reflection",
+      "banda": "band",
+      "sonora": "sound",
+      "enriquecen": "enrich",
+      "discurso": "speech",
+      "visual": "visual",
+      "conectando": "connecting",
+      "sentido": "sense",
+      "legado": "legacy",
+      "aclamación": "acclaim",
+      "crítica": "criticism",
+      "incluidos": "included",
+      "subraya": "underlines",
+      "relevancia": "relevance",
+      "así": "thus",
+      "universales": "universal",
+      "marco": "framework",
+      "íntimo": "intimate",
+      "conmovedor": "moving",
+      "dulzura": "sweetness",
+      "amarga": "bitter",
+      "maestra": "master",
+      "data": "data",
+      "presenta": "presents",
+      "estudio": "study",
+      "sufrimiento": "suffering",
+      "humano": "human",
+      "intrincada": "intricate",
+      "red": "network",
+      "contexto": "context",
+      "filme": "film",
+      "explora": "explores",
+      "devastación": "devastation",
+      "provocada": "provoked",
+      "infausto": "ill-fated",
+      "arrebata": "snatches",
+      "sino": "but",
+      "también": "also",
+      "desentraña": "unravels",
+      "atrapada": "trapped",
+      "consuelo": "comfort",
+      "intrigante": "intriguing",
+      "notar": "to notice",
+      "cómo": "how",
+      "parecen": "seem",
+      "exacerbar": "to exacerbate",
+      "fracturas": "fractures",
+      "malentendidos": "misunderstandings",
+      "preexistentes": "pre-existing",
+      "caracteriza": "characterizes",
+      "meticuloso": "meticulous",
+      "oscuridad": "darkness",
+      "impregnada": "impregnated",
+      "ecos": "echoes",
+      "hace": "ago",
+      "amplificar": "amplify",
+      "aire": "air",
+      "fúnebre": "funereal",
+      "nostálgico": "nostalgic",
+      "relato": "story",
+      "obtuvo": "obtained",
+      "múltiples": "multiple",
+      "galardones": "awards",
+      "festivales": "festivals",
+      "internacionales": "international",
+      "consolidó": "consolidated",
+      "cono": "cone",
+      "referente": "referent",
+      "contemporáneo": "contemporary",
+      "interrogando": "interrogating",
+      "maestría": "mastery",
+      "aspectos": "aspects",
+      "memoria": "memory",
+      "mundo": "world",
+      "elusivo": "elusive",
+      "nos": "us",
+      "invita": "invites",
+      "cuestionar": "to question",
+      "nuestras": "our",
+      "propias": "own",
+      "percepciones": "perceptions",
+      "reflexionar": "to reflect",
+      "compartido": "shared"
+    }
+  }
+}
