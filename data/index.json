@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-06-iran-says-deal-with-oman-on-strait-of-hormuz-is-in-final-sta",
+    "date": "2026-08-06",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Iran and Oman finalize shipping route agreement",
+      "de": "Iran und Oman schließen eine Vereinbarung für die Straße von Hormuz",
+      "fr": "L'accord maritime entre l'Iran et Oman est proche",
+      "es": "Irán y Omán alcanzan un acuerdo sobre el estrecho de Ormuz"
+    }
+  },
+  {
+    "id": "2026-08-06-infantino-sorry-for-errors-but-stays-fifa-president",
+    "date": "2026-08-06",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Infantino Apologizes for Mistakes but Remains Fifa President",
+      "de": "Gianni Infantino bleibt Präsident von Fifa trotz Kritik",
+      "fr": "Infantino présente des excuses mais reste président de la Fifa",
+      "es": "Infantino se disculpa por errores pero permanece como presidente de Fifa"
+    }
+  },
+  {
+    "id": "2026-08-06-in-odesa-no-one-is-safe-from-russia-s-new-black-sea-strikes",
+    "date": "2026-08-06",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8759/live/683a1f90-9002-11f1-9dfb-fd4408d16f2f.jpg",
+    "category": "world",
+    "titles": {
+      "en": "Odesa's Struggles with Russian Strikes",
+      "de": "Die Angriffe auf Odesa",
+      "fr": "La situation à Odesa devient critique à cause des attaques russes",
+      "es": "Odesa sufre ataques aéreos rusos"
+    }
+  },
+  {
     "id": "2026-08-05-armed-man-arrested-near-trump-s-golf-course-ahead-of-preside",
     "date": "2026-08-05",
     "source": "BBC News",
