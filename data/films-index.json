@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-06-taste-of-cherry-abbas-kiarostami",
+    "date": "2026-08-06",
+    "director": "Abbas Kiarostami",
+    "image": "https://image.tmdb.org/t/p/w780/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg",
+    "titles": {
+      "en": "Taste of Cherry",
+      "de": "Geschmack von Kirsch",
+      "fr": "Un goût de cerise, un film d'Abbas Kiarostami",
+      "es": "Sabor a Cereza: Una Reflexión Profunda"
+    }
+  },
+  {
     "id": "2026-08-05-the-sweet-hereafter-atom-egoyan",
     "date": "2026-08-05",
     "director": "Atom Egoyan",
