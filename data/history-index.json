@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-06-2013-2013-rosario-gas-explosion",
+    "date": "2026-08-06",
+    "year": 2013,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Explosi%C3%B3n_de_Rosario_04.jpg/330px-Explosi%C3%B3n_de_Rosario_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "titles": {
+      "en": "Gas Explosion in Rosario, Argentina",
+      "de": "Die Tragödie in Rosario: Eine Gasexplosion",
+      "fr": "L'explosion de Rosario en 2013",
+      "es": "Explosión en Rosario, Argentina"
+    }
+  },
+  {
     "id": "2026-08-05-2015-united-states-environmental-protection-agency",
     "date": "2026-08-05",
     "year": 2015,
