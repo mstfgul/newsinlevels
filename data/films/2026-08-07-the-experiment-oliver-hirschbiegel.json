@@ -1,0 +1,2546 @@
+{
+  "id": "2026-08-07-the-experiment-oliver-hirschbiegel",
+  "date": "2026-08-07",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/575"
+  },
+  "originalTitle": "The Experiment (2001) — Oliver Hirschbiegel",
+  "image": "https://image.tmdb.org/t/p/w780/mfxXel8k2UWkgJ4MIsvVBsqnvFp.jpg",
+  "category": "film",
+  "film": {
+    "director": "Oliver Hirschbiegel",
+    "title": "The Experiment",
+    "year": "2001",
+    "genres": "Drama, Thriller"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Experiment",
+        "text": "This film is about a study. Many people join this study. They want to earn money. The study takes place in a fake prison. Some people are prisoners. Other people are guards. At first, it is a game. Everyone is happy. But things change. People act very differently. There is anger and fear. The movie asks: How do people act with power? The movie is serious and intense. The actors work hard. The director shows strong feelings. This film is interesting and scary.",
+        "vocabulary": [
+          {
+            "word": "experiment",
+            "definition": "a test to find out something"
+          },
+          {
+            "word": "prison",
+            "definition": "a place for people who break the law"
+          },
+          {
+            "word": "anger",
+            "definition": "a strong feeling of not being happy"
+          },
+          {
+            "word": "fear",
+            "definition": "the feeling of being scared"
+          },
+          {
+            "word": "director",
+            "definition": "a person who makes films"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the film about?",
+            "options": [
+              "A study in a fake prison",
+              "A vacation in the mountains",
+              "A game with friends"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is in charge of the film?",
+            "options": [
+              "The actors",
+              "The director",
+              "The prisoners"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How do people feel in the film?",
+            "options": [
+              "They feel angry and scared",
+              "They feel happy and funny",
+              "They feel tired and sleepy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Experiment",
+        "text": "The Experiment is a film about a group of people. They take part in a study for money. The study is about behavior in a fake prison. Some people are prisoners. Others are guards. At first, everyone is excited, but soon things change. The guards become more strict. The prisoners feel afraid. The film shows how power can change people. It asks important questions about control and freedom. The director, Oliver Hirschbiegel, uses strong images and sounds to create tension. The mood is serious and intense. This film gives viewers something to think about. It looks at human nature and how we act in difficult situations. The Experiment is both a drama and a thriller.",
+        "vocabulary": [
+          {
+            "word": "behavior",
+            "definition": "how someone acts or behaves"
+          },
+          {
+            "word": "excited",
+            "definition": "happy and interested"
+          },
+          {
+            "word": "strict",
+            "definition": "not allowing any freedom"
+          },
+          {
+            "word": "tension",
+            "definition": "feelings of stress or worry"
+          },
+          {
+            "word": "viewers",
+            "definition": "people who watch something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What do the people in the film do?",
+            "options": [
+              "They take part in a study",
+              "They go on vacation",
+              "They play a game"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the director of the film?",
+            "options": [
+              "Oliver Hirschbiegel",
+              "Philip Zimbardo",
+              "Adrien Brody"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the film ask about?",
+            "options": [
+              "How power changes people",
+              "How to play games",
+              "How to make money"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Experiment: A Deep Dive",
+        "text": "The Experiment is a thought-provoking film directed by Oliver Hirschbiegel. It tells the story of twenty volunteers who join a study about aggressive behavior in a controlled prison environment. Initially, the participants are excited about the opportunity, thinking it will be an interesting experience that brings some money. However, as the experiment progresses, the situation becomes darker and more serious. The guards start to act with increasing authority, which leads to conflicts with the prisoners. As emotions run high, the film explores themes of power dynamics, morality, and human nature. It raises important questions about how people behave when they have authority over others, and if absolute power can corrupt even those with good intentions. The visuals are striking, and the sound design adds to the intense atmosphere. Hirschbiegel skillfully uses camera techniques to capture emotions and create suspense. The Experiment has gained significant attention in cinema history for its bold approach to controversial subjects. It reflects on ethical dilemmas that challenge our understanding of society's structure. Viewers are left to ponder the implications of power and control in our everyday lives, making the film a powerful discussion starter.",
+        "vocabulary": [
+          {
+            "word": "authority",
+            "definition": "The power or right to give orders and make decisions."
+          },
+          {
+            "word": "conflict",
+            "definition": "A serious disagreement or argument."
+          },
+          {
+            "word": "dynamics",
+            "definition": "The forces that produce change or development."
+          },
+          {
+            "word": "morality",
+            "definition": "Principles concerning the distinction between right and wrong behavior."
+          },
+          {
+            "word": "corrupt",
+            "definition": "To make something morally bad or to change something from good to bad."
+          },
+          {
+            "word": "implications",
+            "definition": "The possible effects or results of an action or decision."
+          },
+          {
+            "word": "suspense",
+            "definition": "A feeling of excitement or anxiety about what may happen next."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who directed The Experiment?",
+            "options": [
+              "Paul T. Scheuring",
+              "Oliver Hirschbiegel",
+              "Philip Zimbardo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What happens to the guards as the experiment continues?",
+            "options": [
+              "They become less interested in their role",
+              "They act with increasing authority",
+              "They leave the experiment"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What central themes does the film explore?",
+            "options": [
+              "Friendship and love",
+              "Power dynamics and human nature",
+              "Technology and progress"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Exploring Human Behavior in The Experiment",
+        "text": "The Experiment is a gripping drama-thriller directed by Oliver Hirschbiegel in 2001. It explores the dark side of human nature through a fascinating and disturbing premise. Twenty volunteers agree to participate in an experiment about aggressive behavior in a controlled prison environment. Although the situation starts as a simple game, the dynamics between the randomly assigned prisoners and guards shift dramatically, leading to intense and sometimes violent interactions.\n\nThemes of power, control, and morality emerge as participants confront their limits. The film raises questions about how ordinary people can become aggressive or abusive under certain circumstances. Hirschbiegel's use of tight camera shots and dim lighting creates a claustrophobic atmosphere, enhancing the tension and unease. The rhythmic pacing of the scenes keeps viewers on edge, as the story veers from curiosity to horror.\n\nThe Experiment's examination of psychological boundaries mirrors real-life studies of human behavior, particularly the notorious Stanford prison experiment. It serves both as a narrative and a cautionary tale, making audiences reflect on their own moral choices. This film is a thought-provoking experience that invites deep contemplation on the nature of humanity and responsibility.",
+        "vocabulary": [
+          {
+            "word": "premise",
+            "definition": "the basic idea or situation of a story"
+          },
+          {
+            "word": "dynamics",
+            "definition": "the way people interact or behave with each other"
+          },
+          {
+            "word": "morality",
+            "definition": "ideas about what is right and wrong"
+          },
+          {
+            "word": "claustrophobic",
+            "definition": "feeling trapped in a small space"
+          },
+          {
+            "word": "cautionary",
+            "definition": "warns people about danger or problems"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the main theme of The Experiment?",
+            "options": [
+              "Nature of human behavior",
+              "Romantic relationships",
+              "Space exploration"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who directed The Experiment?",
+            "options": [
+              "Oliver Hirschbiegel",
+              "Paul T. Scheuring",
+              "Adrien Brody"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What happens to the volunteers in the experiment?",
+            "options": [
+              "They play a game",
+              "They become actors",
+              "They start fighting"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C1": {
+        "title": "The Psychological Impact of The Experiment",
+        "text": "The Experiment, directed by Oliver Hirschbiegel in 2001, delves into the intricate psychology of power and aggression. It begins with twenty volunteers, enticed by the prospect of easy money, plunging into a project centered on aggressive behavior within an artificial prison setting. Initially perceived as harmless, the experiment quickly escalates as roles of prisoners and guards emerge, showcasing the fragility of human morality.\n\nThrough a tightly crafted narrative, the film raises profound questions regarding human nature. Are ordinary people predisposed to violence under specific conditions? Hirschbiegel’s directorial choices, characterized by stark lighting and focused camera angles, heighten the sense of entrapment, effectively immersing the audience in the harrowing experience of the participants.\n\nThe thematic relevance of the film extends beyond fiction, often drawing parallels with Philip Zimbardo's landmark Stanford prison experiment. By evoking tense emotions and reflecting on ethical dilemmas, The Experiment serves as both entertainment and a compelling exploration of psychological dynamics, leaving viewers contemplating their own moral compass and the societal structures influencing behavior.",
+        "vocabulary": [
+          {
+            "word": "delve",
+            "definition": "to examine something thoroughly"
+          },
+          {
+            "word": "predisposed",
+            "definition": "to be likely to behave in a certain way"
+          },
+          {
+            "word": "harrowing",
+            "definition": "extremely distressing or upsetting"
+          },
+          {
+            "word": "entrapment",
+            "definition": "being trapped or caught in a difficult situation"
+          },
+          {
+            "word": "ethical",
+            "definition": "concerned with what is morally right or wrong"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does The Experiment explore?",
+            "options": [
+              "Family relationships",
+              "Power and aggression",
+              "Adventure in space"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How does the film make the audience feel?",
+            "options": [
+              "Relaxed",
+              "Distressed",
+              "Indifferent"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which famous experiment is mentioned in relation to The Experiment?",
+            "options": [
+              "Milgram experiment",
+              "Stanford prison experiment",
+              "Bobo doll experiment"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "A Profound Examination of Human Nature in The Experiment",
+        "text": "Oliver Hirschbiegel's The Experiment (2001) offers an unflinching exploration of the human psyche, interrogating the thin veneer that separates civilization from brutality. The premise unfolds with twenty individuals, drawn by the promise of financial compensation, who volunteer for a psychological experiment that forces them into roles of oppressor and oppressed within an artificial prison setting. Initially innocuous, the situation rapidly devolves into a disturbing microcosm of societal dynamics, prompting viewers to confront unsettling truths about inherent aggression.\n\nThe film's visceral intensity is accentuated by Hirschbiegel's astute directorial choices—impressionistic camera work and chiaroscuro lighting imbue the narrative with foreboding tension. Furthermore, the rhythmic pacing cultivates an atmosphere that oscillates between calm and chaos, compelling audiences to reflect on the moral implications of authority and complicity. \n\nIn parallel with real-world psychological studies, most notably the Stanford prison experiment, The Experiment transcends mere entertainment to become a poignant commentary on the fragile nature of morality and the impact of situational context on behavior. Ultimately, it probes the ethical quandaries that arise when individuals confront their darker instincts, leaving an indelible imprint on the viewer's consciousness and begging the question: to what extent are we capable of descending into moral ambiguity?",
+        "vocabulary": [
+          {
+            "word": "unflinching",
+            "definition": "not showing fear or hesitation"
+          },
+          {
+            "word": "veneer",
+            "definition": "a thin, deceptive layer that hides the true nature"
+          },
+          {
+            "word": "devolve",
+            "definition": "to gradually worsen or deteriorate"
+          },
+          {
+            "word": "oscillates",
+            "definition": "to move back and forth; to vary"
+          },
+          {
+            "word": "quandaries",
+            "definition": "difficult situations or dilemmas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does The Experiment compel viewers to confront?",
+            "options": [
+              "Unsettling truths about aggression",
+              "Positive feelings about society",
+              "The beauty of nature"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What enhances the film's intensity?",
+            "options": [
+              "Calm music",
+              "Astute directorial choices",
+              "Humorous scenes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What ethical issue does the film explore?",
+            "options": [
+              "Economic growth",
+              "Moral ambiguity",
+              "Friendship"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Das Experiment",
+        "text": "Das Experiment ist ein deutscher Film. Oliver Hirschbiegel ist der Regisseur. Viele Freiwillige machen mit. Sie sind in einem Gefängnis. Sie spielen zwei Rollen: Gefangene und Wärter. Am Anfang ist es ein Spiel. Es ist lustig und spannend. Später wird es ernst. Die Stimmung ändert sich. Der Film fragt: Wie verändert Macht Menschen? Es gibt viele Emotionen. Das Experiment zeigt auch Aggression. Es ist interessant und wichtig. Viele Menschen mögen diesen Film. Die Atmosphäre ist spannend. Der Film ist ein Drama und ein Thriller.",
+        "vocabulary": [
+          {
+            "word": "Regisseur",
+            "definition": "die Person, die einen Film macht"
+          },
+          {
+            "word": "Freiwillige",
+            "definition": "Menschen, die ohne Geld helfen"
+          },
+          {
+            "word": "Spiel",
+            "definition": "eine Aktivität, die Spaß macht"
+          },
+          {
+            "word": "ernst",
+            "definition": "nicht lustig oder spaßig"
+          },
+          {
+            "word": "Emotionen",
+            "definition": "wie wir uns fühlen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer macht den Film?",
+            "options": [
+              "Eine Gruppe von Freunden",
+              "Oliver Hirschbiegel",
+              "Ein amerikanischer Regisseur"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was machen die Freiwilligen?",
+            "options": [
+              "Sie spielen ein Spiel",
+              "Sie sehen einen Film",
+              "Sie arbeiten in einem Café"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie wird die Stimmung im Film?",
+            "options": [
+              "Es bleibt immer gleich",
+              "Es wird lustiger",
+              "Es wird ernst"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "Das Experiment von Oliver Hirschbiegel",
+        "text": "Das Experiment ist ein Film aus dem Jahr 2001. Er kommt aus Deutschland. Der Regisseur heißt Oliver Hirschbiegel. In dem Film gibt es zwanzig Freiwillige. Diese Freiwilligen sind Studenten, die an einem wissenschaftlichen Experiment teilnehmen wollen. Das Experiment untersucht Aggression in einer künstlichen Gefängnissituation. Die Teilnehmer werden in zwei Gruppen eingeteilt: Gefangene und Wärter. Zu Beginn denken alle, dass es ein Spiel ist. Aber bald wird es sehr ernst, weil die Gefühle stark steigen. Die Stimmung verändert sich schnell. Die Wärter missbrauchen die Macht, die sie haben. Der Film zeigt die dunkle Seite der Menschen. Es gibt viel Gewalt und Emotionen. Die Zuschauer sehen, dass Macht gefährlich sein kann. Der Film hat eine spannende Atmosphäre und regt zum Nachdenken über Moral und Menschlichkeit an. Viele Menschen finden die Themen des Films sehr wichtig. Sie denken über Freiheit und Verantwortung nach.",
+        "vocabulary": [
+          {
+            "word": "Freiwillige",
+            "definition": "Personen, die freiwillig an etwas teilnehmen"
+          },
+          {
+            "word": "Aggression",
+            "definition": "Ein starkes Gefühl von Wut oder Gewalt"
+          },
+          {
+            "word": "Gefängnis",
+            "definition": "Ein Ort, wo Menschen gefangen gehalten werden"
+          },
+          {
+            "word": "Stimmung",
+            "definition": "Die allgemeine Atmosphäre oder Laune"
+          },
+          {
+            "word": "Macht",
+            "definition": "Die Fähigkeit, Einfluss auf andere zu haben"
+          },
+          {
+            "word": "Moral",
+            "definition": "Die Unterscheidung zwischen gut und schlecht"
+          },
+          {
+            "word": "Wärter",
+            "definition": "Ein Aufseher in einem Gefängnis"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Freiwillige gibt es im Film?",
+            "options": [
+              "Zehn",
+              "Zwanzig",
+              "Fünfzehn"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welches Gefühl wird im Experiment untersucht?",
+            "options": [
+              "Freude",
+              "Aggression",
+              "Traurigkeit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was denken die Teilnehmer zu Beginn des Experiments?",
+            "options": [
+              "Es ist ernst",
+              "Es ist ein Spiel",
+              "Es ist langweilig"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Das Experiment: Ein Drama über Aggression",
+        "text": "Das Experiment von Oliver Hirschbiegel ist ein deutscher Thriller aus dem Jahr 2001. Der Film zeigt die Geschichte von zwanzig Freiwilligen, die an einem gefährlichen Experiment teilnehmen. Diese Teilnehmer werden in zwei Gruppen aufgeteilt: Gefangene und Wärter. Zunächst denken die Freiwilligen, dass alles ein Spiel ist. Doch schnell stellt sich heraus, dass die Situation ernsthaft wird. Die Gegebenheiten im ‚Gefängnis‘ verändern das Verhalten der Personen erheblich. Zu Beginn des Experiments sind alle freundlich und entspannt. Aber nach einigen Tagen verändert sich das Klima. Die Wärter, die Macht haben, werden zunehmend aggressiv und grausam. Dies betrifft nicht nur die Gefangenen, sondern auch die Wärter selbst, die ihre eigene Menschlichkeit verlieren. Der Film thematisiert wichtige Fragen über Macht, Aggression und den menschlichen Charakter. Welche Grenzen überschreiten Menschen, wenn sie Macht haben? Die emotionale Musik und die Spannung unterstützen die beklemmende Atmosphäre. Es ist bemerkenswert, dass der Film auf dem Stanford-Gefängnisexperiment basiert, das 1971 durchgeführt wurde. Das Experiment hat international Erfolg gehabt und gibt den Zuschauern viel Stoff zum Nachdenken. Viele Menschen, die diesen Film gesehen haben, sind über die Handlung schockiert. Solche Filme können auf eindringliche Weise die komplexe menschliche Psyche darstellen, die oft schwer zu verstehen ist.",
+        "vocabulary": [
+          {
+            "word": "Experiment",
+            "definition": "eine wissenschaftliche Untersuchung oder Test, um etwas herauszufinden"
+          },
+          {
+            "word": "Aggression",
+            "definition": "feindliches oder gewalttätiges Verhalten gegenüber anderen"
+          },
+          {
+            "word": "Macht",
+            "definition": "die Fähigkeit, Einfluss auf andere Menschen zu haben"
+          },
+          {
+            "word": "Gefangene",
+            "definition": "Menschen, die in einem Gefängnis sind"
+          },
+          {
+            "word": "Wärter",
+            "definition": "Personen, die Gefangene überwachen und betreuen"
+          },
+          {
+            "word": "gefährlich",
+            "definition": "etwas, das Risiken oder Verletzungen verursachen kann"
+          },
+          {
+            "word": "behaupten",
+            "definition": "sagen oder ausgeben, dass etwas wahr ist"
+          },
+          {
+            "word": "Schock",
+            "definition": "ein starkes emotionales Gefühl der Überraschung oder Trauer"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer hat den Film Das Experiment inszeniert?",
+            "options": [
+              "Oliver Hirschbiegel",
+              "Paul T. Scheuring",
+              "Ein anonymer Regisseur"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Auf welchem Experiment basiert der Film?",
+            "options": [
+              "Das Stanford-Gefängnisexperiment",
+              "Das Milgram-Experiment",
+              "Das psychologische Experiment"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was geschieht mit den Wärtern im Verlauf des Experiments?",
+            "options": [
+              "Sie werden freundlicher.",
+              "Sie verlieren ihre Menschlichkeit.",
+              "Sie helfen den Gefangenen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Das Experiment: Ein faszinierendes Psychodrama",
+        "text": "Der Film „Das Experiment“, inszeniert von Oliver Hirschbiegel im Jahr 2001, ist ein packendes Drama, das auf dem bekanntermaßen umstrittenen Stanford-Gefängniseperiment basiert. Zu Beginn des Films melden sich zwanzig Freiwillige, um an einem Experiment teilzunehmen, das die Aggressivität in einer künstlichen Gefängnissituation untersuchen soll. Es wird deutlich, dass viele Teilnehmer die Möglichkeit nutzen, um leicht Geld zu verdienen, ohne sich der potenziellen Gefahren bewusst zu sein. Was als ein harmloses Spiel beginnt, entwickelt sich bald zu einem erschreckenden Realitätstest über Macht und Kontrolle. Die zentrale Frage des Films lautet: Wie verändert Macht das Verhalten von Menschen unter extremen Bedingungen? Während des Experiments werden die Probanden willkürlich in Gefangene und Aufseher eingeteilt, und die anfängliche Aufregung weicht schnell einer bedrohlichen Intensität. Die visuelle Sprache ist eindringlich, die Kameraarbeit fängt sowohl die Spannung als auch die emotionale Intensität der Situationen ein. Durch gezielte Beleuchtung und sorgfältige Rhythmuswechsel wird eine ständige Anspannung erzeugt, die den Zuschauer in ihren Bann zieht. Die schockierenden Wendungen und das Vertiefen in menschliche Abgründe machen „Das Experiment“ zu einem Meilenstein im deutschen Kino. Zudem wird die kritische Auseinandersetzung mit der menschlichen Natur und der Art, wie Gesellschaften strukturiert sind, angerührt, was zahlreiche Denkanstöße bietet und das Publikum über die ethischen Grenzen von Experimenten nachdenken lässt. Darüber hinaus regt der Film an, die Verantwortung von Wissenschaftlern und Institutionen zu hinterfragen, da solche Experimente tiefgreifende Konsequenzen für die Betroffenen haben können.",
+        "vocabulary": [
+          {
+            "word": "Aggressivität",
+            "definition": "eine moralisch oder sozial inakzeptable aggressive oder feindliche Haltung"
+          },
+          {
+            "word": "Kunstlich",
+            "definition": "mit menschlichem Eingreifen oder Herstellung verbunden; nicht natürlich"
+          },
+          {
+            "word": "intensiv",
+            "definition": "sehr stark oder tiefgreifend; ausgeprägt"
+          },
+          {
+            "word": "Denkanstoß",
+            "definition": "eine Anregung, um über etwas nachzudenken oder eine bestimmte Meinung zu formen"
+          },
+          {
+            "word": "Gefangene",
+            "definition": "Personen, die im Gefängnis sind oder sich in Gefangenschaft befinden"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer inszenierte den Film „Das Experiment“?",
+            "options": [
+              "Paul T. Scheuring",
+              "Oliver Hirschbiegel",
+              "Philip Zimbardo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Freiwillige nehmen am Experiment teil?",
+            "options": [
+              "Zehn",
+              "Zwanzig",
+              "Fünfzig"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was geschieht mit den Probanden während des Experiments?",
+            "options": [
+              "Sie werden in verschiedene Gruppen eingeteilt.",
+              "Sie müssen sofort das Experiment abbrechen.",
+              "Sie gewinnen einen Preis."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Das Experiment: Ein faszinierendes Psychodrama",
+        "text": "„Das Experiment“, unter der Regie von Oliver Hirschbiegel, ist ein tiefgreifendes Stück, das sich mit der dunklen Seite der menschlichen Natur auseinandersetzt. Im Zentrum der Erzählung, die sich um 20 Freiwillige dreht, steht die medizinische Untersuchung von aggressivem Verhalten innerhalb einer simulierten Gefängnissituation. Die Freiwilligen, die sich ursprünglich auf ein gut bezahltes Experiment eingelassen haben, werden in zwei Gruppen, Gefangene und Aufseher, unterteilt. Wie die Geschichte entfaltet wird, zeigen sich die fragilen Grenzen von Macht und Unterordnung und der möglicherweise zerstörerische Einfluss von Autorität. Die Kameraführung ist bemerkenswert: Der Einsatz von Licht und Schatten verstärkt die bedrückende Atmosphäre und lässt den Zuschauer die innere Zerrissenheit der Charaktere spüren. Diese visuelle Gestaltung führt zu einer emotionalen Intensität, die nur durch die rhythmische Anordnung der Szenen weiter verstärkt wird, wodurch eine nervenaufreibende Spannung erzeugt wird, die bis zum Ende anhält. Zudem regt der Film zum Nachdenken über die ethischen Implikationen von Experimenten und der menschlichen Psychologie an und lenkt den Fokus auf die Verantwortung der Forscher. In Anbetracht der filmhistorischen Bedeutung sticht „Das Experiment“ durch seine brillante Umsetzung und tiefgründige Thematik hervor, die nicht nur reflektiert, sondern auch emotional berührt. Der Zuschauer wird herausgefordert, seine eigenen Überzeugungen über Macht und Gewissen zu hinterfragen, da die Geschehnisse in der künstlichen Umgebung alarmierende Parallelen zu realen sozialen Dynamiken aufweisen. Das Werk bleibt ein zeitgenössischer Kommentar zu den verheerenden Nebenwirkungen von Autoritarismus und Verrohung in der Gesellschaft.",
+        "vocabulary": [
+          {
+            "word": "Ethische Implikationen",
+            "definition": "Moralische und philosophische Fragestellungen, die sich aus bestimmten Handlungen ergeben."
+          },
+          {
+            "word": "Autorität",
+            "definition": "Der Einfluss oder die Macht, die eine Person über andere hat."
+          },
+          {
+            "word": "Aggressives Verhalten",
+            "definition": "Verhalten, das darauf abzielt, jemandem zu schaden oder zu bedrohen."
+          },
+          {
+            "word": "Simulierte Gefängnissituation",
+            "definition": "Ein künstlich geschaffener Rahmen, in dem das Gefangenenleben nachgestellt wird."
+          },
+          {
+            "word": "Fragile Grenzen",
+            "definition": "Instabile und leicht zerbrechliche Grenzen zwischen verschiedenen Zuständen oder Konzepten."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptthema des Films „Das Experiment“?",
+            "options": [
+              "Die dunkle Seite der menschlichen Natur",
+              "Die Freundschaft zwischen Gefangenen",
+              "Die Geschichte eines Journalisten"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie werden die Teilnehmer des Experiments eingeteilt?",
+            "options": [
+              "In Gefangene und Aufseher",
+              "In Journalisten und Forscher",
+              "In öffentliche und private Teilnehmer"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Element verstärkt die emotionale Intensität des Films?",
+            "options": [
+              "Die Musik",
+              "Die Kameraführung",
+              "Die Dialoge"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Das Experiment: Eine eindringliche Analyse der menschlichen Psyche",
+        "text": "„Das Experiment“ von Oliver Hirschbiegel ist ein faszinierendes und zugleich verstörendes Werk, das durch seine thematische Tiefe und psychologische Brillanz besticht. Die Geschichte wird von der Teilnahme von zwanzig Freiwilligen an einem als harmlos erscheinenden Experiment getragen, das bald die finsteren Facetten der menschlichen Natur offenbart. In einer simulierten Gefängnissituation werden die Probanden sowohl zu Gefangenen als auch zu Wächtern ernannt, was zu einer schockierenden Exploration der Dynamiken von Macht und Unterdrückung führt. Die Inszenierung ist visuell herausragend: durch kluges Licht- und Schattenspiel sowie die Verwendung von Fragmentierung in der Erzählweise wird nicht nur ein Gefühl von Dichte und Dringlichkeit erzeugt, sondern auch eine subtile, psychologische Intensität, die im Gedächtnis bleibt. Zudem bietet der Film zahlreiche philosophische Überlegungen zur ethischen Vertretbarkeit solcher Experimente und deren Implikationen für unser Verständnis von Freiheit und Verantwortung. „Das Experiment“ ist daher nicht nur ein spannungsgeladenes Drama, sondern auch ein wichtiges cineastisches Monument, das den Zuschauer zur Reflexion über seine eigenen moralischen Grenzen anregt und die Frage aufwirft: Was geschieht, wenn Menschlichkeit an die Grenzen ihrer selbst stößt?",
+        "vocabulary": [
+          {
+            "word": "verstörend",
+            "definition": "Beunruhigend oder schockierend."
+          },
+          {
+            "word": "psychologische Tiefe",
+            "definition": "Komplexität und Intensität menschlicher Emotionen."
+          },
+          {
+            "word": "Inszenierung",
+            "definition": "Die Art und Weise, wie etwas präsentiert wird."
+          },
+          {
+            "word": "Dynamiken",
+            "definition": "Kräfte oder Wechselwirkungen in einem System."
+          },
+          {
+            "word": "Reflexion",
+            "definition": "Nachdenken über eigene Gedanken oder Erfahrungen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was offenbart ‚Das Experiment‘ über die menschliche Natur?",
+            "options": [
+              "Die Dunkelheit",
+              "Die Freundlichkeit",
+              "Die Gleichgültigkeit"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie beschreibt der Text den Stil des Films?",
+            "options": [
+              "Visuell herausragend",
+              "Langweilig",
+              "Unklar"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welche Fragen wirft der Film auf?",
+            "options": [
+              "Zu viele Fragen",
+              "Unser Verständnis von Freiheit",
+              "Die Bedeutung von Geld"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "L'Expérience",
+        "text": "L'Expérience est un film allemand. Il sort en 2001. Ce film est un drame et un thriller. L'histoire commence avec vingt volontaires. Ils participent à une expérience de prison. Ils sont prisonniers ou gardiens. Au début, c'est un jeu. Mais ça devient très sérieux. Les gens changent pendant l'expérience. Ils montrent des comportements agressifs. Le film parle de la nature humaine. Il montre comment la situation affecte les participants. Les acteurs jouent très bien. La musique est forte. Les images sont intenses. C'est un film à voir pour réfléchir.",
+        "vocabulary": [
+          {
+            "word": "drame",
+            "definition": "Un type de film sérieux."
+          },
+          {
+            "word": "thriller",
+            "definition": "Un film avec des actions excitantes."
+          },
+          {
+            "word": "expérience",
+            "definition": "Un test ou une situation pour apprendre."
+          },
+          {
+            "word": "volontaires",
+            "definition": "Des personnes qui souhaitent participer."
+          },
+          {
+            "word": "prison",
+            "definition": "Un lieu où les gens sont gardés."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand sort le film ?",
+            "options": [
+              "En 1990",
+              "En 2001",
+              "En 2020"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui participe à l'expérience ?",
+            "options": [
+              "Des enfants",
+              "Des volontaires",
+              "Des avocats"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel type de film est L'Expérience ?",
+            "options": [
+              "Un film comique",
+              "Un drame et un thriller",
+              "Un film d'amour"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "L'Expérience - un film captivant",
+        "text": "L'Expérience est un film allemand sorti en 2001. Il est réalisé par Oliver Hirschbiegel. Dans ce film, vingt volontaires participent à une expérience dans une prison. Ils deviennent soit prisonniers, soit gardiens. Au début, tout semble facile et amusant. Mais rapidement, la situation devient dangereuse. Les personnages montrent des comportements agressifs. Ce changement est très intéressant. Le film pose des questions sur la nature humaine et le pouvoir. Il nous fait réfléchir sur le mal et le bien. La lumière et le son créent une ambiance intense. Les acteurs jouent très bien, et les émotions sont fortes. Le film est très apprécié par le public. C'est une œuvre à voir pour ceux qui aiment les drames.",
+        "vocabulary": [
+          {
+            "word": "captivant",
+            "definition": "Très intéressant, qui attire l'attention."
+          },
+          {
+            "word": "dangerux",
+            "definition": "Qui peut faire mal ou causer des problèmes."
+          },
+          {
+            "word": "personnages",
+            "definition": "Les gens dans un film ou une histoire."
+          },
+          {
+            "word": "questions",
+            "definition": "Des choses que l'on veut savoir."
+          },
+          {
+            "word": "ambiance",
+            "definition": "L'atmosphère d'une situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé le film ?",
+            "options": [
+              "Paul T. Scheuring",
+              "Oliver Hirschbiegel",
+              "Steven Spielberg"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de volontaires participent à l'expérience ?",
+            "options": [
+              "Dix",
+              "Vingt",
+              "Trente"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment devient la situation dans le film ?",
+            "options": [
+              "Elle reste amusante",
+              "Elle devient dangereuse",
+              "Elle est facile"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "L'Expérience - une réflexion profonde sur la nature humaine",
+        "text": "L'Expérience, réalisé par Oliver Hirschbiegel en 2001, est un film qui interroge la nature humaine. Vingt volontaires ont accepté de participer à une expérience dans une prison expérimentale. Ils sont divisés en deux groupes, les prisonniers et les gardiens. Au début, les participants jouent un jeu qui semble inoffensif. Cependant, la dynamique du groupe change rapidement et devient de plus en plus sérieuse. Ce film explore la façon dont le pouvoir peut corrompre les gens qui, autrefois, étaient des amis. Les comportements agressifs émergent à mesure que l'expérience progresse. Les thèmes de la morale et de la liberté sont très présents, ce qui pousse le spectateur à réfléchir à ses propres valeurs. La réalisation est marquante, avec des images sombres et une musique intense qui renforcent l'angoisse. L'audience est captivée par les acteurs, qui transmettent des émotions fortes et authentiques. L'Expérience est souvent comparé à l'expérience de Stanford sur la prison. Ce film démontre que, si les circonstances sont extrêmes, la nature humaine peut révéler des aspects cachés. La question de l'autorité est essentielle ici. Il est considéré comme l'un des meilleurs drames allemands, et c'est un film à ne pas manquer.",
+        "vocabulary": [
+          {
+            "word": "captivé",
+            "definition": "être fortement intéressé ou fasciné par quelque chose."
+          },
+          {
+            "word": "angoisse",
+            "definition": "un sentiment intense de peur ou d'inquiétude."
+          },
+          {
+            "word": "dynamique",
+            "definition": "la façon dont les gens interagissent ou se comportent en groupe."
+          },
+          {
+            "word": "morale",
+            "definition": "les principes sur ce qui est bien ou mal."
+          },
+          {
+            "word": "corrompre",
+            "definition": "changer une personne pour agir de manière immorale ou malhonnête."
+          },
+          {
+            "word": "environnement",
+            "definition": "le cadre ou les conditions dans lesquelles quelque chose se déroule."
+          },
+          {
+            "word": "révéler",
+            "definition": "faire connaître quelque chose qui était caché."
+          },
+          {
+            "word": "authentique",
+            "definition": "vrai, sans imitation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le thème principal du film ?",
+            "options": [
+              "La comédie",
+              "La nature humaine",
+              "L'amour"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que fait la musique dans le film ?",
+            "options": [
+              "Elle amuse l'audience",
+              "Elle renforce l'angoisse",
+              "Elle n'est pas importante"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment les participants perçoivent-ils l'expérience au début ?",
+            "options": [
+              "Comme un jeu",
+              "Comme une compétition",
+              "Comme une punition"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Une exploration intrigante de la nature humaine",
+        "text": "Le film \"The Experiment\", réalisé par Oliver Hirschbiegel en 2001, est une œuvre captivante qui interroge la nature humaine dans des circonstances extrêmes. Dès le début, nous faisons connaissance avec vingt volontaires qui acceptent de participer à une expérience prétendument rémunérée, axée sur le comportement agressif dans un cadre carcéral. Bien que le contexte semble ordinaire, une tension palpable s'installe rapidement. Le réalisateur explore des thèmes profonds comme le pouvoir, la violence et la déshumanisation, qui émergent lorsque les personnages sont divisés en prisonniers et gardiens. Les choix visuels, tels que l'usage de la lumière et des angles de caméra, accentuent la détresse et l'angoisse. De plus, la bande sonore contribue à l'atmosphère pesante, rendant l'expérience immersive. Bien que le film semble commencer comme un simple jeu, il pose des questions morales et éthiques sur l'autorité et la résistance. En fin de compte, \"The Experiment\" ne se contente pas d'être un thriller; il nous pousse à réfléchir sur nos limites comme êtres humains, ce qui en fait une œuvre remarquable dans l'histoire du cinéma.",
+        "vocabulary": [
+          {
+            "word": "exploration",
+            "definition": "Recherche ou étude approfondie de quelque chose."
+          },
+          {
+            "word": "nature",
+            "definition": "Caractéristiques essentielles de quelque chose."
+          },
+          {
+            "word": "expérience",
+            "definition": "Situation où l'on teste quelque chose."
+          },
+          {
+            "word": "comportement",
+            "definition": "Façon d'agir d'une personne."
+          },
+          {
+            "word": "tension",
+            "definition": "Pression ou stress dans une situation."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui a réalisé le film \"The Experiment\"?",
+            "options": [
+              "Oliver Hirschbiegel",
+              "Paul T. Scheuring",
+              "Adrien Brody"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qu'est-ce que les volontaires testent dans le film?",
+            "options": [
+              "Un jeu de société",
+              "Le comportement agressif",
+              "La sympathie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment se divisent les participants dans l'expérience?",
+            "options": [
+              "En équipes seulement",
+              "En prisonniers et gardiens",
+              "En spectateurs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La confrontation de l'homme face à son environnement",
+        "text": "À travers \"The Experiment\", Oliver Hirschbiegel présente une œuvre troublante qui scrute la psyché humaine lorsqu'elle se retrouve confrontée à des circonstances exceptionnelles. L'histoire aborde des thèmes tels que l'autorité, la violence et la moralité. L'expérience, centrée sur des volontaires qui acceptent de jouer des rôles de prisonniers et de gardiens, soulève des questions essentielles sur la façon dont des individus ordinaires peuvent se transformer lorsque la pression sociale et la provocation sont omniprésentes. La direction artistique du film, alliant une photographie sombre et une bande sonore moody, participe à la création d'une atmosphère marquante. En conséquence, bien que les premiers instants semblent insouciants, la tension monte rapidement, interrogeant ainsi non seulement les dynamiques de pouvoir, mais aussi la capacité de l'homme à agir de manière éthique dans des conditions extrêmes. En somme, \"The Experiment\" revêt un caractère universel, faisant écho à des préoccupations sociopolitiques qui demeurent pertinentes aujourd'hui, ce qui établit son importance dans le panorama cinématographique contemporain.",
+        "vocabulary": [
+          {
+            "word": "psyché",
+            "definition": "L'esprit ou la personnalité d'un individu."
+          },
+          {
+            "word": "société",
+            "definition": "Un groupe d'individus vivant ensemble."
+          },
+          {
+            "word": "ascendance",
+            "definition": "L'influence ou le contrôle sur les autres."
+          },
+          {
+            "word": "atmosphère",
+            "definition": "Ambiance d'un lieu ou d'une situation."
+          },
+          {
+            "word": "préoccupations",
+            "definition": "Questions qui inquiètent ou intéressent."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel thème principal le film aborde-t-il?",
+            "options": [
+              "La comédie romantique",
+              "L'autorité et la violence",
+              "Les voyages dans le temps"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que ressentent les personnages au début du film?",
+            "options": [
+              "Ils sont très inquiets",
+              "Ils semblent insouciants",
+              "Ils sont tous d'accord"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle est l'ambiance du film?",
+            "options": [
+              "Légère et drôle",
+              "Sombre et tendue",
+              "Aventureuse et colorée"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Réflexion sur la brutalité humaine à travers \"The Experiment\"",
+        "text": "Dans \"The Experiment\", Oliver Hirschbiegel explore les profondeurs de la brutalité humaine et la complexité des relations interpersonnelles à travers le prisme d'une expérience sociale audacieuse. Inspiré par des études psychologiques célèbres, le film interroge les frontières entre moralité et immoralisme, tandis que les participants, initialement enjoués, sombrent dans la brutalité d'une hiérarchie artificielle. En employant une cinématographie habile, caractérisée par des éclairages intrigants et des plans audacieux, le film multiplie les espaces de tension, suggérant que l'ombre de la violence s'infiltre inexorablement dans l'ordinaire. La bande sonore, au service d'une narration immersive, amplifie les émotions des personnages et souligne les dilemmes moraux auxquels ils sont confrontés. En appele à la conscience du spectateur, le réalisateur crée une œuvre qui ne se limite pas à un simple divertissement : elle incite à réfléchir sur la fragilité de la société et les choix individuels face à l'autorité. Ainsi, \"The Experiment\" constitue un jalon d'un cinéma qui cherche à déchiffrer l'insondable et à remettre en question notre compréhension de la nature humaine, tout en posant la question cruciale : jusqu'où serions-nous prêts à aller lorsque nous sommes mis au défi?",
+        "vocabulary": [
+          {
+            "word": "brutalité",
+            "definition": "Caractère ou comportement cruel et violent."
+          },
+          {
+            "word": "complexité",
+            "definition": "Caractère de ce qui est compliqué ou difficile à comprendre."
+          },
+          {
+            "word": "hiérarchie",
+            "definition": "Organisation de personnes selon un ordre de pouvoir."
+          },
+          {
+            "word": "cinématographie",
+            "definition": "L'art de filmer ou de créer des images en mouvement."
+          },
+          {
+            "word": "dilemmes",
+            "definition": "Choix difficiles entre plusieurs options."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel aspect de l'humain le film analyse-t-il?",
+            "options": [
+              "La douceur et la gentillesse",
+              "La brutalité et la complexité",
+              "La richesse matérielle"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle technique cinématographique utilise le film?",
+            "options": [
+              "Des couleurs vives et gaies",
+              "Des éclairages intrigants",
+              "Un style de comédie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que soulève le film comme question principale?",
+            "options": [
+              "La beauté de l'art",
+              "Les choix individuels face à l'autorité",
+              "Les voyages intergalactiques"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "La Experiencia",
+        "text": "La película se llama La Experiencia. Es un drama y un thriller. La historia empieza con veinte voluntarios. Ellos van a un experimento. Ellos están en una prisión. Algunos son prisioneros. Otros son guardias. Al principio, es un juego. Pero pronto, la situación es seria. Los actores son buenos. La dirección es interesante. Hay tensión en la película. La experiencia es difícil para todos. La atmósfera es intensa. La película es del año 2001. Es de Alemania.",
+        "vocabulary": [
+          {
+            "word": "película",
+            "definition": "un tipo de arte que cuenta historias"
+          },
+          {
+            "word": "voluntarios",
+            "definition": "personas que quieren ayudar o participar"
+          },
+          {
+            "word": "prisión",
+            "definition": "lugar donde están los criminales"
+          },
+          {
+            "word": "situación",
+            "definition": "el estado o la condición de algo"
+          },
+          {
+            "word": "tensión",
+            "definition": "una sensación de nerviosismo o preocupación"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de película es La Experiencia?",
+            "options": [
+              "Es una comedia.",
+              "Es un drama y un thriller.",
+              "Es un documental."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde están los voluntarios?",
+            "options": [
+              "En una prisión.",
+              "En un parque.",
+              "En su casa."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuántos voluntarios hay?",
+            "options": [
+              "Veinte.",
+              "Cien.",
+              "Diez."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "La Experiencia (2001)",
+        "text": "La película La Experiencia, dirigida por Oliver Hirschbiegel, trata de un experimento. En este experimento, veinte personas participan. Ellos van a una prisión de manera voluntaria. Al principio, parece un juego divertido. Pero después, la situación cambia. Algunos voluntarios son prisioneros y otros son guardias. La historia explora el comportamiento humano y la agresión. La atmósfera de la película es muy intensa. Hay mucha tensión y drama. Las escenas son impactantes. La dirección es muy buena y muestra emociones fuertes. Esto hace que el espectador sienta curiosidad. La película es famosa en Alemania y ha ganado atención internacional. Habla de la naturaleza humana y los límites de la violencia.",
+        "vocabulary": [
+          {
+            "word": "experimento",
+            "definition": "un estudio o prueba para aprender algo nuevo"
+          },
+          {
+            "word": "prisión",
+            "definition": "edificio donde están los delincuentes"
+          },
+          {
+            "word": "comportamiento",
+            "definition": "la manera de actuar de una persona"
+          },
+          {
+            "word": "agresión",
+            "definition": "cuando alguien actúa violentamente"
+          },
+          {
+            "word": "tensión",
+            "definition": "sensación de nerviosismo o estrés"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién dirigió La Experiencia?",
+            "options": [
+              "Oliver Hirschbiegel.",
+              "Steven Spielberg.",
+              "Pedro Almodóvar."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué descubren los voluntarios?",
+            "options": [
+              "Que la prisión es divertida.",
+              "Que la violencia es real.",
+              "Que todos son amigos."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántas personas participan en el experimento?",
+            "options": [
+              "Diez personas.",
+              "Menos de veinte.",
+              "Veinte personas."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "La Experiencia: un estudio sobre la naturaleza humana",
+        "text": "La película La Experiencia, dirigida por Oliver Hirschbiegel en 2001, ofrece una exploración profunda del comportamiento humano en situaciones extremas. Un grupo de veinte voluntarios, que han sido seleccionados cuidadosamente, decide participar en un experimento que simula una prisión. Al principio, parece que es un juego, pero pronto la situación se convierte en algo serio y preocupante. Cada persona tiene un papel: algunos son prisioneros y otros son guardias, lo que provoca un cambio inesperado en su comportamiento. La película muestra cómo el poder y la autoridad pueden afectar a las personas, lo que nos hace preguntarnos sobre la naturaleza de la violencia humana. \n\nVisualmente, la dirección es intensa, con un uso efectivo de luces y sombras que contribuyen al ambiente opresivo. La música y los efectos de sonido aumentan la tensión y crean una atmósfera inquietante, que mantiene a la audiencia al borde de su asiento. La Experiencia ha sido considerada una reflexión importante sobre los límites de la ética en la ciencia y la psicología, especialmente porque este tipo de experimentos pueden tener consecuencias reales en la vida de las personas. Si alguna vez decides ver La Experiencia, prepárate para reflexionar sobre lo que significa ser humano en circunstancias difíciles. La película ha tenido un impacto significativo en el cine dramático, poniendo de relieve cuestiones que aún son relevantes hoy en día.",
+        "vocabulary": [
+          {
+            "word": "conducta",
+            "definition": "manera de actuar o comportarse de una persona."
+          },
+          {
+            "word": "simular",
+            "definition": "hacer algo que parece real pero no lo es."
+          },
+          {
+            "word": "opresivo",
+            "definition": "que causa una sensación de presión o ansiedad."
+          },
+          {
+            "word": "estrés",
+            "definition": "tenis tensión mental o emocional."
+          },
+          {
+            "word": "etica",
+            "definition": "conjunto de principios que rigen el comportamiento humano."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de experimento se simula en la película?",
+            "options": [
+              "Una prisión",
+              "Un juego de mesa",
+              "Una fiesta"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál es el impacto de la música en la película?",
+            "options": [
+              "Crea una atmósfera inquietante",
+              "No tiene efecto alguno",
+              "Es muy alegre"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué papel juegan los guardias y los prisioneros?",
+            "options": [
+              "Son iguales",
+              "Tienen roles opuestos",
+              "No participan"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Un experimento inquietante",
+        "text": "La película 'The Experiment', dirigida por Oliver Hirschbiegel en 2001, plantea preguntas relevantes sobre la naturaleza humana y la moralidad. En la historia, un grupo de veinte voluntarios acepta participar en un experimento social en una prisión artificial, lo que inicialmente parece un juego. Sin embargo, a medida que avanza la trama, los participantes deben enfrentarse a su propia agresividad y a cambios en su comportamiento. Este desarrollo refleja la capacidad de las personas para adaptarse a roles de poder y sumisión. La dirección de Hirschbiegel utiliza la luz y la cámara de manera efectiva para crear una atmósfera tensa, donde los espectadores sienten la tensión del experimento. Además, el ritmo de la narrativa hace que el público se sienta cada vez más inmerso en la experiencia. Aunque el filme está basado en el experimento de la prisión de Stanford de 1971, su mensaje trasciende el tiempo al explorar conceptos de identidad y ética. En general, 'The Experiment' no solo es un thriller impactante, sino también una reflexión sobre lo que significa ser humano en situaciones extremas.",
+        "vocabulary": [
+          {
+            "word": "experimento",
+            "definition": "Prueba para descubrir algo nuevo."
+          },
+          {
+            "word": "agresividad",
+            "definition": "Tendencia a atacar o ser violento."
+          },
+          {
+            "word": "poder",
+            "definition": "Capacidad de hacer algo o influir."
+          },
+          {
+            "word": "sumisión",
+            "definition": "Estado de obedecer a otra persona."
+          },
+          {
+            "word": "tensión",
+            "definition": "Estado de estar nervioso o ansioso."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién dirigió la película 'The Experiment'?",
+            "options": [
+              "Oliver Hirschbiegel",
+              "Paul T. Scheuring",
+              "Steven Spielberg"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de experimento se muestra en la película?",
+            "options": [
+              "Un experimento social",
+              "Un experimento médico",
+              "Un experimento científico"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se siente el público durante la película?",
+            "options": [
+              "Divertido",
+              "Inmerso y tenso",
+              "Aburrido"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Exploración profunda de la naturaleza humana",
+        "text": "En 'The Experiment', Oliver Hirschbiegel realiza una exploración compleja y provocativa de la condición humana a través de un contexto aparentemente sencillo: un experimento social basado en un entorno carcelario. La narrativa comienza con veinte voluntarios que, motivados por recompensas económicas, participan sin saber los profundos dilemas morales que enfrentarán a medida que se desarrolle la experiencia. La película provoca reflexiones sobre la identidad, el poder y la moralidad, brindando a los espectadores una crítica a la deshumanización que puede surgir en situaciones de autoridad. La cinematografía es notable, utilizando técnicas visuales como la iluminación y el encuadre para intensificar la atmósfera claustrofóbica y de tensión. Además, el ritmo narrativo, que oscila entre momentos de calma y explosiones de violencia, mantiene al espectador al borde de su asiento. A través de este filme, Hirschbiegel no solo presenta un thriller intrigante, sino que también invita a cuestionar hasta qué punto las circunstancias pueden alterar nuestra naturaleza, un tema que sigue resonando en el análisis contemporáneo del comportamiento humano.",
+        "vocabulary": [
+          {
+            "word": "provocativa",
+            "definition": "Que provoca una reacción o reflexión."
+          },
+          {
+            "word": "dilemas",
+            "definition": "Situaciones difíciles donde hay que elegir."
+          },
+          {
+            "word": "deshumanización",
+            "definition": "Pérdida de la humanidad o empatía."
+          },
+          {
+            "word": "claustrofóbica",
+            "definition": "Sensación de estar atrapado o sin escape."
+          },
+          {
+            "word": "alterar",
+            "definition": "Cambiar o modificar algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué critican los realizadores a través del filme?",
+            "options": [
+              "La belleza del arte",
+              "La deshumanización en situaciones de poder",
+              "La naturaleza del amor"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el efecto de la cinematografía en la película?",
+            "options": [
+              "Crea una atmósfera ligera",
+              "Intensifica la tensión",
+              "La hace aburrida"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué papel juega el contexto del experimento en la narrativa?",
+            "options": [
+              "Es irrelevante",
+              "Enriquece la reflexión sobre la moralidad",
+              "No afecta la historia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Un espejo distorsionado de la humanidad",
+        "text": "'The Experiment', obra maestra de Oliver Hirschbiegel, se erige como un profundo análisis de la naturaleza humana, explorando los límites éticos y psicológicos a los que nos lleva el poder. Ambientada en un escenario de privación de libertad y sometimiento, la narrativa arranca con un grupo de voluntarios que, atraídos por la compensación económica, se sumergen en un entorno carcelario que, en principio, se presenta como un mero experimento social. Sin embargo, la trama se desarrolla hacia una crítica perturbadora de cómo los individuos pueden convertirse en sistemas de opresión a través de la violencia y la dominación. La dirección magistral de Hirschbiegel pone en evidencia las complejidades de la moral, utilizando recursos visuales que intensifican la claustrofobia y la tensión inherente al relato. El ritmo narrativo fluctúa entre momentos de calma inquietante y explosiones de caos, creando una experiencia visceral que sumerge al espectador en las profundidades de la psique humana. A través de la película, se plantea la necesidad de cuestionar no solo las condiciones sociales, sino también nuestra propia capacidad de crueldad. En un mundo donde la ética se somete a la conveniencia, 'The Experiment' se mantiene pertinente como un estudio sobre el comportamiento humano y sus oscuras tenencias.",
+        "vocabulary": [
+          {
+            "word": "obra maestra",
+            "definition": "Trabajo artístico de gran calidad."
+          },
+          {
+            "word": "suscitar",
+            "definition": "Provocar o provocar algo."
+          },
+          {
+            "word": "perturbadora",
+            "definition": "Que causa inquietud o malestar."
+          },
+          {
+            "word": "visceral",
+            "definition": "Relativo a las emociones profundas y fuertes."
+          },
+          {
+            "word": "tenencias",
+            "definition": "Inclinaciones o tendencias."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué aspecto fundamental cuestiona Hirschbiegel en la película?",
+            "options": [
+              "La belleza del arte",
+              "La naturaleza humana y el poder",
+              "La historia del cine"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cómo se describe el impacto del ritmo narrativo?",
+            "options": [
+              "Es monótono y predecible",
+              "Fluctúa, creando una experiencia tensa",
+              "No tiene importancia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué relevante crítica hace la película sobre la ética?",
+            "options": [
+              "No plantea dudas sobre la moral",
+              "La ética cede ante la conveniencia",
+              "Es irrelevante en la historia"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "das": "that",
+      "experiment": "experiment",
+      "ist": "is",
+      "ein": "a",
+      "deutscher": "german",
+      "film": "film",
+      "oliver": "Oliver",
+      "hirschbiegel": "stag",
+      "der": "the",
+      "regisseur": "director",
+      "viele": "many",
+      "freiwillige": "volunteers",
+      "machen": "to make",
+      "mit": "with",
+      "sie": "they",
+      "sind": "are",
+      "in": "in",
+      "einem": "a",
+      "gefängnis": "prison",
+      "spielen": "to play",
+      "zwei": "two",
+      "rollen": "roles",
+      "gefangene": "captives",
+      "und": "and",
+      "wärter": "warden",
+      "am": "at the",
+      "anfang": "beginning",
+      "es": "it",
+      "spiel": "game",
+      "lustig": "funny",
+      "spannend": "exciting",
+      "später": "later",
+      "wird": "will",
+      "ernst": "serious",
+      "die": "the",
+      "stimmung": "mood",
+      "ändert": "changes",
+      "sich": "oneself",
+      "fragt": "asks",
+      "wie": "like",
+      "verändert": "changes",
+      "macht": "makes",
+      "menschen": "people",
+      "gibt": "gives",
+      "emotionen": "emotions",
+      "zeigt": "shows",
+      "auch": "also",
+      "aggression": "aggression",
+      "interessant": "interesting",
+      "wichtig": "important",
+      "mögen": "to like",
+      "diesen": "these",
+      "atmosphäre": "atmosphere",
+      "drama": "drama",
+      "thriller": "thriller",
+      "von": "from",
+      "aus": "from",
+      "dem": "the",
+      "jahr": "year",
+      "er": "he",
+      "kommt": "comes",
+      "deutschland": "Germany",
+      "heißt": "is called",
+      "zwanzig": "twenty",
+      "diese": "this",
+      "freiwilligen": "volunteers",
+      "studenten": "students",
+      "an": "at",
+      "wissenschaftlichen": "scientific",
+      "teilnehmen": "to participate",
+      "wollen": "to want",
+      "untersucht": "investigated",
+      "einer": "one",
+      "künstlichen": "artificial",
+      "gefängnissituation": "prison situation",
+      "teilnehmer": "participants",
+      "werden": "will",
+      "gruppen": "groups",
+      "eingeteilt": "assigned",
+      "zu": "to",
+      "beginn": "beginning",
+      "denken": "to think",
+      "alle": "everyone",
+      "dass": "that",
+      "aber": "but",
+      "bald": "soon",
+      "sehr": "very",
+      "weil": "because",
+      "gefühle": "feelings",
+      "stark": "strong",
+      "steigen": "rise",
+      "schnell": "quickly",
+      "missbrauchen": "to abuse",
+      "haben": "to have",
+      "dunkle": "dark",
+      "seite": "side",
+      "viel": "a lot",
+      "gewalt": "violence",
+      "zuschauer": "spectators",
+      "sehen": "to see",
+      "gefährlich": "dangerous",
+      "sein": "his",
+      "kann": "can",
+      "hat": "has",
+      "eine": "a",
+      "spannende": "exciting",
+      "regt": "to stimulate",
+      "zum": "to the",
+      "nachdenken": "to think",
+      "über": "about",
+      "moral": "moral",
+      "menschlichkeit": "humanity",
+      "finden": "to find",
+      "themen": "topics",
+      "des": "of the",
+      "films": "films",
+      "freiheit": "freedom",
+      "verantwortung": "responsibility",
+      "nach": "after",
+      "geschichte": "history",
+      "gefährlichen": "hazardous",
+      "aufgeteilt": "divided",
+      "zunächst": "initially",
+      "alles": "everything",
+      "doch": "but",
+      "stellt": "presents",
+      "heraus": "out",
+      "situation": "situation",
+      "ernsthaft": "seriously",
+      "gegebenheiten": "conditions",
+      "im": "in the",
+      "verändern": "to change",
+      "verhalten": "behavior",
+      "personen": "people",
+      "erheblich": "significant",
+      "experiments": "experiments",
+      "freundlich": "friendly",
+      "entspannt": "relaxed",
+      "einigen": "some",
+      "tagen": "days",
+      "klima": "climate",
+      "zunehmend": "increasingly",
+      "aggressiv": "aggressive",
+      "grausam": "cruel",
+      "dies": "this",
+      "betrifft": "concerns",
+      "nicht": "not",
+      "nur": "only",
+      "gefangenen": "prisoners",
+      "sondern": "but",
+      "selbst": "self",
+      "ihre": "their",
+      "eigene": "own",
+      "verlieren": "to lose",
+      "thematisiert": "thematizes",
+      "wichtige": "important",
+      "fragen": "questions",
+      "den": "the",
+      "menschlichen": "human",
+      "charakter": "character",
+      "welche": "which",
+      "grenzen": "borders",
+      "überschreiten": "to exceed",
+      "wenn": "if",
+      "emotionale": "emotional",
+      "musik": "music",
+      "spannung": "tension",
+      "unterstützen": "to support",
+      "beklemmende": "oppressive",
+      "bemerkenswert": "remarkable",
+      "auf": "to",
+      "stanford-gefängnisexperiment": "Stanford prison experiment",
+      "basiert": "based",
+      "durchgeführt": "carried out",
+      "wurde": "was",
+      "international": "international",
+      "erfolg": "success",
+      "gehabt": "had",
+      "zuschauern": "viewers",
+      "stoff": "material",
+      "gesehen": "seen",
+      "handlung": "action",
+      "schockiert": "shocked",
+      "solche": "such",
+      "filme": "films",
+      "können": "can",
+      "eindringliche": "urgent",
+      "weise": "way",
+      "komplexe": "complex",
+      "menschliche": "human",
+      "psyche": "psych",
+      "darstellen": "represent",
+      "oft": "often",
+      "schwer": "heavy",
+      "verstehen": "to understand",
+      "faszinierendes": "fascinating",
+      "psychodrama": "psychodrama",
+      "inszeniert": "staged",
+      "packendes": "gripping",
+      "bekanntermaßen": "known",
+      "umstrittenen": "controversial",
+      "stanford-gefängniseperiment": "Stanford prison experiment",
+      "melden": "to report",
+      "um": "around",
+      "teilzunehmen": "to participate",
+      "aggressivität": "aggressiveness",
+      "untersuchen": "to investigate",
+      "soll": "shall",
+      "deutlich": "clear",
+      "möglichkeit": "possibility",
+      "nutzen": "use",
+      "leicht": "light",
+      "geld": "money",
+      "verdienen": "to earn",
+      "ohne": "without",
+      "potenziellen": "potential",
+      "gefahren": "dangers",
+      "bewusst": "conscious",
+      "was": "what",
+      "als": "than",
+      "harmloses": "harmless",
+      "beginnt": "begins",
+      "entwickelt": "developed",
+      "erschreckenden": "frightening",
+      "realitätstest": "reality test",
+      "kontrolle": "control",
+      "zentrale": "central",
+      "frage": "question",
+      "lautet": "states",
+      "unter": "under",
+      "extremen": "extreme",
+      "bedingungen": "conditions",
+      "während": "during",
+      "probanden": "participants",
+      "willkürlich": "arbitrary",
+      "aufseher": "supervisor",
+      "anfängliche": "initial",
+      "aufregung": "excitement",
+      "weicht": "deviates",
+      "bedrohlichen": "threatening",
+      "intensität": "intensity",
+      "visuelle": "visual",
+      "sprache": "language",
+      "eindringlich": "urgent",
+      "kameraarbeit": "camera work",
+      "fängt": "captures",
+      "sowohl": "both",
+      "situationen": "situations",
+      "durch": "through",
+      "gezielte": "targeted",
+      "beleuchtung": "lighting",
+      "sorgfältige": "careful",
+      "rhythmuswechsel": "rhythm change",
+      "ständige": "constant",
+      "anspannung": "tension",
+      "erzeugt": "produced",
+      "ihren": "their",
+      "bann": "ban",
+      "zieht": "pulls",
+      "schockierenden": "shocking",
+      "wendungen": "turns",
+      "vertiefen": "to deepen",
+      "abgründe": "abysses",
+      "meilenstein": "milestone",
+      "deutschen": "Germans",
+      "kino": "cinema",
+      "zudem": "furthermore",
+      "kritische": "critical",
+      "auseinandersetzung": "discussion",
+      "natur": "nature",
+      "art": "kind",
+      "gesellschaften": "societies",
+      "strukturiert": "structured",
+      "angerührt": "stirred",
+      "zahlreiche": "numerous",
+      "denkanstöße": "thought-provoking ideas",
+      "bietet": "offers",
+      "publikum": "audience",
+      "ethischen": "ethical",
+      "experimenten": "experiments",
+      "lässt": "lets",
+      "darüber": "about it",
+      "hinaus": "beyond",
+      "wissenschaftlern": "scientists",
+      "institutionen": "institutions",
+      "hinterfragen": "to question",
+      "da": "there",
+      "experimente": "experiments",
+      "tiefgreifende": "profound",
+      "konsequenzen": "consequences",
+      "für": "for",
+      "betroffenen": "affected",
+      "regie": "direction",
+      "tiefgreifendes": "profound",
+      "stück": "piece",
+      "dunklen": "dark",
+      "auseinandersetzt": "deals",
+      "zentrum": "center",
+      "erzählung": "narrative",
+      "dreht": "turns",
+      "steht": "stands",
+      "medizinische": "medical",
+      "untersuchung": "investigation",
+      "aggressivem": "aggressive",
+      "innerhalb": "within",
+      "simulierten": "simulated",
+      "ursprünglich": "originally",
+      "gut": "well",
+      "bezahltes": "paid",
+      "eingelassen": "let in",
+      "unterteilt": "divides",
+      "entfaltet": "unfolds",
+      "zeigen": "to show",
+      "fragilen": "fragile",
+      "unterordnung": "subordination",
+      "möglicherweise": "possibly",
+      "zerstörerische": "destructive",
+      "einfluss": "influence",
+      "autorität": "authority",
+      "kameraführung": "camera work",
+      "einsatz": "effort",
+      "licht": "light",
+      "schatten": "shadow",
+      "verstärkt": "intensified",
+      "bedrückende": "oppressive",
+      "innere": "inner",
+      "zerrissenheit": "tornness",
+      "charaktere": "characters",
+      "spüren": "to feel",
+      "gestaltung": "design",
+      "führt": "leads",
+      "emotionalen": "emotional",
+      "rhythmische": "rhythmic",
+      "anordnung": "arrangement",
+      "szenen": "scenes",
+      "weiter": "continue",
+      "wodurch": "to which",
+      "nervenaufreibende": "nerve-wracking",
+      "bis": "up to",
+      "ende": "end",
+      "anhält": "continues",
+      "implikationen": "implications",
+      "psychologie": "psychology",
+      "lenkt": "distracts",
+      "fokus": "focus",
+      "forscher": "researcher",
+      "anbetracht": "consideration",
+      "filmhistorischen": "film historical",
+      "bedeutung": "meaning",
+      "sticht": "to stand out",
+      "seine": "his",
+      "brillante": "brilliant",
+      "umsetzung": "implementation",
+      "tiefgründige": "profound",
+      "thematik": "theme",
+      "hervor": "out",
+      "reflektiert": "reflected",
+      "emotional": "emotional",
+      "berührt": "touched",
+      "herausgefordert": "challenged",
+      "eigenen": "own",
+      "überzeugungen": "beliefs",
+      "gewissen": "conscience",
+      "geschehnisse": "events",
+      "umgebung": "surroundings",
+      "alarmierende": "alarming",
+      "parallelen": "parallels",
+      "realen": "real",
+      "sozialen": "social",
+      "dynamiken": "dynamics",
+      "aufweisen": "exhibit",
+      "werk": "work",
+      "bleibt": "stays",
+      "zeitgenössischer": "contemporary",
+      "kommentar": "comment",
+      "verheerenden": "devastating",
+      "nebenwirkungen": "side effects",
+      "autoritarismus": "authoritarianism",
+      "verrohung": "brutalization",
+      "gesellschaft": "society",
+      "analyse": "analysis",
+      "zugleich": "at the same time",
+      "verstörendes": "disturbing",
+      "thematische": "thematic",
+      "tiefe": "deep",
+      "psychologische": "psychological",
+      "brillanz": "brilliance",
+      "besticht": "enchants",
+      "teilnahme": "participation",
+      "harmlos": "harmless",
+      "erscheinenden": "appearing",
+      "getragen": "carried",
+      "finsteren": "dark",
+      "facetten": "facets",
+      "offenbart": "reveals",
+      "wächtern": "guards",
+      "ernannt": "appointed",
+      "exploration": "exploration",
+      "unterdrückung": "suppression",
+      "inszenierung": "staging",
+      "visuell": "visual",
+      "herausragend": "outstanding",
+      "kluges": "smart",
+      "schattenspiel": "shadow play",
+      "sowie": "as well as",
+      "verwendung": "use",
+      "fragmentierung": "fragmentation",
+      "erzählweise": "narrative",
+      "gefühl": "feeling",
+      "dichte": "density",
+      "dringlichkeit": "urgency",
+      "subtile": "subtle",
+      "gedächtnis": "memory",
+      "philosophische": "philosophical",
+      "überlegungen": "considerations",
+      "zur": "to the",
+      "vertretbarkeit": "justifiability",
+      "solcher": "such",
+      "deren": "their",
+      "unser": "our",
+      "verständnis": "understanding",
+      "daher": "therefore",
+      "spannungsgeladenes": "tension-filled",
+      "wichtiges": "important",
+      "cineastisches": "cinematic",
+      "monument": "monument",
+      "reflexion": "reflection",
+      "moralischen": "moral",
+      "anregt": "stimulates",
+      "aufwirft": "raises",
+      "geschieht": "happens",
+      "ihrer": "their",
+      "stößt": "pushes"
+    },
+    "fr": {
+      "expérience": "experience",
+      "est": "is",
+      "un": "a",
+      "film": "film",
+      "allemand": "German",
+      "il": "he",
+      "sort": "fate",
+      "en": "in",
+      "ce": "this",
+      "drame": "drama",
+      "et": "and",
+      "thriller": "thriller",
+      "histoire": "history",
+      "commence": "starts",
+      "avec": "with",
+      "vingt": "twenty",
+      "volontaires": "volunteers",
+      "ils": "they",
+      "participent": "to participate",
+      "une": "a",
+      "de": "of",
+      "prison": "prison",
+      "sont": "are",
+      "prisonniers": "prisoners",
+      "ou": "or",
+      "gardiens": "guardians",
+      "au": "at the",
+      "début": "beginning",
+      "jeu": "game",
+      "mais": "but",
+      "ça": "that",
+      "devient": "becomes",
+      "très": "very",
+      "sérieux": "serious",
+      "les": "the",
+      "gens": "people",
+      "changent": "change",
+      "pendant": "during",
+      "montrent": "show",
+      "des": "some",
+      "comportements": "behaviors",
+      "agressifs": "aggressive",
+      "le": "the",
+      "parle": "speaks",
+      "la": "the",
+      "nature": "nature",
+      "humaine": "human",
+      "montre": "shows",
+      "comment": "how",
+      "situation": "situation",
+      "affecte": "affects",
+      "participants": "participants",
+      "acteurs": "actors",
+      "jouent": "play",
+      "bien": "well",
+      "musique": "music",
+      "forte": "strong",
+      "images": "images",
+      "intenses": "intense",
+      "voir": "to see",
+      "pour": "for",
+      "réfléchir": "to reflect",
+      "captivant": "captivating",
+      "sorti": "went out",
+      "réalisé": "achieved",
+      "par": "by",
+      "oliver": "oliver",
+      "hirschbiegel": "Hirschbiegel",
+      "dans": "in",
+      "soit": "be",
+      "tout": "all",
+      "semble": "seems",
+      "facile": "easy",
+      "amusant": "funny",
+      "rapidement": "quickly",
+      "dangereuse": "dangerous",
+      "personnages": "characters",
+      "changement": "change",
+      "intéressant": "interesting",
+      "pose": "poses",
+      "questions": "questions",
+      "sur": "about",
+      "pouvoir": "power",
+      "nous": "we",
+      "fait": "makes",
+      "mal": "bad",
+      "lumière": "light",
+      "son": "his",
+      "créent": "create",
+      "ambiance": "atmosphere",
+      "intense": "intense",
+      "émotions": "emotions",
+      "fortes": "strong",
+      "apprécié": "appreciated",
+      "public": "public",
+      "œuvre": "work",
+      "ceux": "those",
+      "qui": "who",
+      "aiment": "like",
+      "drames": "dramas",
+      "réflexion": "reflection",
+      "profonde": "deep",
+      "interroge": "questions",
+      "ont": "have",
+      "accepté": "accepted",
+      "participer": "to participate",
+      "expérimentale": "experimental",
+      "divisés": "divided",
+      "deux": "two",
+      "groupes": "groups",
+      "inoffensif": "harmless",
+      "cependant": "however",
+      "dynamique": "dynamic",
+      "du": "of the",
+      "groupe": "group",
+      "change": "change",
+      "plus": "more",
+      "sérieuse": "serious",
+      "explore": "explore",
+      "façon": "way",
+      "dont": "whose",
+      "peut": "can",
+      "corrompre": "to corrupt",
+      "autrefois": "formerly",
+      "étaient": "were",
+      "amis": "friends",
+      "émergent": "emerging",
+      "mesure": "measure",
+      "que": "that",
+      "progresse": "progresses",
+      "thèmes": "themes",
+      "morale": "morality",
+      "liberté": "freedom",
+      "présents": "present",
+      "pousse": "push",
+      "spectateur": "spectator",
+      "ses": "his",
+      "propres": "own",
+      "valeurs": "values",
+      "réalisation": "realization",
+      "marquante": "significant",
+      "sombres": "dark",
+      "renforcent": "strengthen",
+      "angoisse": "anguish",
+      "audience": "hearing",
+      "transmettent": "transmit",
+      "authentiques": "authentic",
+      "souvent": "often",
+      "comparé": "compared",
+      "stanford": "Stanford",
+      "démontre": "demonstrates",
+      "si": "if",
+      "circonstances": "circumstances",
+      "extrêmes": "extreme",
+      "révéler": "to reveal",
+      "aspects": "aspects",
+      "cachés": "hidden",
+      "question": "question",
+      "autorité": "authority",
+      "essentielle": "essential",
+      "ici": "here",
+      "considéré": "considered",
+      "comme": "like",
+      "meilleurs": "best",
+      "allemands": "Germans",
+      "ne": "not",
+      "pas": "not",
+      "manquer": "to miss",
+      "exploration": "exploration",
+      "intrigante": "intriguing",
+      "the": "the",
+      "experiment": "experiment",
+      "captivante": "captivating",
+      "dès": "as soon as",
+      "faisons": "let's do",
+      "connaissance": "knowledge",
+      "acceptent": "accept",
+      "prétendument": "allegedly",
+      "rémunérée": "paid",
+      "axée": "focused",
+      "comportement": "behavior",
+      "agressif": "aggressive",
+      "cadre": "framework",
+      "carcéral": "prison",
+      "contexte": "context",
+      "ordinaire": "ordinary",
+      "tension": "tension",
+      "palpable": "palpable",
+      "installe": "installs",
+      "réalisateur": "director",
+      "profonds": "deep",
+      "violence": "violence",
+      "déshumanisation": "dehumanization",
+      "lorsque": "when",
+      "choix": "choice",
+      "visuels": "visuals",
+      "tels": "such",
+      "usage": "use",
+      "angles": "angles",
+      "caméra": "camera",
+      "accentuent": "accentuate",
+      "détresse": "distress",
+      "bande": "band",
+      "sonore": "sound",
+      "contribue": "contributes",
+      "atmosphère": "atmosphere",
+      "pesante": "heavy",
+      "rendant": "making",
+      "immersive": "immersive",
+      "commencer": "to start",
+      "simple": "simple",
+      "morales": "moral",
+      "éthiques": "ethics",
+      "résistance": "resistance",
+      "fin": "end",
+      "compte": "account",
+      "se": "yourself",
+      "contente": "happy",
+      "être": "to be",
+      "nos": "our",
+      "limites": "limits",
+      "êtres": "beings",
+      "humains": "human",
+      "remarquable": "remarkable",
+      "cinéma": "cinema",
+      "confrontation": "confrontation",
+      "homme": "man",
+      "face": "face",
+      "environnement": "environment",
+      "travers": "crossing",
+      "présente": "presents",
+      "troublante": "disturbing",
+      "scrute": "to scrutinize",
+      "psyché": "psyche",
+      "lorsqu'elle": "when she",
+      "retrouve": "finds",
+      "confrontée": "faced",
+      "exceptionnelles": "exceptional",
+      "aborde": "addresses",
+      "moralité": "morality",
+      "centrée": "centered",
+      "jouer": "to play",
+      "rôles": "roles",
+      "soulève": "raises",
+      "essentielles": "essential",
+      "individus": "individuals",
+      "ordinaires": "ordinary",
+      "peuvent": "can",
+      "transformer": "to transform",
+      "pression": "pressure",
+      "sociale": "social",
+      "provocation": "provocation",
+      "omniprésentes": "omnipresent",
+      "direction": "direction",
+      "artistique": "artistic",
+      "alliant": "uniting",
+      "photographie": "photography",
+      "sombre": "dark",
+      "moody": "moody",
+      "participe": "participates",
+      "création": "creation",
+      "conséquence": "consequence",
+      "premiers": "first",
+      "instants": "moments",
+      "semblent": "seem",
+      "insouciants": "carefree",
+      "monte": "rises",
+      "interrogeant": "questioning",
+      "ainsi": "thus",
+      "non": "no",
+      "seulement": "only",
+      "dynamiques": "dynamic",
+      "aussi": "also",
+      "capacité": "capacity",
+      "agir": "to act",
+      "manière": "manner",
+      "éthique": "ethics",
+      "conditions": "conditions",
+      "somme": "sum",
+      "revêt": "revives",
+      "caractère": "character",
+      "universel": "universal",
+      "faisant": "making",
+      "écho": "echo",
+      "préoccupations": "concerns",
+      "sociopolitiques": "sociopolitical",
+      "demeurent": "remain",
+      "pertinentes": "relevant",
+      "aujourd'hui": "today",
+      "établit": "establishes",
+      "importance": "importance",
+      "panorama": "panorama",
+      "cinématographique": "cinematic",
+      "contemporain": "contemporary",
+      "brutalité": "brutality",
+      "profondeurs": "depths",
+      "complexité": "complexity",
+      "relations": "relations",
+      "interpersonnelles": "interpersonal",
+      "prisme": "prism",
+      "audacieuse": "daring",
+      "inspiré": "inspired",
+      "études": "studies",
+      "psychologiques": "psychological",
+      "célèbres": "famous",
+      "frontières": "borders",
+      "entre": "between",
+      "immoralisme": "immorality",
+      "tandis": "while",
+      "initialement": "initially",
+      "enjoués": "cheerful",
+      "sombrent": "to sink",
+      "hiérarchie": "hierarchy",
+      "artificielle": "artificial",
+      "employant": "employing",
+      "cinématographie": "cinematography",
+      "habile": "skillful",
+      "caractérisée": "characterized",
+      "éclairages": "lighting",
+      "intrigants": "intriguers",
+      "plans": "shots",
+      "audacieux": "bold",
+      "multiplie": "multiplies",
+      "espaces": "spaces",
+      "suggérant": "suggesting",
+      "ombre": "shadow",
+      "infiltre": "infiltrates",
+      "inexorablement": "inexorably",
+      "service": "service",
+      "narration": "narration",
+      "amplifie": "amplifies",
+      "souligne": "highlights",
+      "dilemmes": "dilemmas",
+      "moraux": "moral",
+      "auxquels": "to which",
+      "confrontés": "faced",
+      "appele": "calls",
+      "conscience": "awareness",
+      "crée": "creates",
+      "limite": "limit",
+      "divertissement": "entertainment",
+      "elle": "she",
+      "incite": "encourages",
+      "fragilité": "fragility",
+      "société": "society",
+      "individuels": "individual",
+      "constitue": "constitutes",
+      "jalon": "milestone",
+      "cherche": "searches",
+      "déchiffrer": "to decipher",
+      "insondable": "unfathomable",
+      "remettre": "to put back",
+      "notre": "our",
+      "compréhension": "understanding",
+      "posant": "posing",
+      "cruciale": "crucial",
+      "jusqu'où": "how far",
+      "serions-nous": "would we be",
+      "prêts": "ready",
+      "aller": "to go",
+      "sommes": "sums",
+      "mis": "put",
+      "défi": "challenge"
+    },
+    "es": {
+      "la": "the",
+      "experiencia": "experience",
+      "película": "movie",
+      "se": "oneself",
+      "llama": "call",
+      "es": "is",
+      "un": "a",
+      "drama": "drama",
+      "thriller": "thriller",
+      "historia": "story",
+      "empieza": "begins",
+      "con": "with",
+      "veinte": "twenty",
+      "voluntarios": "volunteers",
+      "ellos": "they",
+      "van": "they go",
+      "experimento": "experiment",
+      "están": "are",
+      "en": "in",
+      "una": "a",
+      "prisión": "prison",
+      "algunos": "some",
+      "son": "are",
+      "prisioneros": "prisoners",
+      "otros": "others",
+      "guardias": "guards",
+      "al": "to the",
+      "principio": "principle",
+      "juego": "game",
+      "pero": "but",
+      "pronto": "soon",
+      "situación": "situation",
+      "seria": "serious",
+      "los": "the",
+      "actores": "actors",
+      "buenos": "good",
+      "dirección": "direction",
+      "interesante": "interesting",
+      "hay": "there is",
+      "tensión": "tension",
+      "difícil": "difficult",
+      "para": "to",
+      "todos": "all",
+      "atmósfera": "atmosphere",
+      "intensa": "intense",
+      "del": "of the",
+      "año": "year",
+      "de": "of",
+      "alemania": "Germany",
+      "dirigida": "directed",
+      "por": "for",
+      "oliver": "olive",
+      "hirschbiegel": "Hirschbiegel",
+      "trata": "deals",
+      "este": "this",
+      "personas": "people",
+      "participan": "participate",
+      "manera": "way",
+      "voluntaria": "voluntary",
+      "parece": "seems",
+      "divertido": "funny",
+      "después": "after",
+      "cambia": "change",
+      "explora": "explores",
+      "el": "the",
+      "comportamiento": "behavior",
+      "humano": "human",
+      "agresión": "assault",
+      "muy": "very",
+      "mucha": "much",
+      "las": "the",
+      "escenas": "scenes",
+      "impactantes": "impactful",
+      "buena": "good",
+      "muestra": "shows",
+      "emociones": "emotions",
+      "fuertes": "strong",
+      "esto": "this",
+      "hace": "ago",
+      "que": "that",
+      "espectador": "viewer",
+      "sienta": "feel",
+      "curiosidad": "curiosity",
+      "famosa": "famous",
+      "ha": "has",
+      "ganado": "cattle",
+      "atención": "attention",
+      "internacional": "international",
+      "habla": "speaks",
+      "naturaleza": "nature",
+      "humana": "human",
+      "límites": "limits",
+      "violencia": "violence",
+      "estudio": "study",
+      "sobre": "about",
+      "ofrece": "offers",
+      "exploración": "exploration",
+      "profunda": "profound",
+      "situaciones": "situations",
+      "extremas": "extreme",
+      "grupo": "group",
+      "han": "they have",
+      "sido": "been",
+      "seleccionados": "selected",
+      "cuidadosamente": "carefully",
+      "decide": "decides",
+      "participar": "to participate",
+      "simula": "simulates",
+      "convierte": "turns",
+      "algo": "something",
+      "serio": "serious",
+      "preocupante": "worrying",
+      "cada": "each",
+      "persona": "person",
+      "tiene": "has",
+      "papel": "role",
+      "lo": "it",
+      "provoca": "provokes",
+      "cambio": "change",
+      "inesperado": "unexpected",
+      "su": "his",
+      "cómo": "how",
+      "poder": "power",
+      "autoridad": "authority",
+      "pueden": "can",
+      "afectar": "to affect",
+      "nos": "us",
+      "preguntarnos": "to ask ourselves",
+      "visualmente": "visually",
+      "uso": "use",
+      "efectivo": "effective",
+      "luces": "lights",
+      "sombras": "shadows",
+      "contribuyen": "they contribute",
+      "ambiente": "environment",
+      "opresivo": "oppressive",
+      "música": "music",
+      "efectos": "effects",
+      "sonido": "sound",
+      "aumentan": "increase",
+      "crean": "create",
+      "inquietante": "disturbing",
+      "mantiene": "maintains",
+      "audiencia": "audience",
+      "borde": "edge",
+      "asiento": "seat",
+      "considerada": "considered",
+      "reflexión": "reflection",
+      "importante": "important",
+      "ética": "ethics",
+      "ciencia": "science",
+      "psicología": "psychology",
+      "especialmente": "especially",
+      "porque": "because",
+      "tipo": "type",
+      "experimentos": "experiments",
+      "tener": "to have",
+      "consecuencias": "consequences",
+      "reales": "real",
+      "vida": "life",
+      "si": "if",
+      "alguna": "some",
+      "vez": "time",
+      "decides": "decides",
+      "ver": "see",
+      "prepárate": "get ready",
+      "reflexionar": "to reflect",
+      "significa": "means",
+      "ser": "to be",
+      "circunstancias": "circumstances",
+      "difíciles": "difficult",
+      "tenido": "had",
+      "impacto": "impact",
+      "significativo": "significant",
+      "cine": "cinema",
+      "dramático": "dramatic",
+      "poniendo": "putting",
+      "relieve": "relief",
+      "cuestiones": "issues",
+      "aún": "still",
+      "relevantes": "relevant",
+      "hoy": "today",
+      "día": "day",
+      "the": "the",
+      "experiment": "experiment",
+      "plantea": "raises",
+      "preguntas": "questions",
+      "moralidad": "morality",
+      "acepta": "to accept",
+      "social": "social",
+      "artificial": "artificial",
+      "inicialmente": "initially",
+      "sin": "without",
+      "embargo": "however",
+      "medida": "measure",
+      "avanza": "advances",
+      "trama": "plot",
+      "participantes": "participants",
+      "deben": "must",
+      "enfrentarse": "to face",
+      "propia": "own",
+      "agresividad": "aggressiveness",
+      "cambios": "changes",
+      "desarrollo": "development",
+      "refleja": "reflects",
+      "capacidad": "capacity",
+      "adaptarse": "to adapt",
+      "roles": "roles",
+      "sumisión": "submission",
+      "utiliza": "uses",
+      "luz": "light",
+      "cámara": "camera",
+      "efectiva": "effective",
+      "crear": "to create",
+      "tensa": "tense",
+      "donde": "where",
+      "espectadores": "viewers",
+      "sienten": "feel",
+      "además": "furthermore",
+      "ritmo": "rhythm",
+      "narrativa": "narrative",
+      "público": "public",
+      "más": "more",
+      "inmerso": "immersed",
+      "aunque": "although",
+      "filme": "film",
+      "está": "is",
+      "basado": "based",
+      "stanford": "Stanford",
+      "mensaje": "message",
+      "trasciende": "transcends",
+      "tiempo": "time",
+      "explorar": "to explore",
+      "conceptos": "concepts",
+      "identidad": "identity",
+      "general": "general",
+      "no": "not",
+      "solo": "only",
+      "impactante": "impactful",
+      "sino": "but",
+      "también": "also",
+      "realiza": "to carry out",
+      "compleja": "complex",
+      "provocativa": "provocative",
+      "condición": "condition",
+      "través": "through",
+      "contexto": "context",
+      "aparentemente": "apparently",
+      "sencillo": "simple",
+      "entorno": "environment",
+      "carcelario": "prison",
+      "comienza": "begins",
+      "motivados": "motivated",
+      "recompensas": "rewards",
+      "económicas": "economic",
+      "saber": "to know",
+      "profundos": "deep",
+      "dilemas": "dilemmas",
+      "morales": "moral",
+      "enfrentarán": "they will face",
+      "desarrolle": "develop",
+      "reflexiones": "reflections",
+      "brindando": "providing",
+      "crítica": "criticism",
+      "deshumanización": "dehumanization",
+      "puede": "can",
+      "surgir": "to arise",
+      "cinematografía": "cinematography",
+      "notable": "notable",
+      "utilizando": "using",
+      "técnicas": "techniques",
+      "visuales": "visual",
+      "como": "like",
+      "iluminación": "lighting",
+      "encuadre": "framing",
+      "intensificar": "to intensify",
+      "claustrofóbica": "claustrophobic",
+      "narrativo": "narrative",
+      "oscila": "oscillates",
+      "entre": "between",
+      "momentos": "moments",
+      "calma": "calm",
+      "explosiones": "explosions",
+      "presenta": "presents",
+      "intrigante": "intriguing",
+      "invita": "invites",
+      "cuestionar": "to question",
+      "hasta": "until",
+      "qué": "what",
+      "punto": "point",
+      "alterar": "to alter",
+      "nuestra": "our",
+      "tema": "theme",
+      "sigue": "follows",
+      "resonando": "resounding",
+      "análisis": "analysis",
+      "contemporáneo": "contemporary",
+      "espejo": "mirror",
+      "distorsionado": "distorted",
+      "humanidad": "humanity",
+      "obra": "work",
+      "maestra": "master",
+      "erige": "erects",
+      "profundo": "profound",
+      "explorando": "exploring",
+      "éticos": "ethical",
+      "psicológicos": "psychological",
+      "lleva": "carries",
+      "ambientada": "set",
+      "escenario": "scenario",
+      "privación": "deprivation",
+      "libertad": "freedom",
+      "sometimiento": "submission",
+      "arranca": "starts",
+      "atraídos": "attracted",
+      "compensación": "compensation",
+      "económica": "economic",
+      "sumergen": "to submerge",
+      "mero": "mere",
+      "desarrolla": "develops",
+      "hacia": "toward",
+      "perturbadora": "disturbing",
+      "individuos": "individuals",
+      "convertirse": "to become",
+      "sistemas": "systems",
+      "opresión": "oppression",
+      "dominación": "domination",
+      "magistral": "masterful",
+      "pone": "puts",
+      "evidencia": "evidence",
+      "complejidades": "complexities",
+      "moral": "moral",
+      "recursos": "resources",
+      "intensifican": "intensify",
+      "claustrofobia": "claustrophobia",
+      "inherente": "inherent",
+      "relato": "story",
+      "fluctúa": "fluctuates",
+      "caos": "chaos",
+      "creando": "creating",
+      "visceral": "visceral",
+      "sumerge": "submerges",
+      "profundidades": "depths",
+      "psique": "psyche",
+      "necesidad": "necessity",
+      "condiciones": "conditions",
+      "sociales": "social",
+      "crueldad": "cruelty",
+      "mundo": "world",
+      "somete": "submits",
+      "conveniencia": "convenience",
+      "pertinente": "relevant",
+      "sus": "their",
+      "oscuras": "dark",
+      "tenencias": "holdings"
+    }
+  }
+}
