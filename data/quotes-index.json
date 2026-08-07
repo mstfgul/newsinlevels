@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-07-leo-tolstoy-the-only-absolute-knowledge-at",
+    "date": "2026-08-07",
+    "author": "Leo Tolstoy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg/330px-Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "titles": {
+      "en": "The only absolute knowledge attainable by man is that life is meaningless.",
+      "de": "Die einzige absolute Erkenntnis, die der Mensch erreichen kann, ist, dass das Leben sinnlos ist.",
+      "fr": "La seule connaissance absolue que l'homme peut atteindre est que la vie est sans sens.",
+      "es": "La única verdad absoluta que puede conocer el hombre es que la vida no tiene sentido."
+    }
+  },
+  {
     "id": "2026-08-06-walt-whitman-what-do-you-suppose-will-satis",
     "date": "2026-08-06",
     "author": "Walt Whitman",
