@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-07-heart-of-darkness-joseph-conrad",
+    "date": "2026-08-07",
+    "author": "Joseph Conrad",
+    "image": "https://covers.openlibrary.org/b/id/12307847-L.jpg",
+    "titles": {
+      "en": "Heart of Darkness",
+      "de": "Herz der Finsternis",
+      "fr": "Cœur des ténèbres",
+      "es": "El corazón de las tinieblas"
+    }
+  },
+  {
     "id": "2026-08-05-zorba-the-greek-nikos-kazantzakis",
     "date": "2026-08-05",
     "author": "Nikos Kazantzakis",
