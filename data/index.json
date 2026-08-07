@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-07-uefa-says-boycott-may-still-go-ahead-as-fa-withdraws-infanti",
+    "date": "2026-08-07",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0fcc/live/22b41d60-9195-11f1-9e9c-c71e84be4584.jpg",
+    "category": "sport",
+    "titles": {
+      "en": "FA Withdraws Support for Infantino Amid Boycott Talks",
+      "de": "UEFA und die Unterstützung für Infantino",
+      "fr": "L'UEFA face à la situation d'Infantino",
+      "es": "Uefa y el futuro de Gianni Infantino"
+    }
+  },
+  {
+    "id": "2026-08-07-trump-again-tries-to-limit-us-birthright-citizenship-with-ne",
+    "date": "2026-08-07",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Trump's Efforts to Change Birthright Citizenship Laws",
+      "de": "Trump versucht erneut, die Staatsbürgerschaft zu ändern",
+      "fr": "Les efforts de Trump pour changer la citoyenneté par naissance",
+      "es": "Trump busca limitar la ciudadanía por nacimiento en EE.UU."
+    }
+  },
+  {
+    "id": "2026-08-07-meta-fined-567m-in-largest-child-safety-ruling-against-socia",
+    "date": "2026-08-07",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Meta Faces Largest Fine for Child Safety Failures",
+      "de": "Meta wird mit 567 Millionen Dollar wegen Kinder-Sicherheit bestraft",
+      "fr": "Une amende record pour Meta sur la sécurité des enfants",
+      "es": "Meta enfrenta una multa por la seguridad de los niños"
+    }
+  },
+  {
     "id": "2026-08-06-iran-says-deal-with-oman-on-strait-of-hormuz-is-in-final-sta",
     "date": "2026-08-06",
     "source": "BBC News",
