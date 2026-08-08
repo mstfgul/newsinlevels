@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-08-ralph-waldo-emerson-everything-in-the-universe-goe",
+    "date": "2026-08-08",
+    "author": "Ralph Waldo Emerson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg/330px-Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "titles": {
+      "en": "Everything in the universe goes by indirection. There are no straight lines.",
+      "de": "Alles im Universum geht durch Indirektion. Es gibt keine geraden Linien.",
+      "fr": "Tout dans l'univers va par indirection. Il n'y a pas de lignes droites.",
+      "es": "Todo en el universo va por indirecta. No hay líneas rectas."
+    }
+  },
+  {
     "id": "2026-08-07-leo-tolstoy-the-only-absolute-knowledge-at",
     "date": "2026-08-07",
     "author": "Leo Tolstoy",
