@@ -1,0 +1,2442 @@
+{
+  "id": "2026-08-08-2014-world-health-organization",
+  "date": "2026-08-08",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/World_Health_Organization"
+  },
+  "originalTitle": "2014: The World Health Organization declared the Western African Ebola epidemic, which began in December 2013, to be a public health emergency of international concern.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/World_Health_Organization_%40_Pregny-Chamb%C3%A9sy_%2850636746028%29.jpg/330px-World_Health_Organization_%40_Pregny-Chamb%C3%A9sy_%2850636746028%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "category": "history",
+  "history": {
+    "year": 2014
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Ebola in West Africa",
+        "text": "A virus called Ebola makes people sick. In 2013, Ebola starts in West Africa. Many people get sick and die. On August 8, 2014, a group calls WHO helps. They say Ebola is a big problem. People are scared. WHO works with countries. They want to stop the virus. WHO helps with medicine and advice. This is very important. People need help. Ebola spreads to other countries. WHO knows this is dangerous. They act quickly for safety. The world watches the situation.",
+        "vocabulary": [
+          {
+            "word": "virus",
+            "definition": "A tiny germ that makes people sick."
+          },
+          {
+            "word": "sick",
+            "definition": "Feeling ill or unwell."
+          },
+          {
+            "word": "problem",
+            "definition": "A difficult situation or issue."
+          },
+          {
+            "word": "work",
+            "definition": "To put effort into something."
+          },
+          {
+            "word": "scared",
+            "definition": "Feeling afraid or worried."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What virus starts in West Africa?",
+            "options": [
+              "Flu",
+              "Ebola",
+              "Cold"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does WHO stand for?",
+            "options": [
+              "World Health Organization",
+              "World Help Organization",
+              "World Hospital Organization"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "When does WHO say Ebola is a big problem?",
+            "options": [
+              "August 8, 2014",
+              "December 2013",
+              "January 2015"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Ebola Epidemic in West Africa",
+        "text": "In West Africa, a disease called Ebola starts in December 2013. It makes many people very sick. By August 8, 2014, the World Health Organization (WHO) sees a big problem. They declare a public health emergency because many people die. WHO wants to stop the disease from spreading. They help countries with medicines and information. Many doctors and nurses help too. The situation is serious for many people. WHO is an important group that works to keep people healthy. They help with responses to health problems. Ebola causes fear across the world. WHO tells everyone to be careful. Other countries watch the outbreak closely. They want to help stop the virus.",
+        "vocabulary": [
+          {
+            "word": "disease",
+            "definition": "An illness that affects the body."
+          },
+          {
+            "word": "declare",
+            "definition": "To make a strong statement about something."
+          },
+          {
+            "word": "emergency",
+            "definition": "A serious situation that needs quick action."
+          },
+          {
+            "word": "spread",
+            "definition": "To move from one place to another."
+          },
+          {
+            "word": "outbreak",
+            "definition": "When a disease starts to affect many people."
+          }
+        ],
+        "questions": [
+          {
+            "question": "When does Ebola begin in West Africa?",
+            "options": [
+              "August 2014",
+              "December 2013",
+              "May 2014"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does WHO do on August 8, 2014?",
+            "options": [
+              "Loses the battle",
+              "Declares an emergency",
+              "Stops the disease"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why is WHO important?",
+            "options": [
+              "They make people sick",
+              "They keep people healthy",
+              "They work in hospitals only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "WHO Declares an Ebola Emergency",
+        "text": "In December 2013, the Ebola virus outbreak begins in West Africa, affecting many people and causing serious illness. The number of cases increases quickly, reaching alarming levels. On August 8, 2014, the World Health Organization (WHO) declares this epidemic a public health emergency of international concern. They recognize that the disease is a serious threat to global health since it can spread rapidly from person to person. The WHO aims to stop the virus from spreading further and works closely with affected countries to provide medical aid and necessary support. Their efforts include finding effective treatments for patients and sharing vital information with health workers. This declaration helps raise awareness around the world about Ebola and its dangers. It also allows more resources, such as medical supplies and experts, to be sent to the hardest-hit areas. Several nations quickly respond by sending medical teams and supplies to help. The WHO has played a crucial role in the fight against Ebola, demonstrating how international cooperation can help in health crises. Overall, the situation shows the importance of global health organizations in managing public health emergencies and protecting vulnerable populations. By controlling such outbreaks, the WHO helps ensure a healthier future for everyone.",
+        "vocabulary": [
+          {
+            "word": "epidemic",
+            "definition": "a sudden outbreak of a disease affecting many people in a specific area"
+          },
+          {
+            "word": "alarming",
+            "definition": "causing worry or concern; something surprising and troubling"
+          },
+          {
+            "word": "cooperation",
+            "definition": "working together towards a common goal or purpose"
+          },
+          {
+            "word": "vulnerable",
+            "definition": "capable of being harmed or attacked; in need of protection"
+          },
+          {
+            "word": "supplies",
+            "definition": "the materials or resources that are needed for a particular purpose, especially in emergencies"
+          }
+        ],
+        "questions": [
+          {
+            "question": "When did the Ebola outbreak begin in West Africa?",
+            "options": [
+              "December 2014",
+              "December 2013",
+              "August 2014"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is one of the main functions of the WHO?",
+            "options": [
+              "To send soldiers to fight diseases",
+              "To provide technical assistance and set health standards",
+              "To control all international trade"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did the declaration of emergency help the affected countries?",
+            "options": [
+              "It allowed resources to be sent and increased awareness of the disease",
+              "It restricted aid from other countries",
+              "It stopped the spread of other diseases"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ebola Epidemic Declared Emergency",
+        "text": "On August 8, 2014, the World Health Organization (WHO) declared the Western African Ebola epidemic a public health emergency of international concern. This outbreak had started in December 2013, resulting in severe health crises across multiple countries. Although Ebola previously existed, the scale of this epidemic was unprecedented, with thousands affected and many lives lost. Following the announcement, international responses intensified. Countries and organizations mobilized resources, personnel, and support for the affected regions. The WHO's declaration aimed to raise awareness and facilitate coordinated action among nations to contain the virus. In order to manage the epidemic effectively, vaccination efforts were prioritized, alongside public education on prevention. Many health professionals and volunteers traveled to West Africa. Reportedly, they faced significant challenges, including unsafe working conditions and a lack of adequate personal protective equipment. The emergency health response highlighted the importance of global cooperation in tackling health emergencies. Since then, the WHO has played a crucial role in establishing standards for epidemic control and vaccination. Thus, the declaration catalyzed not only immediate assistance but also long-term improvements in public health infrastructure worldwide.",
+        "vocabulary": [
+          {
+            "word": "epidemic",
+            "definition": "a widespread occurrence of an infectious disease"
+          },
+          {
+            "word": "mobilized",
+            "definition": "gathered or organized resources or people for action"
+          },
+          {
+            "word": "coordinated",
+            "definition": "organized effectively among several parties"
+          },
+          {
+            "word": "unprecedented",
+            "definition": "never before experienced or known"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "the basic physical and organizational structures needed for the operation of a society"
+          }
+        ],
+        "questions": [
+          {
+            "question": "When did WHO declare the Ebola epidemic a public health emergency?",
+            "options": [
+              "August 8, 2014",
+              "July 5, 2014",
+              "December 1, 2013"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What was the aim of the WHO's declaration?",
+            "options": [
+              "To raise money",
+              "To raise awareness and facilitate action",
+              "To promote tourism"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What challenge did health professionals face in West Africa?",
+            "options": [
+              "Too many resources",
+              "Unsafe working conditions",
+              "Lack of patients"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "The WHO's Declaration on the Ebola Epidemic",
+        "text": "On August 8, 2014, in a pivotal move, the World Health Organization (WHO) declared the Ebola epidemic affecting Western Africa a public health emergency of international concern. This unprecedented outbreak, which had initiated in December 2013, had escalated dramatically, prompting fears across the globe. Given that the WHO is tasked with coordinating responses to critical health crises, this declaration was crucial for mobilizing international assistance and resources. Various countries and NGOs began to respond, deploying healthcare professionals and supplies to combat the virus. Nevertheless, these efforts were met with significant challenges, including inadequate personal protective equipment and insufficient infrastructure in the affected regions. The WHO maintained that immediate and coordinated responses were imperative in order to contain the epidemic. Following the declaration, vaccination initiatives were enhanced significantly. The scale of the response also underscored the necessity of global collaboration in addressing health emergencies. More than merely a reactive measure, the declaration served as a catalyst for lasting improvements in public health systems, enabling better preparation for future outbreaks. Thus, while the immediate crisis demanded urgent attention, it also highlighted the critical need for robust health infrastructure worldwide.",
+        "vocabulary": [
+          {
+            "word": "pivotal",
+            "definition": "of crucial importance in relation to the development or success of something"
+          },
+          {
+            "word": "unprecedented",
+            "definition": "never done or known before"
+          },
+          {
+            "word": "mobilizing",
+            "definition": "bringing resources or people together for a specific purpose"
+          },
+          {
+            "word": "impairment",
+            "definition": "the state of being weakened or damaged"
+          },
+          {
+            "word": "catalyst",
+            "definition": "a person or thing that causes a change or event"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What was the purpose of the WHO's declaration?",
+            "options": [
+              "To promote tourism",
+              "To declare an emergency for international concern",
+              "To raise awareness for drug use"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What challenges did responders face in West Africa?",
+            "options": [
+              "Too many resources",
+              "Inadequate equipment",
+              "Excess funding"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What was highlighted by the WHO's declaration?",
+            "options": [
+              "The need for better health infrastructure",
+              "The success of Ebola vaccination",
+              "The absence of healthcare professionals"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Declaring a Health Emergency: The WHO and the Ebola Crisis",
+        "text": "On August 8, 2014, the World Health Organization (WHO) made a proclamation that reverberated across the globe: the Ebola epidemic originating in Western Africa was henceforth considered a public health emergency of international concern. Although Ebola had plagued various regions before, the sheer scale of this outbreak, igniting widespread panic and healthcare collapse, was unparalleled. One cannot understate the role of the WHO, a UN agency mandated to navigate the treacherous waters of global health dilemmas. In declaring a state of emergency, the organization not only aimed to mobilize international support but also sought to galvanize attention towards a health crisis that had spiraled out of control. The logistical and ethical implications of such an emergency declaration were profound; healthcare professionals reported harrowing conditions, including inadequate protection and logistical suffocation. Who could have anticipated that a virus, primarily confined to rural areas, would burgeon into a worldwide crisis? This declaration thus acted as a dual catalyst, provoking immediate action while simultaneously underscoring the critical need for systemic health reforms and robust infrastructure to combat future pandemics. In retrospect, the emergency declared by the WHO has reshaped discourse around public health preparedness, highlighting that such outbreaks necessitate not merely a response but a profound reconsideration of global health dynamics.",
+        "vocabulary": [
+          {
+            "word": "reverberated",
+            "definition": "echoed or resounded in a significant way"
+          },
+          {
+            "word": "mandated",
+            "definition": "authorized or required by law or official order"
+          },
+          {
+            "word": "galvanize",
+            "definition": "to stimulate or excite into action"
+          },
+          {
+            "word": "harrowing",
+            "definition": "extremely distressing or painful"
+          },
+          {
+            "word": "burgeon",
+            "definition": "to rapidly increase in numbers or expand"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did the WHO declare about the Ebola epidemic?",
+            "options": [
+              "It was a joke",
+              "It was a public health emergency",
+              "It was under control"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How did healthcare professionals describe their conditions?",
+            "options": [
+              "Safe and comfortable",
+              "Harrowing",
+              "Fun and easy"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the emergency declaration emphasize?",
+            "options": [
+              "Response is the only issue",
+              "Only local health matters",
+              "Need for global health reforms"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Die Ebola-Epidemie",
+        "text": "Im Jahr 2014 gibt es Ebola in Westafrika. Die Krankheit beginnt im Dezember 2013. Viele Menschen werden krank. Die Weltgesundheitsorganisation ist wichtig. Sie sagt am 8. August 2014: Es ist ein Notfall. Viele Länder helfen. Die Menschen haben Angst. Die WHO arbeitet mit. Sie will die Epidemie stoppen. Viele Ärzte helfen in den Ländern. Die Menschen brauchen Medikamente und Pflege. Ebola ist sehr gefährlich und ansteckend. Die WHO hat viele Informationen. Sie gibt Sicherheitstipps für die Menschen. Die Organisation koordiniert die Hilfe. Es gibt auch Impfungen in der Entwicklung. Viele Leute hoffen auf eine Lösung. Die Welt sieht die Situation genau.",
+        "vocabulary": [
+          {
+            "word": "Medikamente",
+            "definition": "Hilfsmittel für die Gesundheit"
+          },
+          {
+            "word": "Pflege",
+            "definition": "Hilfe für kranke Menschen"
+          },
+          {
+            "word": "gefahrlich",
+            "definition": "nicht sicher, bringt Probleme"
+          },
+          {
+            "word": "ansteckend",
+            "definition": "kann andere krank machen"
+          },
+          {
+            "word": "Hoffnung",
+            "definition": "der Wunsch für gute Dinge"
+          },
+          {
+            "word": "Impfungen",
+            "definition": "Spritzen für Gesundheit"
+          },
+          {
+            "word": "Sicherheitstipps",
+            "definition": "Ratschläge für Sicherheit"
+          },
+          {
+            "word": "Organisation",
+            "definition": "Gruppe für einen bestimmten Zweck"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann beginnt die Ebola-Krankheit?",
+            "options": [
+              "Im Jahr 2010",
+              "Im Jahr 2013",
+              "Im Jahr 2014"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagt die WHO am 8. August 2014?",
+            "options": [
+              "Es ist ein Notfall",
+              "Es gibt keine Gefahr",
+              "Die Situation ist sicher"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was entwickelt die WHO für Ebola?",
+            "options": [
+              "Neue Lebensmittel",
+              "Impfungen",
+              "neue Schulen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Ebola in Westafrika",
+        "text": "Im Jahr 2014 erklärt die Weltgesundheitsorganisation einen Notfall. Dieser Notfall ist Ebola in Westafrika. Die Epidemie beginnt im Dezember 2013. Viele Menschen sind krank, und viele sterben. Es gibt große Angst in den betroffenen Ländern. Am 8. August 2014 sagt die WHO, dass die Situation sehr ernst ist. Die Organisation hilft den betroffenen Ländern, weil die Krise drastisch ist. Die WHO ist wichtig. Sie hat viele Aufgaben, und sie arbeitet mit anderen Organisationen zusammen. Viele Ärzte und Helfer sind vor Ort. Sie versuchen, die Krankheit zu stoppen und die Menschen zu unterstützen. Wissenschaftler suchen nach einem Impfstoff, weil sie die Krankheit besiegen wollen. Die Menschen sind besorgt, weil Ebola ansteckend ist. Die Epidemie breitet sich aus, und die WHO koordiniert die Hilfe. Es ist eine sehr schwierige Zeit für die Menschen in Westafrika, aber es gibt Hoffnung.",
+        "vocabulary": [
+          {
+            "word": "Notfall",
+            "definition": "Eine sehr ernste Situation, die sofortige Hilfe braucht."
+          },
+          {
+            "word": "Epidemie",
+            "definition": "Eine Krankheit, die in einer bestimmten Region sehr viele Menschen betrifft."
+          },
+          {
+            "word": "infizieren",
+            "definition": "Sich mit einer Krankheit anstecken."
+          },
+          {
+            "word": "Weltgesundheitsorganisation",
+            "definition": "Eine internationale Organisation, die sich um die Gesundheit kümmert."
+          },
+          {
+            "word": "Helfer",
+            "definition": "Menschen, die Hilfe in Notfällen anbieten."
+          },
+          {
+            "word": "Impfstoff",
+            "definition": "Ein Mittel, das gegen eine Krankheit schützt."
+          },
+          {
+            "word": "Unterstützung",
+            "definition": "Hilfe oder Beistand in schwierigen Zeiten."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann beginnt die Ebola-Epidemie?",
+            "options": [
+              "Im August 2014",
+              "Im Dezember 2013",
+              "Im September 2014"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was macht die WHO im Notfall?",
+            "options": [
+              "Sie ignoriert die Krise.",
+              "Sie hilft den betroffenen Ländern.",
+              "Sie schließt die Grenze."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum sind die Menschen besorgt?",
+            "options": [
+              "Weil der Impfstoff fertig ist.",
+              "Weil Ebola ansteckend ist.",
+              "Weil die Ärzte weg sind."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Die Ebola-Epidemie von 2014",
+        "text": "Am 8. August 2014 erklärt die Weltgesundheitsorganisation (WHO) die Ebola-Epidemie in Westafrika zu einem internationalen Notfall. Diese Epidemie beginnt im Dezember 2013 in Guinea und breitet sich schnell in mehreren Ländern aus. Zuerst trifft das Virus Sierra Leone und Liberia. Die Länder kämpfen mit den Folgen und versuchen, die Zahl der Infektionen zu reduzieren. Die WHO ist eine wichtige Organisation der Vereinten Nationen, die 1948 gegründet wurde. Ihre Aufgabe ist, die Gesundheit der Menschen weltweit zu verbessern und Krankheiten zu verhindern. Die WHO hat viele Experten, die sehr wichtig sind, weil sie wissen, wie man mit Epidemien umgeht. Sie hat auch einen Impfstoff entwickelt, der seit 2015 eingesetzt wird, um die Verbreitung der Krankheit zu stoppen. Die Epidemie hat nicht nur die Gesundheitssysteme geschwächt, sondern auch wirtschaftliche Schwierigkeiten verursacht. Viele Menschen haben Angst, infiziert zu werden, und bekämpfen ihre Sorgen. Wenn die WHO nicht schnell handelt, könnte die Krise sich weiter verschlimmern. Sie sorgt für internationale Zusammenarbeit, um Menschen zu helfen, die dringend medizinische Unterstützung benötigen. Viele Menschen setzen ihre Hoffnung auf diese Organisation und wünschen sich, dass bald eine Lösung gefunden wird. Die WHO fördert auch Aufklärungsarbeit, um das Wissen über die Krankheit zu erhöhen.",
+        "vocabulary": [
+          {
+            "word": "Epidemie",
+            "definition": "eine Krankheit, die viele Menschen in einem bestimmten Gebiet gleichzeitig betrifft."
+          },
+          {
+            "word": "notwendig",
+            "definition": "etwas, das man braucht oder braucht, um ein Problem zu lösen."
+          },
+          {
+            "word": "Zusammenarbeit",
+            "definition": "wenn Menschen oder Organisationen zusammenarbeiten, um ein gemeinsames Ziel zu erreichen."
+          },
+          {
+            "word": "Hilfe",
+            "definition": "Unterstützung oder Unterstützung, die jemand braucht."
+          },
+          {
+            "word": "Angst",
+            "definition": "ein starkes Gefühl der Besorgnis oder Furcht vor einer Sache."
+          },
+          {
+            "word": "Virus",
+            "definition": "eine sehr kleine Krankheitserreger, die Menschen und Tiere krank machen kann."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann erklärte die WHO die Ebola-Epidemie zu einem internationalen Notfall?",
+            "options": [
+              "Am 1. September 2014",
+              "Am 8. August 2014",
+              "Im Dezember 2013"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "In welchem Land begann die Ebola-Epidemie?",
+            "options": [
+              "In Liberia",
+              "In Guinea",
+              "In Sierra Leone"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat die WHO entwickelt, um die Verbreitung von Ebola zu stoppen?",
+            "options": [
+              "Ein Medikament",
+              "Einen Impfstoff",
+              "Ein Heilmittel"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Ebola-Epidemie wird zur internationalen Notlage erklärt",
+        "text": "Am 8. August 2014 erklärte die Weltgesundheitsorganisation (WHO) die Ebola-Epidemie in Westafrika, die im Dezember 2013 begann, für eine internationale Notlage im Bereich der öffentlichen Gesundheit. Obwohl die Epidemie bereits zahlreiche Todesfälle verursacht hatte, wurde dieser Schritt notwendig, da sich das Virus schnell über die Grenzen hinaus ausbreitete. Die WHO, eine specialized Agency der Vereinten Nationen, ist verantwortlich für die Koordination internationaler Gesundheitsprojekte. Ihre Hauptaufgabe besteht darin, die Gesundheit weltweit zu fördern, was durch die Bereitstellung von Techniken und Standards geschieht. Der WHO wurde jedoch zunehmend bewusst, dass sie in dieser Krise nicht nur Informationen verbreiten, sondern auch aktiv Maßnahmen ergreifen musste. In der Folge wurden internationale Hilfsaktionen initiiert, um betroffenen Ländern Unterstützung zu bieten. Hätte die WHO nicht schnell reagiert, hätte die Epidemie weitreichendere Konsequenzen haben können, nicht nur für die betroffenen Nationen, sondern auch für die globale Gesellschaft insgesamt. Solche Erfahrungen zeigen, wie essenziell internationale Zusammenarbeit und schnelle Maßnahmen sind, um die Ausbreitung von Epidemien zu kontrollieren.",
+        "vocabulary": [
+          {
+            "word": "erklären",
+            "definition": "jemandem etwas sagen, damit er es versteht"
+          },
+          {
+            "word": "Notlage",
+            "definition": "eine schwierige oder gefährliche Situation"
+          },
+          {
+            "word": "Gesundheit",
+            "definition": "der Zustand, gesund zu sein"
+          },
+          {
+            "word": "Epidemie",
+            "definition": "eine Krankheit, die viele Menschen gleichzeitig betrifft"
+          },
+          {
+            "word": "koordinieren",
+            "definition": "Planung und Organisation von Aktivitäten"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde die Ebola-Epidemie zur internationalen Notlage erklärt?",
+            "options": [
+              "Am 1. September 2014",
+              "Am 1. August 2014",
+              "Am 8. August 2014"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wer ist für die Koordination der internationalen Gesundheitsprojekte verantwortlich?",
+            "options": [
+              "Die WHO",
+              "Die UN",
+              "Die EU"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Warum war die Erklärung einer Notlage notwendig?",
+            "options": [
+              "Weil das Virus sich schnell ausbreitete",
+              "Weil es keine Medikamente gab",
+              "Weil die Menschen nicht informiert waren"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Die Ebola-Epidemie und ihre internationale Relevanz",
+        "text": "Am 8. August 2014 verkündete die Weltgesundheitsorganisation (WHO), dass die Ebola-Epidemie in Westafrika, die im Dezember 2013 ihren Anfang nahm, als internationale Notlage im Bereich der öffentlichen Gesundheit eingestuft wurde. Angesichts der gravierenden Auswirkungen, die die Epidemie auf die betroffenen Länder hatte, wurde dieser Schritt als unvermeidlich erachtet. Die WHO, mit Sitz in Genf und einem umfassenden Netzwerk an regionalen Büros, spielt eine zentrale Rolle in der globalen Gesundheitsarchitektur. Ihr erklärte Ziel ist es, den Gesundheitszustand der Weltbevölkerung zu verbessern und die Anforderungen an aktuelle Gesundheitskrisen zu bewältigen. Daher initiierte die Organisation das sogenannte „Ebolastellungnahme-Projekt“, um Maßnahmen zu koordinieren und technische Hilfe bereitzustellen, insbesondere für die schwer betroffenen Länder wie Sierra Leone und Liberia. Zugleich stellte die WHO fest, dass, hätte sie nicht rasch gehandelt, zahlreiche zusätzliche Infektionen möglich gewesen wären, was die kritische Notwendigkeit proaktiver Maßnahmen unterstreicht. Diese Krise verdeutlicht, inwiefern internationale Solidarität und eine innovative Herangehensweise an Gesundheitsstrategien entscheidend sind, um Epidemien einzudämmen und die Risiken für die globale Gemeinschaft zu minimieren. Der internationale Austausch von Wissen und Ressourcen erweist sich als unerlässlich, um die Verbreitung solcher Krankheiten nachhaltig zu verhindern. Infolgedessen werden Fragen der globalen Gesundheitspolitik und die Rolle internationaler Zusammenarbeit von entscheidender Bedeutung, um ähnliche Herausforderungen in der Zukunft besser bewältigen zu können.",
+        "vocabulary": [
+          {
+            "word": "internationale Notlage",
+            "definition": "eine Situation, die sofortige Aufmerksamkeit und Maßnahmen auf globaler Ebene erfordert."
+          },
+          {
+            "word": "eindämmen",
+            "definition": "bewirken, dass etwas nicht weiter zunimmt oder sich nicht weiter ausbreitet."
+          },
+          {
+            "word": "Solidarität",
+            "definition": "Einigkeit und Unterstützung in einer gemeinschaftlichen Zielsetzung oder während einer Krise."
+          },
+          {
+            "word": "proaktiv",
+            "definition": "handeln, bevor Probleme auftreten, um deren Entstehung zu verhindern."
+          },
+          {
+            "word": "technische Hilfe",
+            "definition": "Unterstützung, die Fachwissen und Technologien zur Verfügung stellt."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde die Ebola-Epidemie von der WHO als internationale Notlage eingestuft?",
+            "options": [
+              "8. August 2014",
+              "1. September 1948",
+              "7. April 1948"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was war eines der Hauptziele der WHO während der Ebola-Epidemie?",
+            "options": [
+              "Technische Hilfe bereitstellen",
+              "Gesundheitskosten senken",
+              "Epidemien verbreiten"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Land war während der Ebola-Epidemie stark betroffen?",
+            "options": [
+              "Deutschland",
+              "Sierra Leone",
+              "Schweiz"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Ebolakrise 2014: Die WHO und die internationale Gesundheitsgemeinschaft",
+        "text": "Mit der Erklärung vom 8. August 2014, dass die Ebola-Epidemie in Westafrika eine internationale Notlage darstellt, setzte die Weltgesundheitsorganisation (WHO) einen dynamischen Prozess in Gang, der nicht nur die unmittelbare Reaktion auf die Krise, sondern auch die langfristigen Strategien zur Bekämpfung künftiger Epidemien umfasste. Dieses Bekenntnis zur globalen Gesundheitssicherheit zeigte exemplarisch, wie die WHO, als eine zentrale Behörde im Gefüge der internationalen Gesundheitsarchitektur, agieren kann, wenn sich Bedrohungen der öffentlichen Gesundheit abzeichnen. Die WHO, die seit ihrer Gründung im Jahr 1948 eine Schlüsselrolle bei der Bekämpfung von Epidemien gespielt hat, fordert Maßnahmen, die nicht nur reaktiv sind, sondern auch präventiven Charakter besitzen. In diesem Kontext wurde auch die Notwendigkeit betont, dass die internationale Gemeinschaft sich nicht nur auf kurzfristige Lösungen fokussiert, sondern proaktive Ansätze verfolgt und Wissensaustausch fördert. Schließlich lässt sich festhalten, dass die Ebolakrise nicht nur als ein spezifisches Ereignis, sondern als eindringliche Warnung verstanden werden sollte, die zeigt, wie zerbrechlich die globale Gesundheitsstruktur ist. Eine kollektive Verantwortung und engagierte Zusammenarbeit sind unabdingbar, um die Herausforderungen der gegenwärtigen und zukünftigen Gesundheitsbedrohungen zu bewältigen.",
+        "vocabulary": [
+          {
+            "word": "dynamisch",
+            "definition": "lebendig, aktiv und ständig im Wandel"
+          },
+          {
+            "word": "Bekenntnis",
+            "definition": "eine öffentliche Erklärung oder Zusage"
+          },
+          {
+            "word": "praeventiv",
+            "definition": "vorbeugend, um etwas zu verhindern"
+          },
+          {
+            "word": "eindringlich",
+            "definition": "sehr deutlich und ernst"
+          },
+          {
+            "word": "kollektiv",
+            "definition": "gemeinsam, als Gruppe"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was wurde am 8. August 2014 erklärt?",
+            "options": [
+              "Die Ebola-Epidemie ist beendet",
+              "Die Ebola-Epidemie ist eine Notlage",
+              "Die WHO wird aufgelöst"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Rolle hat die WHO bei Epidemien?",
+            "options": [
+              "Eine passive Rolle",
+              "Eine Schlüsselrolle",
+              "Eine unwichtige Rolle"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie sollte die internationale Gemeinschaft auf Gesundheitsbedrohungen reagieren?",
+            "options": [
+              "Mit kurzfristigen Lösungen",
+              "Mit kollektiver Verantwortung",
+              "Mit keiner Reaktion"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "L'épidémie d'Ebola en Afrique de l'Ouest",
+        "text": "En décembre deux mille treize, Ebola commence en Afrique de l'Ouest. C'est une maladie très grave. Les gens sont malades et ils ont peur. Le huit août deux mille quatorze, l'Organisation mondiale de la santé déclare une urgence. L'urgence est triste. Beaucoup de personnes ont besoin d'aide. L'Organisation veut aider les pays. Ils ont une grande tâche. Les médecins et les secours travaillent beaucoup. C'est important pour la santé de tous les gens.",
+        "vocabulary": [
+          {
+            "word": "urgence",
+            "definition": "une situation très sérieuse"
+          },
+          {
+            "word": "maladie",
+            "definition": "quelque chose qui rend les gens malades"
+          },
+          {
+            "word": "médicins",
+            "definition": "les gens qui soignent les malades"
+          },
+          {
+            "word": "aider",
+            "definition": "donner de l'aide"
+          },
+          {
+            "word": "santé",
+            "definition": "l'état du corps et de l'esprit"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand commence Ebola ?",
+            "options": [
+              "En août 2014",
+              "En décembre 2013",
+              "En janvier 2014"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui déclare une urgence ?",
+            "options": [
+              "Les médecins",
+              "L'Organisation mondiale de la santé",
+              "Les gouvernements"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Ebola est quoi ?",
+            "options": [
+              "Une personne",
+              "Une maladie",
+              "Un pays"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "L'épidémie d'Ebola en Afrique de l'Ouest",
+        "text": "En décembre deux mille treize, l'épidémie d'Ebola commence en Afrique de l'Ouest. Cette maladie affecte beaucoup de personnes et elle se propage rapidement. Les malades ont des symptômes graves comme de la fièvre, des vomissements, et des douleurs. Le huit août deux mille quatorze, l'Organisation mondiale de la santé déclare une urgence de santé publique. Cette déclaration attire l'attention du monde entier parce que l'épidémie est rapide et dangereuse. L'Organisation veut protéger les gens et aider les pays touchés. Les médecins, les infirmiers et les secours vont travailler ensemble pour lutter contre la maladie. Ils vont donner des soins aux malades et vont informer la population sur la prévention. Mais les malades ont besoin d'aide partout en Afrique de l'Ouest. Les pays doivent agir vite et bien s'organiser pour contrôler la situation. Les communautés apprennent aussi comment se protéger et éviter la contagion.",
+        "vocabulary": [
+          {
+            "word": "urgence",
+            "definition": "situation d'extrême gravité qui nécessite une action rapide."
+          },
+          {
+            "word": "symptômes",
+            "definition": "signes de maladie que ressent le patient."
+          },
+          {
+            "word": "prévention",
+            "definition": "mesures à prendre pour éviter la survenue d'une maladie."
+          },
+          {
+            "word": "communauté",
+            "definition": "groupe de personnes vivant dans une même région."
+          },
+          {
+            "word": "formation",
+            "definition": "action d’enseigner ou de former des personnes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand l'Organisation mondiale de la santé déclare-t-elle l'urgence ?",
+            "options": [
+              "En janvier deux mille quatorze",
+              "Le huit août deux mille quatorze",
+              "En décembre deux mille treize"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels symptômes les malades d'Ebola ont-ils ?",
+            "options": [
+              "Les malades ont de la toux et des maux de tête",
+              "Les malades ont de la fièvre et des douleurs",
+              "Les malades n'ont aucun symptôme"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que vont faire les médecins et les infirmiers ?",
+            "options": [
+              "Ils vont donner des soins aux malades",
+              "Ils vont voyager dans le monde",
+              "Ils vont se reposer"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Déclaration d'urgence de l'OMS pour Ebola",
+        "text": "En décembre deux mille treize, une épidémie d'Ebola commence en Afrique de l'Ouest. Cette maladie contagieuse cause beaucoup de souffrances. Les personnes infectées ont des symptômes graves, notamment de la fièvre, des vomissements et des saignements. Ce virus se propage rapidement, surtout dans les régions avec des systèmes de santé faibles. Le huit août deux mille quatorze, l'Organisation mondiale de la santé (OMS) déclare une urgence de santé publique de portée internationale. Cette déclaration est très importante car elle attire l'attention des gouvernements et des organisations du monde entier. L'OMS, qui a été fondée en mille neuf quarante-huit, veut coordonner les efforts pour contrôler l'épidémie. Elle demande de l'aide aux pays touchés par le virus, ainsi qu'aux donateurs internationaux. Les médecins et les travailleurs de la santé, qui se sont rassemblés pour cette cause, travaillent ensemble pour soigner les malades et limiter la propagation. Ils mettent en place des campagnes pour éduquer les populations sur les mesures de prévention contre la maladie. Si les mesures ne sont pas prises rapidement, l'épidémie peut s'aggraver et faire encore plus de victimes. La lutte contre Ebola devient une priorité mondiale. Cela montre que, pour protéger les gens, la coopération internationale est essentielle. Chacun doit être conscient des risques et des moyens de se protéger.",
+        "vocabulary": [
+          {
+            "word": "contagieux",
+            "definition": "qui se transmet facilement d'une personne à une autre, comme certaines maladies."
+          },
+          {
+            "word": "symptômes",
+            "definition": "les signes ou manifestations d'une maladie, comme la fièvre ou les douleurs."
+          },
+          {
+            "word": "prévention",
+            "definition": "les actions prises pour éviter une maladie ou un problème."
+          },
+          {
+            "word": "coopération",
+            "definition": "travailler ensemble pour atteindre un but commun."
+          },
+          {
+            "word": "victimes",
+            "definition": "les personnes qui souffrent à cause d'un événement négatif ou dangereux."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand l'OMS a-t-elle déclaré l'urgence de santé publique ?",
+            "options": [
+              "En avril deux mille quatorze",
+              "En août deux mille quatorze",
+              "En septembre deux mille quatorze"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quels symptômes les personnes infectées par le virus Ebola peuvent-elles avoir ?",
+            "options": [
+              "Des symptômes légers",
+              "Des symptômes graves",
+              "Aucun symptôme"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi la coopération internationale est-elle importante dans la lutte contre Ebola ?",
+            "options": [
+              "Parce que les vaccins sont faciles à produire",
+              "Pour protéger les gens efficacement",
+              "Parce que c'est une maladie sans danger"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Déclaration de l'épidémie d'Ebola en Afrique de l'Ouest",
+        "text": "Le 8 août 2014, l'Organisation mondiale de la santé (OMS) a déclaré l'épidémie d'Ebola en Afrique de l'Ouest comme une urgence de santé publique de portée internationale. Cette décision, qui avait été anticipée par plusieurs spécialistes, visait à mobiliser davantage de ressources et à renforcer la coordination des efforts des États membres pour lutter contre la propagation de ce virus mortel. Depuis son apparition en décembre 2013, l'épidémie avait déjà causé des milliers d'infections, suscitant des inquiétudes croissantes au sein de la communauté internationale. Bien que l'OMS ait déjà pris des mesures significatives pour faire face à la situation, les défis logistiques, le manque de personnel formé et les infrastructures fragiles ont compliqué la réponse. Il était donc impératif que les pays collaborent étroitement afin de contrôler la maladie et d'éviter une propagation encore plus large. La déclaration de l'OMS a également permis d'augmenter le financement et le soutien technique, ce qui a été crucial pour les interventions ultérieures. En somme, cette déclaration a marqué un tournant dans la lutte contre l'Ebola et a souligné l'importance d'une coopération mondiale face aux crises sanitaires.",
+        "vocabulary": [
+          {
+            "word": "urgence",
+            "definition": "situation qui nécessite une action immédiate"
+          },
+          {
+            "word": "propagation",
+            "definition": "le fait de se diffuser ou de se répandre"
+          },
+          {
+            "word": "mobiliser",
+            "definition": "rassembler des ressources ou des personnes pour une action"
+          },
+          {
+            "word": "infrastructure",
+            "definition": "les systèmes et les structures qui soutiennent une organisation"
+          },
+          {
+            "word": "coopération",
+            "definition": "travail ensemble pour atteindre un but commun"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand l'OMS a-t-elle déclaré l'épidémie d'Ebola ?",
+            "options": [
+              "Le 8 août 2014",
+              "En décembre 2013",
+              "En septembre 2014"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi l'OMS a-t-elle déclaré une urgence de santé publique ?",
+            "options": [
+              "Pour gérer les ressources",
+              "Pour fermer les établissements de santé",
+              "Pour arrêter les recherches"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel était le principal défi pour lutter contre l'Ebola ?",
+            "options": [
+              "Manque d'informations",
+              "Manque de personnel formé",
+              "Manque de personnes infectées"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La déclaration de l'épidémie d'Ebola en Afrique de l'Ouest : un appel à l'action",
+        "text": "Le 8 août 2014, l'Organisation mondiale de la santé (OMS) a officiellement qualifié l'épidémie d'Ebola en Afrique de l'Ouest d'urgence de santé publique de portée internationale. Cet événement sans précédent, qui avait débuté en décembre 2013, a exposé des lacunes majeures dans la préparation et la réaction des systèmes de santé mondiale. Dès le départ, l'OMS s'est rendue compte que l'épidémie ne pouvait être contenue sans une action collective et concertée des États membres. Bien que l'organisation ait tenté de coordonner les efforts, il est apparu que des défis logistiques et des ressources insuffisantes entravaient une réponse efficace. Par conséquent, la déclaration a revêtu une importance cruciale car elle a permis de canaliser des financements et des expertises vers les pays touchés. Ainsi, alors que l'épidémie continuait de se propager, cette reconnaissance internationale fut essentielle pour catalyser une volonté politique déterminée et des interventions plus substantielles, contribuant ainsi à des efforts futurs de prévention non seulement contre l'Ebola, mais aussi contre d'autres crises sanitaires mondiales.",
+        "vocabulary": [
+          {
+            "word": "qualifier",
+            "definition": "décrire ou identifier quelque chose de manière précise"
+          },
+          {
+            "word": "réaction",
+            "definition": "la réponse ou le comportement face à une situation"
+          },
+          {
+            "word": "concertée",
+            "definition": "organisée de manière commune ou collaborative"
+          },
+          {
+            "word": "entraver",
+            "definition": "rendre difficile ou empêcher quelque chose"
+          },
+          {
+            "word": "catalyser",
+            "definition": "accélérer un processus ou provoquer un changement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi l'OMS a-t-elle déclaré l'épidémie d'Ebola d'urgence ?",
+            "options": [
+              "Pour organiser des conférences",
+              "Pour lancer des actions collectives",
+              "Pour éviter les voyages"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel a été un enjeu important lors de la crise Ebola ?",
+            "options": [
+              "Le nombre de médicaments",
+              "Les ressources logistiques",
+              "La diminution des cas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel était l'effet de la déclaration de l'OMS ?",
+            "options": [
+              "Canaliser des financements",
+              "Fermer les frontières",
+              "Diminuer les infections"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "L'épidémie d'Ebola en Afrique de l'Ouest : un tournant dans la santé publique mondiale",
+        "text": "Le 8 août 2014, l'Organisation mondiale de la santé (OMS) a déclaré l'épidémie d'Ebola en Afrique de l'Ouest comme une urgence de santé publique d'intérêt international, une proclamation qui a résonné à travers le monde. Ce tournant, survenu après des mois de méfiance face à la gravité de la situation, a révélé non seulement les faiblesses structurelles des systèmes de santé dans de nombreux pays, mais a également mis en exergue la nécessité d'une coopération internationale authentique en matière de santé publique. Alors que l'épidémie, déclenchée en décembre 2013, gagnait en ampleur, l'OMS a compris que son rôle ne pouvait se limiter à observer : il lui fallait agir inéluctablement. Dès lors, par cette déclaration choc, elle a suscité une mobilisation inédite des ressources et a incité les États membres à engager une réaction unifiée et rapide. Par conséquent, l'annonce de l'OMS ne fut pas simplement une mesure administrative, mais un cristallisateur de volonté politique et un appel vibrant à la solidarité internationale pour faire face à une menace sanitaire sans précédent. En réfléchissant aux enseignements de cette crise, l'OMS et la communauté internationale ont été confrontées à la réalité d'une santé interconnectée, soulignant ainsi l'importance d'une vigilance continue et d'un engagement inébranlable face aux défis mondiaux futurs.",
+        "vocabulary": [
+          {
+            "word": "proclamation",
+            "definition": "déclaration publique importante"
+          },
+          {
+            "word": "méfiance",
+            "definition": "sentiment de doute ou de suspicion"
+          },
+          {
+            "word": "exergue",
+            "definition": "mettre en avant, souligner"
+          },
+          {
+            "word": "inévitablement",
+            "definition": "qui ne peut être évité"
+          },
+          {
+            "word": "cristallisateur",
+            "definition": "élément qui favorise l'émergence de quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel impact a eu la déclaration de l'OMS sur les ressources ?",
+            "options": [
+              "Mobilisation massive",
+              "Diminution des financements",
+              "Aucune réaction"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi la déclaration a-t-elle été cruciale pour l'OMS ?",
+            "options": [
+              "Elle a permis d'observer",
+              "Elle a nécessité une action prompte",
+              "Elle a encouragé l'immobilisme"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel enseignement principal cette crise a-t-elle révélé ?",
+            "options": [
+              "L'importance de la solitude",
+              "La santé interconnectée",
+              "La fin des épidémies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Ebola en África Occidental",
+        "text": "En 2014, hay un problema grande. Este problema es el Ebola. El Ebola es una enfermedad grave. La Organización Mundial de la Salud (OMS) es muy importante. Ellos dicen que el Ebola es una emergencia. Es una emergencia para la salud de muchas personas. Este problema empieza en diciembre de 2013 en África. Muchas personas están muy preocupadas por la situación. La OMS ayuda a los países en África. Ellos ayudan con la información y los recursos. La OMS tiene un papel grande para controlar el Ebola. Muchas personas pueden enfermarse y necesitan ayuda rápida. La salud de todos es muy importante.",
+        "vocabulary": [
+          {
+            "word": "emergencia",
+            "definition": "situación crítica que necesita atención rápida."
+          },
+          {
+            "word": "información",
+            "definition": "datos o hechos sobre un tema."
+          },
+          {
+            "word": "recursos",
+            "definition": "cosas o herramientas que ayudan en una situación."
+          },
+          {
+            "word": "controlar",
+            "definition": "tener poder sobre algo para manejarlo."
+          },
+          {
+            "word": "salud",
+            "definition": "estado de bienestar físico, mental y social."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuál es el problema en 2014?",
+            "options": [
+              "El Ebola",
+              "El VIH",
+              "La malaria"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué ayuda la OMS a los países?",
+            "options": [
+              "Con dinero",
+              "Con información y recursos",
+              "Con comida"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuándo empieza el problema del Ebola?",
+            "options": [
+              "En diciembre de 2012",
+              "En diciembre de 2013",
+              "En enero de 2014"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "El Ebola y la OMS",
+        "text": "El 8 de agosto de 2014, la Organización Mundial de la Salud (OMS) declara el Ebola en África como una emergencia de salud importante. Este brote de Ebola empieza en diciembre de 2013. Muchas personas están muy enfermas y unos 11,000 mueren. La OMS es muy importante porque ayuda a muchos países a controlar crisis de salud. Ellos dan información y recursos para combatir el problema. La OMS cree que es urgente hacer una acción rápida y decidida. Por eso, ellos van a ayudar con medicina, prevención y educación sobre el Ebola. El Ebola causa mucho miedo y preocupación. La OMS trabaja con gobiernos, médicos y organizaciones en todo el mundo. Juntos, quieren proteger a las personas y reducir el virus. Además, la OMS pone atención en los países más vulnerables. La epidemia demuestra la importancia de la ayuda global y la cooperación internacional en salud.",
+        "vocabulary": [
+          {
+            "word": "epidemia",
+            "definition": "un aumento repentino de enfermedades en una población"
+          },
+          {
+            "word": "salud",
+            "definition": "el estado de estar libre de enfermedades"
+          },
+          {
+            "word": "virus",
+            "definition": "un microorganismo que causa enfermedades"
+          },
+          {
+            "word": "vulnerable",
+            "definition": "sujeto a ser herido o afectado"
+          },
+          {
+            "word": "cooperación",
+            "definition": "trabajo conjunto entre personas o entidades para un objetivo común"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué declaró la OMS el 8 de agosto de 2014?",
+            "options": [
+              "Una enfermedad nueva",
+              "Una emergencia de salud",
+              "Un nuevo virus"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántas personas murieron por Ebola aproximadamente?",
+            "options": [
+              "11,000",
+              "1,000",
+              "100,000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Con quién trabaja la OMS?",
+            "options": [
+              "Solo con médicos",
+              "Gobiernos, médicos y organizaciones",
+              "Solo con gobiernos"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "La Epidemia de Ebola en África Occidental",
+        "text": "El 8 de agosto de 2014, la Organización Mundial de la Salud (OMS) declara que la epidemia de Ebola en África Occidental es una emergencia de salud pública internacional. Este brote comenzó en diciembre de 2013 y afectó a muchos países como Guinea, Liberia y Sierra Leona. La epidemia se propagó rápidamente y, aunque muchos gobiernos estaban preparados para emergencias, la gravedad del virus superó sus recursos. La OMS, que es parte de las Naciones Unidas, trabaja para proteger la salud de todas las personas. Durante esta epidemia, muchas personas se enfermaron gravemente y algunas murieron. Si la OMS no hubiera intervenido, la situación podría haber sido mucho peor. La OMS utiliza sus recursos para ayudar a los gobiernos con tratamientos y medidas de prevención. Esta cooperación es fundamental porque el virus se propaga fácilmente entre las comunidades. Hasta ahora, la OMS ha tenido éxito en el control de otras enfermedades, como la viruela. Su experiencia es esencial en esta crisis de salud. La cooperación internacional puede hacer una gran diferencia en la lucha contra el Ebola. Además, desde esta epidemia, la OMS ha trabajado en el desarrollo de una vacuna, lo que es vital para prevenir futuros brotes de Ebola.",
+        "vocabulary": [
+          {
+            "word": "brote",
+            "definition": "la aparición repentina y rápida de una enfermedad."
+          },
+          {
+            "word": "propagar",
+            "definition": "hacer que algo se extienda o se difunda."
+          },
+          {
+            "word": "emergencia",
+            "definition": "una situación crítica que necesita acción rápida."
+          },
+          {
+            "word": "vacuna",
+            "definition": "una sustancia que protege contra enfermedades."
+          },
+          {
+            "word": "cooperación",
+            "definition": "trabajar juntos para lograr un objetivo común."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo declara la OMS la epidemia de Ebola como emergencia?",
+            "options": [
+              "8 de agosto de 2014",
+              "diciembre de 2013",
+              "8 de septiembre de 2014"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué países fueron afectados por el brote de Ebola?",
+            "options": [
+              "Guinea, Liberia y Sierra Leona",
+              "México, Brasil y Argentina",
+              "Egipto, Nigeria y Sudáfrica"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué ha desarrollado la OMS para prevenir futuros brotes de Ebola?",
+            "options": [
+              "Un medicamento para el dolor",
+              "Una vacuna",
+              "Un nuevo tratamiento para el cáncer"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "La epidemia de Ébola en África Occidental",
+        "text": "El 8 de agosto de 2014, la Organización Mundial de la Salud (OMS) declaró que la epidemia de Ébola en África Occidental, que había comenzado en diciembre de 2013, constituía una emergencia de salud pública de preocupación internacional. Esta declaración fue fundamental, ya que marcó un punto de inflexión en la respuesta global ante una crisis sanitaria. A pesar de los esfuerzos previos, el brote se había propagado rápidamente, afectando a varios países, lo que generó un aumento de la preocupación mundial. La OMS, que tiene su sede en Ginebra y coordina las respuestas a problemas de salud a nivel internacional, reconoció que era crucial implementar medidas urgentes. Desde este momento, se organizaron recursos globales para brindar asistencia a las naciones afectadas. La declaración alertó a gobiernos y organizaciones no gubernamentales, enfatizando la necesidad de cooperación internacional para contener la enfermedad. En consecuencia, se intensificó la investigación sobre tratamientos y vacunas contra el Ébola, lo que preparó el camino para futuras intervenciones sanitarias. En resumen, la declaración de la OMS no solo evidenció la gravedad del brote, sino que también planteó la necesidad de una respuesta unificada y efectiva frente a emergencias de salud pública. ",
+        "vocabulary": [
+          {
+            "word": "epidemia",
+            "definition": "enfermedad que afecta a muchas personas en una región"
+          },
+          {
+            "word": "emergencia",
+            "definition": "situación crítica que requiere acción inmediata"
+          },
+          {
+            "word": "cooperación",
+            "definition": "trabajo conjunto entre varias personas o grupos"
+          },
+          {
+            "word": "contener",
+            "definition": "detener el avance de algo, en este caso una enfermedad"
+          },
+          {
+            "word": "asistencia",
+            "definition": "ayuda o apoyo en una situación"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo declaró la OMS la epidemia de Ébola como emergencia?",
+            "options": [
+              "8 de agosto de 2014",
+              "diciembre de 2013",
+              "mayo de 2015"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Dónde tiene su sede la OMS?",
+            "options": [
+              "En África",
+              "En Ginebra",
+              "En Nueva York"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál fue la consecuencia de la declaración de la OMS?",
+            "options": [
+              "Se cancelaron investigaciones",
+              "Se intensificaron los recursos globales",
+              "No pasó nada"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Declaración de Emergencia de Salud Pública por el Ébola",
+        "text": "El 8 de agosto de 2014, la Organización Mundial de la Salud (OMS) proclamó que la epidemia de Ébola en África Occidental, iniciada en diciembre de 2013, representaba una emergencia de salud pública de importancia internacional. La magnitud de la crisis, caracterizada por su rápida expansión y el efecto devastador en países como Liberia y Sierra Leona, impulsó a la OMS a pronunciarse de forma contundente. Dada la situación alarmante, se hizo evidente que solo a través de un enfoque global y coordinado se podría mitigar el impacto del virus. En este contexto, la OMS no solo movilizó asistencia técnica y recursos, sino que también exhortó a Estados miembros y organizaciones no gubernamentales a colaborar de manera sistemática. Este llamado a la acción fue fundamental, ya que facilitó la implementación de estrategias de contención y el desarrollo acelerado de una vacuna. A pesar de las dificultades, estas intervenciones marcaron un antes y un después en la gestión de crisis sanitarias a nivel mundial, redefiniendo así la forma en que se abordan los brotes epidémicos en la actualidad. La declaración no solo ilustró la gravedad del brote, sino que además evidenció la necesidad imperiosa de un compromiso internacional en cuestiones de salud pública.",
+        "vocabulary": [
+          {
+            "word": "magnitud",
+            "definition": "grandeza o extensión de algo"
+          },
+          {
+            "word": "crisis",
+            "definition": "momento difícil o decisivo en un proceso"
+          },
+          {
+            "word": "mitigar",
+            "definition": "reducir la gravedad de algo"
+          },
+          {
+            "word": "movilizar",
+            "definition": "organizar y poner en acción recursos"
+          },
+          {
+            "word": "intervención",
+            "definition": "acción que se toma para mejorar una situación"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué proclamó la OMS el 8 de agosto de 2014?",
+            "options": [
+              "Un fracaso en la salud",
+              "Una emergencia por el Ébola",
+              "Un nuevo tratamiento"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál fue una consecuencia de la declaración de la OMS?",
+            "options": [
+              "Desapareció el Ébola",
+              "Se movilizaron recursos internacionales",
+              "No hubo cambios"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué países se vieron particularmente afectados por el virus?",
+            "options": [
+              "Alemania y Francia",
+              "Liberia y Sierra Leona",
+              "China y Japón"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "El brote de Ébola de 2014: Un desafío global sin precedentes",
+        "text": "El 8 de agosto de 2014, la Organización Mundial de la Salud (OMS) emitió una declaración en la que categorizó la epidemia de Ébola en África Occidental, iniciada en diciembre de 2013, como emergencia de salud pública de interés internacional. Esta decisión no solo reveló la extremada vulnerabilidad de los sistemas de salud regionales ante un virus altamente contagioso, sino que también evidenció la interdependencia global en la gestión de crisis sanitarias. A pesar de que la OMS había implementado estrategias preventivas y de control en años anteriores, la magnitud del brote llevó a la organización a replantear sus procedimientos. Se enfatizó la urgencia de un esfuerzo coordinado donde la colaboración entre naciones y entidades no gubernamentales se convirtiera en un eje central. En consecuencia, el llamado a abordar la epidemia generó un flujo sin precedentes de asistencia humanitaria y recursos, que a la postre facilitaron el desarrollo de tratamientos y protocolos de vacunación eficientes. Esta experiencia, aunque trágica, transformó radicalmente la política de respuesta ante emergencias de salud, estableciendo precedentes sobre la importancia de una colaboración internacional robusta y solidaria frente a futuros desastres sanitarios. Así, el impacto perdurable de esta crisis ha influido en el discurso global sobre salud pública, instando a la comunidad internacional a prepararse adecuadamente para contingencias similares.",
+        "vocabulary": [
+          {
+            "word": "categorizar",
+            "definition": "clasificar o poner en una categoría específica"
+          },
+          {
+            "word": "interdependencia",
+            "definition": "dependencia mutua entre entidades o países"
+          },
+          {
+            "word": "procedimientos",
+            "definition": "conjunto de pasos a seguir para lograr un objetivo"
+          },
+          {
+            "word": "asistencia humanitaria",
+            "definition": "ayuda a personas en situaciones de crisis"
+          },
+          {
+            "word": "precedentes",
+            "definition": "eventos anteriores que establecen un modelo a seguir"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué categorizó la OMS el 8 de agosto de 2014?",
+            "options": [
+              "Un nuevo virus",
+              "Una emergencia de salud pública",
+              "Un tratamiento exitoso"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál fue una consecuencia del brote de Ébola?",
+            "options": [
+              "Desarrollo de vacunas",
+              "Detención del virus",
+              "Menor atención médica"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué transformó esta crisis en la política de respuesta?",
+            "options": [
+              "El enfoque individual de los países",
+              "La colaboración internacional",
+              "La denuncia de la OMS"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "die": "the",
+      "ebola-epidemie": "ebola epidemic",
+      "im": "in the",
+      "jahr": "year",
+      "gibt": "gives",
+      "es": "it",
+      "ebola": "ebola",
+      "in": "in",
+      "westafrika": "West Africa",
+      "krankheit": "disease",
+      "beginnt": "begins",
+      "dezember": "december",
+      "viele": "many",
+      "menschen": "people",
+      "werden": "will",
+      "krank": "sick",
+      "weltgesundheitsorganisation": "world health organization",
+      "ist": "is",
+      "wichtig": "important",
+      "sie": "they",
+      "sagt": "says",
+      "am": "at the",
+      "august": "August",
+      "ein": "a",
+      "notfall": "emergency",
+      "länder": "countries",
+      "helfen": "to help",
+      "haben": "to have",
+      "angst": "fear",
+      "who": "who",
+      "arbeitet": "works",
+      "mit": "with",
+      "will": "wants",
+      "epidemie": "epidemic",
+      "stoppen": "to stop",
+      "ärzte": "doctors",
+      "den": "the",
+      "ländern": "countries",
+      "brauchen": "to need",
+      "medikamente": "medications",
+      "und": "and",
+      "pflege": "care",
+      "sehr": "very",
+      "gefährlich": "dangerous",
+      "ansteckend": "contagious",
+      "hat": "has",
+      "informationen": "information",
+      "sicherheitstipps": "safety tips",
+      "für": "for",
+      "organisation": "organization",
+      "koordiniert": "coordinated",
+      "hilfe": "help",
+      "auch": "also",
+      "impfungen": "vaccinations",
+      "der": "the",
+      "entwicklung": "development",
+      "leute": "people",
+      "hoffen": "to hope",
+      "auf": "to",
+      "eine": "a",
+      "lösung": "solution",
+      "welt": "world",
+      "sieht": "sees",
+      "situation": "situation",
+      "genau": "exactly",
+      "erklärt": "explains",
+      "einen": "a",
+      "dieser": "this",
+      "sind": "are",
+      "sterben": "to die",
+      "große": "large",
+      "betroffenen": "affected",
+      "dass": "that",
+      "ernst": "serious",
+      "hilft": "helps",
+      "weil": "because",
+      "krise": "crisis",
+      "drastisch": "drastically",
+      "aufgaben": "tasks",
+      "anderen": "other",
+      "organisationen": "organizations",
+      "zusammen": "together",
+      "helfer": "helper",
+      "vor": "before",
+      "ort": "place",
+      "versuchen": "to try",
+      "zu": "to",
+      "unterstützen": "to support",
+      "wissenschaftler": "scientist",
+      "suchen": "to search",
+      "nach": "after",
+      "einem": "a",
+      "impfstoff": "vaccine",
+      "besiegen": "to defeat",
+      "wollen": "to want",
+      "besorgt": "worried",
+      "breitet": "spreads",
+      "sich": "oneself",
+      "aus": "from",
+      "schwierige": "difficult",
+      "zeit": "time",
+      "aber": "but",
+      "hoffnung": "hope",
+      "von": "from",
+      "internationalen": "international",
+      "diese": "this",
+      "guinea": "guinea",
+      "schnell": "quickly",
+      "mehreren": "several",
+      "zuerst": "first",
+      "trifft": "meets",
+      "das": "that",
+      "virus": "virus",
+      "sierra": "sierra",
+      "leone": "leone",
+      "liberia": "liberia",
+      "kämpfen": "to fight",
+      "folgen": "consequences",
+      "zahl": "number",
+      "infektionen": "infections",
+      "reduzieren": "to reduce",
+      "wichtige": "important",
+      "vereinten": "united",
+      "nationen": "nations",
+      "gegründet": "founded",
+      "wurde": "was",
+      "ihre": "their",
+      "aufgabe": "task",
+      "gesundheit": "health",
+      "weltweit": "worldwide",
+      "verbessern": "to improve",
+      "krankheiten": "diseases",
+      "verhindern": "to prevent",
+      "experten": "experts",
+      "wissen": "to know",
+      "wie": "like",
+      "man": "one",
+      "epidemien": "epidemics",
+      "umgeht": "avoids",
+      "entwickelt": "developed",
+      "seit": "since",
+      "eingesetzt": "deployed",
+      "wird": "will",
+      "um": "around",
+      "verbreitung": "spread",
+      "nicht": "not",
+      "nur": "only",
+      "gesundheitssysteme": "health systems",
+      "geschwächt": "weakened",
+      "sondern": "but",
+      "wirtschaftliche": "economic",
+      "schwierigkeiten": "difficulties",
+      "verursacht": "caused",
+      "infiziert": "infected",
+      "bekämpfen": "to combat",
+      "sorgen": "concerns",
+      "wenn": "if",
+      "handelt": "acts",
+      "könnte": "could",
+      "weiter": "continue",
+      "verschlimmern": "to worsen",
+      "sorgt": "ensures",
+      "internationale": "international",
+      "zusammenarbeit": "cooperation",
+      "dringend": "urgent",
+      "medizinische": "medical",
+      "unterstützung": "support",
+      "benötigen": "to need",
+      "setzen": "to set",
+      "wünschen": "to wish",
+      "bald": "soon",
+      "gefunden": "found",
+      "fördert": "promotes",
+      "aufklärungsarbeit": "educational work",
+      "über": "about",
+      "erhöhen": "to increase",
+      "zur": "to the",
+      "notlage": "predicament",
+      "erklärte": "explained",
+      "begann": "began",
+      "bereich": "area",
+      "öffentlichen": "public",
+      "obwohl": "although",
+      "bereits": "already",
+      "zahlreiche": "numerous",
+      "todesfälle": "casualties",
+      "hatte": "had",
+      "schritt": "step",
+      "notwendig": "necessary",
+      "da": "there",
+      "grenzen": "borders",
+      "hinaus": "beyond",
+      "ausbreitete": "spread",
+      "specialized": "specialized",
+      "agency": "agency",
+      "verantwortlich": "responsible",
+      "koordination": "coordination",
+      "internationaler": "international",
+      "gesundheitsprojekte": "health projects",
+      "hauptaufgabe": "main task",
+      "besteht": "exists",
+      "darin": "therein",
+      "fördern": "to promote",
+      "was": "what",
+      "durch": "through",
+      "bereitstellung": "provision",
+      "techniken": "techniques",
+      "standards": "standards",
+      "geschieht": "happens",
+      "jedoch": "however",
+      "zunehmend": "increasingly",
+      "bewusst": "conscious",
+      "verbreiten": "to spread",
+      "aktiv": "active",
+      "maßnahmen": "measures",
+      "ergreifen": "to take",
+      "musste": "had to",
+      "folge": "consequence",
+      "wurden": "were",
+      "hilfsaktionen": "relief actions",
+      "initiiert": "initiated",
+      "bieten": "to offer",
+      "hätte": "would have",
+      "reagiert": "reacted",
+      "weitreichendere": "far-reaching",
+      "konsequenzen": "consequences",
+      "können": "can",
+      "globale": "global",
+      "gesellschaft": "society",
+      "insgesamt": "overall",
+      "solche": "such",
+      "erfahrungen": "experiences",
+      "zeigen": "to show",
+      "essenziell": "essential",
+      "schnelle": "quick",
+      "ausbreitung": "spread",
+      "kontrollieren": "to control",
+      "relevanz": "relevance",
+      "verkündete": "announced",
+      "ihren": "their",
+      "anfang": "beginning",
+      "nahm": "took",
+      "als": "than",
+      "eingestuft": "classified",
+      "angesichts": "in the face of",
+      "gravierenden": "serious",
+      "auswirkungen": "effects",
+      "unvermeidlich": "inevitable",
+      "erachtet": "regarded",
+      "sitz": "seat",
+      "genf": "geneva",
+      "umfassenden": "comprehensive",
+      "netzwerk": "network",
+      "an": "at",
+      "regionalen": "regional",
+      "büros": "offices",
+      "spielt": "plays",
+      "zentrale": "central",
+      "rolle": "role",
+      "globalen": "global",
+      "gesundheitsarchitektur": "health architecture",
+      "ihr": "your",
+      "ziel": "goal",
+      "gesundheitszustand": "health condition",
+      "weltbevölkerung": "world population",
+      "anforderungen": "requirements",
+      "aktuelle": "current",
+      "gesundheitskrisen": "health crises",
+      "bewältigen": "to manage",
+      "daher": "therefore",
+      "initiierte": "initiated",
+      "sogenannte": "so-called",
+      "ebolastellungnahme-projekt": "ebola position statement project",
+      "koordinieren": "to coordinate",
+      "technische": "technical",
+      "bereitzustellen": "to provide",
+      "insbesondere": "especially",
+      "schwer": "heavy",
+      "zugleich": "at the same time",
+      "stellte": "posed",
+      "fest": "celebration",
+      "rasch": "quickly",
+      "gehandelt": "acted",
+      "zusätzliche": "additional",
+      "möglich": "possible",
+      "gewesen": "been",
+      "wären": "would be",
+      "kritische": "critical",
+      "notwendigkeit": "necessity",
+      "proaktiver": "proactive",
+      "unterstreicht": "emphasizes",
+      "verdeutlicht": "clarifies",
+      "inwiefern": "to what extent",
+      "solidarität": "solidarity",
+      "innovative": "innovative",
+      "herangehensweise": "approach",
+      "gesundheitsstrategien": "health strategies",
+      "entscheidend": "crucial",
+      "einzudämmen": "to contain",
+      "risiken": "risks",
+      "gemeinschaft": "community",
+      "minimieren": "minimize",
+      "austausch": "exchange",
+      "ressourcen": "resources",
+      "erweist": "proves",
+      "unerlässlich": "essential",
+      "solcher": "such",
+      "nachhaltig": "sustainable",
+      "infolgedessen": "consequently",
+      "fragen": "questions",
+      "gesundheitspolitik": "health policy",
+      "entscheidender": "decisive",
+      "bedeutung": "meaning",
+      "ähnliche": "similar",
+      "herausforderungen": "challenges",
+      "zukunft": "future",
+      "besser": "better",
+      "ebolakrise": "ebola crisis",
+      "gesundheitsgemeinschaft": "health community",
+      "erklärung": "statement",
+      "vom": "from the",
+      "darstellt": "represents",
+      "setzte": "set",
+      "dynamischen": "dynamic",
+      "prozess": "process",
+      "gang": "way",
+      "unmittelbare": "immediate",
+      "reaktion": "reaction",
+      "langfristigen": "long-term",
+      "strategien": "strategies",
+      "bekämpfung": "combat",
+      "künftiger": "future",
+      "umfasste": "included",
+      "dieses": "this",
+      "bekenntnis": "commitment",
+      "zeigte": "showed",
+      "exemplarisch": "exemplary",
+      "behörde": "authority",
+      "gefüge": "structure",
+      "agieren": "to act",
+      "kann": "can",
+      "bedrohungen": "threats",
+      "abzeichnen": "to sign off",
+      "ihrer": "their",
+      "gründung": "foundation",
+      "schlüsselrolle": "key role",
+      "bei": "at",
+      "gespielt": "played",
+      "fordert": "demands",
+      "reaktiv": "reactive",
+      "präventiven": "preventive",
+      "charakter": "character",
+      "besitzen": "own",
+      "diesem": "this",
+      "kontext": "context",
+      "betont": "emphasized",
+      "kurzfristige": "short-term",
+      "lösungen": "solutions",
+      "fokussiert": "focused",
+      "proaktive": "proactive",
+      "ansätze": "approaches",
+      "verfolgt": "pursued",
+      "wissensaustausch": "knowledge exchange",
+      "schließlich": "finally",
+      "lässt": "lets",
+      "festhalten": "to hold",
+      "spezifisches": "specific",
+      "ereignis": "event",
+      "eindringliche": "urgent",
+      "warnung": "warning",
+      "verstanden": "understood",
+      "sollte": "should",
+      "zeigt": "shows",
+      "zerbrechlich": "fragile",
+      "gesundheitsstruktur": "health structure",
+      "kollektive": "collective",
+      "verantwortung": "responsibility",
+      "engagierte": "committed",
+      "unabdingbar": "essential",
+      "gegenwärtigen": "present",
+      "zukünftigen": "future",
+      "gesundheitsbedrohungen": "health threats"
+    },
+    "fr": {
+      "épidémie": "epidemic",
+      "ebola": "ebola",
+      "en": "in",
+      "afrique": "Africa",
+      "de": "of",
+      "ouest": "west",
+      "décembre": "December",
+      "deux": "two",
+      "mille": "thousand",
+      "treize": "thirteen",
+      "commence": "starts",
+      "est": "is",
+      "une": "a",
+      "maladie": "disease",
+      "très": "very",
+      "grave": "serious",
+      "les": "the",
+      "gens": "people",
+      "sont": "are",
+      "malades": "sick",
+      "et": "and",
+      "ils": "they",
+      "ont": "have",
+      "peur": "fear",
+      "le": "the",
+      "huit": "eight",
+      "août": "August",
+      "quatorze": "fourteen",
+      "organisation": "organization",
+      "mondiale": "global",
+      "la": "the",
+      "santé": "health",
+      "déclare": "declares",
+      "urgence": "emergency",
+      "triste": "sad",
+      "beaucoup": "a lot",
+      "personnes": "people",
+      "besoin": "need",
+      "aide": "help",
+      "veut": "wants",
+      "aider": "to help",
+      "pays": "country",
+      "grande": "big",
+      "tâche": "task",
+      "médecins": "doctors",
+      "secours": "relief",
+      "travaillent": "work",
+      "important": "important",
+      "pour": "for",
+      "tous": "all",
+      "cette": "this",
+      "affecte": "affects",
+      "elle": "she",
+      "se": "yourself",
+      "propage": "propagates",
+      "rapidement": "quickly",
+      "des": "some",
+      "symptômes": "symptoms",
+      "graves": "serious",
+      "comme": "like",
+      "fièvre": "fever",
+      "vomissements": "vomiting",
+      "douleurs": "pains",
+      "publique": "public",
+      "déclaration": "declaration",
+      "attire": "attracts",
+      "attention": "attention",
+      "du": "of the",
+      "monde": "world",
+      "entier": "whole",
+      "parce": "because",
+      "que": "that",
+      "rapide": "quick",
+      "dangereuse": "dangerous",
+      "protéger": "to protect",
+      "touchés": "affected",
+      "infirmiers": "nurses",
+      "vont": "will go",
+      "travailler": "to work",
+      "ensemble": "together",
+      "lutter": "to fight",
+      "contre": "against",
+      "donner": "to give",
+      "soins": "care",
+      "aux": "to the",
+      "informer": "to inform",
+      "population": "population",
+      "sur": "about",
+      "prévention": "prevention",
+      "mais": "but",
+      "partout": "everywhere",
+      "doivent": "must",
+      "agir": "to act",
+      "vite": "quickly",
+      "bien": "well",
+      "organiser": "to organize",
+      "contrôler": "to control",
+      "situation": "situation",
+      "communautés": "communities",
+      "apprennent": "learn",
+      "aussi": "also",
+      "comment": "how",
+      "éviter": "avoiding",
+      "contagion": "contagion",
+      "oms": "who",
+      "contagieuse": "contagious",
+      "cause": "cause",
+      "souffrances": "suffering",
+      "infectées": "infected",
+      "notamment": "notably",
+      "saignements": "bleedings",
+      "ce": "this",
+      "virus": "virus",
+      "surtout": "especially",
+      "dans": "in",
+      "régions": "regions",
+      "avec": "with",
+      "systèmes": "systems",
+      "faibles": "weak",
+      "portée": "range",
+      "internationale": "international",
+      "importante": "important",
+      "car": "because",
+      "gouvernements": "governments",
+      "organisations": "organizations",
+      "qui": "who",
+      "été": "been",
+      "fondée": "founded",
+      "neuf": "nine",
+      "quarante-huit": "forty-eight",
+      "coordonner": "to coordinate",
+      "efforts": "efforts",
+      "demande": "request",
+      "par": "by",
+      "ainsi": "thus",
+      "donateurs": "donors",
+      "internationaux": "international",
+      "travailleurs": "workers",
+      "rassemblés": "gathered",
+      "soigner": "to care",
+      "limiter": "to limit",
+      "propagation": "propagation",
+      "mettent": "put",
+      "place": "place",
+      "campagnes": "countryside",
+      "éduquer": "to educate",
+      "populations": "populations",
+      "mesures": "measures",
+      "si": "if",
+      "ne": "not",
+      "pas": "not",
+      "prises": "taken",
+      "peut": "can",
+      "aggraver": "to worsen",
+      "faire": "to do",
+      "encore": "again",
+      "plus": "more",
+      "victimes": "victims",
+      "lutte": "struggle",
+      "devient": "becomes",
+      "priorité": "priority",
+      "cela": "that",
+      "montre": "shows",
+      "coopération": "cooperation",
+      "essentielle": "essential",
+      "chacun": "each",
+      "doit": "must",
+      "être": "to be",
+      "conscient": "aware",
+      "risques": "risks",
+      "moyens": "means",
+      "déclaré": "stated",
+      "décision": "decision",
+      "avait": "had",
+      "anticipée": "anticipated",
+      "plusieurs": "several",
+      "spécialistes": "specialists",
+      "visait": "aimed",
+      "mobiliser": "to mobilize",
+      "davantage": "more",
+      "ressources": "resources",
+      "renforcer": "to strengthen",
+      "coordination": "coordination",
+      "états": "states",
+      "membres": "members",
+      "mortel": "mortal",
+      "depuis": "since",
+      "son": "his",
+      "apparition": "appearance",
+      "déjà": "already",
+      "causé": "caused",
+      "milliers": "thousands",
+      "infections": "infections",
+      "suscitant": "evoking",
+      "inquiétudes": "worries",
+      "croissantes": "growing",
+      "au": "at the",
+      "sein": "breast",
+      "communauté": "community",
+      "ait": "has",
+      "pris": "taken",
+      "significatives": "significant",
+      "face": "face",
+      "défis": "challenges",
+      "logistiques": "logistical",
+      "manque": "lack",
+      "personnel": "staff",
+      "formé": "trained",
+      "infrastructures": "infrastructures",
+      "fragiles": "fragile",
+      "compliqué": "complicated",
+      "réponse": "response",
+      "il": "he",
+      "était": "was",
+      "donc": "therefore",
+      "impératif": "imperative",
+      "collaborent": "collaborate",
+      "étroitement": "closely",
+      "afin": "in order to",
+      "large": "wide",
+      "également": "also",
+      "permis": "allowed",
+      "augmenter": "to increase",
+      "financement": "funding",
+      "soutien": "support",
+      "technique": "technical",
+      "crucial": "crucial",
+      "interventions": "interventions",
+      "ultérieures": "subsequent",
+      "somme": "sum",
+      "marqué": "marked",
+      "un": "a",
+      "tournant": "turning point",
+      "souligné": "highlighted",
+      "importance": "importance",
+      "crises": "crises",
+      "sanitaires": "sanitary",
+      "appel": "call",
+      "action": "action",
+      "officiellement": "officially",
+      "qualifié": "qualified",
+      "cet": "this",
+      "événement": "event",
+      "sans": "without",
+      "précédent": "previous",
+      "débuté": "started",
+      "exposé": "exposé",
+      "lacunes": "gaps",
+      "majeures": "major",
+      "préparation": "preparation",
+      "réaction": "reaction",
+      "dès": "as soon as",
+      "départ": "departure",
+      "rendue": "rendered",
+      "compte": "account",
+      "pouvait": "could",
+      "contenue": "contained",
+      "collective": "collective",
+      "concertée": "coordinated",
+      "tenté": "tempted",
+      "apparu": "appeared",
+      "insuffisantes": "insufficient",
+      "entravaient": "hindered",
+      "efficace": "effective",
+      "conséquent": "consequent",
+      "revêtu": "clad",
+      "cruciale": "crucial",
+      "canaliser": "to channel",
+      "financements": "funding",
+      "expertises": "expertises",
+      "vers": "towards",
+      "alors": "then",
+      "continuait": "continued",
+      "propager": "to spread",
+      "reconnaissance": "recognition",
+      "fut": "was",
+      "catalyser": "to catalyze",
+      "volonté": "will",
+      "politique": "politics",
+      "déterminée": "determined",
+      "substantielles": "substantial",
+      "contribuant": "contributing",
+      "futurs": "future",
+      "non": "no",
+      "seulement": "only",
+      "autres": "others",
+      "mondiales": "global",
+      "intérêt": "interest",
+      "international": "international",
+      "proclamation": "proclamation",
+      "résonné": "resounded",
+      "travers": "crossing",
+      "survenu": "occurred",
+      "après": "after",
+      "mois": "months",
+      "méfiance": "mistrust",
+      "gravité": "seriousness",
+      "révélé": "revealed",
+      "faiblesses": "weaknesses",
+      "structurelles": "structural",
+      "nombreux": "many",
+      "mis": "put",
+      "exergue": "highlight",
+      "nécessité": "necessity",
+      "authentique": "authentic",
+      "matière": "matter",
+      "déclenchée": "triggered",
+      "gagnait": "was winning",
+      "ampleur": "scale",
+      "compris": "understood",
+      "rôle": "role",
+      "observer": "to observe",
+      "lui": "him",
+      "fallait": "was necessary",
+      "inéluctablement": "inevitably",
+      "lors": "when",
+      "choc": "shock",
+      "suscité": "raised",
+      "mobilisation": "mobilization",
+      "inédite": "unprecedented",
+      "incité": "incited",
+      "engager": "to engage",
+      "unifiée": "unified",
+      "annonce": "announcement",
+      "simplement": "simply",
+      "mesure": "measure",
+      "administrative": "administrative",
+      "cristallisateur": "crystallizer",
+      "vibrant": "vibrant",
+      "solidarité": "solidarity",
+      "menace": "threat",
+      "sanitaire": "sanitary",
+      "réfléchissant": "reflecting",
+      "enseignements": "teachings",
+      "crise": "crisis",
+      "confrontées": "faced",
+      "réalité": "reality",
+      "interconnectée": "interconnected",
+      "soulignant": "highlighting",
+      "vigilance": "vigilance",
+      "continue": "continues",
+      "engagement": "commitment",
+      "inébranlable": "unshakable",
+      "mondiaux": "global"
+    },
+    "es": {
+      "ebola": "ebola",
+      "en": "in",
+      "áfrica": "africa",
+      "occidental": "western",
+      "hay": "there is",
+      "un": "a",
+      "problema": "problem",
+      "grande": "large",
+      "este": "this",
+      "es": "is",
+      "el": "the",
+      "una": "a",
+      "enfermedad": "disease",
+      "grave": "serious",
+      "la": "the",
+      "organización": "organization",
+      "mundial": "global",
+      "de": "of",
+      "salud": "health",
+      "oms": "who",
+      "muy": "very",
+      "importante": "important",
+      "ellos": "they",
+      "dicen": "they say",
+      "que": "that",
+      "emergencia": "emergency",
+      "para": "to",
+      "muchas": "many",
+      "personas": "people",
+      "empieza": "begins",
+      "diciembre": "December",
+      "están": "are",
+      "preocupadas": "worried",
+      "por": "for",
+      "situación": "situation",
+      "ayuda": "helps",
+      "los": "the",
+      "países": "countries",
+      "ayudan": "help",
+      "con": "with",
+      "información": "information",
+      "recursos": "resources",
+      "tiene": "has",
+      "papel": "role",
+      "controlar": "to control",
+      "pueden": "can",
+      "enfermarse": "to get sick",
+      "necesitan": "they need",
+      "rápida": "quick",
+      "todos": "all",
+      "agosto": "August",
+      "declara": "declares",
+      "como": "like",
+      "brote": "outbreak",
+      "enfermas": "sick",
+      "unos": "some",
+      "mueren": "die",
+      "porque": "because",
+      "muchos": "many",
+      "crisis": "crisis",
+      "dan": "to give",
+      "combatir": "to combat",
+      "cree": "he/she/they believe",
+      "urgente": "urgent",
+      "hacer": "to do",
+      "acción": "action",
+      "decidida": "determined",
+      "eso": "that",
+      "van": "they go",
+      "ayudar": "to help",
+      "medicina": "medicine",
+      "prevención": "prevention",
+      "educación": "education",
+      "sobre": "about",
+      "causa": "cause",
+      "mucho": "much",
+      "miedo": "fear",
+      "preocupación": "concern",
+      "trabaja": "works",
+      "gobiernos": "governments",
+      "médicos": "doctors",
+      "organizaciones": "organizations",
+      "todo": "everything",
+      "mundo": "world",
+      "juntos": "together",
+      "quieren": "they want",
+      "proteger": "to protect",
+      "las": "the",
+      "reducir": "to reduce",
+      "virus": "virus",
+      "además": "furthermore",
+      "pone": "puts",
+      "atención": "attention",
+      "más": "more",
+      "vulnerables": "vulnerable",
+      "epidemia": "epidemic",
+      "demuestra": "demonstrates",
+      "importancia": "importance",
+      "global": "global",
+      "cooperación": "cooperation",
+      "internacional": "international",
+      "pública": "public",
+      "comenzó": "began",
+      "afectó": "affected",
+      "guinea": "guinea",
+      "liberia": "liberia",
+      "sierra": "mountain",
+      "leona": "lioness",
+      "se": "oneself",
+      "propagó": "propagated",
+      "rápidamente": "quickly",
+      "aunque": "although",
+      "estaban": "were",
+      "preparados": "prepared",
+      "emergencias": "emergencies",
+      "gravedad": "gravity",
+      "del": "of the",
+      "superó": "overcame",
+      "sus": "their",
+      "parte": "part",
+      "naciones": "nations",
+      "unidas": "united",
+      "todas": "all",
+      "durante": "during",
+      "esta": "this",
+      "enfermaron": "they got sick",
+      "gravemente": "severely",
+      "algunas": "some",
+      "murieron": "died",
+      "si": "if",
+      "no": "not",
+      "hubiera": "would have",
+      "intervenido": "intervened",
+      "podría": "could",
+      "haber": "to have",
+      "sido": "been",
+      "peor": "worse",
+      "utiliza": "uses",
+      "tratamientos": "treatments",
+      "medidas": "measures",
+      "fundamental": "fundamental",
+      "propaga": "propagates",
+      "fácilmente": "easily",
+      "entre": "between",
+      "comunidades": "communities",
+      "hasta": "until",
+      "ahora": "now",
+      "ha": "has",
+      "tenido": "had",
+      "éxito": "success",
+      "control": "control",
+      "otras": "other",
+      "enfermedades": "diseases",
+      "viruela": "smallpox",
+      "su": "his",
+      "experiencia": "experience",
+      "esencial": "essential",
+      "puede": "can",
+      "gran": "great",
+      "diferencia": "difference",
+      "lucha": "struggle",
+      "contra": "against",
+      "desde": "since",
+      "trabajado": "worked",
+      "desarrollo": "development",
+      "vacuna": "vaccine",
+      "lo": "it",
+      "vital": "vital",
+      "prevenir": "to prevent",
+      "futuros": "futures",
+      "brotes": "outbreaks",
+      "ébola": "ebola",
+      "declaró": "declared",
+      "había": "had",
+      "comenzado": "started",
+      "declaración": "statement",
+      "fue": "was",
+      "ya": "already",
+      "marcó": "marked",
+      "punto": "point",
+      "inflexión": "turning point",
+      "respuesta": "response",
+      "ante": "in the face of",
+      "sanitaria": "health",
+      "pesar": "despite",
+      "esfuerzos": "efforts",
+      "previos": "previous",
+      "propagado": "spread",
+      "afectando": "affecting",
+      "varios": "several",
+      "generó": "generated",
+      "aumento": "increase",
+      "sede": "headquarters",
+      "ginebra": "Geneva",
+      "coordina": "coordinates",
+      "respuestas": "responses",
+      "problemas": "problems",
+      "nivel": "level",
+      "reconoció": "recognized",
+      "era": "was",
+      "crucial": "crucial",
+      "implementar": "to implement",
+      "urgentes": "urgent",
+      "momento": "moment",
+      "organizaron": "they organized",
+      "globales": "global",
+      "brindar": "to provide",
+      "asistencia": "assistance",
+      "afectadas": "affected",
+      "alertó": "alerted",
+      "gubernamentales": "governmental",
+      "enfatizando": "emphasizing",
+      "necesidad": "necessity",
+      "contener": "to contain",
+      "consecuencia": "consequence",
+      "intensificó": "intensified",
+      "investigación": "investigation",
+      "vacunas": "vaccines",
+      "preparó": "prepared",
+      "camino": "path",
+      "futuras": "future",
+      "intervenciones": "interventions",
+      "sanitarias": "sanitary",
+      "resumen": "summary",
+      "solo": "only",
+      "evidenció": "evidenced",
+      "sino": "but",
+      "también": "also",
+      "planteó": "proposed",
+      "unificada": "unified",
+      "efectiva": "effective",
+      "frente": "front",
+      "proclamó": "proclaimed",
+      "iniciada": "initiated",
+      "representaba": "represented",
+      "magnitud": "magnitude",
+      "caracterizada": "characterized",
+      "expansión": "expansion",
+      "efecto": "effect",
+      "devastador": "devastating",
+      "impulsó": "boosted",
+      "pronunciarse": "to speak out",
+      "forma": "form",
+      "contundente": "forceful",
+      "dada": "given",
+      "alarmante": "alarming",
+      "hizo": "made",
+      "evidente": "evident",
+      "través": "through",
+      "enfoque": "approach",
+      "coordinado": "coordinated",
+      "mitigar": "to mitigate",
+      "impacto": "impact",
+      "contexto": "context",
+      "movilizó": "mobilized",
+      "técnica": "technique",
+      "exhortó": "urged",
+      "estados": "states",
+      "miembros": "members",
+      "colaborar": "to collaborate",
+      "manera": "way",
+      "sistemática": "systematic",
+      "llamado": "call",
+      "facilitó": "facilitated",
+      "implementación": "implementation",
+      "estrategias": "strategies",
+      "contención": "containment",
+      "acelerado": "accelerated",
+      "dificultades": "difficulties",
+      "estas": "these",
+      "marcaron": "marked",
+      "antes": "before",
+      "después": "after",
+      "gestión": "management",
+      "redefiniendo": "redefining",
+      "así": "thus",
+      "abordan": "they address",
+      "epidémicos": "epidemic",
+      "actualidad": "relevance",
+      "ilustró": "illustrated",
+      "imperiosa": "imperative",
+      "compromiso": "commitment",
+      "cuestiones": "issues",
+      "desafío": "challenge",
+      "sin": "without",
+      "precedentes": "precedents",
+      "emitió": "issued",
+      "categorizó": "categorized",
+      "interés": "interest",
+      "decisión": "decision",
+      "reveló": "revealed",
+      "extremada": "extreme",
+      "vulnerabilidad": "vulnerability",
+      "sistemas": "systems",
+      "regionales": "regional",
+      "altamente": "highly",
+      "contagioso": "contagious",
+      "interdependencia": "interdependence",
+      "implementado": "implemented",
+      "preventivas": "preventive",
+      "años": "years",
+      "anteriores": "previous",
+      "llevó": "took",
+      "replantear": "to reconsider",
+      "procedimientos": "procedures",
+      "enfatizó": "emphasized",
+      "urgencia": "urgency",
+      "esfuerzo": "effort",
+      "donde": "where",
+      "colaboración": "collaboration",
+      "entidades": "entities",
+      "convirtiera": "turned",
+      "eje": "axis",
+      "central": "central",
+      "abordar": "to address",
+      "flujo": "flow",
+      "humanitaria": "humanitarian",
+      "postre": "dessert",
+      "facilitaron": "facilitated",
+      "protocolos": "protocols",
+      "vacunación": "vaccination",
+      "eficientes": "efficient",
+      "trágica": "tragic",
+      "transformó": "transformed",
+      "radicalmente": "radically",
+      "política": "politics",
+      "estableciendo": "establishing",
+      "robusta": "robust",
+      "solidaria": "supportive",
+      "desastres": "disasters",
+      "sanitarios": "sanitary",
+      "perdurable": "enduring",
+      "influido": "influenced",
+      "discurso": "speech",
+      "instando": "urging",
+      "comunidad": "community",
+      "prepararse": "to prepare",
+      "adecuadamente": "adequately",
+      "contingencias": "contingencies",
+      "similares": "similar"
+    }
+  }
+}
