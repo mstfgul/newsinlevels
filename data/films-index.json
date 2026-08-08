@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-08-the-exterminating-angel-luis-bunuel",
+    "date": "2026-08-08",
+    "director": "Luis Buñuel",
+    "image": "https://image.tmdb.org/t/p/w780/qqZXHvBFxUpo8Pfbyvgh4SYMiWm.jpg",
+    "titles": {
+      "en": "The Exterminating Angel",
+      "de": "Der Töter Engel",
+      "fr": "Thèmes de L'Ange exterminateur",
+      "es": "El ángel exterminador"
+    }
+  },
+  {
     "id": "2026-08-07-the-experiment-oliver-hirschbiegel",
     "date": "2026-08-07",
     "director": "Oliver Hirschbiegel",
