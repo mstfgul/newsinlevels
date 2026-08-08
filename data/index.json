@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-08-thai-pm-vows-to-introduce-stricter-gun-laws-after-eight-kill",
+    "date": "2026-08-08",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Thai PM to Enforce Stricter Gun Laws After Shooting Incident",
+      "de": "Schießerei in Thailand: Ministerpräsident will neue Gesetze",
+      "fr": "Le Premier ministre thaïlandais annonce des lois plus strictes sur les armes",
+      "es": "Tailandia propone nuevas leyes de armas tras un tiroteo"
+    }
+  },
+  {
+    "id": "2026-08-08-spain-imposes-border-controls-against-italy-as-row-over-ceut",
+    "date": "2026-08-08",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Spain and Italy Set Border Controls Over Migrant Influx",
+      "de": "Spanien führt Grenzkontrollen gegen Italien ein",
+      "fr": "Les contrôles aux frontières entre l'Espagne et l'Italie",
+      "es": "España refuerza controles fronterizos con Italia por crisis migratoria"
+    }
+  },
+  {
+    "id": "2026-08-08-child-among-three-killed-in-russian-missile-attacks-near-kyi",
+    "date": "2026-08-08",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "At Least Three People Killed in Russian Missile Attacks Near Kyiv",
+      "de": "Drei Menschen sterben bei russischen Angriffen in der Ukraine",
+      "fr": "Attaques meurtrières près de Kyiv",
+      "es": "Tres mueren en ataques rusos cerca de Kyiv"
+    }
+  },
+  {
     "id": "2026-08-07-uefa-says-boycott-may-still-go-ahead-as-fa-withdraws-infanti",
     "date": "2026-08-07",
     "source": "BBC News",

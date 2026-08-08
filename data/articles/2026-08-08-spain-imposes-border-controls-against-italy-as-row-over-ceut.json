@@ -1,0 +1,2492 @@
+{
+  "id": "2026-08-08-spain-imposes-border-controls-against-italy-as-row-over-ceut",
+  "date": "2026-08-08",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Spain Controls Border with Italy",
+        "text": "Spain controls its border with Italy. Spain has rules for air and sea travel. These rules start at midnight. They will last for one month. Many migrants come from Morocco. About 78,000 migrants come to Ceuta. Spain wants Italy to stop its checks. Italy keeps its checks until August 15. Spain’s leader is Pedro Sanchez. Italy’s leader is Giorgia Meloni. Italy does not share a land border with Spain. Spain says the checks are not necessary. Spain thinks Italy's reasons are not true. Spain will check passports and visas from Italy.",
+        "vocabulary": [
+          {
+            "word": "migrants",
+            "definition": "people who move to another place"
+          },
+          {
+            "word": "border",
+            "definition": "the line between two countries"
+          },
+          {
+            "word": "control",
+            "definition": "to have power over something"
+          },
+          {
+            "word": "travel",
+            "definition": "to go from one place to another"
+          },
+          {
+            "word": "check",
+            "definition": "to look at something closely"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who controls the border?",
+            "options": [
+              "Italy",
+              "Spain",
+              "France"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many migrants came from Morocco?",
+            "options": [
+              "78,000",
+              "800",
+              "7,800"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "When do the rules start?",
+            "options": [
+              "At noon",
+              "At 10 PM",
+              "At 2 AM"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Spain and Italy Disagree About Migrants",
+        "text": "Spain has set border controls on travel from Italy. These rules started on midnight and will last until September 7. This happens after Italy made rules for its border one week ago. Many migrants from Morocco come to Ceuta. Spain says about 78,000 migrants arrive in this area. Spain wants Italy to stop these checks by Sunday, but Italy says they will keep their checks until at least August 15. Both leaders, Pedro Sanchez from Spain and Giorgia Meloni from Italy, argue about these rules. Spain thinks Italy is wrong because the migrants cannot go to other countries easily. Italy does not share a land border with Spain. Spain will check passports from people flying from Italy.",
+        "vocabulary": [
+          {
+            "word": "disagree",
+            "definition": "to have different opinions"
+          },
+          {
+            "word": "rules",
+            "definition": "things people must follow"
+          },
+          {
+            "word": "migrant",
+            "definition": "a person who moves to a new place"
+          },
+          {
+            "word": "passport",
+            "definition": "a document for travel between countries"
+          },
+          {
+            "word": "area",
+            "definition": "a part of a place"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Spain set for travel?",
+            "options": [
+              "border controls",
+              "new borders",
+              "new flights"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the leader of Italy?",
+            "options": [
+              "Giorgia Meloni",
+              "Pedro Sanchez",
+              "Emmanuel Macron"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Where do many migrants come from?",
+            "options": [
+              "Morocco",
+              "Italy",
+              "Spain"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Spain and Italy Set Border Controls Over Migrant Influx",
+        "text": "Spain has recently implemented border controls for all air and sea travel from Italy. These new measures started at midnight and are set to last for a month. This decision comes a week after Italy introduced similar restrictions due to an influx of around 78,000 migrants from Morocco into Ceuta, a Spanish exclave. Spain's Prime Minister, Pedro Sanchez, has demanded that Italy remove its border checks by Sunday. However, the Italian government, led by Giorgia Meloni, announced that the checks will remain until at least August 15. Italy argues this is necessary to manage the expected increase in migration to Ceuta. Italy does not share a land border with Spain, which is why they maintain these checks. Spanish officials say that Italy's reasons are not true, as the migrants have no easy way to reach Italy. Spain will carry out checks on passports and visas for those traveling from Italy amid concerns about irregular migration. These measures will stay in place until September 7, unless the situation changes.",
+        "vocabulary": [
+          {
+            "word": "implemented",
+            "definition": "put something into action"
+          },
+          {
+            "word": "restrictions",
+            "definition": "limits on what people can do"
+          },
+          {
+            "word": "influx",
+            "definition": "a large number of people coming into a place"
+          },
+          {
+            "word": "government",
+            "definition": "the group in power that rules a country"
+          },
+          {
+            "word": "concerns",
+            "definition": "worries about something important"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Spain recently implement?",
+            "options": [
+              "border controls",
+              "travel arrangements",
+              "business rules"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who is the Prime Minister of Spain?",
+            "options": [
+              "Giorgia Meloni",
+              "Pedro Sanchez",
+              "Emmanuel Macron"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When will border checks end?",
+            "options": [
+              "August 15",
+              "September 7",
+              "October 1"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Spain Implements Border Controls Against Italy Amid Migrant Crisis",
+        "text": "Spain has implemented border controls on all air and sea travel from Italy amidst a growing conflict between the two EU nations. These measures, which began at midnight (22:00 GMT), are set to last a month. They came only a week after Italy enforced similar restrictions due to an influx of about 78,000 migrants from Morocco entering the Spanish exclave of Ceuta. On Friday, Spain demanded that Italy reverse its border checks by Sunday; however, Rome announced that these restrictions would remain in place at least until August 15, anticipating a new wave of migration. The escalating situation has placed Spain's socialist leader Pedro Sanchez in opposition to Italy's conservative Prime Minister Giorgia Meloni, who has long advocated for stricter European Union migration policies. Though Italy does not share a land border with Spain, its government explained that the temporary suspension of the Schengen Agreement aims to prevent migrants in Ceuta from traveling to Italy. Madrid rejected this justification, claiming it is based on false premises since migrants in Ceuta lack access to the Schengen area. In response, Italy stated it would not accept \"ultimatums\" and reiterated its commitment to maintaining border checks until security concerns are thoroughly addressed.",
+        "vocabulary": [
+          {
+            "word": "implement",
+            "definition": "to carry out or put into effect"
+          },
+          {
+            "word": "influx",
+            "definition": "a large flow or arrival of people or things"
+          },
+          {
+            "word": "limitations",
+            "definition": "restrictions or rules that control what can be done"
+          },
+          {
+            "word": "demand",
+            "definition": "to ask for something forcefully"
+          },
+          {
+            "word": "justification",
+            "definition": "a good reason for something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Spain demand from Italy regarding the border controls?",
+            "options": [
+              "To remove all border controls",
+              "To reverse its checks by Sunday",
+              "To make checks easier"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many migrants entered Ceuta from Morocco?",
+            "options": [
+              "78,000",
+              "100,000",
+              "50,000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the purpose of Italy's border checks according to its government?",
+            "options": [
+              "To prevent migrants from reaching Italy",
+              "To help migrants enter Italy",
+              "To improve travel times"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Escalating Tensions: Spain's Border Controls Against Italy Amid Migrant Influx",
+        "text": "In a striking escalation of tensions, Spain has instituted comprehensive border controls affecting all air and maritime travel from Italy, engendering a profound diplomatic crisis between the two EU member states. These measures commenced at midnight (22:00 GMT) and are slated to remain in effect for one month, following Italy's own imposition of similar restrictions in response to a staggering influx of approximately 78,000 migrants from Morocco into the Spanish exclave of Ceuta. Spain urged Italy to rescind its checks by Sunday, yet the Italian government reaffirmed that such measures would remain until at least August 15, when they predict a subsequent wave of migrants. This situation has placed Spanish Prime Minister Pedro Sanchez in direct opposition to his Italian counterpart, Giorgia Meloni, whose government has long championed stricter EU migration policies. Despite Italy's lack of a land border with Spain, the rationale behind the suspension of the Schengen Agreement is to deter migrants from Ceuta from progressing to Italy. Madrid has dismissed this premise as unfounded, arguing that migrants in Ceuta have no viable means to access the Schengen area. Italy has firmly rejected being subject to \"ultimatums\" and insists it will not reconsider its position until security concerns have been fully assuaged.",
+        "vocabulary": [
+          {
+            "word": "profound",
+            "definition": "very great or intense"
+          },
+          {
+            "word": "instituted",
+            "definition": "to establish or start"
+          },
+          {
+            "word": "championed",
+            "definition": "supported or defended a cause"
+          },
+          {
+            "word": "deter",
+            "definition": "to stop someone from doing something"
+          },
+          {
+            "word": "unfounded",
+            "definition": "not based on fact or reason"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Spain urge Italy to do regarding the border checks?",
+            "options": [
+              "Cancel all border controls immediately",
+              "Rescind its checks by Sunday",
+              "Allow more migrants to enter"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many migrants entered Ceuta in total?",
+            "options": [
+              "Around 50,000",
+              "Approximately 78,000",
+              "About 100,000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Italy's government insist regarding the checks?",
+            "options": [
+              "They will reconsider the decision soon",
+              "They are waiting for a new agreement",
+              "They will not accept ultimatums"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Exacerbating Diplomatic Strife: Spain's Border Enforcement Against Italy Amidst Migrant Surge",
+        "text": "As tensions mount between neighboring EU states, Spain has resorted to implementing stringent border controls on all air and sea travel from Italy, thereby exacerbating an already fraught diplomatic situation. These measures, which took effect at midnight (22:00 GMT) for an initial duration of one month, were prompted by Italy's reciprocal imposition of restrictions in the wake of an unprecedented influx of roughly 78,000 migrants arriving from Morocco at the Spanish exclave of Ceuta. Spain's government demanded that Italy abolish its checks by Sunday; however, Rome maintained its stance, declaring that the measures would persist at least until August 15, coinciding with predictions of further migration surges. This discord has encapsulated the ideological divergence between Pedro Sanchez, Spain's socialist leader, and Giorgia Meloni, Italy's conservative Prime Minister, who is an ardent advocate for more stringent EU migration laws. Although Italy lacks a land connection to Spain, the rationale for suspending the Schengen Agreement ostensibly aims to preemptively deter the movement of migrants from Ceuta towards Italian shores. Madrid dismissed this justification as spurious, contending that the available evidence indicates no feasible means for migrants in Ceuta to penetrate the Schengen zone. Responding defiantly to Spain's ultimatum, Italian authorities have unequivocally ruled out any reconsideration of their border strategy until security apprehensions are thoroughly quelled, a proclamation underscoring the heightened sensitivities surrounding migration and national security in contemporary European politics.",
+        "vocabulary": [
+          {
+            "word": "exacerbating",
+            "definition": "making a problem worse"
+          },
+          {
+            "word": "reciprocal",
+            "definition": "given or done in return"
+          },
+          {
+            "word": "preemptively",
+            "definition": "to act before a potential problem arises"
+          },
+          {
+            "word": "spurious",
+            "definition": "not true or valid"
+          },
+          {
+            "word": "quell",
+            "definition": "to suppress or put an end to"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has Spain implemented that escalated tensions?",
+            "options": [
+              "More open borders",
+              "Tight border controls from Italy",
+              "Stringent border controls"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "What was Italy's response to Spain's demand?",
+            "options": [
+              "They will accept all migrants",
+              "They maintained their checks would continue",
+              "They canceled the checks immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Why does Madrid dismiss Italy's border justification?",
+            "options": [
+              "It's based on false premises",
+              "It's based on valid data",
+              "It's for national security"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Spanien kontrolliert die Grenze zu Italien",
+        "text": "Spanien hat die Grenze zu Italien kontrolliert. Die Kontrollen sind für Luft- und See-Reisen. Das beginnt um Mitternacht. Es dauert einen Monat. Italien hat viele Migranten. Sie kommen aus Marokko. Viele Migranten sind in Ceuta. Ceuta ist ein Teil von Spanien. Der spanische Führer sagt, Italien soll die Kontrollen stoppen. Italien will die Kontrollen bis zum 15. August haben. Spanien sagt, das ist nicht richtig. Italien hat keine Grenze zu Spanien. Die Situation ist sehr schwer für beide Länder.",
+        "vocabulary": [
+          {
+            "word": "Kontrollen",
+            "definition": "Überprüfungen an der Grenze"
+          },
+          {
+            "word": "Migranten",
+            "definition": "Menschen, die in ein anderes Land reisen"
+          },
+          {
+            "word": "Ceuta",
+            "definition": "Ein Teil von Spanien in Nordafrika"
+          },
+          {
+            "word": "Führer",
+            "definition": "Eine wichtige Person in einem Land"
+          },
+          {
+            "word": "Größe",
+            "definition": "Schwierigkeit oder Problem"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann beginnt die Kontrolle?",
+            "options": [
+              "Um Mitternacht",
+              "Am Morgen",
+              "Am Abend"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wo kommen die Migranten her?",
+            "options": [
+              "Aus Marokko",
+              "Aus Italien",
+              "Aus Spanien"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie lange dauert die Kontrolle?",
+            "options": [
+              "Einen Monat",
+              "Drei Wochen",
+              "Zwei Monate"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Spanien kontrolliert die Grenze zu Italien",
+        "text": "Spanien hat am Samstag neue Kontrollen an der Grenze zu Italien eingeführt. Diese Kontrollen sind für alle Reisen mit dem Flugzeug und dem Schiff. Diese neuen Regeln beginnen in der Nacht um Mitternacht und dauern einen Monat. Vor einer Woche hat Italien ähnliche Kontrollen wegen vieler Migranten aus Marokko eingeführt. Über 78.000 Menschen sind nach Ceuta gekommen. Ceuta ist ein Teil von Spanien in Nordafrika. Spanien fordert Italien auf, seine Kontrollen zu stoppen, aber Italien hat gesagt, dass es bis zum 15. August kontrollieren wird. Italien sagt auch, dass Spanien eine neue Welle von Migranten erwartet. Diese Situation macht die Beziehung zwischen Spanien und Italien schwer. Viele Menschen reisen oft zwischen diesen beiden Ländern. Einige Menschen sind besorgt um die Auswirkungen der Kontrollen. Die Regierung in Spanien sagt, dass diese Maßnahmen notwendig sind. Spanien und Italien sind Nachbarn, aber die Migration ist ein sensibles Thema. Die Kontrollen betreffen auch die Touristen, weil sie zusätzliche Zeit am Flughafen brauchen. Die Spannungen zwischen den Ländern könnten zu weiteren Problemen führen. Die EU beobachtet die Situation genau, weil sie die Zusammenarbeit stärken möchte.",
+        "vocabulary": [
+          {
+            "word": "Kontrolle",
+            "definition": "Maßnahmen, um etwas zu überprüfen oder zu regulieren."
+          },
+          {
+            "word": "Flughafen",
+            "definition": "Ein Ort, wo Flugzeuge landen und starten."
+          },
+          {
+            "word": "Regierung",
+            "definition": "Die Gruppe von Personen, die ein Land leitet."
+          },
+          {
+            "word": "Migrant",
+            "definition": "Eine Person, die aus einem Land in ein anderes zieht."
+          },
+          {
+            "word": "EU",
+            "definition": "Eine Gruppe von europäischen Ländern, die zusammenarbeiten."
+          },
+          {
+            "word": "Situation",
+            "definition": "Ein bestimmter Zustand oder eine Gegebenheit."
+          },
+          {
+            "word": "Beziehung",
+            "definition": "Die Verbindung zwischen zwei oder mehr Personen oder Ländern."
+          },
+          {
+            "word": "Tourist",
+            "definition": "Eine Person, die reist, um andere Orte zu besuchen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann beginnen die Kontrollen an der Grenze zu Italien?",
+            "options": [
+              "Um Mitternacht",
+              "Am Morgen",
+              "Am Nachmittag"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Migranten sind nach Ceuta gekommen?",
+            "options": [
+              "Über 50.000",
+              "Über 78.000",
+              "Über 100.000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was sagt Italien über die Kontrollen?",
+            "options": [
+              "Sie werden bis 15. August bleiben",
+              "Sie werden sofort enden",
+              "Sie werden nicht eingeführt"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Spanien führt Grenzkontrollen gegen Italien ein",
+        "text": "Spanien hat Grenzkontrollen für alle Reisen aus Italien eingeführt. Diese Maßnahme begann am Samstag um Mitternacht und soll einen Monat dauern. Der Grund dafür sind viele Migranten, die aus Marokko nach Ceuta gekommen sind. Ceuta ist eine spanische Exklave in Nordafrika, die einen historischen Hintergrund als Handelsweg hat. In den letzten Jahren gab es oft Diskussionen über die Migration aus Nordafrika. Vor einer Woche führte Italien ähnliche Kontrollen ein, weil es etwa 78.000 Migranten gab, die in relativ kurzer Zeit angekommen sind. Spanien fordert Italien auf, seine Kontrollen zu beenden und hat betont, dass diese nicht notwendig sind. Italien hat gesagt, dass die Kontrollen bis zum 15. August bleiben werden, weil Spanien eine neue Welle von Migranten erwartet. Diese Spannungen zwischen den beiden Ländern zeigen, wie kompliziert die Migration in Europa ist. Die spanische Regierung sagt, dass die Argumente von Italien nicht wahr sind und dass kein direkter Weg von Ceuta nach Italien führt. Italien hingegen sagt, dass die Kontrollen wichtig sind, um die Sicherheit zu gewährleisten. Falls die Situation nicht bald besser wird, könnten die Spannungen weiter zunehmen, was für beide Länder problematisch wäre. Die verantwortlichen Politiker planen, weiterhin an Lösungen zu arbeiten, die sowohl die Migration regeln als auch die Sicherheit der Bürger schützen.",
+        "vocabulary": [
+          {
+            "word": "Exklave",
+            "definition": "Ein Gebiet, das von einem anderen Land umgeben ist."
+          },
+          {
+            "word": "Migration",
+            "definition": "Die Bewegung von Menschen von einem Ort zum anderen, oft über Ländergrenzen."
+          },
+          {
+            "word": "Kontrollen",
+            "definition": "Überprüfungen, die durchgeführt werden, um sicherzustellen, dass die Regeln eingehalten werden."
+          },
+          {
+            "word": "Einwanderung",
+            "definition": "Der Prozess, durch den Menschen in ein Land ziehen."
+          },
+          {
+            "word": "Spannungen",
+            "definition": "Konflikte oder Meinungsverschiedenheiten zwischen Ländern oder Gruppen."
+          },
+          {
+            "word": "sicherheit",
+            "definition": "Das Gefühl oder die Tatsache, dass jemand oder etwas sicher ist."
+          },
+          {
+            "word": "Verantwortliche",
+            "definition": "Personen, die für eine bestimmte Aufgabe oder Entscheidung verantwortlich sind."
+          },
+          {
+            "word": "Lösungen",
+            "definition": "Antworten oder Wege, die Probleme lösen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann haben die Grenzkontrollen in Spanien begonnen?",
+            "options": [
+              "Am Samstag um Mitternacht",
+              "Am Montag um Mittag",
+              "Am Freitag um Mitternacht"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Migranten sind in Italien angekommen?",
+            "options": [
+              "58.000",
+              "78.000",
+              "88.000"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Bis wann sollen die Kontrollen in Spanien dauern?",
+            "options": [
+              "Bis zum 15. August",
+              "Bis zum 7. September",
+              "Bis zum Ende des Jahres"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Spanien verhängt Grenzkontrollen gegen Italien wegen Migrantenkrise",
+        "text": "Spanien hat Grenzkontrollen für alle Luft- und Seeverbindungen aus Italien eingeführt, da sich der Konflikt zwischen den beiden EU-Ländern verschärft. Diese Maßnahmen traten um Mitternacht (22:00 GMT) in Kraft und sollen einen Monat lang bestehen bleiben. Eine Woche zuvor hatte Italien ähnliche Beschränkungen eingeführt, nachdem etwa 78.000 Migranten aus Marokko in die spanische Enklave Ceuta eingereist waren. Am Freitag forderte Spanien Italien auf, die Kontrollen bis Sonntag zurückzunehmen. Rom antwortete, die Kontrollen würden bis mindestens zum 15. August bestehen bleiben, weil Spanien „eine neue Welle von Migration“ nach Ceuta erwarte. Diese Krise hat zu einem Streit zwischen dem sozialistischen Führer Spaniens, Pedro Sanchez, und der konservativen italienischen Premierministerin Giorgia Meloni geführt, die seit langem strengere EU-Migrationsregeln fordert. Italien hat keine Landgrenze zu Spanien. Die italienische Regierung erklärte letzte Woche, dass die vorübergehende Aussetzung des Schengen-Abkommens dazu diene, zu verhindern, dass Migranten, die Ceuta erreicht haben, nach Italien weiterreisen. Madrid wies diese Position zurück und nannte sie „spurious arguments“, die keinen faktischen Hintergrund hätten. Am Freitag erklärte die italienische Regierung, sie werde „Ultimaten“ nicht akzeptieren und nicht beabsichtigen, die Aussetzung des Schengen-Abkommens zu überdenken, bevor nicht alle Sicherheits- und Terrorrisiken für Italien beseitigt seien.",
+        "vocabulary": [
+          {
+            "word": "Grenzkontrollen",
+            "definition": "Maßnahmen, um Personen an der Grenze zu überprüfen."
+          },
+          {
+            "word": "Konflikt",
+            "definition": "Streit oder Auseinandersetzung zwischen zwei Parteien."
+          },
+          {
+            "word": "Einreise",
+            "definition": "Das Betreten eines Landes."
+          },
+          {
+            "word": "Migranten",
+            "definition": "Menschen, die aus einem Land in ein anderes ziehen."
+          },
+          {
+            "word": "Erwartung",
+            "definition": "Was man glaubt, dass es passieren wird."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann sind die neuen Grenzkontrollen in Kraft getreten?",
+            "options": [
+              "Am Montag",
+              "Um Mitternacht",
+              "Am Freitag"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Migranten sind nach Ceuta eingereist?",
+            "options": [
+              "78.000",
+              "15.000",
+              "100.000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer ist der sozialistische Führer Spaniens?",
+            "options": [
+              "Giorgia Meloni",
+              "Pedro Sanchez",
+              "Angela Merkel"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Spanien verhängt drastische Grenzkontrollen in Reaktion auf Migrantenströme aus Italien",
+        "text": "In einem besorgniserregenden Schritt hat Spanien heute Nacht die Grenzkontrollen für alle Luft- und Seeverbindungen aus Italien eingeführt, was die bestehenden Spannungen zwischen den beiden EU-Nationen, die sich in den letzten Wochen zugespitzt haben, weiter anheizt. Diese Maßnahmen, die bis zum 7. September gelten sollen, wurden als Reaktion auf einen massiven Zustrom von etwa 78.000 Migranten aus Marokko in die spanische Enklave Ceuta ergriffen. Der spanische Ministerpräsident Pedro Sanchez forderte seinerseits die italienische Regierung auf, ihre Kontrollen bis spätestens Sonntag zurückzunehmen, doch Italien erklärte, diese würden mindestens bis zum 15. August aufrechterhalten, da es mit einer weiteren Migrationswelle rechnet. Der Widerstand zwischen Sanchez und der konservativen italienischen Premierministerin Giorgia Meloni, die für striktere Migrationseinschränkungen plädiert, beleuchtet die tiefen politischen Gräben innerhalb der EU. Die italienische Regierung argumentiert, dass die vorübergehende Suspendierung des Schengen-Abkommens notwendig sei, um zu verhindern, dass Migranten, die in Ceuta angekommen sind, nach Italien reisen können. Madrid wies diese Haltung zurück und betonte, dass es sich um „spurious arguments“ handele, die keinen sachlichen Grund hätten. In der Antwort auf spanische Forderungen erklärte Italien, dass es keinesfalls bereit sei, seine Position zu revidieren, solange die Sicherheitslage in Italien nicht vollkommen stabil sei.",
+        "vocabulary": [
+          {
+            "word": "entschieden",
+            "definition": "mit Klarheit und Bestimmtheit handeln oder festlegen."
+          },
+          {
+            "word": "Zustrom",
+            "definition": "große Menge an Menschen oder Dingen, die gleichzeitig an einem Ort ankommen."
+          },
+          {
+            "word": "kontrovers",
+            "definition": "ein Thema, das viele unterschiedliche Meinungen hat."
+          },
+          {
+            "word": "Suspendierung",
+            "definition": "vorübergehende Aussetzung von Regeln oder Gesetzen."
+          },
+          {
+            "word": "Argumentation",
+            "definition": "die Art und Weise, wie man Gründe für etwas darstellt."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie viele Migranten wurden in die Enklave Ceuta gemeldet?",
+            "options": [
+              "78.000",
+              "50.000",
+              "100.000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Bis wann soll die Grenzkontrolle gültig sein?",
+            "options": [
+              "Bis zum 1. September",
+              "Bis zum 15. August",
+              "Bis zum 7. September"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Welcher Streitpunkt besteht zwischen den Regierungsführern?",
+            "options": [
+              "Verhältnis zur EU",
+              "Migration",
+              "Umweltschutz"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Spaniens grenzrechtliche Maßnahmen: Eine Reaktion auf die drängenden Migrantenströme aus Italien",
+        "text": "Die jüngsten politischen Entwicklungen zwischen Spanien und Italien erreichen einen neuen Höhepunkt, nachdem Madrid drastische Grenzkontrollen für alle Verbindungen aus Italien eingeführt hat. Diese Maßnahmen, die ab Mitternacht wirksam wurden und voraussichtlich bis zum 7. September gelten sollen, sind als direkte Reaktion auf einen signifikanten Zustrom von etwa 78.000 Migranten aus Marokko in die spanische Enklave Ceuta zu verstehen. Premierminister Pedro Sanchez forderte die italienischen Behörden umgehend auf, ihre Überprüfungen bis Sonntag zurückzustellen, doch Italien weigerte sich vehement, an ihrer Haltung festzuhalten, da Rom befürchtet, dass eine neue Migrationswelle die Situation weiter eskalieren könnte. In einer derartigen Eskalation spiegelt sich nicht nur die innereuropäische Zerstrittenheit wider, sondern auch die wachsenden Spannungen in der Migrationspolitik insgesamt. Italien, das als Nachbarstaat keine direkte Grenze zu Spanien unterhält, hat die Suspendierung des Schengen-Abkommens ins Feld geführt, um zu verhindern, dass Migranten, die bereits Ceuta erreicht haben, ihr Ziel Italien ansteuern. Madrid jedoch hat diese Argumentation scharf zurückgewiesen und bezeichnete sie als unhaltbar, da die Migranten keinen Zugang zum Schengen-Raum haben. In einer Antwort auf die spanischen Ultimaten erklärte Italien, dass die Überprüfung der Vorschriften nicht in Aussicht stehe, solange die Sicherheitslage in Italien nicht klar und stabil sei. Diese wechselnden Positionen der Regierungen stehen beispielhaft für die divergierenden Ansichten bezüglich der EU-Migrationspolitik und werfen grundlegende Fragen zur Solidarität innerhalb der Union auf. Die erwähnten Kontrollen haben zudem bereits zu erheblichen Wartezeiten an Flughäfen geführt, was die Situation für Reisende weiter kompliziert und die Fragilität des Schengen-Abkommens auf die Probe stellt.",
+        "vocabulary": [
+          {
+            "word": "drastisch",
+            "definition": "sehr stark oder heftig, oft in einem negativen Kontext."
+          },
+          {
+            "word": "Zustrom",
+            "definition": "ein plötzlicher, starker Zufluss von Menschen."
+          },
+          {
+            "word": "beispielhaft",
+            "definition": "musterhaft oder als gutes Beispiel angesehen."
+          },
+          {
+            "word": "Komplikation",
+            "definition": "eine schwierige oder verwickelte Situation."
+          },
+          {
+            "word": "Solidarität",
+            "definition": "Unterstützung oder Zusammenhalt zwischen Gruppen oder Nationen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was sind die Gründe für Spaniens Grenzkontrollen?",
+            "options": [
+              "Migrantenstrom",
+              "Wirtschaftskrise",
+              "Umweltschutz"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie lange sollen die Kontrollen dauern?",
+            "options": [
+              "Bis zum 7. September",
+              "Bis zum 1. August",
+              "Bis zum 15. August"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hat Spanien über die italienische Argumentation gesagt?",
+            "options": [
+              "Sie ist haltbar",
+              "Sie ist unhaltbar",
+              "Sie ist nicht relevant"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Contrôles aux frontières en Espagne",
+        "text": "L'Espagne a des contrôles aux frontières. Les contrôles sont pour les voyages aériens et maritimes d'Italie. Cela commence à minuit et dure un mois. Il y a beaucoup de migrants à Ceuta. Ces migrants viennent du Maroc. L'Espagne a besoin d'aide pour gérer les migrants. L'Italie a aussi des contrôles. Les deux pays se disputent. L'Espagne demande à l'Italie d'arrêter ses contrôles. Les autorités italiennes ne veulent pas. Les contrôles en Espagne sont stricts.",
+        "vocabulary": [
+          {
+            "word": "contrôles",
+            "definition": "Actions pour vérifier quelque chose."
+          },
+          {
+            "word": "frontières",
+            "definition": "Lignes qui séparent deux pays."
+          },
+          {
+            "word": "migrants",
+            "definition": "Personnes qui se déplacent d'un lieu à un autre."
+          },
+          {
+            "word": "Espagne",
+            "definition": "Un pays en Europe."
+          },
+          {
+            "word": "Italie",
+            "definition": "Un autre pays en Europe."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qu'est-ce que l'Espagne a?",
+            "options": [
+              "Des contrôles",
+              "Des vacances",
+              "Des villes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "D'où viennent les migrants?",
+            "options": [
+              "De France",
+              "Du Maroc",
+              "De l'Italie"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Combien de temps durent les contrôles?",
+            "options": [
+              "Un mois",
+              "Une semaine",
+              "Un an"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "L'Espagne établit des contrôles aux frontières",
+        "text": "L'Espagne a décidé d'imposer des contrôles aux frontières sur tous les voyages d'Italie. Cela commence à minuit et va durer un mois. Cette décision arrive après l'arrivée de 78 000 migrants du Maroc à Ceuta. L'Italie a déjà des contrôles en place. L'Espagne demande à l'Italie d'annuler ses mesures pour dimanche, mais l'Italie veut garder ses contrôles jusqu'au 15 août parce qu'elle craint une nouvelle vague de migrants. Les deux pays ont des opinions différentes sur cette situation. L'Espagne dit que les mesures de l'Italie ne sont pas justifiées. Les contrôles en Espagne sont pour les passagers italiens et cela crée des tensions. L'Espagne veut protéger ses frontières, mais l'Italie insiste sur ses droits. Les passagers ont remarqué des files d'attente longues et cela cause du stress. Les gouvernements de chaque pays essaient de trouver une solution, mais la situation ne s'améliore pas. Les relations entre les deux pays sont tendues et les deux leaders parlent beaucoup de l'immigration.",
+        "vocabulary": [
+          {
+            "word": "frontière",
+            "definition": "Ligne de séparation entre deux pays."
+          },
+          {
+            "word": "tension",
+            "definition": "Situation de conflit ou d'hostilité."
+          },
+          {
+            "word": "mesure",
+            "definition": "Action ou décision prise pour atteindre un but."
+          },
+          {
+            "word": "passager",
+            "definition": "Personne qui voyage, souvent dans un avion ou un train."
+          },
+          {
+            "word": "gouvernement",
+            "definition": "Ensemble des personnes qui dirigent un pays."
+          },
+          {
+            "word": "contrôle",
+            "definition": "Vérification de quelque chose."
+          },
+          {
+            "word": "attente",
+            "definition": "Durée pendant laquelle on reste dans l'espoir d'un événement."
+          },
+          {
+            "word": "solution",
+            "definition": "Réponse à un problème ou une difficulté."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand l'Espagne a-t-elle commencé les contrôles aux frontières ?",
+            "options": [
+              "À minuit",
+              "À midi",
+              "À 18 heures"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi l'Italie veut-elle garder ses mesures de contrôle ?",
+            "options": [
+              "Parce qu'elle a peur d'une nouvelle vague de migrants",
+              "Parce qu'elle veut diminuer les voyages",
+              "Parce qu'elle a des accords avec l'Espagne"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le sentiment général entre l'Espagne et l'Italie ?",
+            "options": [
+              "Amical",
+              "Tendu",
+              "Indifférent"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Les contrôles aux frontières entre l'Espagne et l'Italie",
+        "text": "L'Espagne a imposé des contrôles aux frontières pour les voyages aériens et maritimes d'Italie. Cette décision, qui a commencé à minuit et va durer un mois, est survenue suite à l'arrivée de près de 78 000 migrants du Maroc vers le territoire espagnol de Ceuta. Ce changement arrive à un moment où l'Italie a déjà introduit des mesures similaires pour limiter le flux de migrants. Si l'Italie pense que ces contrôles sont nécessaires pour assurer la sécurité de son pays, l'Espagne accuse Rome de ne pas soutenir les efforts pour gérer cette crise migratoire. En effet, les deux pays, qui sont membres de l'Union européenne, ont des opinions très différentes sur la manière de traiter les migrants. Le président espagnol, Pedro Sanchez, a demandé à l'Italie d'annuler ses contrôles avant dimanche. Toutefois, la réponse de Giorgia Meloni, la première ministre italienne, a été claire : elle compte garder ses vérifications jusqu'au 15 août, date à laquelle elle craint qu'une nouvelle vague de migrants n'arrive à Ceuta. Les contrôles ont causé des désagréments, avec de longues files d'attente dans les aéroports. De plus, ces mesures de sécurité, qui incluent des vérifications de passeports et de visas pour les passagers italiens, montrent l’intensification des tensions entre ces deux pays.",
+        "vocabulary": [
+          {
+            "word": "exclave",
+            "definition": "une zone territoriale séparée du pays auquel elle appartient, entourée par d'autres pays."
+          },
+          {
+            "word": "vérification",
+            "definition": "le fait de contrôler quelque chose pour s'assurer de sa conformité."
+          },
+          {
+            "word": "flux",
+            "definition": "un grand nombre de personnes ou de choses qui se déplacent dans une direction."
+          },
+          {
+            "word": "soutien",
+            "definition": "l'aide ou l'assistance apportée à quelqu'un."
+          },
+          {
+            "word": "mesures",
+            "definition": "des actions décidées pour atteindre un but particulier."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quand ont commencé les contrôles aux frontières que l'Espagne a imposés ?",
+            "options": [
+              "À minuit",
+              "À midi",
+              "À 8 heures du matin"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle est la raison principale des contrôles imposés par l'Espagne ?",
+            "options": [
+              "Pour gérer les migrants",
+              "Pour protéger les frontières",
+              "Pour des raisons économiques"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Jusqu'à quand l'Italie a-t-elle décidé de maintenir ses vérifications ?",
+            "options": [
+              "Jusqu'au 15 août",
+              "Jusqu'au 7 septembre",
+              "Jusqu'à la fin de l'année"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "L'Espagne impose des contrôles aux frontières contre l'Italie en raison de l'afflux de migrants à Ceuta",
+        "text": "L'Espagne a décidé d'imposer des contrôles aux frontières sur tous les vols et voyages maritimes en provenance d'Italie, à la suite d'une intensification des tensions entre les deux pays de l'UE. Ces mesures, mises en place à minuit, dureront un mois et interviennent une semaine après que l'Italie a introduit des restrictions similaires, suite à l'arrivée d'environ 78 000 migrants marocains dans l'enclave espagnole de Ceuta. Vendredi, l'Espagne a demandé à l'Italie de mettre fin à ses contrôles d'ici dimanche. Roma a précisé qu'ils resteraient en vigueur au moins jusqu'au 15 août, car l'Italie s'attend à une nouvelle vague migratoire à Ceuta. La crise a opposé le leader socialiste espagnol, Pedro Sanchez, à la dirigeante conservatrice italienne Giorgia Meloni, qui réclame des règles migratoires européennes plus strictes. Bien que l'Italie ne partage pas de frontière terrestre avec l'Espagne, son gouvernement a justifié la suspension temporaire de l'accord Schengen pour empêcher les migrants de Ceuta de se rendre en Italie. Toutefois, Madrid a qualifié cette position d'arguments ",
+        "vocabulary": [
+          {
+            "word": "afflux",
+            "definition": "grand nombre de personnes qui arrivent"
+          },
+          {
+            "word": "mesures",
+            "definition": "actions prises pour un but"
+          },
+          {
+            "word": "contrôles",
+            "definition": "vérifications des personnes"
+          },
+          {
+            "word": "gouvernement",
+            "definition": "autorité dirigeante d'un pays"
+          },
+          {
+            "word": "migrants",
+            "definition": "personnes qui se déplacent d'un pays à un autre"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi l'Espagne a-t-elle imposé des contrôles?",
+            "options": [
+              "À cause d'une dispute avec l'Italie.",
+              "Pour aider les migrants.",
+              "Pour empêcher les exercices militaires."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quand les mesures espagnoles ont-elles réellement commencé?",
+            "options": [
+              "À midi.",
+              "À minuit.",
+              "À 15h."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Jusqu'à quand les mesures d'Espagne devraient-elles durer?",
+            "options": [
+              "Jusqu'à la fin du mois.",
+              "Jusqu'au 7 septembre.",
+              "Jusqu'à 15 août."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Tensions croissantes entre l'Espagne et l'Italie suite à l'afflux de migrants à Ceuta",
+        "text": "Au cours des derniers jours, l'Espagne a imposé des contrôles aux frontières sur toutes les liaisons aériennes et maritimes en provenance d'Italie, une décision dictée par une intensification du conflit entre ces deux pays européens. Les restrictions, effectives depuis minuit, devraient perdurer pendant une durée d'un mois. Cette initiative fait suite à la mise en place par l'Italie de mesures similaires, provoquées par l'arrivée de près de 78 000 migrants marocains dans l'enclave espagnole de Ceuta. En réponse, Madrid a exigé que l'Italie abandonne ces contrôles d'ici dimanche. Cependant, le gouvernement italien a indiqué qu'ils demeureraient en place au moins jusqu'au 15 août, car il prévoit une nouvelle vague migratoire. Ce contentieux oppose le Premier ministre socialiste espagnol, Pedro Sanchez, à la dirigeante conservatrice italienne, Giorgia Meloni, connue pour son appel à des règles migratoires plus strictes dans l'UE. Il convient de noter qu'Italie ne partage aucune frontière terrestre avec l'Espagne. La décision de Rome de suspendre temporairement l'accord Schengen visait à barrer la route aux migrants arrivant de Ceuta vers l'Italie, dont Madrid réfute les motivations, les qualifiant d'arguments fallacieux. De plus, les autorités italiennes ont promis d'assurer le confort des citoyens espagnols entrant à leur arrivée, bien que des files d'attente aient été signalées récemment aux aéroports. Selon les informations officielles, les contrôles devraient durer jusqu'au 7 septembre, sauf si les circonstances changent.",
+        "vocabulary": [
+          {
+            "word": "conflit",
+            "definition": "désaccord ou opposition entre des parties"
+          },
+          {
+            "word": "décision",
+            "definition": "choix pris après réflexion"
+          },
+          {
+            "word": "suspendre",
+            "definition": "mettre un terme temporaire à quelque chose"
+          },
+          {
+            "word": "motivation",
+            "definition": "raison qui pousse à agir"
+          },
+          {
+            "word": "prévoir",
+            "definition": "anticiper ou s'attendre à quelque chose"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle action l'Espagne a-t-elle entreprise contre l'Italie?",
+            "options": [
+              "Elle a ouvert ses frontières.",
+              "Elle a imposé des contrôles aux frontières.",
+              "Elle a demandé l'aide de l'ONU."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi l'Italie a-t-elle maintenu ses contrôles?",
+            "options": [
+              "Pour empêcher un afflux de migrants.",
+              "Pour organiser des événements.",
+              "Pour accueillir des touristes."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Jusqu'à quand les contrôles doivent-ils durer?",
+            "options": [
+              "Jusqu'à la fin juillet.",
+              "Jusqu'au 15 août.",
+              "Jusqu'au 7 septembre."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "L'Espagne et l'Italie, en proie à un désaccord retentissant sur la gestion des flux migratoires",
+        "text": "Dans un cadre européen déjà tourmenté par des questions migratoires complexes, l'Espagne a récemment décidé d'imposer des contrôles frontaliers sur l'ensemble de ses liaisons aériennes et maritimes avec l'Italie. Cette décision, qui est entrée en vigueur à minuit, s'inscrit dans un contexte de tensions croissantes entre les deux états, exacerbées par un afflux de près de 78 000 migrants en provenance du Maroc, que l'Italie a tenté de gérer par des mesures similaires. Un ultimatum a alors été lancé par Madrid, demandant la fin des contrôles italiens d'ici dimanche. Cependant, Rome a rétorqué que ceux-ci resteraient en place au moins jusqu'au 15 août, anticipant une nouvelle vague migratoire imminente. Ce face-à-face oppose d'une part le Premier ministre socialiste espagnol, Pedro Sanchez, et d'autre part la cheffe du gouvernement italien, Giorgia Meloni, qui plaide pour un renforcement des régulations migratoires au sein de l'UE. Notons que l'Italie ne partage aucune frontière terrestre avec l'Espagne, mais a justifié la suspension temporaire de l'accord Schengen afin d'empêcher les migrants d'atteindre son territoire. La gouvernement espagnol qualifie cette justification de fallacieuse, arguant que les migrants à Ceuta n'ont pas d'accès au territoire Schengen. De surcroît, des files d'attente aux aéroports témoignent des difficultés rencontrées par les voyageurs, et l'Italie a promis d'assurer un minimum de confort aux citoyens espagnols. Les mesures, selon les declarations officielles, devraient persisté jusqu'au 7 septembre, sauf changement significatif des circonstances.",
+        "vocabulary": [
+          {
+            "word": "tourmenté",
+            "definition": "perturbé par des problèmes ou conflits"
+          },
+          {
+            "word": "ultimatum",
+            "definition": "demande pressante avec un délai imposé"
+          },
+          {
+            "word": "rétorquer",
+            "definition": "répondre rapidement et fermement"
+          },
+          {
+            "word": "fallacieuse",
+            "definition": "indiquant une fausse affirmation"
+          },
+          {
+            "word": "confort",
+            "definition": "sentiment de bien-être et de sécurité"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelles conséquences a eu la décision de l'Espagne sur les relations avec l'Italie?",
+            "options": [
+              "Une coopération renforcée.",
+              "Une montée des tensions.",
+              "Une résolution rapide du conflit."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Rome justifie-t-elle la suspension de l'accord Schengen?",
+            "options": [
+              "Pour des raisons de sécurité.",
+              "Pour accueillir plus de migrants.",
+              "Pour favoriser le tourisme."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle date a été fixée pour la fin des contrôles selon les autorités espagnoles?",
+            "options": [
+              "15 août.",
+              "7 septembre.",
+              "31 août."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "España controla la frontera con Italia",
+        "text": "España es un país europeo. España tiene problemas con Italia. Italia tiene muchos inmigrantes. Los inmigrantes vienen de Marruecos. España controla los viajes aéreos y marítimos. Estos controles comienzan a medianoche. Este control dura un mes. España quiere que Italia pare sus controles. Los ciudadanos españoles solo tienen que mostrar su identificación. Italia no tiene frontera terrestre con España. Los inmigrantes no pueden ir a Italia. España quiere proteger a su gente.",
+        "vocabulary": [
+          {
+            "word": "controlar",
+            "definition": "verificar o examinar algo"
+          },
+          {
+            "word": "frontera",
+            "definition": "línea que separa dos países"
+          },
+          {
+            "word": "inmigrante",
+            "definition": "persona que llega a un país"
+          },
+          {
+            "word": "identificación",
+            "definition": "documento que muestra quién eres"
+          },
+          {
+            "word": "proteger",
+            "definition": "cuidar algo de un peligro"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué país tiene problemas con España?",
+            "options": [
+              "Francia",
+              "Italia",
+              "Portugal"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿De dónde vienen los inmigrantes?",
+            "options": [
+              "Marruecos",
+              "Italia",
+              "España"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué controla España?",
+            "options": [
+              "La comida",
+              "Los viajes",
+              "La ropa"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "España impone controles fronterizos a Italia",
+        "text": "España ha impuesto controles fronterizos en la frontera con Italia. Estos controles comienzan a la medianoche y durarán un mes. La razón de estos controles es la llegada de muchos inmigrantes de Marruecos a Ceuta, un lugar en España. La semana pasada, Italia puso restricciones similares para controlar esta situación. Italia dice que sus controles quedarán hasta el 15 de agosto. España cree que estos controles son necesarios para gestionar el flujo de inmigrantes, porque el país espera más inmigrantes en agosto. El primer ministro español, Pedro Sánchez, ha exigido que Italia cancele sus controles, pero Italia dice que no aceptará ultimátums. Esta crisis ha creado tensión entre los dos países, especialmente entre Sánchez y la primera ministra italiana, Giorgia Meloni. Los ciudadanos españoles no necesitan un control adicional al viajar a Italia, pero otros visitantes sí tendrán controles de pasaportes. Esta situación podría afectar a muchas personas que viajan entre los dos países.",
+        "vocabulary": [
+          {
+            "word": "controles",
+            "definition": "medidas para supervisar o limitar el paso de personas o cosas"
+          },
+          {
+            "word": "inmigrantes",
+            "definition": "personas que llegan a otro país para vivir"
+          },
+          {
+            "word": "frontera",
+            "definition": "línea que separa dos países"
+          },
+          {
+            "word": "pasaporte",
+            "definition": "documento que autoriza a una persona a viajar al extranjero"
+          },
+          {
+            "word": "restricciones",
+            "definition": "limitaciones o normas que impiden ciertas acciones"
+          },
+          {
+            "word": "presión",
+            "definition": "fuerza o necesidad que impulsa a algo"
+          },
+          {
+            "word": "medidas",
+            "definition": "acciones o soluciones adoptadas para un problema"
+          },
+          {
+            "word": "gobierno",
+            "definition": "institución que dirige un país"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Por cuánto tiempo durarán los controles en la frontera?",
+            "options": [
+              "Una semana",
+              "Un mes",
+              "Hasta el 15 de agosto"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué país introdujo restricciones similares a las de España?",
+            "options": [
+              "Francia",
+              "Italia",
+              "Portugal"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué están controlando los funcionarios italianos?",
+            "options": [
+              "Pasaportes de españoles",
+              "Pasaportes de extranjeros",
+              "Sólo a los inmigrantes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "España refuerza controles fronterizos con Italia por crisis migratoria",
+        "text": "España ha decidido imponer controles fronterizos en todos los viajes aéreos y marítimos desde Italia. Esta medida comenzó a la medianoche y durará un mes. Italia ha experimentado una llegada masiva de inmigrantes de Marruecos, aproximadamente 78,000, hacia la ciudad autónoma de Ceuta. Una semana antes, Italia había introducido restricciones similares. España exige que Italia cancele sus controles antes del domingo, pero Roma ha declarado que mantendrá los suyos hasta al menos el 15 de agosto. La crisis abre un conflicto entre los líderes de ambos países, Pedro Sánchez y Giorgia Meloni. Italia no tiene una frontera terrestre con España. Además, Italia ha justificado sus controles para evitar que los inmigrantes lleguen a su territorio. España rechaza esta afirmación, argumentando que no hay posibilidad de que esos inmigrantes accedan a la zona Schengen desde Ceuta. En respuesta a las medidas de Italia, el gobierno español anunció que también realizará controles a los pasajeros italianos y de otros países. Estos incluyen verificar pasaportes y visados.",
+        "vocabulary": [
+          {
+            "word": "imponer",
+            "definition": "establecer algo como obligatorio"
+          },
+          {
+            "word": "migrante",
+            "definition": "persona que deja su país para vivir en otro"
+          },
+          {
+            "word": "conflicto",
+            "definition": "una disputa o problema entre dos partes"
+          },
+          {
+            "word": "justificar",
+            "definition": "dar razones para defender una idea"
+          },
+          {
+            "word": "afirmación",
+            "definition": "algo que se dice como verdad"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué ha hecho España con los viajes desde Italia?",
+            "options": [
+              "Ha cancelado todos los vuelos",
+              "Ha impuesto controles fronterizos",
+              "No ha hecho nada"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos inmigrantes llegaron de Marruecos?",
+            "options": [
+              "78,000",
+              "50,000",
+              "100,000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué país no tiene frontera terrestre con España?",
+            "options": [
+              "Francia",
+              "Italia",
+              "Portugal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "España impone controles fronterizos a Italia por la crisis migratoria en Ceuta",
+        "text": "España ha decidido establecer controles fronterizos en todos los viajes aéreos y marítimos provenientes de Italia, mientras la controversia entre ambos países de la UE se intensifica. Estas medidas, que comenzaron a la medianoche del viernes, tendrán una duración aproximada de un mes. Esta acción se produce una semana después de que Italia impusiera restricciones similares debido al ingreso de aproximadamente 78,000 migrantes desde Marruecos hacia la ciudad española de Ceuta. El viernes, España exigió a Italia que revocara sus chequeos antes del domingo. Sin embargo, Roma respondió que las restricciones se mantendrían al menos hasta el 15 de agosto, argumentando que se prevé una nueva ola migratoria que afectaría a Ceuta. Esta crisis ha enfrentado al líder socialista español, Pedro Sánchez, con la líder conservadora italiana, Giorgia Meloni, quien desde hace tiempo aboga por reglas más estrictas para la migración en la UE. Aunque Italia no tiene una frontera terrestre con España, el gobierno italiano declaró la semana pasada que la suspensión temporal del acuerdo Schengen se realizó para evitar que los migrantes que entraron en Ceuta se trasladaran a Italia. Madrid rechazó esta justificación, señalando que carecía de fundamento, ya que dichos migrantes no podrían ingresar al área Schengen. Como respuesta a la amenaza española, el gobierno de Italia indicó que no aceptaría \"ultimatums\" y que no reconsideraría su decisión sobre el acuerdo Schengen hasta que se eliminaran todos los riesgos de seguridad.",
+        "vocabulary": [
+          {
+            "word": "controles",
+            "definition": "Inspecciones y regulaciones."
+          },
+          {
+            "word": "exigió",
+            "definition": "Pidió con firmeza."
+          },
+          {
+            "word": "justificación",
+            "definition": "Razón o argumento."
+          },
+          {
+            "word": "respuesta",
+            "definition": "Reacción a algo."
+          },
+          {
+            "word": "frontera",
+            "definition": "Límite entre dos países."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuándo empezaron los controles fronterizos?",
+            "options": [
+              "El viernes",
+              "A la medianoche",
+              "El domingo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos migrantes llegaron a Ceuta desde Marruecos?",
+            "options": [
+              "78,000",
+              "15,000",
+              "100,000"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué quería España de Italia?",
+            "options": [
+              "Revertir sus chequeos",
+              "Aumentar sus controles",
+              "Cerrar sus fronteras"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Controles Fronterizos entre España e Italia en medio de la Crisis Migratoria",
+        "text": "En un contexto de creciente fricción entre España e Italia, el Gobierno español ha decidido implementar controles fronterizos en todos los viajes aéreos y marítimos procedentes de Italia. Estas restricciones comenzaron a la medianoche y tendrán una duración de un mes, surgiendo una semana después de que Italia, en respuesta a la llegada de aproximadamente 78,000 migrantes desde Marruecos hacia Ceuta, adoptara medidas similares. Ayer, las autoridades españolas exigieron a Italia que anulara sus inspecciones antes del domingo, un requerimiento que el gobierno italiano desestimó, asegurando que mantendrá sus controles al menos hasta el 15 de agosto, dado que anticipa una nueva oleada migratoria. Esta situación ha polarizado a los líderes de ambos países: el socialista Pedro Sánchez y la conservadora Giorgia Meloni, quien ha abogado por políticas migratorias más estrictas en la UE. Aunque Italia no cuenta con una frontera terrestre con España, el gobierno italiano justificó la suspensión temporal del acuerdo Schengen como una medida preventiva para evitar que los migrantes se trasladen a su territorio. Por su parte, Madrid rechazó estas explicaciones, argumentando que estaban basadas en afirmaciones infundadas. A su vez, el Gobierno italiano se manifestó en contra de lo que calificó de \"ultimatums\" por parte de España, señalando que no reconsiderará su enfoque en cuanto al Schengen hasta eliminar los riesgos de seguridad.",
+        "vocabulary": [
+          {
+            "word": "fricción",
+            "definition": "Tensión o conflicto entre dos partes."
+          },
+          {
+            "word": "justificó",
+            "definition": "Explicó la razón de algo."
+          },
+          {
+            "word": "oleada",
+            "definition": "Gran cantidad o movimiento repentino."
+          },
+          {
+            "word": "polarizado",
+            "definition": "Dividido en posturas opuestas."
+          },
+          {
+            "word": "reconsiderar",
+            "definition": "Volver a pensar sobre una decisión."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué medida tomó España respecto a Italia?",
+            "options": [
+              "Cerró la frontera",
+              "Implementó controles fronterizos",
+              "Aumentó los vuelos"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuánto tiempo durarán las restricciones?",
+            "options": [
+              "Un mes",
+              "Dos semanas",
+              "Hasta el 15 de agosto"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué argumento usó el Gobierno español contra Italia?",
+            "options": [
+              "Las acusaciones eran infundadas",
+              "Dijo que se estaba preparado",
+              "Aceptó las restricciones"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Crisis Fronteriza entre España e Italia: Un Análisis de la Controversia Migratoria",
+        "text": "El reciente establecimiento de controles fronterizos por parte de España en todos los transportes aéreos y marítimos desde Italia revela una intensa escalada en la discordia entre ambos países, exacerbada por la reciente oleada migratoria que ha llevado a la llegada de unas 78,000 personas a la enclavada Ceuta. Esta medida, implementada a la medianoche y con una vigencia temporal de un mes, se erige como respuesta a la presión ejercida por los flujos migratorios, y surge tras la imposición por parte de Italia de restricciones análogas. Por lo tanto, el viernes, España, a través de declaraciones oficiales, demandó a Italia la anulación de sus inspecciones para el domingo siguiente. Sin embargo, el gobierno italiano rechazó dicha exigencia, insistiendo en que sus controles se mantendrían hasta el 15 de agosto, bajo el argumento de anticipar otra oleada migratoria. Este choque no solo ha tensionado las relaciones diplomáticas entre Pedro Sánchez y Giorgia Meloni, líderes de corte opuesto en el espectro político, sino que también ha suscitado debates en torno a la regulación migratoria en la UE. Italia, que carece de una frontera terrestre con España, justifica la suspensión del acuerdo Schengen para evitar que los migrantes que ingresen a Ceuta se desplacen hacia su territorio. España, por su parte, ha descalificado las explicaciones italianas como infundadas, afirmando que no tiene fundamento, dado que los migrantes carecen de acceso a la zona Schengen. Ante esta situación, Roma ha calificado de inaceptables los ultimátums españoles, declarando que no modificará su postura hasta que se garantice la eliminación total de los riesgos de seguridad.",
+        "vocabulary": [
+          {
+            "word": "escalada",
+            "definition": "Aumento de un conflicto o tensión."
+          },
+          {
+            "word": "exacerbada",
+            "definition": "Intensificada o agravada."
+          },
+          {
+            "word": "enclavada",
+            "definition": "Situada en un lugar rodeado de algo."
+          },
+          {
+            "word": "descalificado",
+            "definition": "Rechazado o desacreditado."
+          },
+          {
+            "word": "inaceptables",
+            "definition": "Que no se pueden aceptar."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué reveló el establecimiento de controles fronterizos?",
+            "options": [
+              "Un aumento en el comercio",
+              "Una intensa escalada en la discordia",
+              "Una mejora en las relaciones"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál es el argumento del gobierno italiano?",
+            "options": [
+              "Proteger su territorio",
+              "Abrir sus fronteras",
+              "Aumentar sus vuelos"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo describió España las explicaciones italianas?",
+            "options": [
+              "Como infundadas",
+              "Como válidas",
+              "Como intuitivas"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "spanien": "spain",
+      "kontrolliert": "controlled",
+      "die": "the",
+      "grenze": "border",
+      "zu": "to",
+      "italien": "Italy",
+      "hat": "has",
+      "kontrollen": "checks",
+      "sind": "are",
+      "für": "for",
+      "luft": "air",
+      "und": "and",
+      "see-reisen": "to cruise",
+      "das": "that",
+      "beginnt": "begins",
+      "um": "around",
+      "mitternacht": "midnight",
+      "es": "it",
+      "dauert": "lasts",
+      "einen": "a",
+      "monat": "month",
+      "viele": "many",
+      "migranten": "migrants",
+      "sie": "they",
+      "kommen": "come",
+      "aus": "from",
+      "marokko": "Morocco",
+      "in": "in",
+      "ceuta": "Ceuta",
+      "ist": "is",
+      "ein": "a",
+      "teil": "part",
+      "von": "from",
+      "der": "the",
+      "spanische": "Spanish",
+      "führer": "leader",
+      "sagt": "says",
+      "soll": "shall",
+      "stoppen": "to stop",
+      "will": "wants",
+      "bis": "up to",
+      "zum": "to the",
+      "august": "August",
+      "haben": "to have",
+      "nicht": "not",
+      "richtig": "correct",
+      "keine": "no",
+      "situation": "situation",
+      "sehr": "very",
+      "schwer": "heavy",
+      "beide": "both",
+      "länder": "countries",
+      "am": "at the",
+      "samstag": "Saturday",
+      "neue": "new",
+      "an": "at",
+      "eingeführt": "introduced",
+      "diese": "this",
+      "alle": "everyone",
+      "reisen": "to travel",
+      "mit": "with",
+      "dem": "the",
+      "flugzeug": "airplane",
+      "schiff": "ship",
+      "neuen": "new",
+      "regeln": "rules",
+      "beginnen": "to begin",
+      "nacht": "night",
+      "dauern": "to last",
+      "vor": "before",
+      "einer": "one",
+      "woche": "week",
+      "ähnliche": "similar",
+      "wegen": "because of",
+      "vieler": "many",
+      "über": "about",
+      "menschen": "people",
+      "nach": "after",
+      "gekommen": "come",
+      "nordafrika": "North Africa",
+      "fordert": "demands",
+      "auf": "to",
+      "seine": "his",
+      "aber": "but",
+      "gesagt": "said",
+      "dass": "that",
+      "kontrollieren": "to control",
+      "wird": "will",
+      "auch": "also",
+      "eine": "a",
+      "welle": "wave",
+      "erwartet": "expected",
+      "macht": "makes",
+      "beziehung": "relationship",
+      "zwischen": "between",
+      "oft": "often",
+      "diesen": "these",
+      "beiden": "both",
+      "ländern": "countries",
+      "einige": "some",
+      "besorgt": "worried",
+      "auswirkungen": "effects",
+      "regierung": "government",
+      "maßnahmen": "measures",
+      "notwendig": "necessary",
+      "nachbarn": "neighbors",
+      "migration": "migration",
+      "sensibles": "sensitive",
+      "thema": "theme",
+      "betreffen": "to affect",
+      "touristen": "tourists",
+      "weil": "because",
+      "zusätzliche": "additional",
+      "zeit": "time",
+      "flughafen": "airport",
+      "brauchen": "to need",
+      "spannungen": "tensions",
+      "den": "the",
+      "könnten": "could",
+      "weiteren": "further",
+      "problemen": "problems",
+      "führen": "to lead",
+      "eu": "EU",
+      "beobachtet": "observed",
+      "genau": "exactly",
+      "zusammenarbeit": "cooperation",
+      "stärken": "to strengthen",
+      "möchte": "would like",
+      "führt": "leads",
+      "grenzkontrollen": "border controls",
+      "gegen": "against",
+      "maßnahme": "measure",
+      "begann": "began",
+      "grund": "ground",
+      "dafür": "for that",
+      "exklave": "exclave",
+      "historischen": "historical",
+      "hintergrund": "background",
+      "als": "than",
+      "handelsweg": "trade route",
+      "letzten": "last",
+      "jahren": "years",
+      "gab": "gave",
+      "diskussionen": "discussions",
+      "führte": "led",
+      "etwa": "about",
+      "relativ": "relatively",
+      "kurzer": "short",
+      "angekommen": "arrived",
+      "beenden": "to end",
+      "betont": "emphasized",
+      "bleiben": "to stay",
+      "werden": "will",
+      "zeigen": "to show",
+      "wie": "like",
+      "kompliziert": "complicated",
+      "europa": "europe",
+      "argumente": "arguments",
+      "wahr": "true",
+      "kein": "no",
+      "direkter": "direct",
+      "weg": "way",
+      "hingegen": "on the other hand",
+      "wichtig": "important",
+      "sicherheit": "security",
+      "gewährleisten": "to ensure",
+      "falls": "if",
+      "bald": "soon",
+      "besser": "better",
+      "weiter": "continue",
+      "zunehmen": "to increase",
+      "was": "what",
+      "problematisch": "problematic",
+      "wäre": "would be",
+      "verantwortlichen": "those responsible",
+      "politiker": "politician",
+      "planen": "to plan",
+      "weiterhin": "still",
+      "lösungen": "solutions",
+      "arbeiten": "to work",
+      "sowohl": "both",
+      "bürger": "citizens",
+      "schützen": "to protect",
+      "verhängt": "imposed",
+      "migrantenkrise": "migrant crisis",
+      "seeverbindungen": "sea connections",
+      "da": "there",
+      "sich": "oneself",
+      "konflikt": "conflict",
+      "eu-ländern": "EU countries",
+      "verschärft": "intensified",
+      "traten": "occurred",
+      "gmt": "GMT",
+      "kraft": "power",
+      "sollen": "should",
+      "lang": "long",
+      "bestehen": "to consist",
+      "zuvor": "previously",
+      "hatte": "had",
+      "beschränkungen": "restrictions",
+      "nachdem": "after",
+      "enklave": "enclave",
+      "eingereist": "entered",
+      "waren": "were",
+      "freitag": "Friday",
+      "forderte": "demanded",
+      "sonntag": "Sunday",
+      "zurückzunehmen": "to withdraw",
+      "rom": "Rome",
+      "antwortete": "answered",
+      "würden": "would",
+      "mindestens": "at least",
+      "erwarte": "expect",
+      "krise": "crisis",
+      "einem": "a",
+      "streit": "dispute",
+      "sozialistischen": "socialist",
+      "spaniens": "Spain's",
+      "pedro": "Pedro",
+      "sanchez": "sanchez",
+      "konservativen": "conservative",
+      "italienischen": "Italian",
+      "premierministerin": "prime minister (female)",
+      "giorgia": "giorgia",
+      "meloni": "meloni",
+      "geführt": "led",
+      "seit": "since",
+      "langem": "long",
+      "strengere": "stricter",
+      "eu-migrationsregeln": "EU migration rules",
+      "landgrenze": "border",
+      "italienische": "Italian",
+      "erklärte": "explained",
+      "letzte": "last",
+      "vorübergehende": "temporary",
+      "aussetzung": "suspension",
+      "des": "of the",
+      "schengen-abkommens": "Schengen agreement",
+      "dazu": "additionally",
+      "diene": "to serve",
+      "verhindern": "to prevent",
+      "erreicht": "reached",
+      "weiterreisen": "to continue traveling",
+      "madrid": "madrid",
+      "wies": "pointed",
+      "position": "position",
+      "zurück": "back",
+      "nannte": "named",
+      "spurious": "spurious",
+      "arguments": "arguments",
+      "keinen": "no",
+      "faktischen": "factual",
+      "hätten": "would have",
+      "werde": "will",
+      "ultimaten": "ultimatums",
+      "akzeptieren": "to accept",
+      "beabsichtigen": "to intend",
+      "überdenken": "to reconsider",
+      "bevor": "before",
+      "sicherheits": "security",
+      "terrorrisiken": "terror risks",
+      "beseitigt": "removed",
+      "seien": "are",
+      "drastische": "drastic",
+      "reaktion": "reaction",
+      "migrantenströme": "migrant flows",
+      "besorgniserregenden": "concerning",
+      "schritt": "step",
+      "heute": "today",
+      "bestehenden": "existing",
+      "eu-nationen": "EU nations",
+      "wochen": "weeks",
+      "zugespitzt": "intensified",
+      "anheizt": "incites",
+      "september": "September",
+      "gelten": "to apply",
+      "wurden": "were",
+      "massiven": "massive",
+      "zustrom": "influx",
+      "ergriffen": "taken",
+      "ministerpräsident": "prime minister",
+      "seinerseits": "on his part",
+      "ihre": "their",
+      "spätestens": "at the latest",
+      "doch": "but",
+      "aufrechterhalten": "to maintain",
+      "migrationswelle": "migration wave",
+      "rechnet": "calculates",
+      "widerstand": "resistance",
+      "striktere": "stricter",
+      "migrationseinschränkungen": "migration restrictions",
+      "plädiert": "advocates",
+      "beleuchtet": "illuminated",
+      "tiefen": "deep",
+      "politischen": "political",
+      "gräben": "ditches",
+      "innerhalb": "within",
+      "argumentiert": "argued",
+      "suspendierung": "suspension",
+      "sei": "is",
+      "können": "can",
+      "haltung": "attitude",
+      "betonte": "stressed",
+      "handele": "act",
+      "sachlichen": "objective",
+      "antwort": "answer",
+      "forderungen": "demands",
+      "keinesfalls": "under no circumstances",
+      "bereit": "ready",
+      "revidieren": "to revise",
+      "solange": "as long as",
+      "sicherheitslage": "security situation",
+      "vollkommen": "completely",
+      "stabil": "stable",
+      "grenzrechtliche": "border legal",
+      "drängenden": "pressing",
+      "jüngsten": "recent",
+      "entwicklungen": "developments",
+      "erreichen": "to reach",
+      "höhepunkt": "peak",
+      "verbindungen": "connections",
+      "ab": "from",
+      "wirksam": "effective",
+      "voraussichtlich": "expected",
+      "direkte": "direct",
+      "signifikanten": "significant",
+      "verstehen": "to understand",
+      "premierminister": "prime minister",
+      "behörden": "authorities",
+      "umgehend": "immediately",
+      "überprüfungen": "checks",
+      "zurückzustellen": "to postpone",
+      "weigerte": "refused",
+      "vehement": "vehemently",
+      "ihrer": "their",
+      "festzuhalten": "to capture",
+      "befürchtet": "feared",
+      "eskalieren": "to escalate",
+      "könnte": "could",
+      "derartigen": "such",
+      "eskalation": "escalation",
+      "spiegelt": "reflects",
+      "nur": "only",
+      "innereuropäische": "intra-European",
+      "zerstrittenheit": "disunity",
+      "wider": "against",
+      "sondern": "but",
+      "wachsenden": "growing",
+      "migrationspolitik": "migration policy",
+      "insgesamt": "overall",
+      "nachbarstaat": "neighboring state",
+      "unterhält": "entertains",
+      "ins": "into",
+      "feld": "field",
+      "bereits": "already",
+      "ihr": "your",
+      "ziel": "goal",
+      "ansteuern": "to head for",
+      "jedoch": "however",
+      "argumentation": "argumentation",
+      "scharf": "sharp",
+      "zurückgewiesen": "rejected",
+      "bezeichnete": "designated",
+      "unhaltbar": "untenable",
+      "zugang": "access",
+      "schengen-raum": "Schengen area",
+      "spanischen": "spanish",
+      "überprüfung": "review",
+      "vorschriften": "regulations",
+      "aussicht": "prospect",
+      "stehe": "stand",
+      "klar": "clear",
+      "wechselnden": "changing",
+      "positionen": "positions",
+      "regierungen": "governments",
+      "stehen": "to stand",
+      "beispielhaft": "exemplary",
+      "divergierenden": "diverging",
+      "ansichten": "views",
+      "bezüglich": "regarding",
+      "eu-migrationspolitik": "EU migration policy",
+      "werfen": "to throw",
+      "grundlegende": "fundamental",
+      "fragen": "questions",
+      "zur": "to the",
+      "solidarität": "solidarity",
+      "union": "union",
+      "erwähnten": "mentioned",
+      "zudem": "furthermore",
+      "erheblichen": "significant",
+      "wartezeiten": "waiting times",
+      "flughäfen": "airports",
+      "reisende": "traveler",
+      "fragilität": "fragility",
+      "probe": "sample",
+      "stellt": "presents"
+    },
+    "fr": {
+      "contrôles": "controls",
+      "aux": "to the",
+      "frontières": "borders",
+      "en": "in",
+      "espagne": "Spain",
+      "des": "some",
+      "les": "the",
+      "sont": "are",
+      "pour": "for",
+      "voyages": "travels",
+      "aériens": "aerial",
+      "et": "and",
+      "maritimes": "maritime",
+      "italie": "Italy",
+      "cela": "that",
+      "commence": "starts",
+      "minuit": "midnight",
+      "dure": "last",
+      "un": "a",
+      "mois": "months",
+      "il": "he",
+      "beaucoup": "a lot",
+      "de": "of",
+      "migrants": "migrants",
+      "ceuta": "Ceuta",
+      "ces": "these",
+      "viennent": "come",
+      "du": "of the",
+      "maroc": "Morocco",
+      "besoin": "need",
+      "aide": "help",
+      "gérer": "to manage",
+      "aussi": "also",
+      "deux": "two",
+      "pays": "country",
+      "se": "yourself",
+      "disputent": "argue",
+      "demande": "request",
+      "arrêter": "to stop",
+      "ses": "his",
+      "autorités": "authorities",
+      "italiennes": "Italian",
+      "ne": "not",
+      "veulent": "want",
+      "pas": "not",
+      "stricts": "strict",
+      "établit": "establishes",
+      "décidé": "decided",
+      "imposer": "to impose",
+      "sur": "about",
+      "tous": "all",
+      "va": "goes",
+      "durer": "to last",
+      "cette": "this",
+      "décision": "decision",
+      "arrive": "to arrive",
+      "après": "after",
+      "arrivée": "arrival",
+      "déjà": "already",
+      "place": "place",
+      "annuler": "to cancel",
+      "mesures": "measures",
+      "dimanche": "Sunday",
+      "mais": "but",
+      "veut": "wants",
+      "garder": "to keep",
+      "jusqu'au": "until the",
+      "août": "August",
+      "parce": "because",
+      "elle": "she",
+      "craint": "fears",
+      "une": "a",
+      "nouvelle": "new",
+      "vague": "wave",
+      "ont": "have",
+      "opinions": "opinions",
+      "différentes": "different",
+      "situation": "situation",
+      "dit": "says",
+      "que": "that",
+      "justifiées": "justified",
+      "passagers": "passengers",
+      "italiens": "Italians",
+      "crée": "creates",
+      "tensions": "tensions",
+      "protéger": "to protect",
+      "insiste": "insists",
+      "droits": "rights",
+      "remarqué": "noticed",
+      "files": "queues",
+      "attente": "waiting",
+      "longues": "long",
+      "cause": "cause",
+      "stress": "stress",
+      "gouvernements": "governments",
+      "chaque": "each",
+      "essaient": "try",
+      "trouver": "to find",
+      "solution": "solution",
+      "la": "the",
+      "améliore": "improves",
+      "relations": "relations",
+      "entre": "between",
+      "tendues": "tense",
+      "leaders": "leaders",
+      "parlent": "speak",
+      "immigration": "immigration",
+      "imposé": "imposed",
+      "qui": "who",
+      "commencé": "started",
+      "est": "is",
+      "survenue": "occurred",
+      "suite": "following",
+      "près": "near",
+      "vers": "towards",
+      "le": "the",
+      "territoire": "territory",
+      "espagnol": "Spanish",
+      "ce": "this",
+      "changement": "change",
+      "moment": "moment",
+      "où": "where",
+      "introduit": "introduces",
+      "similaires": "similar",
+      "limiter": "to limit",
+      "flux": "flow",
+      "si": "if",
+      "pense": "thinks",
+      "nécessaires": "necessary",
+      "assurer": "to ensure",
+      "sécurité": "security",
+      "son": "his",
+      "accuse": "accuses",
+      "rome": "rome",
+      "soutenir": "to support",
+      "efforts": "efforts",
+      "crise": "crisis",
+      "migratoire": "migratory",
+      "effet": "effect",
+      "membres": "members",
+      "union": "union",
+      "européenne": "European",
+      "très": "very",
+      "manière": "manner",
+      "traiter": "to deal",
+      "président": "president",
+      "pedro": "Pedro",
+      "sanchez": "Sanchez",
+      "demandé": "requested",
+      "avant": "before",
+      "toutefois": "however",
+      "réponse": "response",
+      "giorgia": "Giorgia",
+      "meloni": "Meloni",
+      "première": "first",
+      "ministre": "minister",
+      "italienne": "Italian",
+      "été": "been",
+      "claire": "clear",
+      "compte": "account",
+      "vérifications": "checks",
+      "date": "date",
+      "laquelle": "which",
+      "causé": "caused",
+      "désagréments": "inconveniences",
+      "avec": "with",
+      "dans": "in",
+      "aéroports": "airports",
+      "plus": "more",
+      "incluent": "include",
+      "passeports": "passports",
+      "visas": "visas",
+      "montrent": "show",
+      "intensification": "intensification",
+      "impose": "imposes",
+      "contre": "against",
+      "raison": "reason",
+      "afflux": "influx",
+      "vols": "flights",
+      "provenance": "origin",
+      "ue": "EU",
+      "mises": "sets",
+      "dureront": "will last",
+      "interviennent": "intervene",
+      "semaine": "week",
+      "restrictions": "restrictions",
+      "environ": "about",
+      "marocains": "Moroccan",
+      "enclave": "enclave",
+      "espagnole": "Spanish",
+      "vendredi": "Friday",
+      "mettre": "to put",
+      "fin": "end",
+      "ici": "here",
+      "roma": "Rome",
+      "précisé": "specified",
+      "ils": "they",
+      "resteraient": "would remain",
+      "vigueur": "force",
+      "au": "at the",
+      "moins": "less",
+      "car": "because",
+      "attend": "to wait",
+      "opposé": "opposite",
+      "leader": "leader",
+      "socialiste": "socialist",
+      "dirigeante": "leader",
+      "conservatrice": "conservative",
+      "réclame": "demands",
+      "règles": "rules",
+      "migratoires": "migratory",
+      "européennes": "European",
+      "strictes": "strict",
+      "bien": "well",
+      "partage": "sharing",
+      "frontière": "border",
+      "terrestre": "earthly",
+      "gouvernement": "government",
+      "justifié": "justified",
+      "suspension": "suspension",
+      "temporaire": "temporary",
+      "accord": "agreement",
+      "schengen": "Schengen",
+      "empêcher": "to prevent",
+      "rendre": "to give back",
+      "madrid": "Madrid",
+      "qualifié": "qualified",
+      "position": "position",
+      "arguments": "arguments",
+      "croissantes": "growing",
+      "cours": "course",
+      "derniers": "last",
+      "jours": "days",
+      "toutes": "all",
+      "liaisons": "connections",
+      "aériennes": "air",
+      "dictée": "dictation",
+      "par": "by",
+      "conflit": "conflict",
+      "européens": "Europeans",
+      "effectives": "effective",
+      "depuis": "since",
+      "devraient": "should",
+      "perdurer": "endure",
+      "pendant": "during",
+      "durée": "duration",
+      "initiative": "initiative",
+      "fait": "makes",
+      "mise": "put",
+      "provoquées": "provoked",
+      "exigé": "required",
+      "abandonne": "abandon",
+      "cependant": "however",
+      "italien": "Italian",
+      "indiqué": "indicated",
+      "demeureraient": "would remain",
+      "prévoit": "forecasts",
+      "contentieux": "litigation",
+      "oppose": "oppose",
+      "premier": "first",
+      "connue": "known",
+      "appel": "call",
+      "convient": "suitable",
+      "noter": "note",
+      "aucune": "none",
+      "suspendre": "to suspend",
+      "temporairement": "temporarily",
+      "visait": "aimed",
+      "barrer": "to block",
+      "route": "road",
+      "arrivant": "arriving",
+      "dont": "whose",
+      "réfute": "refutes",
+      "motivations": "motivations",
+      "qualifiant": "qualifying",
+      "fallacieux": "fallacious",
+      "promis": "promised",
+      "confort": "comfort",
+      "citoyens": "citizens",
+      "espagnols": "Spanish",
+      "entrant": "incoming",
+      "leur": "their",
+      "aient": "have",
+      "signalées": "reported",
+      "récemment": "recently",
+      "selon": "according",
+      "informations": "information",
+      "officielles": "official",
+      "septembre": "September",
+      "sauf": "except",
+      "circonstances": "circumstances",
+      "changent": "change",
+      "proie": "prey",
+      "désaccord": "disagreement",
+      "retentissant": "resounding",
+      "gestion": "management",
+      "cadre": "framework",
+      "européen": "European",
+      "tourmenté": "tormented",
+      "questions": "questions",
+      "complexes": "complexes",
+      "frontaliers": "border",
+      "ensemble": "together",
+      "entrée": "entry",
+      "inscrit": "inscribed",
+      "contexte": "context",
+      "états": "states",
+      "exacerbées": "exacerbated",
+      "tenté": "tempted",
+      "ultimatum": "ultimatum",
+      "alors": "then",
+      "lancé": "launched",
+      "demandant": "demanding",
+      "rétorqué": "retorted",
+      "ceux-ci": "these",
+      "anticipant": "anticipating",
+      "imminente": "imminent",
+      "face-à-face": "face-to-face",
+      "part": "part",
+      "autre": "other",
+      "cheffe": "chief",
+      "plaide": "pleads",
+      "renforcement": "strengthening",
+      "régulations": "regulations",
+      "sein": "breast",
+      "notons": "let's note",
+      "afin": "in order to",
+      "atteindre": "to reach",
+      "qualifie": "qualifies",
+      "justification": "justification",
+      "fallacieuse": "fallacious",
+      "arguant": "arguing",
+      "accès": "access",
+      "surcroît": "surplus",
+      "témoignent": "testify",
+      "difficultés": "difficulties",
+      "rencontrées": "encountered",
+      "voyageurs": "travelers",
+      "minimum": "minimum",
+      "declarations": "statements",
+      "persisté": "persisted",
+      "significatif": "significant"
+    },
+    "es": {
+      "españa": "spain",
+      "controla": "controls",
+      "la": "the",
+      "frontera": "border",
+      "con": "with",
+      "italia": "Italy",
+      "es": "is",
+      "un": "a",
+      "país": "country",
+      "europeo": "European",
+      "tiene": "has",
+      "problemas": "problems",
+      "muchos": "many",
+      "inmigrantes": "immigrants",
+      "los": "the",
+      "vienen": "they come",
+      "de": "of",
+      "marruecos": "Morocco",
+      "viajes": "trips",
+      "aéreos": "aerial",
+      "marítimos": "maritime",
+      "estos": "these",
+      "controles": "controls",
+      "comienzan": "begin",
+      "medianoche": "midnight",
+      "este": "this",
+      "control": "control",
+      "dura": "hard",
+      "mes": "month",
+      "quiere": "wants",
+      "que": "that",
+      "pare": "seem",
+      "sus": "their",
+      "ciudadanos": "citizens",
+      "españoles": "Spanish",
+      "solo": "only",
+      "tienen": "have",
+      "mostrar": "to show",
+      "su": "his",
+      "identificación": "identification",
+      "no": "not",
+      "terrestre": "land",
+      "pueden": "can",
+      "ir": "to go",
+      "proteger": "to protect",
+      "gente": "people",
+      "impone": "imposes",
+      "fronterizos": "border",
+      "ha": "has",
+      "impuesto": "tax",
+      "en": "in",
+      "durarán": "will last",
+      "razón": "reason",
+      "llegada": "arrival",
+      "ceuta": "Ceuta",
+      "lugar": "place",
+      "semana": "week",
+      "pasada": "past",
+      "puso": "put",
+      "restricciones": "restrictions",
+      "similares": "similar",
+      "para": "to",
+      "controlar": "to control",
+      "esta": "this",
+      "situación": "situation",
+      "dice": "says",
+      "quedarán": "will remain",
+      "hasta": "until",
+      "el": "the",
+      "agosto": "August",
+      "cree": "he/she/they believe",
+      "son": "are",
+      "necesarios": "necessary",
+      "gestionar": "to manage",
+      "flujo": "flow",
+      "porque": "because",
+      "espera": "expects",
+      "más": "more",
+      "primer": "first",
+      "ministro": "minister",
+      "español": "Spanish",
+      "pedro": "peter",
+      "sánchez": "sánchez",
+      "exigido": "demanded",
+      "cancele": "cancel",
+      "pero": "but",
+      "aceptará": "will accept",
+      "ultimátums": "ultimatums",
+      "crisis": "crisis",
+      "creado": "created",
+      "tensión": "tension",
+      "entre": "between",
+      "dos": "two",
+      "países": "countries",
+      "especialmente": "especially",
+      "primera": "first",
+      "ministra": "minister",
+      "italiana": "Italian",
+      "giorgia": "Giorgia",
+      "meloni": "Meloni",
+      "necesitan": "they need",
+      "adicional": "additional",
+      "al": "to the",
+      "viajar": "to travel",
+      "otros": "others",
+      "visitantes": "visitors",
+      "sí": "yes",
+      "tendrán": "will have",
+      "pasaportes": "passports",
+      "podría": "could",
+      "afectar": "to affect",
+      "muchas": "many",
+      "personas": "people",
+      "viajan": "travel",
+      "refuerza": "strengthens",
+      "por": "for",
+      "migratoria": "migratory",
+      "decidido": "decided",
+      "imponer": "to impose",
+      "todos": "all",
+      "desde": "since",
+      "medida": "measure",
+      "comenzó": "began",
+      "durará": "will last",
+      "experimentado": "experienced",
+      "una": "a",
+      "masiva": "massive",
+      "aproximadamente": "approximately",
+      "hacia": "toward",
+      "ciudad": "city",
+      "autónoma": "autonomous",
+      "antes": "before",
+      "había": "had",
+      "introducido": "introduced",
+      "exige": "demands",
+      "del": "of the",
+      "domingo": "Sunday",
+      "roma": "rome",
+      "declarado": "declared",
+      "mantendrá": "will maintain",
+      "suyos": "yours",
+      "menos": "less",
+      "abre": "opens",
+      "conflicto": "conflict",
+      "líderes": "leaders",
+      "ambos": "both",
+      "además": "furthermore",
+      "justificado": "justified",
+      "evitar": "to avoid",
+      "lleguen": "they arrive",
+      "territorio": "territory",
+      "rechaza": "he rejects",
+      "afirmación": "affirmation",
+      "argumentando": "arguing",
+      "hay": "there is",
+      "posibilidad": "possibility",
+      "esos": "those",
+      "accedan": "agree",
+      "zona": "zone",
+      "schengen": "Schengen",
+      "respuesta": "response",
+      "las": "the",
+      "medidas": "measures",
+      "gobierno": "government",
+      "anunció": "announced",
+      "también": "also",
+      "realizará": "will carry out",
+      "pasajeros": "passengers",
+      "italianos": "Italians",
+      "incluyen": "include",
+      "verificar": "to verify",
+      "visados": "visas",
+      "establecer": "to establish",
+      "provenientes": "coming",
+      "mientras": "while",
+      "controversia": "controversy",
+      "ue": "eu",
+      "se": "oneself",
+      "intensifica": "intensifies",
+      "estas": "these",
+      "comenzaron": "they began",
+      "viernes": "Friday",
+      "duración": "duration",
+      "aproximada": "approximate",
+      "acción": "action",
+      "produce": "produces",
+      "después": "after",
+      "impusiera": "imposed",
+      "debido": "due",
+      "ingreso": "income",
+      "migrantes": "migrants",
+      "española": "spanish",
+      "exigió": "demanded",
+      "revocara": "revoked",
+      "chequeos": "checks",
+      "sin": "without",
+      "embargo": "however",
+      "respondió": "he responded",
+      "mantendrían": "would maintain",
+      "prevé": "foresees",
+      "nueva": "new",
+      "ola": "wave",
+      "afectaría": "would affect",
+      "enfrentado": "faced",
+      "líder": "leader",
+      "socialista": "socialist",
+      "conservadora": "conservative",
+      "quien": "who",
+      "hace": "ago",
+      "tiempo": "time",
+      "aboga": "advocates",
+      "reglas": "rules",
+      "estrictas": "strict",
+      "migración": "migration",
+      "aunque": "although",
+      "italiano": "Italian",
+      "declaró": "declared",
+      "suspensión": "suspension",
+      "temporal": "temporary",
+      "acuerdo": "agreement",
+      "realizó": "carried out",
+      "entraron": "entered",
+      "trasladaran": "would transfer",
+      "madrid": "Madrid",
+      "rechazó": "rejected",
+      "justificación": "justification",
+      "señalando": "pointing",
+      "carecía": "lacked",
+      "fundamento": "foundation",
+      "ya": "already",
+      "dichos": "said",
+      "podrían": "could",
+      "ingresar": "to enter",
+      "área": "area",
+      "como": "like",
+      "amenaza": "threat",
+      "indicó": "indicated",
+      "aceptaría": "would accept",
+      "ultimatums": "ultimatums",
+      "reconsideraría": "would reconsider",
+      "decisión": "decision",
+      "sobre": "about",
+      "eliminaran": "eliminated",
+      "riesgos": "risks",
+      "seguridad": "security",
+      "medio": "means",
+      "contexto": "context",
+      "creciente": "growing",
+      "fricción": "friction",
+      "implementar": "to implement",
+      "procedentes": "from",
+      "surgiendo": "emerging",
+      "adoptara": "adopted",
+      "ayer": "yesterday",
+      "autoridades": "authorities",
+      "españolas": "Spanish",
+      "exigieron": "demanded",
+      "anulara": "canceled",
+      "inspecciones": "inspections",
+      "requerimiento": "requirement",
+      "desestimó": "dismissed",
+      "asegurando": "ensuring",
+      "dado": "given",
+      "anticipa": "anticipates",
+      "oleada": "wave",
+      "polarizado": "polarized",
+      "abogado": "lawyer",
+      "políticas": "political",
+      "migratorias": "migratory",
+      "cuenta": "account",
+      "justificó": "justified",
+      "preventiva": "preventive",
+      "trasladen": "transfer",
+      "parte": "part",
+      "explicaciones": "explanations",
+      "estaban": "were",
+      "basadas": "based",
+      "afirmaciones": "statements",
+      "infundadas": "unfounded",
+      "vez": "time",
+      "manifestó": "stated",
+      "contra": "against",
+      "lo": "it",
+      "calificó": "qualified",
+      "reconsiderará": "will reconsider",
+      "enfoque": "approach",
+      "cuanto": "as much",
+      "eliminar": "to eliminate",
+      "fronteriza": "border",
+      "análisis": "analysis",
+      "reciente": "recent",
+      "establecimiento": "establishment",
+      "transportes": "transports",
+      "revela": "reveals",
+      "intensa": "intense",
+      "escalada": "escalation",
+      "discordia": "discord",
+      "exacerbada": "exacerbated",
+      "llevado": "carried",
+      "unas": "some",
+      "enclavada": "enclaved",
+      "implementada": "implemented",
+      "vigencia": "validity",
+      "erige": "erects",
+      "presión": "pressure",
+      "ejercida": "exercised",
+      "flujos": "flows",
+      "migratorios": "migratory",
+      "surge": "emerges",
+      "tras": "after",
+      "imposición": "imposition",
+      "análogas": "analogous",
+      "tanto": "so much",
+      "través": "through",
+      "declaraciones": "statements",
+      "oficiales": "officials",
+      "demandó": "he/she demanded",
+      "anulación": "revocation",
+      "siguiente": "next",
+      "dicha": "said",
+      "exigencia": "demand",
+      "insistiendo": "insisting",
+      "bajo": "under",
+      "argumento": "argument",
+      "anticipar": "anticipate",
+      "otra": "another",
+      "choque": "shock",
+      "tensionado": "tense",
+      "relaciones": "relations",
+      "diplomáticas": "diplomatic",
+      "corte": "court",
+      "opuesto": "opposite",
+      "espectro": "spectrum",
+      "político": "political",
+      "sino": "but",
+      "suscitado": "raised",
+      "debates": "debates",
+      "torno": "lathe",
+      "regulación": "regulation",
+      "carece": "lacks",
+      "justifica": "justifies",
+      "ingresen": "enter",
+      "desplacen": "displace",
+      "descalificado": "disqualified",
+      "italianas": "Italian",
+      "afirmando": "affirming",
+      "carecen": "lack",
+      "acceso": "access",
+      "ante": "in the face of",
+      "calificado": "qualified",
+      "inaceptables": "unacceptable",
+      "declarando": "declaring",
+      "modificará": "will modify",
+      "postura": "stance",
+      "garantice": "guarantee",
+      "eliminación": "removal",
+      "total": "total"
+    }
+  }
+}
