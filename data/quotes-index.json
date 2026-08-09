@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-09-anton-chekhov-do-you-remember-you-shot-a-sea",
+    "date": "2026-08-09",
+    "author": "Anton Chekhov",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anton_Chekhov_1889.jpg/330px-Anton_Chekhov_1889.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "titles": {
+      "en": "Do you remember you shot a seagull? A man came by chance, saw it and destroyed it, just to pass the time.",
+      "de": "Do you remember you shot a seagull? A man came by chance, saw it and destroyed it, just to pass the time.",
+      "fr": "Do you remember you shot a seagull? A man came by chance, saw it and destroyed it, just to pass the time.",
+      "es": "Do you remember you shot a seagull? A man came by chance, saw it and destroyed it, just to pass the time."
+    }
+  },
+  {
     "id": "2026-08-08-ralph-waldo-emerson-everything-in-the-universe-goe",
     "date": "2026-08-08",
     "author": "Ralph Waldo Emerson",
