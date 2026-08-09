@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-09-hans-memling-the-annunciation",
+    "date": "2026-08-09",
+    "artist": "Hans Memling",
+    "image": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-40424-001.jpg",
+    "titles": {
+      "en": "The Annunciation",
+      "de": "Die Verkündigung und ihre Bedeutung",
+      "fr": "Analyse de L'Annonciation par Hans Memling",
+      "es": "La Anunciación de Hans Memling"
+    }
+  },
+  {
     "id": "2026-08-08-francesco-casanova-cavalier-and-shepherd",
     "date": "2026-08-08",
     "artist": "Francesco Casanova",
