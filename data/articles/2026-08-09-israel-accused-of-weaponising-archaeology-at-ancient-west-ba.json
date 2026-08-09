@@ -1,0 +1,2593 @@
+{
+  "id": "2026-08-09-israel-accused-of-weaponising-archaeology-at-ancient-west-ba",
+  "date": "2026-08-09",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Israel accused of weaponising archaeology at ancient West Bank sites",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Israel Takes Palestinian Land",
+        "text": "In the West Bank, Israel takes land. This land is near Sebastia. Some families have worked this land for a long time. Abu Mudif owns some of this land. He gets a letter from Israel. The letter says Israel will take his land. Abu Mudif is sad. He feels it is like losing his soul. Nahed Sakha has a restaurant. It may be destroyed soon. He worries about the local people. They want to keep their heritage. UNESCO says this is a World Heritage site. The land is important for history. People want to protect it from Israel.",
+        "vocabulary": [
+          {
+            "word": "heritage",
+            "definition": "the history or culture of a place"
+          },
+          {
+            "word": "destroyed",
+            "definition": "to be made useless, damaged, or broken"
+          },
+          {
+            "word": "important",
+            "definition": "having great value or meaning"
+          },
+          {
+            "word": "sad",
+            "definition": "feeling unhappy"
+          },
+          {
+            "word": "people",
+            "definition": "a group of human beings"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Israel want to do with the land?",
+            "options": [
+              "Take it",
+              "Give it back",
+              "Sell it"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How does Abu Mudif feel about losing his land?",
+            "options": [
+              "Happy",
+              "Sad",
+              "Angry"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does UNESCO say about the land?",
+            "options": [
+              "It is not important",
+              "It is a World Heritage site",
+              "People can build there"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Israel's Land Claims in Sebastia",
+        "text": "Israel has taken land in Sebastia, a place in the West Bank. This land is around 450 acres, and many families worked there for years. Abu Mudif, one landowner, received a letter from Israeli authorities. They say they will use his land to create a national park. Abu Mudif does not agree with this because he feels it is like losing part of himself. Nahed Sakha has a restaurant in the village, but it might be destroyed soon. He worries that the plan will cut off local people from their history. UNESCO has called this site a World Heritage site, which means it is very important. Local people fear for their rights and want to save their heritage. They ask for support from others to stop this loss.",
+        "vocabulary": [
+          {
+            "word": "authorities",
+            "definition": "people in charge, like government workers"
+          },
+          {
+            "word": "local",
+            "definition": "related to a small area or community"
+          },
+          {
+            "word": "created",
+            "definition": "made or brought into existence"
+          },
+          {
+            "word": "important",
+            "definition": "having great meaning or value"
+          },
+          {
+            "word": "support",
+            "definition": "help or assistance"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What will Israel do with Abu Mudif's land?",
+            "options": [
+              "Make it a national park",
+              "Sell it",
+              "Give it back"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Why does Nahed Sakha worry?",
+            "options": [
+              "The restaurant may close",
+              "He is happy",
+              "He has enough money"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does UNESCO call the site?",
+            "options": [
+              "A local park",
+              "A World Heritage site",
+              "An ordinary place"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Israel's Archaeology and Land Disputes in Sebastia",
+        "text": "The Israeli authorities have recently taken control of land in Sebastia, a significant site in the West Bank that holds deep historical and cultural importance for Palestinians. About 450 acres of land are involved in this action, which has caused a lot of distress among the local community. Families like that of Abu Mudif, who have cultivated this land for generations, feel a profound sense of loss. Abu Mudif has received a letter indicating that his property is now set to become part of a national park. He believes this decision harms both his livelihood and identity, as he cannot imagine life without his land. \nNahed Sakha, who owns a local restaurant, fears it could soon be demolished, which would take away his source of income. He thinks the Israeli plan disconnects Palestinians from their rich history. UNESCO has recognized Sebastia as a World Heritage site and has expressed concerns about its preservation. The site is significant for its archaeological value from various periods, including the Romans and Jews. Local residents have asked for international support to safeguard their land and heritage against these developments. The situation raises questions about the impact on local culture and the community’s history, as if the current trends continue, many may lose their connection to the land that has sustained them for so long.",
+        "vocabulary": [
+          {
+            "word": "heritage",
+            "definition": "cultural traditions and history that are passed down through generations."
+          },
+          {
+            "word": "livelihood",
+            "definition": "the means by which someone earns a living or makes money."
+          },
+          {
+            "word": "cultivated",
+            "definition": "grown or produced by farming."
+          },
+          {
+            "word": "preservation",
+            "definition": "the act of keeping something safe, in good condition, or from being damaged."
+          },
+          {
+            "word": "significant",
+            "definition": "important or having a major effect."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What has happened to Abu Mudif's land?",
+            "options": [
+              "It has been developed into a national park.",
+              "It has been sold to other families.",
+              "It has been preserved without changes."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "How does Nahed Sakha feel about the Israeli plan?",
+            "options": [
+              "He supports it entirely.",
+              "He fears losing his restaurant.",
+              "He believes it will help the community."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is UNESCO's concern regarding Sebastia?",
+            "options": [
+              "Its historical significance is well recognized.",
+              "The site's preservation is at risk due to development.",
+              "More people are visiting the site each year."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Israel Accused of Weaponising Archaeology in the West Bank",
+        "text": "In the hills near Sebastia, an ancient site in the occupied West Bank, Palestinian families have cultivated olive fields for generations. However, one landowner, Abu Mudif, recently learned that his land, part of roughly 450 acres, is being taken by Israeli authorities. They claim this action is necessary to preserve and develop the site for a new national park. Generally, Palestinian landowners receive minimal or no compensation for such land seizures, and many refuse any offers. Accepting payment is viewed as recognition of their dispossession. Abu Mudif expressed deep emotional distress about losing his land, stating, \"It’s like having your soul ripped away.\" Local restaurant owner Nahed Sakha voiced concerns that the Israeli government intends to cut off Palestinian residents from their ancient heritage. The United Nations cultural agency, Unesco, has placed Sebastia on its World Heritage List and listed it as a site in danger due to the planned expropriation efforts aimed at constructing the 'Samaria' national park. The Israeli government, meanwhile, has begun allocation of significant funds to enhance their control over archaeological sites in the West Bank, often bypassing local consultation and diminishing Palestinian cultural heritage rights.",
+        "vocabulary": [
+          {
+            "word": "expropriate",
+            "definition": "to take someone’s property for public use"
+          },
+          {
+            "word": "heritage",
+            "definition": "cultural background, history or property that is passed down from previous generations"
+          },
+          {
+            "word": "dispossession",
+            "definition": "the act of taking away someone's property or possessions"
+          },
+          {
+            "word": "preserve",
+            "definition": "to maintain something in its original state or protect it from damage"
+          },
+          {
+            "word": "development",
+            "definition": "the process of improving or designing something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Abu Mudif say about losing his land?",
+            "options": [
+              "It is not important to him.",
+              "It feels like losing his soul.",
+              "He is happy to receive compensation."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What has Unesco done regarding Sebastia?",
+            "options": [
+              "Added it to the World Heritage List.",
+              "Closed it to the public.",
+              "Removed its heritage status."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What is the purpose of the Israeli government's actions in Sebastia?",
+            "options": [
+              "To improve local farming.",
+              "To create a new national park.",
+              "To build homes for Palestinians."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Israel's Use of Archaeology Sparks Controversy Over Land Rights in the West Bank",
+        "text": "Perched high above the ancient ruins of Sebastia in the occupied West Bank, sprawling olive fields have been cultivated by Palestinian families for centuries. Recently, one landowner, Abu Mudif, revealed that the Israeli authorities have notified him that his land is among approximately 450 acres being expropriated. They assert that such actions are crucial for the protection and enhancement of the site as part of a new national park initiative. It is noteworthy that most Palestinian landowners either receive minimal compensation or none at all for loss of their land, and many decline any offers fearing it may imply acceptance of their dispossession. For Mudif, losing his land resonates deeply, as he articulated, \"It feels like having your soul ripped away.\" Moreover, Nahed Sakha, a local restaurateur, expressed concerns over the Israeli plans to isolate Palestinians from their significant archaeological heritage. Unesco, recognizing the site's value, has placed Sebastia on its World Heritage List and categorized it as endangered, emphasizing that the proposed expropriation poses a serious threat. As the conflict unfolds, local leaders, including Mayor Mohammed Azem, emphasize the need for community engagement in heritage preservation efforts, while the Israeli government continues to invest significantly in archaeological developments, raising questions over the future of Palestinian heritage rights.",
+        "vocabulary": [
+          {
+            "word": "perched",
+            "definition": "situated on a high or elevated place"
+          },
+          {
+            "word": "assert",
+            "definition": "to state confidently or firmly"
+          },
+          {
+            "word": "resonate",
+            "definition": "to have a significant emotional effect"
+          },
+          {
+            "word": "significant",
+            "definition": "important and meaningful"
+          },
+          {
+            "word": "emphasize",
+            "definition": "to give special importance or prominence to something"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Abu Mudif feel about the loss of his land?",
+            "options": [
+              "He finds it unimportant.",
+              "It feels very significant to him.",
+              "He is indifferent."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What has Unesco declared about Sebastia?",
+            "options": [
+              "It is no longer a World Heritage Site.",
+              "It is listed as endangered.",
+              "It has been removed from the list."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is the Israeli government doing regarding archaeological sites?",
+            "options": [
+              "Investing in their development.",
+              "Planning to demolish all sites.",
+              "Stopping any construction."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Politicization of Archaeology: Israel's Controversial Expropriation in Sebastia",
+        "text": "Nestled among the ruins of Sebastia, an archeological gem steeped in history and located in the occupied West Bank, Palestinian communities find their ancestral lands threatened by a recent expropriation directive from Israeli authorities. Abu Mudif, one of the affected landowners, poignantly articulated, \"It feels as if my soul has been violently wrenched away.\" This is not merely a bureaucratic displacement but a profound emotional upheaval for those who perceive their land as an intrinsic part of their identity. The notion that the Israeli government is prioritizing archaeological preservation and development is being met with skepticism by local residents, who fear that such initiatives will sever their connection to their rich heritage. Unesco's recent designation of Sebastia as a World Heritage Site in Danger highlights the complexities surrounding not only the preservation of cultural sites but also the geopolitical ramifications of Israeli policies. The ongoing tension is palpable; the villagers, represented by figures like Mayor Mohammed Azem, call for greater involvement in decisions affecting their heritage. Meanwhile, proponents of these Israeli initiatives argue that they are safeguarding historical narratives, yet critics assert these actions serve as a guise for dispossession. Ultimately, a nuanced discussion of the rights to heritage and land is crucial as both sides navigate this fraught landscape.",
+        "vocabulary": [
+          {
+            "word": "intrinsic",
+            "definition": "essential to the nature of something"
+          },
+          {
+            "word": "upheaval",
+            "definition": "a strong or violent disturbance"
+          },
+          {
+            "word": "skepticism",
+            "definition": "doubt about the truth or value of something"
+          },
+          {
+            "word": "ramifications",
+            "definition": "the consequences or effects of an action"
+          },
+          {
+            "word": "palpable",
+            "definition": "able to be touched, felt, or perceived"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does Abu Mudif compare losing his land to?",
+            "options": [
+              "A physical loss.",
+              "Loss of his soul.",
+              "Finding new opportunities."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Unesco's designation indicate about Sebastia?",
+            "options": [
+              "It is recognized as a World Heritage Site.",
+              "It is being restored completely.",
+              "It has lost its cultural significance."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What do critics say about Israeli archaeological initiatives?",
+            "options": [
+              "They are meant for preservation purposes.",
+              "They disguise intentions of dispossession.",
+              "They benefit the local community."
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Israel und Geschichtsforschung",
+        "text": "In Sebastia gibt es alte Gebäude. Die Palästinenser haben Olivenfelder. Abu Mudif hat Land. Israel will das Land für einen Park. Er bekommt kein Geld dafür. Viele sagen nein zu dem Geld. Sie verlieren auch ihre Kultur. Nahed hat ein Restaurant. Das Restaurant ist gefährdet. Die Israelis wollen die Palästinenser wegschicken. Unesco schützt Sebastia. Es gibt viele alte Dinge dort. Das Land ist sehr wichtig. Die Menschen haben Angst. Sie haben nicht viel Geld. Die Israelis sind stärker. Es gibt viele Probleme.",
+        "vocabulary": [
+          {
+            "word": "Land",
+            "definition": "ein Stück Erde, wo man etwas hat"
+          },
+          {
+            "word": "Olivenfelder",
+            "definition": "Felder mit Olivenbäumen"
+          },
+          {
+            "word": "Restaurant",
+            "definition": "ein Ort, wo man essen kann"
+          },
+          {
+            "word": "Park",
+            "definition": "ein großer Garten für alle"
+          },
+          {
+            "word": "Kultur",
+            "definition": "das, was Menschen wichtig ist"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was will Israel in Sebastia machen?",
+            "options": [
+              "Ein Park bauen",
+              "Ein Restaurant öffnen",
+              "Bäume pflanzen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wer hat Olivenfelder?",
+            "options": [
+              "Die Israelis",
+              "Abu Mudif",
+              "Die Unesco"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was schützt die Unesco?",
+            "options": [
+              "Sebastia",
+              "Ein Restaurant",
+              "Ein Hotel"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Israels Pläne in Sebastia",
+        "text": "In Sebastia gibt es viele alte Ruinen. Die Palästinenser haben dort Olivenfelder. Abu Mudif hat ein großes Stück Land. Israel will dieses Land für einen neuen Park nehmen. Sie sagen, sie wollen die Ruinen schützen. Abu Mudif bekommt kein Geld. Viele Landbesitzer nehmen kein Geld, weil sie nicht zustimmen wollen. Sie sehen ihr Land als Teil ihrer Geschichte. Nahed hat ein kleines Restaurant. Es soll abgerissen werden. Die Israelis wollen die Leute von den alten Bauwerken fernhalten. Die Unesco hat Sebastia nun als gefährdet erklärt. Diese alten Orte sind sehr wichtig für die Kultur der Palästinenser. Der Bürgermeister sagt, die Menschen sind besorgt. Sie haben Angst vor dem israelischen Militär und den Siedlern. Es gibt immer mehr Spannungen.",
+        "vocabulary": [
+          {
+            "word": "Ruinen",
+            "definition": "alte, kaputte Gebäude"
+          },
+          {
+            "word": "Landbesitzer",
+            "definition": "jemand, der Land hat"
+          },
+          {
+            "word": "Bauwerke",
+            "definition": "Wichtige Gebäude oder Ruinen"
+          },
+          {
+            "word": "Militär",
+            "definition": "Soldaten, die ein Land schützen"
+          },
+          {
+            "word": "Siedler",
+            "definition": "Leute, die in einem neuen Gebiet wohnen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was macht Israel mit dem Land?",
+            "options": [
+              "Es bleibt das Land",
+              "Es wird ein Park",
+              "Es wird ein Hotel"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer hat ein Restaurant?",
+            "options": [
+              "Abu Mudif",
+              "Nahed",
+              "Der Bürgermeister"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum haben die Menschen Angst?",
+            "options": [
+              "Vor alten Ruinen",
+              "Vor Soldaten und Siedlern",
+              "Vor anderen Menschen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Archäologie und Landkonflikte in Sebastia",
+        "text": "Sebastia ist eine Stadt im Westjordanland mit vielen alten Ruinen, die eine wichtige Rolle in der Geschichte und Kultur Palästinas spielen. Die Ruinen sind nicht nur für Touristen von Interesse, sondern auch für die Palästinenser, deren Erbe dort verwurzelt ist. Die Familie von Abu Mudif hat Olivenfelder in der Nähe, die seit Generationen bewirtschaftet werden. Vor kurzem hat er erfahren, dass Israel ein großes Stück seines Landes übernimmt, um einen nationalen Park zu schaffen. Wenn die staatlichen Behörden sein Land enteignen, erhält er oft kein Geld oder nur sehr wenig. Viele Landbesitzer, die wie er betroffen sind, fühlen sich schlecht, weil sie ihr Erbe verlieren. Für sie ist ihr Land ein Teil ihrer Identität. \n\nNahed Sakha, der ein Restaurant in der Nähe besitzt, ist ebenfalls besorgt. Sein Restaurant soll abgerissen werden, was für ihn auch wirtschaftliche Schwierigkeiten bedeutet. Viele Palästinenser glauben, dass Israel plant, sie von dem wunderschönen archäologischen Gebiet fernzuhalten, das Jahrhunderte alte Überreste aus verschiedenen Epochen zeigt. Die Unesco hat Sebastia in die Liste des Weltkulturerbes in Gefahr aufgenommen, was zeigt, wie ernst die Situation ist. Der Bürgermeister, Mohammed Azem, hat gesagt, dass die Menschen besorgt über die Kontrolle der Israelis sind. Sie sind überzeugt, dass internationaler Druck notwendig ist, um ihr Recht auf das Land zu sichern. Wenn sie es nicht bekommen, werden sie möglicherweise ihre Kultur und ihr Zuhause verlieren. Die Situation bleibt angespannt und viele fordern Solidarität.",
+        "vocabulary": [
+          {
+            "word": "enteignen",
+            "definition": "Wenn der Staat das Eigentum einer Person ohne deren Zustimmung übernimmt."
+          },
+          {
+            "word": "Erbe",
+            "definition": "Die Traditionen, Werte und das Vermögen, die von einer Generation an die nächste weitergegeben werden."
+          },
+          {
+            "word": "Weltkulturerbe",
+            "definition": "Ein Ort oder eine Struktur, die von der Unesco als besonders wertvoll für die Menschheit anerkannt ist."
+          },
+          {
+            "word": "Kultur",
+            "definition": "Die Bräuche, Traditionen und Lebensweisen einer Gruppe von Menschen."
+          },
+          {
+            "word": "Bürgermeister",
+            "definition": "Die Person, die das Stadt- oder Gemeindebüro leitet."
+          },
+          {
+            "word": "archäologisch",
+            "definition": "Etwas, das mit der Untersuchung von alten Kulturen und deren Ruheplätzen zu tun hat."
+          },
+          {
+            "word": "national",
+            "definition": "Etwas, was ein ganzes Land betrifft oder innerhalb dessen Grenzen liegt."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Warum fühlen sich die Landbesitzer schlecht?",
+            "options": [
+              "Weil sie ihr Erbe verlieren.",
+              "Weil sie viel Geld bekommen.",
+              "Weil sie keine Oliven haben."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was für eine Art von Park wollen die israelischen Behörden schaffen?",
+            "options": [
+              "Einen natürlichen Park.",
+              "Einen nationalen Park.",
+              "Einen archäologischen Park."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat die Unesco mit Sebastia gemacht?",
+            "options": [
+              "Es hat Sebastia gekauft.",
+              "Es hat Sebastia in die Liste des Weltkulturerbes aufgenommen.",
+              "Es hat Sebastia abgerissen."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Israel wird beschuldigt, Archäologie zur Enteignung von Land zu nutzen",
+        "text": "Im Westjordanland, in Sebastia, befinden sich antike Stätten, die von den Palästinensern seit Generationen bewirtschaftet werden. Ein Landbesitzer, Abu Mudif, wurde darüber informiert, dass sein Land Teil einer Fläche von etwa 450 Acres ist, die die israelischen Behörden zur Schaffung eines nationalen Parks in Besitz nehmen wollen. In der Regel erhalten palästinensische Landbesitzer keine oder nur geringe Entschädigungen für die Enteignung ihres Landes. Selbst wenn ihnen eine Entschädigung angeboten wird, lehnen die meisten sie ab, da sie dies als Anerkennung des Verlustes ihres Erbes betrachten. Für Abu Mudif ist der Verlust seines Landes eine grundlegende Gefährdung seiner Existenz. Er beschreibt den schmerzlichen Verlust als das Gefühl, dass die eigene Seele ihm entrissen wird. Zusätzlich ist auch das Restaurant von Nahed Sakha bedroht, dessen Betreiber anführt, dass der israeli-sche Plan darauf abzielt, palästinensische Bewohner von den archäologischen Stätten abzuschneiden. Die UNESCO hat Sebastia nun auf ihre Liste des Weltkulturerbes gesetzt und warnt vor der geplanten Enteignung und dem Bau des nationalen Parks, der das Erbe teilen könnte. Der Bürgermeister von Sebastia, Mohammed Azem, äußert Besorgnis über die Sicherheit der Anwohner und die Möglichkeit einer Konfrontation mit israelischen Sicherheitskräften. Die palästinensischen Behörden hoffen, dass die internationale Anerkennung durch die UNESCO ihren Widerstand gegen die Enteignungen unterstützen könnte. Israels Außenminister hingegen sieht die Entscheidung als Versuch, historische jüdische Verbindungen zu schmälern.",
+        "vocabulary": [
+          {
+            "word": "Enteignung",
+            "definition": "Wenn jemandes Land oder Eigentum von der Regierung genommen wird."
+          },
+          {
+            "word": "Erbe",
+            "definition": "Das, was man von seinen Vorfahren erbt."
+          },
+          {
+            "word": "Sicherheit",
+            "definition": "Der Zustand, in dem man sich sicher fühlt."
+          },
+          {
+            "word": "kulturell",
+            "definition": "Alles, was mit Kultur zu tun hat."
+          },
+          {
+            "word": "bezogen",
+            "definition": "Etwas, was in Zusammenhang mit etwas anderem steht."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was plant Israel in Sebastia?",
+            "options": [
+              "Einen neuen Freizeitpark",
+              "Einen nationalen Park",
+              "Eine Einkaufstraße"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum lehnen viele Landbesitzer Entschädigungen ab?",
+            "options": [
+              "Sie möchten kein Geld",
+              "Sie sehen es als Anerkennung ihres Verlustes",
+              "Sie haben kein Land mehr"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat die UNESCO über Sebastia beschlossen?",
+            "options": [
+              "Es ist ein gefährdetes Kulturerbe",
+              "Es wird abgerissen",
+              "Es wird privat verkauft"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Kritik an Israels archäologischen Enteignungen in Sebastia",
+        "text": "In den Hügeln über Sebastia, wo römische Säulen stehen, bewirtschaften palästinensische Familien seit Generationen Olivenfelder. Abu Mudif, ein Landbesitzer, berichtete, dass ihm mitgeteilt wurde, sein Land umfassende etwa 450 Acres sei zur Schaffung eines nationalen Parks beschlagnahmt worden. Der Eigentumsübergang geschieht oft ohne adäquate Entschädigung, was für viele palästinensische Eigentümer einen tiefen emotionalen und wirtschaftlichen Verlust darstellt. Abu Mudif thematisierte dies, indem er den Verlust seines Landes als das Empfinden bezeichnete, es werde ihm die Seele entrissen. Gleichzeitig sieht Nahed Sakha, der Betreiber eines Restaurants, seine Existenz bedroht. Seiner Einschätzung nach zielt die israelische Strategie darauf ab, palästinensische Bewohner von der historischen Stätte abzuschneiden, die Überreste aus verschiedenen Epochen umfasst, darunter die jüdische, römische und osmanische Vergangenheit. UNESCO hat kürzlich Sebastia auf die Liste des Weltkulturerbes gesetzt und warnt vor der geplanten Enteignung für den nationalen Park, welcher die kulturellen Überreste gefährden könnte. Der Bürgermeister Mohammed Azem äußerte Bedenken hinsichtlich der Sicherheit und der Möglichkeit von Konflikten mit israelischen Sicherheitskräften. Die Hoffnung der palästinensischen Behörden, dass die UNESCO-Anerkennung internationalen Beistand mobilisieren könnte, wurde von Israels Außenminister Gideon Saar als Versuch interpretiert, den historischen jüdischen Bezug zum Westjordanland zu schmälern.",
+        "vocabulary": [
+          {
+            "word": "Schaffung",
+            "definition": "Der Prozess, etwas Neues zu erschaffen."
+          },
+          {
+            "word": "Strategie",
+            "definition": "Ein geplanter Weg, um ein Ziel zu erreichen."
+          },
+          {
+            "word": "Bedenken",
+            "definition": "Sich Sorgen über etwas machen."
+          },
+          {
+            "word": "Mobilisierung",
+            "definition": "Das Sammeln von Unterstützung oder Hilfe."
+          },
+          {
+            "word": "kulturelle Überreste",
+            "definition": "Funde aus der Geschichte, die die Kultur zeigen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was beschreibt Abu Mudif über den Verlust seines Landes?",
+            "options": [
+              "Es ist nicht wichtig",
+              "Es ist, als wäre ihm die Seele entrissen",
+              "Er ist glücklich darüber"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was macht die UNESCO mit Sebastia?",
+            "options": [
+              "Es wird abgerissen",
+              "Es wird zur UNESCO-Weltkulturerbeliste hinzugefügt",
+              "Es wird verkauft"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was bedauert der Bürgermeister von Sebastia?",
+            "options": [
+              "Die mangelnde Sicherheit",
+              "Die neue Schule",
+              "Die fehlende Unterstützung"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Archäologie als Vorwand? Israels umstrittene Landnahme in Sebastia",
+        "text": "Hoch oben in den Hügeln über den römischen Säulen Sebastias, einer Stadt mit großer archäologischer Bedeutung, haben palästinensische Familien seit Generationen Olivenplantagen angelegt. Abu Mudif, einer der betroffenen Landbesitzer, schilderte, dass ihm kürzlich mitgeteilt wurde, sein etwa 450 Acres großes Grundstück gehe an die israelischen Behörden, die unter dem Vorwand, einen nationalen Park zu schaffen, die Gebietsansprüche erheben. In diesem Kontext ist es bemerkenswert, dass die entgangenen Entschädigungen für die Bevölkerung bedeutende finanzielle und emotionale Konsequenzen haben. Viele lehnen nicht nur Angebote ab, sondern empfinden auch eine tiefe Entfremdung von ihrem beträchtlichen kulturellen Erbe, was Mudif metaphorisch als Verlust der Seele beschreibt. Außerdem berichtet Nahed Sakha, der Eigentümer eines lokalen Restaurants, dass die israelischen Pläne darauf abzielen, palästinensische Bewohner von den historischen Stätten abzuschotten, die in der Region seit Tausenden von Jahren von Bedeutung sind. Als Reaktion auf die expropriationsartigen Maßnahmen wurde Sebastia nicht nur als Weltkulturerbe anerkannt; die UNESCO hat auch eine Gefährdungsliste ins Leben gerufen, um auf den drohenden Verlust kultureller Identität hinzuweisen. Die Ankündigungen des israelischen Außenministers Gideon Saar, die Entscheidungen der UNESCO abzulehnen, verdeutlichen den Konflikt über die historische Zugehörigkeit zu diesem Gebiet. Mohamed Azem, der Bürgermeister, äußerte seine Besorgnis über mögliche Eskalationen zwischen palästinensischen Bewohnern und israelischen Sicherheitskräften in diesem kontroversen Umfeld. Die international geteilte Hoffnung der palästinensischen Behörden, solch eine bedeutende Anerkennung könnte zu einem stärkeren internationalen Widerstand gegen die Landnahme führen, bleibt jedoch fraglich.",
+        "vocabulary": [
+          {
+            "word": "Vorwand",
+            "definition": "Ein Grund, der nicht der wahre ist, um etwas zu rechtfertigen."
+          },
+          {
+            "word": "Entfremdung",
+            "definition": "Das Gefühl, nicht zugehörig oder verbunden zu sein."
+          },
+          {
+            "word": "Kulturelle Identität",
+            "definition": "Das Verständnis und die Wertschätzung der eigenen Kultur."
+          },
+          {
+            "word": "Eskalierten",
+            "definition": "Wenn ein Konflikt schlimmer wird."
+          },
+          {
+            "word": "Anerkennung",
+            "definition": "Die Bestätigung oder der Status von etwas als wertvoll."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist das Hauptziel Israels in Sebastia laut dem Artikel?",
+            "options": [
+              "Einen Freizeitpark zu erstellen",
+              "Die Landnahme zu rechtfertigen",
+              "Ein nationales Erbe zu schützen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie beschreibt Mudif den Verlust seines Landes?",
+            "options": [
+              "Als einen finanziellen Verlust",
+              "Als Verlust seiner Seele",
+              "Als positiven Wandel"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was äußert der Bürgermeister zu den Sicherheitskräften?",
+            "options": [
+              "Sie sind freundlich",
+              "Sie könnten Konflikte hervorrufen",
+              "Sie helfen den Menschen"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Israël et les fouilles archéologiques",
+        "text": "En Cisjordanie, il y a un site ancien. Ce site s'appelle Sébastia. Des familles palestiniennes cultivent des oliviers là-bas depuis des générations. Abu Mudif possède un terrain avec des arbres. Les autorités israéliennes prennent ses terres. Ils veulent créer un parc national là. Les Palestiniens ne veulent pas perdre leurs terres. Ils ont une forte connexion avec leur terre. Les terres sont importantes pour leur culture. Unesco protège ce site maintenant. C'est un site du patrimoine mondial. Les Palestiniens espèrent que cela les aide. Ils veulent garder leur histoire et leur héritage. Sébastia a une histoire riche et profonde.",
+        "vocabulary": [
+          {
+            "word": "terrains",
+            "definition": "des zones de terre pour cultiver"
+          },
+          {
+            "word": "parc",
+            "definition": "un espace vert pour les loisirs"
+          },
+          {
+            "word": "patrimoine",
+            "definition": "ce qui est hérité de nos ancêtres"
+          },
+          {
+            "word": "cuisine",
+            "definition": "la préparation de plats"
+          },
+          {
+            "word": "culturer",
+            "definition": "faire pousser des plantes"
+          },
+          {
+            "word": "connexion",
+            "definition": "lien entre les personnes et les choses"
+          },
+          {
+            "word": "historique",
+            "definition": "qui a un lien avec l'histoire"
+          },
+          {
+            "word": "oliviers",
+            "definition": "des arbres qui portent des olives"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le nom du site ancien ?",
+            "options": [
+              "Sébastia",
+              "Jérusalem",
+              "Ramallah"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle culture est présente à Sébastia ?",
+            "options": [
+              "La culture des roses",
+              "La culture des olives",
+              "La culture des pommes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui protège le site de Sébastia ?",
+            "options": [
+              "L'Unesco",
+              "L'ONU",
+              "Le gouvernement israélien"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Les tensions à Sébastia en Cisjordanie",
+        "text": "À Sébastia, en Cisjordanie, des familles palestiniennes cultivent des oliviers depuis des générations. Ces oliviers sont très importants pour leur culture et leur économie. Un propriétaire, Abu Mudif, reçoit une lettre troublante. Cette lettre dit que les autorités israéliennes prennent son terrain pour un nouveau parc national. Ce parc est un projet qui concerne environ 450 acres de terres agricoles. Les propriétaires palestiniens ne reçoivent pas souvent d'argent pour leurs terres, et accepter cela est un terrible problème pour eux. Ils perdent une partie de leur histoire et de leur identité. Unesco a ajouté Sébastia à sa liste de patrimoine mondial et en danger. Les habitants craignent que les Israéliens les empêchent d'accéder au site historique. Les dégradations et les démolitions inquiètent beaucoup les villageois. Ils veulent préserver leur héritage, mais ils ont peur des conséquences. Unesco en parle et souhaite que la communauté internationale aide Sébastia et ses habitants.",
+        "vocabulary": [
+          {
+            "word": "site",
+            "definition": "un lieu historique ou touristique"
+          },
+          {
+            "word": "héritage",
+            "definition": "ce que l'on reçoit de ses ancêtres"
+          },
+          {
+            "word": "parc national",
+            "definition": "une zone protégée pour la conservation de la nature"
+          },
+          {
+            "word": "démolition",
+            "definition": "l'action de détruire un bâtiment ou une structure"
+          },
+          {
+            "word": "cultivateur",
+            "definition": "une personne qui cultive la terre"
+          },
+          {
+            "word": "économie",
+            "definition": "l'organisation des ressources d'un pays ou d'une région"
+          },
+          {
+            "word": "identité",
+            "definition": "ce qui caractérise un groupe ou une personne"
+          },
+          {
+            "word": "dégradations",
+            "definition": "dommages ou détériorations subis par des biens"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Que cultivent les familles à Sébastia ?",
+            "options": [
+              "Des oliviers",
+              "Des oranges",
+              "Des légumes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi Unesco a ajouté Sébastia à sa liste ?",
+            "options": [
+              "Pour son parc national",
+              "Pour son patrimoine en danger",
+              "Pour ses oliviers"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce que craignent les habitants de Sébastia ?",
+            "options": [
+              "Un accès à la plage",
+              "Des dégradations de leur site",
+              "Une nuit sans électricité"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Israël accusé de manipulation archéologique à Sébastia",
+        "text": "Sébastia, un site archéologique en Cisjordanie, est au cœur d'une controverse importante. Ce site, qui possède des ruines datant de plusieurs époques, a été cultivé par des familles palestiniennes pendant des générations. Parmi eux, Abu Mudif a appris que les autorités israéliennes exproprient environ 450 acres de terres, prétendument pour créer un parc national. Cependant, les Palestiniens ne reçoivent souvent pas d'indemnisation pour leurs terres. Ils ont le sentiment que cela représente une perte non seulement de leur terre mais aussi de leur héritage culturel et historique précieux. Récemment, l'Unesco a inscrit Sébastia sur sa liste de patrimoine mondial, mais elle l'a également classé comme étant en danger.\n\nLe maire de Sébastia, Mohammed Azem, a exprimé ses préoccupations concernant la sécurité des habitants. En effet, ils craignent que les forces israéliennes ne les empêchent d'accéder aux ruines. De plus, des projets de développement archéologique menacent la communauté locale. Nahed Sakha, un restaurateur de la région, a mentionné que son établissement est sous la menace de démolition. Depuis plusieurs mois, des travaux de restauration ont commencé, compliquant encore la situation pour les habitants. Si les plans israéliens aboutissent, cela pourrait les priver d’un accès essentiel à leur histoire et modifier pour toujours le paysage culturel de Sébastia. Les tensions sont palpables, se traduisant par des manifestations et des appels à la solidarité internationale.",
+        "vocabulary": [
+          {
+            "word": "expropriation",
+            "definition": "l'action d'enlever une terre à son propriétaire pour un usage public, souvent sans compensation juste."
+          },
+          {
+            "word": "patrimoine",
+            "definition": "l'héritage culturel et historique d'une personne ou d'une communauté."
+          },
+          {
+            "word": "ruines",
+            "definition": "les restes de bâtiments ou de structures anciennes."
+          },
+          {
+            "word": "parc national",
+            "definition": "une zone protégée pour la conservation de la nature et du patrimoine."
+          },
+          {
+            "word": "indemnisation",
+            "definition": "une compensation monétaire pour une perte."
+          },
+          {
+            "word": "restauration",
+            "definition": "l'action de réparer ou de renouveler un bâtiment ou un site."
+          },
+          {
+            "word": "situation tendue",
+            "definition": "une période de grande inquiétude ou de conflit."
+          },
+          {
+            "word": "commune locale",
+            "definition": "la communauté résidant dans une particulière zone géographique."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est le maire de Sébastia ?",
+            "options": [
+              "Mohammed Azem",
+              "Nahed Sakha",
+              "Abu Mudif"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Pourquoi l'Unesco a-t-elle classé Sébastia comme patrimoine en danger ?",
+            "options": [
+              "À cause des travaux de restauration",
+              "À cause de l'expropriation des terres",
+              "À cause de la sécurité des habitants"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qu'est-ce qu'Abu Mudif a perdu avec l'expropriation ?",
+            "options": [
+              "Son restaurant",
+              "Ses terres",
+              "L'accès aux ruines"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Israël accusé d'exploiter l'archéologie sur des sites antiques en Cisjordanie",
+        "text": "Dans les collines surplombant les colonnes romaines du site antique de Sébastia, en Cisjordanie occupée, se trouvent des champs d'oliviers cultivés depuis des générations par des familles palestiniennes. L'un des propriétaires terriens, Abu Mudif, a reçu une notification indiquant que sa terre, faisant partie d'un lot d'environ 450 acres, serait expropriée par les autorités israéliennes. Ces dernières affirment que cela vise à protéger et développer le site pour un nouveau parc national. Généralement, les propriétaires palestiniens ne reçoivent aucune compensation, et même lorsqu'elle est proposée, la plupart refusent, considérant cela comme une reconnaissance de la perte de leur patrimoine. Abu Mudif explique que perdre cette terre a un impact profond sur lui. \"C'est comme si l'on vous arrachait l'âme. Je ne peux pas imaginer ma vie sans mes terres.\" Parallèlement, Nahed Sakha, propriétaire d'un restaurant local menacé de démolition, déclare que le plan israélien semble viser à isoler les Palestiniens du site archéologique. Unesco, après avoir ajouté Sébastia à sa liste du patrimoine mondial en danger, dénonce également ce projet comme une menace à l'héritage culturel. Le maire de Sébastia, Mohammed Azem, craint que le nettoyage des ruines ne provoque des problèmes avec les forces de sécurité israéliennes. Enfin, le ministre israélien des Affaires étrangères qualifie l'action d'Unesco de tentative de diminuer les liens historiques juifs avec la région.",
+        "vocabulary": [
+          {
+            "word": "archéologie",
+            "definition": "L'étude des anciennes civilisations par leurs vestiges."
+          },
+          {
+            "word": "expropriation",
+            "definition": "Le fait de prendre la terre d'un propriétaire pour un usage public."
+          },
+          {
+            "word": "patrimoine",
+            "definition": "L'ensemble des biens culturels ou historiques d'un pays."
+          },
+          {
+            "word": "menacé",
+            "definition": "Qui est en danger ou à risque."
+          },
+          {
+            "word": "cultivés",
+            "definition": "Plantes qu'on fait pousser dans les champs."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui reçoit une notification d'expropriation ?",
+            "options": [
+              "Le maire de Sébastia",
+              "Abu Mudif",
+              "Nahed Sakha"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi les propriétaires palestiniens refusent-ils souvent l'indemnisation ?",
+            "options": [
+              "Parce qu'ils n'en ont pas besoin",
+              "Parce qu'ils veulent protéger leur patrimoine",
+              "Parce qu'ils ne comprennent pas"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel organisme a ajouté Sébastia à la liste du patrimoine mondial ?",
+            "options": [
+              "L'UNESCO",
+              "Le gouvernement israélien",
+              "Le gouvernement palestinien"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Israël accusé de manipuler l'archéologie sur des sites historiques en Cisjordanie",
+        "text": "Perchée sur les collines qui dominent les colonnes romaines du site antique de Sébastia, en Cisjordanie occupée, s'étend une région de champs d'oliviers, cultivés depuis des générations par des familles palestiniennes. Récemment, l'un des propriétaires, Abu Mudif, a été informé que sa terre, intégrant un lot d'environ 450 acres, serait expropriée par les autorités israéliennes, qui prétendent vouloir protéger et valoriser cet endroit pour un futur parc national. Pourtant, il est courant que les propriétaires palestiniens ne soient ni indemnisés ni consultés dans ce processus. S'exprime à ce sujet Abu Mudif : \"C'est comme se voir arracher l'âme, je ne peux m'envisager sans ce lieu.\" De plus, Nahed Sakha, restaurateur local dont l'établissement est menacé de destruction, souligne que les plans israéliens auraient pour conséquence d'isoler les Palestiniens du site archéologique, riche en vestiges de l'histoire juive, romaine et ottomane. En réaction, Unesco a catégoriquement inscrit Sébastia sur sa liste du patrimoine mondial en danger, pointant du doigt la menace que représente l'expropriation. Le maire de Sébastia, Mohammed Azem, exprime la crainte des habitants face aux possibles répercussions de leurs actions sur la sécurité. Finalement, le ministre israélien des Affaires étrangères rejette ces préoccupations, qualifiant l'intervention d'Unesco de tentative de dénaturer les liens historiques des Juifs avec la région.",
+        "vocabulary": [
+          {
+            "word": "valoriser",
+            "definition": "Rendre un bien plus précieux ou important."
+          },
+          {
+            "word": "patrimoine",
+            "definition": "Ce qui est hérité, généralement culturel ou historique."
+          },
+          {
+            "word": "menacé",
+            "definition": "En danger de destruction ou d'extinction."
+          },
+          {
+            "word": "expropriation",
+            "definition": "Se prendre possession d'un bien pour un besoin public."
+          },
+          {
+            "word": "inscrit",
+            "definition": "Enregistré officiellement sur une liste."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le but de l'expropriation selon les autorités israéliennes ?",
+            "options": [
+              "Créer un parc national",
+              "Réparer les bâtiments",
+              "Vendre la terre"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quelle menace Unesco a-t-elle signalée ?",
+            "options": [
+              "Le vol d'antiquités",
+              "L'expropriation et la création d'un parc",
+              "La construction d'immeubles"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment se sent Abu Mudif par rapport à la perte de sa terre ?",
+            "options": [
+              "Il n'est pas affecté",
+              "Il se sent comme si on lui arrachait l'âme",
+              "Il est heureux de la vente"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Israël accusé d’instrumentaliser l'archéologie sur des sites antiques en Cisjordanie",
+        "text": "À flanc de colline, surplombant majestueusement les vestiges romains du site millénaire de Sébastia en Cisjordanie occupée, se trouvent des champs d'oliviers cultivés par des familles palestiniennes depuis des générations. Abu Mudif, l'un des propriétaires, a reçu une notification stipulant que ses terres, intégrées dans un lot d'environ 450 acres, sont destinées à être expropriées par les autorités israéliennes. Ces dernières justifient leur action par un projet de parc national, affirmant vouloir préserver et développer cet héritage. Cependant, peu de propriétaires, confrontés à cette dépossession, acceptent toute compensation, la percevant comme une légitimation de la perte de leur patrimoine. Abu Mudif, dans une métaphore poignante, décrit cette perte comme l'arrachement de son âme. En parallèle, Nahed Sakha, restaurateur local dont l'établissement est en danger, évoque une isolation croissante des résidents palestiniens vis-à-vis du site archéologique, chargé de vestiges de divers temps, dont l'ère juive, romaine et ottomane. L’Unesco, en réagissant, a inscrit Sébastia sur sa liste du patrimoine mondial en danger, insistant sur le risque d'anéantir son intégrité. Le maire Mohammed Azem alerte quant aux implications de ces expropriations sur la sécurité de la communauté locale. Le ministre israélien des affaires étrangères, Gideon Saar, quant à lui, présente l'intervention de l’Unesco comme une manœuvre pour effacer les liens historiques des Juifs avec cette terre, arguant qu'aucun vote dans une organisation internationale ne saurait altérer ce qui est inscrit dans l'histoire.",
+        "vocabulary": [
+          {
+            "word": "instrumentaliser",
+            "definition": "Utiliser quelque chose pour un but particulier, souvent avec des conséquences négatives."
+          },
+          {
+            "word": "héritage",
+            "definition": "Un bien culturel ou naturel transmis d'une génération à l'autre."
+          },
+          {
+            "word": "intégrité",
+            "definition": "État d'être entier ou intact, sans altération ni dommage."
+          },
+          {
+            "word": "anéantir",
+            "definition": "Détruire complètement, réduire à néant."
+          },
+          {
+            "word": "manœuvre",
+            "definition": "Une action stratégique, souvent pour atteindre un but masqué."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quelle justification donne Israël pour l'expropriation des terres ?",
+            "options": [
+              "La création d'un parc national",
+              "La vente à des étrangers",
+              "La construction de routes"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le sentiment exprimé par Abu Mudif concernant sa terre ?",
+            "options": [
+              "Cela ne l'affecte pas",
+              "C'est comme une perte de son âme",
+              "Il est ravi de la compensation"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que dénonce Unesco à propos de Sébastia ?",
+            "options": [
+              "Sa pollution",
+              "Son inscription en tant que patrimoine en danger",
+              "Sa fermeture temporaire"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Israel y las tierras en Sebastia",
+        "text": "Sebastia es un lugar antiguo. Hay columnas romanas allí. Las familias palestinas cultivan olivos. Abu Mudif tiene un terreno. Israel toma su tierra. Las autoridades dicen que quieren hacer un parque. Las familias no quieren irse. Ellos tienen sus raíces allí. Es muy importante para ellos. Nahed Sakha tiene un restaurante. Su restaurante puede ser demolido. La gente está preocupada. Unesco dice que el lugar es importante. Sebastia es un patrimonio cultural. Todos deben cuidar este lugar.",
+        "vocabulary": [
+          {
+            "word": "testimonio",
+            "definition": "lo que una persona dice o describe."
+          },
+          {
+            "word": "columna",
+            "definition": "una parte de un edificio, alta y recta."
+          },
+          {
+            "word": "cultivar",
+            "definition": "hacer crecer plantas o frutos."
+          },
+          {
+            "word": "demoler",
+            "definition": "destruir un edificio."
+          },
+          {
+            "word": "patrimonio",
+            "definition": "algo que es importante para las raíces de un grupo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué quiere hacer Israel en Sebastia?",
+            "options": [
+              "Hacer un parque.",
+              "Construir un hotel.",
+              "Guardar tierras sanas."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué cultivan las familias en Sebastia?",
+            "options": [
+              "Olivios.",
+              "Zapatos.",
+              "Mesas."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tiene Nahed Sakha?",
+            "options": [
+              "Un restaurante.",
+              "Una tienda.",
+              "Una casa."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "La situación en Sebastia, Palestina",
+        "text": "Sebastia es un lugar antiguo en Cisjordania. Hay muchas columnas romanas. Muchas familias palestinas cultivan olivos en la región. Un hombre, Abu Mudif, tiene un terreno allí. Recibió un aviso de que su tierra es parte de un parque nuevo que quiere hacer Israel. El plan es ocupar tierras para preservar el lugar. A veces, las familias no reciben dinero por sus tierras. La gente de Sebastia no quiere irse porque sus raíces están allí. Además, Nahed Sakha tiene un restaurante y le preocupa que lo destruyan. Unesco cree que Sebastia es patrimonio cultural y quiere protegerlo. Es importante que las autoridades locales participen en el desarrollo de este lugar.",
+        "vocabulary": [
+          {
+            "word": "región",
+            "definition": "una parte de un país."
+          },
+          {
+            "word": "preservar",
+            "definition": "mantener algo en buenas condiciones."
+          },
+          {
+            "word": "aviso",
+            "definition": "una información que se recibe."
+          },
+          {
+            "word": "participar",
+            "definition": "ser parte de algo."
+          },
+          {
+            "word": "autoridades",
+            "definition": "personas con poder en un lugar."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué tipo de terreno tiene Abu Mudif?",
+            "options": [
+              "Un terreno con olivos.",
+              "Un terreno con flores.",
+              "Un terreno con casas."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué piensa Unesco de Sebastia?",
+            "options": [
+              "Es patrimonio cultural.",
+              "No es importante.",
+              "Es muy peligroso."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué sucede con el restaurante de Nahed Sakha?",
+            "options": [
+              "Está bajo amenaza de demolición.",
+              "Ganó un premio.",
+              "Es muy popular."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Israel y el conflicto en Sebastia, Palestina",
+        "text": "Sebastia es un sitio antiguo en la ocupada Cisjordania, conocido por sus impresionantes columnas romanas y como punto de cultivo para muchas familias palestinas que han cultivado olivos allí durante generaciones. Este lugar no solo es significativo por su historia, sino también por su importancia económica para los palestinos que dependen de la agricultura. Sin embargo, Abu Mudif, uno de los terratenientes de la región, ha recibido un aviso alarmante de que su tierra va a ser ocupada por Israel. La razón que dan es que desean crear un nuevo parque nacional, un proyecto que realmente preocupa a muchos locales. Lo que es más, muchos propietarios de tierras son conscientes de que aceptar el pago por sus tierras podría legitimizar la ocupación, la cual consideran injusta. Nahed Sakha, quien es dueño de un restaurante en Sebastia, teme que su negocio sea demolido y que esto afecte a su familia. La intervención planeada parece tener la intención de separar aún más a los palestinos del sitio arqueológico. Por otro lado, la UNESCO ha declarado a Sebastia como patrimonio de la humanidad. Esta declaración consiste en una señal de advertencia que reconoce los riesgos que enfrenta, ya que el proceso de expropiación plantea serias amenazas a su preservación. Si las obras continúan, en el futuro la comunidad local podría perder su conexión con su propia historia y cultura, algo que es muy difícil de aceptar.",
+        "vocabulary": [
+          {
+            "word": "expropiación",
+            "definition": "El proceso de tomar propiedad privada para uso público, generalmente con compensación al propietario."
+          },
+          {
+            "word": "patrimonio",
+            "definition": "Los bienes, tradiciones y culturas que son heredados de generaciones anteriores."
+          },
+          {
+            "word": "intervención",
+            "definition": "La acción de interferir en una situación para cambiar lo que está ocurriendo."
+          },
+          {
+            "word": "demolido",
+            "definition": "Cuando un edificio o estructura es destruido."
+          },
+          {
+            "word": "separar",
+            "definition": "Dividir o alejarnos de algo o alguien."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué ha declarado la UNESCO sobre Sebastia?",
+            "options": [
+              "Que es un sitio peligroso",
+              "Que es patrimonio de la humanidad",
+              "Que debería ser demolido"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Por qué algunos propietarios de tierras no quieren aceptar el pago por sus tierras?",
+            "options": [
+              "Porque les gusta la tierra",
+              "Porque consideran que legitima la ocupación",
+              "Porque no necesitan el dinero"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué teme Nahed Sakha sobre su negocio?",
+            "options": [
+              "Que será ampliado",
+              "Que será demolido",
+              "Que será vendido a otro propietario"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Israel acusado de usar la arqueología como arma en sitios antiguos de Cisjordania",
+        "text": "En las colinas que rodean las columnas romanas del antiguo sitio de Sebastia, en Cisjordania ocupada, se encuentran campos de olivos cultivados durante generaciones por familias palestinas. Uno de los propietarios de la tierra, Abu Mudif, ha recibido notificaciones de que su terreno forma parte de un lote de aproximadamente 450 acres que las autoridades israelíes están expropiando, alegando que es para proteger y desarrollar un nuevo parque nacional. Comúnmente, los propietarios palestinos reciben escasa compensación, y al aceptar, muchos sienten que reconocen la pérdida de su patrimonio. Para Abu Mudif, perder su tierra representa más que un golpe financiero; él explica que es como si le arrancaran el alma. Similarmente, Nahed Sakha, propietario de un restaurante, advierte sobre el peligro de demoliciones, insinuando que el plan de Israel busca desconectar a los residentes palestinos del sitio arqueológico, que tiene restos significativos de épocas pasadas. La UNESCO ha añadido Sebastia a su lista de Patrimonio Mundial en Peligro, indicando que la expropiación planeada representa una gran amenaza. A pesar de las preocupaciones locales, el ministro de Asuntos Exteriores israelí, Gideon Saar, defendió las acciones de su gobierno, sugiriendo que ningún voto internacional puede cambiar la historia. Así, las tensiones continúan aumentando en esta región históricamente disputada.",
+        "vocabulary": [
+          {
+            "word": "expropiar",
+            "definition": "tomar la tierra de alguien para uso público"
+          },
+          {
+            "word": "patrimonio",
+            "definition": "bienes culturales o históricos de un grupo"
+          },
+          {
+            "word": "desconectar",
+            "definition": "quitar la conexión entre cosas o personas"
+          },
+          {
+            "word": "desarrollo",
+            "definition": "proceso de mejora o crecimiento"
+          },
+          {
+            "word": "amenaza",
+            "definition": "algo peligroso o que puede causar daño"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué sitio en Cisjordania está siendo expropiado?",
+            "options": [
+              "Sebastia",
+              "Jerusalén",
+              "Hebrón"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué ha hecho la UNESCO con respecto a Sebastia?",
+            "options": [
+              "Lo ha declarado Patrimonio Mundial",
+              "Lo ha cerrado",
+              "Lo ha permitido destruir"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo se siente Abu Mudif con respecto a la pérdida de su tierra?",
+            "options": [
+              "Está indiferente",
+              "Siente que le han arrancado el alma",
+              "Está contento por la compensación"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "La utilización de la arqueología por Israel en Cisjordania: un arma controvertida",
+        "text": "En las colinas que dominan las columnas romanas del antiguo sitio de Sebastia, situado en la Cisjordania ocupada, se encuentran campos de olivos que han sido cultivados durante generaciones por familias palestinas. Uno de los propietarios, Abu Mudif, ha recibido notificaciones de que su tierra forma parte de un área de aproximadamente 450 acres que las autoridades israelíes expropiarán bajo el pretexto de proteger y desarrollar un nuevo parque nacional. Normalmente, los propietarios palestinos reciben poca o ninguna compensación por tales expropiaciones, y la mayoría optan por rechazarla, ya que hacerlo implica aceptar la legitimidad de la pérdida de su patrimonio. Para Abu Mudif, esta pérdida representa un desgarro emocional profundo. De modo similar, Nahed Sakha, propietario de un restaurante local amenazado con demolición, denuncia el plan israelí que busca desconectar a los residentes palestinos del invaluable sitio arqueológico, el cual alberga importantes restos históricos. En un contexto más amplio, la UNESCO ha clasificado a Sebastia como Patrimonio Mundial en Peligro, describiendo la expropiación como una grave amenaza que podría dividir el sitio. Por su parte, el ministro israelí Gideon Saar ha descalificado las acciones de la UNESCO, afirmando que ningún voto en un organismo internacional puede alterar la historia. A medida que estas tensiones persisten, la comunidad local continúa enfrentando incertidumbres acerca de su legado cultural.",
+        "vocabulary": [
+          {
+            "word": "legitimidad",
+            "definition": "la aceptación de la validez o el derecho de algo"
+          },
+          {
+            "word": "desgarro",
+            "definition": "ruptura profunda o sufrimiento emocional"
+          },
+          {
+            "word": "invaluable",
+            "definition": "tan valioso que su valor no puede medirse"
+          },
+          {
+            "word": "contexto",
+            "definition": "las circunstancias que rodean un evento o situación"
+          },
+          {
+            "word": "clasificar",
+            "definition": "organizar por categorías"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué acción toman las autoridades israelíes en relación a la tierra de Sebastia?",
+            "options": [
+              "Expropiarla",
+              "Venderla",
+              "Ignorarla"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cuál es la reacción de la UNESCO hacia Sebastia?",
+            "options": [
+              "La ha declarado Patrimonio Mundial en Peligro",
+              "La ha rechazado",
+              "La ha destruido"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué destaca el ministro Gideon Saar sobre la UNESCO?",
+            "options": [
+              "Apoya la expropiación",
+              "Neutraliza la historia judía",
+              "No puede cambiar la historia"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "La arqueología como herramienta de control territorial: el caso Sebastia",
+        "text": "En las elevaciones que rodean los restos romanos del antiguo asentamiento de Sebastia, en Cisjordania, se extienden campos de olivos cultivados por familias palestinas a lo largo de generaciones. Abu Mudif, uno de los propietarios, ha sido notificado de que su terreno, parte de un área de alrededor de 450 acres, será expropiado por las autoridades israelíes bajo el argumento de la creación de un parque nacional, un pretexto que muchos consideran un intento encubierto de solidificar el control territorial israelí. Los propietarios palestinos, que a menudo rechazan payouts, lo hacen no solo por el valor económico implicado, sino porque aceptar dicha compensación implicaría una aceptación tácita de la legitimidad de la usurpación de su patrimonio. Abu Mudif describe la pérdida de su hogar como un desgarrador arranque de su esencia. Mientras tanto, Nahed Sakha, un restaurador local, advierte que el plan israelí podría separarlos de su herencia histórica, un legado que data de milenios. La UNESCO ha clasificado a Sebastia como Patrimonio Mundial en Peligro, subrayando que la amenaza principal radica en la expropiación proyectada, que podría dividir el sitio. Por otro lado, el ministro de Asuntos Exteriores israelí, Gideon Saar, ha rebatido las preocupaciones expresadas por la comunidad internacional, proclamando que ningún voto en organismos internacionales puede alterar el tejido histórico de la conexión judeo-israelí con la región. Así, mientras Israel prosigue con su programa de control, las tensiones sobre los derechos territoriales y culturales se exacerban en esta zona históricamente frágil.",
+        "vocabulary": [
+          {
+            "word": "usurpación",
+            "definition": "tomar posesión de algo sin derecho"
+          },
+          {
+            "word": "encubierto",
+            "definition": "realizado de manera oculta o disimulada"
+          },
+          {
+            "word": "desgarrador",
+            "definition": "que causa un sufrimiento intenso"
+          },
+          {
+            "word": "subrayar",
+            "definition": "poner énfasis en algo"
+          },
+          {
+            "word": "tejer",
+            "definition": "crear o unir elementos en una estructura compleja"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué justificación ofrecen las autoridades israelíes para la expropiación en Sebastia?",
+            "options": [
+              "La creación de un parque nacional",
+              "La construcción de viviendas",
+              "La protección del patrimonio"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo responde la UNESCO a la situación de Sebastia?",
+            "options": [
+              "La ha clasificado como Patrimonio Mundial en Peligro",
+              "La ha ignorado",
+              "La ha cerrado al público"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué argumento utiliza Gideon Saar para desestimar la acción de la UNESCO?",
+            "options": [
+              "Los votantes no pueden cambiar la historia",
+              "La UNESCO apoya a los palestinos",
+              "Los israelíes son los verdaderos propietarios"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "israel": "Israel",
+      "und": "and",
+      "geschichtsforschung": "historical research",
+      "in": "in",
+      "sebastia": "Sebastia",
+      "gibt": "gives",
+      "es": "it",
+      "alte": "old",
+      "gebäude": "buildings",
+      "die": "the",
+      "palästinenser": "Palestinian",
+      "haben": "to have",
+      "olivenfelder": "olive fields",
+      "abu": "Abu",
+      "mudif": "Mudif",
+      "hat": "has",
+      "land": "country",
+      "will": "wants",
+      "das": "that",
+      "für": "for",
+      "einen": "a",
+      "park": "park",
+      "er": "he",
+      "bekommt": "gets",
+      "kein": "no",
+      "geld": "money",
+      "dafür": "for that",
+      "viele": "many",
+      "sagen": "say",
+      "nein": "no",
+      "zu": "to",
+      "dem": "the",
+      "sie": "they",
+      "verlieren": "to lose",
+      "auch": "also",
+      "ihre": "their",
+      "kultur": "culture",
+      "nahed": "Nahed",
+      "ein": "a",
+      "restaurant": "restaurant",
+      "ist": "is",
+      "gefährdet": "endangered",
+      "israelis": "Israelis",
+      "wollen": "to want",
+      "wegschicken": "to send away",
+      "unesco": "UNESCO",
+      "schützt": "protects",
+      "dinge": "things",
+      "dort": "there",
+      "sehr": "very",
+      "wichtig": "important",
+      "menschen": "people",
+      "angst": "fear",
+      "nicht": "not",
+      "viel": "a lot",
+      "sind": "are",
+      "stärker": "stronger",
+      "probleme": "problems",
+      "israels": "Israel's",
+      "pläne": "plans",
+      "ruinen": "ruins",
+      "großes": "large",
+      "stück": "piece",
+      "dieses": "this",
+      "neuen": "new",
+      "nehmen": "to take",
+      "schützen": "to protect",
+      "landbesitzer": "landowner",
+      "weil": "because",
+      "zustimmen": "to agree",
+      "sehen": "to see",
+      "ihr": "your",
+      "als": "than",
+      "teil": "part",
+      "ihrer": "their",
+      "geschichte": "history",
+      "kleines": "small",
+      "soll": "shall",
+      "abgerissen": "torn down",
+      "werden": "will",
+      "leute": "people",
+      "von": "from",
+      "den": "the",
+      "alten": "old",
+      "bauwerken": "buildings",
+      "fernhalten": "to keep away",
+      "nun": "now",
+      "erklärt": "explains",
+      "diese": "this",
+      "orte": "places",
+      "der": "the",
+      "bürgermeister": "mayor",
+      "sagt": "says",
+      "besorgt": "worried",
+      "vor": "before",
+      "israelischen": "Israeli",
+      "militär": "military",
+      "siedlern": "settlers",
+      "immer": "always",
+      "mehr": "more",
+      "spannungen": "tensions",
+      "archäologie": "archaeology",
+      "landkonflikte": "land conflicts",
+      "eine": "a",
+      "stadt": "city",
+      "im": "in the",
+      "westjordanland": "West Bank",
+      "mit": "with",
+      "vielen": "many",
+      "wichtige": "important",
+      "rolle": "role",
+      "palästinas": "Palestine",
+      "spielen": "to play",
+      "nur": "only",
+      "touristen": "tourists",
+      "interesse": "interest",
+      "sondern": "but",
+      "deren": "their",
+      "erbe": "heritage",
+      "verwurzelt": "rooted",
+      "familie": "family",
+      "nähe": "proximity",
+      "seit": "since",
+      "generationen": "generations",
+      "bewirtschaftet": "managed",
+      "kurzem": "recent",
+      "erfahren": "experienced",
+      "dass": "that",
+      "seines": "his",
+      "landes": "national",
+      "übernimmt": "to take over",
+      "um": "around",
+      "nationalen": "national",
+      "schaffen": "to create",
+      "wenn": "if",
+      "staatlichen": "state",
+      "behörden": "authorities",
+      "sein": "his",
+      "enteignen": "to expropriate",
+      "erhält": "receives",
+      "oft": "often",
+      "oder": "or",
+      "wenig": "few",
+      "wie": "like",
+      "betroffen": "affected",
+      "fühlen": "to feel",
+      "sich": "oneself",
+      "schlecht": "bad",
+      "identität": "identity",
+      "sakha": "Sakha",
+      "besitzt": "owns",
+      "ebenfalls": "also",
+      "was": "what",
+      "ihn": "him",
+      "wirtschaftliche": "economic",
+      "schwierigkeiten": "difficulties",
+      "bedeutet": "means",
+      "glauben": "believe",
+      "plant": "plans",
+      "wunderschönen": "beautiful",
+      "archäologischen": "archaeological",
+      "gebiet": "area",
+      "fernzuhalten": "to keep away",
+      "jahrhunderte": "centuries",
+      "überreste": "remains",
+      "aus": "from",
+      "verschiedenen": "various",
+      "epochen": "epochs",
+      "zeigt": "shows",
+      "liste": "list",
+      "des": "of the",
+      "weltkulturerbes": "world heritage",
+      "gefahr": "danger",
+      "aufgenommen": "recorded",
+      "ernst": "serious",
+      "situation": "situation",
+      "mohammed": "Mohammed",
+      "azem": "Azem",
+      "gesagt": "said",
+      "über": "about",
+      "kontrolle": "control",
+      "überzeugt": "convinced",
+      "internationaler": "international",
+      "druck": "emphasis",
+      "notwendig": "necessary",
+      "recht": "right",
+      "auf": "to",
+      "sichern": "to secure",
+      "bekommen": "to get",
+      "möglicherweise": "possibly",
+      "zuhause": "home",
+      "bleibt": "stays",
+      "angespannt": "tense",
+      "fordern": "demand",
+      "solidarität": "solidarity",
+      "wird": "will",
+      "beschuldigt": "accused",
+      "zur": "to the",
+      "enteignung": "expropriation",
+      "nutzen": "use",
+      "befinden": "to be",
+      "antike": "antiquity",
+      "stätten": "sites",
+      "palästinensern": "Palestinians",
+      "wurde": "was",
+      "darüber": "about it",
+      "informiert": "informs",
+      "einer": "one",
+      "fläche": "area",
+      "etwa": "about",
+      "acres": "acres",
+      "schaffung": "creation",
+      "eines": "one",
+      "parks": "parks",
+      "besitz": "possession",
+      "regel": "rule",
+      "erhalten": "to receive",
+      "palästinensische": "Palestinian",
+      "keine": "no",
+      "geringe": "small",
+      "entschädigungen": "compensations",
+      "ihres": "their",
+      "selbst": "self",
+      "ihnen": "them",
+      "entschädigung": "compensation",
+      "angeboten": "offered",
+      "lehnen": "to refuse",
+      "meisten": "most",
+      "ab": "from",
+      "da": "there",
+      "dies": "this",
+      "anerkennung": "recognition",
+      "verlustes": "loss",
+      "erbes": "heritage",
+      "betrachten": "to consider",
+      "verlust": "loss",
+      "grundlegende": "fundamental",
+      "gefährdung": "danger",
+      "seiner": "his",
+      "existenz": "existence",
+      "beschreibt": "describes",
+      "schmerzlichen": "painful",
+      "gefühl": "feeling",
+      "eigene": "own",
+      "seele": "soul",
+      "ihm": "him",
+      "entrissen": "taken away",
+      "zusätzlich": "additional",
+      "bedroht": "threatened",
+      "dessen": "whose",
+      "betreiber": "operator",
+      "anführt": "leads",
+      "israeli-sche": "Israeli",
+      "plan": "plan",
+      "darauf": "on it",
+      "abzielt": "aims",
+      "bewohner": "inhabitant",
+      "abzuschneiden": "to cut off",
+      "gesetzt": "set",
+      "warnt": "warns",
+      "geplanten": "planned",
+      "bau": "construction",
+      "teilen": "parts",
+      "könnte": "could",
+      "äußert": "expresses",
+      "besorgnis": "concern",
+      "sicherheit": "security",
+      "anwohner": "resident",
+      "möglichkeit": "possibility",
+      "konfrontation": "confrontation",
+      "sicherheitskräften": "security forces",
+      "palästinensischen": "Palestinian",
+      "hoffen": "to hope",
+      "internationale": "international",
+      "durch": "through",
+      "ihren": "their",
+      "widerstand": "resistance",
+      "gegen": "against",
+      "enteignungen": "expropriations",
+      "unterstützen": "to support",
+      "außenminister": "foreign minister",
+      "hingegen": "on the other hand",
+      "sieht": "sees",
+      "entscheidung": "decision",
+      "versuch": "attempt",
+      "historische": "historical",
+      "jüdische": "Jewish",
+      "verbindungen": "connections",
+      "schmälern": "to diminish",
+      "kritik": "criticism",
+      "an": "at",
+      "hügeln": "hills",
+      "wo": "where",
+      "römische": "Roman",
+      "säulen": "pillars",
+      "stehen": "to stand",
+      "bewirtschaften": "to farm",
+      "familien": "families",
+      "berichtete": "reported",
+      "mitgeteilt": "informed",
+      "umfassende": "comprehensive",
+      "sei": "is",
+      "beschlagnahmt": "seized",
+      "worden": "been",
+      "eigentumsübergang": "transfer of ownership",
+      "geschieht": "happens",
+      "ohne": "without",
+      "adäquate": "adequate",
+      "eigentümer": "owner",
+      "tiefen": "deep",
+      "emotionalen": "emotional",
+      "wirtschaftlichen": "economic",
+      "darstellt": "represents",
+      "thematisierte": "addressed",
+      "indem": "by",
+      "empfinden": "to perceive",
+      "bezeichnete": "designated",
+      "werde": "will",
+      "gleichzeitig": "simultaneously",
+      "restaurants": "restaurants",
+      "seine": "his",
+      "einschätzung": "assessment",
+      "nach": "after",
+      "zielt": "targets",
+      "israelische": "Israeli",
+      "strategie": "strategy",
+      "historischen": "historical",
+      "stätte": "site",
+      "umfasst": "includes",
+      "darunter": "including",
+      "osmanische": "Ottoman",
+      "vergangenheit": "past",
+      "kürzlich": "recently",
+      "welcher": "which",
+      "kulturellen": "cultural",
+      "gefährden": "endanger",
+      "äußerte": "expressed",
+      "bedenken": "concerns",
+      "hinsichtlich": "regarding",
+      "konflikten": "conflicts",
+      "hoffnung": "hope",
+      "unesco-anerkennung": "UNESCO recognition",
+      "internationalen": "international",
+      "beistand": "assistance",
+      "mobilisieren": "to mobilize",
+      "gideon": "Gideon",
+      "saar": "Saar",
+      "interpretiert": "interpreted",
+      "jüdischen": "Jewish",
+      "bezug": "reference",
+      "zum": "to the",
+      "vorwand": "pretext",
+      "umstrittene": "controversial",
+      "landnahme": "land takeover",
+      "hoch": "high",
+      "oben": "above",
+      "römischen": "Roman",
+      "sebastias": "Sebastia's",
+      "großer": "big",
+      "archäologischer": "archaeological",
+      "bedeutung": "meaning",
+      "olivenplantagen": "olive plantations",
+      "angelegt": "established",
+      "betroffenen": "affected",
+      "schilderte": "described",
+      "grundstück": "property",
+      "gehe": "to go",
+      "unter": "under",
+      "gebietsansprüche": "territorial claims",
+      "erheben": "to raise",
+      "diesem": "this",
+      "kontext": "context",
+      "bemerkenswert": "remarkable",
+      "entgangenen": "lost",
+      "bevölkerung": "population",
+      "bedeutende": "significant",
+      "finanzielle": "financial",
+      "emotionale": "emotional",
+      "konsequenzen": "consequences",
+      "angebote": "offers",
+      "tiefe": "deep",
+      "entfremdung": "alienation",
+      "ihrem": "their",
+      "beträchtlichen": "considerable",
+      "metaphorisch": "metaphorically",
+      "außerdem": "besides",
+      "berichtet": "reports",
+      "lokalen": "local",
+      "abzielen": "to target",
+      "abzuschotten": "to isolate",
+      "region": "region",
+      "tausenden": "thousands",
+      "jahren": "years",
+      "reaktion": "reaction",
+      "expropriationsartigen": "expropriation-like",
+      "maßnahmen": "measures",
+      "weltkulturerbe": "world heritage",
+      "anerkannt": "recognized",
+      "gefährdungsliste": "danger list",
+      "ins": "into",
+      "leben": "life",
+      "gerufen": "called",
+      "drohenden": "threatening",
+      "kultureller": "cultural",
+      "hinzuweisen": "to point out",
+      "ankündigungen": "announcements",
+      "außenministers": "foreign minister's",
+      "entscheidungen": "decisions",
+      "abzulehnen": "to decline",
+      "verdeutlichen": "to clarify",
+      "konflikt": "conflict",
+      "zugehörigkeit": "affiliation",
+      "mohamed": "Mohamed",
+      "mögliche": "possible",
+      "eskalationen": "escalations",
+      "zwischen": "between",
+      "bewohnern": "inhabitants",
+      "kontroversen": "controversies",
+      "umfeld": "environment",
+      "international": "international",
+      "geteilte": "shared",
+      "solch": "such",
+      "einem": "a",
+      "stärkeren": "stronger",
+      "führen": "to lead",
+      "jedoch": "however",
+      "fraglich": "questionable"
+    },
+    "fr": {
+      "israël": "Israel",
+      "et": "and",
+      "les": "the",
+      "fouilles": "excavations",
+      "archéologiques": "archaeological",
+      "en": "in",
+      "cisjordanie": "west bank",
+      "il": "he",
+      "un": "a",
+      "site": "site",
+      "ancien": "former",
+      "ce": "this",
+      "appelle": "calls",
+      "sébastia": "sebastia",
+      "des": "some",
+      "familles": "families",
+      "palestiniennes": "Palestinians",
+      "cultivent": "cultivate",
+      "oliviers": "olive trees",
+      "là-bas": "over there",
+      "depuis": "since",
+      "générations": "generations",
+      "abu": "abu",
+      "mudif": "mudif",
+      "possède": "owns",
+      "terrain": "ground",
+      "avec": "with",
+      "arbres": "trees",
+      "autorités": "authorities",
+      "israéliennes": "Israeli",
+      "prennent": "take",
+      "ses": "his",
+      "terres": "lands",
+      "ils": "they",
+      "veulent": "want",
+      "créer": "to create",
+      "parc": "park",
+      "national": "national",
+      "là": "there",
+      "palestiniens": "Palestinians",
+      "ne": "not",
+      "pas": "not",
+      "perdre": "to lose",
+      "leurs": "their",
+      "ont": "have",
+      "une": "a",
+      "forte": "strong",
+      "connexion": "connection",
+      "leur": "their",
+      "terre": "land",
+      "sont": "are",
+      "importantes": "important",
+      "pour": "for",
+      "culture": "culture",
+      "unesco": "unesco",
+      "protège": "protects",
+      "maintenant": "now",
+      "est": "is",
+      "du": "of the",
+      "patrimoine": "heritage",
+      "mondial": "global",
+      "espèrent": "hope",
+      "que": "that",
+      "cela": "that",
+      "aide": "help",
+      "garder": "to keep",
+      "histoire": "history",
+      "héritage": "heritage",
+      "riche": "rich",
+      "profonde": "deep",
+      "tensions": "tensions",
+      "ces": "these",
+      "très": "very",
+      "importants": "important",
+      "économie": "economy",
+      "propriétaire": "owner",
+      "reçoit": "receives",
+      "lettre": "letter",
+      "troublante": "disturbing",
+      "cette": "this",
+      "dit": "says",
+      "son": "his",
+      "nouveau": "new",
+      "projet": "project",
+      "qui": "who",
+      "concerne": "concerns",
+      "environ": "about",
+      "acres": "acres",
+      "de": "of",
+      "agricoles": "agricultural",
+      "propriétaires": "owners",
+      "reçoivent": "receive",
+      "souvent": "often",
+      "argent": "money",
+      "accepter": "to accept",
+      "terrible": "terrible",
+      "problème": "problem",
+      "eux": "them",
+      "perdent": "lose",
+      "partie": "party",
+      "identité": "identity",
+      "ajouté": "added",
+      "sa": "its",
+      "liste": "list",
+      "danger": "danger",
+      "habitants": "inhabitants",
+      "craignent": "fear",
+      "israéliens": "Israelis",
+      "empêchent": "prevent",
+      "accéder": "to access",
+      "au": "at the",
+      "historique": "historic",
+      "dégradations": "deteriorations",
+      "démolitions": "demolitions",
+      "inquiètent": "worry",
+      "beaucoup": "a lot",
+      "villageois": "villager",
+      "préserver": "to preserve",
+      "mais": "but",
+      "peur": "fear",
+      "conséquences": "consequences",
+      "parle": "speaks",
+      "souhaite": "wishes",
+      "la": "the",
+      "communauté": "community",
+      "internationale": "international",
+      "accusé": "accused",
+      "manipulation": "manipulation",
+      "archéologique": "archaeological",
+      "cœur": "heart",
+      "controverse": "controversy",
+      "importante": "important",
+      "ruines": "ruins",
+      "datant": "dating",
+      "plusieurs": "several",
+      "époques": "times",
+      "été": "been",
+      "cultivé": "cultivated",
+      "par": "by",
+      "pendant": "during",
+      "parmi": "among",
+      "appris": "learned",
+      "exproprient": "expropriate",
+      "prétendument": "allegedly",
+      "cependant": "however",
+      "indemnisation": "compensation",
+      "le": "the",
+      "sentiment": "feeling",
+      "représente": "represents",
+      "perte": "loss",
+      "non": "no",
+      "seulement": "only",
+      "aussi": "also",
+      "culturel": "cultural",
+      "précieux": "precious",
+      "récemment": "recently",
+      "inscrit": "inscribed",
+      "sur": "about",
+      "elle": "she",
+      "également": "also",
+      "classé": "classified",
+      "comme": "like",
+      "étant": "being",
+      "maire": "mayor",
+      "mohammed": "Mohammed",
+      "azem": "azem",
+      "exprimé": "expressed",
+      "préoccupations": "concerns",
+      "concernant": "concerning",
+      "sécurité": "security",
+      "effet": "effect",
+      "forces": "forces",
+      "aux": "to the",
+      "plus": "more",
+      "projets": "projects",
+      "développement": "development",
+      "menacent": "threaten",
+      "locale": "local",
+      "nahed": "nahed",
+      "sakha": "sakha",
+      "restaurateur": "restorer",
+      "région": "region",
+      "mentionné": "mentioned",
+      "établissement": "establishment",
+      "sous": "under",
+      "menace": "threat",
+      "démolition": "demolition",
+      "mois": "months",
+      "travaux": "work",
+      "restauration": "restoration",
+      "commencé": "started",
+      "compliquant": "complicating",
+      "encore": "again",
+      "situation": "situation",
+      "si": "if",
+      "plans": "shots",
+      "aboutissent": "result",
+      "pourrait": "could",
+      "priver": "to deprive",
+      "accès": "access",
+      "essentiel": "essential",
+      "modifier": "to modify",
+      "toujours": "always",
+      "paysage": "landscape",
+      "palpables": "palpable",
+      "se": "yourself",
+      "traduisant": "translating",
+      "manifestations": "demonstrations",
+      "appels": "calls",
+      "solidarité": "solidarity",
+      "exploiter": "to exploit",
+      "archéologie": "archaeology",
+      "sites": "sites",
+      "antiques": "antiques",
+      "dans": "in",
+      "collines": "hills",
+      "surplombant": "overhanging",
+      "colonnes": "columns",
+      "romaines": "roman",
+      "antique": "antique",
+      "occupée": "occupied",
+      "trouvent": "to find",
+      "champs": "fields",
+      "cultivés": "cultivated",
+      "terriens": "landowners",
+      "reçu": "received",
+      "notification": "notification",
+      "indiquant": "indicating",
+      "faisant": "making",
+      "lot": "lot",
+      "serait": "would be",
+      "expropriée": "expropriated",
+      "dernières": "latest",
+      "affirment": "affirm",
+      "vise": "aims",
+      "protéger": "to protect",
+      "développer": "to develop",
+      "généralement": "generally",
+      "aucune": "none",
+      "compensation": "compensation",
+      "même": "even",
+      "lorsqu'elle": "when she",
+      "proposée": "proposed",
+      "plupart": "most",
+      "refusent": "refuse",
+      "considérant": "considering",
+      "reconnaissance": "recognition",
+      "explique": "explains",
+      "impact": "impact",
+      "profond": "deep",
+      "lui": "him",
+      "on": "one",
+      "vous": "you",
+      "arrachait": "was tearing",
+      "âme": "soul",
+      "je": "I",
+      "peux": "can",
+      "imaginer": "to imagine",
+      "ma": "my",
+      "vie": "life",
+      "sans": "without",
+      "mes": "my",
+      "parallèlement": "concurrently",
+      "restaurant": "restaurant",
+      "local": "local",
+      "menacé": "threatened",
+      "déclare": "declares",
+      "plan": "plan",
+      "israélien": "Israeli",
+      "semble": "seems",
+      "viser": "to aim",
+      "isoler": "to isolate",
+      "après": "after",
+      "avoir": "to have",
+      "dénonce": "denounces",
+      "craint": "fears",
+      "nettoyage": "cleaning",
+      "provoque": "provokes",
+      "problèmes": "problems",
+      "enfin": "finally",
+      "ministre": "minister",
+      "affaires": "affairs",
+      "étrangères": "foreign",
+      "qualifie": "qualifies",
+      "action": "action",
+      "tentative": "attempt",
+      "diminuer": "to decrease",
+      "liens": "links",
+      "historiques": "historical",
+      "juifs": "Jews",
+      "manipuler": "to manipulate",
+      "perchée": "perched",
+      "dominent": "dominate",
+      "étend": "extends",
+      "informé": "informed",
+      "intégrant": "integrating",
+      "prétendent": "claim",
+      "vouloir": "to want",
+      "valoriser": "to value",
+      "cet": "this",
+      "endroit": "place",
+      "futur": "future",
+      "pourtant": "yet",
+      "courant": "current",
+      "soient": "are",
+      "ni": "nor",
+      "indemnisés": "compensated",
+      "consultés": "consulted",
+      "processus": "process",
+      "exprime": "expresses",
+      "sujet": "subject",
+      "voir": "to see",
+      "arracher": "to tear",
+      "envisager": "to consider",
+      "lieu": "place",
+      "dont": "whose",
+      "destruction": "destruction",
+      "souligne": "highlights",
+      "auraient": "would have",
+      "conséquence": "consequence",
+      "vestiges": "remnants",
+      "juive": "Jewish",
+      "romaine": "Roman",
+      "ottomane": "ottoman",
+      "réaction": "reaction",
+      "catégoriquement": "categorically",
+      "pointant": "pointing",
+      "doigt": "finger",
+      "expropriation": "expropriation",
+      "crainte": "fear",
+      "face": "face",
+      "possibles": "possible",
+      "répercussions": "repercussions",
+      "actions": "actions",
+      "finalement": "finally",
+      "rejette": "rejects",
+      "qualifiant": "qualifying",
+      "intervention": "intervention",
+      "dénaturer": "to distort",
+      "instrumentaliser": "to instrumentalize",
+      "flanc": "slope",
+      "colline": "hill",
+      "majestueusement": "majestically",
+      "romains": "roman",
+      "millénaire": "millennium",
+      "stipulant": "stipulating",
+      "intégrées": "integrated",
+      "destinées": "destined",
+      "être": "to be",
+      "expropriées": "expropriated",
+      "justifient": "justify",
+      "affirmant": "affirming",
+      "peu": "little",
+      "confrontés": "faced",
+      "dépossession": "dispossession",
+      "acceptent": "accept",
+      "toute": "all",
+      "percevant": "perceiving",
+      "légitimation": "legitimation",
+      "métaphore": "metaphor",
+      "poignante": "poignant",
+      "décrit": "described",
+      "arrachement": "seizure",
+      "parallèle": "parallel",
+      "évoque": "evokes",
+      "isolation": "isolation",
+      "croissante": "growing",
+      "résidents": "residents",
+      "vis-à-vis": "vis-a-vis",
+      "chargé": "loaded",
+      "divers": "various",
+      "temps": "weather",
+      "ère": "era",
+      "réagissant": "reacting",
+      "insistant": "insistent",
+      "risque": "risk",
+      "anéantir": "to annihilate",
+      "intégrité": "integrity",
+      "alerte": "alert",
+      "quant": "regarding",
+      "implications": "implications",
+      "expropriations": "expropriations",
+      "gideon": "gideon",
+      "saar": "saar",
+      "présente": "presents",
+      "manœuvre": "maneuver",
+      "effacer": "to erase",
+      "arguant": "arguing",
+      "aucun": "none",
+      "vote": "vote",
+      "organisation": "organization",
+      "saurait": "would know",
+      "altérer": "to alter"
+    },
+    "es": {
+      "israel": "Israel",
+      "las": "the",
+      "tierras": "lands",
+      "en": "in",
+      "sebastia": "Sebastia",
+      "es": "is",
+      "un": "a",
+      "lugar": "place",
+      "antiguo": "old",
+      "hay": "there is",
+      "columnas": "columns",
+      "romanas": "Roman",
+      "allí": "there",
+      "familias": "families",
+      "palestinas": "Palestinian",
+      "cultivan": "to cultivate",
+      "olivos": "olives",
+      "abu": "grandfather",
+      "mudif": "Mudif",
+      "tiene": "has",
+      "terreno": "land",
+      "toma": "takes",
+      "su": "his",
+      "tierra": "land",
+      "autoridades": "authorities",
+      "dicen": "they say",
+      "que": "that",
+      "quieren": "they want",
+      "hacer": "to do",
+      "parque": "park",
+      "no": "not",
+      "irse": "to leave",
+      "ellos": "they",
+      "tienen": "have",
+      "sus": "their",
+      "raíces": "roots",
+      "muy": "very",
+      "importante": "important",
+      "para": "to",
+      "nahed": "Nahed",
+      "sakha": "Sakha",
+      "restaurante": "restaurant",
+      "puede": "can",
+      "ser": "to be",
+      "demolido": "demolished",
+      "la": "the",
+      "gente": "people",
+      "está": "is",
+      "preocupada": "worried",
+      "unesco": "UNESCO",
+      "dice": "says",
+      "el": "the",
+      "patrimonio": "heritage",
+      "cultural": "cultural",
+      "todos": "all",
+      "deben": "must",
+      "cuidar": "to care",
+      "este": "this",
+      "situación": "situation",
+      "palestina": "Palestine",
+      "cisjordania": "West Bank",
+      "muchas": "many",
+      "región": "region",
+      "hombre": "man",
+      "recibió": "received",
+      "aviso": "notice",
+      "de": "of",
+      "parte": "part",
+      "nuevo": "new",
+      "quiere": "wants",
+      "plan": "plan",
+      "ocupar": "to occupy",
+      "preservar": "to preserve",
+      "veces": "times",
+      "reciben": "they receive",
+      "dinero": "money",
+      "por": "for",
+      "porque": "because",
+      "están": "are",
+      "además": "furthermore",
+      "le": "the",
+      "preocupa": "worries",
+      "lo": "it",
+      "destruyan": "to destroy",
+      "cree": "he/she/they believe",
+      "protegerlo": "to protect it",
+      "locales": "locals",
+      "participen": "participate",
+      "desarrollo": "development",
+      "conflicto": "conflict",
+      "sitio": "site",
+      "ocupada": "occupied",
+      "conocido": "known",
+      "impresionantes": "impressive",
+      "como": "like",
+      "punto": "point",
+      "cultivo": "cultivation",
+      "han": "they have",
+      "cultivado": "cultivated",
+      "durante": "during",
+      "generaciones": "generations",
+      "solo": "only",
+      "significativo": "significant",
+      "historia": "story",
+      "sino": "but",
+      "también": "also",
+      "importancia": "importance",
+      "económica": "economic",
+      "los": "the",
+      "palestinos": "Palestinians",
+      "dependen": "depend",
+      "agricultura": "agriculture",
+      "sin": "without",
+      "embargo": "however",
+      "uno": "one",
+      "terratenientes": "landowners",
+      "ha": "has",
+      "recibido": "received",
+      "alarmante": "alarming",
+      "va": "goes",
+      "razón": "reason",
+      "dan": "to give",
+      "desean": "they wish",
+      "crear": "to create",
+      "nacional": "national",
+      "proyecto": "project",
+      "realmente": "really",
+      "muchos": "many",
+      "más": "more",
+      "propietarios": "owners",
+      "son": "are",
+      "conscientes": "aware",
+      "aceptar": "to accept",
+      "pago": "payment",
+      "podría": "could",
+      "legitimizar": "to legitimize",
+      "ocupación": "occupation",
+      "cual": "which",
+      "consideran": "consider",
+      "injusta": "unfair",
+      "quien": "who",
+      "dueño": "owner",
+      "teme": "fears",
+      "negocio": "business",
+      "sea": "be",
+      "esto": "this",
+      "afecte": "affect",
+      "familia": "family",
+      "intervención": "intervention",
+      "planeada": "planned",
+      "parece": "seems",
+      "tener": "to have",
+      "intención": "intention",
+      "separar": "to separate",
+      "aún": "still",
+      "del": "of the",
+      "arqueológico": "archaeological",
+      "otro": "other",
+      "lado": "side",
+      "declarado": "declared",
+      "humanidad": "humanity",
+      "esta": "this",
+      "declaración": "statement",
+      "consiste": "consists",
+      "una": "a",
+      "señal": "signal",
+      "advertencia": "warning",
+      "reconoce": "recognizes",
+      "riesgos": "risks",
+      "enfrenta": "faces",
+      "ya": "already",
+      "proceso": "process",
+      "expropiación": "expropriation",
+      "plantea": "raises",
+      "serias": "serious",
+      "amenazas": "threats",
+      "preservación": "preservation",
+      "si": "if",
+      "obras": "works",
+      "continúan": "they continue",
+      "futuro": "future",
+      "comunidad": "community",
+      "local": "local",
+      "perder": "to lose",
+      "conexión": "connection",
+      "con": "with",
+      "propia": "own",
+      "cultura": "culture",
+      "algo": "something",
+      "difícil": "difficult",
+      "acusado": "accused",
+      "usar": "to use",
+      "arqueología": "archaeology",
+      "arma": "weapon",
+      "sitios": "sites",
+      "antiguos": "old",
+      "colinas": "hills",
+      "rodean": "surround",
+      "se": "oneself",
+      "encuentran": "find",
+      "campos": "camps",
+      "cultivados": "cultivated",
+      "notificaciones": "notifications",
+      "forma": "form",
+      "lote": "lot",
+      "aproximadamente": "approximately",
+      "acres": "acres",
+      "israelíes": "Israelis",
+      "expropiando": "expropriating",
+      "alegando": "alleging",
+      "proteger": "to protect",
+      "desarrollar": "to develop",
+      "comúnmente": "commonly",
+      "escasa": "scarce",
+      "compensación": "compensation",
+      "al": "to the",
+      "sienten": "feel",
+      "reconocen": "they recognize",
+      "pérdida": "loss",
+      "representa": "represents",
+      "golpe": "blow",
+      "financiero": "financial",
+      "él": "he",
+      "explica": "explains",
+      "arrancaran": "they will uproot",
+      "alma": "soul",
+      "similarmente": "similarly",
+      "propietario": "owner",
+      "advierte": "warns",
+      "sobre": "about",
+      "peligro": "danger",
+      "demoliciones": "demolitions",
+      "insinuando": "hinting",
+      "busca": "seeks",
+      "desconectar": "to disconnect",
+      "residentes": "residents",
+      "restos": "remains",
+      "significativos": "significant",
+      "épocas": "eras",
+      "pasadas": "past",
+      "añadido": "added",
+      "lista": "list",
+      "mundial": "global",
+      "indicando": "indicating",
+      "gran": "great",
+      "amenaza": "threat",
+      "pesar": "despite",
+      "preocupaciones": "worries",
+      "ministro": "minister",
+      "asuntos": "issues",
+      "exteriores": "foreign",
+      "israelí": "Israeli",
+      "gideon": "Gideon",
+      "saar": "Saar",
+      "defendió": "defended",
+      "acciones": "actions",
+      "gobierno": "government",
+      "sugiriendo": "suggesting",
+      "ningún": "none",
+      "voto": "vote",
+      "internacional": "international",
+      "cambiar": "to change",
+      "así": "thus",
+      "tensiones": "tensions",
+      "aumentando": "increasing",
+      "históricamente": "historically",
+      "disputada": "disputed",
+      "utilización": "use",
+      "controvertida": "controversial",
+      "dominan": "dominate",
+      "situado": "situated",
+      "sido": "been",
+      "área": "area",
+      "expropiarán": "they will expropriate",
+      "bajo": "under",
+      "pretexto": "pretext",
+      "normalmente": "normally",
+      "poca": "little",
+      "ninguna": "none",
+      "tales": "such",
+      "expropiaciones": "expropriations",
+      "mayoría": "majority",
+      "optan": "opt",
+      "rechazarla": "to reject it",
+      "hacerlo": "to do it",
+      "implica": "implies",
+      "legitimidad": "legitimacy",
+      "desgarro": "tear",
+      "emocional": "emotional",
+      "profundo": "profound",
+      "modo": "way",
+      "similar": "similar",
+      "amenazado": "threatened",
+      "demolición": "demolition",
+      "denuncia": "denunciation",
+      "invaluable": "invaluable",
+      "alberga": "houses",
+      "importantes": "important",
+      "históricos": "historic",
+      "contexto": "context",
+      "amplio": "broad",
+      "clasificado": "classified",
+      "describiendo": "describing",
+      "grave": "serious",
+      "dividir": "to divide",
+      "descalificado": "disqualified",
+      "afirmando": "affirming",
+      "organismo": "body",
+      "alterar": "to alter",
+      "medida": "measure",
+      "estas": "these",
+      "persisten": "persist",
+      "continúa": "continues",
+      "enfrentando": "facing",
+      "incertidumbres": "uncertainties",
+      "acerca": "about",
+      "legado": "legacy",
+      "herramienta": "tool",
+      "control": "control",
+      "territorial": "territorial",
+      "caso": "case",
+      "elevaciones": "elevations",
+      "romanos": "Romans",
+      "asentamiento": "settlement",
+      "extienden": "extend",
+      "largo": "long",
+      "notificado": "notified",
+      "alrededor": "around",
+      "será": "will be",
+      "expropiado": "expropriated",
+      "argumento": "argument",
+      "creación": "creation",
+      "intento": "attempt",
+      "encubierto": "covert",
+      "solidificar": "to solidify",
+      "menudo": "frequent",
+      "rechazan": "they reject",
+      "payouts": "payouts",
+      "hacen": "do",
+      "valor": "value",
+      "económico": "economic",
+      "implicado": "involved",
+      "dicha": "said",
+      "implicaría": "would imply",
+      "aceptación": "acceptance",
+      "tácita": "tacit",
+      "usurpación": "usurpation",
+      "describe": "describes",
+      "hogar": "home",
+      "desgarrador": "heartbreaking",
+      "arranque": "uprooting",
+      "esencia": "essence",
+      "mientras": "while",
+      "tanto": "so much",
+      "restaurador": "restorer",
+      "separarlos": "to separate them",
+      "herencia": "heritage",
+      "histórica": "historic",
+      "data": "data",
+      "milenios": "millennia",
+      "subrayando": "highlighting",
+      "principal": "main",
+      "radica": "lies",
+      "proyectada": "projected",
+      "rebatido": "debated",
+      "expresadas": "expressed",
+      "proclamando": "proclaiming",
+      "organismos": "organizations",
+      "internacionales": "international",
+      "tejido": "fabric",
+      "histórico": "historic",
+      "judeo-israelí": "Jewish-Israeli",
+      "prosigue": "continues",
+      "programa": "program",
+      "derechos": "rights",
+      "territoriales": "territorial",
+      "culturales": "cultural",
+      "exacerban": "they exacerbate",
+      "zona": "zone",
+      "frágil": "fragile"
+    }
+  }
+}
