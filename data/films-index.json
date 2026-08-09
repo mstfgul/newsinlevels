@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-09-the-master-and-margarita-aleksandar-petrovic",
+    "date": "2026-08-09",
+    "director": "Aleksandar Petrović",
+    "image": "https://image.tmdb.org/t/p/w780/mjzqzltXsjHW8lVxlH4jMaU6zhT.jpg",
+    "titles": {
+      "en": "The Master and Margarita",
+      "de": "Der Meister und Margarita - ein faszinierendes Werk",
+      "fr": "Le Maître et Marguerite",
+      "es": "El Maestro y Margarita"
+    }
+  },
+  {
     "id": "2026-08-08-the-exterminating-angel-luis-bunuel",
     "date": "2026-08-08",
     "director": "Luis Buñuel",

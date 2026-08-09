@@ -1,0 +1,2563 @@
+{
+  "id": "2026-08-09-the-master-and-margarita-aleksandar-petrovic",
+  "date": "2026-08-09",
+  "source": {
+    "name": "TMDB",
+    "url": "https://www.themoviedb.org/movie/80701"
+  },
+  "originalTitle": "The Master and Margarita (1972) — Aleksandar Petrović",
+  "image": "https://image.tmdb.org/t/p/w780/mjzqzltXsjHW8lVxlH4jMaU6zhT.jpg",
+  "category": "film",
+  "film": {
+    "director": "Aleksandar Petrović",
+    "title": "The Master and Margarita",
+    "year": "1972",
+    "genres": "Drama, Fantasy, Romance"
+  },
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "The Master and Margarita",
+        "text": "This film is about a writer. His name is Nikolai Masoudov. He writes about a man named Pontius Pilate. A powerful character is Satan. He is also called Woland. Woland and his friends make trouble for the writer. They watch the writer and hurt his friends. The writer feels very afraid. He goes to a special place for help. His assistant, Margaret, wants to help him. She loves him very much. This movie has many interesting ideas about love and fear. It shows how important friendship is.",
+        "vocabulary": [
+          {
+            "word": "writer",
+            "definition": "person who makes stories or books"
+          },
+          {
+            "word": "trouble",
+            "definition": "a problem or problem-making"
+          },
+          {
+            "word": "afraid",
+            "definition": "feeling fear or worry"
+          },
+          {
+            "word": "help",
+            "definition": "to make something better or easier"
+          },
+          {
+            "word": "love",
+            "definition": "a strong feeling for someone"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What does the writer do?",
+            "options": [
+              "He sings songs.",
+              "He writes stories.",
+              "He draws pictures."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who is Woland?",
+            "options": [
+              "A friend",
+              "A teacher",
+              "Satan"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Who wants to help the writer?",
+            "options": [
+              "Margaret",
+              "Woland",
+              "A doctor"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "The Master and Margarita",
+        "text": "The Master and Margarita is a film from 1972. It is directed by Aleksandar Petrović. The story begins with a writer named Nikolai Masoudov. He writes about Pontius Pilate, a famous Roman leader. A character named Woland, who is Satan, causes many problems. He watches the writer and harms his friends. Because of this, the writer becomes very worried and confused. He goes to a mental institution for help. His assistant, Margaret, loves him. She wants to save him from the bad things around him. This film explores themes of love, friendship, and fear. It also shows the struggle of a creative person against evil forces. The movie has a unique style with imaginative scenes and deep meanings.",
+        "vocabulary": [
+          {
+            "word": "imaginative",
+            "definition": "full of new and creative ideas"
+          },
+          {
+            "word": "themes",
+            "definition": "main ideas or messages in a story"
+          },
+          {
+            "word": "struggle",
+            "definition": "to try hard to do something difficult"
+          },
+          {
+            "word": "creative",
+            "definition": "able to make new things or ideas"
+          },
+          {
+            "word": "confused",
+            "definition": "not able to think clearly"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who directs the film?",
+            "options": [
+              "Nikolai Masoudov",
+              "Aleksandar Petrović",
+              "Margaret"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Woland represent?",
+            "options": [
+              "A good friend",
+              "Satan",
+              "A teacher"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Margaret want to do?",
+            "options": [
+              "Travel far away",
+              "Help the writer",
+              "Write a story"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "The Master and Margarita",
+        "text": "The Master and Margarita is a fascinating film from 1972, directed by Aleksandar Petrović. It tells the story of a talented writer, Nikolai Masoudov, who is deeply engaged in creating a narrative about Pontius Pilate. However, a sinister figure named Woland, who represents Satan, disrupts the writer’s life. He spies on Masoudov and causes terrible harm to his friends. If you consider the impact Woland has, you can see how this harassment creates significant paranoia in Masoudov, leading him to seek refuge in a mental institution for his own safety. Meanwhile, his devoted assistant, Margaret, is determined to save him despite the dangers involved. This film conveys important themes related to love, friendship, and the challenges of creativity in a world filled with evil influences. The story highlights how true love can inspire great bravery. The film also employs imaginative visuals and powerful storytelling to explore human emotions and the nature of good versus evil. In addition to its compelling plot, The Master and Margarita has won several awards and holds an important place in cinema history as it connects literature with rich visual language, allowing viewers to appreciate both aspects deeply.",
+        "vocabulary": [
+          {
+            "word": "talented",
+            "definition": "having a natural ability to do something well"
+          },
+          {
+            "word": "disrupt",
+            "definition": "to interrupt or cause confusion in something"
+          },
+          {
+            "word": "paranoia",
+            "definition": "a feeling of extreme and unreasonable suspicion or fear"
+          },
+          {
+            "word": "refuge",
+            "definition": "shelter or protection from danger"
+          },
+          {
+            "word": "devoted",
+            "definition": "very loyal and loving"
+          },
+          {
+            "word": "imaginative",
+            "definition": "having a lot of creativity and new ideas"
+          },
+          {
+            "word": "bravery",
+            "definition": "the quality of being courageous in difficult situations"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the main character's name in the film?",
+            "options": [
+              "Nikolai Masoudov",
+              "Aleksandar Petrović",
+              "Pontius Pilate"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Woland represent in the story?",
+            "options": [
+              "The writer's friend",
+              "Satan",
+              "A mental institution"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does Margaret try to do for the Master?",
+            "options": [
+              "Leave him",
+              "Save him",
+              "Follow Woland"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Themes of Struggle and Love in The Master and Margarita",
+        "text": "The Master and Margarita is a fascinating film that explores deep themes such as love, creativity, and the struggle against evil. Set in the 1920s in Moscow, it opens with a talented writer, Maestro Nikolai Masoudov, who finds himself in dire circumstances. As he attempts to create a biblical story about Pontius Pilate, he faces harassment from a mysterious figure named Woland, representing the devil. This dynamic raises important questions about the nature of good and evil, as well as the price of artistic integrity. The visual language of the film uses strong contrasts between light and shadow, which adds to its dramatic intensity. The director, Aleksandar Petrović, skillfully blends fantasy with reality, inviting viewers to question the boundaries of both. The soundtrack, combined with the rhythmic pacing of the scenes, enhances the overall mood, creating a sense of unease and tension. With its rich storytelling and complex characters, The Master and Margarita holds a unique place in cinema history, having won prestigious awards, including the Big Golden Arena for Best Film at the 1972 Pula Film Festival. It is a work that encourages viewers to reflect on the power of love and the challenges faced by creativity.",
+        "vocabulary": [
+          {
+            "word": "struggle",
+            "definition": "to fight against difficulties"
+          },
+          {
+            "word": "integrity",
+            "definition": "being honest and having strong moral principles"
+          },
+          {
+            "word": "contrast",
+            "definition": "the difference between two things"
+          },
+          {
+            "word": "dynamic",
+            "definition": "characterized by constant change or activity"
+          },
+          {
+            "word": "tension",
+            "definition": "a feeling of nervousness or excitement"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is the film about?",
+            "options": [
+              "A writer and his assistant creating a story",
+              "A simple love story",
+              "A horror movie about ghosts"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who does the writer face difficulties with?",
+            "options": [
+              "His friends",
+              "The devil named Woland",
+              "A government official"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What award did the film win?",
+            "options": [
+              "Best Director",
+              "Best Film",
+              "Best Actor"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Exploring Complexity in The Master and Margarita",
+        "text": "The Master and Margarita, directed by Aleksandar Petrović in 1972, is a profound examination of the interplay between creativity, morality, and love. The narrative follows Maestro Nikolai Masoudov, who is caught in a web of paranoia as he writes a biblical tale concerning Pontius Pilate. His assistant, Margaret, is equally compelling, as she navigates dangers to save her beloved. The film delves into philosophical questions regarding the nature of good and evil, particularly through the character of Woland, who embodies chaos and temptation. Petrović’s direction skillfully employs visual contrasts—using light and shadow to evoke both warmth and danger—while the rhythmic pacing of scenes maintains a subtle tension throughout. The rich sound design amplifies emotional depth, drawing viewers into a world where the fantastical collides with harsh reality. Winning the Big Golden Arena for Best Film at the Pula Film Festival, the film is not only renowned for its artistic merit but also for its cultural significance as a Yugoslav entry for the Academy Awards. In its exploration of love and the tortured artist's experience, The Master and Margarita remains a timeless reflection on the human condition.",
+        "vocabulary": [
+          {
+            "word": "interplay",
+            "definition": "the way two or more things have an effect on each other"
+          },
+          {
+            "word": "narrative",
+            "definition": "a spoken or written account of connected events"
+          },
+          {
+            "word": "chaos",
+            "definition": "complete disorder and confusion"
+          },
+          {
+            "word": "evoke",
+            "definition": "to bring a feeling, memory or image into the mind"
+          },
+          {
+            "word": "tortured",
+            "definition": "experiencing great pain or difficulty"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who directed The Master and Margarita?",
+            "options": [
+              "Aleksandar Petrović",
+              "Mikhail Bulgakov",
+              "Bata Živojinović"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the character Woland represent?",
+            "options": [
+              "Goodness and light",
+              "Chaos and temptation",
+              "Friendship and love"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Which award did the film win?",
+            "options": [
+              "Big Golden Arena for Best Film",
+              "Golden Globe",
+              "Academy Award"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "The Master and Margarita: A Multifaceted Reflection on Humanity",
+        "text": "The Master and Margarita, embossed by the visionary direction of Aleksandar Petrović, transcends mere cinematic storytelling; it presents a multifaceted exploration of the human experience, juxtaposing love, morality, and existential struggle. At its core, the protagonist, Maestro Nikolai Masoudov, grapples with inner turmoil while attempting to craft a narrative about Pontius Pilate—an endeavor complicated by the malignant presence of Woland, whose very essence embodies chaos and temptation. The film invites viewers to interrogate the nature of good and evil, blurring the lines between reality and fantasy through its compelling visual language. Shadows dance gracefully against stark light, reinforcing a sense of duality that permeates the film's atmosphere. Moreover, the rhythmic structure of scenes harmonizes with an evocative score, drawing the audience into emotionally charged moments that resonate long after the credits roll. Victory at the 1972 Pula Film Festival alongside its status as a Yugoslav entry for the Academy Awards elevates its cultural significance, positioning it as a vital piece within cinema history. Ultimately, The Master and Margarita serves not only as an artistic triumph but also as a philosophical meditation on the enduring complexities of love, creativity, and the human condition.",
+        "vocabulary": [
+          {
+            "word": "transcend",
+            "definition": "to go beyond the limits of something"
+          },
+          {
+            "word": "juxtaposing",
+            "definition": "placing two things next to each other to highlight their differences"
+          },
+          {
+            "word": "malignant",
+            "definition": "very harmful or evil"
+          },
+          {
+            "word": "interrogate",
+            "definition": "to ask questions in a detailed and critical way"
+          },
+          {
+            "word": "resonate",
+            "definition": "to produce or be filled with a deep, full sound or meaning"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What themes does the film explore?",
+            "options": [
+              "Only love",
+              "Complexities of humanity",
+              "Sports and competition"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What award did The Master and Margarita win?",
+            "options": [
+              "Best Film",
+              "Best Director",
+              "Best Actress"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does Woland embody in the film?",
+            "options": [
+              "Goodness",
+              "Chaos and temptation",
+              "Friendship"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Der Meister und Margarita",
+        "text": "Der Film ist ein Drama. Er hat auch Fantasie-Elemente. Die Hauptfigur ist ein Schreiber. Sein Name ist Nikolai Masoudov. Er schreibt eine Geschichte. Diese Geschichte handelt von Pontius Pilatus. Nikolai hat eine Assistentin. Ihr Name ist Margaret. Sie hilft ihm sehr. Aber Bösewichte beobachten sie. Diese Bösewichte machen auch andere Menschen traurig. Der Meister wird krank und kommt in eine Klinik. Margaret hat große Angst. Sie will ihn retten. Der Film spricht über Liebe, Freiheit und das Böse. Die Bilder sind sehr schön und der Klang ist spannend. Das ist ein wichtiger Film.",
+        "vocabulary": [
+          {
+            "word": "Film",
+            "definition": "Eine Geschichte in Bewegungen."
+          },
+          {
+            "word": "Hauptfigur",
+            "definition": "Die wichtigste Person in der Geschichte."
+          },
+          {
+            "word": "Schreiber",
+            "definition": "Eine Person, die Geschichten schreibt."
+          },
+          {
+            "word": "Klinik",
+            "definition": "Ein Ort für kranke Menschen."
+          },
+          {
+            "word": "Angst",
+            "definition": "Wenn man sich fürchtet."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist der Name des Schreibers?",
+            "options": [
+              "Margaret",
+              "Nikolai Masoudov",
+              "Pontius Pilatus"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wo kommt der Meister hin?",
+            "options": [
+              "In eine Klinik",
+              "In eine Stadt",
+              "In ein Theater"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was hilft Margaret?",
+            "options": [
+              "Die Bösewichte",
+              "Der Meister",
+              "Die Geschichte"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Der Meister und Margarita - ein spannender Film",
+        "text": "Der Film „Der Meister und Margarita“ ist von Aleksandar Petrović. Er ist aus dem Jahr 1972. Die Geschichte spielt in Moskau in den 1920er Jahren. Nikolai Masoudov ist ein talentierter Schreiber. Er hat eine Assistentin, die Margaret heißt. Die beiden arbeiten zusammen an einer Geschichte über Pontius Pilatus. Aber sie haben Probleme. Woland, der Satan, und seine Helfer beobachten den Meister. Sie machen ihm Angst und verletzen seine Freunde. Nikolai wird paranoid und kommt in eine Klinik. Das ist sehr schlimm für ihn. Margaret liebt ihn und will ihn retten. Sie ist sehr tapfer und bereit, alles zu tun. Der Film zeigt wichtige Themen wie Liebe und Freiheit. Die Bilder sind schön und die Musik macht den Film spannend. Es ist ein wichtiger Beitrag zur Filmgeschichte, weil er viele Menschen berührt.",
+        "vocabulary": [
+          {
+            "word": "talentiert",
+            "definition": "Sehr gut in etwas."
+          },
+          {
+            "word": "Helfer",
+            "definition": "Eine Person, die hilft."
+          },
+          {
+            "word": "paranoid",
+            "definition": "Wenn man übermäßig ängstlich ist."
+          },
+          {
+            "word": "tapfer",
+            "definition": "Mutig und stark."
+          },
+          {
+            "word": "beitragen",
+            "definition": "Etwas zu etwas geben oder helfen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist der Regisseur des Films?",
+            "options": [
+              "Mikhail Bulgakov",
+              "Aleksandar Petrović",
+              "Nikolai Masoudov"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was macht Margaret im Film?",
+            "options": [
+              "Sie verlässt den Meister.",
+              "Sie hilft dem Meister.",
+              "Sie arbeitet alleine."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wann spielt die Geschichte?",
+            "options": [
+              "In den 1920er Jahren",
+              "In den 1940er Jahren",
+              "In den 1970er Jahren"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Der Meister und Margarita - ein faszinierendes Werk",
+        "text": "„Der Meister und Margarita“ ist ein Film von Aleksandar Petrović aus dem Jahr 1972. Der Film basiert lose auf dem gleichnamigen Roman von Mikhail Bulgakov. Die Handlung findet in den 1920er Jahren in Moskau statt und erzählt die Geschichte von Nikolai Masoudov, einem begabten Schriftsteller. Zusammen mit seiner Assistentin Margaret arbeitet er an einer Geschichte über Pontius Pilatus. Doch ihre kreative Arbeit wird von Woland, dem Satan, und seinen unheimlichen Helfern gestört. Diese Figuren kommen ins Spiel und erzeugen eine Atmosphäre der Angst und Verzweiflung. Nikolai hat große Probleme mit seinem Verstand und wird in eine psychiatrische Klinik gebracht. Margaret zeigt außergewöhnliche Tapferkeit, indem sie alles riskiert, um ihren Meister zu retten. Diese Themen von Liebe, Freiheit und der Auseinandersetzung mit dem Bösen sind wichtig für den Film und machen ihn besonders. Die visuellen Effekte sind beeindruckend und die Musik verstärkt die Emotionen der Zuschauer. Der Film ist ein wichtiger Teil der cineastischen Geschichte, da er komplexe Ideen vermittelt und das Publikum zum Nachdenken anregt.",
+        "vocabulary": [
+          {
+            "word": "Handlung",
+            "definition": "Die Ereignisse in einem Film oder Buch."
+          },
+          {
+            "word": "begabt",
+            "definition": "Sehr talentiert oder fähig."
+          },
+          {
+            "word": "unheimlich",
+            "definition": "Etwas, das Angst macht."
+          },
+          {
+            "word": "verzweifeln",
+            "definition": "Wenn man keine Hoffnung mehr hat."
+          },
+          {
+            "word": "visuell",
+            "definition": "Mit Bildern oder dem Sehen verbunden."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wann wurde der Film erstellt?",
+            "options": [
+              "1982",
+              "1972",
+              "1962"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wer ist der Satan im Film?",
+            "options": [
+              "Nikolai Masoudov",
+              "Woland",
+              "Mikhail Bulgakov"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was macht Margaret für Nikolai?",
+            "options": [
+              "Sie verletzt ihn.",
+              "Sie verlässt ihn.",
+              "Sie kämpft um ihn."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B2": {
+        "title": "Der Meister und Margarita – Ein Blick auf die Themen",
+        "text": "Der Film „Der Meister und Margarita“ von Aleksandar Petrović, der 1972 veröffentlicht wurde, thematisiert die Herausforderungen eines künstlerischen Schaffensprozesses sowie die Abgründe der menschlichen Psyche. Die Geschichte beginnt mit Maestro Nikolai Masoudov und seiner Assistentin Margaret, die an einer biblischen Erzählung über Pontius Pilatus arbeiten. Während ihrer kreativen Bemühungen werden sie jedoch von dem geheimnisvollen Woland und seinen handlangerhaften Begleitern verfolgt, was dazu führt, dass der Meister in eine psychiatrische Anstalt eingewiesen wird. Diese Entwicklung wirft grundlegende Fragen auf: Was bleibt von der Kunst, wenn die Schöpfer in ihrem Schaffen behindert werden? Der visuelle Stil des Films, geprägt von eindrucksvoller Kameraführung und stimmungsvoller Beleuchtung, verstärkt die emotionale Tiefe der Intensität, die der Film vermittelt. Zudem kontrastiert die düstere Atmosphäre der sozialistischen Realität in den 1920er Jahren Moskaus mit den surrealen Elementen, die Woland und seine Gefolgsleute mit sich bringen. „Der Meister und Margarita“ ist nicht nur ein fantastisches Drama, sondern auch eine tiefgründige Erkundung von Macht, Freiheit und dem menschlichen Geist in einer unterdrückten Gesellschaft.",
+        "vocabulary": [
+          {
+            "word": "Herausforderung",
+            "definition": "Eine schwierige Aufgabe oder Situation."
+          },
+          {
+            "word": "künstlerisch",
+            "definition": "Die Kunst betreffend."
+          },
+          {
+            "word": "psychisch",
+            "definition": "Die Psyche oder den Geist betreffend."
+          },
+          {
+            "word": "verfolgen",
+            "definition": "Jemanden beobachten oder belästigen."
+          },
+          {
+            "word": "übermitteln",
+            "definition": "Eine Nachricht oder Information weitergeben."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer sind die Hauptfiguren im Film?",
+            "options": [
+              "Maestro Nikolai und seine Assistentin",
+              "Woland und seine Helfer",
+              "Ein Arzt in der Anstalt"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "In welchem Jahr wurde der Film veröffentlicht?",
+            "options": [
+              "1972",
+              "1980",
+              "1965"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Welches Thema wird im Film behandelt?",
+            "options": [
+              "Die Liebe zwischen zwei Personen",
+              "Die Herausforderungen des künstlerischen Schaffens",
+              "Der Alltag in Moskau"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Der Meister und Margarita – Eine filmische Analyse",
+        "text": "Aleksandar Petrovićs „Der Meister und Margarita“ aus dem Jahr 1972 ist eine bemerkenswerte filmische Adaption des gleichnamigen Romans von Mikhail Bulgakov, die tief in die Abgründe der menschlichen Existenz eintaucht. Das Werk thematisiert nicht nur die Schwierigkeiten des kreativen Schaffens, sondern auch die psychologischen Auswirkungen von Verfolgung und Isolation. Im Zentrum befindet sich der Meister, ein talentierter Schriftsteller, dessen Schicksal durch die unerbittliche Überwachung des teuflischen Woland und seiner düsteren Gefolgsleute beeinflusst wird. Die filmische Narration ist meisterhaft gestaltet und kombiniert surreale sowie dramatische Elemente, die den Zuschauer sowohl emotional berühren als auch zum Nachdenken anregen. Die visuelle Sprache des Films, die mit sorgfältig ausgewählten Licht- und Schatteneffekten arbeitet, trägt zur bedrohlichen Stimmung bei und verstärkt somit die philosophischen Fragen zu Macht, Freiheit und dem Wesen von Gut und Böse. Die brillante schauspielerische Leistung, besonders die von Bata Živojinović, gibt dem Werk zusätzlich Tiefe und Authentizität. „Der Meister und Margarita“ bleibt daher nicht nur aufgrund seiner faszinierenden Story ein wichtiger Beitrag zur filmischen Kunst, sondern auch wegen seiner kritischen Auseinandersetzung mit realhistorischen und existentialistischen Themen in einem repressiven Umfeld.",
+        "vocabulary": [
+          {
+            "word": "Adaption",
+            "definition": "Eine bearbeitete Version eines Originals."
+          },
+          {
+            "word": "existentialistisch",
+            "definition": "Die Philosophie betreffend, die sich mit der menschlichen Existenz beschäftigt."
+          },
+          {
+            "word": "meistern",
+            "definition": "Etwas sehr gut können oder beherrschen."
+          },
+          {
+            "word": "bedrohlich",
+            "definition": "Erzeugt Angst oder Sorge."
+          },
+          {
+            "word": "authentisch",
+            "definition": "Echt oder glaubwürdig."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer sind die antagonistischen Figuren im Film?",
+            "options": [
+              "Der Meister und Margarita",
+              "Woland und seine Gefolgsleute",
+              "Die Freunde des Meisters"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Themen werden im Film behandelt?",
+            "options": [
+              "Kreatives Schaffen und Verfolgung",
+              "Natur und Umwelt",
+              "Technologie und Fortschritt"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie wird die visuelle Stimmung im Film beschrieben?",
+            "options": [
+              "Durch helle Farben und fröhliche Musik",
+              "Durch Licht- und Schatteneffekte",
+              "Durch schnelle Schnitte und Action"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Der Meister und Margarita – Ein Meisterwerk der filmischen Kunst",
+        "text": "Mit „Der Meister und Margarita“ hat Aleksandar Petrović ein meisterhaftes Werk geschaffen, das weit über eine bloße filmische Adaption des Romans von Mikhail Bulgakov hinausgeht. Der Film, ein eindringliches Zentrum der philosophischen Reflexion, erkundet die komplexe Beziehung zwischen dem Individuum und der autoritären Gesellschaft, indem er die psychologischen Belastungen seines Hauptprotagonisten, des Meisters, eindrucksvoll zur Schau stellt. Woland, als personifizierter Teufel, verkörpert nicht nur die transzendente Macht des Bösen, sondern spiegelt auch die Abgründe wider, in die kreative Seelen abrutschen können, wenn sie mit Verfolgung konfrontiert werden. Petrović nutzt ein eindrucksvolles filmisches Vokabular: Die visuelle Komplexität, angereichert durch sorgfältige Lichtführungen und präzise Kameraführung, vermag es, die innere Zerrissenheit der Charaktere fühlbar zu machen. Die Verbindung von Traum und Realität wird dabei auf meisterhafte Weise orchestriert und weckt ein Gefühl der Unsicherheit, das den Zuschauer in seinen Bann zieht. Darüber hinaus ist der Film nicht nur ein ästhetisches Erlebnis, sondern auch ein philosophisches Etappenwerk der Filmgeschichte, das die Fragilität künstlerischer Ausdrucksformen in einem repressiven Regime thematisiert und damit relevante Diskurse über die Freiheit des Denkens und die Natur des Guten und Bösen anstoßen kann. Ein unverzichtbarer Klassiker, der zum Nachdenken anregt und nachhaltigen Eindruck hinterlässt.",
+        "vocabulary": [
+          {
+            "word": "eindringlich",
+            "definition": "Intensiv und fesselnd; geht an die Substanz."
+          },
+          {
+            "word": "veranschaulichen",
+            "definition": "Etwas konkret oder anschaulich darstellen."
+          },
+          {
+            "word": "fragil",
+            "definition": "Zart oder verletzlich; nicht stabil."
+          },
+          {
+            "word": "transzendent",
+            "definition": "Über das Materielle hinausgehend; metaphysisch."
+          },
+          {
+            "word": "nachhaltig",
+            "definition": "Langfristig wirkend; dauerhaft."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was ist die zentrale Thematik des Films?",
+            "options": [
+              "Die Beziehung zur Natur",
+              "Die Überwindung von Schicksal und Verfolgung",
+              "Die psychologischen Belastungen im künstlerischen Prozess"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Wie wird Woland im Film charakterisiert?",
+            "options": [
+              "Als guter Freund des Meisters",
+              "Als personifizierte Macht des Bösen",
+              "Als unbeteiligter Beobachter"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was wird durch die filmische Ästhetik vermittelt?",
+            "options": [
+              "Ein Gefühl von Sicherheit",
+              "Die innere Zerrissenheit der Charaktere",
+              "Eine einfache Handlung"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Le Maître et Marguerite",
+        "text": "Le film s'appelle Le Maître et Marguerite. Il est de Aleksandar Petrović. C'est un film de 1972. L'histoire commence à Moscou. Un écrivain s'appelle Maître. Maître a une assistante qui s'appelle Marguerite. Ils écrivent une histoire sur Pilate. Mais ils ont des problèmes. Le diable, Woland, les surveille. Le Maître est triste et inquiet. Marguerite veut l'aider. C'est une histoire de peur et d'amour. Les scènes sont belles et sombres. La musique est très intéressante. Ce film parle de l'art et de la folie.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "un mouvement d'images"
+          },
+          {
+            "word": "écrivain",
+            "definition": "une personne qui écrit"
+          },
+          {
+            "word": "triste",
+            "definition": "ne pas être heureux"
+          },
+          {
+            "word": "aider",
+            "definition": "donner de l'aide"
+          },
+          {
+            "word": "amour",
+            "definition": "un sentiment pour une autre personne"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est l'écrivain dans le film?",
+            "options": [
+              "Woland",
+              "Marguerite",
+              "Maître"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Qui aide le Maître?",
+            "options": [
+              "Woland",
+              "Marguerite",
+              "le diable"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Est-ce que le Maître est heureux?",
+            "options": [
+              "Oui",
+              "Non",
+              "Pas sûr"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Le Maître et Marguerite",
+        "text": "Le Maître et Marguerite est un film de 1972. Il est réalisé par Aleksandar Petrović et se déroule principalement à Moscou. L'histoire commence avec un écrivain talentueux, le Maître, et son assistante, Marguerite, qui travaillent sur un livre sur Pontius Pilate, un personnage biblique connu. Mais ils ont de sérieux problèmes à cause d'un personnage nommé Woland, le diable, qui les surveille sans relâche. Le Maître devient très inquiet et il est finalement enfermé dans une institution mentale. Marguerite, déterminée, veut sauver le Maître malgré le danger qui l'entoure. Elle fait des choix difficiles et rencontre des obstacles. Ce film traite de l'amour, de la folie et de la lutte contre le mal. Les images sont sombres et la musique ajoute beaucoup d'émotion. Ce film est souvent apprécié pour sa beauté visuelle et sa profondeur psychologique, et il a même remporté le Grand Prix au Festival de Pula.",
+        "vocabulary": [
+          {
+            "word": "film",
+            "definition": "une œuvre cinématographique ou un long métrage."
+          },
+          {
+            "word": "écrivain",
+            "definition": "une personne qui écrit, souvent des livres."
+          },
+          {
+            "word": "assistant",
+            "definition": "une personne qui aide un écrivain."
+          },
+          {
+            "word": "danger",
+            "definition": "une situation où il y a un risque."
+          },
+          {
+            "word": "amusant",
+            "definition": "qui apporte du plaisir ou du rire."
+          },
+          {
+            "word": "émotion",
+            "definition": "un sentiment intense comme la joie ou la tristesse."
+          },
+          {
+            "word": "obstacles",
+            "definition": "des difficultés qui rendent quelque chose plus difficile."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui réalise le film ?",
+            "options": [
+              "Aleksandar Petrović",
+              "Bata Živojinović",
+              "Mikhail Bulgakov"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel genre de film est Le Maître et Marguerite ?",
+            "options": [
+              "Comédie",
+              "Drame et Fantaisie",
+              "Documentaire"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Marguerite se sent-elle face au danger ?",
+            "options": [
+              "Elle a peur.",
+              "Elle est indifférente.",
+              "Elle est déterminée."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "B1": {
+        "title": "Le Maître et Marguerite",
+        "text": "Le Maître et Marguerite est un film réalisé par Aleksandar Petrović en 1972. Ce film coloré et captivant est principalement tiré d'un roman complexe de Mikhail Bulgakov, qui a été écrit dans les années 1930. L'histoire commence à Moscou dans les années 1920, une période marquée par la révolution et le changement. Le personnage principal, Maître, est un écrivain talentueux qui écrit sur Pilate, une figure historique importante. Son assistante, Marguerite, qui l'aide dans son travail, est aussi très dévouée. Cependant, leur vie prend un tournant dramatique lorsque Woland, une incarnation du diable, commence à les harceler. Cette figure mystérieuse et terrifiante crée des situations chaotiques, ce qui rend leur existence difficile. En conséquence, Maître devient paranoïaque et se retrouve enfermé dans une institution mentale, ce qui complique encore plus leur situation. Marguerite, déterminée à le sauver, fait face à de nombreux dangers, y compris des rencontres avec des personnages sinistres. Ce film aborde des thèmes profonds comme l'amour, la folie et la lutte entre le bien et le mal. Visuellement, le film est riche en contrastes, avec une lumière sombre et de la musique captivante qui renforce l'atmosphère de tension. Le film a été bien accueilli par la critique et a reçu des prix importants, dont la Grande Arène d'Or pour le meilleur film. Les performances des acteurs et la direction artistique ont également été saluées. Si vous aimez les films fantastiques chargés de sens, ce chef-d'œuvre mérite d'être vu.",
+        "vocabulary": [
+          {
+            "word": "incarnation",
+            "definition": "Un acte de rendre quelque chose concret ou visible, souvent utilisé dans un contexte religieux."
+          },
+          {
+            "word": "harceler",
+            "definition": "Aggresser ou tourmenter quelqu'un de manière répétée."
+          },
+          {
+            "word": "paranoïaque",
+            "definition": "Se sentir persécuté ou menacé de manière irrationnelle."
+          },
+          {
+            "word": "sinistre",
+            "definition": "Quelque chose qui évoque la peur ou qui est inquiétant."
+          },
+          {
+            "word": "dévouée",
+            "definition": "Être très engagé ou loyal envers une personne ou une cause."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le lieu principal de l'histoire ?",
+            "options": [
+              "Paris",
+              "Moscou",
+              "Rome"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui est l'incarnation du diable dans le film ?",
+            "options": [
+              "Maître",
+              "Woland",
+              "Marguerite"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quelle récompense a reçu le film au Festival de Pula ?",
+            "options": [
+              "Meilleur acteur",
+              "Meilleur film",
+              "Meilleure musique"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Le Maître et Marguerite : une exploration fascinante",
+        "text": "Dans le film \"Le Maître et Marguerite\" d'Aleksandar Petrović, sorti en 1972, l'histoire commence avec le talentueux écrivain Nikolai Masoudov et son assistante Marguerite, alors qu'ils travaillent sur une œuvre biblique. Ce film, à la croisée du drame, de la fantaisie et de la romance, aborde des thèmes profonds comme le pouvoir de la créativité et la lutte contre l'oppression. Évidemment, la présence de Woland, une incarnation du mal, symbolise les forces qui cherchent à écraser l'individu. Bien que l’environnement soit hostile, Marguerite incarne la résistance et l’amour inébranlable, prête à tout pour sauver son maître. Visuellement, le film utilise la lumière et des jeux d'ombres pour accentuer l'angoisse et l'absurdité des situations des personnages. La bande sonore, qui alterne entre éléments dramatiques et moments de beauté, contribue à la tension qui monte tout au long de l'œuvre. \"Le Maître et Marguerite\" offre ainsi une réflexion sur la liberté créatrice et les limites imposées par la société, faisant de ce film un classique du cinéma qui mérite d'être redécouvert. Également, il a remporté le Grand Prix d'Arena d'Or au festival du film de Pula et a été le choix de la Yougoslavie pour le meilleur film étranger aux Oscars, soulignant son importance cinématographique.",
+        "vocabulary": [
+          {
+            "word": "créativité",
+            "definition": "L'art de créer, de produire quelque chose de nouveau."
+          },
+          {
+            "word": "oppression",
+            "definition": "État d'être soumis à une autorité injuste ou abusive."
+          },
+          {
+            "word": "résistance",
+            "definition": "Action de s'opposer à quelque chose."
+          },
+          {
+            "word": "angoisse",
+            "definition": "Sentiment d'anxiété intense."
+          },
+          {
+            "word": "réflexion",
+            "definition": "Pensée ou considération sur un sujet."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui sont les deux personnages principaux du film ?",
+            "options": [
+              "Nikolai et Marguerite",
+              "Woland et Nikolai",
+              "Marguerite et Woland"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est le genre du film ?",
+            "options": [
+              "Comédie",
+              "Action",
+              "Drame"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quel prix le film a-t-il remporté ?",
+            "options": [
+              "Un Oscar",
+              "Le Grand Prix d'Arena d'Or",
+              "Un Golden Globe"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Le Maître et Marguerite : un chef-d'œuvre philosophique",
+        "text": "Le film \"Le Maître et Marguerite\", réalisé par Aleksandar Petrović en 1972, s'ancre dans une trame narrative fascinante, où le talent de l'écrivain Nikolai Masoudov se heurte aux forces obscures incarnées par Woland. L'œuvre explore la dualité de l'existence humaine, entre génie créatif et oppression, tout en posant la question fondamentale de la liberté face à l'autorité. La relation entre Masoudov et sa muse, Marguerite, se révèle comme un symbole de l'amour inébranlable, soulignant la résistance de l'esprit humain. Blessed with captivating cinematography, the film employs chiaroscuro, accentuating both despair and hope within its dystopian world. Furthermore, the director's sensitivity to sound design enhances emotional depth, transitioning seamlessly between tension and lyrical beauty. Émanant d'une période troublée de l'histoire, ce film résonne aujourd'hui encore, rappelant à chacun l'importance de la créativité dans la lutte pour la vérité. En étant sélectionné pour les Oscars, il a également consolidé sa place dans le panthéon des grandes œuvres cinématographiques, évitant les pièges d'une simple adaptation littéraire.",
+        "vocabulary": [
+          {
+            "word": "trame",
+            "definition": "Fil conducteur d'une narration ou d'une histoire."
+          },
+          {
+            "word": "dualités",
+            "definition": "Aspect de deux éléments opposés."
+          },
+          {
+            "word": "infrangible",
+            "definition": "Qui ne peut être brisé ou détruit."
+          },
+          {
+            "word": "chiaroscuro",
+            "definition": "Technique artistique de contraste entre ombres et lumières."
+          },
+          {
+            "word": "résonne",
+            "definition": "Produire un écho ou une résonance dans un contexte."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel thème principal est exploré dans le film ?",
+            "options": [
+              "La comédie",
+              "L'amour et la résistance",
+              "Le sport"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment Woland est-il décrit dans le film ?",
+            "options": [
+              "Comme un héros",
+              "Comme une force obscure",
+              "Comme un ami"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pour quel prix le film a-t-il été choisi ?",
+            "options": [
+              "Meilleur film de l'année",
+              "Meilleur film étranger",
+              "Meilleure direction"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Le Maître et Marguerite : une alchimie cinématographique",
+        "text": "Le chef-d'œuvre \"Le Maître et Marguerite\", réalisé par le visionnaire Aleksandar Petrović en 1972, s'érige en une réflexion profonde sur l'absurde et la condition humaine. En mettant en scène Nikolai Masoudov et sa fascinante assistante Marguerite, le film engage le spectateur dans un univers où créativité et persécution s'entremêlent inextricablement. La figure de Woland, découlant de l'imaginaire collectif, transcende le simple antagonisme pour devenir une métaphore des forces tyranniques qui entravent la liberté d'expression. Les choix stylistiques de Petrović, notamment le jeu subtil de la lumière et des ombres, engendrent une atmosphère onirique tout en révélant les vérités cruelles des relations humaines. Une attention minutieuse à la bande sonore, oscillant entre mélancolie et éclats de désespoir, accentue encore davantage la tension dramatique. Ainsi, \"Le Maître et Marguerite\" ne se contente pas d'être une adaptation littéraire, mais interroge notre rapport à l'art et à la révolte contre l'oppression. Ce film, par sa portée universelle, confirme son statut de classique intemporel, illustrant brillamment la richesse du cinéma européen, tout en interrogeant l'état de notre humanité, en écho aux tumultes historiques de son époque.",
+        "vocabulary": [
+          {
+            "word": "alchimie",
+            "definition": "Transformation mystérieuse d'un élément en un autre."
+          },
+          {
+            "word": "inextricablement",
+            "definition": "De manière si entremêlée qu'il est impossible de séparer."
+          },
+          {
+            "word": "transcender",
+            "definition": "Dépasse une limite ou un cadre établi."
+          },
+          {
+            "word": "onirique",
+            "definition": "Qui évoque le rêve."
+          },
+          {
+            "word": "portée",
+            "definition": "Signification ou impact d'une œuvre."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel est le message central du film ?",
+            "options": [
+              "Il parle de l'amour",
+              "C'est une métaphore de la tyrannie",
+              "C'est une comédie romantique"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment le réalisateur joue-t-il avec la lumière ?",
+            "options": [
+              "Pour créer des ombres dramatiques",
+              "Pour produire des effets spéciaux",
+              "Pour rendre le film amusant"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel est l'impact global de ce film sur le cinéma européen ?",
+            "options": [
+              "Il a peu d'importance",
+              "Il illustre la richesse du cinéma",
+              "Il est sans intérêt"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "El Maestro y Margarita",
+        "text": "El Maestro y Margarita es una película famosa. Es de 1972 y es italiana y yugoslava. Es un drama, fantasía y romance. La historia es sobre un escritor talentoso. Su nombre es Nikolai Masoudov. Él tiene una asistente muy valiente. Su nombre es Margarita. Ellos trabajan en una historia sobre Poncio Pilato. Un personaje malo está presente. Su nombre es Woland. Ellos sufren problemas grandes. Woland causa miedo y confusión. Masoudov está en una institución mental. Margarita quiere ayudarlo y lo ama. La película es interesante y hermosa. Es un clásico del cine.",
+        "vocabulary": [
+          {
+            "word": "famosa",
+            "definition": "conocida y reconocida"
+          },
+          {
+            "word": "valiente",
+            "definition": "que no tiene miedo"
+          },
+          {
+            "word": "sufren",
+            "definition": "tienen problemas"
+          },
+          {
+            "word": "miedo",
+            "definition": "sentimiento de peligro"
+          },
+          {
+            "word": "confusión",
+            "definition": "falta de claridad"
+          },
+          {
+            "word": "historia",
+            "definition": "relato de eventos"
+          },
+          {
+            "word": "clásico",
+            "definition": "muy importante en la cultura"
+          },
+          {
+            "word": "cine",
+            "definition": "arte de hacer películas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué tipo es la película?",
+            "options": [
+              "Drama y fantasía",
+              "Comedia y acción",
+              "Documental"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es el asistente de Masoudov?",
+            "options": [
+              "Margarita",
+              "Woland",
+              "Nikolai"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿En qué se basa la historia?",
+            "options": [
+              "Una historia de amor",
+              "La vida de un escritor",
+              "La historia de Poncio Pilato"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "A2": {
+        "title": "El Maestro y Margarita",
+        "text": "El Maestro y Margarita es una película de 1972 dirigida por Aleksandar Petrović. Esta película es un drama, fantasía y romance. La historia tiene lugar en Moscú, en los años 20. Nikolai Masoudov es un escritor talentoso y su asistente Margarita lo ayuda en su trabajo. Ellos están escribiendo una historia sobre Poncio Pilato, un personaje histórico muy conocido. Un personaje malo llamado Woland llega a su vida y causa mucho miedo y problemas. Woland vigila a Masoudov y lo persigue, incluso causa la muerte de un amigo. Otro amigo de Masoudov va a un lugar peligroso, que es una prisión en Siberia. Debido a esto, Masoudov se siente perdido y está en una institución mental. Margarita ama a Masoudov y ella quiere salvarlo porque está en peligro. La película es muy interesante y toca temas profundos como el amor y la lucha contra el mal. También muestra la importancia de la amistad.",
+        "vocabulary": [
+          {
+            "word": "prisión",
+            "definition": "un lugar donde se guardan a los criminales."
+          },
+          {
+            "word": "profundo",
+            "definition": "que tiene mucha importancia o que es intenso."
+          },
+          {
+            "word": "lucha",
+            "definition": "el acto de pelear por algo."
+          },
+          {
+            "word": "perseguido",
+            "definition": "ser seguido de cerca por alguien."
+          },
+          {
+            "word": "amor",
+            "definition": "un fuerte afecto hacia otra persona."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué año es la película El Maestro y Margarita?",
+            "options": [
+              "1972",
+              "1980",
+              "1965"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de personaje es Woland en la película?",
+            "options": [
+              "Un héroe",
+              "Un amigo",
+              "Un personaje malo"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Dónde se siente perdido Masoudov?",
+            "options": [
+              "En la calle",
+              "En una institución mental",
+              "En su casa"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "El Maestro y Margarita",
+        "text": "El Maestro y Margarita, dirigida por Aleksandar Petrović en 1972, es una película que mezcla drama y fantasía. La historia comienza con Nikolai Masoudov, un escritor muy talentoso que está trabajando en un relato sobre Poncio Pilato. Junto a él está Margarita, su asistente, quien se preocupa mucho por su bienestar y lo apoya en su proceso creativo. Sin embargo, a medida que avanza la historia, un personaje inquietante llamado Woland aparece. Este ser sobrenatural causa muchos problemas, ya que vigila constantemente a Masoudov y lo somete a una serie de acosos. Woland también es responsable de la muerte de un amigo de Masoudov y envía a otro a un Gulag, una prisión en Siberia. Esto afecta profundamente su salud mental, llevándolo a una institución. Margarita, por su parte, siente un amor inmenso por Masoudov y, si tiene la oportunidad, intentará ayudarlo a escapar de esta trágica situación. La película explora temas complejos como el amor, la locura, y la lucha contra el mal, cuestionando la moralidad de la sociedad. Además, la dirección de Petrović, con su cuidadosa atención a la iluminación y el sonido, crea un ambiente tenso y fascinante, que atrapa al espectador desde el principio hasta el final. Sin duda, esta obra ha tenido un impacto fuerte en el cine.",
+        "vocabulary": [
+          {
+            "word": "talentoso",
+            "definition": "que tiene habilidad o destreza en algo."
+          },
+          {
+            "word": "apoyo",
+            "definition": "asistencia o ayuda que se da a alguien."
+          },
+          {
+            "word": "ser sobrenatural",
+            "definition": "un ser que no pertenece al mundo natural, como los demonios o ángeles."
+          },
+          {
+            "word": "Gulag",
+            "definition": "un sistema de prisiones en la antigua Unión Soviética."
+          },
+          {
+            "word": "moralidad",
+            "definition": "conjunto de principios sobre lo que se considera bueno o malo."
+          },
+          {
+            "word": "impacto",
+            "definition": "efecto o influencia que algo produce."
+          },
+          {
+            "word": "cuestionar",
+            "definition": "dudar o poner en duda algo."
+          },
+          {
+            "word": "fascinante",
+            "definition": "que capta profundamente el interés o la atención."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el personaje que acosa a Masoudov?",
+            "options": [
+              "Nikolai Masoudov",
+              "Woland",
+              "Margarita"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de temas explora la película?",
+            "options": [
+              "La ciencia y la tecnología",
+              "El amor y la locura",
+              "La política y la economía"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Dónde es enviado el amigo de Masoudov?",
+            "options": [
+              "A una isla",
+              "A un Gulag",
+              "A su casa"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "El maestro y Margarita: Un viaje entre la realidad y la fantasía",
+        "text": "El maestro y Margarita es una película excepcional dirigida por Aleksandar Petrović, basada en la novela de Mikhail Bulgakov. La narrativa comienza con el maestro Nikolai Masoudov, un escritor que, junto a su asistente Margarita, se enfrenta a un mundo lleno de misterios y desafíos. La historia explora temas profundos como el amor, la locura, y la lucha entre el bien y el mal. A través de elementos fantásticos, la película invita a los espectadores a reflexionar sobre la naturaleza humana y la libertad de expresión. Visualmente, la obra es impresionante, con un uso magistral de la luz y la sombra que realza sus emociones. Además, la música acompaña este viaje, intensificando la atmósfera. Aunque la historia se sitúa en la Moscú de los años veinte, sus temas resuenan universalmente, haciéndola relevante en cualquier época. Esta obra ganó la Gran Arena de Oro a la Mejor Película en el Festival de Cine de Pula en 1972, consolidando su lugar en la historia del cine. En resumen, este filme es una combinación perfecta de drama y fantasía que invita a la reflexión profunda.",
+        "vocabulary": [
+          {
+            "word": "espectacular",
+            "definition": "muy impresionante o asombroso"
+          },
+          {
+            "word": "temas",
+            "definition": "las ideas principales de una obra"
+          },
+          {
+            "word": "explora",
+            "definition": "investiga o analiza algo"
+          },
+          {
+            "word": "libertad",
+            "definition": "capacidad para actuar según la propia voluntad"
+          },
+          {
+            "word": "música",
+            "definition": "sonidos organizados que se producen para ser escuchados"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es el personaje principal de la película?",
+            "options": [
+              "Nikolai Masoudov",
+              "Margarita",
+              "Woland"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué tipo de película es el maestro y Margarita?",
+            "options": [
+              "Documental",
+              "Drama y fantasía",
+              "Comedia"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué festival de cine premiaron a la película?",
+            "options": [
+              "Festival de Cannes",
+              "Festival de Cine de Pula",
+              "Festival de Venecia"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "El maestro y Margarita: Un caleidoscopio de emociones y realidades",
+        "text": "La película El maestro y Margarita, dirigida por Aleksandar Petrović en 1972, se erige como una obra capital en el ámbito del cine fantástico y dramático. Basada en la famosa novela de Mikhail Bulgakov, la trama se sitúa en un contexto de represión y oscuridad, donde el maestro, un escritor atormentado, es objeto de vigilancia por parte de entidades demoníacas, lo que desencadena su reclusión en una institución psiquiátrica. Margarita, su asistente y amante, desafía cualquier límite en su búsqueda por liberarlo, lo que propone preguntas sobre el sacrificio y el amor verdadero. A nivel visual, la película despliega una narrativa rica en contrastes de luz y sombras, donde cada escena resuena con una atmósfera inquietante y fascinante. La banda sonora complementa el conjunto, provocando una inmersión profunda en el viaje emocional de los personajes. Aunque centrada en la Moscú de los años 20, la película trasciende su época, abordando temas universales que resuenan con el espectador contemporáneo. La obra recibió varios premios, incluyendo la Gran Arena de Oro, consolidando su estatus en la historia cinematográfica mundial.",
+        "vocabulary": [
+          {
+            "word": "reclusión",
+            "definition": "el acto de aislar a alguien en un lugar"
+          },
+          {
+            "word": "entidades",
+            "definition": "seres o cosas que tienen existencia"
+          },
+          {
+            "word": "fundamental",
+            "definition": "esencial o muy importante"
+          },
+          {
+            "word": "contrastante",
+            "definition": "que muestra fuertes diferencias"
+          },
+          {
+            "word": "inmersión",
+            "definition": "acción de sumergir algo o introducirse por completo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cómo se llama la director de la película?",
+            "options": [
+              "Bata Živojinović",
+              "Mikhail Bulgakov",
+              "Aleksandar Petrović"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "¿Qué tipo de preguntas plantea la película?",
+            "options": [
+              "Sobre ciencia",
+              "Sobre sacrificio y amor verdadero",
+              "Sobre deportes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿En qué festival ganó la Gran Arena de Oro?",
+            "options": [
+              "Festival de Cine de Pula",
+              "Festival de Venecia",
+              "Festival Sundance"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "El maestro y Margarita: Una exploración de la dualidad humana",
+        "text": "El maestro y Margarita, dirigido por Aleksandar Petrović en 1972, se presenta como un estudio profundo sobre la existencia y los dilemas de la condición humana, trascendiendo el mero entretenimiento. Inspirada en la célebre novela de Mikhail Bulgakov, la trama penetra en la oscura Moscú de los años 20, donde la represión política y la desintegración individual son telones de fondo de una narrativa extraordinaria. A través de la figura del maestro, un escritor carcomido por sus demonios personales y una sociedad que lo margina, la película explora la fragilidad del ser humano frente a las fuerzas del mal, simbolizadas por Woland y sus secuaces. Margarita, como agente de libertad y amor incondicional, desafía estereotipos de género y asume un papel protagónico en la búsqueda de la verdad y la redención. La dirección de Petrović, así como la cuidada fotografía y la selección musical, crean un paisaje sonoro y visual que envuelve al espectador en una atmósfera de ensueño. Este filme no solo ganó la Gran Arena de Oro, sino que también se consolidó como un referente cinematográfico invaluable en la historia del cine, invitando a análisis críticos en múltiples niveles de profundidad.",
+        "vocabulary": [
+          {
+            "word": "trascender",
+            "definition": "superar un límite o fronteras"
+          },
+          {
+            "word": "reprimido",
+            "definition": "sometido a control o censura"
+          },
+          {
+            "word": "margina",
+            "definition": "excluir de un grupo o sociedad"
+          },
+          {
+            "word": "protagónico",
+            "definition": "que tiene un papel principal"
+          },
+          {
+            "word": "referente",
+            "definition": "algo que sirve de modelo o ejemplo"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿De qué trata el filme en profundidad?",
+            "options": [
+              "Sobre la vida en el espacio",
+              "Sobre la condición humana y la existencia",
+              "Sobre la historia de un dinosaurio"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Quién es el director de esta película?",
+            "options": [
+              "Mikhail Bulgakov",
+              "Aleksandar Petrović",
+              "Bata Živojinović"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué representa Woland en la narrativa?",
+            "options": [
+              "El ángel del bien",
+              "Las fuerzas del mal",
+              "Un héroe"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "der": "the",
+      "meister": "master",
+      "und": "and",
+      "margarita": "margarita",
+      "film": "film",
+      "ist": "is",
+      "ein": "a",
+      "drama": "drama",
+      "er": "he",
+      "hat": "has",
+      "auch": "also",
+      "fantasie-elemente": "fantasy elements",
+      "die": "the",
+      "hauptfigur": "main character",
+      "schreiber": "writer",
+      "sein": "his",
+      "name": "name",
+      "nikolai": "Nikolai",
+      "masoudov": "Masoudov",
+      "schreibt": "writes",
+      "eine": "a",
+      "geschichte": "history",
+      "diese": "this",
+      "handelt": "acts",
+      "von": "from",
+      "pontius": "Pontius",
+      "pilatus": "Pilate",
+      "assistentin": "assistant",
+      "ihr": "your",
+      "margaret": "Margaret",
+      "sie": "they",
+      "hilft": "helps",
+      "ihm": "him",
+      "sehr": "very",
+      "aber": "but",
+      "bösewichte": "villains",
+      "beobachten": "to observe",
+      "machen": "to make",
+      "andere": "other",
+      "menschen": "people",
+      "traurig": "sad",
+      "wird": "will",
+      "krank": "sick",
+      "kommt": "comes",
+      "in": "in",
+      "klinik": "clinic",
+      "große": "large",
+      "angst": "fear",
+      "will": "wants",
+      "ihn": "him",
+      "retten": "to save",
+      "spricht": "speaks",
+      "über": "about",
+      "liebe": "love",
+      "freiheit": "freedom",
+      "das": "that",
+      "böse": "evil",
+      "bilder": "images",
+      "sind": "are",
+      "schön": "beautiful",
+      "klang": "sound",
+      "spannend": "exciting",
+      "wichtiger": "more important",
+      "spannender": "exciting",
+      "aleksandar": "Aleksandar",
+      "petrović": "Petrović",
+      "aus": "from",
+      "dem": "the",
+      "jahr": "year",
+      "spielt": "plays",
+      "moskau": "Moscow",
+      "den": "the",
+      "jahren": "years",
+      "talentierter": "talented",
+      "heißt": "is called",
+      "beiden": "both",
+      "arbeiten": "to work",
+      "zusammen": "together",
+      "an": "at",
+      "einer": "one",
+      "haben": "to have",
+      "probleme": "problems",
+      "woland": "Woland",
+      "satan": "Satan",
+      "seine": "his",
+      "helfer": "helper",
+      "verletzen": "to injure",
+      "freunde": "friends",
+      "paranoid": "paranoid",
+      "schlimm": "bad",
+      "für": "for",
+      "liebt": "loves",
+      "tapfer": "brave",
+      "bereit": "ready",
+      "alles": "everything",
+      "zu": "to",
+      "tun": "to do",
+      "zeigt": "shows",
+      "wichtige": "important",
+      "themen": "topics",
+      "wie": "like",
+      "musik": "music",
+      "macht": "makes",
+      "es": "it",
+      "beitrag": "contribution",
+      "zur": "to the",
+      "filmgeschichte": "film history",
+      "weil": "because",
+      "viele": "many",
+      "berührt": "touched",
+      "faszinierendes": "fascinating",
+      "werk": "work",
+      "basiert": "based",
+      "lose": "to lose",
+      "auf": "to",
+      "gleichnamigen": "same name",
+      "roman": "novel",
+      "mikhail": "mikhail",
+      "bulgakov": "bulgakov",
+      "handlung": "action",
+      "findet": "finds",
+      "statt": "instead",
+      "erzählt": "tells",
+      "einem": "a",
+      "begabten": "gifted",
+      "schriftsteller": "writer",
+      "mit": "with",
+      "seiner": "his",
+      "arbeitet": "works",
+      "doch": "but",
+      "ihre": "their",
+      "kreative": "creative",
+      "arbeit": "work",
+      "seinen": "his",
+      "unheimlichen": "uncanny",
+      "helfern": "helpers",
+      "gestört": "disturbed",
+      "figuren": "figures",
+      "kommen": "come",
+      "ins": "into",
+      "spiel": "game",
+      "erzeugen": "to produce",
+      "atmosphäre": "atmosphere",
+      "verzweiflung": "despair",
+      "seinem": "his",
+      "verstand": "understanding",
+      "gebracht": "brought",
+      "außergewöhnliche": "extraordinary",
+      "tapferkeit": "bravery",
+      "indem": "by",
+      "riskiert": "risks",
+      "um": "around",
+      "ihren": "their",
+      "auseinandersetzung": "discussion",
+      "bösen": "evil",
+      "wichtig": "important",
+      "besonders": "especially",
+      "visuellen": "visual",
+      "effekte": "effects",
+      "beeindruckend": "impressive",
+      "verstärkt": "intensified",
+      "emotionen": "emotions",
+      "zuschauer": "spectators",
+      "teil": "part",
+      "cineastischen": "cinematic",
+      "da": "there",
+      "komplexe": "complex",
+      "ideen": "ideas",
+      "vermittelt": "mediated",
+      "publikum": "audience",
+      "zum": "to the",
+      "nachdenken": "to think",
+      "anregt": "stimulates",
+      "blick": "glance",
+      "veröffentlicht": "published",
+      "wurde": "was",
+      "thematisiert": "thematizes",
+      "herausforderungen": "challenges",
+      "eines": "one",
+      "künstlerischen": "artistic",
+      "schaffensprozesses": "creative process",
+      "sowie": "as well as",
+      "abgründe": "abysses",
+      "menschlichen": "human",
+      "psyche": "psych",
+      "beginnt": "begins",
+      "maestro": "maestro",
+      "biblischen": "biblical",
+      "erzählung": "narrative",
+      "während": "during",
+      "ihrer": "their",
+      "kreativen": "creative",
+      "bemühungen": "efforts",
+      "werden": "will",
+      "jedoch": "however",
+      "geheimnisvollen": "mysterious",
+      "handlangerhaften": "lackey-like",
+      "begleitern": "companions",
+      "verfolgt": "pursued",
+      "was": "what",
+      "dazu": "additionally",
+      "führt": "leads",
+      "dass": "that",
+      "anstalt": "institution",
+      "eingewiesen": "admitted",
+      "entwicklung": "development",
+      "wirft": "raises",
+      "grundlegende": "fundamental",
+      "fragen": "questions",
+      "bleibt": "stays",
+      "kunst": "art",
+      "wenn": "if",
+      "schöpfer": "creator",
+      "ihrem": "their",
+      "schaffen": "to create",
+      "behindert": "impeded",
+      "visuelle": "visual",
+      "stil": "style",
+      "des": "of the",
+      "films": "films",
+      "geprägt": "shaped",
+      "eindrucksvoller": "impressive",
+      "kameraführung": "camera work",
+      "stimmungsvoller": "atmospheric",
+      "beleuchtung": "lighting",
+      "emotionale": "emotional",
+      "tiefe": "deep",
+      "intensität": "intensity",
+      "zudem": "furthermore",
+      "kontrastiert": "contrasted",
+      "düstere": "gloomy",
+      "sozialistischen": "socialist",
+      "realität": "reality",
+      "moskaus": "of Moscow",
+      "surrealen": "surreal",
+      "elementen": "elements",
+      "gefolgsleute": "followers",
+      "sich": "oneself",
+      "bringen": "to bring",
+      "nicht": "not",
+      "nur": "only",
+      "fantastisches": "fantastic",
+      "sondern": "but",
+      "tiefgründige": "profound",
+      "erkundung": "exploration",
+      "geist": "spirit",
+      "unterdrückten": "oppressed",
+      "gesellschaft": "society",
+      "filmische": "cinematic",
+      "analyse": "analysis",
+      "petrovićs": "Petrović's",
+      "bemerkenswerte": "remarkable",
+      "adaption": "adaptation",
+      "romans": "novels",
+      "tief": "deep",
+      "existenz": "existence",
+      "eintaucht": "dives",
+      "schwierigkeiten": "difficulties",
+      "schaffens": "creation",
+      "psychologischen": "psychological",
+      "auswirkungen": "effects",
+      "verfolgung": "pursuit",
+      "isolation": "isolation",
+      "im": "in the",
+      "zentrum": "center",
+      "befindet": "is located",
+      "dessen": "whose",
+      "schicksal": "fate",
+      "durch": "through",
+      "unerbittliche": "ruthless",
+      "überwachung": "surveillance",
+      "teuflischen": "devilish",
+      "düsteren": "gloomy",
+      "beeinflusst": "influenced",
+      "narration": "narration",
+      "meisterhaft": "masterful",
+      "gestaltet": "designed",
+      "kombiniert": "combined",
+      "surreale": "surreal",
+      "dramatische": "dramatic",
+      "elemente": "elements",
+      "sowohl": "both",
+      "emotional": "emotional",
+      "berühren": "to touch",
+      "als": "than",
+      "anregen": "to stimulate",
+      "sprache": "language",
+      "sorgfältig": "carefully",
+      "ausgewählten": "selected",
+      "licht": "light",
+      "schatteneffekten": "shadow effects",
+      "trägt": "carries",
+      "bedrohlichen": "threatening",
+      "stimmung": "mood",
+      "bei": "at",
+      "somit": "thus",
+      "philosophischen": "philosophical",
+      "wesen": "being",
+      "gut": "well",
+      "brillante": "brilliant",
+      "schauspielerische": "acting",
+      "leistung": "performance",
+      "bata": "Bata",
+      "živojinović": "Živojinović",
+      "gibt": "gives",
+      "zusätzlich": "additional",
+      "authentizität": "authenticity",
+      "daher": "therefore",
+      "aufgrund": "due to",
+      "faszinierenden": "fascinating",
+      "story": "story",
+      "filmischen": "filmic",
+      "wegen": "because of",
+      "kritischen": "critical",
+      "realhistorischen": "historical",
+      "existentialistischen": "existential",
+      "repressiven": "repressive",
+      "umfeld": "environment",
+      "meisterwerk": "masterpiece",
+      "meisterhaftes": "masterful",
+      "geschaffen": "created",
+      "weit": "far",
+      "bloße": "mere",
+      "hinausgeht": "goes beyond",
+      "eindringliches": "intrusive",
+      "reflexion": "reflection",
+      "erkundet": "explored",
+      "beziehung": "relationship",
+      "zwischen": "between",
+      "individuum": "individual",
+      "autoritären": "authoritarian",
+      "belastungen": "burdens",
+      "seines": "his",
+      "hauptprotagonisten": "main protagonist",
+      "meisters": "masters",
+      "eindrucksvoll": "impressive",
+      "schau": "show",
+      "stellt": "presents",
+      "personifizierter": "personified",
+      "teufel": "devil",
+      "verkörpert": "embodies",
+      "transzendente": "transcendent",
+      "spiegelt": "reflects",
+      "wider": "against",
+      "seelen": "souls",
+      "abrutschen": "to slip",
+      "können": "can",
+      "konfrontiert": "confronted",
+      "nutzt": "uses",
+      "eindrucksvolles": "impressive",
+      "filmisches": "cinematic",
+      "vokabular": "vocabulary",
+      "komplexität": "complexity",
+      "angereichert": "enriched",
+      "sorgfältige": "careful",
+      "lichtführungen": "light guides",
+      "präzise": "precise",
+      "vermag": "can",
+      "innere": "inner",
+      "zerrissenheit": "tornness",
+      "charaktere": "characters",
+      "fühlbar": "tangible",
+      "verbindung": "connection",
+      "traum": "dream",
+      "dabei": "thereby",
+      "meisterhafte": "masterful",
+      "weise": "way",
+      "orchestriert": "orchestrated",
+      "weckt": "awakens",
+      "gefühl": "feeling",
+      "unsicherheit": "uncertainty",
+      "bann": "ban",
+      "zieht": "pulls",
+      "darüber": "about it",
+      "hinaus": "beyond",
+      "ästhetisches": "aesthetic",
+      "erlebnis": "experience",
+      "philosophisches": "philosophical",
+      "etappenwerk": "staged work",
+      "fragilität": "fragility",
+      "künstlerischer": "artistic",
+      "ausdrucksformen": "forms of expression",
+      "regime": "regime",
+      "damit": "so that",
+      "relevante": "relevant",
+      "diskurse": "discourses",
+      "denkens": "thinking",
+      "natur": "nature",
+      "guten": "good",
+      "anstoßen": "to initiate",
+      "kann": "can",
+      "unverzichtbarer": "essential",
+      "klassiker": "classic",
+      "nachhaltigen": "sustainable",
+      "eindruck": "impression",
+      "hinterlässt": "leaves"
+    },
+    "fr": {
+      "le": "the",
+      "maître": "master",
+      "et": "and",
+      "marguerite": "daisy",
+      "film": "film",
+      "appelle": "calls",
+      "il": "he",
+      "est": "is",
+      "de": "of",
+      "aleksandar": "Aleksandar",
+      "petrović": "petrovic",
+      "un": "a",
+      "histoire": "history",
+      "commence": "starts",
+      "moscou": "Moscow",
+      "écrivain": "writer",
+      "une": "a",
+      "assistante": "assistant",
+      "qui": "who",
+      "ils": "they",
+      "écrivent": "write",
+      "sur": "about",
+      "pilate": "Pilate",
+      "mais": "but",
+      "ont": "have",
+      "des": "some",
+      "problèmes": "problems",
+      "diable": "devil",
+      "woland": "Woland",
+      "les": "the",
+      "surveille": "to monitor",
+      "triste": "sad",
+      "inquiet": "worried",
+      "veut": "wants",
+      "aider": "to help",
+      "peur": "fear",
+      "amour": "love",
+      "scènes": "scenes",
+      "sont": "are",
+      "belles": "beautiful",
+      "sombres": "dark",
+      "la": "the",
+      "musique": "music",
+      "très": "very",
+      "intéressante": "interesting",
+      "ce": "this",
+      "parle": "speaks",
+      "art": "art",
+      "folie": "madness",
+      "réalisé": "achieved",
+      "par": "by",
+      "se": "yourself",
+      "déroule": "unfolds",
+      "principalement": "mainly",
+      "avec": "with",
+      "talentueux": "talented",
+      "son": "his",
+      "travaillent": "work",
+      "livre": "book",
+      "pontius": "pontius",
+      "personnage": "character",
+      "biblique": "biblical",
+      "connu": "known",
+      "sérieux": "serious",
+      "cause": "cause",
+      "nommé": "nominated",
+      "sans": "without",
+      "relâche": "break",
+      "devient": "becomes",
+      "finalement": "finally",
+      "enfermé": "locked",
+      "dans": "in",
+      "institution": "institution",
+      "mentale": "mental",
+      "déterminée": "determined",
+      "sauver": "to save",
+      "malgré": "despite",
+      "danger": "danger",
+      "entoure": "surrounds",
+      "elle": "she",
+      "fait": "makes",
+      "choix": "choice",
+      "difficiles": "difficult",
+      "rencontre": "meeting",
+      "obstacles": "obstacles",
+      "traite": "treaty",
+      "lutte": "struggle",
+      "contre": "against",
+      "mal": "bad",
+      "images": "images",
+      "ajoute": "adds",
+      "beaucoup": "a lot",
+      "émotion": "emotion",
+      "souvent": "often",
+      "apprécié": "appreciated",
+      "pour": "for",
+      "sa": "its",
+      "beauté": "beauty",
+      "visuelle": "visual",
+      "profondeur": "depth",
+      "psychologique": "psychological",
+      "même": "even",
+      "remporté": "won",
+      "grand": "big",
+      "prix": "prize",
+      "au": "at the",
+      "festival": "festival",
+      "pula": "pula",
+      "en": "in",
+      "coloré": "colorful",
+      "captivant": "captivating",
+      "tiré": "shot",
+      "roman": "novel",
+      "complexe": "complex",
+      "mikhail": "Mikhail",
+      "bulgakov": "Bulgakov",
+      "été": "been",
+      "écrit": "written",
+      "années": "years",
+      "période": "period",
+      "marquée": "marked",
+      "révolution": "revolution",
+      "changement": "change",
+      "principal": "main",
+      "figure": "figure",
+      "historique": "historic",
+      "importante": "important",
+      "aide": "help",
+      "travail": "work",
+      "aussi": "also",
+      "dévouée": "dedicated",
+      "cependant": "however",
+      "leur": "their",
+      "vie": "life",
+      "prend": "takes",
+      "tournant": "turning point",
+      "dramatique": "dramatic",
+      "lorsque": "when",
+      "incarnation": "incarnation",
+      "du": "of the",
+      "harceler": "to harass",
+      "cette": "this",
+      "mystérieuse": "mysterious",
+      "terrifiante": "terrifying",
+      "crée": "creates",
+      "situations": "situations",
+      "chaotiques": "chaotic",
+      "rend": "makes",
+      "existence": "existence",
+      "difficile": "difficult",
+      "conséquence": "consequence",
+      "paranoïaque": "paranoid",
+      "retrouve": "finds",
+      "complique": "complicates",
+      "encore": "again",
+      "plus": "more",
+      "situation": "situation",
+      "face": "face",
+      "nombreux": "many",
+      "dangers": "dangers",
+      "compris": "understood",
+      "rencontres": "meetings",
+      "personnages": "characters",
+      "sinistres": "disasters",
+      "aborde": "addresses",
+      "thèmes": "themes",
+      "profonds": "deep",
+      "comme": "like",
+      "entre": "between",
+      "bien": "well",
+      "visuellement": "visually",
+      "riche": "rich",
+      "contrastes": "contrasts",
+      "lumière": "light",
+      "sombre": "dark",
+      "captivante": "captivating",
+      "renforce": "strengthens",
+      "atmosphère": "atmosphere",
+      "tension": "tension",
+      "accueilli": "welcomed",
+      "critique": "criticism",
+      "reçu": "received",
+      "importants": "important",
+      "dont": "whose",
+      "grande": "big",
+      "arène": "arena",
+      "or": "gold",
+      "meilleur": "better",
+      "performances": "performances",
+      "acteurs": "actors",
+      "direction": "direction",
+      "artistique": "artistic",
+      "également": "also",
+      "saluées": "hailed",
+      "si": "if",
+      "vous": "you",
+      "aimez": "like",
+      "films": "films",
+      "fantastiques": "fantastic",
+      "chargés": "loaded",
+      "sens": "sense",
+      "chef-d'œuvre": "masterpiece",
+      "mérite": "deserves",
+      "être": "to be",
+      "vu": "seen",
+      "exploration": "exploration",
+      "fascinante": "fascinating",
+      "sorti": "went out",
+      "nikolai": "nikolai",
+      "masoudov": "masoudov",
+      "alors": "then",
+      "œuvre": "work",
+      "croisée": "crossed",
+      "drame": "drama",
+      "fantaisie": "fantasy",
+      "romance": "romance",
+      "pouvoir": "power",
+      "créativité": "creativity",
+      "oppression": "oppression",
+      "évidemment": "obviously",
+      "présence": "presence",
+      "symbolise": "symbolizes",
+      "forces": "forces",
+      "cherchent": "search",
+      "écraser": "to crush",
+      "individu": "individual",
+      "que": "that",
+      "environnement": "environment",
+      "soit": "be",
+      "hostile": "hostile",
+      "incarne": "to embody",
+      "résistance": "resistance",
+      "inébranlable": "unshakable",
+      "prête": "ready",
+      "tout": "all",
+      "utilise": "uses",
+      "jeux": "games",
+      "ombres": "shadows",
+      "accentuer": "to accentuate",
+      "angoisse": "anguish",
+      "absurdité": "absurdity",
+      "bande": "band",
+      "sonore": "sound",
+      "alterne": "alternates",
+      "éléments": "elements",
+      "dramatiques": "dramatic",
+      "moments": "moments",
+      "contribue": "contributes",
+      "monte": "rises",
+      "long": "long",
+      "offre": "offer",
+      "ainsi": "thus",
+      "réflexion": "reflection",
+      "liberté": "freedom",
+      "créatrice": "creator",
+      "limites": "limits",
+      "imposées": "imposed",
+      "société": "society",
+      "faisant": "making",
+      "classique": "classic",
+      "cinéma": "cinema",
+      "redécouvert": "rediscovered",
+      "arena": "arena",
+      "yougoslavie": "yugoslavia",
+      "étranger": "foreigner",
+      "aux": "to the",
+      "oscars": "Oscars",
+      "soulignant": "highlighting",
+      "importance": "importance",
+      "cinématographique": "cinematic",
+      "philosophique": "philosophical",
+      "ancre": "anchor",
+      "trame": "plot",
+      "narrative": "narrative",
+      "où": "where",
+      "talent": "talent",
+      "heurte": "hits",
+      "obscures": "obscure",
+      "incarnées": "embodied",
+      "explore": "explore",
+      "dualité": "duality",
+      "humaine": "human",
+      "génie": "genius",
+      "créatif": "creative",
+      "posant": "posing",
+      "question": "question",
+      "fondamentale": "fundamental",
+      "autorité": "authority",
+      "relation": "relation",
+      "muse": "muse",
+      "révèle": "reveals",
+      "symbole": "symbol",
+      "esprit": "mind",
+      "humain": "human",
+      "blessed": "blessed",
+      "with": "with",
+      "captivating": "captivating",
+      "cinematography": "cinematography",
+      "the": "the",
+      "employs": "employs",
+      "chiaroscuro": "chiaroscuro",
+      "both": "both",
+      "despair": "despair",
+      "and": "and",
+      "hope": "hope",
+      "within": "within",
+      "its": "its",
+      "dystopian": "dystopian",
+      "world": "world",
+      "furthermore": "furthermore",
+      "director": "director",
+      "sensitivity": "sensitivity",
+      "to": "to",
+      "sound": "sound",
+      "design": "design",
+      "enhances": "enhances",
+      "emotional": "emotional",
+      "depth": "depth",
+      "transitioning": "transitioning",
+      "seamlessly": "seamlessly",
+      "between": "between",
+      "lyrical": "lyrical",
+      "beauty": "beauty",
+      "émanant": "emanating",
+      "troublée": "troubled",
+      "résonne": "resonates",
+      "aujourd'hui": "today",
+      "rappelant": "reminding",
+      "chacun": "each",
+      "vérité": "truth",
+      "étant": "being",
+      "sélectionné": "selected",
+      "consolidé": "consolidated",
+      "place": "place",
+      "panthéon": "pantheon",
+      "grandes": "big",
+      "œuvres": "works",
+      "cinématographiques": "cinematographic",
+      "évitant": "avoiding",
+      "pièges": "traps",
+      "simple": "simple",
+      "adaptation": "adaptation",
+      "littéraire": "literary",
+      "alchimie": "alchemy",
+      "visionnaire": "visionary",
+      "érige": "erects",
+      "profonde": "deep",
+      "absurde": "absurd",
+      "condition": "condition",
+      "mettant": "putting",
+      "scène": "scene",
+      "engage": "engages",
+      "spectateur": "spectator",
+      "univers": "universe",
+      "persécution": "persecution",
+      "entremêlent": "intertwine",
+      "inextricablement": "inextricably",
+      "découlant": "resulting",
+      "imaginaire": "imaginary",
+      "collectif": "collective",
+      "transcende": "transcends",
+      "antagonisme": "antagonism",
+      "devenir": "to become",
+      "métaphore": "metaphor",
+      "tyranniques": "tyrannical",
+      "entravent": "hinder",
+      "expression": "expression",
+      "stylistiques": "stylistic",
+      "notamment": "notably",
+      "jeu": "game",
+      "subtil": "subtle",
+      "engendrent": "generate",
+      "onirique": "dreamlike",
+      "révélant": "revealing",
+      "vérités": "truths",
+      "cruelles": "cruel",
+      "relations": "relations",
+      "humaines": "human",
+      "attention": "attention",
+      "minutieuse": "meticulous",
+      "oscillant": "oscillating",
+      "mélancolie": "melancholy",
+      "éclats": "fragments",
+      "désespoir": "despair",
+      "accentue": "accentuates",
+      "davantage": "more",
+      "ne": "not",
+      "contente": "happy",
+      "pas": "not",
+      "interroge": "questions",
+      "notre": "our",
+      "rapport": "report",
+      "révolte": "revolt",
+      "portée": "range",
+      "universelle": "universal",
+      "confirme": "confirm",
+      "statut": "status",
+      "intemporel": "timeless",
+      "illustrant": "illustrating",
+      "brillamment": "brilliantly",
+      "richesse": "wealth",
+      "européen": "European",
+      "interrogeant": "questioning",
+      "état": "state",
+      "humanité": "humanity",
+      "écho": "echo",
+      "tumultes": "tumults",
+      "historiques": "historical",
+      "époque": "era"
+    },
+    "es": {
+      "el": "the",
+      "maestro": "master",
+      "margarita": "daisy",
+      "es": "is",
+      "una": "a",
+      "película": "movie",
+      "famosa": "famous",
+      "de": "of",
+      "italiana": "Italian",
+      "yugoslava": "Yugoslav",
+      "un": "a",
+      "drama": "drama",
+      "fantasía": "fantasy",
+      "romance": "romance",
+      "la": "the",
+      "historia": "story",
+      "sobre": "about",
+      "escritor": "writer",
+      "talentoso": "talented",
+      "su": "his",
+      "nombre": "name",
+      "nikolai": "Nikolai",
+      "masoudov": "Masoudov",
+      "él": "he",
+      "tiene": "has",
+      "asistente": "assistant",
+      "muy": "very",
+      "valiente": "brave",
+      "ellos": "they",
+      "trabajan": "work",
+      "en": "in",
+      "poncio": "Pontius",
+      "pilato": "Pilate",
+      "personaje": "character",
+      "malo": "bad",
+      "está": "is",
+      "presente": "present",
+      "woland": "Woland",
+      "sufren": "suffer",
+      "problemas": "problems",
+      "grandes": "large",
+      "causa": "cause",
+      "miedo": "fear",
+      "confusión": "confusion",
+      "institución": "institution",
+      "mental": "mental",
+      "quiere": "wants",
+      "ayudarlo": "to help him",
+      "lo": "it",
+      "ama": "love",
+      "interesante": "interesting",
+      "hermosa": "beautiful",
+      "clásico": "classic",
+      "del": "of the",
+      "cine": "cinema",
+      "dirigida": "directed",
+      "por": "for",
+      "aleksandar": "Aleksandar",
+      "petrović": "Petrović",
+      "esta": "this",
+      "lugar": "place",
+      "moscú": "Moscow",
+      "los": "the",
+      "años": "years",
+      "ayuda": "helps",
+      "trabajo": "job",
+      "están": "are",
+      "escribiendo": "writing",
+      "histórico": "historic",
+      "conocido": "known",
+      "llamado": "call",
+      "llega": "arrives",
+      "vida": "life",
+      "mucho": "much",
+      "vigila": "watch",
+      "persigue": "to pursue",
+      "incluso": "even",
+      "muerte": "death",
+      "amigo": "friend",
+      "otro": "other",
+      "va": "goes",
+      "peligroso": "dangerous",
+      "que": "that",
+      "prisión": "prison",
+      "siberia": "Siberia",
+      "debido": "due",
+      "esto": "this",
+      "se": "oneself",
+      "siente": "feels",
+      "perdido": "lost",
+      "ella": "she",
+      "salvarlo": "to save it",
+      "porque": "because",
+      "peligro": "danger",
+      "toca": "touches",
+      "temas": "themes",
+      "profundos": "deep",
+      "como": "like",
+      "amor": "love",
+      "lucha": "struggle",
+      "contra": "against",
+      "mal": "bad",
+      "también": "also",
+      "muestra": "shows",
+      "importancia": "importance",
+      "amistad": "friendship",
+      "mezcla": "mix",
+      "comienza": "begins",
+      "con": "with",
+      "trabajando": "working",
+      "relato": "story",
+      "junto": "together",
+      "quien": "who",
+      "preocupa": "worries",
+      "bienestar": "well-being",
+      "apoya": "supports",
+      "proceso": "process",
+      "creativo": "creative",
+      "sin": "without",
+      "embargo": "however",
+      "medida": "measure",
+      "avanza": "advances",
+      "inquietante": "disturbing",
+      "aparece": "appears",
+      "este": "this",
+      "ser": "to be",
+      "sobrenatural": "supernatural",
+      "muchos": "many",
+      "ya": "already",
+      "constantemente": "constantly",
+      "somete": "submits",
+      "serie": "series",
+      "acosos": "harassment",
+      "responsable": "responsible",
+      "envía": "to send",
+      "gulag": "gulag",
+      "afecta": "affects",
+      "profundamente": "deeply",
+      "salud": "health",
+      "llevándolo": "taking it",
+      "parte": "part",
+      "inmenso": "immense",
+      "si": "if",
+      "oportunidad": "opportunity",
+      "intentará": "will try",
+      "escapar": "to escape",
+      "trágica": "tragic",
+      "situación": "situation",
+      "explora": "explores",
+      "complejos": "complexes",
+      "locura": "madness",
+      "cuestionando": "questioning",
+      "moralidad": "morality",
+      "sociedad": "society",
+      "además": "furthermore",
+      "dirección": "direction",
+      "cuidadosa": "careful",
+      "atención": "attention",
+      "iluminación": "lighting",
+      "sonido": "sound",
+      "crea": "creates",
+      "ambiente": "environment",
+      "tenso": "tense",
+      "fascinante": "fascinating",
+      "atrapa": "catches",
+      "al": "to the",
+      "espectador": "viewer",
+      "desde": "since",
+      "principio": "principle",
+      "hasta": "until",
+      "final": "final",
+      "duda": "doubt",
+      "obra": "work",
+      "ha": "has",
+      "tenido": "had",
+      "impacto": "impact",
+      "fuerte": "strong",
+      "viaje": "trip",
+      "entre": "between",
+      "realidad": "reality",
+      "excepcional": "exceptional",
+      "basada": "based",
+      "novela": "novel",
+      "mikhail": "Mikhail",
+      "bulgakov": "Bulgakov",
+      "narrativa": "narrative",
+      "enfrenta": "faces",
+      "mundo": "world",
+      "lleno": "full",
+      "misterios": "mysteries",
+      "desafíos": "challenges",
+      "bien": "well",
+      "través": "through",
+      "elementos": "elements",
+      "fantásticos": "fantastic",
+      "invita": "invites",
+      "espectadores": "viewers",
+      "reflexionar": "to reflect",
+      "naturaleza": "nature",
+      "humana": "human",
+      "libertad": "freedom",
+      "expresión": "expression",
+      "visualmente": "visually",
+      "impresionante": "impressive",
+      "uso": "use",
+      "magistral": "masterful",
+      "luz": "light",
+      "sombra": "shadow",
+      "realza": "to enhance",
+      "sus": "their",
+      "emociones": "emotions",
+      "música": "music",
+      "acompaña": "to accompany",
+      "intensificando": "intensifying",
+      "atmósfera": "atmosphere",
+      "aunque": "although",
+      "sitúa": "situates",
+      "veinte": "twenty",
+      "resuenan": "resonate",
+      "universalmente": "universally",
+      "haciéndola": "making it",
+      "relevante": "relevant",
+      "cualquier": "any",
+      "época": "era",
+      "ganó": "won",
+      "gran": "great",
+      "arena": "sand",
+      "oro": "gold",
+      "mejor": "better",
+      "festival": "festival",
+      "pula": "Pula",
+      "consolidando": "consolidating",
+      "resumen": "summary",
+      "filme": "film",
+      "combinación": "combination",
+      "perfecta": "perfect",
+      "reflexión": "reflection",
+      "profunda": "profound",
+      "caleidoscopio": "kaleidoscope",
+      "realidades": "realities",
+      "erige": "erects",
+      "capital": "capital",
+      "ámbito": "scope",
+      "fantástico": "fantastic",
+      "dramático": "dramatic",
+      "trama": "plot",
+      "contexto": "context",
+      "represión": "repression",
+      "oscuridad": "darkness",
+      "donde": "where",
+      "atormentado": "tormented",
+      "objeto": "object",
+      "vigilancia": "surveillance",
+      "entidades": "entities",
+      "demoníacas": "demonic",
+      "desencadena": "unleashes",
+      "reclusión": "seclusion",
+      "psiquiátrica": "psychiatric",
+      "amante": "lover",
+      "desafía": "challenges",
+      "límite": "limit",
+      "búsqueda": "search",
+      "liberarlo": "to free him",
+      "propone": "proposes",
+      "preguntas": "questions",
+      "sacrificio": "sacrifice",
+      "verdadero": "true",
+      "nivel": "level",
+      "visual": "visual",
+      "despliega": "unfolds",
+      "rica": "rich",
+      "contrastes": "contrasts",
+      "sombras": "shadows",
+      "cada": "each",
+      "escena": "scene",
+      "resuena": "resonates",
+      "banda": "band",
+      "sonora": "sound",
+      "complementa": "complements",
+      "conjunto": "set",
+      "provocando": "causing",
+      "inmersión": "immersion",
+      "emocional": "emotional",
+      "personajes": "characters",
+      "centrada": "centered",
+      "trasciende": "transcends",
+      "abordando": "addressing",
+      "universales": "universal",
+      "contemporáneo": "contemporary",
+      "recibió": "received",
+      "varios": "several",
+      "premios": "awards",
+      "incluyendo": "including",
+      "estatus": "status",
+      "cinematográfica": "cinematic",
+      "mundial": "global",
+      "exploración": "exploration",
+      "dualidad": "duality",
+      "dirigido": "directed",
+      "presenta": "presents",
+      "estudio": "study",
+      "profundo": "profound",
+      "existencia": "existence",
+      "dilemas": "dilemmas",
+      "condición": "condition",
+      "trascendiendo": "transcending",
+      "mero": "mere",
+      "entretenimiento": "entertainment",
+      "inspirada": "inspired",
+      "célebre": "celebrated",
+      "penetra": "penetrates",
+      "oscura": "dark",
+      "política": "politics",
+      "desintegración": "disintegration",
+      "individual": "individual",
+      "son": "are",
+      "telones": "curtains",
+      "fondo": "fund",
+      "extraordinaria": "extraordinary",
+      "figura": "figure",
+      "carcomido": "worm-eaten",
+      "demonios": "demons",
+      "personales": "personal",
+      "margina": "to marginalize",
+      "fragilidad": "fragility",
+      "humano": "human",
+      "frente": "front",
+      "las": "the",
+      "fuerzas": "forces",
+      "simbolizadas": "symbolized",
+      "secuaces": "henchmen",
+      "agente": "agent",
+      "incondicional": "unconditional",
+      "estereotipos": "stereotypes",
+      "género": "gender",
+      "asume": "takes on",
+      "papel": "role",
+      "protagónico": "starring",
+      "verdad": "truth",
+      "redención": "redemption",
+      "así": "thus",
+      "cuidada": "careful",
+      "fotografía": "photograph",
+      "selección": "selection",
+      "musical": "musical",
+      "crean": "create",
+      "paisaje": "landscape",
+      "sonoro": "sound",
+      "envuelve": "wrap",
+      "ensueño": "daydream",
+      "no": "not",
+      "solo": "only",
+      "sino": "but",
+      "consolidó": "consolidated",
+      "referente": "referent",
+      "cinematográfico": "cinematographic",
+      "invaluable": "invaluable",
+      "invitando": "inviting",
+      "análisis": "analysis",
+      "críticos": "critics",
+      "múltiples": "multiple",
+      "niveles": "levels",
+      "profundidad": "depth"
+    }
+  }
+}
