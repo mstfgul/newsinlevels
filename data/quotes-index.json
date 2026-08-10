@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-08-10-mark-twain-clothes-make-the-man-naked-peo",
+    "date": "2026-08-10",
+    "author": "Mark Twain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg/330px-Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "titles": {
+      "en": "Clothes make the man. Naked people have little or no influence on society.",
+      "de": "Kleidung macht den Mann. Nackte Menschen haben wenig oder keinen Einfluss auf die Gesellschaft.",
+      "fr": "Les vêtements font l'homme. Les personnes nues ont peu ou pas d'influence sur la société.",
+      "es": "La ropa hace al hombre. Las personas desnudas tienen poca o ninguna influencia en la sociedad."
+    }
+  },
+  {
     "id": "2026-08-09-anton-chekhov-do-you-remember-you-shot-a-sea",
     "date": "2026-08-09",
     "author": "Anton Chekhov",
