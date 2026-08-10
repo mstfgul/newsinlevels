@@ -1,0 +1,2543 @@
+{
+  "id": "2026-08-10-evidence-that-south-african-special-forces-murdered-top-dete",
+  "date": "2026-08-10",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
+  },
+  "originalTitle": "Evidence that South African special forces murdered top detective shared with BBC",
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
+  "category": "politics",
+  "languages": {
+    "en": {
+      "A1": {
+        "title": "Detective Found Dead",
+        "text": "Frans Mathipa is a detective. He works for the police. He tries to find important information. He is afraid for his life. Two days later, police find his car. The car is upside down. Mathipa is dead. Seven special forces members are charged. They say they did not kill him. Mathipa is a respected officer. There is no trial date yet. Some of the accused people do not follow court rules. They work for the army. The army does not answer questions. Many documents show the special forces may be guilty. Mathipa worked with an elite team. The team is called 'The Hawks'.",
+        "vocabulary": [
+          {
+            "word": "detective",
+            "definition": "a police officer who investigates crime"
+          },
+          {
+            "word": "afraid",
+            "definition": "feeling fear or worry"
+          },
+          {
+            "word": "respect",
+            "definition": "to admire someone"
+          },
+          {
+            "word": "charged",
+            "definition": "to accuse someone of a crime"
+          },
+          {
+            "word": "guilty",
+            "definition": "responsible for a crime"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Who is Frans Mathipa?",
+            "options": [
+              "A doctor",
+              "A detective",
+              "A soldier"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is found after Mathipa's car?",
+            "options": [
+              "He is alive",
+              "He is dead",
+              "He is missing"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What team does Mathipa work with?",
+            "options": [
+              "The Hawks",
+              "The Eagles",
+              "The Lions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Investigation of a Murdered Detective",
+        "text": "Frans Mathipa was a police detective. He worked hard to find key information. He did this for four months. He was very worried about his safety. Two days after he got good news, Mathipa's car was found. The car was upside down and he was dead. Seven members of South Africa’s special forces and one police officer are charged with his murder. They say that they are innocent. The court has not set a trial date yet. Some of the accused do not follow the court's bail rules. This causes worry because some men still work for the army. The BBC has important documents about the case. These papers show that the special forces may have killed Mathipa. He was part of 'The Hawks,' a special police unit.",
+        "vocabulary": [
+          {
+            "word": "murder",
+            "definition": "the crime of killing someone"
+          },
+          {
+            "word": "charged",
+            "definition": "to accuse someone of a crime"
+          },
+          {
+            "word": "detective",
+            "definition": "a police officer who investigates crime"
+          },
+          {
+            "word": "innocent",
+            "definition": "not guilty of a crime"
+          },
+          {
+            "word": "documents",
+            "definition": "written papers that give information"
+          }
+        ],
+        "questions": [
+          {
+            "question": "How long did Mathipa look for information?",
+            "options": [
+              "Two days",
+              "Four months",
+              "One year"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What was found with Mathipa's car?",
+            "options": [
+              "A letter",
+              "He was dead",
+              "Some documents"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What is 'The Hawks'?",
+            "options": [
+              "A school",
+              "A detective team",
+              "A military group"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "Investigation into the Death of a Detective",
+        "text": "Frans Mathipa was a dedicated police detective in South Africa. He spent four months gathering important information for his case. He seemed very concerned about his safety because he believed that his work might put his life at risk. Tragically, two days later, police found his overturned car, and he had been shot dead while driving. Following his death, seven members of South Africa's special forces, along with one military police officer, have been charged with his murder, although they deny these allegations. There is currently no set date for their trial, and concerns rise as three of the accused refuse to obey a court order regarding their bail. This situation is troubling because they are still engaged in military duties, with one even getting promoted. The BBC has received several documents related to the case that could indicate the special forces may be responsible for Mathipa's murder. He worked for an elite police unit called 'The Hawks.'",
+        "vocabulary": [
+          {
+            "word": "dedicated",
+            "definition": "very committed to something"
+          },
+          {
+            "word": "gathering",
+            "definition": "collecting things together"
+          },
+          {
+            "word": "tragically",
+            "definition": "sadly; in a way that brings great sadness"
+          },
+          {
+            "word": "allegations",
+            "definition": "statements that someone has done something wrong"
+          },
+          {
+            "word": "responsible",
+            "definition": "having control over something or someone"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Mathipa concern for?",
+            "options": [
+              "His health",
+              "His safety",
+              "His career"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How many special forces members were charged?",
+            "options": [
+              "Five",
+              "Seven",
+              "Ten"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What elite police unit did Mathipa work for?",
+            "options": [
+              "The Hawks",
+              "The Eagles",
+              "The Lions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B2": {
+        "title": "South African Special Forces Charged with Murdering Detective",
+        "text": "Frans Mathipa, a senior police detective, had been struggling for four months to acquire crucial evidence in an essential case. Finally, he was informed that the information would soon be available. However, during this pursuit, he feared for his life. Just two days later, Mathipa was found dead, shot while driving, and his car was discovered overturned. Subsequently, seven members of South Africa's special forces, along with one military police officer, have been charged with his murder, which occurred in August 2023. All accused individuals deny the charges. Currently, no trial date has been set, raising concerns that it might never take place, especially since three of the defendants have disregarded a court order that revoked their bail. Disturbingly, these individuals remain in active duty, with one even receiving a promotion. The BBC World Service has obtained exclusive access to the prosecution's evidence against the defendants, shedding light on the troubling implications in one of Africa's more stable democracies. Questions have arisen regarding an overreach of the military's authority in this matter, particularly since official responses have been sparse. Critical investigations and documents hint at the special forces' involvement in Mathipa's tragic death, leading to fears of governmental corruption. Furthermore, the case involves allegations about an alleged Islamic State militant linked to Mathipa's inquiries. Fight against such threats continues to intensify as details emerge.",
+        "vocabulary": [
+          {
+            "word": "detective",
+            "definition": "a police officer who investigates crimes"
+          },
+          {
+            "word": "evidence",
+            "definition": "information used to support a claim"
+          },
+          {
+            "word": "emphasize",
+            "definition": "to highlight or make something clear"
+          },
+          {
+            "word": "charges",
+            "definition": "formal accusations made against someone"
+          },
+          {
+            "word": "allegations",
+            "definition": "claims or accusations that have not been proven"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What was Frans Mathipa investigating?",
+            "options": [
+              "A case involving special forces",
+              "A robbery",
+              "A traffic accident"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who were charged with Mathipa's murder?",
+            "options": [
+              "Some police officers",
+              "Members of the special forces",
+              "Civilians"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Is there a trial date set for the accused?",
+            "options": [
+              "Yes, it is next month",
+              "No, there is no date set",
+              "It was held last week"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Murder Charges Against South African Special Forces: A Deepening Crisis",
+        "text": "In a shocking turn of events, Senior Detective Frans Mathipa had tirelessly sought for four months to obtain crucial information pertinent to a sensitive investigation. Initially informed that this vital evidence would be forthcoming, he soon expressed grave concerns about his safety, foreshadowing the tragedy that was to unfold. Merely two days later, Mathipa was tragically shot and killed while driving, with his vehicle subsequently discovered overturned. Following this, seven members of South Africa's special forces and one military police officer found themselves facing murder charges concerning Mathipa's untimely death, which occurred in August 2023; they continue to deny the allegations against them. The prosecution's case, now obtained by the BBC World Service, reveals disquieting implications regarding the military's expansive and possibly unlawful authority in this phase of investigation. Alarmingly, no trial date has been scheduled, with concerns that the proceedings may never occur, particularly as three charged individuals have failed to adhere to a court order rescinding their bail. Of particular significance, police documents indicate that special forces’ involvement in Mathipa's murder may be substantiated by tracking data linked to the vehicle last seen near him. Additionally, Mathipa was investigating connections to a possible Islamic State militant, which adds complexity to an already turbulent situation fraught with danger and potential misconduct. The national discourse around military overreach continues to intensify.",
+        "vocabulary": [
+          {
+            "word": "foreboding",
+            "definition": "a feeling that something bad will happen"
+          },
+          {
+            "word": "implications",
+            "definition": "the possible effects or consequences of something"
+          },
+          {
+            "word": "substantiate",
+            "definition": "to prove or support with evidence"
+          },
+          {
+            "word": "proceedings",
+            "definition": "the process of conducting legal actions"
+          },
+          {
+            "word": "discourse",
+            "definition": "written or spoken communication"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What concerns did Mathipa have regarding his investigation?",
+            "options": [
+              "He was worried about not finding evidence",
+              "He feared for his safety",
+              "He wanted to change his case"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What does the prosecution's case reveal?",
+            "options": [
+              "Evidence of special forces' involvement",
+              "Evidence of a robbery",
+              "Evidence of corruption in the police"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What complex connection was Mathipa investigating?",
+            "options": [
+              "An alleged burglary",
+              "Links to an Islamic State militant",
+              "A political scandal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "South African Special Forces: Accusations of Murder and Legal Evasions Surface",
+        "text": "The tragic saga surrounding Senior Detective Frans Mathipa has taken a profound and unsettling turn, embodying the complexities of power, legality, and moral obligation in contemporary South African society. For four arduous months, Mathipa endeavored to unearth critical evidence relevant to a sensitive investigation concerning allegations against South Africa's special forces. Finally informed that essential information regarding his case was forthcoming, he nonetheless apprehended the latent peril inherent in his pursuit. Mere days later, he was brutally shot while driving, his overturned vehicle soon becoming a grim testament to the price of truth in a dangerous realm. In the wake of his death, seven members of the special forces, alongside a military police officer, have been charged with murder — a charge they categorically deny. Yet, the absence of a trial date has triggered trepidation among observers, as worries about a cover-up intensify. The prosecution's findings, which the BBC World Service has accessed, outline deeply troubling implications regarding military overreach, highlighting that three of those indicted remain operational and have audaciously disregarded a court order dismantling their bail. The scandal proceeds to unfold with allegations linking Mathipa's case to a militant associated with the Islamic State, revealing a chilling interconnectedness of state actors and extremist threats. As the nation grapples with these harrowing revelations, questions intensify regarding the moral compass of those in positions of authority, and the integrity of the democracy itself hangs precariously in the balance.",
+        "vocabulary": [
+          {
+            "word": "unearth",
+            "definition": "to discover something hidden or unknown"
+          },
+          {
+            "word": "arduous",
+            "definition": "difficult and requiring much effort"
+          },
+          {
+            "word": "grim",
+            "definition": "stark, severe, or uninviting"
+          },
+          {
+            "word": "trepidation",
+            "definition": "a feeling of fear or anxiety about something that may happen"
+          },
+          {
+            "word": "interconnectedness",
+            "definition": "the state of being interconnected; linked to one another"
+          }
+        ],
+        "questions": [
+          {
+            "question": "What did Mathipa fear while pursuing information?",
+            "options": [
+              "He feared it could harm others",
+              "He feared for his own safety",
+              "He feared he would not understand it"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What has raised concerns about a cover-up?",
+            "options": [
+              "The absence of a trial date",
+              "The presence of too many lawyers",
+              "The involvement of foreign governments"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What does the case reveal about the power dynamics in the country?",
+            "options": [
+              "There is no power at all",
+              "There are dangerous connections between state actors and extremists",
+              "Power is held by the citizens"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "de": {
+      "A1": {
+        "title": "Südafrikanische Soldaten töten Detektiv",
+        "text": "Ein Detektiv heißt Frans Mathipa. Er hat ein wichtiges Dokument. Er braucht es für einen Fall. Mathipa hat Angst. Zwei Tage später findet man sein Auto umgekippt. Mathipa ist tot. Er wurde erschossen. Sieben Soldaten und ein Polizist sind angeklagt. Sie sollen Mathipa getötet haben. Der Fall ist 2023. Die Soldaten sagen, sie sind unschuldig. Es gibt keinen Gerichtstermin. Einige Soldaten arbeiten noch beim Militär. Mathipa ist ein guter Polizist. Er hilft der Polizei. Die Soldaten arbeiten für spezielle Einheiten.",
+        "vocabulary": [
+          {
+            "word": "Detektiv",
+            "definition": "Ein Polizist, der Verbrecher sucht."
+          },
+          {
+            "word": "Auto",
+            "definition": "Ein Fahrzeug mit vier Rädern."
+          },
+          {
+            "word": "erschossen",
+            "definition": "Mit einer Waffe getötet werden."
+          },
+          {
+            "word": "Fall",
+            "definition": "Eine Untersuchung von etwas Schlechtem."
+          },
+          {
+            "word": "Soldaten",
+            "definition": "Menschen, die im Militär arbeiten."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wie heißt der Detektiv?",
+            "options": [
+              "Frans Mathipa",
+              "Johannes Müller",
+              "Peter Schneider"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was braucht Mathipa für seinen Fall?",
+            "options": [
+              "Ein wichtiges Dokument",
+              "Ein neues Auto",
+              "Ein Buch"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wie viele Soldaten sind angeklagt?",
+            "options": [
+              "Fünf",
+              "Sieben",
+              "Acht"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "Südafrikanische Militärsoldaten angeklagt",
+        "text": "Frans Mathipa ist ein Detektiv in Südafrika. Er kämpft seit vier Monaten für wichtige Informationen. Diese Informationen helfen ihm bei einem schwierigen Fall. Mathipa hat Angst, weil er bedroht wird. Zwei Tage später findet die Polizei sein Auto. Das Auto ist umgekippt. Mathipa wurde erschossen. Jetzt sind sieben Mitglieder der südafrikanischen Spezialkräfte und ein Militärpolizist angeklagt. Sie sollen Mathipa im August 2023 ermordet haben. Die Angeklagten sagen, sie sind unschuldig. Es gibt noch keinen Gerichtstermin. Drei der Männer arbeiten noch beim Militär und haben keine Angst. Die BBC hat exklusive Informationen über den Fall. Mathipa hat an einem sensiblen Fall gearbeitet. Er will herausfinden, was mit einem Mann namens Abdella passiert ist. Dieser Mann hat in der Vergangenheit Probleme mit dem Gesetz gehabt.",
+        "vocabulary": [
+          {
+            "word": "ermordet",
+            "definition": "Getötet aus bösen Gründen."
+          },
+          {
+            "word": "angeklagt",
+            "definition": "Vor Gericht für ein Verbrechen beschuldigt."
+          },
+          {
+            "word": "schwierig",
+            "definition": "Nicht leicht zu lösen oder verstehen."
+          },
+          {
+            "word": "geheim",
+            "definition": "Nicht für alle sichtbar oder bekannt."
+          },
+          {
+            "word": "sensibel",
+            "definition": "Wichtig und besonders sorgfältig zu behandeln."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer ist Frans Mathipa?",
+            "options": [
+              "Ein Detektiv",
+              "Ein Soldat",
+              "Ein Lehrer"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Wann wurde Mathipa erschossen?",
+            "options": [
+              "Im Juli 2023",
+              "Im August 2023",
+              "Im September 2023"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat Mathipa vor seinem Tod gesucht?",
+            "options": [
+              "Wichtige Informationen",
+              "Ein neues Auto",
+              "Ein Buch"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "Mordfall gegen Detektiv in Südafrika",
+        "text": "Frans Mathipa, ein respektierter Polizeidetektiv in Südafrika, hatte monatelang Informationen für einen wichtigen Fall gesucht. Er war besorgt, dass seine Nachforschungen gefährlich sein könnten, weil er bereits Hinweise auf Bedrohungen erhalten hatte. Zwei Tage später wurde er tot in seinem umgekippten Auto gefunden. Mathipa war erschossen worden, und die Umstände seines Todes waren mysteriös. Im August 2023 wurden sieben Soldaten der südafrikanischen Eliteeinheit und ein Militärpolizist wegen Mordes an ihm angeklagt. Die Angeklagten, die behaupten, sie seien unschuldig, haben weiterhin Einfluss im Militär. Es gibt noch keinen Gerichtstermin, und es gibt Bedenken, dass der Prozess nie stattfinden wird, weil drei der Angeklagten gegen einen Gerichtsbeschluss verstoßen haben. Sie arbeiten immer noch für die spezielle Einheit der Armee, und einer von ihnen wurde sogar befördert. Die BBC hat Zugang zu Beweismitteln erhalten, die zeigen, dass die Spezialkräfte Mathipa getötet haben. Mathipa hatte an einem sensiblen Fall gearbeitet, der einen Mann namens Abdella Abadigga betraf. Abadigga wurde von den USA als IS-Rekrutierer bezeichnet und war in der Vergangenheit ein Problem für die Polizei gewesen. Mathipa wollte unbedingt mehr Informationen über diesen Fall sammeln. Er wusste, dass Abadigga mit verdächtigen Aktivitäten in Verbindung stand und wollte die Wahrheit ans Licht bringen. Nach Mathipas Tod müssen sowohl die Polizei als auch die Justiz zeigen, dass sie unabhängig sind, um das Vertrauen der Bevölkerung zu bewahren. Der Fall hat nicht nur Auswirkungen auf die Familie von Mathipa, sondern auch auf das gesamte Land, das nun Fragen zur Rolle des Militärs und der Polizei aufwirft. Wenn die Vorwürfe wahr sind, könnte das weitreichende Konsequenzen für die südafrikanische Regierung und ihre Institutionen haben.",
+        "vocabulary": [
+          {
+            "word": "Mord",
+            "definition": "Tötung von jemandem, die gegen das Gesetz ist."
+          },
+          {
+            "word": "Nachforschungen",
+            "definition": "Untersuchungen oder Recherchen, um Informationen zu sammeln."
+          },
+          {
+            "word": "Einheit",
+            "definition": "Eine Gruppe von Personen, die zusammenarbeiten, insbesondere in Militär oder Polizei."
+          },
+          {
+            "word": "verdächtig",
+            "definition": "Jemand oder etwas, das möglicherweise schlecht oder kriminell ist und daher misstrauisch macht."
+          },
+          {
+            "word": "gewaltsam",
+            "definition": "Mit viel Kraft oder Gewalt, oft in Bezug auf Verbrechen."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Wer war Frans Mathipa?",
+            "options": [
+              "Ein politischer Führer",
+              "Ein Polizeidetektiv",
+              "Ein Soldat"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Welche Einheit ist beschuldigt, Mathipa getötet zu haben?",
+            "options": [
+              "Die Nationalpolizei",
+              "Die Eliteeinheit der Armee",
+              "Die Feuerwehr"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Was hat die BBC zur Ermittlung beigetragen?",
+            "options": [
+              "Sie haben einen Gerichtstermin gegeben.",
+              "Sie haben Beweismittel veröffentlicht.",
+              "Sie haben einen offiziellen Bericht geschrieben."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Beweise, dass südafrikanische Spezialkräfte Top-Ermittler ermordeten, mit der BBC geteilt",
+        "text": "Der leitende Polizeidetektiv Frans Mathipa hatte vier Monate lang versucht, Zugang zu einer entscheidenden Information in seinem Fall zu erhalten. Nach langem Warten wurde ihm schließlich mitgeteilt, dass diese Information kurz bevorstand. Dennoch befürchtete er, dass sein Streben nach dieser Information ihm das Leben kosten könnte. Zwei Tage später wurde sein umgestürztes Auto gefunden – er war während der Fahrt erschossen worden. Mittlerweile sind sieben Mitglieder der südafrikanischen Spezialkräfte und ein Soldat der Militärpolizei wegen des Mordes an Lt Col Mathipa, einem hochgeschätzten Beamten, der im August 2023 getötet wurde, angeklagt worden. Sie bestreiten die Vorwürfe. Ein Termin für den Prozess steht noch aus, und es gibt Bedenken, dass er möglicherweise gar nicht stattfinden wird, da drei der angeklagten Männer sich weigern, eine gerichtliche Anordnung zur Aufhebung ihrer Kaution zu befolgen. Diese Männer sind nach wie vor im Dienst der Spezialkräfte, und einer von ihnen wurde sogar befördert. Der BBC World Service hat exklusiven Zugang zum Fall der Staatsanwaltschaft gegen alle Männer erhalten. Die Sache hat in einer der stärksten Demokratien Afrikas Empörung ausgelöst, da befürchtet wird, dass das Militär des Landes seine Befugnisse erheblich überschreitet.",
+        "vocabulary": [
+          {
+            "word": "ermordeten",
+            "definition": "umbringen, töten"
+          },
+          {
+            "word": "beschuldigt",
+            "definition": "jemanden für etwas schuldig machen"
+          },
+          {
+            "word": "Spezialkräfte",
+            "definition": "eine militärische Einheit für besondere Einsätze"
+          },
+          {
+            "word": "Vorwürfe",
+            "definition": "Anschuldigungen, etwas Schlechtes getan zu haben"
+          },
+          {
+            "word": "angezeigt",
+            "definition": "offiziell melden oder ansprechen"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was hatte Frans Mathipa vier Monate lang gesucht?",
+            "options": [
+              "Einen neuen Job",
+              "Eine wichtige Information",
+              "Ein neues Auto"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Personen sind wegen des Mordes an Mathipa angeklagt?",
+            "options": [
+              "Fünf",
+              "Sieben",
+              "Drei"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Warum gibt es Bedenken hinsichtlich des Prozesses?",
+            "options": [
+              "Die Angeklagten haben ihre Kaution behalten",
+              "Der Prozess hat bereits begonnen",
+              "Es gibt keine Beweise"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C1": {
+        "title": "Beweise für den Mord an einem Top-Ermittler in Südafrika durch Spezialkräfte",
+        "text": "Der senior Polizeidetektiv Frans Mathipa hatte über einen Zeitraum von vier Monaten darauf hingearbeitet, Zugang zu zentralen Informationen zu erhalten, die für seinen laufenden Fall von entscheidender Bedeutung waren. Nach intensiven Bemühungen wurde ihm schließlich versichert, dass diese Informationen bald verfügbar sein würden. Dennoch hegten er und seine Kollegen Besorgnis darüber, dass seine Nachforschungen möglicherweise fatale Folgen haben könnten. Tragischerweise wurde zwei Tage später sein Fahrzeug in einem verwüsteten Zustand aufgefunden – Mathipa war während der Fahrt schwer verletzt und schließlich verstorben. Infolgedessen wurden sieben Mitglieder der südafrikanischen speziellen Einsatzkräfte sowie ein Angehöriger der Militärpolizei des Mordes an Lt Col Mathipa, einem angesehenen Polizisten, der im August 2023 getötet wurde, angeklagt. Alle Beschuldigten verleugnen die Vorwürfe. Obgleich ein Prozesstermin noch nicht festgelegt wurde, bestehen erhebliche Bedenken, dass diese rechtlichen Schritte möglicherweise nie durchgeführt werden könnten, besonders angesichts der Weigerung von drei der Angeklagten, den gerichtlichen Anordnungen zur Aufhebung ihrer Kaution nachzukommen. Diese Männer sind nach wie vor in der Armee tätig, und einer von ihnen erhielt kürzlich eine Beförderung. Der BBC World Service hat exklusiven Zugang zu den Ermittlungsakten erhalten, die die Argumentation der Anklage gegen die angeklagten Personen darstellen und erhebliche Besorgnis über die Befugnisse des militärischen Apparats in einer der stabilsten Demokratien Afrikas hervorrufen.",
+        "vocabulary": [
+          {
+            "word": "zentralen",
+            "definition": "wichtigsten oder entscheidenden"
+          },
+          {
+            "word": "Besorgnis",
+            "definition": "Sorge oder Angst über etwas"
+          },
+          {
+            "word": "verletzten",
+            "definition": "beschädigen oder schädigen"
+          },
+          {
+            "word": "erhalten",
+            "definition": "bekommen oder zugestellt bekommen"
+          },
+          {
+            "word": "stabilsten",
+            "definition": "fest oder sicher in einer Situation"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Was befürchtete Mathipa während seiner Ermittlungen?",
+            "options": [
+              "Sein Leben könnte in Gefahr sein",
+              "Er wird befördert werden",
+              "Er wird die Informationen nicht finden"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was passierte zwei Tage nach der Information für Mathipa?",
+            "options": [
+              "Er erhielt einen Beförderung",
+              "Sein Auto wurde gefunden",
+              "Er fand die Informationen"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie viele Männer sind angeklagt worden?",
+            "options": [
+              "Fünf",
+              "Sechs",
+              "Sieben"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      "C2": {
+        "title": "Südafrikas militärisches Übergreifen: Mord an einem Ermittler, Beweise und Konsequen",
+        "text": "Die tragische Geschichte des mittlerweile verstorbenen Polizeidetektivs Frans Mathipa ist nicht nur eine Erzählung über Individualschicksale, sondern spiegelt die tiefere Thematik des militärischen Übergriffs innerhalb des südafrikanischen Rechtssystems wider. Über einen Zeitraum von vier Monaten mühte sich Mathipa, essentielle Informationen zu sichern, die sich als ausschlaggebend für seinen laufenden Fall erweisen sollten. Nach intensiver Recherche wurde ihm schließlich signalisiert, dass ihm diese Informationen bald zugänglich gemacht würden; dennoch hegte er den begründeten Verdacht, dass sich seine Bestrebungen als potenziell lebensbedrohlich erweisen könnten. Zwei Tage nach dieser Mitteilung wurde sein umgestürztes Auto aufgefunden, was den brutalen Mord an einem hoch angesehenen Beamten offenbarte. Der Mord an Lt Col Mathipa fand im August 2023 statt, und gegen sieben Mitglieder der Spezialkräfte sowie einen Soldaten der Militärpolizei wurden Anklagen erhoben, die von den Beschuldigten vehement bestritten werden. Obwohl es keinerlei festgelegten Prozesstermine gibt, genehmigte die Weigerung von drei der Angeklagten, gerichtlichen Anordnungen zur Kautionsaufhebung Folge zu leisten, grundsätzliche Bedenken hinsichtlich der Möglichkeit eines fairen Verfahrens. Ein bemerkenswertes Element des Falls ist die Tatsache, dass trotz allgemeiner Besorgnis über die Aktivitäten der Militärs, die Anklageunterlagen eine faszinierende Erzählung der verstrickten politischen und gesellschaftlichen Dynamiken im südafrikanischen Kontext liefert. Die Publikation dieser sensiblen Informationen hat nicht nur interne Reaktionen ausgelöst, sondern wirft auch fundamentale Fragen über die Verantwortlichkeit des Militärs in einer stabilen Demokratie auf, und die Gesellschaft ist besorgt über die grundlegende Integrität ihrer institutionellen Strukturen.",
+        "vocabulary": [
+          {
+            "word": "Individualschicksale",
+            "definition": "Schicksale einzelner Personen"
+          },
+          {
+            "word": "militärischen Übergriffs",
+            "definition": "Übertreten von militärischen Befugnissen"
+          },
+          {
+            "word": "ausschlaggebend",
+            "definition": "entscheidend wichtig"
+          },
+          {
+            "word": "brutalen",
+            "definition": "sehr gewalttätig oder grausam"
+          },
+          {
+            "word": "verstrickten",
+            "definition": "komplex und involviert in eine Situation"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Welches Thema wird in Mathipas Fall hervorgehoben?",
+            "options": [
+              "Militärischer Übergriff auf das Rechtssystem",
+              "Die Zukunft der Ermittler",
+              "Die Popularität der Polizei"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Was war das Schicksal von Lt Col Mathipa?",
+            "options": [
+              "Er hat einen neuen Job",
+              "Er wurde getötet",
+              "Er hat die Informationen erhalten"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Wie reagierte die Gesellschaft auf die Veröffentlichung sensibler Informationen?",
+            "options": [
+              "Die Gesellschaft ist uneins",
+              "Die Gesellschaft ist besorgt über das Militär",
+              "Die Gesellschaft ignoriert die Informationen"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "fr": {
+      "A1": {
+        "title": "Un détective meurt en Afrique du Sud",
+        "text": "Frans Mathipa est un détective de police. Il cherche des informations. Il a peur pour sa vie. Deux jours après, sa voiture est trouvée. Elle est renversée et il est mort. Des soldats spéciaux d'Afrique du Sud sont accusés. Ils sont sept et un est un policier militaire. Ils disent qu'ils ne sont pas coupables. Le procès n'a pas de date. Trois hommes refusent de respecter la loi. Ils travaillent toujours. Un homme a eu une promotion. La BBC a des documents sur cette affaire. Les documents montrent que des soldats sont responsables. Mathipa travaille pour une unité de police. Cela s'appelle \"Les Hawks\".",
+        "vocabulary": [
+          {
+            "word": "détective",
+            "definition": "une personne qui résout des crimes"
+          },
+          {
+            "word": "voiture",
+            "definition": "un véhicule qui roule sur la route"
+          },
+          {
+            "word": "soldats",
+            "definition": "des personnes qui se battent pour un pays"
+          },
+          {
+            "word": "accusés",
+            "definition": "des personnes que l'on accuse de quelque chose"
+          },
+          {
+            "word": "procès",
+            "definition": "une réunion au tribunal pour juger une personne"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui est Frans Mathipa ?",
+            "options": [
+              "Un pompier",
+              "Un détective",
+              "Un soldat"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que trouve-t-on après la mort de Mathipa ?",
+            "options": [
+              "Sa voiture",
+              "Sa maison",
+              "Son bureau"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Qui est accusé de son meurtre ?",
+            "options": [
+              "Des civils",
+              "Des soldats spéciaux",
+              "Des policiers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "A2": {
+        "title": "L'enquête sur la mort d'un détective sud-africain",
+        "text": "Frans Mathipa est un détective en Afrique du Sud. Il cherche des informations pour résoudre un cas important. Il a peur pour sa vie car il reçoit des menaces. Deux jours plus tard, sa voiture est trouvée sur le côté de la route. Il est mort car il a été abattu. Sept membres de forces spéciales et un policier sont accusés de son meurtre. Ils n'ont pas de date de procès. Trois hommes ne respectent pas la loi et continuent à travailler. La BBC a des documents qui montrent des preuves. Ces documents disent que les soldats spéciaux sont responsables de la mort de Mathipa. Il travaillait pour une unité d'élite appelée \"Les Hawks\". Ces informations sont très sérieuses et choquent beaucoup de gens.",
+        "vocabulary": [
+          {
+            "word": "enquête",
+            "definition": "une recherche d'informations sur un crime"
+          },
+          {
+            "word": "menaces",
+            "definition": "des paroles qui font peur à quelqu'un"
+          },
+          {
+            "word": "abattu",
+            "definition": "tué par une arme à feu"
+          },
+          {
+            "word": "preuve",
+            "definition": "quelque chose qui montre que c'est vrai"
+          },
+          {
+            "word": "sérieuses",
+            "definition": "importantes et nécessitent de l'attention"
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi Mathipa cherche des informations ?",
+            "options": [
+              "Pour son plaisir",
+              "Pour résoudre un cas",
+              "Pour s'amuser"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Comment est mort Mathipa ?",
+            "options": [
+              "Il a eu un accident",
+              "Il a été abattu",
+              "Il est tombé malade"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Qui est accusé dans cette affaire ?",
+            "options": [
+              "Des policiers",
+              "Des membres des forces spéciales",
+              "Des civils"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B1": {
+        "title": "La mort tragique du détective sud-africain Frans Mathipa",
+        "text": "Frans Mathipa était un détective de police respecté en Afrique du Sud, reconnu pour son intégrité et son engagement. Au cours des quatre derniers mois, il enquêtait sur un cas très dangereux qui impliquait des forces spéciales et des actes de terrorisme. Il a reçu des informations cruciales sur un suspect, ce qui lui a donné de l'espoir. Cependant, il craignait aussi pour sa vie, car il savait qu'il s'attaquait à des éléments puissants. Malheureusement, deux jours après avoir obtenu ces conseils, il a été tué. Sa voiture, retrouvée sur le côté de la route, était renversée, et les enquêtes ont confirmé qu'il avait été abattu. Sept membres des forces spéciales, ainsi qu'un policier militaire, ont été accusés de son meurtre, mais ils nient les faits. Trois des suspects n'ont pas respecté une décision de justice et continuent de travailler pour l'armée, ce qui soulève des questions inquiétantes. La BBC a reçu des documents révélant des preuves contre eux, dont plusieurs centaines de pages de documents secrets. Cela a suscité un grand débat sur les abus de pouvoir militaires en Afrique du Sud. Mathipa, qui travaillait pour l'unité spéciale des Hawks, avait donc pris des risques importants dans son enquête sur le terrorisme. Son meurtre a choqué le pays et a rappelé que la lutte contre le terrorisme n’est pas seulement une question de sécurité, mais aussi de justice et de respect des droits de l'homme.",
+        "vocabulary": [
+          {
+            "word": "intégrité",
+            "definition": "Qualité de quelqu'un qui est honnête et moralement droit."
+          },
+          {
+            "word": "engagement",
+            "definition": "Obligation ou promesse de participer à une tâche ou un projet."
+          },
+          {
+            "word": "crucial",
+            "definition": "Très important, décisif pour le résultat de quelque chose."
+          },
+          {
+            "word": "éléments puissants",
+            "definition": "Personnes ou groupes qui ont beaucoup de pouvoir ou d'influence."
+          },
+          {
+            "word": "abattre",
+            "definition": "Tuer un animal ou une personne avec une arme."
+          },
+          {
+            "word": "abus de pouvoir",
+            "definition": "Utilisation excessive ou injuste du pouvoir, souvent à des fins personnelles."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel était le rôle de Frans Mathipa dans l'enquête?",
+            "options": [
+              "Il était un suspect principal.",
+              "Il était un détective de police.",
+              "Il était un membre des forces spéciales."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Que savaient les forces spéciales selon l'enquête?",
+            "options": [
+              "Ils n'avaient aucune connexion avec Mathipa.",
+              "Ils avaient reçu des avertissements à son sujet.",
+              "Ils avaient été impliqués dans des actes criminels."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Pourquoi le meurtre de Mathipa a-t-il provoqué un débat?",
+            "options": [
+              "À cause de son mystère non résolu.",
+              "En raison des abus de pouvoir militaires.",
+              "Pour le manque d'implication de la police."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Les forces spéciales sud-africaines accusées du meurtre d'un détective",
+        "text": "Le détective senior Frans Mathipa a lutté pendant quatre mois pour accéder à des informations cruciales dans une enquête délicate. Récemment, on lui a annoncé que les informations allaient enfin lui être transmises ; cependant, il craignait que cette quête ne lui coûte la vie. Deux jours après, son véhicule a été retrouvé retourné et il avait été abattu dans son auto. Actuellement, sept membres des forces spéciales de l'Afrique du Sud, ainsi qu'un inspecteur de la police militaire, sont inculpés du meurtre de Mathipa, un officier respecté, survenu en août 2023. Ils nient les accusations portées contre eux. À ce jour, aucune date n’a été fixée pour leur procès. Des inquiétudes persistent concernant la possibilité que l’affaire ne soit jamais jugée, car trois des accusés ont refusé de se conformer à une ordonnance du tribunal annulant leur liberté sous caution. D'ailleurs, ils continuent à travailler pour les forces spéciales et l’un d’eux a même été promu. Le service mondial de la BBC a eu accès exclusif à des documents judiciaires qui établissent des preuves convaincantes du rôle des forces spéciales dans le meurtre de Mathipa, qui faisait partie d'une unité d'élite dénommée \"The Hawks\". Des documents de police montrent que le véhicule qui suivait Mathipa juste avant qu'il ne soit abattu était enregistré au nom d'une société écrans. Ces éléments soulèvent de sérieuses questions sur l’intégrité des institutions militaires dans une démocratie déjà fragile.",
+        "vocabulary": [
+          {
+            "word": "detective",
+            "definition": "Un policier qui résout des crimes."
+          },
+          {
+            "word": "inculper",
+            "definition": "Accuser quelqu'un d'un crime."
+          },
+          {
+            "word": "preuve",
+            "definition": "Une information qui montre que quelque chose est vrai."
+          },
+          {
+            "word": "démocratie",
+            "definition": "Un système politique où le peuple a le pouvoir."
+          },
+          {
+            "word": "officier",
+            "definition": "Un membre d'une force armée, comme la police."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Qui était le détective Mathipa?",
+            "options": [
+              "Un vol",
+              "Un détective respecté",
+              "Un suspect"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Pourquoi Mathipa avait-il peur?",
+            "options": [
+              "Il devenait célèbre",
+              "Il craignait pour sa vie",
+              "Il était heureux"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel service a eu accès aux documents judiciaires?",
+            "options": [
+              "Le service de police",
+              "Le service mondial de la BBC",
+              "Le gouvernement sud-africain"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Accusations de meurtre contre les forces spéciales sud-africaines",
+        "text": "Frans Mathipa, un détective de police de haut rang, a tenté pendant quatre mois d’obtenir l’accès à une information cruciale pour une enquête particulièrement délicate. Bien qu’il ait finalement été informé que l’information occidentale lui serait transmise, il craignait que cette recherche ne mette sa vie en danger. Deux jours après cette annonce, son véhicule a été retrouvé accidenté, et il avait perdu la vie dans des circonstances tragiques. À l'heure actuelle, sept membres des forces spéciales sud-africaines, ainsi qu'un membre de la police militaire, font face à des accusations de meurtre à l'encontre de Mathipa, un officier reconnu pour son intégrité, depuis août 2023, alors qu’ils nient fermement ces accusations. Aucune date n’a encore été fixée pour leur procès ; les inquiétudes quant à la possibilité que cette affaire ne soit jamais portée devant un tribunal grandissent, puisque trois des accusés ont déserté un ordre de la cour révoquant leur mise en liberté sous caution, tout en continuant d’opérer au sein des forces spéciales, comme en témoigne la récente promotion de l'un d'eux. Des centaines de pages de documents judiciaires, partagées avec la BBC, illustrent les preuves évoquant la responsabilité des forces spéciales dans le meurtre de Mathipa, qui appartenait à l'escouade d'élite dénommée \"The Hawks\". En particulier, des informations révèlent que le véhicule qui suivait Mathipa avant sa mort était enregistré sous une entreprise écran associée à ces forces.",
+        "vocabulary": [
+          {
+            "word": "inculpation",
+            "definition": "Acte d'accuser quelqu'un d'un crime."
+          },
+          {
+            "word": "condamnation",
+            "definition": "Punition légale d'un individu reconnu coupable d'un crime."
+          },
+          {
+            "word": "dispositions",
+            "definition": "Règles ou conditions établies par le tribunal."
+          },
+          {
+            "word": "audience",
+            "definition": "Une réunion formelle au tribunal pour traiter une affaire."
+          },
+          {
+            "word": "responsabilité",
+            "definition": "Obligation de répondre de ses actes."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Pourquoi Mathipa était-il sous pression dans son enquête?",
+            "options": [
+              "Il avait beaucoup de temps",
+              "Il craignait pour sa vie",
+              "Il était promu"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel était le nom de l'unité à laquelle Mathipa appartenait?",
+            "options": [
+              "Les Héros",
+              "The Hawks",
+              "Les Renards"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Quel type de documents a été révélé par la BBC?",
+            "options": [
+              "Des rapports secrets",
+              "Des affiches publiques",
+              "Des notes personnelles"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "C2": {
+        "title": "Affaire Mathipa : des forces spéciales sous le feu des projecteurs",
+        "text": "Au cœur d'une enquête aux allures tragiques, le détective Frans Mathipa s'est lancé dans une quête de vérité pendant quatre mois, s'attachant à obtenir l'accès à un dossier crucial. À sa grande inquiétude, on l'a averti que les informations nécessaires étaient enfin à portée, mais il savait que son désir de justice risquait de lui coûter bien plus que sa carrière. Deux jours après cette promesse, son véhicule a été découvert renversé, et le détective avait été abattu. Dans un retournement de situation alarmant, sept membres des forces spéciales sud-africaines, accompagnés d'un agente de la police militaire, se sont retrouvé sur le banc des accusés. Bien qu'ils aient formellement nié leur implication dans le meurtre du respecté lieutenant-colonel, l’absence de date pour leur procès nourrit des craintes croissantes quant à la transparence de la justice dans un pays où l'armée semble transgresser ses prérogatives. Des révélations provenant de documents classifiés, analysés par le service mondial de la BBC, laissent à penser que les forces spéciales jouent un rôle central dans cette affaire, étant donné que la voiture ayant suivi Mathipa avant son tirétait enregistrée au nom d'une société écran liée à ces mêmes forces. Il est également question d'une menace émise à l'encontre de l’unité « The Hawks », stipulant que toute nouvelle enquête serait réprimée par la violence. En somme, l'enquête délicate sur un homme soupçonné d'être affilié à l'État islamique, et qui avait oscillé entre l'asile et le délit, a pris une tournure d'autant plus sombre, révélant le possible délitement des verrous institutionnels qui devraient protéger les citoyens et préserver l'intégrité des fonctions régaliennes.",
+        "vocabulary": [
+          {
+            "word": "verrou",
+            "definition": "Mécanisme de sécurité, ici utilisé symboliquement pour désigner une restriction institutionnelle."
+          },
+          {
+            "word": "réprimé",
+            "definition": "Imposé de manière autoritaire, empêché par la force."
+          },
+          {
+            "word": "tragique",
+            "definition": "Conduit à une grande souffrance ou à une fin malheureuse."
+          },
+          {
+            "word": "transgression",
+            "definition": "Violation d’une loi ou d’un principe."
+          },
+          {
+            "word": "prérogatives",
+            "definition": "Droits ou privilèges exclusifs liés à une fonction."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Quel événement tragique a suscité l'enquête sur Mathipa?",
+            "options": [
+              "Son arrestation",
+              "Sa promotion",
+              "Son meurtre"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Que révèlent les documents analysés par la BBC?",
+            "options": [
+              "La responsabilité des forces spéciales",
+              "L'innocence des accusés",
+              "Une fête militaire"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quel danger se profile sur les enquêtes menées par la police selon les menaces reçues?",
+            "options": [
+              "Des promotions",
+              "Des violences",
+              "Des financements"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    },
+    "es": {
+      "A1": {
+        "title": "Un policía muerto en Sudáfrica",
+        "text": "Frans Mathipa es un detective de policía. Él trabaja en Sudáfrica. Mathipa quiere información importante. Dos días después, su coche está volcado. Él está muerto. Entonces, hay siete soldados acusados. Ellos son parte de fuerzas especiales. Ellos no dicen que son culpables. La familia de Mathipa está triste. Ellos quieren justicia. Ellos tienen miedo. El ejército no responde. Mathipa tiene un trabajo difícil. Él investiga a un hombre llamado Abdella. Abdella tiene problemas con la policía. Esta situación es muy seria.",
+        "vocabulary": [
+          {
+            "word": "detective",
+            "definition": "una persona que investiga crímenes"
+          },
+          {
+            "word": "información",
+            "definition": "datos o noticias sobre algo"
+          },
+          {
+            "word": "coche",
+            "definition": "un vehículo para transportar personas"
+          },
+          {
+            "word": "muerto",
+            "definition": "no está vivo"
+          },
+          {
+            "word": "familia",
+            "definition": "grupo de personas relacionadas"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién es Frans Mathipa?",
+            "options": [
+              "Un detective de policía",
+              "Un soldado",
+              "Un médico"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué le pasó a Mathipa?",
+            "options": [
+              "Está muerto",
+              "Está vivo",
+              "Está en el trabajo"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Cómo está la familia de Mathipa?",
+            "options": [
+              "Triste",
+              "Feliz",
+              "Satisfecha"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "A2": {
+        "title": "Frans Mathipa, un detective asesinado",
+        "text": "Frans Mathipa es un detective de policía. Él investiga crímenes en Sudáfrica. Mathipa busca información importante durante cuatro meses. Finalmente, le dicen que la información llegará. Pero él tiene miedo porque puede perder su vida. Dos días después, su coche está volcado y él está muerto. Hay siete soldados y un oficial de policía acusados. Estos hombres trabajan en las fuerzas especiales. Ellos dicen que no son culpables. La familia de Mathipa está muy triste. Ellos esperan justicia. El ejército no responde a las preguntas. Mathipa investiga a un hombre llamado Abdella Abadigga, un sospechoso de terrorismo. Abdella había recibido asilo en Sudáfrica en 2008, pero fue arrestado. Esta situación es muy seria porque involucra militares.",
+        "vocabulary": [
+          {
+            "word": "investigar",
+            "definition": "buscar hechos o información"
+          },
+          {
+            "word": "información",
+            "definition": "noticias o datos sobre algo"
+          },
+          {
+            "word": "sospechoso",
+            "definition": "una persona que puede haber cometido un crimen"
+          },
+          {
+            "word": "ejército",
+            "definition": "grupo de soldados que defiende un país"
+          },
+          {
+            "word": "justicia",
+            "definition": "acción de hacer lo correcto"
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cuánto tiempo estuvo Mathipa buscando información?",
+            "options": [
+              "Cuatro meses",
+              "Dos días",
+              "Un año"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué pasó con el coche de Mathipa?",
+            "options": [
+              "Estaba volcado",
+              "Estaba parado",
+              "Estaba en el taller"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Quién es Abdella Abadigga?",
+            "options": [
+              "Un sospechoso de terrorismo",
+              "Un amigo de Mathipa",
+              "Un soldado"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      "B1": {
+        "title": "El asesinato del detective Frans Mathipa",
+        "text": "Frans Mathipa, un destacado detective de la policía en Sudáfrica, ha estado luchando por obtener información clave sobre un caso muy complicado. Esta investigación estaba relacionada con un hombre etíope llamado Abdella Abadigga, quien había sido señalado como un militante del Estado Islámico. Durante cuatro meses, Mathipa ha esperado recibir una prueba crucial que podía ayudar a esclarecer los eventos que rodeaban a Abadigga. Sin embargo, él ha expresado su temor de que su búsqueda de justicia le costara la vida. Desafortunadamente, dos días después de recibir esa prometedora información, su coche fue encontrado volcado y él estaba muerto, con signos de haber sido disparado. Actualmente, siete miembros de las fuerzas especiales de Sudáfrica y un oficial de policía han sido acusados de asesinar a Mathipa en agosto de 2023. Aunque ellos niegan estas acusaciones, sus causas han encendido el debate sobre la impunidad de las fuerzas de seguridad en el país. No se ha fijado una fecha para su juicio, lo que genera preocupaciones de que este juicio nunca se realice. Por ejemplo, tres de los hombres acusados no han cumplido con una orden judicial que revoca su libertad bajo fianza y, para sorpresa de muchos, todavía trabajan en las fuerzas especiales; uno de ellos ha recibido un ascenso. Además, la familia de Mathipa está muy preocupada, ya que teme por su seguridad y por la falta de justicia. Todo esto ha creado un clima de incertidumbre en una de las democracias más robustas de África.",
+        "vocabulary": [
+          {
+            "word": "militante",
+            "definition": "Una persona que participa activamente en una causa, a menudo de manera violenta."
+          },
+          {
+            "word": "investigación",
+            "definition": "El proceso de buscar información y descubrir la verdad sobre un asunto."
+          },
+          {
+            "word": "impunidad",
+            "definition": "La situación en la que alguien no recibe castigo por sus acciones, especialmente si son criminales."
+          },
+          {
+            "word": "ascenso",
+            "definition": "Cuando alguien recibe un puesto de mayor rango o nivel en su trabajo."
+          },
+          {
+            "word": "prueba",
+            "definition": "Evidencia que se presenta para demostrar la verdad sobre algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Quién fue asesinado, según el texto?",
+            "options": [
+              "El detective Frans Mathipa",
+              "El oficial de policía",
+              "Abdella Abadigga"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "¿Qué preocupa a la familia de Mathipa?",
+            "options": [
+              "La falta de pruebas en el caso",
+              "Su seguridad y la justicia",
+              "El juicio de los acusados"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuánto tiempo ha estado esperando Mathipa información clave?",
+            "options": [
+              "Dos días",
+              "Cuatro meses",
+              "Un año"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "B2": {
+        "title": "Pruebas que indican que fuerzas especiales sudafricanas asesinaron a un destacado detective",
+        "text": "El detective senior de policía, Frans Mathipa, había estado luchando durante cuatro meses para acceder a una información crucial en el caso que investigaba. Finalmente, le dijeron que la información iba a llegar, aunque temía que su búsqueda pudiera costarle la vida. Dos días después, su automóvil fue encontrado volcado; había sido asesinado mientras conducía. Actualmente, siete miembros de las fuerzas especiales de Sudáfrica y un oficial de la policía militar han sido acusados de asesinar al Teniente Coronel Mathipa, un oficial muy respetado, en agosto de 2023. No obstante, ellos niegan los cargos. Hasta ahora, no se ha programado una fecha para su juicio, y hay preocupaciones de que este nunca se realice, ya que tres de los hombres acusados han rechazado cumplir con una orden judicial que revoca su fianza. Esta situación es especialmente alarmante, dado que estos individuos aún están activos en las fuerzas especiales del ejército, y uno de ellos ha sido ascendido. El servicio mundial de la BBC ha tenido acceso exclusivo a los documentos de acusación contra todos los hombres. Los documentos secretos de la policía y del tribunal, compartidos con la BBC, exponen las pruebas que indican que las fuerzas especiales asesinaron a Mathipa, quien pertenecía a una unidad elite conocida como 'The Hawks'.",
+        "vocabulary": [
+          {
+            "word": "asesinar",
+            "definition": "matar a alguien."
+          },
+          {
+            "word": "temer",
+            "definition": "tener miedo de algo."
+          },
+          {
+            "word": "pruebas",
+            "definition": "información que demuestra algo."
+          },
+          {
+            "word": "jurídico",
+            "definition": "relacionado con la ley."
+          },
+          {
+            "word": "información",
+            "definition": "datos sobre algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Cómo fue encontrado el automóvil de Mathipa?",
+            "options": [
+              "Estaba en perfecto estado.",
+              "Estaba volcado.",
+              "Fue robado."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos miembros de las fuerzas especiales han sido acusados?",
+            "options": [
+              "Cinco.",
+              "Siete.",
+              "Tres."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué ha dicho el servicio mundial de la BBC?",
+            "options": [
+              "No se ha pronunciado.",
+              "Ha tenido acceso a documentos de acusación.",
+              "Ha apoyado a las fuerzas especiales."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C1": {
+        "title": "Indicios que sugieren que las fuerzas especiales de Sudáfrica asesinaron a un prominente detective",
+        "text": "Frans Mathipa, un destacado detective de la policía, había estado luchando por cuatro meses para acceder a una información crucial relacionada con una investigación en curso. Finalmente, recibió la noticia de que iba a obtener el acceso, aunque su instinto le indicaba que este esfuerzo podría costarle la vida. Solo dos días después, su vehículo fue hallado volcado y, lamentablemente, había sido asesinado mientras conducía. En la actualidad, siete integrantes de las fuerzas especiales de Sudáfrica, junto con un oficial de la policia militar, afrontan cargos por el asesinato del Teniente Coronel Mathipa en agosto de 2023, aunque ellos rechazan enérgicamente las acusaciones. La incertidumbre persiste, ya que no se ha fijado una fecha para el juicio, y existe una creciente preocupación de que este nunca se lleve a cabo; tres de los acusados han desobedecido una orden judicial que anulaba su fianza. A pesar de esto, siguen activos en las fuerzas especiales, y uno ha recibido un ascenso reciente. El servicio mundial de la BBC ha obtenido acceso exclusivo a la documentación de la acusación. Las pruebas recopiladas detallan cómo las fuerzas especiales están relacionadas con el asesinato del detective, quien pertenecía a una unidad de élite conocida como 'The Hawks'.",
+        "vocabulary": [
+          {
+            "word": "indicios",
+            "definition": "señales que sugieren algo."
+          },
+          {
+            "word": "desobedecer",
+            "definition": "no seguir una orden."
+          },
+          {
+            "word": "frustración",
+            "definition": "sentimiento de insatisfacción."
+          },
+          {
+            "word": "acceso",
+            "definition": "permisos para entrar a algo."
+          },
+          {
+            "word": "incertidumbre",
+            "definition": "falta de seguridad sobre algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué le ocurrió a Mathipa dos días después de recibir novedades?",
+            "options": [
+              "Fue ascendido.",
+              "Fue asesinado.",
+              "Fue arrestado."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuántos hombres han sido acusados en el caso?",
+            "options": [
+              "Cinco.",
+              "Siete.",
+              "Ocho."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Cuál era la unidad de Mathipa?",
+            "options": [
+              "Las Águilas.",
+              "Los Halcones.",
+              "La Secretaría."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      "C2": {
+        "title": "Pruebas documentales sugieren que fuerzas especiales sudafricanas asesinaron a un respetado detective",
+        "text": "Durante cuatro meses, el detective senior Frans Mathipa confrontó innumerables obstáculos en su búsqueda por obtener acceso a una clave información crucial que podría haber disipado las oscuras sombras que rodeaban su investigación. Finalmente, una noticia prometedora llegó a sus oídos, pero la creciente ansiedad por su propia seguridad lo llevó a temer que su esfuerzo pudiera costarle la vida. Solo dos días después, el vehículo de Mathipa fue hallado volcado en la carretera; había sido asesinado mientras conducía, dejando a su familia y amigos en un estado de conmoción profunda. En la actualidad, siete miembros de las fuerzas especiales del ejército sudafricano, así como un oficial de la policía militar, enfrentan acusaciones de asesinato del Teniente Coronel Mathipa, quien era altamente respetado, en agosto de 2023; no obstante, ellos han negado los cargos. Hasta el momento, la fijación de una fecha para el juicio sigue pendiente, generando inquietudes de que este nunca se concretará, ya que tres de los acusados han desobedecido una orden judicial que revocó su fianza. Estos individuos continúan activos en el servicio militar, incluso uno ha recibido un ascenso. El servicio mundial de la BBC ha obtenido un acceso exclusivo a un acopio de documentos de acusación que, según informan las autoridades, apuntan a que las fuerzas especiales están involucradas en el asesinato del detective. Entre las pruebas recopiladas, se destaca que el vehículo que persiguió a Mathipa justo antes de su asesinato estaba registrado bajo una empresa fachada utilizada por las fuerzas especiales. Tales indicios han suscitado una gran preocupación en uno de los países africanos considerados como modelo de democracia robusta.",
+        "vocabulary": [
+          {
+            "word": "conmoción",
+            "definition": "impacto emocional fuerte."
+          },
+          {
+            "word": "enfrentar",
+            "definition": "confrontar una situación difícil."
+          },
+          {
+            "word": "desobedecer",
+            "definition": "no seguir órdenes."
+          },
+          {
+            "word": "acopio",
+            "definition": "recolección de información."
+          },
+          {
+            "word": "robo",
+            "definition": "acciones de hurtar o apoderarse de algo."
+          }
+        ],
+        "questions": [
+          {
+            "question": "¿Qué sucedió dos días después de que Mathipa recibió noticias sobre su investigación?",
+            "options": [
+              "Su vida fue amenazada.",
+              "Fue asesinado.",
+              "Comenzó un nuevo caso."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué delito enfrentan los acusados?",
+            "options": [
+              "Robo.",
+              "Asesinato.",
+              "Fraude."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "¿Qué tipo de pruebas ha compartido la BBC?",
+            "options": [
+              "Documentos judiciales.",
+              "Videos de la escena.",
+              "Testimonios de vecinos."
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    }
+  },
+  "glossary": {
+    "de": {
+      "südafrikanische": "South African",
+      "soldaten": "soldiers",
+      "töten": "to kill",
+      "detektiv": "detective",
+      "ein": "a",
+      "heißt": "is called",
+      "frans": "Frans",
+      "mathipa": "Mathipa",
+      "er": "he",
+      "hat": "has",
+      "wichtiges": "important",
+      "dokument": "document",
+      "braucht": "needs",
+      "es": "it",
+      "für": "for",
+      "einen": "a",
+      "fall": "case",
+      "angst": "fear",
+      "zwei": "two",
+      "tage": "days",
+      "später": "later",
+      "findet": "finds",
+      "man": "one",
+      "sein": "his",
+      "auto": "car",
+      "umgekippt": "overturned",
+      "ist": "is",
+      "tot": "dead",
+      "wurde": "was",
+      "erschossen": "shot",
+      "sieben": "seven",
+      "und": "and",
+      "polizist": "police officer",
+      "sind": "are",
+      "angeklagt": "charged",
+      "sie": "they",
+      "sollen": "should",
+      "getötet": "killed",
+      "haben": "to have",
+      "der": "the",
+      "die": "the",
+      "sagen": "say",
+      "unschuldig": "innocent",
+      "gibt": "gives",
+      "keinen": "no",
+      "gerichtstermin": "court date",
+      "einige": "some",
+      "arbeiten": "to work",
+      "noch": "still",
+      "beim": "at the",
+      "militär": "military",
+      "guter": "good",
+      "hilft": "helps",
+      "polizei": "police",
+      "spezielle": "special",
+      "einheiten": "units",
+      "militärsoldaten": "soldiers",
+      "in": "in",
+      "südafrika": "South Africa",
+      "kämpft": "fights",
+      "seit": "since",
+      "vier": "four",
+      "monaten": "months",
+      "wichtige": "important",
+      "informationen": "information",
+      "diese": "this",
+      "helfen": "to help",
+      "ihm": "him",
+      "bei": "at",
+      "einem": "a",
+      "schwierigen": "difficult",
+      "weil": "because",
+      "bedroht": "threatened",
+      "wird": "will",
+      "das": "that",
+      "jetzt": "now",
+      "mitglieder": "members",
+      "südafrikanischen": "South African",
+      "spezialkräfte": "special forces",
+      "militärpolizist": "military policeman",
+      "im": "in the",
+      "august": "August",
+      "ermordet": "murdered",
+      "angeklagten": "defendant",
+      "drei": "three",
+      "männer": "men",
+      "keine": "no",
+      "bbc": "bbc",
+      "exklusive": "exclusive",
+      "über": "about",
+      "den": "the",
+      "an": "at",
+      "sensiblen": "sensitive",
+      "gearbeitet": "worked",
+      "will": "wants",
+      "herausfinden": "to find out",
+      "was": "what",
+      "mit": "with",
+      "mann": "man",
+      "namens": "named",
+      "abdella": "Abdella",
+      "passiert": "happens",
+      "dieser": "this",
+      "vergangenheit": "past",
+      "probleme": "problems",
+      "dem": "the",
+      "gesetz": "law",
+      "gehabt": "had",
+      "mordfall": "murder case",
+      "gegen": "against",
+      "respektierter": "respected",
+      "polizeidetektiv": "police detective",
+      "hatte": "had",
+      "monatelang": "for months",
+      "wichtigen": "important",
+      "gesucht": "searched",
+      "war": "was",
+      "besorgt": "worried",
+      "dass": "that",
+      "seine": "his",
+      "nachforschungen": "investigations",
+      "gefährlich": "dangerous",
+      "könnten": "could",
+      "bereits": "already",
+      "hinweise": "clues",
+      "auf": "to",
+      "bedrohungen": "threats",
+      "erhalten": "to receive",
+      "seinem": "his",
+      "umgekippten": "overturned",
+      "gefunden": "found",
+      "worden": "been",
+      "umstände": "circumstances",
+      "seines": "his",
+      "todes": "death",
+      "waren": "were",
+      "mysteriös": "mysterious",
+      "wurden": "were",
+      "eliteeinheit": "elite unit",
+      "wegen": "because of",
+      "mordes": "murder",
+      "behaupten": "to claim",
+      "seien": "are",
+      "weiterhin": "still",
+      "einfluss": "influence",
+      "bedenken": "concerns",
+      "prozess": "process",
+      "nie": "never",
+      "stattfinden": "will take place",
+      "gerichtsbeschluss": "court order",
+      "verstoßen": "to violate",
+      "immer": "always",
+      "einheit": "unity",
+      "armee": "army",
+      "einer": "one",
+      "von": "from",
+      "ihnen": "them",
+      "sogar": "even",
+      "befördert": "promoted",
+      "zugang": "access",
+      "zu": "to",
+      "beweismitteln": "evidence",
+      "zeigen": "to show",
+      "abadigga": "Abadigga",
+      "betraf": "concerned",
+      "usa": "USA",
+      "als": "than",
+      "is-rekrutierer": "IS recruiter",
+      "bezeichnet": "designated",
+      "problem": "problem",
+      "gewesen": "been",
+      "wollte": "wanted",
+      "unbedingt": "absolutely",
+      "mehr": "more",
+      "diesen": "these",
+      "sammeln": "to collect",
+      "wusste": "knew",
+      "verdächtigen": "to suspect",
+      "aktivitäten": "activities",
+      "verbindung": "connection",
+      "stand": "stood",
+      "wahrheit": "truth",
+      "ans": "to",
+      "licht": "light",
+      "bringen": "to bring",
+      "nach": "after",
+      "mathipas": "Mathipas",
+      "tod": "death",
+      "müssen": "must",
+      "sowohl": "both",
+      "auch": "also",
+      "justiz": "justice",
+      "unabhängig": "independent",
+      "um": "around",
+      "vertrauen": "trust",
+      "bevölkerung": "population",
+      "bewahren": "to preserve",
+      "nicht": "not",
+      "nur": "only",
+      "auswirkungen": "effects",
+      "familie": "family",
+      "sondern": "but",
+      "gesamte": "entire",
+      "land": "country",
+      "nun": "now",
+      "fragen": "questions",
+      "zur": "to the",
+      "rolle": "role",
+      "des": "of the",
+      "militärs": "military",
+      "aufwirft": "raises",
+      "wenn": "if",
+      "vorwürfe": "accusations",
+      "wahr": "true",
+      "könnte": "could",
+      "weitreichende": "far-reaching",
+      "konsequenzen": "consequences",
+      "regierung": "government",
+      "ihre": "their",
+      "institutionen": "institutions",
+      "beweise": "evidence",
+      "top-ermittler": "top investigator",
+      "ermordeten": "murdered",
+      "geteilt": "shared",
+      "leitende": "leading",
+      "monate": "months",
+      "lang": "long",
+      "versucht": "attempted",
+      "entscheidenden": "decisive",
+      "information": "information",
+      "langem": "long",
+      "warten": "to wait",
+      "schließlich": "finally",
+      "mitgeteilt": "informed",
+      "kurz": "short",
+      "bevorstand": "board",
+      "dennoch": "nevertheless",
+      "befürchtete": "feared",
+      "streben": "aspiration",
+      "leben": "life",
+      "kosten": "costs",
+      "umgestürztes": "overturned",
+      "während": "during",
+      "fahrt": "drive",
+      "mittlerweile": "meanwhile",
+      "soldat": "soldier",
+      "militärpolizei": "military police",
+      "lt": "Lt",
+      "col": "Col",
+      "hochgeschätzten": "highly regarded",
+      "beamten": "officials",
+      "bestreiten": "to dispute",
+      "termin": "appointment",
+      "steht": "stands",
+      "aus": "from",
+      "möglicherweise": "possibly",
+      "gar": "at all",
+      "da": "there",
+      "sich": "oneself",
+      "weigern": "to refuse",
+      "eine": "a",
+      "gerichtliche": "judicial",
+      "anordnung": "arrangement",
+      "aufhebung": "repeal",
+      "ihrer": "their",
+      "kaution": "bail",
+      "befolgen": "to follow",
+      "wie": "like",
+      "vor": "before",
+      "dienst": "service",
+      "world": "world",
+      "service": "service",
+      "exklusiven": "exclusive",
+      "zum": "to the",
+      "staatsanwaltschaft": "public prosecutor's office",
+      "alle": "everyone",
+      "sache": "matter",
+      "stärksten": "strongest",
+      "demokratien": "democracies",
+      "afrikas": "Africa's",
+      "empörung": "outrage",
+      "ausgelöst": "triggered",
+      "befürchtet": "feared",
+      "landes": "national",
+      "befugnisse": "powers",
+      "erheblich": "significant",
+      "überschreitet": "exceeds",
+      "mord": "murder",
+      "durch": "through",
+      "senior": "senior",
+      "zeitraum": "period",
+      "darauf": "on it",
+      "hingearbeitet": "worked towards",
+      "zentralen": "central",
+      "seinen": "his",
+      "laufenden": "ongoing",
+      "entscheidender": "decisive",
+      "bedeutung": "meaning",
+      "intensiven": "intensive",
+      "bemühungen": "efforts",
+      "versichert": "insured",
+      "bald": "soon",
+      "verfügbar": "available",
+      "würden": "would",
+      "hegten": "harbored",
+      "kollegen": "colleagues",
+      "besorgnis": "concern",
+      "darüber": "about it",
+      "fatale": "fatal",
+      "folgen": "consequences",
+      "tragischerweise": "tragically",
+      "fahrzeug": "vehicle",
+      "verwüsteten": "devastated",
+      "zustand": "condition",
+      "aufgefunden": "found",
+      "schwer": "heavy",
+      "verletzt": "injured",
+      "verstorben": "deceased",
+      "infolgedessen": "consequently",
+      "speziellen": "special",
+      "einsatzkräfte": "emergency forces",
+      "sowie": "as well as",
+      "angehöriger": "member",
+      "angesehenen": "respected",
+      "polizisten": "police officers",
+      "beschuldigten": "accused",
+      "verleugnen": "to deny",
+      "obgleich": "although",
+      "prozesstermin": "court date",
+      "festgelegt": "set",
+      "bestehen": "to consist",
+      "erhebliche": "significant",
+      "rechtlichen": "legal",
+      "schritte": "steps",
+      "durchgeführt": "carried out",
+      "werden": "will",
+      "besonders": "especially",
+      "angesichts": "in the face of",
+      "weigerung": "refusal",
+      "gerichtlichen": "judicial",
+      "anordnungen": "orders",
+      "nachzukommen": "to comply",
+      "tätig": "active",
+      "erhielt": "received",
+      "kürzlich": "recently",
+      "beförderung": "promotion",
+      "ermittlungsakten": "investigation files",
+      "argumentation": "argumentation",
+      "anklage": "indictment",
+      "personen": "people",
+      "darstellen": "represent",
+      "militärischen": "military",
+      "apparats": "apparatus",
+      "stabilsten": "most stable",
+      "hervorrufen": "to evoke",
+      "südafrikas": "South Africa's",
+      "militärisches": "military",
+      "übergreifen": "to overreach",
+      "ermittler": "investigator",
+      "konsequen": "consequences",
+      "tragische": "tragic",
+      "geschichte": "history",
+      "verstorbenen": "deceased",
+      "polizeidetektivs": "police detective's",
+      "erzählung": "narrative",
+      "individualschicksale": "individual fates",
+      "spiegelt": "reflects",
+      "tiefere": "deeper",
+      "thematik": "theme",
+      "übergriffs": "incidents",
+      "innerhalb": "within",
+      "rechtssystems": "justice system",
+      "wider": "against",
+      "mühte": "effort",
+      "essentielle": "essential",
+      "sichern": "to secure",
+      "ausschlaggebend": "decisive",
+      "erweisen": "to pay (respect)",
+      "sollten": "should",
+      "intensiver": "more intense",
+      "recherche": "research",
+      "signalisiert": "signaled",
+      "zugänglich": "accessible",
+      "gemacht": "made",
+      "begründeten": "justified",
+      "verdacht": "suspicion",
+      "bestrebungen": "endeavors",
+      "potenziell": "potential",
+      "lebensbedrohlich": "life-threatening",
+      "mitteilung": "statement",
+      "brutalen": "brutal",
+      "hoch": "high",
+      "offenbarte": "revealed",
+      "fand": "found",
+      "statt": "instead",
+      "anklagen": "to accuse",
+      "erhoben": "raised",
+      "vehement": "vehemently",
+      "bestritten": "contested",
+      "obwohl": "although",
+      "keinerlei": "none",
+      "festgelegten": "established",
+      "prozesstermine": "court dates",
+      "genehmigte": "approved",
+      "kautionsaufhebung": "bail revocation",
+      "folge": "consequence",
+      "leisten": "to afford",
+      "grundsätzliche": "fundamental",
+      "hinsichtlich": "regarding",
+      "möglichkeit": "possibility",
+      "eines": "one",
+      "fairen": "fair",
+      "verfahrens": "procedural",
+      "bemerkenswertes": "noteworthy",
+      "element": "element",
+      "falls": "if",
+      "tatsache": "fact",
+      "trotz": "despite",
+      "allgemeiner": "general",
+      "anklageunterlagen": "charges",
+      "faszinierende": "fascinating",
+      "verstrickten": "entangled",
+      "politischen": "political",
+      "gesellschaftlichen": "social",
+      "dynamiken": "dynamics",
+      "kontext": "context",
+      "liefert": "supplies",
+      "publikation": "publication",
+      "interne": "internal",
+      "reaktionen": "reactions",
+      "wirft": "raises",
+      "fundamentale": "fundamental",
+      "verantwortlichkeit": "responsibility",
+      "stabilen": "stable",
+      "demokratie": "democracy",
+      "gesellschaft": "society",
+      "grundlegende": "fundamental",
+      "integrität": "integrity",
+      "institutionellen": "institutional",
+      "strukturen": "structures"
+    },
+    "fr": {
+      "un": "a",
+      "détective": "detective",
+      "meurt": "dies",
+      "en": "in",
+      "afrique": "Africa",
+      "du": "of the",
+      "sud": "south",
+      "frans": "frank",
+      "mathipa": "mathipa",
+      "est": "is",
+      "de": "of",
+      "police": "police",
+      "il": "he",
+      "cherche": "searches",
+      "des": "some",
+      "informations": "information",
+      "peur": "fear",
+      "pour": "for",
+      "sa": "its",
+      "vie": "life",
+      "deux": "two",
+      "jours": "days",
+      "après": "after",
+      "voiture": "car",
+      "trouvée": "found",
+      "elle": "she",
+      "renversée": "overturned",
+      "et": "and",
+      "mort": "death",
+      "soldats": "soldiers",
+      "spéciaux": "special",
+      "sont": "are",
+      "accusés": "accused",
+      "ils": "they",
+      "sept": "seven",
+      "policier": "police",
+      "militaire": "military",
+      "disent": "say",
+      "ne": "not",
+      "pas": "not",
+      "coupables": "guilty",
+      "le": "the",
+      "procès": "trial",
+      "date": "date",
+      "trois": "three",
+      "hommes": "men",
+      "refusent": "refuse",
+      "respecter": "to respect",
+      "la": "the",
+      "loi": "law",
+      "travaillent": "work",
+      "toujours": "always",
+      "homme": "man",
+      "eu": "had",
+      "une": "a",
+      "promotion": "promotion",
+      "bbc": "bbc",
+      "documents": "documents",
+      "sur": "about",
+      "cette": "this",
+      "affaire": "case",
+      "les": "the",
+      "montrent": "show",
+      "que": "that",
+      "responsables": "responsibles",
+      "travaille": "works",
+      "unité": "unity",
+      "cela": "that",
+      "appelle": "calls",
+      "hawks": "hawks",
+      "enquête": "investigation",
+      "sud-africain": "South African",
+      "résoudre": "to solve",
+      "cas": "case",
+      "important": "important",
+      "car": "because",
+      "reçoit": "receives",
+      "menaces": "threats",
+      "plus": "more",
+      "tard": "late",
+      "côté": "side",
+      "route": "road",
+      "été": "been",
+      "abattu": "shot",
+      "membres": "members",
+      "forces": "forces",
+      "spéciales": "special",
+      "son": "his",
+      "meurtre": "murder",
+      "ont": "have",
+      "respectent": "to respect",
+      "continuent": "continue",
+      "travailler": "to work",
+      "qui": "who",
+      "preuves": "evidence",
+      "ces": "these",
+      "travaillait": "worked",
+      "élite": "elite",
+      "appelée": "called",
+      "très": "very",
+      "sérieuses": "serious",
+      "choquent": "shocking",
+      "beaucoup": "a lot",
+      "gens": "people",
+      "tragique": "tragic",
+      "était": "was",
+      "respecté": "respected",
+      "reconnu": "recognized",
+      "intégrité": "integrity",
+      "engagement": "commitment",
+      "au": "at the",
+      "cours": "course",
+      "quatre": "four",
+      "derniers": "last",
+      "mois": "months",
+      "dangereux": "dangerous",
+      "impliquait": "involved",
+      "actes": "acts",
+      "terrorisme": "terrorism",
+      "reçu": "received",
+      "cruciales": "crucial",
+      "suspect": "suspect",
+      "ce": "this",
+      "lui": "him",
+      "donné": "given",
+      "espoir": "hope",
+      "cependant": "however",
+      "craignait": "feared",
+      "aussi": "also",
+      "savait": "knew",
+      "attaquait": "attacked",
+      "éléments": "elements",
+      "puissants": "powerful",
+      "malheureusement": "unfortunately",
+      "avoir": "to have",
+      "obtenu": "obtained",
+      "conseils": "advice",
+      "tué": "killed",
+      "retrouvée": "found",
+      "enquêtes": "investigations",
+      "confirmé": "confirmed",
+      "avait": "had",
+      "ainsi": "thus",
+      "mais": "but",
+      "nient": "deny",
+      "faits": "facts",
+      "suspects": "suspects",
+      "décision": "decision",
+      "justice": "justice",
+      "armée": "army",
+      "soulève": "raises",
+      "questions": "questions",
+      "inquiétantes": "concerning",
+      "révélant": "revealing",
+      "contre": "against",
+      "eux": "them",
+      "dont": "whose",
+      "plusieurs": "several",
+      "centaines": "hundreds",
+      "pages": "pages",
+      "secrets": "secrets",
+      "suscité": "raised",
+      "grand": "big",
+      "débat": "debate",
+      "abus": "abuse",
+      "pouvoir": "power",
+      "militaires": "military",
+      "spéciale": "special",
+      "donc": "therefore",
+      "pris": "taken",
+      "risques": "risks",
+      "importants": "important",
+      "dans": "in",
+      "choqué": "shocked",
+      "pays": "country",
+      "rappelé": "reminded",
+      "lutte": "struggle",
+      "seulement": "only",
+      "question": "question",
+      "sécurité": "security",
+      "respect": "respect",
+      "droits": "rights",
+      "sud-africaines": "South Africans",
+      "accusées": "accused",
+      "senior": "senior",
+      "lutté": "struggled",
+      "pendant": "during",
+      "accéder": "to access",
+      "délicate": "delicate",
+      "récemment": "recently",
+      "on": "one",
+      "annoncé": "announced",
+      "allaient": "went",
+      "enfin": "finally",
+      "être": "to be",
+      "transmises": "transmitted",
+      "quête": "quest",
+      "coûte": "costs",
+      "véhicule": "vehicle",
+      "retrouvé": "found",
+      "retourné": "returned",
+      "auto": "car",
+      "actuellement": "currently",
+      "inspecteur": "inspector",
+      "inculpés": "defendants",
+      "officier": "officer",
+      "survenu": "occurred",
+      "août": "August",
+      "accusations": "accusations",
+      "portées": "carried",
+      "jour": "day",
+      "aucune": "none",
+      "fixée": "set",
+      "leur": "their",
+      "inquiétudes": "worries",
+      "persistent": "persistent",
+      "concernant": "concerning",
+      "possibilité": "possibility",
+      "soit": "be",
+      "jamais": "never",
+      "jugée": "judged",
+      "refusé": "refused",
+      "se": "yourself",
+      "conformer": "conform",
+      "ordonnance": "order",
+      "tribunal": "court",
+      "annulant": "cancelling",
+      "liberté": "freedom",
+      "sous": "under",
+      "caution": "caution",
+      "ailleurs": "elsewhere",
+      "même": "even",
+      "promu": "promoted",
+      "service": "service",
+      "mondial": "global",
+      "accès": "access",
+      "exclusif": "exclusive",
+      "judiciaires": "judicial",
+      "établissent": "establish",
+      "convaincantes": "convincing",
+      "rôle": "role",
+      "faisait": "made",
+      "partie": "party",
+      "the": "the",
+      "suivait": "was following",
+      "juste": "just",
+      "avant": "before",
+      "enregistré": "recorded",
+      "nom": "name",
+      "société": "society",
+      "écrans": "screens",
+      "soulèvent": "raise",
+      "institutions": "institutions",
+      "démocratie": "democracy",
+      "déjà": "already",
+      "fragile": "fragile",
+      "haut": "high",
+      "rang": "rank",
+      "tenté": "tempted",
+      "obtenir": "to obtain",
+      "information": "information",
+      "cruciale": "crucial",
+      "particulièrement": "particularly",
+      "bien": "well",
+      "ait": "has",
+      "finalement": "finally",
+      "informé": "informed",
+      "occidentale": "Western",
+      "serait": "would be",
+      "transmise": "transmitted",
+      "recherche": "research",
+      "mette": "puts",
+      "danger": "danger",
+      "annonce": "announcement",
+      "accidenté": "accident-prone",
+      "perdu": "lost",
+      "circonstances": "circumstances",
+      "tragiques": "tragic",
+      "heure": "hour",
+      "actuelle": "current",
+      "membre": "member",
+      "font": "make",
+      "face": "face",
+      "encontre": "against",
+      "depuis": "since",
+      "alors": "then",
+      "fermement": "firmly",
+      "encore": "again",
+      "quant": "regarding",
+      "portée": "range",
+      "devant": "in front",
+      "grandissent": "to grow",
+      "puisque": "since",
+      "déserté": "deserted",
+      "ordre": "order",
+      "cour": "court",
+      "révoquant": "revoking",
+      "mise": "put",
+      "tout": "all",
+      "continuant": "continuing",
+      "opérer": "to operate",
+      "sein": "breast",
+      "comme": "like",
+      "témoigne": "testifies",
+      "récente": "recent",
+      "partagées": "shared",
+      "avec": "with",
+      "illustrent": "illustrate",
+      "évoquant": "evoking",
+      "responsabilité": "responsibility",
+      "appartenait": "belonged",
+      "escouade": "squad",
+      "particulier": "particular",
+      "révèlent": "reveal",
+      "entreprise": "business",
+      "écran": "screen",
+      "associée": "associated",
+      "feu": "fire",
+      "projecteurs": "spotlights",
+      "cœur": "heart",
+      "aux": "to the",
+      "allures": "gaits",
+      "lancé": "launched",
+      "vérité": "truth",
+      "attachant": "endearing",
+      "dossier": "file",
+      "crucial": "crucial",
+      "grande": "big",
+      "inquiétude": "concern",
+      "averti": "warned",
+      "nécessaires": "necessary",
+      "étaient": "were",
+      "désir": "desire",
+      "risquait": "risked",
+      "coûter": "to cost",
+      "carrière": "career",
+      "promesse": "promise",
+      "découvert": "discovered",
+      "renversé": "overturned",
+      "retournement": "turnaround",
+      "situation": "situation",
+      "alarmant": "alarming",
+      "accompagnés": "accompanied",
+      "agente": "agent",
+      "banc": "bank",
+      "aient": "have",
+      "formellement": "formally",
+      "nié": "denied",
+      "implication": "implication",
+      "lieutenant-colonel": "lieutenant colonel",
+      "absence": "absence",
+      "nourrit": "nourishes",
+      "craintes": "fears",
+      "croissantes": "growing",
+      "transparence": "transparency",
+      "où": "where",
+      "semble": "seems",
+      "transgresser": "to transgress",
+      "ses": "his",
+      "prérogatives": "prerogatives",
+      "révélations": "revelations",
+      "provenant": "coming from",
+      "classifiés": "classified",
+      "analysés": "analyzed",
+      "par": "by",
+      "laissent": "leave",
+      "penser": "to think",
+      "jouent": "play",
+      "central": "central",
+      "étant": "being",
+      "ayant": "having",
+      "suivi": "followed",
+      "tirétait": "was pulling",
+      "enregistrée": "recorded",
+      "liée": "linked",
+      "mêmes": "same",
+      "également": "also",
+      "menace": "threat",
+      "émise": "issued",
+      "stipulant": "stipulating",
+      "toute": "all",
+      "nouvelle": "new",
+      "réprimée": "suppressed",
+      "violence": "violence",
+      "somme": "sum",
+      "soupçonné": "suspected",
+      "affilié": "affiliated",
+      "état": "state",
+      "islamique": "Islamic",
+      "oscillé": "swung",
+      "entre": "between",
+      "asile": "asylum",
+      "délit": "offense",
+      "tournure": "turn",
+      "autant": "as much",
+      "sombre": "dark",
+      "possible": "possible",
+      "délitement": "decline",
+      "verrous": "locks",
+      "institutionnels": "institutional",
+      "devraient": "should",
+      "protéger": "to protect",
+      "citoyens": "citizens",
+      "préserver": "to preserve",
+      "fonctions": "functions",
+      "régaliennes": "royal"
+    },
+    "es": {
+      "un": "a",
+      "policía": "police",
+      "muerto": "dead",
+      "en": "in",
+      "sudáfrica": "south africa",
+      "frans": "frans",
+      "mathipa": "mathipa",
+      "es": "is",
+      "detective": "detective",
+      "de": "of",
+      "él": "he",
+      "trabaja": "works",
+      "quiere": "wants",
+      "información": "information",
+      "importante": "important",
+      "dos": "two",
+      "días": "days",
+      "después": "after",
+      "su": "his",
+      "coche": "car",
+      "está": "is",
+      "volcado": "dump",
+      "entonces": "then",
+      "hay": "there is",
+      "siete": "seven",
+      "soldados": "soldiers",
+      "acusados": "accused",
+      "ellos": "they",
+      "son": "are",
+      "parte": "part",
+      "fuerzas": "forces",
+      "especiales": "special",
+      "no": "not",
+      "dicen": "they say",
+      "que": "that",
+      "culpables": "guilty",
+      "la": "the",
+      "familia": "family",
+      "triste": "sad",
+      "quieren": "they want",
+      "justicia": "justice",
+      "tienen": "have",
+      "miedo": "fear",
+      "el": "the",
+      "ejército": "army",
+      "responde": "responds",
+      "tiene": "has",
+      "trabajo": "job",
+      "difícil": "difficult",
+      "investiga": "investigates",
+      "hombre": "man",
+      "llamado": "call",
+      "abdella": "abdella",
+      "problemas": "problems",
+      "con": "with",
+      "esta": "this",
+      "situación": "situation",
+      "muy": "very",
+      "seria": "serious",
+      "asesinado": "murdered",
+      "crímenes": "crimes",
+      "busca": "seeks",
+      "durante": "during",
+      "cuatro": "four",
+      "meses": "months",
+      "finalmente": "finally",
+      "le": "the",
+      "llegará": "will arrive",
+      "pero": "but",
+      "porque": "because",
+      "puede": "can",
+      "perder": "to lose",
+      "vida": "life",
+      "oficial": "official",
+      "estos": "these",
+      "hombres": "men",
+      "trabajan": "work",
+      "las": "the",
+      "esperan": "they hope",
+      "preguntas": "questions",
+      "abadigga": "abadigga",
+      "sospechoso": "suspicious",
+      "terrorismo": "terrorism",
+      "había": "had",
+      "recibido": "received",
+      "asilo": "asylum",
+      "fue": "was",
+      "arrestado": "arrested",
+      "involucra": "involves",
+      "militares": "military",
+      "asesinato": "murder",
+      "del": "of the",
+      "destacado": "prominent",
+      "ha": "has",
+      "estado": "state",
+      "luchando": "fighting",
+      "por": "for",
+      "obtener": "to obtain",
+      "clave": "key",
+      "sobre": "about",
+      "caso": "case",
+      "complicado": "complicated",
+      "investigación": "investigation",
+      "estaba": "he was",
+      "relacionada": "related",
+      "etíope": "ethiopian",
+      "quien": "who",
+      "sido": "been",
+      "señalado": "signaled",
+      "como": "like",
+      "militante": "militant",
+      "islámico": "islamic",
+      "esperado": "expected",
+      "recibir": "to receive",
+      "una": "a",
+      "prueba": "test",
+      "crucial": "crucial",
+      "podía": "could",
+      "ayudar": "to help",
+      "esclarecer": "to clarify",
+      "los": "the",
+      "eventos": "events",
+      "rodeaban": "surrounded",
+      "sin": "without",
+      "embargo": "however",
+      "expresado": "expressed",
+      "temor": "fear",
+      "búsqueda": "search",
+      "costara": "cost",
+      "desafortunadamente": "unfortunately",
+      "esa": "that",
+      "prometedora": "promising",
+      "encontrado": "found",
+      "signos": "signs",
+      "haber": "to have",
+      "disparado": "shot",
+      "actualmente": "currently",
+      "miembros": "members",
+      "han": "they have",
+      "asesinar": "to assassinate",
+      "agosto": "August",
+      "aunque": "although",
+      "niegan": "deny",
+      "estas": "these",
+      "acusaciones": "accusations",
+      "sus": "their",
+      "causas": "causes",
+      "encendido": "turned on",
+      "debate": "debate",
+      "impunidad": "impunity",
+      "seguridad": "security",
+      "país": "country",
+      "se": "oneself",
+      "fijado": "fixed",
+      "fecha": "date",
+      "para": "to",
+      "juicio": "trial",
+      "lo": "it",
+      "genera": "generates",
+      "preocupaciones": "worries",
+      "este": "this",
+      "nunca": "never",
+      "realice": "perform",
+      "ejemplo": "example",
+      "tres": "three",
+      "cumplido": "fulfilled",
+      "orden": "order",
+      "judicial": "judicial",
+      "revoca": "revokes",
+      "libertad": "freedom",
+      "bajo": "under",
+      "fianza": "bail",
+      "sorpresa": "surprise",
+      "muchos": "many",
+      "todavía": "still",
+      "uno": "one",
+      "ascenso": "rise",
+      "además": "furthermore",
+      "preocupada": "worried",
+      "ya": "already",
+      "teme": "fears",
+      "falta": "lack",
+      "todo": "everything",
+      "esto": "this",
+      "creado": "created",
+      "clima": "climate",
+      "incertidumbre": "uncertainty",
+      "democracias": "democracies",
+      "más": "more",
+      "robustas": "robust",
+      "áfrica": "africa",
+      "pruebas": "evidence",
+      "indican": "indicate",
+      "sudafricanas": "south african",
+      "asesinaron": "they murdered",
+      "senior": "senior",
+      "acceder": "to access",
+      "investigaba": "was investigating",
+      "dijeron": "they said",
+      "iba": "was going",
+      "llegar": "to arrive",
+      "temía": "feared",
+      "pudiera": "could",
+      "costarle": "to cost",
+      "automóvil": "automobile",
+      "mientras": "while",
+      "conducía": "was driving",
+      "militar": "military",
+      "al": "to the",
+      "teniente": "lieutenant",
+      "coronel": "colonel",
+      "respetado": "respected",
+      "obstante": "however",
+      "cargos": "positions",
+      "hasta": "until",
+      "ahora": "now",
+      "programado": "scheduled",
+      "rechazado": "rejected",
+      "cumplir": "to fulfill",
+      "especialmente": "especially",
+      "alarmante": "alarming",
+      "dado": "given",
+      "individuos": "individuals",
+      "aún": "still",
+      "están": "are",
+      "activos": "assets",
+      "ascendido": "promoted",
+      "servicio": "service",
+      "mundial": "global",
+      "bbc": "BBC",
+      "tenido": "had",
+      "acceso": "access",
+      "exclusivo": "exclusive",
+      "documentos": "documents",
+      "acusación": "accusation",
+      "contra": "against",
+      "todos": "all",
+      "secretos": "secrets",
+      "tribunal": "court",
+      "compartidos": "shared",
+      "exponen": "to expose",
+      "pertenecía": "belonged",
+      "unidad": "unity",
+      "elite": "elite",
+      "conocida": "known",
+      "the": "the",
+      "hawks": "hawks",
+      "indicios": "indications",
+      "sugieren": "suggest",
+      "prominente": "prominent",
+      "curso": "course",
+      "recibió": "received",
+      "noticia": "news",
+      "instinto": "instinct",
+      "indicaba": "indicated",
+      "esfuerzo": "effort",
+      "podría": "could",
+      "solo": "only",
+      "vehículo": "vehicle",
+      "hallado": "found",
+      "lamentablemente": "unfortunately",
+      "actualidad": "relevance",
+      "integrantes": "members",
+      "junto": "together",
+      "policia": "police",
+      "afrontan": "face",
+      "rechazan": "they reject",
+      "enérgicamente": "energetically",
+      "persiste": "persists",
+      "existe": "exists",
+      "creciente": "growing",
+      "preocupación": "concern",
+      "lleve": "takes",
+      "cabo": "cape",
+      "desobedecido": "disobeyed",
+      "anulaba": "annulled",
+      "pesar": "despite",
+      "siguen": "continue",
+      "reciente": "recent",
+      "obtenido": "obtained",
+      "documentación": "documentation",
+      "recopiladas": "collected",
+      "detallan": "detail",
+      "cómo": "how",
+      "relacionadas": "related",
+      "élite": "elite",
+      "documentales": "documentaries",
+      "confrontó": "confronted",
+      "innumerables": "countless",
+      "obstáculos": "obstacles",
+      "disipado": "dissipated",
+      "oscuras": "dark",
+      "sombras": "shadows",
+      "llegó": "arrived",
+      "oídos": "ears",
+      "ansiedad": "anxiety",
+      "propia": "own",
+      "llevó": "took",
+      "temer": "to fear",
+      "carretera": "road",
+      "dejando": "leaving",
+      "amigos": "friends",
+      "conmoción": "shock",
+      "profunda": "profound",
+      "sudafricano": "south african",
+      "así": "thus",
+      "enfrentan": "they face",
+      "era": "was",
+      "altamente": "highly",
+      "negado": "denied",
+      "momento": "moment",
+      "fijación": "fixation",
+      "sigue": "follows",
+      "pendiente": "pending",
+      "generando": "generating",
+      "inquietudes": "concerns",
+      "concretará": "will finalize",
+      "revocó": "revoked",
+      "continúan": "they continue",
+      "incluso": "even",
+      "acopio": "stockpile",
+      "según": "according",
+      "informan": "report",
+      "autoridades": "authorities",
+      "apuntan": "point",
+      "involucradas": "involved",
+      "entre": "between",
+      "destaca": "stands out",
+      "persiguió": "pursued",
+      "justo": "fair",
+      "antes": "before",
+      "registrado": "registered",
+      "empresa": "company",
+      "fachada": "facade",
+      "utilizada": "used",
+      "tales": "such",
+      "suscitado": "raised",
+      "gran": "great",
+      "países": "countries",
+      "africanos": "Africans",
+      "considerados": "considered",
+      "modelo": "model",
+      "democracia": "democracy",
+      "robusta": "robust"
+    }
+  }
+}

@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-08-10-evidence-that-south-african-special-forces-murdered-top-dete",
+    "date": "2026-08-10",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Investigation into the Death of a Detective",
+      "de": "Mordfall gegen Detektiv in Südafrika",
+      "fr": "La mort tragique du détective sud-africain Frans Mathipa",
+      "es": "El asesinato del detective Frans Mathipa"
+    }
+  },
+  {
+    "id": "2026-08-10-israel-rejects-trump-s-15-point-plan-for-gaza-netanyahu-says",
+    "date": "2026-08-10",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Netanyahu Rejects Trump's 15-Point Plan for Gaza",
+      "de": "Netanyahu weist Trumps Friedensplan für Gaza zurück",
+      "fr": "Israël rejette le plan de paix proposé par Trump",
+      "es": "Netanyahu se opone al plan de 15 puntos de Trump para Gaza"
+    }
+  },
+  {
+    "id": "2026-08-10-suspected-crime-boss-daniel-kinahan-appears-in-court-after-e",
+    "date": "2026-08-10",
+    "source": "BBC News",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
+    "category": "politics",
+    "titles": {
+      "en": "Daniel Kinahan Faces Court Charges After Extradition from Dubai",
+      "de": "Daniel Kinahan wird nach Irland überstellt",
+      "fr": "Daniel Kinahan, chef présumé de la criminalité, comparait devant le tribunal",
+      "es": "Daniel Kinahan y su juicio en Dublín"
+    }
+  },
+  {
     "id": "2026-08-09-hormuz-talks-positive-oman-says-as-iran-warns-deal-would-not",
     "date": "2026-08-09",
     "source": "BBC News",
