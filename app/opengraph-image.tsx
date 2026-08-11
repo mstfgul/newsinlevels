@@ -2,7 +2,7 @@ import { ImageResponse } from "next/og";
 
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
-export const alt = "Any Text in Levels — learn languages with real content";
+export const alt = "AnyText — learn a language by reading real content, at your level";
 
 const LEVELS: { label: string; color: string }[] = [
   { label: "A1", color: "#2f7d4f" },
@@ -13,8 +13,8 @@ const LEVELS: { label: string; color: string }[] = [
   { label: "C2", color: "#c03a2b" },
 ];
 
-const TITLE = "Any Text in Levels";
-const TAGLINE_LINE_1 = "Real news, art, film & history — every day,";
+const TITLE = "AnyText";
+const TAGLINE_LINE_1 = "Real news, art, film, books & history —";
 const TAGLINE_LINE_2 = "rewritten at your level, from A1 to C2.";
 const DOMAIN = "anytext.art";
 
@@ -82,7 +82,6 @@ export default async function Image() {
             letterSpacing: "-0.02em",
           }}
         >
-          <span style={{ display: "flex" }}>Any Text in&#160;</span>
           <span style={{ display: "flex", position: "relative" }}>
             <span
               style={{
@@ -97,7 +96,7 @@ export default async function Image() {
               }}
             />
             <span style={{ display: "flex", position: "relative" }}>
-              Levels
+              {TITLE}
             </span>
           </span>
         </div>

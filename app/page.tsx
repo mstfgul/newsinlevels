@@ -1,14 +1,5 @@
 import type { Metadata } from "next";
-import {
-  getArtIndex,
-  getBookIndex,
-  getFilmIndex,
-  getHistoryIndex,
-  getIndex,
-  getQuoteIndex,
-} from "@/lib/data";
-import { TodayDesk } from "@/components/TodayDesk";
-import { Highlight } from "@/components/PageIntro";
+import { PageIntro, Highlight } from "@/components/PageIntro";
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_URL, webSiteJsonLd } from "@/lib/seo";
 
@@ -16,57 +7,65 @@ export const metadata: Metadata = {
   alternates: { canonical: `${SITE_URL}/` },
 };
 
-function formatDateline(date: string): string {
-  return new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
-    weekday: "long",
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  });
-}
+const LEVELS: { label: string; color: string }[] = [
+  { label: "A1", color: "var(--level-a1)" },
+  { label: "A2", color: "var(--level-a2)" },
+  { label: "B1", color: "var(--level-b1)" },
+  { label: "B2", color: "var(--level-b2)" },
+  { label: "C1", color: "var(--level-c1)" },
+  { label: "C2", color: "var(--level-c2)" },
+];
 
 export default function Home() {
-  const news = getIndex().slice(0, 2);
-  const art = getArtIndex().slice(0, 2);
-  const film = getFilmIndex().slice(0, 2);
-  const book = getBookIndex().slice(0, 2);
-  const quote = getQuoteIndex().slice(0, 2);
-  const history = getHistoryIndex().slice(0, 2);
-
-  if (!news.length && !art.length && !film.length && !book.length && !quote.length && !history.length) {
-    return (
-      <p className="rounded-lg border border-dashed border-border p-10 text-center text-muted-foreground">
-        Nothing on the desk yet — the daily pipelines will leave the first
-        pages soon.
-      </p>
-    );
-  }
-
   return (
-    <>
+    <div>
       <JsonLd data={webSiteJsonLd()} />
-      {/* Every page needs one real h1 for SEO/a11y; the hand-note below is
-          decorative, so the crawlable title lives here instead, visually hidden. */}
-      <h1 className="sr-only">
-        Any Text in Levels — daily news, art &amp; stories at your level (CEFR A1–C2)
-      </h1>
-      {/* What this place is, jotted at the top of the page in pencil. */}
+
+      <PageIntro title="AnyText">
+        real news, art, film, books &amp; history — rewritten{" "}
+        <Highlight>at your level</Highlight>, every day
+      </PageIntro>
+
+      <div className="space-y-6 text-[17px] leading-relaxed" style={{ fontFamily: "var(--font-literata)" }}>
+        <p>
+          AnyText is an iPhone app for learning a language by reading things
+          worth reading. Every day it takes real material — a news story, a
+          painting, a film, a book, a quote, a moment from history — and
+          rewrites it at six CEFR levels, from complete beginner (A1) to
+          fluent (C2). Tap any word to see what it means in your own
+          language.
+        </p>
+        <p>
+          Alongside the daily pages: a growing library of classic novels
+          reworked at every level, and a feed of short videos with synced,
+          tappable subtitles. Save words as you go and review them with
+          spaced repetition.
+        </p>
+        <p>
+          Available in Turkish, English, French, Italian, Spanish, German
+          and Dutch.
+        </p>
+      </div>
+
+      <div className="mt-10 flex justify-center gap-3">
+        {LEVELS.map(({ label, color }) => (
+          <div
+            key={label}
+            aria-hidden
+            className="flex size-11 items-center justify-center rounded-full font-mono text-xs font-semibold"
+            style={{ background: color, color: "var(--on-primary)" }}
+          >
+            {label}
+          </div>
+        ))}
+      </div>
+
       <p
-        className="hand-note mx-auto mb-7 max-w-xl rotate-[-0.6deg] text-center"
-        style={{ fontSize: "clamp(1.2rem, 0.5rem + 1.1vw, 1.45rem)" }}
+        className="hand-note mt-8 rotate-[-0.4deg] text-center"
+        style={{ fontSize: "1.35rem" }}
       >
-        real news, art, film &amp; history — every day, rewritten{" "}
-        <Highlight>at your level</Highlight>, from A1 to C2
+        Coming soon to the App Store.
       </p>
-      <TodayDesk
-        news={news}
-        art={art}
-        film={film}
-        book={book}
-        quote={quote}
-        history={history}
-        dateline={news[0] ? formatDateline(news[0].date) : undefined}
-      />
-    </>
+    </div>
   );
 }

@@ -4,99 +4,42 @@ tags: []
 
 ---
 
-# Any Text in Levels
+# AnyText — tanıtım sitesi
 
 **Canlı:** https://anytext.art
 
-Gerçek haberlerle dil öğrenme uygulaması. Her gün 3 gerçek haber çekilir ve OpenAI ile
-**İngilizce, Almanca, Fransızca ve Türkçe** dillerinde **A1–C2** CEFR seviyelerine
-uyarlanır — her seviye için kelime listesi ve kategori etiketiyle birlikte. Makale
-sayfasındaki **Compare** düğmesi aynı haberi iki seviyede veya iki dilde yan yana açar.
+Bu site artık bir içerik ürünü değil — **AnyText iOS uygulamasının** basit bir
+tanıtım/karşılama sayfası. Site eskiden kendi başına günlük haber/sanat/film/kitap/
+alıntı/tarih içeriği üreten bağımsız bir okuma ürünüydü (GitHub Actions + OpenAI ile);
+o ürün artık AnyText'in kendisi (ayrı bir repo, `mobile/`), bu yüzden üretim hattı ve
+tüm o içerik sayfaları kaldırıldı.
 
-Üç köşe var, hepsi aynı seviye/dil mantığını paylaşır:
+Sitede üç sayfa var:
 
-- **News** — her gün BBC'den 3 gerçek haber.
-- **Daily Art** — The Met'in açık erişim koleksiyonundan kamu malı bir tablo; model tabloya
-  *bakarak* (görsel girdiyle) analiz yazar.
-- **Quotes** — Wikiquote'tan klasik bir yazar/şairin gerçek bir sözü; yazarın serbest
-  lisanslı Wikipedia portresiyle, seviyeli çeviri ve kısa açıklamayla.
-- **On This Day** — Wikipedia'nın "on this day" beslemesinden o güne ait bir tarihsel olay,
-  mümkünse serbest lisanslı bir görselle.
+- **`/`** — uygulamanın tanıtım metni ("coming soon", App Store bağlantısı henüz yok).
+- **`/privacy/`** — gizlilik politikası, 7 dilde (tr/en/fr/it/es/de/nl) — Apple App Store
+  incelemesi için gerekli.
+- **`/support/`** — destek sayfası, aynı 7 dilde — abonelik yönetimi, hesap silme, hata
+  bildirimi gibi soruların cevabı.
+
+Gizlilik/destek içeriği `app/privacy/content.ts` ve `app/support/content.ts`'te yaşıyor;
+dil seçici (`components/LegalLanguagePicker.tsx`) sayfa içi, URL değişmiyor.
 
 ## Mimari
 
-```
-BBC RSS ──► pipeline/fetch-news.mjs ──► OpenAI (dil × seviye) ──► data/*.json
-                    ▲                                                │
-        GitHub Actions (her gün 05:00 UTC)                           ▼
-                                              Next.js (Vercel) ──► push'ta otomatik deploy
-```
-
-- **`pipeline/fetch-news.mjs`** — RSS'ten haber seçer, tam metni çıkarır, her dil için
-  tek OpenAI çağrısıyla 6 seviyeyi ve kelime listelerini üretir (haber başına 3 çağrı).
-- **`data/`** — üretilen makaleler (`articles/*.json`), liste (`index.json`) ve
-  işlenmiş URL kaydı (`processed.json`). Actions bunları repoya commit eder.
-- **`app/`** — Next.js (Vercel'de sunulur). İçerik veriden SSG ile üretilir; bir bölüm
-  boşken bile site sorunsuz build olur. Dil ve seviye seçimi tarayıcıda anında değişir,
-  tercihler localStorage'da saklanır.
-- **`pipeline/fetch-art.mjs`** — The Met Open Access API'sinden rastgele kamu malı bir
-  tablo seçer, sanatçının Wikipedia özetiyle zemin hazırlar ve görseli modele gösterip
-  seviyeli analiz üretir (`data/art/*.json`, `data/art-index.json`).
-- **`pipeline/fetch-quote.mjs`** — Wikiquote'tan bir yazarın gerçek sözünü çeker, Wikipedia
-  portresi ve özetiyle zemin hazırlar, seviyeli çeviri + açıklama üretir (`data/quotes/*.json`).
-- **`pipeline/fetch-history.mjs`** — Wikipedia "on this day" beslemesinden o güne ait bir
-  olay seçer, seviyeli kapsül yazar (`data/history/*.json`).
-- **`pipeline/leveler.mjs`** — paylaşılan seviyeleme çağrısı (news/art/quote/history) ve
-  kategori sınıflandırıcı. Her seviye için 3 çoktan seçmeli anlama sorusu da üretir
-  (`questions`); site, sorusu olan içerikte metnin altında "Comprehension check" gösterir
-  (eski içerikte soru yoksa bölüm görünmez).
-- **PWA** — site telefona kurulabilir (Safari/Chrome → "Ana Ekrana Ekle"): `app/manifest.ts`
-  + `public/sw.js` (service worker; sayfalar network-first, hash'li asset'ler cache-first,
-  gerisi stale-while-revalidate — eski cache yeni günlük içeriği asla gizleyemez) +
-  `public/offline.html`. Daha önce okunan sayfalar çevrimdışı da açılır. SW sürümü
-  `sw.js` içindeki `VERSION` ile döner.
-- **SEO** — her içeriğin Almanca/Fransızca/İspanyolca sürümü kendi URL'inde yaşar
-  (`/article/<id>/de/` gibi) ve `hreflang` etiketleriyle birbirine bağlanır; tüm içerik
-  sayfalarında JSON-LD (Article/NewsArticle + BreadcrumbList), sitemap'te dil alternatifleri,
-  `/feed.xml` RSS beslemesi ve `/about` sayfası vardır. Paylaşılan mantık `lib/seo.ts` ve
-  `components/ArticlePage.tsx` içinde.
-- **`.github/workflows/daily-*.yml`** — dört günlük pipeline (05:00 news, 05:30 art,
-  06:00 history, 06:15 quote; hepsi cron + elle). Her biri commit'ten önce `git pull
-  --rebase` yapar; Vercel push'u görüp siteyi otomatik yeniden yayınlar.
-- **`.github/workflows/backfill.yml`** — elle tetiklenir; tüm eski içeriğe (haber, tablo,
-  tarih, alıntı) eksik bir dili ve eksik kategorileri ekler:
-  **Actions → Backfill language → Run workflow**.
-
-## Kurulum
-
-1. Repo ayarlarında **Settings → Secrets and variables → Actions → New repository secret**:
-   - `OPENAI_API_KEY` = OpenAI API anahtarınız
-2. [vercel.com/new](https://vercel.com/new) adresinden bu GitHub reposunu import edin
-   (framework otomatik algılanır, ek ayar gerekmez).
-3. İlk haberleri hemen üretmek için **Actions → Daily news pipeline → Run workflow**.
+Düz bir Next.js (App Router) sitesi — sunucu tarafında üretim/otomasyon yok, tamamen
+statik. Vercel'e bağlı, `main`'e push'ta otomatik deploy olur. Tasarım dili (Bricolage
+Grotesque + Literata + IBM Plex Mono + Caveat fontları, açık "kağıt"/koyu "kara tahta"
+tema, el yazısı notlar, kırmızı kalem çizimi) `app/globals.css`'teki CSS custom
+property'lerde tanımlı.
 
 ## Yerelde çalıştırma
 
 ```bash
 npm install
 npm run dev            # http://localhost:3000
-
-# Pipeline'ı yerelde denemek için:
-OPENAI_API_KEY=sk-... node pipeline/fetch-news.mjs
 ```
 
-## Ayarlar (ortam değişkenleri)
-
-| Değişken | Varsayılan | Açıklama |
-|---|---|---|
-| `ARTICLES_PER_RUN` | `3` | Çalıştırma başına haber sayısı |
-| `OPENAI_MODEL` | `gpt-4o-mini` | Kullanılacak model |
-| `FEED_URL` | BBC World RSS | Haber kaynağı RSS adresi |
-
-## Maliyet notu
-
-Günde 3 haber × (4 dil + 1 kategori çağrısı) = 15 `gpt-4o-mini` çağrısı ≈ günde
-~70-90 bin token — aylık maliyet genellikle 1-2 doları geçmez.
-
-`data/articles/2026-07-05-*.json` bir demo makaledir; ilk gerçek pipeline
-çalışmasından sonra silebilirsiniz.
+```bash
+npm run build           # prod derleme doğrulaması
+```
