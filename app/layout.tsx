@@ -90,7 +90,7 @@ export default function RootLayout({
               href="/"
               className="flex shrink-0 items-center gap-2 text-lg font-bold tracking-tight"
             >
-              <img src="/icon.svg" alt="" aria-hidden className="size-6" />
+              <img src="/icon.png" alt="" aria-hidden className="size-6" />
               <span className="relative inline-block px-1">
                 <span
                   aria-hidden
