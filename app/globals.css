@@ -21,6 +21,8 @@
   --postit: #fdeb8d;
   --postit-fold: #e8d478;
   --postit-ink: #40391a;
+  --surface-sunken: #f1efe7; /* the clipping's mat — mobile Palette.surfaceSunken */
+  --clipping-shadow: rgba(28, 35, 45, 0.16); /* mobile Elevation.e2 */
 
   --level-a1: #2f7d4f;
   --level-a2: #1e8a70;
@@ -60,6 +62,11 @@
   --postit: #ecd977;
   --postit-fold: #d3bf5e;
   --postit-ink: #3a3416;
+  --surface-sunken: #131a17;
+  /* Deliberately darker than the app's own e2 (0.16): that value is nearly
+   * invisible against this chalkboard background, so the clipping wouldn't
+   * lift off the board. */
+  --clipping-shadow: rgba(0, 0, 0, 0.45);
 
   --level-a1: #5cbf8a;
   --level-a2: #4ec2a5;
@@ -90,6 +97,8 @@
     --postit: #ecd977;
     --postit-fold: #d3bf5e;
     --postit-ink: #3a3416;
+    --surface-sunken: #131a17;
+    --clipping-shadow: rgba(0, 0, 0, 0.45);
 
     --level-a1: #5cbf8a;
     --level-a2: #4ec2a5;
@@ -112,10 +121,12 @@
   --color-on-primary: var(--on-primary);
   --color-margin-red: var(--margin-red);
   --color-rule-blue: var(--rule-blue);
+  --color-surface-sunken: var(--surface-sunken);
   --font-display: var(--font-bricolage);
   --font-serif: var(--font-literata);
   --font-mono: var(--font-plex-mono);
   --font-hand: var(--font-caveat);
+  --font-editorial: var(--font-instrument);
 }
 
 body {
@@ -166,4 +177,19 @@ body {
   font-size: 1.1rem;
   line-height: 1.3;
   color: var(--muted-foreground);
+}
+
+/* Instrument Serif — the editorial masthead face. Regular + Italic only;
+ * there is no bold cut, so `font-weight` never leaves 400 (asking the
+ * browser for 700 fakes a smeared bold instead). Hierarchy comes from size
+ * alone.
+ *
+ * KRİTİK: the family's natural line height is 1.30 × its point size —
+ * anything tighter renders cramped and taller than declared (the iOS app
+ * locks this with a unit test). Never pair `.editorial` with `leading-tight`
+ * or `leading-none`. */
+.editorial {
+  font-family: var(--font-instrument), Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  line-height: 1.3;
 }

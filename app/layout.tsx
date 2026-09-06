@@ -5,32 +5,45 @@ import {
   Literata,
   IBM_Plex_Mono,
   Caveat,
+  Instrument_Serif,
 } from "next/font/google";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from "@/lib/seo";
 import "./globals.css";
 
+// latin-ext on every family: the plain "latin" subset excludes Turkish Ğ/ş/İ,
+// so Turkish copy on /privacy/, /support/ and /story/ was silently falling
+// back to a system font for those glyphs.
 const bricolage = Bricolage_Grotesque({
   variable: "--font-bricolage",
-  subsets: ["latin"],
+  subsets: ["latin", "latin-ext"],
 });
 
 const literata = Literata({
   variable: "--font-literata",
-  subsets: ["latin"],
+  subsets: ["latin", "latin-ext"],
   style: ["normal", "italic"],
 });
 
 const plexMono = IBM_Plex_Mono({
   variable: "--font-plex-mono",
-  subsets: ["latin"],
+  subsets: ["latin", "latin-ext"],
   weight: ["400", "500", "600"],
 });
 
 const caveat = Caveat({
   variable: "--font-caveat",
-  subsets: ["latin"],
+  subsets: ["latin", "latin-ext"],
   weight: ["500", "600"],
+});
+
+// Editorial masthead face, matching the iOS app (ST-74). Regular + Italic
+// only — the family has no bold cut, so hierarchy comes from size alone.
+const instrumentSerif = Instrument_Serif({
+  variable: "--font-instrument",
+  subsets: ["latin", "latin-ext"],
+  weight: "400",
+  style: ["normal", "italic"],
 });
 
 const DEFAULT_TITLE =
@@ -80,27 +93,37 @@ export default function RootLayout({
     <html
       lang="en"
       suppressHydrationWarning
-      className={`${bricolage.variable} ${literata.variable} ${plexMono.variable} ${caveat.variable} h-full antialiased`}
+      className={`${bricolage.variable} ${literata.variable} ${plexMono.variable} ${caveat.variable} ${instrumentSerif.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
         <script dangerouslySetInnerHTML={{ __html: THEME_INIT }} />
         <header className="border-b border-border print:hidden">
           <div className="mx-auto flex max-w-3xl items-center justify-between gap-4 px-4 py-4">
-            <Link
-              href="/"
-              className="flex shrink-0 items-center gap-2 text-lg font-bold tracking-tight"
-            >
-              <img src="/icon.png" alt="" aria-hidden className="size-6" />
-              <span className="relative inline-block px-1">
+            <Link href="/" className="flex shrink-0 items-baseline gap-2">
+              <img
+                src="/icon.png"
+                alt=""
+                aria-hidden
+                className="size-6 self-center"
+              />
+              <span className="editorial relative inline-block px-1 text-[1.4rem]">
                 <span
                   aria-hidden
-                  className="absolute inset-x-0 bottom-0.5 top-1.5 -rotate-1 rounded-sm"
+                  className="absolute inset-x-0 top-[0.34em] bottom-[0.16em] -rotate-1 rounded-sm"
                   style={{ background: "var(--hl-strong)" }}
                 />
                 <span className="relative">AnyText</span>
               </span>
             </Link>
-            <ThemeToggle />
+            <div className="flex items-center gap-4">
+              <Link
+                href="/story/"
+                className="font-mono text-[11px] uppercase tracking-[0.14em] text-muted-foreground underline-offset-[6px] transition-colors hover:text-foreground hover:underline hover:decoration-2 hover:decoration-[var(--margin-red)]"
+              >
+                story
+              </Link>
+              <ThemeToggle />
+            </div>
           </div>
         </header>
         <main className="relative mx-auto w-full max-w-3xl flex-1 bg-background/85 px-4 py-10 shadow-sm sm:border-x sm:border-border sm:px-8 print:bg-transparent print:shadow-none print:sm:border-none">

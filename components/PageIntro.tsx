@@ -18,13 +18,24 @@ export function Highlight({ children }: { children: ReactNode }) {
 export function PageIntro({
   title,
   children,
+  size = "default",
 }: {
   title: string;
   children: ReactNode;
+  /** "display" for the homepage/story mastheads, "default" for privacy/support. */
+  size?: "default" | "display";
 }) {
   return (
     <div className="mb-8">
-      <h1 className="text-2xl font-bold tracking-tight">{title}</h1>
+      <h1
+        className={
+          size === "display"
+            ? "editorial text-[2.5rem] sm:text-[3.25rem]"
+            : "editorial text-[1.75rem] sm:text-[2rem]"
+        }
+      >
+        {title}
+      </h1>
       <p
         className="hand-note mt-1.5 rotate-[-0.4deg]"
         style={{ fontSize: "1.35rem" }}
