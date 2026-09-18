@@ -15,7 +15,10 @@ import { artworkAlt, artworkSrc, artworkSrcSet, type Artwork } from "@/lib/galle
  * Motion, in order of appearance:
  *   1. Entrance — each clipping rises with the onboardingEnter spring, one
  *      every 90 ms, with a temporary ±1.1° tilt that settles to 0 (the app's
- *      `entranceTiltDegrees`); the resting tilt is the Clipping's own.
+ *      `entranceTiltDegrees`); the resting tilt is the Clipping's own. It is
+ *      an in-view animation, not a mount animation: the phone layout is a
+ *      second, display:none copy of the wall at desktop widths, and a mount
+ *      animation would have run (and stalled) while it was invisible.
  *   2. Parallax — as the hero scrolls away the wall drifts down slower than
  *      the page and fans outward from the centre (measured from DailyArt:
  *      ~12% lag, ±30px spread at 400px). Front tiles travel further than
@@ -77,7 +80,8 @@ function WallTile({
     >
       <motion.div
         initial={{ opacity: 0, y: 48, rotate: (index % 2 ? 1 : -1) * 1.1 }}
-        animate={{ opacity: 1, y: 0, rotate: 0 }}
+        whileInView={{ opacity: 1, y: 0, rotate: 0 }}
+        viewport={{ once: true, amount: 0.2 }}
         transition={{ ...ENTER, delay: 0.2 + index * 0.09 }}
         whileHover={{ y: -8, scale: 1.03, transition: { type: "spring", stiffness: 380, damping: 26 } }}
       >

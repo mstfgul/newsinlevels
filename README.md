@@ -16,8 +16,11 @@ tüm o içerik sayfaları kaldırıldı.
 
 Sitede dört sayfa var:
 
-- **`/`** — uygulamanın tanıtım metni ("coming soon", App Store bağlantısı henüz yok),
-  gerçek kamu malı sanat eserlerinden bantlı bir kupür sırasıyla.
+- **`/`** — DailyArt esinli sanatsal ana sayfa (ST-103): Instrument Serif masthead + App Store
+  rozeti + altta 10 eserlik "eser duvarı" (kaydırmaya bağlı parallax, giriş animasyonu, hover,
+  tıklayınca tam ekran görüntüleyici). Açık tema = kağıt masası (bantlı eğik kupürler), koyu tema
+  = tam siyah gece galerisi (aynı kupürler bantsız/düz). Hero'nun altındaki bölümler ST-103B/C ile
+  geliyor (seviye demosu, kelimeye dokunma, sabit telefon, tür ızgarası, dil marquee'si).
 - **`/story/`** — Mustafa'nın kendi sesinden, neden bu uygulamayı yaptığını anlatan kısa
   bir hikaye, 7 dilde (tr/en/fr/it/es/de/nl).
 - **`/privacy/`** — gizlilik politikası, 7 dilde (tr/en/fr/it/es/de/nl) — Apple App Store
@@ -38,7 +41,24 @@ Grotesque + Literata + IBM Plex Mono + Caveat + Instrument Serif fontları, aç�
 eserlerinden bantlı kupürler — `components/Clipping.tsx`) `app/globals.css`'teki CSS
 custom property'lerde tanımlı.
 
+## Galeri (public/gallery)
+
+50 kamu malı eser, `scripts/gallery-list.mjs`'teki küratörlü listeden `scripts/fetch-gallery.mjs`
+ile üretilir: Wikimedia Commons `imageinfo`+`extmetadata` (lisans PD/CC0 değilse reddedilir),
+1600px thumb indirilir, `sharp` ile 640px + 1400px WebP'ye çevrilir, `lib/gallery.ts` manifesti +
+`public/gallery/CREDITS.md` yazılır. `--sheet` kontak sayfası üretir (git'e girmez), `--only id`
+tek eseri yeniler, `--force` yeniden indirir. Havuzdaki (`qid`) eserler için `../mobile/functions/
+pipeline/art-famous-data.js` okunur (`--pool` ile yol değiştirilebilir).
+
+```bash
+PATH=/usr/local/bin:$PATH node scripts/fetch-gallery.mjs --sheet
+```
+
+`APP_STORE_URL` `lib/site.ts`'te — link gelene kadar rozet tıklanmaz.
+
 ## Yerelde çalıştırma
+
+> Bu Mac'te Homebrew node kırık; her komutun önüne `PATH=/usr/local/bin:$PATH` koy (node 22).
 
 ```bash
 npm install
