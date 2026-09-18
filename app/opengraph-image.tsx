@@ -14,7 +14,7 @@ const LEVELS: { label: string; color: string }[] = [
 ];
 
 const TITLE = "AnyText";
-const TAGLINE_LINE_1 = "Real news, art, film, books & history —";
+const TAGLINE_LINE_1 = "A page a day — art, film, books, stories & news —";
 const TAGLINE_LINE_2 = "rewritten at your level, from A1 to C2.";
 const DOMAIN = "anytext.art";
 
@@ -68,7 +68,7 @@ export default async function Image() {
           flexDirection: "column",
           justifyContent: "center",
           padding: "80px 90px",
-          background: "#fcfbf7",
+          background: "#faf5e4",
           fontFamily: "Bricolage Grotesque",
         }}
       >

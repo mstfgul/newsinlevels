@@ -19,8 +19,13 @@ Sitede dört sayfa var:
 - **`/`** — DailyArt esinli sanatsal ana sayfa (ST-103): Instrument Serif masthead + App Store
   rozeti + altta 10 eserlik "eser duvarı" (kaydırmaya bağlı parallax, giriş animasyonu, hover,
   tıklayınca tam ekran görüntüleyici). Açık tema = kağıt masası (bantlı eğik kupürler), koyu tema
-  = tam siyah gece galerisi (aynı kupürler bantsız/düz). Hero'nun altındaki bölümler ST-103B/C ile
-  geliyor (seviye demosu, kelimeye dokunma, sabit telefon, tür ızgarası, dil marquee'si).
+  = tam siyah gece galerisi (aynı kupürler bantsız/düz). Sonra sırayla: seviye merdiveni demosu
+  (`LevelDemo`, görünüme girince A1→C2 otomatik tur), kelimeye dokunma demosu (`WordDemo`, 14 sözlük
+  dili), sabit telefon scrollytelling (`PhoneStory`, `public/demo/` ekran kayıtları açık+koyu), on
+  türlük ızgara (`KindsGrid`), dil marquee'si (`LanguageMarquee`), hikâye teaser'ı, kapanış CTA.
+  Bileşenler `components/home/`, veri `lib/{gallery,languages,demo-glossary,level-samples}.ts`.
+  Animasyon: `motion` (framer-motion'ın devamı) + CSS keyframe'leri; `prefers-reduced-motion`
+  her yerde (MotionProvider `reducedMotion="user"` + globals.css).
 - **`/story/`** — Mustafa'nın kendi sesinden, neden bu uygulamayı yaptığını anlatan kısa
   bir hikaye, 7 dilde (tr/en/fr/it/es/de/nl).
 - **`/privacy/`** — gizlilik politikası, 7 dilde (tr/en/fr/it/es/de/nl) — Apple App Store
@@ -55,6 +60,13 @@ PATH=/usr/local/bin:$PATH node scripts/fetch-gallery.mjs --sheet
 ```
 
 `APP_STORE_URL` `lib/site.ts`'te — link gelene kadar rozet tıklanmaz.
+
+## Demo videoları (public/demo)
+
+`{today,reader,collection}-{light,dark}.mp4` + `.webp` poster. Kaynak: uygulamanın onboarding ekran
+kayıtları (`../mobile/AnyText/AnyText/Resources/Videos/`), ffmpeg ile `scale=-2:1280,fps=30`,
+libx264 crf 27, `+faststart`, sessiz; poster ilk kare (ffmpeg PNG → sharp WebP). Yeni ham iPhone
+kayıtları gelince aynı tarifle değiştirilir; dosya adları sabittir (`PhoneStory` bunlara bakar).
 
 ## Yerelde çalıştırma
 
