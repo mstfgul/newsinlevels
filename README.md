@@ -63,10 +63,21 @@ PATH=/usr/local/bin:$PATH node scripts/fetch-gallery.mjs --sheet
 
 ## Demo videoları (public/demo)
 
-`{today,reader,collection}-{light,dark}.mp4` + `.webp` poster. Kaynak: uygulamanın onboarding ekran
-kayıtları (`../mobile/AnyText/AnyText/Resources/Videos/`), ffmpeg ile `scale=-2:1280,fps=30`,
-libx264 crf 27, `+faststart`, sessiz; poster ilk kare (ffmpeg PNG → sharp WebP). Yeni ham iPhone
-kayıtları gelince aynı tarifle değiştirilir; dosya adları sabittir (`PhoneStory` bunlara bakar).
+`{today,reader,collection}-{light,dark}.mp4` + `.webp` poster (960px). Hepsi Full HD (1920 px
+yükseklik, 30 fps, H.264 crf 26, sessiz, `+faststart`); telefon çerçevesi 9:19.5 olduğundan
+884×1920 ham iPhone 16 kayıtları tam oturur.
+
+- `today` ve `collection`: iOS simülatöründe çekildi (ST-103, 2026-09-18) — uygulama
+  `-uitestCompletedOnboarding -uitestEntitlement premium -readingLang de -nativeLang en -level b1`
+  ile açık, `simctl status_bar … override --time 9:41`, tema `simctl ui … appearance light|dark`,
+  kayıt `xcrun simctl io <udid> recordVideo --codec h264 --force out.mov` (SIGINT ile durur),
+  jestler simülatör MCP aracıyla. Jestler arası bekleme uzun kaldığından
+  `scripts/condense-recording.py in.mov out.mp4 [hold] [tail]` (`freezedetect`) her durağan
+  aralığı en fazla `hold` saniyeye indirir ve 1920'ye ölçekleyerek kodlar.
+- `reader`: Mustafa'nın kendi kaydı (uygulamanın onboarding demosu `onboarding-hook6-translate*.mp4`,
+  `../mobile/AnyText/AnyText/Resources/Videos/`), aynı ffmpeg tarifiyle 1920'ye ölçeklendi.
+
+Poster: `ffmpeg -frames:v 1 -vf scale=-2:960` PNG → sharp WebP q74.
 
 ## Yerelde çalıştırma
 
