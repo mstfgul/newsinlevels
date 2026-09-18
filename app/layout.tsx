@@ -8,6 +8,7 @@ import {
   Instrument_Serif,
 } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
+import { BrandMark } from "@/components/BrandMark";
 import { MotionProvider } from "@/components/MotionProvider";
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from "@/lib/seo";
 import "./globals.css";
@@ -99,11 +100,12 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         <script dangerouslySetInnerHTML={{ __html: THEME_INIT }} />
         <SiteHeader />
-        <main className="flex-1">
+        <main className="flex-1 pt-14">
           <MotionProvider>{children}</MotionProvider>
         </main>
         <footer className="border-t border-border py-6 text-center print:hidden">
-          <div className="flex flex-wrap items-baseline justify-center gap-x-6 gap-y-3">
+          <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-3">
+            <BrandMark size={28} className="rotate-[6deg] opacity-80" />
             <Link
               href="/privacy/"
               className="hand-note inline-flex items-baseline gap-1.5 rotate-[-0.5deg] transition-colors hover:text-foreground"

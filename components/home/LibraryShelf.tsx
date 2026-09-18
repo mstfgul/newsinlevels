@@ -2,6 +2,7 @@
 
 import { motion } from "motion/react";
 import { SectionHeading } from "@/components/home/SectionHeading";
+import { BrandMark } from "@/components/BrandMark";
 import { bookCoverSrc, LIBRARY } from "@/lib/library";
 
 /**
@@ -54,8 +55,11 @@ export function LibraryShelf() {
             </motion.li>
           ))}
         </ul>
-        {/* The shelf itself: a plank with a shadow under its lip. */}
-        <div aria-hidden className="mx-2 h-2.5 rounded-sm bg-border shadow-[0_6px_14px_-4px_var(--clipping-shadow)]" />
+        {/* The shelf itself: a plank with a shadow under its lip, the mark as a bookend. */}
+        <div className="relative mx-2">
+          <div aria-hidden className="h-2.5 rounded-sm bg-border shadow-[0_6px_14px_-4px_var(--clipping-shadow)]" />
+          <BrandMark size={30} className="absolute -top-[30px] right-1 rotate-[8deg] opacity-90" />
+        </div>
       </div>
     </section>
   );

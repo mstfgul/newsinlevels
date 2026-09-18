@@ -31,8 +31,8 @@ export interface PhoneStep {
   kicker: string;
   title: string;
   body: string;
-  /** Two gallery works that keep the step company beside the phone. */
-  art: [string, string];
+  /** Four gallery works that keep the step company around the phone. */
+  art: [string, string, string, string];
 }
 
 const STEPS: readonly PhoneStep[] = [
@@ -41,21 +41,21 @@ const STEPS: readonly PhoneStep[] = [
     kicker: "every morning",
     title: "Today's page, and the painting on it.",
     body: "A painting first — then a film, a book, a story, a quote, the news: one curated page a day, in the language you are learning. Swipe back for yesterday's; nothing is ever lost.",
-    art: ["girl-pearl-earring", "wanderer-fog"],
+    art: ["girl-pearl-earring", "wanderer-fog", "the-kiss", "young-girl-reading"],
   },
   {
     id: "reader",
     kicker: "your level, your words",
     title: "Change the level. Tap a word. Translate a sentence.",
     body: "Too hard? Step down to A2. Too easy? Climb to C1. Tap any word for its meaning, or switch on sentence mode and tap a whole sentence — the painting stays on the page while you read about it.",
-    art: ["woman-parasol", "the-scream"],
+    art: ["woman-parasol", "the-scream", "cafe-terrace", "milkmaid"],
   },
   {
     id: "collection",
     kicker: "keep what you love",
     title: "Favourites, painters, the archive.",
     body: "Tap the heart on a page — or on a painter, a director, a writer — and it waits in Favourites. Every past page stays in the archive, by kind, as a wall of art you have read.",
-    art: ["birth-of-venus", "rousseau-dream"],
+    art: ["birth-of-venus", "rousseau-dream", "grande-jatte", "ophelia"],
   },
 ];
 
@@ -178,13 +178,26 @@ function SideArt({
   );
 }
 
+/** Four clippings per step, in the four corners around the phone. The copy
+ * columns are vertically centred (the middle ~36% of the stage), so the
+ * clippings keep to the top and bottom bands of the stage (top ≤ 4% / ≥ 72%)
+ * and stay narrow enough (≤ 11%) never to reach the columns' text. */
 const SIDE_SLOTS = [
-  { left: "2%", top: "8%", width: "13%", depth: 1, tilt: -2 },
-  { right: "3%", top: "56%", width: "12%", depth: 2, tilt: 1.5 },
-  { right: "1%", top: "6%", width: "13%", depth: 2, tilt: 1.5 },
-  { left: "4%", top: "58%", width: "12%", depth: 1, tilt: -1.5 },
-  { left: "1%", top: "22%", width: "12%", depth: 0, tilt: -2 },
-  { right: "4%", top: "30%", width: "13%", depth: 1, tilt: 2 },
+  // step 0
+  { left: "1%", top: "3%", width: "10%", depth: 1, tilt: -2 },
+  { left: "5%", top: "74%", width: "9%", depth: 2, tilt: 1.5 },
+  { right: "2%", top: "4%", width: "9%", depth: 2, tilt: 1.5 },
+  { right: "4%", top: "72%", width: "11%", depth: 0, tilt: -1.5 },
+  // step 1
+  { left: "4%", top: "4%", width: "9%", depth: 2, tilt: 1.5 },
+  { left: "1%", top: "72%", width: "11%", depth: 0, tilt: -2 },
+  { right: "1%", top: "2%", width: "10%", depth: 1, tilt: -1.5 },
+  { right: "5%", top: "75%", width: "9%", depth: 2, tilt: 2 },
+  // step 2
+  { left: "5%", top: "2%", width: "9%", depth: 2, tilt: -1.5 },
+  { left: "2%", top: "73%", width: "10%", depth: 1, tilt: 2 },
+  { right: "3%", top: "3%", width: "11%", depth: 0, tilt: -2 },
+  { right: "1%", top: "74%", width: "9%", depth: 1, tilt: 1.5 },
 ] as const;
 
 export function PhoneStory() {
@@ -215,22 +228,23 @@ export function PhoneStory() {
   return (
     <section ref={ref} className="relative" style={{ height: `${STEPS.length * 100}svh` }} aria-label="The app, step by step">
       <div className="sticky top-0 flex h-svh flex-col items-center justify-center overflow-hidden px-5">
+        {/* The clippings that keep each step company, placed against the whole
+         * stage (not the phone row) so "top 3%" and "top 73%" are real bands
+         * above and below the vertically centred copy. Desktop only. */}
+        {STEPS.flatMap((s, i) =>
+          s.art.map((id, j) => (
+            <SideArt
+              key={id}
+              artwork={artworkById(id)}
+              index={i}
+              slot={SIDE_SLOTS[i * 4 + j]}
+              screen={screen}
+              progress={scrollYProgress}
+              reduce={reduce}
+            />
+          )),
+        )}
         <div className="relative flex w-full max-w-6xl flex-col items-center gap-8 sm:flex-row sm:justify-center sm:gap-16">
-          {/* The clippings that keep each step company (desktop only). */}
-          {STEPS.flatMap((s, i) =>
-            s.art.map((id, j) => (
-              <SideArt
-                key={id}
-                artwork={artworkById(id)}
-                index={i}
-                slot={SIDE_SLOTS[i * 2 + j]}
-                screen={screen}
-                progress={scrollYProgress}
-                reduce={reduce}
-              />
-            )),
-          )}
-
           {/* Copy. Wide screens: a three-column grid — steps 1 and 3 read on the
            * left of the phone, step 2 on the right — with both side columns always
            * present so the phone never jumps. Phones: all copy under the device. */}

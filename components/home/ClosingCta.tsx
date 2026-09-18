@@ -1,4 +1,5 @@
 import { AppStoreBadge } from "@/components/AppStoreBadge";
+import { BrandMark } from "@/components/BrandMark";
 import { Reveal } from "@/components/Reveal";
 import { artworkById, artworkSrc } from "@/lib/gallery";
 
@@ -19,6 +20,9 @@ export function ClosingCta() {
         />
       </div>
       <Reveal className="mx-auto max-w-2xl text-center">
+        <div className="mb-4 flex justify-center">
+          <BrandMark size={56} className="rotate-[7deg]" />
+        </div>
         <p className="hand-note rotate-[-1deg]" style={{ fontSize: "2rem" }}>
           Learn with art.
         </p>

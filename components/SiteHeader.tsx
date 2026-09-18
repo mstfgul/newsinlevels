@@ -3,36 +3,36 @@
 import Link from "next/link";
 import { useState } from "react";
 import { useMotionValueEvent, useScroll } from "motion/react";
+import { BrandMark } from "@/components/BrandMark";
 import { ThemeToggle } from "@/components/ThemeToggle";
 
 /**
- * The masthead strip. It starts transparent, sitting over the hero, and
- * turns into a paper strip (92% background + hairline) once the reader has
- * scrolled past the first beat — a solid tint, not frosted glass: the design
- * language has no blur except the artwork backdrop.
+ * The masthead — no strip, no border, no box (ST-105: "the bar was crude and
+ * sat on top of the phone"). Just the mark, the name, "story" and the
+ * day/night switch floating over the page. It slides away as soon as the
+ * reader scrolls down and comes back the moment they scroll up, so it is
+ * never in the way of the hero, the phone or a painting.
  */
 export function SiteHeader() {
   const { scrollY } = useScroll();
-  const [scrolled, setScrolled] = useState(false);
-  useMotionValueEvent(scrollY, "change", (y) => setScrolled(y > 24));
+  const [hidden, setHidden] = useState(false);
+  useMotionValueEvent(scrollY, "change", (y) => {
+    const previous = scrollY.getPrevious() ?? 0;
+    if (y < 80) setHidden(false);
+    else if (y > previous + 4) setHidden(true);
+    else if (y < previous - 4) setHidden(false);
+  });
 
   return (
     <header
-      className={`sticky top-0 z-40 transition-colors duration-[var(--m-page)] print:hidden ${
-        scrolled ? "border-b border-border bg-background/92" : "border-b border-transparent bg-transparent"
+      className={`fixed inset-x-0 top-0 z-40 transition-transform duration-[var(--m-page)] ease-out print:hidden ${
+        hidden ? "-translate-y-full" : "translate-y-0"
       }`}
     >
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
-        <Link href="/" className="flex shrink-0 items-baseline gap-2">
-          <img src="/icon.png" alt="" aria-hidden className="size-6 self-center" />
-          <span className="editorial relative inline-block px-1 text-[1.4rem]">
-            <span
-              aria-hidden
-              className="absolute inset-x-0 top-[0.34em] bottom-[0.16em] -rotate-1 rounded-sm"
-              style={{ background: "var(--hl-strong)" }}
-            />
-            <span className="relative">AnyText</span>
-          </span>
+        <Link href="/" className="flex shrink-0 items-center gap-2.5" aria-label="AnyText — home">
+          <BrandMark size={34} decorative={false} className="rotate-[-4deg]" />
+          <span className="editorial text-[1.45rem]">AnyText</span>
         </Link>
         <div className="flex items-center gap-4">
           <Link

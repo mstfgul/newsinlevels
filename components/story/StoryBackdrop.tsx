@@ -23,7 +23,7 @@ export function StoryBackdrop() {
   const tiles = Array.from({ length: 24 }, (_, i) => artworkById(IDS[i % IDS.length]));
   return (
     <div aria-hidden className="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
-      <motion.div style={{ y }} className="grid grid-cols-3 gap-2 opacity-[0.07] dark:opacity-[0.12] sm:grid-cols-4 lg:grid-cols-6">
+      <motion.div style={{ y }} className="grid grid-cols-3 gap-2 opacity-[0.09] dark:opacity-[0.14] sm:grid-cols-4 lg:grid-cols-6">
         {tiles.map((a, i) => (
           <img key={i} src={artworkSrc(a, 640)} alt="" loading="lazy" decoding="async" className="aspect-square w-full object-cover" />
         ))}

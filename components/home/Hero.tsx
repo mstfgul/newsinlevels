@@ -1,4 +1,5 @@
 import { AppStoreBadge } from "@/components/AppStoreBadge";
+import { BrandMark } from "@/components/BrandMark";
 import { ArtWall } from "@/components/home/ArtWall";
 import { artworkSrc, GALLERY } from "@/lib/gallery";
 
@@ -29,7 +30,14 @@ export function Hero() {
         />
       </div>
 
+      {/* The mark, twice: a faint, tilted watermark behind the headline, and the stamp itself above it. */}
+      <div aria-hidden className="pointer-events-none absolute left-1/2 top-2 -z-10 -translate-x-1/2 rotate-[-9deg] opacity-[0.06] dark:opacity-[0.09]">
+        <BrandMark size={520} />
+      </div>
       <div className="mx-auto max-w-4xl px-5 text-center">
+        <div className="rise mx-auto mb-5 flex justify-center" style={{ animationDelay: "0ms" }}>
+          <BrandMark size={64} className="rotate-[-6deg] drop-shadow-[0_6px_14px_rgba(0,0,0,0.12)]" />
+        </div>
         <p className="rise font-mono text-[11px] uppercase tracking-[0.16em] text-muted-foreground" style={{ animationDelay: "60ms" }}>
           an iPhone app · learn a language through art
         </p>

@@ -8,6 +8,8 @@ import { artworkAlt, artworkById, artworkSrc, artworkSrcSet } from "@/lib/galler
 export function StoryTeaser() {
   const vermeer = artworkById("woman-reading-letter");
   const copy = STORY_CONTENT.en;
+  const epigraph = copy.blocks.find((b) => b.type === "quote");
+  const quote = epigraph && epigraph.type === "quote" ? epigraph : null;
   return (
     <section className="mx-auto max-w-4xl px-5 py-20 sm:py-28">
       <div className="flex flex-col items-center gap-10 sm:flex-row sm:items-center sm:gap-14">
@@ -25,7 +27,10 @@ export function StoryTeaser() {
         </Reveal>
         <Reveal delay={0.1} className="text-center sm:text-left">
           <p className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted-foreground">why art, why now</p>
-          <blockquote className="pull-quote editorial mt-4 text-[1.6rem] italic sm:text-[2rem]">{copy.pullQuote}</blockquote>
+          <blockquote className="pull-quote editorial mt-4 text-[1.6rem] italic sm:text-[2rem]">{quote?.text}</blockquote>
+          {quote && (
+            <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.16em] text-muted-foreground">— {quote.cite}</p>
+          )}
           <Link
             href="/story/"
             className="editorial mt-6 inline-block text-[1.35rem] underline decoration-2 decoration-[var(--margin-red)] underline-offset-[6px] transition-colors hover:text-primary"
