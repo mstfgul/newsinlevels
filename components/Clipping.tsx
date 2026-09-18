@@ -35,6 +35,7 @@ export function Clipping({
   aspect,
   variant = "taped",
   priority = false,
+  zoomOnHover = false,
   className = "",
 }: {
   src: string;
@@ -57,6 +58,8 @@ export function Clipping({
   variant?: "taped" | "frame";
   /** Above the fold: load eagerly instead of lazily. */
   priority?: boolean;
+  /** Inside a `group`: the image eases in a little closer under the pointer. */
+  zoomOnHover?: boolean;
   /** Caller owns the width, e.g. "w-[8.5rem] sm:w-[12.5rem]". */
   className?: string;
 }) {
@@ -72,7 +75,7 @@ export function Clipping({
           } as CSSProperties
         }
       >
-        <div className="bg-surface-sunken">
+        <div className={`bg-surface-sunken ${zoomOnHover ? "overflow-hidden" : ""}`}>
           <img
             src={src}
             srcSet={srcSet}
@@ -84,9 +87,9 @@ export function Clipping({
             loading={priority ? "eager" : "lazy"}
             fetchPriority={priority ? "high" : undefined}
             decoding="async"
-            className={
-              aspect ? "block h-full w-full object-cover" : "block h-auto w-full"
-            }
+            className={`${aspect ? "block h-full w-full object-cover" : "block h-auto w-full"} ${
+              zoomOnHover ? "transition-transform duration-700 ease-out group-hover:scale-[1.06]" : ""
+            }`}
             style={aspect ? { aspectRatio: aspect } : undefined}
           />
         </div>

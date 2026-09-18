@@ -70,10 +70,16 @@ export function KindsGrid() {
                     height={a.h640}
                     aspect="4/3"
                     variant="frame"
+                    zoomOnHover
                   />
                 </motion.div>
               </button>
-              <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.16em] text-margin-red">{kind}</p>
+              <p className="mt-3 font-mono text-[10px] uppercase tracking-[0.16em] text-margin-red">
+                <span className="relative inline-block">
+                  {kind}
+                  <span aria-hidden className="absolute -bottom-0.5 left-0 h-px w-full origin-left scale-x-0 bg-margin-red transition-transform duration-[var(--m-draw)] ease-out group-hover:scale-x-100" />
+                </span>
+              </p>
               <p className="mt-1 text-[14px] leading-relaxed text-muted-foreground">{body}</p>
             </motion.li>
           );

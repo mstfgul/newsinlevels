@@ -78,12 +78,22 @@ export function StoryQuote({ text, cite }: { text: string; cite: string }) {
   const reduce = useReducedMotion() ?? false;
   const words = text.split(" ");
   return (
+    <>
+    {/* The red pen rules a short line across the page before each epigraph. */}
+    <motion.span
+      aria-hidden
+      className="mx-auto mt-10 block h-[2px] w-24 origin-left bg-margin-red"
+      initial={{ scaleX: 0 }}
+      whileInView={{ scaleX: 1 }}
+      viewport={{ once: true, amount: 1 }}
+      transition={{ duration: 0.42, ease: "easeOut" }}
+    />
     <motion.figure
       initial={{ opacity: 0, y: 24, rotate: -1.2 }}
       whileInView={{ opacity: 1, y: 0, rotate: -0.6 }}
       viewport={{ once: true, amount: 0.5 }}
       transition={SPRING}
-      className="relative my-12 border border-border bg-card px-6 pb-6 pt-8 text-center shadow-[0_8px_20px_var(--clipping-shadow)] sm:px-10"
+      className="relative mb-12 mt-5 border border-border bg-card px-6 pb-6 pt-8 text-center shadow-[0_8px_20px_var(--clipping-shadow)] sm:px-10"
     >
       <span aria-hidden className="absolute left-[-14px] top-[-5px] h-4 w-[46px] -rotate-[35deg]" style={{ background: "var(--tape)" }} />
       <span aria-hidden className="absolute right-[-14px] top-[-5px] h-4 w-[46px] rotate-[35deg]" style={{ background: "var(--tape)" }} />
@@ -110,6 +120,7 @@ export function StoryQuote({ text, cite }: { text: string; cite: string }) {
         {cite}
       </figcaption>
     </motion.figure>
+    </>
   );
 }
 

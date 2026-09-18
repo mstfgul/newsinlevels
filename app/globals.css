@@ -327,6 +327,23 @@ mark.vocab {
   }
 }
 
+/* The story's collage backdrop drifts sideways on its own — slow enough to
+ * be felt rather than seen (one sweep a minute). */
+.backdrop-drift {
+  width: 108%;
+  margin-left: -4%;
+  animation: backdrop-drift 90s ease-in-out infinite alternate;
+}
+
+@keyframes backdrop-drift {
+  from {
+    transform: translateX(-2%);
+  }
+  to {
+    transform: translateX(2%);
+  }
+}
+
 /* A quote of the day, set as a large pull-quote with a big opening mark. */
 .pull-quote {
   position: relative;
@@ -360,6 +377,9 @@ mark.vocab {
     animation: none;
     width: auto;
     flex-wrap: wrap;
+  }
+  .backdrop-drift {
+    animation: none;
   }
 }
 

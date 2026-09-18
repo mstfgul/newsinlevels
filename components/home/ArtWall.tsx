@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useState } from "react";
-import { motion, useScroll, useTransform, type MotionValue } from "motion/react";
+import { motion, useMotionValue, useReducedMotion, useScroll, useTransform, type MotionValue } from "motion/react";
 import { Clipping } from "@/components/Clipping";
 import { ArtViewer } from "@/components/home/ArtViewer";
 import { artworkAlt, artworkSrc, artworkSrcSet, type Artwork } from "@/lib/gallery";
@@ -22,7 +22,8 @@ import { artworkAlt, artworkSrc, artworkSrcSet, type Artwork } from "@/lib/galle
  *   2. Parallax — as the hero scrolls away the wall drifts down slower than
  *      the page and fans outward from the centre (measured from DailyArt:
  *      ~12% lag, ±30px spread at 400px). Front tiles travel further than
- *      back ones, which is what makes it read as depth.
+ *      back ones, which is what makes it read as depth. With a mouse, the
+ *      tiles also lean a few pixels toward the cursor, front ones most.
  *   3. Hover — the clipping lifts and its caption appears.
  *   4. Click — it grows into the full-screen ArtViewer (shared layoutId).
  * Under reduced motion MotionConfig turns 1–3 into opacity only.
@@ -47,6 +48,7 @@ function WallTile({
   artwork,
   index,
   progress,
+  pointer,
   slot,
   onSelect,
   className = "",
@@ -55,6 +57,8 @@ function WallTile({
   artwork: Artwork;
   index: number;
   progress: MotionValue<number>;
+  /** Pointer position over the hero, −1…1 on both axes (0,0 when it leaves). */
+  pointer: { x: MotionValue<number>; y: MotionValue<number> };
   slot?: (typeof SLOTS)[number];
   onSelect: (a: Artwork) => void;
   className?: string;
@@ -65,8 +69,12 @@ function WallTile({
   // Page scroll in px → drift. The wall sits in the first viewport, so the
   // drift starts from the very first scrolled pixel (as DailyArt's does) and
   // is complete once the reader has moved 600px down.
-  const y = useTransform(progress, [0, 600], [0, parallax ? 30 + (2 - depth) * 25 : 0]);
-  const x = useTransform(progress, [0, 600], [0, parallax ? centre * 36 : 0]);
+  const scrollY = useTransform(progress, [0, 600], [0, parallax ? 30 + (2 - depth) * 25 : 0]);
+  const scrollX = useTransform(progress, [0, 600], [0, parallax ? centre * 36 : 0]);
+  // Pointer parallax: the front tiles lean furthest toward the cursor.
+  const lean = parallax ? (3 - depth) * 5 : 0;
+  const x = useTransform(() => scrollX.get() + pointer.x.get() * lean);
+  const y = useTransform(() => scrollY.get() + pointer.y.get() * lean * 0.6);
   const zIndex = 30 - depth * 10;
 
   return (
@@ -117,17 +125,31 @@ function WallTile({
 
 export function ArtWall({ artworks }: { artworks: Artwork[] }) {
   const { scrollY } = useScroll();
+  const reduce = useReducedMotion() ?? false;
+  const pointerX = useMotionValue(0);
+  const pointerY = useMotionValue(0);
+  const pointer = { x: pointerX, y: pointerY };
+  const onPointerMove = (e: React.PointerEvent<HTMLDivElement>) => {
+    if (reduce || e.pointerType !== "mouse") return;
+    const r = e.currentTarget.getBoundingClientRect();
+    pointerX.set(((e.clientX - r.left) / r.width) * 2 - 1);
+    pointerY.set(((e.clientY - r.top) / r.height) * 2 - 1);
+  };
+  const onPointerLeave = () => {
+    pointerX.set(0);
+    pointerY.set(0);
+  };
   const [selected, setSelected] = useState<Artwork | null>(null);
   const close = useCallback(() => setSelected(null), []);
   const desktop = artworks.slice(0, SLOTS.length);
   const mobile = artworks.slice(0, 6);
 
   return (
-    <div>
+    <div onPointerMove={onPointerMove} onPointerLeave={onPointerLeave}>
       {/* Desktop: the fanned pile, absolutely placed along the bottom edge. */}
       <div className="relative mx-auto hidden h-[38vw] max-h-[480px] min-h-[320px] w-full max-w-[1400px] sm:block">
         {desktop.map((a, i) => (
-          <WallTile key={a.id} artwork={a} index={i} slot={SLOTS[i]} progress={scrollY} onSelect={setSelected} parallax />
+          <WallTile key={a.id} artwork={a} index={i} slot={SLOTS[i]} progress={scrollY} pointer={pointer} onSelect={setSelected} parallax />
         ))}
       </div>
       {/* Phones: two rows of three, still tilted, no parallax. */}
@@ -138,6 +160,7 @@ export function ArtWall({ artworks }: { artworks: Artwork[] }) {
             artwork={a}
             index={i}
             progress={scrollY}
+            pointer={pointer}
             onSelect={setSelected}
             parallax={false}
             className="w-[27%]"

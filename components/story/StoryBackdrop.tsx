@@ -7,7 +7,8 @@ import { artworkById, artworkSrc } from "@/lib/gallery";
  * A faint contact sheet of gallery works behind the story — the desk under
  * the letter. Fixed, non-interactive, very low opacity (a little stronger
  * at night, where paper texture is gone), sliding up at a tenth of the
- * scroll so the page seems to float over it. The works are the story's own
+ * scroll so the page seems to float over it, and drifting sideways on its
+ * own, very slowly (globals.css `.backdrop-drift`). The works are the story's own
  * six plus four more, so most tiles reuse images the page already loads.
  */
 const IDS = [
@@ -23,7 +24,7 @@ export function StoryBackdrop() {
   const tiles = Array.from({ length: 24 }, (_, i) => artworkById(IDS[i % IDS.length]));
   return (
     <div aria-hidden className="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
-      <motion.div style={{ y }} className="grid grid-cols-3 gap-2 opacity-[0.09] dark:opacity-[0.14] sm:grid-cols-4 lg:grid-cols-6">
+      <motion.div style={{ y }} className="backdrop-drift grid grid-cols-3 gap-2 opacity-[0.09] dark:opacity-[0.14] sm:grid-cols-4 lg:grid-cols-6">
         {tiles.map((a, i) => (
           <img key={i} src={artworkSrc(a, 640)} alt="" loading="lazy" decoding="async" className="aspect-square w-full object-cover" />
         ))}

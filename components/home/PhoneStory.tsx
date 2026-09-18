@@ -119,7 +119,7 @@ function StepCopy({ step, index, screen, reduce }: { step: PhoneStep; index: num
     <motion.div style={{ opacity, y }} className="absolute inset-0" aria-hidden={false}>
       <p className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted-foreground">{step.kicker}</p>
       <h2 className="editorial mt-3 text-[clamp(1.6rem,3.3vw,2.5rem)]">{step.title}</h2>
-      <p className="mt-4 text-[15px] leading-relaxed text-muted-foreground sm:text-[17px]">{step.body}</p>
+      <p data-copy-end className="mt-4 text-[15px] leading-relaxed text-muted-foreground sm:text-[17px]">{step.body}</p>
     </motion.div>
   );
 }
@@ -139,13 +139,34 @@ function StepDots({ step, className }: { step: number; className: string }) {
   );
 }
 
-/** A gallery clipping beside the phone: appears with its step, drifts with depth. */
+const clamp01 = (v: number) => Math.max(0, Math.min(1, v));
+const pct = (v: string) => parseFloat(v) / 100;
+
+/** Minimum clearance between a clipping and the copy's text, in px — covers
+ * the ±14px the visible copy drifts while its step fades in or out. */
+const COPY_GAP = 20;
+
+type Stage = { w: number; h: number; copyTop: number; copyBottom: number };
+
+/**
+ * A gallery clipping beside the phone. Each one lives *behind* the phone
+ * until its step comes: as the step's presence rises it slides straight up
+ * (or down) out from behind the device into the top or bottom band, then
+ * sideways along that band to its corner — vertical first, then horizontal,
+ * so the path never crosses the copy columns in the middle band. When the
+ * step passes it retreats the same way. Geometry is measured against the
+ * stage (the sticky viewport-high box) each time it resizes, and each band
+ * is pushed away from the copy's measured extent — the body text overflows
+ * its fixed-height column, so a bare stage percentage would meet it on
+ * short viewports.
+ */
 function SideArt({
   artwork,
   index,
   slot,
   screen,
   progress,
+  stage,
   reduce,
 }: {
   artwork: Artwork;
@@ -153,17 +174,48 @@ function SideArt({
   slot: { left?: string; right?: string; top: string; width: string; depth: number; tilt: number };
   screen: MotionValue<number>;
   progress: MotionValue<number>;
+  stage: Stage;
   reduce: boolean;
 }) {
-  const opacity = useTransform(screen, (s) => presence(s, index));
-  const rise = useTransform(screen, (s) => (reduce ? 0 : (1 - presence(s, index)) * 40));
-  const drift = useTransform(progress, [0, 1], [0, reduce ? 0 : -(30 + slot.depth * 30)]);
+  const geometry = useRef({ dx: 0, dy: 0 });
+  const [top, setTop] = useState<number | null>(null);
+  useEffect(() => {
+    if (!stage.w || !stage.h) return;
+    const w = stage.w * pct(slot.width);
+    const h = w * (artwork.h640 / artwork.w640) + 34; // frame padding + tape
+    const x0 = slot.left !== undefined ? stage.w * pct(slot.left) : stage.w - stage.w * pct(slot.right ?? "0") - w;
+    const wanted = stage.h * pct(slot.top);
+    // Top band: the clipping's bottom edge stays above the kicker; bottom
+    // band: its top edge stays below the longest body. Cropping at the stage
+    // edge on a very short viewport is preferable to covering the words.
+    const y0 = pct(slot.top) < 0.5 ? Math.min(wanted, stage.copyTop - COPY_GAP - h) : Math.max(wanted, stage.copyBottom + COPY_GAP);
+    geometry.current = { dx: stage.w / 2 - (x0 + w / 2), dy: stage.h / 2 - (y0 + h / 2) };
+    setTop(y0);
+    screen.set(screen.get()); // re-evaluate the transforms below with the new geometry
+  }, [stage, slot, artwork, screen]);
+
+  const opacity = useTransform(screen, (s) => clamp01(presence(s, index) * 3));
+  const x = useTransform(screen, (s) => {
+    if (reduce) return 0;
+    const t = presence(s, index);
+    return geometry.current.dx * (1 - clamp01((t - 0.5) * 2));
+  });
+  const rise = useTransform(screen, (s) => {
+    if (reduce) return 0;
+    const t = presence(s, index);
+    return geometry.current.dy * (1 - clamp01(t * 2));
+  });
+  // Slow parallax over the whole section, always *away* from the copy in the
+  // middle: the top band lifts, the bottom band sinks.
+  const away = pct(slot.top) < 0.5 ? -1 : 1;
+  const drift = useTransform(progress, [0, 1], [0, reduce ? 0 : away * (10 + slot.depth * 10)]);
   const y = useTransform(() => rise.get() + drift.get());
+  const scale = useTransform(screen, (s) => (reduce ? 1 : 0.6 + 0.4 * presence(s, index)));
   return (
     <motion.div
       aria-hidden
       className="pointer-events-none absolute hidden sm:block"
-      style={{ left: slot.left, right: slot.right, top: slot.top, width: slot.width, opacity, y, zIndex: 5 - slot.depth }}
+      style={{ left: slot.left, right: slot.right, top: top ?? slot.top, width: slot.width, opacity, x, y, scale, zIndex: 3 - slot.depth }}
     >
       <Clipping
         src={artworkSrc(artwork, 640)}
@@ -179,9 +231,10 @@ function SideArt({
 }
 
 /** Four clippings per step, in the four corners around the phone. The copy
- * columns are vertically centred (the middle ~36% of the stage), so the
- * clippings keep to the top and bottom bands of the stage (top ≤ 4% / ≥ 72%)
- * and stay narrow enough (≤ 11%) never to reach the columns' text. */
+ * columns are vertically centred, so the clippings keep to the top and
+ * bottom bands of the stage (top ≤ 4% / ≥ 72% — SideArt pushes a band
+ * further out when the measured copy would reach it) and stay narrow
+ * enough (≤ 11%) never to reach the columns' text sideways. */
 const SIDE_SLOTS = [
   // step 0
   { left: "1%", top: "3%", width: "10%", depth: 1, tilt: -2 },
@@ -202,6 +255,36 @@ const SIDE_SLOTS = [
 
 export function PhoneStory() {
   const ref = useRef<HTMLElement>(null);
+  const stageRef = useRef<HTMLDivElement>(null);
+  const [stage, setStage] = useState<Stage>({ w: 0, h: 0, copyTop: 0, copyBottom: 0 });
+  useEffect(() => {
+    const el = stageRef.current;
+    if (!el) return;
+    const measure = () => {
+      // Percent offsets of the absolutely positioned clippings resolve against
+      // the stage's padding box, so measure that (not the content box).
+      const w = el.clientWidth;
+      const h = el.clientHeight;
+      const stageTop = el.getBoundingClientRect().top;
+      let copyTop = Infinity;
+      let copyBottom = 0;
+      el.querySelectorAll<HTMLElement>("[data-copy]").forEach((col) => {
+        const r = col.getBoundingClientRect();
+        if (!r.height) return; // display:none on phones
+        copyTop = Math.min(copyTop, r.top - stageTop);
+        // Bodies overflow the fixed-height column; offsetTop ignores the
+        // copy's fade-in transform, so this is the layout extent.
+        col.querySelectorAll<HTMLElement>("[data-copy-end]").forEach((p) => {
+          copyBottom = Math.max(copyBottom, r.top - stageTop + p.offsetTop + p.offsetHeight);
+        });
+      });
+      setStage({ w, h, copyTop: Number.isFinite(copyTop) ? copyTop : h / 2, copyBottom: copyBottom || h / 2 });
+    };
+    const ro = new ResizeObserver(measure);
+    ro.observe(el);
+    el.querySelectorAll<HTMLElement>("[data-copy-end]").forEach((p) => ro.observe(p)); // fonts/reflow change the copy's height
+    return () => ro.disconnect();
+  }, []);
   const reduce = useReducedMotion() ?? false;
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start start", "end end"] });
 
@@ -227,10 +310,9 @@ export function PhoneStory() {
 
   return (
     <section ref={ref} className="relative" style={{ height: `${STEPS.length * 100}svh` }} aria-label="The app, step by step">
-      <div className="sticky top-0 flex h-svh flex-col items-center justify-center overflow-hidden px-5">
-        {/* The clippings that keep each step company, placed against the whole
-         * stage (not the phone row) so "top 3%" and "top 73%" are real bands
-         * above and below the vertically centred copy. Desktop only. */}
+      <div ref={stageRef} className="sticky top-0 flex h-svh flex-col items-center justify-center overflow-hidden px-5">
+        {/* The clippings that keep each step company: they emerge from behind
+         * the phone into the stage's top/bottom bands (see SideArt). Desktop only. */}
         {STEPS.flatMap((s, i) =>
           s.art.map((id, j) => (
             <SideArt
@@ -240,6 +322,7 @@ export function PhoneStory() {
               slot={SIDE_SLOTS[i * 4 + j]}
               screen={screen}
               progress={scrollYProgress}
+              stage={stage}
               reduce={reduce}
             />
           )),
@@ -254,14 +337,14 @@ export function PhoneStory() {
             ))}
             <StepDots step={step} className="absolute -bottom-2 left-0 right-0 flex justify-center gap-2" />
           </div>
-          <div className="relative hidden h-[18rem] w-[34%] text-left sm:block">
+          <div data-copy className="relative hidden h-[18rem] w-[34%] text-left sm:block">
             <StepCopy step={STEPS[0]} index={0} screen={screen} reduce={reduce} />
             <StepCopy step={STEPS[2]} index={2} screen={screen} reduce={reduce} />
             <StepDots step={step} className="absolute -bottom-2 left-0 flex gap-2" />
           </div>
 
           <div className="relative order-1 flex items-center gap-5 sm:order-none">
-            <motion.div data-phone style={{ rotateY, scale: phoneScale, transformPerspective: 1400 }} className="shrink-0">
+            <motion.div data-phone style={{ rotateY, scale: phoneScale, transformPerspective: 1400, zIndex: 10 }} className="relative shrink-0">
               <PhoneFrame className="w-[min(272px,62vw)] sm:w-[300px]">
                 <motion.div data-stack className="absolute inset-x-0 top-0" style={{ height: `${STEPS.length * 100}%`, y: stackY }}>
                   {STEPS.map((s, i) => (
@@ -289,7 +372,7 @@ export function PhoneStory() {
             </div>
           </div>
 
-          <div className="relative hidden h-[18rem] w-[34%] text-left sm:block">
+          <div data-copy className="relative hidden h-[18rem] w-[34%] text-left sm:block">
             <StepCopy step={STEPS[1]} index={1} screen={screen} reduce={reduce} />
           </div>
         </div>

@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { useInView, useReducedMotion } from "motion/react";
+import { motion, useInView, useReducedMotion } from "motion/react";
 import { SectionHeading } from "@/components/home/SectionHeading";
 import { LEVEL_SAMPLES, levelColor, splitFocus, type Level } from "@/lib/level-samples";
 
@@ -79,8 +79,19 @@ export function LevelDemo() {
         {LEVEL_SAMPLES.map((s, i) => {
           const selected = i === index;
           return (
+            <span key={s.level} className="relative flex items-center justify-center">
+              {selected && !reduce && (
+                <motion.span
+                  key={`pulse-${swapKey}`}
+                  aria-hidden
+                  className="pointer-events-none absolute size-11 rounded-full border-2"
+                  style={{ borderColor: levelColor(s.level as Level) }}
+                  initial={{ scale: 1, opacity: 0.7 }}
+                  animate={{ scale: 2, opacity: 0 }}
+                  transition={{ duration: 0.7, ease: "easeOut" }}
+                />
+              )}
             <button
-              key={s.level}
               type="button"
               role="radio"
               aria-checked={selected}
@@ -97,6 +108,7 @@ export function LevelDemo() {
             >
               {s.label}
             </button>
+            </span>
           );
         })}
       </div>
