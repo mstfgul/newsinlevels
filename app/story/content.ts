@@ -1,4 +1,5 @@
 import type { LegalLang } from "@/lib/legal";
+import { artworkAlt, artworkById, artworkSrc, artworkSrcSet } from "@/lib/gallery";
 
 /**
  * Personal narrative — one voice, no sections. Deliberately not
@@ -26,50 +27,28 @@ export interface StoryCopy {
 }
 
 /** Language-independent: which clippings, in reading order, and how far
- * each is tilted. */
+ * each is tilted. The images come from the shared gallery (public/gallery,
+ * built by scripts/fetch-gallery.mjs — licence-checked, 640/1400px). */
+const clipping = (id: string, rotate: number) => {
+  const a = artworkById(id);
+  return {
+    src: artworkSrc(a, 640),
+    srcSet: artworkSrcSet(a),
+    sizes: "(min-width: 640px) 15rem, 13rem",
+    alt: artworkAlt(a),
+    width: a.w640,
+    height: a.h640,
+    rotate,
+  };
+};
+
 export const STORY_CLIPPINGS = [
-  {
-    src: "/story/dante-michelino.webp",
-    alt: "Domenico di Michelino, Dante and the Three Kingdoms (1465)",
-    width: 800,
-    height: 627,
-    rotate: -1.4,
-  },
-  {
-    src: "/story/vermeer-woman-reading-a-letter.webp",
-    alt: "Johannes Vermeer, Woman Reading a Letter (c. 1663)",
-    width: 670,
-    height: 800,
-    rotate: 1.3,
-  },
-  {
-    src: "/story/starry-night.webp",
-    alt: "Vincent van Gogh, The Starry Night (1889)",
-    width: 800,
-    height: 633,
-    rotate: -1.6,
-  },
-  {
-    src: "/story/proust-portrait.webp",
-    alt: "Jacques-Émile Blanche, Portrait de Marcel Proust (1892)",
-    width: 657,
-    height: 800,
-    rotate: 1.5,
-  },
-  {
-    src: "/story/school-of-athens.webp",
-    alt: "Raphael, The School of Athens (1509–1511)",
-    width: 800,
-    height: 558,
-    rotate: -1.2,
-  },
-  {
-    src: "/story/van-gogh-almond-blossom.webp",
-    alt: "Vincent van Gogh, Almond Blossom (1890)",
-    width: 800,
-    height: 632,
-    rotate: 1.6,
-  },
+  clipping("dante-michelino", -1.4),
+  clipping("woman-reading-letter", 1.3),
+  clipping("starry-night", -1.6),
+  clipping("proust-portrait", 1.5),
+  clipping("school-of-athens", -1.2),
+  clipping("almond-blossom", 1.6),
 ] as const;
 
 export const STORY_CONTENT: Record<LegalLang, StoryCopy> = {
