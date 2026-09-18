@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Hero } from "@/components/home/Hero";
+import { LevelDemo } from "@/components/home/LevelDemo";
+import { WordDemo } from "@/components/home/WordDemo";
+import { PhoneStory } from "@/components/home/PhoneStory";
 import { Prose } from "@/components/Prose";
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_URL, webSiteJsonLd } from "@/lib/seo";
@@ -46,6 +49,9 @@ export default function Home() {
       <JsonLd data={webSiteJsonLd()} />
 
       <Hero />
+      <LevelDemo />
+      <WordDemo />
+      <PhoneStory />
 
       <Prose className="mt-10">
         <div className="space-y-5 text-[17px] leading-relaxed" style={{ fontFamily: "var(--font-literata)" }}>
