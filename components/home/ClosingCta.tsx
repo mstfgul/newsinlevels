@@ -20,12 +20,12 @@ export function ClosingCta() {
       </div>
       <Reveal className="mx-auto max-w-2xl text-center">
         <p className="hand-note rotate-[-1deg]" style={{ fontSize: "2rem" }}>
-          Start your first page.
+          Learn with art.
         </p>
-        <h2 className="editorial mt-4 text-[clamp(2rem,4.6vw,3.25rem)]">Tomorrow&apos;s is already on its way.</h2>
+        <h2 className="editorial mt-4 text-[clamp(2rem,4.6vw,3.25rem)]">Your first page is waiting.</h2>
         <p className="mx-auto mt-4 max-w-xl text-[17px] leading-relaxed text-muted-foreground">
-          Any Text is on the App Store for iPhone. Pick a language, pick a level, and read something
-          real today.
+          Any Text is on the App Store for iPhone. Pick a language, pick a level, and start with
+          a painting today — tomorrow&apos;s page is already on its way.
         </p>
         <div className="mt-8 flex justify-center">
           <AppStoreBadge height={52} />

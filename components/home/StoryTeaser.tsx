@@ -24,7 +24,7 @@ export function StoryTeaser() {
           />
         </Reveal>
         <Reveal delay={0.1} className="text-center sm:text-left">
-          <p className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted-foreground">why I made this</p>
+          <p className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted-foreground">why art, why now</p>
           <blockquote className="pull-quote editorial mt-4 text-[1.6rem] italic sm:text-[2rem]">{copy.pullQuote}</blockquote>
           <Link
             href="/story/"

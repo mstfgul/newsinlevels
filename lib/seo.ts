@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const SITE_URL = "https://www.anytext.art";
 export const SITE_NAME = "AnyText";
 export const SITE_DESCRIPTION =
-  "Any Text is an iPhone app that gives you a page a day — a painting, a film, a book, a quote, an essay, a story, a word, history and the news — rewritten at CEFR levels A1–C2 in Turkish, English, French, Italian, Spanish, German and Dutch. Tap any word or sentence for its meaning in one of fifteen languages.";
+  "Any Text is an iPhone app for learning a language through art: a daily page built from a curated selection of paintings, films, books, stories, quotes and essays — rewritten at CEFR levels A1–C2 in Turkish, English, French, Italian, Spanish, German and Dutch, with any word or sentence a tap away in fifteen languages.";
 
 /** Metadata for a static page (privacy, support, home). */
 export function pageMetadata({

@@ -48,7 +48,7 @@ const instrumentSerif = Instrument_Serif({
 });
 
 const DEFAULT_TITLE =
-  "AnyText — read real news, art, film, books & history at your level (CEFR A1–C2)";
+  "Any Text — learn a language through art, at your level (CEFR A1–C2)";
 
 // Runs before first paint: resolves the reader's saved day/night choice (or,
 // with none, the OS preference) into an explicit data-theme on <html> so the

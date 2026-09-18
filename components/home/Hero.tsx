@@ -3,7 +3,8 @@ import { ArtWall } from "@/components/home/ArtWall";
 import { artworkSrc, GALLERY } from "@/lib/gallery";
 
 /**
- * The opening: a masthead in Instrument Serif italic over the desk, the
+ * The opening: the promise — learn a language through art — in Instrument
+ * Serif italic over the desk, the
  * App Store badge, and the wall of art rising along the bottom edge. At
  * night a blurred copy of the first painting washes the black wall with its
  * own colours (the app's ReaderPageBackdrop idea, `Wash.backdrop`), fading
@@ -30,28 +31,28 @@ export function Hero() {
 
       <div className="mx-auto max-w-4xl px-5 text-center">
         <p className="rise font-mono text-[11px] uppercase tracking-[0.16em] text-muted-foreground" style={{ animationDelay: "60ms" }}>
-          an iPhone app for language learners
+          an iPhone app · learn a language through art
         </p>
         <h1
           className="rise editorial mx-auto mt-4 max-w-[14ch] text-[clamp(2.75rem,7.2vw,5.5rem)] italic"
           style={{ animationDelay: "140ms" }}
         >
-          A page a day.
+          Learn a language
           <br />
-          At your level.
+          through art.
         </h1>
         <p
           className="rise mx-auto mt-6 max-w-2xl text-[17px] leading-relaxed text-muted-foreground sm:text-[19px]"
           style={{ animationDelay: "240ms" }}
         >
-          Every day, a painting, a film, a book, a quote, an essay, a story and the news —
-          rewritten at six levels, from A1 to C2, in seven languages. Tap any word to see
-          what it means in yours.
+          Every day, a curated page: a painting first — then a film, a book, a story, a
+          quote, an essay, and more — rewritten at six levels, from A1 to C2, in seven
+          languages. Tap any word to see what it means in yours.
         </p>
         <div className="rise mt-8 flex flex-col items-center gap-3" style={{ animationDelay: "340ms" }}>
           <AppStoreBadge height={52} />
           <p className="hand-note rotate-[-0.6deg]" style={{ fontSize: "1.3rem" }}>
-            real texts, six levels, one tap for any word
+            art first, then everything else
           </p>
         </div>
       </div>

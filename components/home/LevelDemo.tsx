@@ -63,9 +63,9 @@ export function LevelDemo() {
 
   return (
     <section ref={ref} className="mx-auto max-w-5xl px-5 py-20 sm:py-28" onPointerEnter={() => setTouring(false)}>
-      <SectionHeading kicker="one text, six levels" title="The same page, rewritten for you.">
-        Every text arrives at six CEFR levels. Pick yours and the sentence changes under your
-        eyes — same idea, same highlighted word, different language.
+      <SectionHeading kicker="one painting, six levels" title="The same page, rewritten for you.">
+        Every painting, film and book arrives at six CEFR levels. Pick yours and the sentence
+        changes under your eyes — same idea, same highlighted word, different language.
       </SectionHeading>
 
       {/* The ladder: six level dots joined by a rule, the chosen one lifted. */}

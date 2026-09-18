@@ -14,8 +14,8 @@ const LEVELS: { label: string; color: string }[] = [
 ];
 
 const TITLE = "AnyText";
-const TAGLINE_LINE_1 = "A page a day — art, film, books, stories & news —";
-const TAGLINE_LINE_2 = "rewritten at your level, from A1 to C2.";
+const TAGLINE_LINE_1 = "Learn a language through art —";
+const TAGLINE_LINE_2 = "a curated page a day, rewritten at your level.";
 const DOMAIN = "anytext.art";
 
 /**

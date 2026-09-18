@@ -1,20 +1,44 @@
 "use client";
 
-import { useState } from "react";
+import { useCallback, useState } from "react";
 import { PageIntro } from "@/components/PageIntro";
 import { LegalLanguagePicker } from "@/components/LegalLanguagePicker";
-import { Clipping } from "@/components/Clipping";
 import { Reveal } from "@/components/Reveal";
+import { ArtViewer } from "@/components/home/ArtViewer";
+import { StoryClipping } from "@/components/story/StoryClipping";
+import { StoryBackdrop } from "@/components/story/StoryBackdrop";
+import { ReadingProgress } from "@/components/story/ReadingProgress";
 import { LEGAL_LANGUAGES, type LegalLang } from "@/lib/legal";
+import { artworkById, type Artwork } from "@/lib/gallery";
 import { STORY_CONTENT, STORY_CLIPPINGS } from "./content";
 
 export function StoryView() {
   const [lang, setLang] = useState<LegalLang>("en");
+  const [selected, setSelected] = useState<Artwork | null>(null);
+  const close = useCallback(() => setSelected(null), []);
   const copy = STORY_CONTENT[lang];
-  const [dante, vermeer, starryNight, proust, schoolOfAthens, almond] = STORY_CLIPPINGS;
+
+  // One clipping per slot, floated beside the prose from `sm` up.
+  const clip = (i: number, className: string) => {
+    const c = STORY_CLIPPINGS[i];
+    return (
+      <StoryClipping
+        artwork={artworkById(c.id)}
+        caption={copy.captions[i]}
+        rotate={c.rotate}
+        side={c.side}
+        depth={c.depth}
+        className={className}
+        onOpen={setSelected}
+      />
+    );
+  };
 
   return (
     <div>
+      <ReadingProgress />
+      <StoryBackdrop />
+
       <div className="mb-6 flex justify-end">
         <LegalLanguagePicker languages={LEGAL_LANGUAGES} active={lang} onSelect={setLang} />
       </div>
@@ -24,15 +48,11 @@ export function StoryView() {
       </PageIntro>
 
       <div className="space-y-5 text-[17px] leading-relaxed" style={{ fontFamily: "var(--font-literata)" }}>
-        <Reveal className="mx-auto w-[12rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[14rem]" tilt={-1.1}>
-          <Clipping {...dante} caption={copy.captions[0]} className="w-full" />
-        </Reveal>
+        {clip(0, "mx-auto w-[12rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[14rem]")}
 
         <p>{copy.paragraphs[0]}</p>
 
-        <Reveal className="mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]" tilt={1.1}>
-          <Clipping {...vermeer} caption={copy.captions[1]} className="w-full" />
-        </Reveal>
+        {clip(1, "mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]")}
 
         <p>{copy.paragraphs[1]}</p>
 
@@ -44,27 +64,19 @@ export function StoryView() {
 
         <p>{copy.paragraphs[2]}</p>
 
-        <Reveal className="mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15rem]" tilt={-1.1}>
-          <Clipping {...starryNight} caption={copy.captions[2]} className="w-full" />
-        </Reveal>
+        {clip(2, "mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15rem]")}
 
         <p>{copy.paragraphs[3]}</p>
 
-        <Reveal className="mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]" tilt={1.1}>
-          <Clipping {...proust} caption={copy.captions[3]} className="w-full" />
-        </Reveal>
+        {clip(3, "mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]")}
 
         <p>{copy.paragraphs[4]}</p>
 
-        <Reveal className="mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15.5rem]" tilt={-1.1}>
-          <Clipping {...schoolOfAthens} caption={copy.captions[4]} className="w-full" />
-        </Reveal>
+        {clip(4, "mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15.5rem]")}
 
         <p>{copy.paragraphs[5]}</p>
 
-        <Reveal className="mx-auto w-[11.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[13rem]" tilt={1.1}>
-          <Clipping {...almond} caption={copy.captions[5]} className="w-full" />
-        </Reveal>
+        {clip(5, "mx-auto w-[11.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[13rem]")}
 
         <p>{copy.paragraphs[6]}</p>
 
@@ -78,6 +90,8 @@ export function StoryView() {
       <p className="mt-12 font-mono text-[10px] leading-relaxed uppercase tracking-[0.12em] text-muted-foreground">
         Domenico di Michelino, Dante and the Three Kingdoms (1465), Florence Cathedral · Vermeer, Woman Reading a Letter (c. 1663), Rijksmuseum · Van Gogh, The Starry Night (1889), MoMA · Jacques-Émile Blanche, Portrait de Marcel Proust (1892) · Raphael, The School of Athens (1509–1511), Vatican · Van Gogh, Almond Blossom (1890), Van Gogh Museum · public domain
       </p>
+
+      <ArtViewer artwork={selected} layoutPrefix="story" onClose={close} />
     </div>
   );
 }

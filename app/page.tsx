@@ -4,6 +4,7 @@ import { LevelDemo } from "@/components/home/LevelDemo";
 import { WordDemo } from "@/components/home/WordDemo";
 import { PhoneStory } from "@/components/home/PhoneStory";
 import { KindsGrid } from "@/components/home/KindsGrid";
+import { LibraryShelf } from "@/components/home/LibraryShelf";
 import { LanguageMarquee } from "@/components/home/LanguageMarquee";
 import { StoryTeaser } from "@/components/home/StoryTeaser";
 import { ClosingCta } from "@/components/home/ClosingCta";
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
  * each its own beat, rather than the narrow notebook column the story,
  * privacy and support pages read in. Order: the hero and its wall of art →
  * the app's one bold move (six levels) → tap a word → the phone → what a
- * day holds → the languages → the story → the last word.
+ * day holds → the library shelf → the languages → the story → the last word.
  */
 export default function Home() {
   return (
@@ -30,6 +31,7 @@ export default function Home() {
       <WordDemo />
       <PhoneStory />
       <KindsGrid />
+      <LibraryShelf />
       <LanguageMarquee />
       <StoryTeaser />
       <ClosingCta />

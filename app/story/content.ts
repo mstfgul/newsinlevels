@@ -1,5 +1,4 @@
 import type { LegalLang } from "@/lib/legal";
-import { artworkAlt, artworkById, artworkSrc, artworkSrcSet } from "@/lib/gallery";
 
 /**
  * Personal narrative — one voice, no sections. Deliberately not
@@ -26,29 +25,16 @@ export interface StoryCopy {
   captions: [string, string, string, string, string, string];
 }
 
-/** Language-independent: which clippings, in reading order, and how far
- * each is tilted. The images come from the shared gallery (public/gallery,
- * built by scripts/fetch-gallery.mjs — licence-checked, 640/1400px). */
-const clipping = (id: string, rotate: number) => {
-  const a = artworkById(id);
-  return {
-    src: artworkSrc(a, 640),
-    srcSet: artworkSrcSet(a),
-    sizes: "(min-width: 640px) 15rem, 13rem",
-    alt: artworkAlt(a),
-    width: a.w640,
-    height: a.h640,
-    rotate,
-  };
-};
-
+/** Language-independent: which clippings, in reading order, which side of
+ * the prose they sit on, and how far each is tilted. The images come from the
+ * shared gallery (public/gallery, built by scripts/fetch-gallery.mjs). */
 export const STORY_CLIPPINGS = [
-  clipping("dante-michelino", -1.4),
-  clipping("woman-reading-letter", 1.3),
-  clipping("starry-night", -1.6),
-  clipping("proust-portrait", 1.5),
-  clipping("school-of-athens", -1.2),
-  clipping("almond-blossom", 1.6),
+  { id: "dante-michelino", rotate: -1.4, side: "right", depth: 1 },
+  { id: "woman-reading-letter", rotate: 1.3, side: "left", depth: 2 },
+  { id: "starry-night", rotate: -1.6, side: "right", depth: 0 },
+  { id: "proust-portrait", rotate: 1.5, side: "left", depth: 1 },
+  { id: "school-of-athens", rotate: -1.2, side: "right", depth: 2 },
+  { id: "almond-blossom", rotate: 1.6, side: "left", depth: 1 },
 ] as const;
 
 export const STORY_CONTENT: Record<LegalLang, StoryCopy> = {

@@ -33,9 +33,9 @@ export function KindsGrid() {
 
   return (
     <section className="mx-auto max-w-6xl px-5 py-20 sm:py-28">
-      <SectionHeading kicker="every day" title="Ten kinds of text, one page.">
-        Not a course. A daily page of real things — each one rewritten for your level, each one
-        with every word a tap away.
+      <SectionHeading kicker="art first" title="Then film, books, stories — and more.">
+        Not a course: a curated daily selection of real culture. Each piece rewritten for your
+        level, every word a tap away — learn the language and the art at once.
       </SectionHeading>
 
       <ul className="mt-12 grid grid-cols-2 gap-x-5 gap-y-9 sm:grid-cols-3 lg:grid-cols-5">
