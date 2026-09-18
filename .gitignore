@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ST-103 gallery pipeline: download cache + contact sheet are regenerable
+/scripts/.cache/
+/public/gallery/contact-sheet.png

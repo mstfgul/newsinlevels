@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { pageMetadata, SITE_NAME, SITE_URL } from "@/lib/seo";
 import { JsonLd } from "@/components/JsonLd";
+import { Prose } from "@/components/Prose";
 import { PrivacyView } from "./PrivacyView";
 
 export const metadata: Metadata = pageMetadata({
@@ -20,7 +21,9 @@ export default function PrivacyPage() {
           url: `${SITE_URL}/privacy/`,
         }}
       />
-      <PrivacyView />
+      <Prose>
+        <PrivacyView />
+      </Prose>
     </div>
   );
 }

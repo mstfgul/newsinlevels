@@ -1,0 +1,63 @@
+# Image credits — public/gallery
+
+All works below are in the public domain (or CC0). Licences were read from
+Wikimedia Commons' `extmetadata` by `scripts/fetch-gallery.mjs` at build
+time; anything without a PD/CC0 tag is refused by the script. Files are
+Commons' own 1600px thumbnails (never gigapixel originals), re-encoded with
+sharp to WebP q80 at 640px and 1400px on the long edge, fit inside, uncropped.
+
+The first eight works below were already on the site (former `public/story/`, verified
+the same way against the Met Open Access API / Commons `extmetadata`); the rest are new.
+
+| id | Work | Artist | Year | Collection | Source | Licence |
+|---|---|---|---|---|---|---|
+| `starry-night` | The Starry Night | Vincent van Gogh | 1889 | Museum of Modern Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg) | Public domain |
+| `almond-blossom` | Almond Blossom | Vincent van Gogh | 1890 | Van Gogh Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amandelbloesem_-_s0176V1962_-_Van_Gogh_Museum.jpg) | Public domain |
+| `wheatfield-crows` | Wheatfield with Crows | Vincent van Gogh | 1890 | Van Gogh Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg) | Public domain |
+| `cafe-terrace` | Café Terrace at Night | Vincent van Gogh | 1888 | Kröller-Müller Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_-_Cafe_Terrace_at_Night_(Yorck).jpg) | Public domain |
+| `bedroom` | The Bedroom | Vincent van Gogh | 1888 | Van Gogh Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg) | Public domain |
+| `sunflowers` | Sunflowers | Vincent van Gogh | 1888 | National Gallery, London | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Sunflowers_(1888%2C_National_Gallery_London).jpg) | Public domain |
+| `the-kiss` | The Kiss | Gustav Klimt | 1907 | Belvedere | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg) | Public domain |
+| `adele-bloch-bauer` | Portrait of Adele Bloch-Bauer I | Gustav Klimt | 1907 | Neue Galerie New York | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Portr%C3%A4t_der_Adele_Bloch-Bauer_I_(1907).jpg) | Public domain |
+| `milkmaid` | The Milkmaid | Johannes Vermeer | 1660 | Rijksmuseum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg) | Public domain |
+| `woman-reading-letter` | Woman Reading a Letter | Johannes Vermeer | c. 1663 | Rijksmuseum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brieflezende_vrouw%2C_SK-C-251.jpg) | CC0 |
+| `girl-pearl-earring` | Girl with a Pearl Earring | Johannes Vermeer | c. 1665 | Mauritshuis | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg) | Public domain |
+| `night-watch` | The Night Watch | Rembrandt | 1642 | Rijksmuseum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg) | Public domain |
+| `winter-skaters` | Winter landscape with skaters | Hendrick Avercamp | 1608 | Rijksmuseum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hendrick_Avercamp_-_Winterlandschap_met_ijsvermaak.jpg) | Public domain |
+| `birth-of-venus` | The Birth of Venus | Sandro Botticelli | 1485 | Uffizi Gallery | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg) | Public domain |
+| `primavera` | Primavera | Sandro Botticelli | 1480 | Uffizi Gallery | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg) | Public domain |
+| `arnolfini` | Arnolfini Portrait | Jan van Eyck | 1434 | National Gallery, London | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg) | Public domain |
+| `hunters-in-snow` | The Hunters in the Snow | Pieter Brueghel the Elder | 1565 | Kunsthistorisches Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg) | Public domain |
+| `tower-of-babel` | The Tower of Babel | Pieter Brueghel the Elder | 1563 | Kunsthistorisches Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84.%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Turmbau_zu_Babel_-_GG_1026_-_Kunsthistorisches_Museum.jpg) | Public domain |
+| `las-meninas` | Las Meninas | Diego Velázquez | 1656 | Museo del Prado | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg) | Public domain |
+| `school-of-athens` | The School of Athens | Raphael | 1509–1511 | Vatican Museums | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino.jpg) | Public domain |
+| `dante-michelino` | Dante and the Three Kingdoms | Domenico di Michelino | 1465 | Florence Cathedral | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Domenico-Di-Michelino-Dante-and-the-Three-Kingdoms.jpg) | CC0 |
+| `young-girl-reading` | A Young Girl Reading | Jean-Honoré Fragonard | 1770 | National Gallery of Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg) | Public domain |
+| `vigee-straw-hat` | Self Portrait in a Straw Hat | Élisabeth Louise Vigée Le Brun | 1782 | National Gallery, London | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg) | Public domain |
+| `labille-guiard-pupils` | Self-Portrait with Two Pupils | Adélaïde Labille-Guiard | 1785 | Metropolitan Museum of Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ad%C3%A9la%C3%AFde_Labille-Guiard_-_Self-Portrait_with_Two_Pupils_-_The_Metropolitan_Museum_of_Art.jpg) | Public domain |
+| `wanderer-fog` | Wanderer above the Sea of Fog | Caspar David Friedrich | c. 1818 | Hamburger Kunsthalle | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg) | Public domain |
+| `fighting-temeraire` | The Fighting Temeraire | J. M. W. Turner | 1839 | National Gallery, London | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg) | Public domain |
+| `liberty-leading` | Liberty Leading the People | Eugène Delacroix | 1830 | Musée du Louvre | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg) | Public domain |
+| `ophelia` | Ophelia | John Everett Millais | 1851 | Tate | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg) | Public domain |
+| `lady-of-shalott` | The Lady of Shalott | John William Waterhouse | 1888 | Tate | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_(derivative_work_-_AutoContrast_edit_in_LCH_space).jpg) | Public domain |
+| `horse-fair` | The Horse Fair | Rosa Bonheur | 1853 | Metropolitan Museum of Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rosa_Bonheur%2C_The_Horse_Fair%2C_1852%E2%80%9355.jpg) | Public domain |
+| `moulin-galette` | Bal du moulin de la Galette | Pierre-Auguste Renoir | 1876 | Musée d'Orsay | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg) | Public domain |
+| `woman-parasol` | Woman with a Parasol – Madame Monet and Her Son | Claude Monet | 1886 | National Gallery of Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg) | Public domain |
+| `impression-sunrise` | Impression, Sunrise | Claude Monet | 1872 | Musée Marmottan Monet | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Monet_-_Impression%2C_Sunrise.jpg) | Public domain |
+| `paris-rainy-day` | Paris Street; Rainy Day | Gustave Caillebotte | 1877 | Art Institute of Chicago | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street%2C_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg) | Public domain |
+| `dance-class` | The Dance Class | Edgar Degas | 1874 | Metropolitan Museum of Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edgar_Degas_The_Dance_Class.jpg) | Public domain |
+| `grande-jatte` | A Sunday Afternoon on the Island of La Grande Jatte | Georges Seurat | 1884 | Art Institute of Chicago | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg) | Public domain |
+| `the-cradle` | The Cradle | Berthe Morisot | 1872 | Musée d'Orsay | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_The_Cradle_-_Google_Art_Project.jpg) | Public domain |
+| `childs-bath` | The Child's Bath | Mary Cassatt | 1893 | Art Institute of Chicago | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Child's_Bath_by_Mary_Cassatt_1893.jpg) | Public domain |
+| `boulevard-montmartre-night` | The Boulevard Montmartre at Night | Camille Pissarro | 1897 | National Gallery, London | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_Boulevard_Montmartre_at_Night_-_c_1897_-_National_Gallery_UK.jpg) | Public domain |
+| `mont-sainte-victoire` | Mont Sainte-Victoire and the Viaduct of the Arc River Valley | Paul Cézanne | 1882 | Metropolitan Museum of Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley_(Metropolitan_Museum_of_Art).jpg) | Public domain |
+| `rousseau-dream` | The Dream | Henri Rousseau | 1910 | Museum of Modern Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henri_Rousseau_005.jpg) | Public domain |
+| `rousseau-tiger` | Tiger in a Tropical Storm | Henri Rousseau | 1891 | National Gallery, London | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Surprised-Rousseau.jpg) | Public domain |
+| `great-wave` | Under the Wave off Kanagawa (The Great Wave) | Katsushika Hokusai | c. 1830–32 | The Metropolitan Museum of Art | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E3%80%8C%E5%AF%8C%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%B2%96%E6%B5%AA%E8%A3%8F%E3%80%8D-Under_the_Wave_off_Kanagawa_(Kanagawa_oki_nami_ura)%2C_or_The_Great_Wave%2C_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141042.jpg) | CC0 |
+| `the-scream` | The Scream | Edvard Munch | 1893 | National Museum, Oslo | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg) | Public domain |
+| `composition-viii` | Composition VIII | Wassily Kandinsky | 1923 | Solomon R. Guggenheim Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kandinsky_-_Composition_8%2C_July_1923.jpg) | CC0 |
+| `yellow-cow` | The Yellow Cow | Franz Marc | 1911 | Solomon R. Guggenheim Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Franz_Marc-The_Yellow_Cow-1911.jpg) | Public domain |
+| `af-klint-ten-largest-7` | The Ten Largest, No. 7, Adulthood | Hilma af Klint | 1907 | Hilma af Klint Foundation | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_The_Ten_Largest_No._7_-_Adulthood_-_1907.jpg) | Public domain |
+| `harmony-in-red` | The Dessert: Harmony in Red (The Red Room) | Henri Matisse | 1907 | State Hermitage Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:La_Desserte_rouge%2C_par_Henri_Matisse.jpg) | Public domain |
+| `proust-portrait` | Portrait de Marcel Proust | Jacques-Émile Blanche | 1892 | Musée d'Orsay | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jacques-Emile_Blanche_Portrait_de_Marcel_Proust_1892.jpg) | Public domain |
+| `great-train-robbery` | The Great Train Robbery (film still) | Edwin S. Porter | 1903 | Edison Manufacturing Company | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_train_robbery_still.jpg) | Public domain |

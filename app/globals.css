@@ -1,8 +1,15 @@
 @import "tailwindcss";
 
-/* Light: a learner's exercise book — paper, blue ink, highlighter, red margin. */
+/* `dark:` utilities follow the resolved data-theme (set on <html> before first
+ * paint by the inline THEME_INIT script in app/layout.tsx), never the OS media
+ * query directly — the sun/moon toggle must win over the OS. */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* Light: the desk — paper, blue ink, highlighter, the teacher's red pen.
+ * Values mirror the iOS app's Palette (mobile/docs/design/design-language.md
+ * § 4): --background is the app's "Kağıt" paper (#FAF5E4, ST-66). */
 :root {
-  --background: #fcfbf7;
+  --background: #faf5e4;
   --foreground: #212e3e;
   --card: #ffffff;
   --card-foreground: #212e3e;
@@ -23,6 +30,12 @@
   --postit-ink: #40391a;
   --surface-sunken: #f1efe7; /* the clipping's mat — mobile Palette.surfaceSunken */
   --clipping-shadow: rgba(28, 35, 45, 0.16); /* mobile Elevation.e2 */
+  --scrim: rgba(20, 26, 34, 0.28); /* caption band over a photo — mobile Palette.scrim */
+  --on-photo: #ffffff; /* text over a photo, both themes */
+  --viewer-backdrop: #000000; /* full-screen artwork viewer, both themes (mobile viewerBackdrop) */
+  --wash-backdrop: 0.35; /* blurred artwork copy behind a page — mobile Wash.backdrop */
+  --caption-fade: 0.82; /* vertical fade behind a caption block — mobile Wash.captionFade */
+  --blur-hero: 36px; /* mobile Blur.heroFill */
 
   --level-a1: #2f7d4f;
   --level-a2: #1e8a70;
@@ -30,24 +43,34 @@
   --level-b2: #6d4fa3;
   --level-c1: #b93f76;
   --level-c2: #c03a2b;
+
+  /* Motion — the app's Motion tokens (design-language.md § 9), in CSS time.
+   * Every animation on the site answers something (a load, a scroll, a hover,
+   * a click) and ends; the only continuous motion is the language marquee. */
+  --m-instant: 120ms;
+  --m-swift: 200ms;
+  --m-page: 320ms;
+  --m-draw: 420ms;
+  --ease-pen: cubic-bezier(0.22, 0.9, 0.24, 1);
 }
 
-/* Dark: the classroom chalkboard.
+/* Dark: the gallery at night — pure black (the app's dark background since
+ * ST-66, and DailyArt's), chalk-yellow accent, surfaces one step up.
  *
  * Two ways in: the reader flips the day/night switch (an explicit
  * data-theme="dark" on <html>), or — with no explicit choice made — the OS
  * asks for dark. The inline theme script in the layout resolves "follow the
- * OS" into an explicit data-theme before first paint, so the media query
- * below is only the no-JS fallback (:root with no data-theme set). Keeping
- * the palette in one shared selector list means the tokens live in a single
- * place; data-theme="light" matches neither, so a forced-light choice always
- * wins, even on an OS set to dark. */
+ * OS" into an explicit data-theme before first paint, so the media-query
+ * block below is only the no-JS fallback (:root with no data-theme set). The
+ * palette is duplicated there on purpose: a media query cannot be joined to
+ * a selector list, and a no-JS visitor on a dark OS should still get the
+ * gallery, not the desk. Keep the two blocks identical. */
 :root[data-theme="dark"] {
-  --background: #161f1b;
+  --background: #000000;
   --foreground: #e9e5d9;
   --card: #1d2823;
   --card-foreground: #e9e5d9;
-  --muted: #242f2a;
+  --muted: #161e1a;
   --muted-foreground: #9aa79e;
   --border: #2d3b34;
   --primary: #f2d74e;
@@ -62,11 +85,9 @@
   --postit: #ecd977;
   --postit-fold: #d3bf5e;
   --postit-ink: #3a3416;
-  --surface-sunken: #131a17;
-  /* Deliberately darker than the app's own e2 (0.16): that value is nearly
-   * invisible against this chalkboard background, so the clipping wouldn't
-   * lift off the board. */
-  --clipping-shadow: rgba(0, 0, 0, 0.45);
+  --surface-sunken: #0d1210;
+  --clipping-shadow: rgba(0, 0, 0, 0.6);
+  --scrim: rgba(0, 0, 0, 0.45);
 
   --level-a1: #5cbf8a;
   --level-a2: #4ec2a5;
@@ -78,11 +99,11 @@
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme]) {
-    --background: #161f1b;
+    --background: #000000;
     --foreground: #e9e5d9;
     --card: #1d2823;
     --card-foreground: #e9e5d9;
-    --muted: #242f2a;
+    --muted: #161e1a;
     --muted-foreground: #9aa79e;
     --border: #2d3b34;
     --primary: #f2d74e;
@@ -97,8 +118,9 @@
     --postit: #ecd977;
     --postit-fold: #d3bf5e;
     --postit-ink: #3a3416;
-    --surface-sunken: #131a17;
-    --clipping-shadow: rgba(0, 0, 0, 0.45);
+    --surface-sunken: #0d1210;
+    --clipping-shadow: rgba(0, 0, 0, 0.6);
+    --scrim: rgba(0, 0, 0, 0.45);
 
     --level-a1: #5cbf8a;
     --level-a2: #4ec2a5;
@@ -122,6 +144,8 @@
   --color-margin-red: var(--margin-red);
   --color-rule-blue: var(--rule-blue);
   --color-surface-sunken: var(--surface-sunken);
+  --color-on-photo: var(--on-photo);
+  --color-viewer-backdrop: var(--viewer-backdrop);
   --font-display: var(--font-bricolage);
   --font-serif: var(--font-literata);
   --font-mono: var(--font-plex-mono);
@@ -129,11 +153,18 @@
   --font-editorial: var(--font-instrument);
 }
 
+html {
+  /* The wall of art overhangs the hero's edges by design; never let that
+   * turn into a horizontal scrollbar. */
+  overflow-x: clip;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-bricolage), system-ui, sans-serif;
-  /* Faint squared-paper grid, like the graph-ruled notebooks vocab lists live in. */
+  /* Faint squared-paper grid, like the graph-ruled notebooks vocab lists live in.
+   * Invisible at night (--grid-line is transparent there). */
   background-image: linear-gradient(var(--grid-line) 1px, transparent 1px),
     linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
   background-size: 26px 26px;
@@ -164,13 +195,6 @@ body {
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .pen-circle path {
-    animation: none;
-    stroke-dashoffset: 0;
-  }
-}
-
 /* Handwritten label under a pasted photo. */
 .hand-note {
   font-family: var(--font-caveat), cursive;
@@ -192,4 +216,179 @@ body {
   font-family: var(--font-instrument), Georgia, "Times New Roman", serif;
   font-weight: 400;
   line-height: 1.3;
+}
+
+/* A clipping taped to the desk (components/Clipping.tsx). At night the desk
+ * becomes a gallery wall: the tape comes off and the tilt straightens — the
+ * same markup, only the room changes. Callers that want the flat frame in
+ * both themes pass variant="frame" instead. */
+:root[data-theme="dark"] .clipping--taped .clipping-tape {
+  display: none;
+}
+:root[data-theme="dark"] .clipping--taped .clipping-mount {
+  --tilt: 0deg;
+}
+
+/* Long-form reading text on real exercise-book ruling: the line height is
+ * the ruling unit, and paragraph gaps skip exactly one line (the app's
+ * `ruling`). Beginners (A1/A2) get a bigger hand on wider ruling. */
+.ruled {
+  --ruling: 2.3rem;
+  font-family: var(--font-literata), Georgia, serif;
+  font-size: 1.2rem;
+  line-height: var(--ruling);
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent calc(var(--ruling) - 1px),
+    var(--rule-blue) calc(var(--ruling) - 1px),
+    var(--rule-blue) var(--ruling)
+  );
+  background-position: 0 -0.45rem;
+}
+
+.ruled p + p {
+  margin-top: var(--ruling);
+}
+
+.ruled--easy {
+  --ruling: 2.7rem;
+  font-size: 1.35rem;
+}
+
+/* Highlighter swipe over a vocabulary word — the fluorescent mark. The alpha
+ * fade at both ends is the one gradient the design language allows. */
+mark.vocab {
+  background-image: linear-gradient(
+    100deg,
+    transparent 0%,
+    var(--hl) 4%,
+    var(--hl-strong) 50%,
+    var(--hl) 96%,
+    transparent 100%
+  );
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: 0 0;
+  background-color: transparent;
+  color: inherit;
+  padding: 0.08em 0.18em;
+  margin: -0.08em -0.06em;
+  border-radius: 0.25em 0.15em 0.3em 0.1em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* "The ink dries": the highlighter re-draws itself left to right. */
+.hl-draw mark.vocab {
+  animation: hl-draw var(--m-draw) 180ms ease-out backwards;
+}
+
+@keyframes hl-draw {
+  from {
+    background-size: 0% 100%;
+  }
+  to {
+    background-size: 100% 100%;
+  }
+}
+
+/* Content swapping in place (a level change, a card flip). */
+.level-swap {
+  animation: level-swap 260ms ease-out;
+}
+
+@keyframes level-swap {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* The languages marquee: one track, duplicated once, sliding half its width
+ * — the site's single piece of continuous motion. Pauses under the pointer. */
+.marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 48s linear infinite;
+}
+
+.marquee:hover {
+  animation-play-state: paused;
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* A quote of the day, set as a large pull-quote with a big opening mark. */
+.pull-quote {
+  position: relative;
+  padding-top: 1.5rem;
+}
+
+.pull-quote::before {
+  content: "\201C";
+  position: absolute;
+  top: -1.4rem;
+  left: -0.4rem;
+  font-size: 5rem;
+  line-height: 1;
+  color: var(--hl-strong);
+  font-family: var(--font-literata), Georgia, serif;
+}
+
+/* Reduced motion: nothing moves on its own. Crossfades stay (they are
+ * opacity only); every CSS animation collapses; motion/react components
+ * follow the same preference through <MotionConfig reducedMotion="user">. */
+@media (prefers-reduced-motion: reduce) {
+  .pen-circle path {
+    animation: none;
+    stroke-dashoffset: 0;
+  }
+  .hl-draw mark.vocab,
+  .level-swap {
+    animation: none;
+  }
+  .marquee {
+    animation: none;
+    width: auto;
+    flex-wrap: wrap;
+  }
+}
+
+@media print {
+  body {
+    background: white;
+    background-image: none;
+  }
+}
+
+/* Entrance for server-rendered hero copy: rises 16px and fades in over the
+ * settle beat; stagger with an inline animation-delay. */
+.rise {
+  animation: rise 500ms var(--ease-pen) backwards;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise {
+    animation: none;
+  }
 }

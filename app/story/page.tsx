@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { pageMetadata, SITE_NAME, SITE_URL } from "@/lib/seo";
 import { JsonLd } from "@/components/JsonLd";
+import { Prose } from "@/components/Prose";
 import { StoryView } from "./StoryView";
 
 export const metadata: Metadata = pageMetadata({
@@ -22,7 +23,9 @@ export default function StoryPage() {
           isPartOf: { "@type": "WebSite", url: SITE_URL },
         }}
       />
-      <StoryView />
+      <Prose>
+        <StoryView />
+      </Prose>
     </div>
   );
 }

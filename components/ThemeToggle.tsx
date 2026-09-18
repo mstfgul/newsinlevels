@@ -19,7 +19,7 @@ export function ThemeToggle() {
     }
     document
       .querySelector('meta[name="theme-color"]')
-      ?.setAttribute("content", next === "dark" ? "#161f1b" : "#fcfbf7");
+      ?.setAttribute("content", next === "dark" ? "#000000" : "#faf5e4");
   };
 
   return (

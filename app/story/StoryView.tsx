@@ -4,6 +4,7 @@ import { useState } from "react";
 import { PageIntro } from "@/components/PageIntro";
 import { LegalLanguagePicker } from "@/components/LegalLanguagePicker";
 import { Clipping } from "@/components/Clipping";
+import { Reveal } from "@/components/Reveal";
 import { LEGAL_LANGUAGES, type LegalLang } from "@/lib/legal";
 import { STORY_CONTENT, STORY_CLIPPINGS } from "./content";
 
@@ -23,57 +24,47 @@ export function StoryView() {
       </PageIntro>
 
       <div className="space-y-5 text-[17px] leading-relaxed" style={{ fontFamily: "var(--font-literata)" }}>
-        <Clipping
-          {...dante}
-          caption={copy.captions[0]}
-          className="mx-auto w-[12rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[14rem]"
-        />
+        <Reveal className="mx-auto w-[12rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[14rem]" tilt={-1.1}>
+          <Clipping {...dante} caption={copy.captions[0]} className="w-full" />
+        </Reveal>
 
         <p>{copy.paragraphs[0]}</p>
 
-        <Clipping
-          {...vermeer}
-          caption={copy.captions[1]}
-          className="mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]"
-        />
+        <Reveal className="mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]" tilt={1.1}>
+          <Clipping {...vermeer} caption={copy.captions[1]} className="w-full" />
+        </Reveal>
 
         <p>{copy.paragraphs[1]}</p>
 
-        <blockquote className="editorial my-8 border-l-2 border-margin-red pl-5 text-[1.5rem] italic sm:text-[1.75rem]">
-          {copy.pullQuote}
-        </blockquote>
+        <Reveal amount={0.6}>
+          <blockquote className="editorial my-8 border-l-2 border-margin-red pl-5 text-[1.5rem] italic sm:text-[1.75rem]">
+            {copy.pullQuote}
+          </blockquote>
+        </Reveal>
 
         <p>{copy.paragraphs[2]}</p>
 
-        <Clipping
-          {...starryNight}
-          caption={copy.captions[2]}
-          className="mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15rem]"
-        />
+        <Reveal className="mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15rem]" tilt={-1.1}>
+          <Clipping {...starryNight} caption={copy.captions[2]} className="w-full" />
+        </Reveal>
 
         <p>{copy.paragraphs[3]}</p>
 
-        <Clipping
-          {...proust}
-          caption={copy.captions[3]}
-          className="mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]"
-        />
+        <Reveal className="mx-auto w-[10.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[12rem]" tilt={1.1}>
+          <Clipping {...proust} caption={copy.captions[3]} className="w-full" />
+        </Reveal>
 
         <p>{copy.paragraphs[4]}</p>
 
-        <Clipping
-          {...schoolOfAthens}
-          caption={copy.captions[4]}
-          className="mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15.5rem]"
-        />
+        <Reveal className="mx-auto w-[13rem] sm:float-right sm:mx-0 sm:mb-4 sm:ml-6 sm:w-[15.5rem]" tilt={-1.1}>
+          <Clipping {...schoolOfAthens} caption={copy.captions[4]} className="w-full" />
+        </Reveal>
 
         <p>{copy.paragraphs[5]}</p>
 
-        <Clipping
-          {...almond}
-          caption={copy.captions[5]}
-          className="mx-auto w-[11.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[13rem]"
-        />
+        <Reveal className="mx-auto w-[11.5rem] sm:float-left sm:mx-0 sm:mb-4 sm:mr-6 sm:w-[13rem]" tilt={1.1}>
+          <Clipping {...almond} caption={copy.captions[5]} className="w-full" />
+        </Reveal>
 
         <p>{copy.paragraphs[6]}</p>
 

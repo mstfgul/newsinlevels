@@ -7,7 +7,8 @@ import {
   Caveat,
   Instrument_Serif,
 } from "next/font/google";
-import { ThemeToggle } from "@/components/ThemeToggle";
+import { SiteHeader } from "@/components/SiteHeader";
+import { MotionProvider } from "@/components/MotionProvider";
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from "@/lib/seo";
 import "./globals.css";
 
@@ -79,8 +80,8 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   // The paper colour of the notebook, so the browser chrome blends in.
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fcfbf7" },
-    { media: "(prefers-color-scheme: dark)", color: "#161f1b" },
+    { media: "(prefers-color-scheme: light)", color: "#faf5e4" },
+    { media: "(prefers-color-scheme: dark)", color: "#000000" },
   ],
 };
 
@@ -97,37 +98,9 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <script dangerouslySetInnerHTML={{ __html: THEME_INIT }} />
-        <header className="border-b border-border print:hidden">
-          <div className="mx-auto flex max-w-3xl items-center justify-between gap-4 px-4 py-4">
-            <Link href="/" className="flex shrink-0 items-baseline gap-2">
-              <img
-                src="/icon.png"
-                alt=""
-                aria-hidden
-                className="size-6 self-center"
-              />
-              <span className="editorial relative inline-block px-1 text-[1.4rem]">
-                <span
-                  aria-hidden
-                  className="absolute inset-x-0 top-[0.34em] bottom-[0.16em] -rotate-1 rounded-sm"
-                  style={{ background: "var(--hl-strong)" }}
-                />
-                <span className="relative">AnyText</span>
-              </span>
-            </Link>
-            <div className="flex items-center gap-4">
-              <Link
-                href="/story/"
-                className="font-mono text-[11px] uppercase tracking-[0.14em] text-muted-foreground underline-offset-[6px] transition-colors hover:text-foreground hover:underline hover:decoration-2 hover:decoration-[var(--margin-red)]"
-              >
-                story
-              </Link>
-              <ThemeToggle />
-            </div>
-          </div>
-        </header>
-        <main className="relative mx-auto w-full max-w-3xl flex-1 bg-background/85 px-4 py-10 shadow-sm sm:border-x sm:border-border sm:px-8 print:bg-transparent print:shadow-none print:sm:border-none">
-          {children}
+        <SiteHeader />
+        <main className="flex-1">
+          <MotionProvider>{children}</MotionProvider>
         </main>
         <footer className="border-t border-border py-6 text-center print:hidden">
           <div className="flex flex-wrap items-baseline justify-center gap-x-6 gap-y-3">
