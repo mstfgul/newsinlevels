@@ -412,3 +412,67 @@ mark.vocab {
     animation: none;
   }
 }
+
+/* ---- Story page (ST-107) ---- */
+
+/* The pen writing a line: an ink wipe, left to right. Stagger with an inline
+ * animation-delay; `both` keeps the line invisible until its turn. */
+.ink-wipe {
+  animation: ink-wipe 900ms var(--ease-pen) both;
+}
+
+@keyframes ink-wipe {
+  from {
+    clip-path: inset(-0.25em 100% -0.25em -0.1em);
+  }
+  to {
+    clip-path: inset(-0.25em -0.1em -0.25em -0.1em);
+  }
+}
+
+/* The typewriter's caret on the phrasebook card — only while a line types. */
+.type-caret::after {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  margin-left: 2px;
+  vertical-align: -0.12em;
+  background: var(--margin-red);
+  animation: caret-blink 640ms steps(1, end) infinite;
+}
+
+@keyframes caret-blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+/* The red pen's circle around a word and its tick in the margin: both wait
+ * for the paragraph's highlighter (`.hl-draw`), then draw in one stroke. */
+.pen-circle-inline path,
+.story-tick path {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+}
+
+.hl-draw .pen-circle-inline path {
+  animation: pen-draw 520ms ease-out 520ms forwards;
+}
+
+.hl-draw .story-tick path {
+  animation: pen-draw 340ms ease-out 140ms forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ink-wipe,
+  .type-caret::after,
+  .hl-draw .pen-circle-inline path,
+  .hl-draw .story-tick path {
+    animation: none;
+  }
+  .pen-circle-inline path,
+  .story-tick path {
+    stroke-dashoffset: 0;
+  }
+}
