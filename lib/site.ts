@@ -1,9 +1,11 @@
 /**
  * Site-wide constants that are not SEO metadata (those live in lib/seo.ts).
  *
- * APP_STORE_URL: the app's App Store page. `null` until Mustafa shares the
- * real link — the badge then renders without a link rather than pointing at
- * a guessed URL. One-line change when it arrives:
- *   export const APP_STORE_URL: string | null = "https://apps.apple.com/app/id…";
+ * APP_STORE_URL: the app's App Store page (id6797324228, live 2026-09-19).
+ * The storefront-less URL lets Apple route each visitor to their own store;
+ * while the app is only released in Türkiye, visitors elsewhere see Apple's
+ * "not available in your country" page — the TR storefront form would be
+ * `https://apps.apple.com/tr/app/id6797324228`. Set to `null` to render the
+ * badge without a link again.
  */
-export const APP_STORE_URL: string | null = null;
+export const APP_STORE_URL: string | null = "https://apps.apple.com/app/id6797324228";
